@@ -1,3 +1,3 @@
 \begin{equation}
-\mathscr{J}
+\mathcal{J}
 \end{equation}
