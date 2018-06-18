@@ -10,4 +10,5 @@ n! = n(n-1)!
 \end{equation}
 
 ```py
+def
 ```
