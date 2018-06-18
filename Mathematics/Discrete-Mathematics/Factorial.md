@@ -8,3 +8,6 @@ The factorial can be recursively defined
 \begin{equation}
 n! = n(n-1)!
 \end{equation}
+
+```py
+```
