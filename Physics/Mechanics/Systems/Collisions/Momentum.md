@@ -1,3 +1,5 @@
+The **momentum** of an object is its mass multiplied by its velocity.
+
 \begin{equation}
 \vec{p} = m\vec{v}
 \end{equation}
