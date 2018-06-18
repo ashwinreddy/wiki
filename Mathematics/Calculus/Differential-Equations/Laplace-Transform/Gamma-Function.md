@@ -1,4 +1,4 @@
-The Gamma function is an extension of [factorials](../../../Discrete Mathematics/Factorial)
+The Gamma function is the continuous extension of [factorials](../../../Discrete Mathematics/Factorial)
 
 \begin{equation}
 \Gamma(z) = \int\limits_0^\infty{x^{z-1}e^{-x}\mathrm{d}x}
