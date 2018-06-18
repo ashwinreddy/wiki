@@ -1,3 +1,5 @@
 \begin{equation}
-\mathcal{J}
+\mathcal{J} = \begin{vmatrix}
+\partial_{x_1}f_1
+\end{vmatrix}
 \end{equation}
