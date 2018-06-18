@@ -1,7 +1,7 @@
 For $n \in \mathbb{Z}$,
 
 \begin{equation}
-n! = \prod_{j=1}^n{j}.
+n! = \prod_{j=1}^n{j}
 \end{equation}
 
 The factorial can be recursively defined
