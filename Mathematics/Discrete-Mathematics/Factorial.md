@@ -1,3 +1,5 @@
+For $n \in \mathbb{Z}$
+
 \begin{equation}
 n! = \prod_{j=1}^n{j}
 \end{equation}
