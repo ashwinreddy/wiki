@@ -1,1 +1,1 @@
-Has microbes to digest plants. Starts large intestine.
+Has microbes to digest plants. Starts [large intestine](large intestine).
