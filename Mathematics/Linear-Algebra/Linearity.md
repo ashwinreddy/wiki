@@ -1,4 +1,4 @@
 \begin{equation}
 f(x+y) = f(x) + f(y) \\\
-f(cx) = c\, f(x)
+f(cx) = c\cdot f(x)
 \end{equation}
