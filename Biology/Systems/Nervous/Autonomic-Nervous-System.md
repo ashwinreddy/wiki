@@ -1,0 +1,1 @@
+The **autonomic nervous system**, or involuntary nervous system, consists of sympathetic (fight-or-flight) and parasympathetic (rest-and-digest or feed-and-breed).

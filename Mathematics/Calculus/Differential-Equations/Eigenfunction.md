@@ -1,0 +1,14 @@
+The **eigenfunction** of a linear operator $D$ follows the property that
+\begin{equation}
+D \, f = \lambda \, f
+\end{equation}
+
+#### Eigenfunction of Derivative Operator
+
+Treat the problem like a separable differential equation
+
+\begin{gather}
+\frac{\mathrm{d}f}{\mathrm{d}x} = \lambda \, f \\\
+\frac{\mathrm{d}f}{f} = \lambda\, \mathrm{d}x \\\
+\ln f = \lambda x \implies f = e^{\lambda x}
+\end{gather}

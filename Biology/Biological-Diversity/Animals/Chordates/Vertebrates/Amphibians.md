@@ -1,0 +1,1 @@
+Amphibians: legs and lungs. Still very dependent on lots of water: lay eggs in water and breathe thru skin – need moist surface.

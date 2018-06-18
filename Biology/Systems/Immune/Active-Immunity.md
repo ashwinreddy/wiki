@@ -1,0 +1,1 @@
+In **active immunity**, the body produces [antibodies](antibodies).

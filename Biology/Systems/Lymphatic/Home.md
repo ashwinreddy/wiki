@@ -1,0 +1,1 @@
+The **lymphatic system** has 2 functions: return fluid to the circulatory system, and fight infection. Consists of adenoids, tonsils, lymph nodes, lymph vessels, appendix, and spleen.

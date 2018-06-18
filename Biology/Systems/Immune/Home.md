@@ -1,0 +1,1 @@
+The **immune system** has an [innate part](innate immunity) and an [adaptive part](adaptive immunity)

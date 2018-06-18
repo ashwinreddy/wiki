@@ -1,0 +1,2 @@
+
+The large intestine mainly reclaims water from digested food and compacts feces, which go to the rectum and anus.

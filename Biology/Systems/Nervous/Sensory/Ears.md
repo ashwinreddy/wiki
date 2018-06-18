@@ -1,0 +1,2 @@
+Human ear: outer ear (pinna), eardrum, three bones (hammer, anvil, stirrup), oval window into inner ear. Inner ear-fluid-filled channels in bones of the skull. Cochlea is one of the channels, hearing organ is the Organ of Corti. Sound vibrations in air are converted to vibrations in fluid, then to signals to the auditory nerve.
+Semi-circular canals, utricle, and saccule are involved in balance.

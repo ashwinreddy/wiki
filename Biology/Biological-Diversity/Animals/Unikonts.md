@@ -1,0 +1,1 @@
+The group of **unikonts** includes amoebozoans, which are protists, and a clade of animals and fungi. The related hypothesis states that animal and fungi came from divergent lines of unikonts.

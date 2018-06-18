@@ -1,0 +1,3 @@
+**Alternation of Generations** is a pattern of reproduction common among plants and invertebrates.
+
+The diploid form is a sporophyte and the haploid form is a gametophyte. They look pretty much the same and are both multicellular. The sporophyte undergoes meiosis to create spores, which by mitosis turn into gametophytes. When a male and female gametophye combine their gametes, the gametes fuse to create a zygote that turns into a sporophyte.

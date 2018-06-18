@@ -1,0 +1,1 @@
+**Emphysema** is condition where the [alveoli](alveoli) are damaged and/or the [lungs](lungs) lose their elasticity so they cannot deliver the necessary amount of oxygen.

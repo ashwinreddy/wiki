@@ -1,0 +1,1 @@
+Gastric juice consists of mucus, enzymes, and strong acid. It opens up cells, denatures macromolecules, and digests proteins in the stomach.

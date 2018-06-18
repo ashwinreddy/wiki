@@ -1,0 +1,1 @@
+A **complex number** is one of the form $a+b\iota$, where $\iota$ is the [imaginary number](Imaginary Number)

@@ -1,0 +1,1 @@
+The **central nervous system** consists of brain and spinal cord.

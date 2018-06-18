@@ -1,0 +1,6 @@
+hibernation
+
+torpor
+
+
+estivation

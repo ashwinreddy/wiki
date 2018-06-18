@@ -1,0 +1,1 @@
+Has microbes to digest plants. Starts large intestine.

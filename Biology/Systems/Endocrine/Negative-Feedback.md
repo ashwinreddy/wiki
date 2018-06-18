@@ -1,0 +1,1 @@
+When the production of a hormone tends to limit the production of a hormone, moving towards equilibrium.

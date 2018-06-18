@@ -1,0 +1,1 @@
+Algae are autotrophs. Many algae are multicellular. they eventually turned into plants

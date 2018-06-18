@@ -1,0 +1,1 @@
+Protozoans are heterotrophs, and they eat other protists and bacteria.

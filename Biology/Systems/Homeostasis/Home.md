@@ -1,0 +1,1 @@
+Homeostasis depends on negative feedback.

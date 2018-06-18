@@ -1,0 +1,1 @@
+**Hyperventilation** is when a person takes very short breaths often to the point that they aren't getting enough carbon dioxide. The simple treatment is to have them breathe into a paper bag to force them to rebreathe the carbon dioxide they are releasing.

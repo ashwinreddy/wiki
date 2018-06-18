@@ -1,0 +1,1 @@
+In **single circulation** as with fish with two-chambered hearts, the heart pumps the blood once as it travels in a single circuit.

@@ -1,0 +1,1 @@
+Sensation is the awareness of stimuli.

@@ -1,0 +1,1 @@
+Passive immunity is short-term immunity based on antibodies from another animal. For example, breastmilk contains some antibodies. Passive immunity is only temporary.

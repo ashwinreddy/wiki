@@ -1,0 +1,1 @@
+Cnidarians have stinging cells called cnidocytes, which are stinging cells. They have a gastrovascular cavity, a body opening, and radial symmetry. They have an incomplete digestive system, so they regurgitate their food. They have thin layers of tissue.

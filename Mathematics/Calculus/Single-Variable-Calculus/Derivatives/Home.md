@@ -1,0 +1,5 @@
+The **derivative** is a linear operator that gives the local slope of a function.
+
+\begin{equation}
+\frac{\mathrm{d}f}{\mathrm{d}x} = \lim_{h\to 0}\frac{f(x+h)-f(x)}{h}
+\end{equation}

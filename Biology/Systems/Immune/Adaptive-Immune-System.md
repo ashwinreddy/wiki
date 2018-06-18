@@ -1,0 +1,1 @@
+Active immunity remembers specific pathogens and creates a targeted defense. The first time the body sees an antigen, the immune system is slow to respond. The second time, the response is much quicker and stronger.

@@ -1,0 +1,1 @@
+Little sacs at the end of bronchioles. Take oxygen from the air breathed in, and releases carbon dioxide. Connected to capillaries.

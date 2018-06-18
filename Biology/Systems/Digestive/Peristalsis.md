@@ -1,0 +1,1 @@
+Alternative waves of contraction and relaxation by smooth muscles to move a bolus in the esophagus down the alimentary canal.
