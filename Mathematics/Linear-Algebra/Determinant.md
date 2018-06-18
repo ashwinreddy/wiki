@@ -7,7 +7,7 @@ c & d
 \end{vmatrix} = ad-bc
 \end{equation}
 
-### Volume of a Parallelepiped
+### Volume of a Parallelepiped (Scalar Triple Product)
 
 \begin{equation}
 \vec{a}\cdot(\vec{b}\times\vec{c}) = \begin{vmatrix}
