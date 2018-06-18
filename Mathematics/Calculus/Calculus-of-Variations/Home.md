@@ -1,5 +1,5 @@
 Euler-Lagrange Equation:
 
 \begin{equation}
-\mathcal{L}
+\mathscr{L}
 \end{equation}
