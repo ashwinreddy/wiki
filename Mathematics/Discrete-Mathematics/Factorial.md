@@ -9,6 +9,9 @@ The factorial can be recursively defined
 n! = n(n-1)!
 \end{equation}
 
+\\[
+x
+\\]
 
 ### Python Code
 ```py
