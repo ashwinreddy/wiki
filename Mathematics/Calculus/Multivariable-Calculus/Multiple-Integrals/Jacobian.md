@@ -1,3 +1,3 @@
 \begin{equation}
-\vec{\mathcal{J}}
+\bf{\mathcal{J}}
 \end{equation}
