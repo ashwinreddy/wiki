@@ -1,4 +1,4 @@
-The **eigenfunction** of a linear operator $D$ follows the property that
+The **eigenfunction** of a [linear operator](../../Linear Algebra/Linearity) $D$ follows the property that
 \begin{equation}
 D \, f = \lambda \, f
 \end{equation}
