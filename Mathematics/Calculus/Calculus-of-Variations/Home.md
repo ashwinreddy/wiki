@@ -1,5 +1,5 @@
 Euler-Lagrange Equation:
 
 \begin{equation}
-L
+\frac{\partial L}{\partial x}
 \end{equation}
