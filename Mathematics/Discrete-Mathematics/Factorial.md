@@ -9,9 +9,6 @@ The factorial can be recursively defined
 n! = n(n-1)!
 \end{equation}
 
-$$
-\sop{4}
-$$
 
 ### Python Code
 ```py
