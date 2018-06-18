@@ -1,5 +1,3 @@
-$L(q, \dot{q}, t)$
-
 \begin{equation}
-\frac{\partial L}{\partial q} - \frac{\mathrm{d}}{\mathrm{d}t}\frac{\partial L}{\partial \dot{q}} = 0
+\frac{\partial L(q, \dot{q}, t)}{\partial q} - \frac{\mathrm{d}}{\mathrm{d}t}\frac{\partial L(q, \dot{q}, t)}{\partial \dot{q}} = 0
 \end{equation}
