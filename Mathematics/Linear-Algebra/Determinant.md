@@ -16,3 +16,7 @@ b_1 & b_2 & b_3 \\\
 c_1 & c_2 & c_3
 \end{vmatrix}
 \end{equation}
+
+##### References & Resources
+
+[Explanatory video](https://youtu.be/Ip3X9LOh2dk)
