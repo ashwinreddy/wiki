@@ -1,3 +1,5 @@
+### Notation
+
 As a useful mnemonic device, imagine that
 
 \begin{equation}
