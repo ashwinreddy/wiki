@@ -1,4 +1,4 @@
-A **resistor** is a circuit element that uses up energy.
+A **resistor** is a circuit element that dissipates energy.
 
 \begin{equation}
 R = \frac{\rho L}{A} = \frac{V}{i}
