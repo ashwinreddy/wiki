@@ -6,5 +6,5 @@
 
 Gauss's Law is the integral form of Maxwell's First Equation, which is
 \begin{equation}
-\vec\nabla\cdot\vec{E}
+\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0}
 \end{equation}
