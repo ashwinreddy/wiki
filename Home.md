@@ -1,1 +1,1 @@
-<<GlobalTOC()>>
+[[_TOC_]]
