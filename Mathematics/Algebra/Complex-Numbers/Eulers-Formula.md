@@ -1,3 +1,5 @@
+Euler's formula says that
+
 \begin{equation}
 e^{\iota{x}} = \cos{x}+\iota\sin{x}
 \end{equation}
