@@ -1,4 +1,4 @@
-For a manifold $M$,
+**Stoke's theorem** says that for a manifold $M$,
 
 \begin{equation}
 \int_{\partial M}f = \int_M{\mathrm{d}f}
