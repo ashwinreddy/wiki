@@ -4,7 +4,7 @@
 \oint{\vec{E}\cdot\mathrm{d}\vec{A}} = \frac{q_{\text{enclosed}}}{\kappa\epsilon_0}.
 \end{equation}
 
-### Maxwell's First Equation
+### Differential Form
 
 Gauss's Law is the integral form of Maxwell's First Equation, which is
 \begin{equation}
