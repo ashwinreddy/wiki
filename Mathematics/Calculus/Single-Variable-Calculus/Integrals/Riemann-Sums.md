@@ -3,3 +3,8 @@ A formal definition of the **Riemann integral** follows:
 \int\limits_a^b{f(x)\,\mathrm{d}x} = \lim_{n\to\infty}\frac{b-a}{n}\sum_{i=1}^n{f \left(a+\frac{b-a}{n}i\right)}
 \end{equation}
 
+### Average Value
+
+\begin{equation}
+\text{average}
+\end{equation}
