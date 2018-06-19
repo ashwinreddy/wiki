@@ -1,4 +1,4 @@
-For a manifold $M$
+For a manifold $M$,
 
 \begin{equation}
 \int_{\partial M}f = \int_M{\mathrm{d}f}
