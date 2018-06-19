@@ -1,7 +1,7 @@
 The **Taylor series** represents smooth functions as polynomials.
 
 \begin{equation}
-f(x) = \sum_{n=0}^\infty{\frac{f^{(n)}(a)}{n!}(x-a)^n}
+f(x) = \sum_{n=0}^\infty{\frac{D^n f(a)}{n!}(x-a)^n}
 \end{equation}
 
 ### Maclaurin Series
