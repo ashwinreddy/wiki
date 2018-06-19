@@ -1,4 +1,4 @@
-Inductors resist changes in currents.
+**Inductors** resist changes in [current](current).
 
 \begin{equation}
 V = Li = L\ddot{q}
