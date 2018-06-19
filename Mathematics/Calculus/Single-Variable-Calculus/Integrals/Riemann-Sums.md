@@ -5,8 +5,7 @@ A formal definition of the **Riemann integral** follows. Fundamentally, the Riem
 \int\limits_a^b{f(x)\,\mathrm{d}x} \approx \lim_{\Delta x \to 0}\sum_i{f(x_i)\Delta x}.
 \end{equation}
 
-
-First, let $\Delta x = \frac{b-a}{n}$
+The more formal definition uses $n$ for a number of approximating rectangles that approaches infinity rather than a $\Delta x$ that approaches 0. For the formula below, let $\Delta x = \frac{b-a}{n}$.
 
 \begin{equation}
 \int\limits_a^b{f(x)\,\mathrm{d}x} = \lim_{n\to\infty}\sum_{j=1}^n{f \left(a+j\Delta x\right)\Delta x}
