@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 Riemann integrals are basically a specification with concrete implementation details of the [integral](./Home).
 
 A formal definition of the **Riemann integral** follows. Fundamentally, the Riemann sum tries to compute
