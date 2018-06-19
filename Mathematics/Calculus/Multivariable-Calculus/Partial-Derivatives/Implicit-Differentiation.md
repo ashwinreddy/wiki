@@ -4,6 +4,6 @@ If $F(x,y)=k$,
 \frac{\mathrm{d}y}{\mathrm{d}x} = -\frac{\partial_x F}{\partial_y F}
 \end{equation}
 
-### References
+##### References
 
 [Wikipedia article](https://en.wikipedia.org/wiki/Implicit_function#Implicit_differentiation)
