@@ -9,3 +9,7 @@ The **integral** is an operator that gives the area under a curve, at least unde
 \begin{equation}
 \int\limits_b^a{f(x)\,\mathrm{d}x} = -\int\limits_a^b{f(x)\,\mathrm{d}x}
 \end{equation}
+
+\begin{equation}
+\int\limits_a^b{f(x)\,\mathrm{d}x} = 0
+\end{equation}
