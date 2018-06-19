@@ -6,4 +6,4 @@ If $F(x,y)=k$,
 
 ### References
 
-https://en.wikipedia.org/wiki/Implicit_function#Implicit_differentiation
+[Wikipedia article](https://en.wikipedia.org/wiki/Implicit_function#Implicit_differentiation)
