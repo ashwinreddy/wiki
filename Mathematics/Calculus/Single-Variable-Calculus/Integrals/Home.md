@@ -6,4 +6,6 @@ The **integral** is an operator that gives the area under a curve, at least unde
 
 ### Properties
 
-- $\int\limits_a^b{f(x)\mathrm{d}x}$
+\begin{equation}
+\int\limits_a^b{f(x)\mathrm{d}x}$
+\end{equation}
