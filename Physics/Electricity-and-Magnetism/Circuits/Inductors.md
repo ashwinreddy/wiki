@@ -1,4 +1,4 @@
-**Inductors** resist changes in [current](../current).
+**Inductors** resist changes in [current](../electricity/current).
 
 \begin{equation}
 V = Li = L\ddot{q}
