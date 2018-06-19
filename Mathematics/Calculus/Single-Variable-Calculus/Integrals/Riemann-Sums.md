@@ -2,7 +2,7 @@ Riemann integrals are basically a specification with concrete implementation det
 
 A formal definition of the **Riemann integral** follows. Fundamentally, the Riemann sum tries to compute
 \begin{equation}
-\int\limits_a^b{f(x)\,\mathrm{d}x} \approx \lim_{\Delta x \to 0}\sum{f(x)\Delta x}
+\int\limits_a^b{f(x)\,\mathrm{d}x} \approx \lim_{\Delta x \to 0}\sum{f(x_i)\Delta x}
 \end{equation}
 
 
