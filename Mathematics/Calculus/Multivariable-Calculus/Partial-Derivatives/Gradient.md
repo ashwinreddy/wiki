@@ -1,3 +1,3 @@
 \begin{equation}
-\vec\nabla = \langle \frac{\partial}{\partial x} \rangle
+\vec\nabla = \left\langle \frac{\partial}{\partial x} \right\rangle
 \end{equation}
