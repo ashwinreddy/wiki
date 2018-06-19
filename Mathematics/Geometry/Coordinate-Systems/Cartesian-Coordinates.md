@@ -1,0 +1,1 @@
+The **Cartesian coordinate system** tends to be the default coordinate system chosen because it's quite intuitive. 
