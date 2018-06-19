@@ -2,7 +2,7 @@ Riemann integrals are basically a specification with concrete implementation det
 
 A formal definition of the **Riemann integral** follows:
 \begin{equation}
-\int\limits_a^b{f(x)\,\mathrm{d}x} = \lim_{n\to\infty}\frac{b-a}{n}\sum_{i=1}^n{f \left(a+\frac{b-a}{n}i\right)}
+\int\limits_a^b{f(x)\,\mathrm{d}x} = \lim_{n\to\infty}\frac{b-a}{n}\sum_{j=1}^n{f \left(a+\frac{b-a}{n}j\right)}
 \end{equation}
 
 ### Average Value
