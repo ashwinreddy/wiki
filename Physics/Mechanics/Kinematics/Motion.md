@@ -7,7 +7,7 @@ Cases:
 - acceleration and velocity point in roughly opposite directions, so there is linear and rotational motion but the particle slows down as well
 
 ### Uniform Acceleration Motion
-Let $\vec{x}$ be the position vector. For the single dimensional case, just drop the vector arrow. 
+Let $\vec{x}$ be the position vector. For the single dimensional case, just drop the vector sign. 
 
 \begin{gather}
 \vec{x} = \vec{x}_0 + \vec{v}_0t + \frac{1}{2}\vec{a}t^2 \\\
