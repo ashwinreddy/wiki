@@ -1,4 +1,4 @@
-### Introduction
+# Introduction
 
 Riemann integrals are basically a specification with concrete implementation details of the [integral](./Home).
 
