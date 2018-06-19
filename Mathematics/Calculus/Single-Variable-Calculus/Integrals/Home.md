@@ -7,5 +7,5 @@ The **integral** is an operator that gives the area under a curve, at least unde
 ### Properties
 
 \begin{equation}
-\int\limits_b^a{f(x)\mathrm{d}x} = -\int\limits_a^b{f(x)\mathrm{d}x}
+\int\limits_b^a{f(x)\,\mathrm{d}x} = -\int\limits_a^b{f(x)\,\mathrm{d}x}
 \end{equation}
