@@ -1,6 +1,12 @@
 Riemann integrals are basically a specification with concrete implementation details of the [integral](./Home).
 
-A formal definition of the **Riemann integral** follows. First, let $\Delta x = \frac{b-a}{n}$
+A formal definition of the **Riemann integral** follows. Fundamentally, the Riemann sum tries to compute
+\begin{equation}
+\int\limits_a^b{f(x)\,\mathrm{d}x} \approx \sum{f(x)\Delta x}
+\end{equation}
+
+
+First, let $\Delta x = \frac{b-a}{n}$
 
 \begin{equation}
 \int\limits_a^b{f(x)\,\mathrm{d}x} = \lim_{n\to\infty}\sum_{j=1}^n{f \left(a+j\Delta x\right)\Delta x}
