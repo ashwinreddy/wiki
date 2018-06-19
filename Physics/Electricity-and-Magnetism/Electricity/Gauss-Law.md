@@ -10,4 +10,4 @@ Gauss's Law is the integral form of Maxwell's First Equation, which is written i
 \begin{equation}
 \vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0},
 \end{equation}
-where $\rho$ is the charge density in space.
+where $\rho$ is the charge density in space. Intuitively, this says that electric fields radiate from or towards sources of charge.
