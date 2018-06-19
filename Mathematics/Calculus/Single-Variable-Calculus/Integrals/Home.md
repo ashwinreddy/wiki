@@ -7,5 +7,5 @@ A formal definition of the Riemann integral follows:
 
 
 \begin{equation}
-\int\limits_a^b{f(x)\,\mathrm{d}g(x)} = \int\limits_a^b{\left[f(x)g'(x)\right]\,\mathrm{d}x}
+\int\limits_a^b{\left[f(x)\right]\,\mathrm{d}g(x)} = \int\limits_a^b{\left[f(x)g'(x)\right]\,\mathrm{d}x}
 \end{equation}
