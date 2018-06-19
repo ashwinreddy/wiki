@@ -1,0 +1,1 @@
+Inductors resist changes in currents.
