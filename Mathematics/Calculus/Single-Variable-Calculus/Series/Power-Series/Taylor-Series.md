@@ -6,7 +6,7 @@ f(x) = \sum_{n=0}^\infty{\frac{D^n f(a)}{n!}(x-a)^n}
 
 ### Maclaurin Series
 \begin{equation}
-f(x) = \sum_{n=0}^\infty{\frac{f^{(n)}(0)}{n!}x^n}
+f(x) = \sum_{n=0}^\infty{\frac{D^n f(0)}{n!}x^n}
 \end{equation}
 
 ### Examples
