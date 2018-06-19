@@ -6,5 +6,5 @@ A formal definition of the **Riemann integral** follows:
 ### Average Value
 
 \begin{equation}
-\text{average on } [a,b] = \frac{\int\limits_a^b{f(x)\,\mathrm{d}x}}{b-a}
+\text{average on } [a,b] = \frac{1}{b-a}\int\limits_a^b{f(x)\,\mathrm{d}x}}
 \end{equation}
