@@ -6,5 +6,5 @@ A formal definition of the **Riemann integral** follows:
 ### Average Value
 
 \begin{equation}
-\text{average}
+\text{average on } [a,b]
 \end{equation}
