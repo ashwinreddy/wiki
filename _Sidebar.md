@@ -1,1 +1,2 @@
-<<GlobalTOC("Table of Contents")>>
+####Some Title
+[[_TOC_]]
