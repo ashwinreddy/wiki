@@ -1,3 +1,7 @@
+# Introduction
+
+The **Jacobian** is either the matrix or the determinant of the matrix of all possible first derivatives of a function $\mathbb{R}^n \to \mathbb{R}^M$
+
 \begin{equation}
 \mathcal{J} = \begin{vmatrix}
 \partial_{x_1}f_1 & \dots & \partial_{x_n}f_1 \\\
