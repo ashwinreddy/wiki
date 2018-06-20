@@ -11,3 +11,7 @@ The **Jacobian** is either the matrix or the determinant of the matrix of all po
 \end{equation}
 
 ## Common Examples
+
+\begin{equation}
+\diff{x}\,\diff{y} r\diff{r}\diff{\theta}
+\end{equation}
