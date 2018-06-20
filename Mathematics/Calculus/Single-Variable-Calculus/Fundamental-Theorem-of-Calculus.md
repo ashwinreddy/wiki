@@ -1,3 +1,5 @@
+# Introduction
+
 For a function $f \in C^1$,
 
 \begin{equation}
