@@ -44,7 +44,7 @@ The intuition behind the formula for average value using integrals becomes much 
 \end{gather}
 
 \begin{equation}
-\mathcal{LENGTH}
+\mathscr{LENGTH}
 \end{equation}
 
 # References
