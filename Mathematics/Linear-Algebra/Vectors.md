@@ -21,6 +21,12 @@ A vector belongs to the space $\mathbb{R}^n$.
 |\vec{a}| = \sqrt{\vec{a}\cdot\vec{a}}
 \end{equation}
 
+## Normalize
+
+\begin{equation}
+\hat{a} = \frac{\vec{a}}{|\vec{a}|}
+\end{equation}
+
 ## Cross Product
 
 If both vectors belong to $\mathbb{R}^3$,
