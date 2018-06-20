@@ -19,7 +19,7 @@
 \vec{a} = v' \vec{T} + \kappa v^2 \vec{N}
 \end{equation}
 
-This equation informs us that motion has two components: a linear and radial component. The linear component is responsible for tangent lines that we're used to thinking about, but the radial component is slightly more complex. Recall that $\kappa \\~ \frac{1}{r} $ The acceleration in the radial component seems to be
+This equation informs us that motion has two components: a linear and radial component. The linear component is responsible for tangent lines that we're used to thinking about, but the radial component is slightly more complex. Recall that $\kappa = \frac{1}{r} $ The acceleration in the radial component seems to be
 
 \begin{equation}
 a_r = \frac{v^2}{r}
