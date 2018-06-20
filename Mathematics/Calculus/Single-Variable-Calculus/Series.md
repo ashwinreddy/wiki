@@ -27,3 +27,9 @@ f(x) = \sum_{n=0}^\infty{\frac{\mathcal{D}^n f(0)}{n!}x^n}
 \begin{equation}
 e^x = \sum_{n=0}^\infty{\frac{x^n}{n!}} \qquad x \in \mathbb{C}
 \end{equation}
+
+## Fourier Series
+
+\begin{equation}
+f(x) = \sum_{n=0}^\infty{a_n\sin(nx)+b_n\cos(nx)}
+\end{equation}
