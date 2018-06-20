@@ -21,5 +21,9 @@ Autonomous differential equations are strictly a function of the dependent varia
 
 ## First-Order Linear DEs
 \begin{equation}
-\deriv{y}{t}
+\deriv{y}{t} + p(t)y = g(t)
 \end{equation}
+
+# References
+
+[Paul's Online Math Notes](http://tutorial.math.lamar.edu/Classes/DE/Linear.aspx)
