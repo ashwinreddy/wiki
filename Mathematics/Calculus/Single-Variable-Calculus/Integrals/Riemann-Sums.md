@@ -25,7 +25,7 @@ The Stieltjes integral generalizes the Riemann sum even more. Namely, it adds on
 This statement seems to imply that
 
 \begin{equation}
-\mathrm{d}\alpha(x) = \alpha'(x)\, \mathrm{d}x
+\mathrm{d}\alpha(x) = \alpha\prime(x)\, \mathrm{d}x
 \end{equation}
 
 From the [chain rule](../derivatives/chain rule), however, we know this is true.
