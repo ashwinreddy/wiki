@@ -1,1 +1,0 @@
-A **vector function** maps a real number to a vector.
