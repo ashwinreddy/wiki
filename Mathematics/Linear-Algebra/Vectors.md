@@ -14,5 +14,7 @@ A vector belongs to the space $\mathbb{R}^n$.
 
 If both vectors belong to $\mathbb{R}^3$,
 \begin{equation}
-\vec{a}\times\vec{b}
+\vec{a}\times\vec{b} = \begin{vmatrix}
+\mathbf{\hat{i & j & k}} \\\
+\end{vmatrix}
 \end{equation}
