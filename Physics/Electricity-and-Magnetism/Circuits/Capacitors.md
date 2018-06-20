@@ -1,3 +1,6 @@
+# Introduction
+A **capacitor** is a device that can store charge.
+
 \begin{equation}
 q = C V
 \end{equation}
