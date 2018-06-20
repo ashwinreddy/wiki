@@ -14,5 +14,5 @@ There are a couple basic, defining properties of integrals.
 \end{equation}
 
 \begin{equation}
-\defint{a}{b}{f}{x} = 0
+\defint{a}{a}{f(x)}{x} = 0
 \end{equation}
