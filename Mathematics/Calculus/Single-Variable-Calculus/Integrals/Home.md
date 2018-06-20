@@ -14,5 +14,5 @@ There are a couple basic, defining properties of integrals.
 \end{equation}
 
 \begin{equation}
-\int\limits_a^b{f(x)\,\mathrm{d}x} = 0
+\defint{a}{b}{f}{x} = 0
 \end{equation}
