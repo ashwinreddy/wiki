@@ -6,7 +6,6 @@
 \end{equation}
 
 
-
 ## Notation
 
 As a useful mnemonic device, imagine that
