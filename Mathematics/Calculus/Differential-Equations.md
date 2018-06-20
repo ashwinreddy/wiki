@@ -45,7 +45,7 @@ Equation \eqref{eq:folde} is the general form of a first-order linear differenti
 \end{equation}
 
 \begin{equation}
-y(x) = \frac{\integral{\exp\left(P(x)\right)q(x)}{x}}{\exp\left(P(x)\right)}
+y(x) = \frac{\integral{\exp\left(P(x)\right)}{Q(x)}}{\exp\left(P(x)\right)}
 \end{equation}
 
 # References
