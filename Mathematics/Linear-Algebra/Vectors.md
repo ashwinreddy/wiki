@@ -43,3 +43,5 @@ a_1 & a_2 & a_3 \\\
 b_1 & b_2 & b_3
 \end{vmatrix}
 \end{equation}
+
+Technically speaking, the cross product returns not a vector but a pseudovector.
