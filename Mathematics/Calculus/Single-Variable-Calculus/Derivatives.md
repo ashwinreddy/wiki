@@ -48,6 +48,8 @@ The product rule determines how to compute the derivative of a product between f
 \begin{equation}
 \end{equation}
 
+## Implicit Differentiation
+
 If $F(x,y)=k$,
 
 \begin{equation}
