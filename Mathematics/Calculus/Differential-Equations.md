@@ -45,7 +45,7 @@ Equation \eqref{eq:folde} is the general form of a first-order linear differenti
 \end{equation}
 
 \begin{gather}
-\mu(x) = \exp\left(P(x)) \\\
+\mu(x) = \exp\left(P(x)\right) \\\
 y(x) = \frac{\integral{\mu(x)q(x)}{x}}{\mu(x)}
 \end{gather}
 
