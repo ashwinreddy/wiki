@@ -12,4 +12,4 @@ A vector belongs to the space $\mathbb{R}^n$.
 
 ## Cross Product
 
-If both vectors belong to $\mathbb{R}^3#
+If both vectors belong to $\mathbb{R}^3$
