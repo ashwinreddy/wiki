@@ -1,1 +1,0 @@
-Fluid filled space between digestive tract and outer body. Shock-absorbing and they can grow without a body wall.

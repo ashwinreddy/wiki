@@ -1,1 +1,0 @@
-When produced in nature, antibiotics are defense mechanisms to kill other micro-organisms

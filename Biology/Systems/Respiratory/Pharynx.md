@@ -1,1 +1,0 @@
-Pharynx has openings to esophagus and trachea.

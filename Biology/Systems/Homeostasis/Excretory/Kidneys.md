@@ -1,1 +1,0 @@
-The **kidneys** create filtrate from [blood](../../Cardiovascular/Blood). Filtrate consists of water, [urea](Nitrogenous Waste), glucose, and amino acids. From this filtrate, urine is created. The functional unit of the kidney is the [nephron](nephron)

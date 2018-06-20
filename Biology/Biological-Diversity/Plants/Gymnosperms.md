@@ -1,1 +1,0 @@
-**Gymnosperms** (Greek for naked seed) use pollen, which makes them less dependent on water. The gymnosperms include connifers and pines, whose cones are the reproductive structures of the [sporophyte](alternation of generations). The embryo then lives inside a seed with a wall and a food supply.  They are succeeded evolutionarily by [angiosperms](Angiosperms)

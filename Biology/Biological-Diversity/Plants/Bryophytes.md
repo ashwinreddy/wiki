@@ -1,1 +1,0 @@
-**Bryophytes** are mosses with rudimentary roots. Bryophytes spend most of their time in the gametophyte stage. They need water for the sperm to fuse with the egg.  They evolved into [ferns](ferns).

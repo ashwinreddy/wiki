@@ -1,1 +1,0 @@
-**Lymphocytes** are white blood cells that are found in the blood and in the [lymphatic system](./). Examples are [T Cells](T Cells) and [B Cells](B cells)

@@ -1,1 +1,0 @@
-**Natural Killer Cells** can kill infected cells. If they see that the cell is not producing MHC-1, it will insert an enzyme into the cell, causing apoptosis, programmed cell death.

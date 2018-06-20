@@ -1,1 +1,0 @@
-Vertebrates: skull and backbone, most have hinged jaws.

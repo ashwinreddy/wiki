@@ -1,1 +1,0 @@
-In an **open circulatory system**, there is no distinction between interstitial and blood fluids. There's also no "path" that the fluid takes as the blood just flows out among the cells. Insects have an open circulation system.

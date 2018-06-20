@@ -1,1 +1,0 @@
-The reflex arc takes in sensory reception as input and produces motor output through effector cells.

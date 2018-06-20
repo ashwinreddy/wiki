@@ -1,1 +1,0 @@
-Animals are multicellular eukaryotic heterotrophs. They lack cell walls and eat their food.

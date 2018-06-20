@@ -1,1 +1,0 @@
-**Surfactants** are secreted to keep [alveoli](alveoli) from closing in on themselves due to the surface tension of their moist surface.

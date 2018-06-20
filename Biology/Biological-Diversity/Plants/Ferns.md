@@ -1,1 +1,0 @@
-**Ferns**, also known as seedless vascular plants, evolved from [bryophytes](./Bryophytes) but they spend most of their time in the [sporophyte](alternation of generations) stage. They have better roots for transporting nutrients, staying rigid, and growing upwards. They evolved into [gymnosperms](gymnosperms)

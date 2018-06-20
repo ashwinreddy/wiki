@@ -1,1 +1,0 @@
-Sponges or porifera have no nerves or muscles. They are the first animals, similar to colonial protists.

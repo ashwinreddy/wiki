@@ -1,1 +1,0 @@
-Birds: endothermic, light for flight - hollow bones, high metabolism. Evolved from reptiles

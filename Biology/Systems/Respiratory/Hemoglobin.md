@@ -1,1 +1,0 @@
-Transports oxygen gas. Each molecule can carry four oxygen gas molecules because they have 4 iron molecules. It can also transport carbon dioxide and acts as a buffer.

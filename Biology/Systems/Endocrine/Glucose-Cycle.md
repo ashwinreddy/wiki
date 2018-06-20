@@ -1,3 +1,0 @@
-Insulin
-
-Glucagon

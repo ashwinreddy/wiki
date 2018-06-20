@@ -1,1 +1,0 @@
-Flexible sheet underneath the lungs. Allows for negative pressure breathing. When you inhale, the diaphragm contracts and moves down, sucking in air, inflating the lungs. When you exhale, the diaphragm relaxes, and air leaves the lungs.

@@ -1,1 +1,0 @@
-The coelom is a shock-asborbing body cavity. It allows for growth outside the body wall.

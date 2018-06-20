@@ -1,8 +1,0 @@
-- [Digestive](./Digestive/)
-- [Endocrine](./Endocrine/)
-- [Immune](./Immune/)
-- [Nervous](./Nervous/)
-- [Reproductive](./Reproductive)
-- [Respiratory](./Respiratory/)
-- [Cardiovascular](./Cardiovascular/)
-- [Homeostasis](./Homeostasis/)

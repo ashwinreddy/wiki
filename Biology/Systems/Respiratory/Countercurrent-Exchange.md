@@ -1,1 +1,0 @@
-Fish have to be efficient to absorb the oxygen in water. They use countercurrent exchange for this. As the blood flows from vein to capillary to artery, the water moving in the opposite direction will transfer its oxygen by partial pressure gradients.

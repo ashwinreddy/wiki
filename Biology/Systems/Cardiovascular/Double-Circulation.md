@@ -1,1 +1,0 @@
-In **double circulation**, the body has a pulmonary circuit and a systemic circuit. The pulmonary circuit replenishes oxygen in the lungs and the systemic circuit pumps the blood so that it can service the body's tissue.

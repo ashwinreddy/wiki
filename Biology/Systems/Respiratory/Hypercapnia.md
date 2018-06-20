@@ -1,1 +1,0 @@
-Too much carbon dioxide makes the blood acidic by turning into carbonic acid. [Hemoglobin](Hemoglobin) then becomes less effective.

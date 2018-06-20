@@ -1,1 +1,0 @@
-**Antidiuretic hormone** (or ADH) is a hormone that targets the kidney's collecting ducts to reabsorb water. Diuretics like alcohol inhibit ADH, which means that anyone who drinks them will lose too much water when they urinate, making them feel dehydrated.

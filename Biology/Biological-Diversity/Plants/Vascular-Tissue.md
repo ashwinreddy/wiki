@@ -1,1 +1,0 @@
-Most plants have vascular tissue to transport nutrients and water. Xylem form pipes and phloem distribute sugar. Nonvascular plants cannot be very tall. Growing upright and being taller gives vascular plants a competitive advantage.

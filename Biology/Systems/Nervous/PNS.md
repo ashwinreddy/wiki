@@ -1,1 +1,0 @@
-The **peripheral nervous system** has an [autonomic](Autonomic Nervous System) (involuntary) and somatic (voluntary) part.

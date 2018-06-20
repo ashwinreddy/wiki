@@ -1,5 +1,0 @@
-**Fungi** are [heterotrophs](Modes of Nutrition) that absorb their food. They excrete enzymes to break down macromolecules into monomers. Fungi can be used in cooking (yeast makes bread and beer). Fungi can produce antibiotics to treat bacterial diseases and they can be used as biofuels. They are decomposers, so they keep the nutrient cycle rolling.
-
-Fungi have hypha, threadlike filaments, which make up mycelium. The cell walls of fungi are made of chitin.
-
-Fungi can reproduce both sexually and asexually. When fungi reproduce sexually, two hyphae release signaling molecules and grow towards each other. Their cytoplasms will fuse, but not the nuclei. This is called the heterokaryotic stage, and the nuclei can fuse at any point of time later on. Once they do, the diploid zygote will quickly produce haploid spores. These spores can land in a new area and replicate (i.e. asexually reproduce) to start a colony.

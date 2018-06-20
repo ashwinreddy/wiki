@@ -1,1 +1,0 @@
-An artificial kidney that filters blood for patients using a selectively permeable membrane.

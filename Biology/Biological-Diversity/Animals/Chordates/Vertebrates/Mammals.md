@@ -1,1 +1,0 @@
-Mammals: monotremes, marsupials, and placentals. Hair and mammary glands.
