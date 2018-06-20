@@ -7,5 +7,5 @@ K = \sum_i\frac{1}{2}m_iv_i^2
 
 ## Gravitational Potential Energy
 \begin{equation}
-U_g = mgh
+U_g = mgy
 \end{equation}
