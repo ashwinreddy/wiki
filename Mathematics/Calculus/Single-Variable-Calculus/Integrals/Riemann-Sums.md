@@ -19,7 +19,7 @@ The more formal definition uses $n$ for a number of approximating rectangles tha
 
 The Stieltjes integral generalizes the Riemann sum even more. Namely, it adds on
 \begin{equation}
-\defint{a}{b}{f(x)}{\alpha(x)} = \defint{a}{b}{f(x)\alpha\prime(x)}{x}
+\integral{f(x)}{\alpha(x)} = \integral{f(x)\alpha\prime(x)}{x}
 \end{equation}
 
 This statement seems to imply that
