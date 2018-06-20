@@ -13,7 +13,7 @@ y(x) = G^{-1}(F(x)+C)
 \end{gather}
 
 ### Example: Eigenfunction of Derivative
-The **eigenfunction** of an operator $O$ follows the property that
+The **eigenfunction** of an operator $\mathcal{O}$ follows the property that
 
 \begin{equation}
 O \, f = \lambda \, f
