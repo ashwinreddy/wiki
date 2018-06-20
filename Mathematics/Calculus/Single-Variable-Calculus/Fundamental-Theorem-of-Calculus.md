@@ -1,5 +1,7 @@
 # Introduction
 
+The **fundamental theorem of calculus** connects [[derivatives]] and [[integrals]
+
 # Statements
 For a function $f \in C^1$,
 
