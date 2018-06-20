@@ -19,3 +19,5 @@ Autonomous differential equations are strictly a function of the dependent varia
 \frac{\mathrm{d}y}{\mathrm{d}x} = f(y)
 \end{equation}
 
+## First-Order Linear DEs
+
