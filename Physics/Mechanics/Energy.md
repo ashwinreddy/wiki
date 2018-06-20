@@ -4,3 +4,8 @@
 \begin{equation}
 K = \sum_i\frac{1}{2}m_iv_i^2
 \end{equation}
+
+## Gravitational Potential Energy
+\begin{equation}
+U_g = mgh
+\end{equation}
