@@ -1,5 +1,0 @@
-- producers
-- primary consumers
-- secondary consumers
-- tertiary consumers
-- quaternary consumers
