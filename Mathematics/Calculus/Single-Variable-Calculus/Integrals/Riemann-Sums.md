@@ -17,6 +17,11 @@ The more formal definition uses $n$ for a number of approximating rectangles tha
 
 ## Stieltjes Integral
 
+The Stieltjes integral generalizes the Riemann sum even more. Namely, it adds on
+\begin{equation}
+\int\limits_a^b{f(x)\,\mathrm{d}\alpha(x)}
+\end{equation}
+
 # Use Cases
 
 ## Average Value
