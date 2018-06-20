@@ -16,7 +16,7 @@ y(x) = G^{-1}(F(x)+C)
 The **eigenfunction** of an operator $\mathcal{O}$ follows the property that
 
 \begin{equation}
-O \, f = \lambda \, f
+\mathcal{O} \, f = \lambda \, f
 \end{equation}
 
 
