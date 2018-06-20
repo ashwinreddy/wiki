@@ -28,6 +28,8 @@ This statement seems to imply that
 \mathrm{d}\alpha(x) = \alpha'(x)\, \mathrm{d}x
 \end{equation}
 
+From the [chain rule](), however, we know this is true.
+
 # Use Cases
 
 ## Average Value
