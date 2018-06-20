@@ -7,5 +7,5 @@ e^{\iota{x}} = \cos{x}+\iota\sin{x}
 ### Euler's Identity
 
 \begin{equation}
-e^{\iota\pi}+1=0
+e^{\iota\pi}+1 \equiv 0
 \end{equation}
