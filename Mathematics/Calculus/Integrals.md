@@ -22,9 +22,8 @@ There are a couple basic, defining properties of integrals.
 \end{equation}
 
 ## Riemann Sums
-# Introduction
 
-**Riemann sums** are basically a specification with concrete implementation details of the [integral](./Home).
+Riemann sums are basically a specification with concrete implementation details of the [integral](./Home).
 
 ## Formal Definition
 
