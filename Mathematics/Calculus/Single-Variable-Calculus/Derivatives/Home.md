@@ -6,7 +6,7 @@ The **derivative** is a linear operator that gives the local slope of a function
 
 
 \begin{equation}
-\diff{f(g(x))} = \lim_{h\to 0}\frac{f(x+h)-f(x)}{h}\diff{x}
+\deriv{f(x)}{x} = \lim_{h\to 0}\frac{f(x+h)-f(x)}{h}
 \end{equation}
 
 
@@ -15,7 +15,7 @@ The **derivative** is a linear operator that gives the local slope of a function
 ## Simple Form
 
 \begin{equation}
-\deriv{}{x} f(g(x)) = f'(g(x))g'(x)
+\diff{f(g(x))} = f'(g(x))g'(x)\diff{x}
 \end{equation}
 
 ## General Form
