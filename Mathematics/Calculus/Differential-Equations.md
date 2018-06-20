@@ -44,10 +44,9 @@ Equation \eqref{eq:folde} is the general form of a first-order linear differenti
 \label{eq:folde}
 \end{equation}
 
-\begin{gather}
-\mu(x) = \exp\left(P(x)\right) \\\
-y(x) = \frac{\integral{\mu(x)q(x)}{x}}{\mu(x)}
-\end{gather}
+\begin{equation}
+y(x) = \frac{\integral{\exp\left(P(x)\right)q(x)}{x}}{\exp\left(P(x)\right)}
+\end{equation}
 
 # References
 
