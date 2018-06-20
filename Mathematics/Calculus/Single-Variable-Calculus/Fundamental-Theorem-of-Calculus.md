@@ -9,7 +9,7 @@ f(x)=\frac{\mathrm{d}}{\mathrm{d}x}\,\int\limits_c^{x}{f(\alpha)\,\mathrm{d}\alp
 \end{equation}
 
 ### Proof
-Using the [definition of the derivative](./Derivatives/), we can simplify the problem to just having to prove that 
+Using the [definition of the derivative](./Derivatives/Home#definition), we can simplify the problem to just having to prove that 
 
 \begin{equation}
 f(x)=\lim_{h\to{0}}\left[\frac{\int\limits_c^{x+h}{f(\alpha)\,\mathrm{d}\alpha}-\int\limits_c^{x}{f(\alpha)\,\mathrm{d}\alpha}}{h}\right] = \lim_{h\to{0}}\left[\frac{\int\limits_x^{x+h}{f(\alpha)\,\mathrm{d}\alpha}}{h}\right]
