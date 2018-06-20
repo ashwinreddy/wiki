@@ -1,1 +1,1 @@
-Let $f(x)=(f_1 \circ f_2 \circ \dots \circ f_n)(x)$
+Let $f(x)=(f_1 \circ f_2 \circ \dots \circ f_n)(x)$. For notational simplicity, define $f_{a\dots b}=$
