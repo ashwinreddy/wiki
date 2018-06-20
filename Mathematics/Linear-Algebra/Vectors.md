@@ -15,6 +15,12 @@ A vector belongs to the space $\mathbb{R}^n$.
 \vec{a}\cdot\vec{b} = \sum_i a_ib_i
 \end{equation}
 
+## Magnitude
+
+\begin{equation}
+|\vec{a}| = a
+\end{equation}
+
 ## Cross Product
 
 If both vectors belong to $\mathbb{R}^3$,
