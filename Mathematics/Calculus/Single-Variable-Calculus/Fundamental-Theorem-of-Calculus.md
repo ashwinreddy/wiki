@@ -38,7 +38,7 @@ There's a sense in which $f$ is oriented towards $b$, contributing the term $f(b
 \integral{f'(x)}{x} = f(x) + C
 \end{equation}
 
-It is common to see the antiderivative of $f(x)$ written as $F(x)$
+It is common to see the antiderivative of $f(x)$ written as $F(x)$.
 
 # References
 
