@@ -13,7 +13,7 @@
 \vec{B}(t) = \vec{T}(t)\times\vec{N}(t)
 \end{equation}
 
-### Application to Motion
+## Application to Motion
 
 \begin{equation}
 \vec{a} = v' \vec{T} + \kappa v^2 \vec{N}
