@@ -1,3 +1,1 @@
-
-# hi
-[[_TOC_]]
+<<AllFiles()>>
