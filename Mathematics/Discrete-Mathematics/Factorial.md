@@ -10,7 +10,7 @@ n! = n(n-1)!
 \end{equation}
 
 $$
-\integral{}{}
+\integral{f}{x}
 $$
 
 ### Python Code
