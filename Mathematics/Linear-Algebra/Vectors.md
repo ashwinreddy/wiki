@@ -44,6 +44,6 @@ b_1 & b_2 & b_3
 \end{vmatrix}
 \end{equation}
 
-Since the cross product is computed as a [determinant](Determinant)
+Since the cross product is computed as a [determinant](Determinant), it represents an area, namely the area of the parallelogram spanned by the vectors.
 
 Technically speaking, the cross product returns not a vector but a pseudovector.
