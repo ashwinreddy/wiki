@@ -36,6 +36,12 @@ The intuition behind the formula for average value using integrals becomes much 
 \text{average of $f$ on } [a,b] = \frac{1}{b-a}\int\limits_a^b{f(x)\,\mathrm{d}x} = \lim_{n\to\infty}\frac{\sum_{j=1}^n{f(a+j\Delta x)}}{n}
 \end{equation}
 
+## Arc Length
+
+\begin{equation}
+\diff{s}^2 = \diff{x}^2 + \diff{y}^2
+\end{equation}
+
 # References
 
 [Wikipedia Article on Stieltjes Integral](https://en.wikipedia.org/wiki/Riemann%E2%80%93Stieltjes_integral)
