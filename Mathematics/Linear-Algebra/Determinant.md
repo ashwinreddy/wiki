@@ -1,3 +1,5 @@
+# Introduction
+
 The **determinant** of a matrix returns the change in scale caused by that matrix interpreted as a transformation. It can also be considered the signed volume for a $n$-D cube in the original space.
 
 \begin{equation}
