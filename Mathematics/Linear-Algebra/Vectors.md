@@ -9,3 +9,7 @@ A vector belongs to the space $\mathbb{R}^n$.
 \begin{equation}
 \vec{a}\cdot\vec{b} = \sum_i a_ib_i
 \end{equation}
+
+## Cross Product
+
+If both vectors belong to $\mathbb{R}^3#
