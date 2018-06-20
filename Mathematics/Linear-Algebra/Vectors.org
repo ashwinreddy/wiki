@@ -1,39 +1,39 @@
-# Introduction
+* Introduction
 
 A vector belongs to the space $\mathbb{R}^n$.
 
-# Operations
+* Operations
 
-## Addition
+** Addition
 \begin{equation}
 \vec{a}+\vec{b} = 
 \end{equation}
 
-## Scalar Multiplication
+** Scalar Multiplication
 
 \begin{equation}
 c\vec{v} = 
 \end{equation}
 
-## Dot Product
+** Dot Product
 
 \begin{equation}
 \vec{a}\cdot\vec{b} = \sum_i a_ib_i
 \end{equation}
 
-## Magnitude
+** Magnitude
 
 \begin{equation}
 |\vec{a}| = \sqrt{\vec{a}\cdot\vec{a}}
 \end{equation}
 
-## Normalize
+** Normalize
 
 \begin{equation}
 \hat{a} = \frac{\vec{a}}{|\vec{a}|}
 \end{equation}
 
-## Cross Product
+** Cross Product
 
 If both vectors belong to $\mathbb{R}^3$,
 \begin{equation}
