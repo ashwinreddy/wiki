@@ -23,7 +23,7 @@ There are a couple basic, defining properties of integrals.
 
 ## Riemann Sums
 
-Riemann sums are basically a specification with concrete implementation details of the [integral](./Home).
+Riemann sums are basically a specification with concrete implementation details of the integral.
 
 ## Formal Definition
 
