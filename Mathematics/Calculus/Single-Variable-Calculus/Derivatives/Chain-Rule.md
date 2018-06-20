@@ -1,3 +1,3 @@
 \begin{equation}
-(f\circ g)' = (f'\circ g)\cdot g'
+\frac{\mathrm{d}}{\mathrm{d}x}[f(g(x))]
 \end{equation}
