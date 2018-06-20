@@ -17,7 +17,7 @@ The more formal definition uses $n$ for a number of approximating rectangles tha
 
 ## Stieltjes Integral
 
-The Stieltjes integral generalizes the Riemann sum even more. Namely, it adds on
+The Stieltjes integral allows Riemann sum integrals to integrate w.r.t. something other than a $\diff{x}$ even more. Namely, it adds on
 \begin{equation}
 \integral{f(x)}{\alpha(x)} = \integral{f(x)\alpha\prime(x)}{x}
 \end{equation}
