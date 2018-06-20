@@ -12,5 +12,5 @@ $$
 ## Complex Conjugates
 
 \begin{equation}
-\bar{z} = \Re{z} - \Im{z}
+\bar{z} = \Re(z) - \Im(z)
 \end{equation}
