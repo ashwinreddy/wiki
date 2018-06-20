@@ -59,7 +59,7 @@ Since the cross product is computed as a [[determinant]], it represents an area,
 
 #+BEGIN_HTML
 \begin{equation}
-\\|\vec{a}\times\vec{b} = ab\sin\theta
+\abs \vec{a}\times\vec{b} = ab\sin\theta
 \end{equation}
 #+END_HTML
 
