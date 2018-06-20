@@ -24,7 +24,7 @@ f(x) = \sum_{n=0}^\infty{\frac{\mathcal{D}^n f(a)}{n!}(x-a)^n}
 f(x) = \sum_{n=0}^\infty{\frac{\mathcal{D}^n f(0)}{n!}x^n}
 \end{equation}
 
-### Examples
+#### Examples
 
 \begin{equation}
 e^x = \sum_{n=0}^\infty{\frac{x^n}{n!}} \qquad x \in \mathbb{C}
