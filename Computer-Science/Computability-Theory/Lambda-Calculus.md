@@ -1,3 +1,3 @@
 \begin{equation}
-\lambda x . x
+(\lambda x . x)y = y
 \end{equation}
