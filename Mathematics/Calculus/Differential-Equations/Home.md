@@ -1,4 +1,4 @@
-**Ordinary Differential Equations** (ODEs)
+**Ordinary Differential Equations** (ODEs) are equations involving derivatives of a function.
 
 ## Autonomous DEs
 Autonomous differential equations are strictly a function of the dependent variable.
