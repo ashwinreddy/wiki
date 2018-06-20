@@ -43,6 +43,10 @@ The intuition behind the formula for average value using integrals becomes much 
 \diff{s} = \sqrt{\diff{x}^2 + \diff{y}^2} = \diff{x}\sqrt{1+\frac{\diff{y}^2}{\diff{x}^2}}
 \end{gather}
 
+\begin{equation}
+\mathcal{length}
+\end{equation}
+
 # References
 
 [Wikipedia Article on Stieltjes Integral](https://en.wikipedia.org/wiki/Riemann%E2%80%93Stieltjes_integral)
