@@ -1,3 +1,3 @@
 \begin{equation}
-\langle\text{function}\rangle := 
+\lambda x . x
 \end{equation}
