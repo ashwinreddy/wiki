@@ -44,4 +44,6 @@ b_1 & b_2 & b_3
 \end{vmatrix}
 \end{equation}
 
+Since the cross product is computed as a [determinant](Determinant)
+
 Technically speaking, the cross product returns not a vector but a pseudovector.
