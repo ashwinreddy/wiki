@@ -29,7 +29,7 @@ c\vec{v} =
 
 #+BEGIN_HTML
 \begin{equation}
-|\vec{a}| = \sqrt{\vec{a}\cdot\vec{a}}
+\lvert\vec{a}\rvert = \sqrt{\vec{a}\cdot\vec{a}}
 \end{equation}
 #+END_HTML
 
