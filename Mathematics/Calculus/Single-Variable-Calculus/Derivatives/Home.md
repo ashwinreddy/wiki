@@ -15,7 +15,7 @@ The **derivative** is a linear operator that gives the local slope of a function
 ## Simple Form
 
 \begin{equation}
-\diff{f(g(x))} = f'(g(x))g'(x)\diff{x}
+\deriv{f(g(x))}{x} = f'(g(x))g'(x)
 \end{equation}
 
 ## General Form
