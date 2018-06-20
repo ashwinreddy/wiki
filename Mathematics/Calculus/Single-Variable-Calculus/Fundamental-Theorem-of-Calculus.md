@@ -8,7 +8,7 @@ The **fundamental theorem of calculus** connects [derivatives](./Derivatives/) a
 f(x)=\frac{\mathrm{d}}{\mathrm{d}x}\,\int\limits_c^{x}{f(\alpha)\,\mathrm{d}\alpha}
 \end{equation}
 
-#### Proof
+### Proof
 Using the [definition of the derivative](./Derivatives/), we can simplify the problem to just having to prove that 
 
 \begin{equation}
