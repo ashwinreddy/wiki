@@ -10,11 +10,10 @@ The **derivative** is a linear operator that gives the local slope of a function
 
 # Derivative Rules
 
-
-For a constant $c$,
+## Line Rule
 
 \begin{equation}
-\deriv{c}{x} = 0
+\deriv{}{x}mx+b = m
 \end{equation}
 
 ## Chain Rule
