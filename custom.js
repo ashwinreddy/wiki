@@ -6,7 +6,7 @@ window.MathJax = {
     },
     TeX: { 
         equationNumbers: { autoNumber: "AMS" },
-        extensions: ["autoload-all.js"],
+        // extensions: ["autoload-all.js"],
         Macros: {
             diff: ["{\\mathrm{d}#1}",1],
             integral: ["{\\int{#1\\,\\mathrm{d}#2}}", 2],
