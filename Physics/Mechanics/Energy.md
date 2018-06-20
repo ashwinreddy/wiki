@@ -2,7 +2,7 @@
 
 \begin{align}
 \Sigma{\vec{F}} &= m\vec{a} \\\
-\Sigma{\vec{F}} \, \mathrm{d}x &= m\vec{a} \cdot\mathrm{d}\vec{r} \\\
+\Sigma{\vec{F}} \cdot \mathrm{d}\vec{r} &= m\vec{a} \cdot\mathrm{d}\vec{r} \\\
 \int \Sigma{\vec{F}} \cdot \mathrm{d}\vec{r} &= \int m\vec{a} \cdot\mathrm{d}\vec{r} \\\
 &= \int m\frac{\mathrm{d}\vec{v}}{\mathrm{d}t} \cdot\mathrm{d}\vec{r} \\\
 &= \int m\,\mathrm{d}\vec{v}\cdot\frac{\mathrm{d}\vec{r}}{\mathrm{d}t}  \\\
