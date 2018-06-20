@@ -1,1 +1,0 @@
-Cerebrum: sophisticated integration, memory, learning, speech, emotions, complex behavior.
