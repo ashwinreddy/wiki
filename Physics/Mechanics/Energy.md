@@ -2,5 +2,5 @@
 
 ## Kinetic Energy
 \begin{equation}
-K = \frac{1}{2}mv^2
+K = \sum_i\frac{1}{2}m_iv_i^2
 \end{equation}
