@@ -9,3 +9,5 @@ The **Jacobian** is either the matrix or the determinant of the matrix of all po
 \partial_{x_1}f_m & \dots & \partial_{x_n}f_m
 \end{vmatrix}
 \end{equation}
+
+## Common Examples
