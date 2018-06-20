@@ -6,7 +6,7 @@ The **integral** is a [linear operator](../../../Linear Algebra/Linearity) that 
 \int\limits_a^b{\left[f(x)\right]\,\mathrm{d}g(x)} = \int\limits_a^b{\left[f(x)g'(x)\right]\,\mathrm{d}x}
 \end{equation}
 
-### Properties
+## Properties
 
 \begin{equation}
 \int\limits_b^a{f(x)\,\mathrm{d}x} = -\int\limits_a^b{f(x)\,\mathrm{d}x}
