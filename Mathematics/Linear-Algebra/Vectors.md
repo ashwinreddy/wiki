@@ -46,4 +46,8 @@ b_1 & b_2 & b_3
 
 Since the cross product is computed as a [determinant](Determinant), it represents an area, namely the area of the parallelogram spanned by the vectors.
 
+\begin{equation}
+|\vec{a}\times\vec{b}| = ab\sin\theta
+\end{equation}
+
 Technically speaking, the cross product returns not a vector but a pseudovector.
