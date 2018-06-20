@@ -1,6 +1,6 @@
 * Introduction
 
-The **derivative** is a linear operator that gives the local slope of a function.
+The *derivative* is a linear operator that gives the local slope of a function.
 
 * Definition
 
