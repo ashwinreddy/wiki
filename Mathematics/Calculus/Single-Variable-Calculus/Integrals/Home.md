@@ -10,7 +10,7 @@ The **integral** is a [linear operator](../../../Linear Algebra/Linearity) that 
 There are a couple basic, defining properties of integrals.
 
 \begin{equation}
-\int\limits_b^a{f(x)\,\mathrm{d}x} = -\int\limits_a^b{f(x)\,\mathrm{d}x}
+\defint{b}{a}{f(x)}{x} = -\defint{a}{b}{f(x)}{x}
 \end{equation}
 
 \begin{equation}
