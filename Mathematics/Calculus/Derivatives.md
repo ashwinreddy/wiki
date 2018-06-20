@@ -30,14 +30,12 @@ The product rule determines how to compute the derivative of a product between f
 \left(\,f\cdot{g}\,\right)' = f'g + g'f
 \end{equation}
 
-# Applications
-
-## L'Hôpital's Rule
+# L'Hôpital's Rule
 
 \begin{equation}
 \end{equation}
 
-## Implicit Differentiation
+# Implicit Differentiation
 
 If $F(x,y)=k$,
 
