@@ -11,3 +11,6 @@ U_g = mgy
 \end{equation}
 
 # Power
+\begin{equation}
+P = \vec{F}\cdot\vec{v}
+\end{equation}
