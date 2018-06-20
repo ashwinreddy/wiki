@@ -20,3 +20,12 @@ There are a couple basic, defining properties of integrals.
 \begin{equation}
 \defint{a}{a}{f(x)}{x} = 0
 \end{equation}
+
+## Tricks
+
+### Integration By Parts (IBP)
+IBP is a method to computing certain types of integrals. The fundamental principle for IBP comes from the integral form of the product rule
+
+\begin{equation}
+\int{u\,\mathrm{d}v} + \int{v\,\mathrm{d}u} = uv
+\end{equation}
