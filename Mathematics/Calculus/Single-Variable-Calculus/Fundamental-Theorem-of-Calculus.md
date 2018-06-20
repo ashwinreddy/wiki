@@ -2,16 +2,7 @@
 
 The **fundamental theorem of calculus** connects [derivatives](./Derivatives/) and [integrals](./Integrals/).
 
-# Statements
-For a function $f \in C^1$,
-
-\begin{equation}
-\int\limits_a^b{f'(x)\,\mathrm{d}x} = f(b) - f(a)
-\end{equation}
-
-There's a sense in which $f$ is oriented towards $b$, contributing the term $f(b)$, and away from $a$, contributing $-f(a)$.
-
----
+## Part One
 
 \begin{equation}
 f(x)=\frac{\mathrm{d}}{\mathrm{d}x}\,\int\limits_c^{x}{f(\alpha)\,\mathrm{d}\alpha}
@@ -31,6 +22,15 @@ With that,
 \end{align}
 
 Intuitively, as $h$ closes in, the value of the integral becomes 0.
+
+## Part Two
+For a function $f \in C^1$,
+
+\begin{equation}
+\int\limits_a^b{f'(x)\,\mathrm{d}x} = f(b) - f(a)
+\end{equation}
+
+There's a sense in which $f$ is oriented towards $b$, contributing the term $f(b)$, and away from $a$, contributing $-f(a)$.
 
 # References
 
