@@ -16,6 +16,8 @@ The **derivative** is a linear operator that gives the local slope of a function
 \deriv{}{x}\left[mx+b\right] = m
 \end{equation}
 
+This means that the derivative loses information about the y-intercept.
+
 ## Chain Rule
 
 ### Simple Form
