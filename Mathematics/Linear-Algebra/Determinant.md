@@ -17,6 +17,6 @@ c_1 & c_2 & c_3
 \end{vmatrix}
 \end{equation}
 
-##### References & Resources
+# References
 
 [Explanatory video](https://youtu.be/Ip3X9LOh2dk)
