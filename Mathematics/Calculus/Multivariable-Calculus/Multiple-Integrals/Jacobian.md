@@ -1,6 +1,6 @@
 # Introduction
 
-The **Jacobian** is either the matrix or the determinant of the matrix of all possible first derivatives of a function $\mathbb{R}^n \to \mathbb{R}^M$
+The **Jacobian** is either the matrix or the determinant of the matrix of all possible first derivatives of a function $\mathbb{R}^n \to \mathbb{R}^m$
 
 \begin{equation}
 \mathcal{J} = \begin{vmatrix}
