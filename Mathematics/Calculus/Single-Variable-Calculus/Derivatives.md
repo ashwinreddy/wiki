@@ -13,7 +13,7 @@ The **derivative** is a linear operator that gives the local slope of a function
 ## Line Rule
 
 \begin{equation}
-\deriv{}{x}mx+b = m
+\deriv{}{x}\left[mx+b\right] = m
 \end{equation}
 
 ## Chain Rule
