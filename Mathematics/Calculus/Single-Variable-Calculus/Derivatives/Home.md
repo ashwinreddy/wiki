@@ -6,7 +6,7 @@ The **derivative** is a linear operator that gives the local slope of a function
 
 
 \begin{equation}
-\deriv{f(x)}{x} = \lim_{h\to 0}\frac{f(x+h)-f(x)}{h}
+\deriv{f(x)}{x} = \lim_{\epsilon\to 0}\frac{f(x+\epsilon)-f(x)}{\epsilon}
 \end{equation}
 
 # Derivative Rules
