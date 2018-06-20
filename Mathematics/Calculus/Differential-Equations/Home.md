@@ -27,3 +27,5 @@ Autonomous differential equations are strictly a function of the dependent varia
 # References
 
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/Classes/DE/Linear.aspx)
+
+[UC Davis Lecture Slides](https://www.math.ucdavis.edu/~thomases/W11_16C1_lec_1_7_11.pdf)
