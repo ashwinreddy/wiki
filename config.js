@@ -1,3 +1,3 @@
 MathJax.Hub.Config({
-    TeX: { equationNumbers: { autoNumber: "AMS" } }
+    TeX: { extensions: ["autobold.js"] }
 });
