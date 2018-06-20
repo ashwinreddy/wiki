@@ -22,7 +22,7 @@ We can extend this idea to a more general form. Let $f(x)=(f_1 \circ f_2 \circ \
 f_{1\dots n}' = \prod_{k=1}^n f_k'\left(\,f_{(k+1)\dots n}\,\right)
 \end{equation}
 
-## Product Rule
+# Product Rule
 
 The product rule determines how to compute the derivative of a product between functions.
 
