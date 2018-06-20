@@ -1,3 +1,6 @@
+# Introduction
+
+## Definitions
 \begin{equation}
 \vec{T}(t) = \hat{\dot{r}}
 \end{equation}
