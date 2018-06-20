@@ -44,7 +44,7 @@ b_1 & b_2 & b_3
 \end{vmatrix}
 \end{equation}
 
-Since the cross product is computed as a [[determinant]], it represents an area, namely the area of the parallelogram spanned by the vectors.
+Since the cross product is computed as a [[include:determinant]], it represents an area, namely the area of the parallelogram spanned by the vectors.
 
 \begin{equation}
 |\vec{a}\times\vec{b}| = ab\sin\theta
