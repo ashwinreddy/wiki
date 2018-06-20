@@ -11,6 +11,10 @@ The **derivative** is a linear operator that gives the local slope of a function
 
 # Derivative Rules
 
+\begin{equation}
+\deriv{c}{x} = 0
+\end{equation}
+
 ## Chain Rule
 
 ### Simple Form
