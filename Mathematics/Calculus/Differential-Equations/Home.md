@@ -19,6 +19,7 @@ The **eigenfunction** of an operator $\mathcal{O}$ follows the property that
 \mathcal{O} \, f = \lambda \, f
 \end{equation}
 
+Let $\mathcal{O}$ be the derivative operator; we can then find the eigenfunction of the derivative operator using a separable differential equation.
 
 \begin{gather}
 \frac{\mathrm{d}f}{\mathrm{d}x} = \lambda \, f \\\
