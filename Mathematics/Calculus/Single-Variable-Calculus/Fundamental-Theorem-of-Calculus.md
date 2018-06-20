@@ -32,6 +32,12 @@ For a function $f \in C^1$,
 
 There's a sense in which $f$ is oriented towards $b$, contributing the term $f(b)$, and away from $a$, contributing $-f(a)$.
 
+# Antiderivative
+
+\begin{equation}
+\integral{f'(x)}{x} = f(x) + C
+\end{equation}
+
 # References
 
 [Video of Proof](https://youtu.be/4DrCKhCECHo)
