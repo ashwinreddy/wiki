@@ -1,3 +1,5 @@
+# Introduction
+
 The **integral** is a [linear operator](../../../Linear Algebra/Linearity) that gives the area under a curve, at least under the [Riemann sum](./Riemann Sums) interpretation.
 
 \begin{equation}
