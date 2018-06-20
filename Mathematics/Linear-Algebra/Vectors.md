@@ -52,4 +52,4 @@ Since the cross product is computed as a [determinant](Determinant), it represen
 
 Technically speaking, the cross product returns not a vector but a pseudovector.
 
-[[Determinant]]
+[[determinant]]
