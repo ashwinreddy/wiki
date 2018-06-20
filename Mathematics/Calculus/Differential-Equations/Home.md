@@ -1,3 +1,4 @@
+**Ordinary Differential Equations** (ODEs)
 
 ## Autonomous DEs
 Autonomous differential equations are strictly a function of the dependent variable.
