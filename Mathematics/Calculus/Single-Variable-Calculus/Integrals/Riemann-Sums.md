@@ -22,6 +22,12 @@ The Stieltjes integral generalizes the Riemann sum even more. Namely, it adds on
 \int\limits_a^b{f(x)\,\mathrm{d}\alpha(x)} = \int\limits_a^b{f(x)\alpha'(x)\,\mathrm{d}x}
 \end{equation}
 
+This statement seems to imply that
+
+\begin{equation}
+\mathrm{d}\alpha(x) = \alpha'(x)\mathrm{d}x
+\end{equation}
+
 # Use Cases
 
 ## Average Value
