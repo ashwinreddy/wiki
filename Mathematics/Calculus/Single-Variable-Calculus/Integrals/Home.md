@@ -59,7 +59,7 @@ The intuition behind the formula for average value using integrals becomes much 
 \diff{s} = \sqrt{\diff{x}^2 + \diff{y}^2} = \diff{x}\sqrt{1+\frac{\diff{y}^2}{\diff{x}^2}}
 \end{gather}
 
-Notice the use of the [Stieltjes integral]().
+Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 
 \begin{equation}
 \ell = \defint{a}{b}{f(x)}{s} = \defint{a}{b}{f(x)\sqrt{1+f'(x)^2}}{x}
