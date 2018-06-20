@@ -18,7 +18,6 @@ The **eigenfunction** of a [linear operator](../../Linear Algebra/Linearity) $D$
 D \, f = \lambda \, f
 \end{equation}
 
-Treat the problem like a [separable differential equation](./Home#introduction_separable-des)
 
 \begin{gather}
 \frac{\mathrm{d}f}{\mathrm{d}x} = \lambda \, f \\\
