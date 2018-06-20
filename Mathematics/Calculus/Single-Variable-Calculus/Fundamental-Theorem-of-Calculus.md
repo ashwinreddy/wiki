@@ -32,6 +32,6 @@ With that,
 
 Intuitively, as $h$ closes in, the value of the integral becomes 0.
 
-##### References & Resources
+# Reference
 
 [Video of Proof](https://youtu.be/4DrCKhCECHo)
