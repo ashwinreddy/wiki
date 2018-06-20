@@ -18,7 +18,7 @@ A vector belongs to the space $\mathbb{R}^n$.
 ## Magnitude
 
 \begin{equation}
-|\vec{a}| = a
+|\vec{a}| = \sqrt{\vec{a}\cdot\vec{a}}
 \end{equation}
 
 ## Cross Product
