@@ -13,9 +13,10 @@ y(x) = G^{-1}(F(x)+C)
 \end{gather}
 
 ### Example: Eigenfunction of Derivative
-The **eigenfunction** of a [linear operator](../../Linear Algebra/Linearity) $D$ follows the property that
+The **eigenfunction** of an operator $O$ follows the property that
+
 \begin{equation}
-D \, f = \lambda \, f
+O \, f = \lambda \, f
 \end{equation}
 
 
