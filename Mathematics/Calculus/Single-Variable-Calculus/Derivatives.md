@@ -37,3 +37,6 @@ The product rule determines how to compute the derivative of a product between f
 # Applications
 
 ## L'Hôpital's Rule
+
+\begin{equation}
+\end{equation}
