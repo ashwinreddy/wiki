@@ -1,6 +1,6 @@
 # Introduction
 
-The **fundamental theorem of calculus** connects [derivatives](./Derivatives/) and [integrals](./Integral/s)
+The **fundamental theorem of calculus** connects [derivatives](./Derivatives/) and [integrals](./Integrals/)
 
 # Statements
 For a function $f \in C^1$,
