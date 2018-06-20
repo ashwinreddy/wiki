@@ -9,3 +9,5 @@ K = \sum_i\frac{1}{2}m_iv_i^2
 \begin{equation}
 U_g = mgy
 \end{equation}
+
+# Power
