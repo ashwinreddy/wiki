@@ -13,6 +13,7 @@ There are a couple basic, defining properties of integrals.
 \defint{b}{a}{f(x)}{x} = -\defint{a}{b}{f(x)}{x}
 \end{equation}
 
+
 \begin{equation}
 \defint{a}{a}{f(x)}{x} = 0
 \end{equation}
