@@ -9,6 +9,12 @@ A vector belongs to the space $\mathbb{R}^n$.
 \vec{a}+\vec{b} = 
 \end{equation}
 
+## Scalar Multiplication
+
+\begin{equation}
+c\vec{v} = 
+\end{equation}
+
 ## Dot Product
 
 \begin{equation}
