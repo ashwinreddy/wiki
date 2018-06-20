@@ -25,6 +25,7 @@ Autonomous differential equations are strictly a function of the dependent varia
 \end{equation}
 
 \begin{gather}
+\mu(x) = \exp(\integral{p(x)}{x})
 \end{gather}
 
 # References
