@@ -13,6 +13,9 @@ There are a couple basic, defining properties of integrals.
 \defint{b}{a}{f(x)}{x} = -\defint{a}{b}{f(x)}{x}
 \end{equation}
 
+\begin{equation}
+\defint{a}{b}{f(x)}{x} + \defint{b}{c}{f(x)}{c} = \defint{a}{c}{f(x)}{x}
+\end{equation}
 
 \begin{equation}
 \defint{a}{a}{f(x)}{x} = 0
