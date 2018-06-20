@@ -22,6 +22,7 @@ Autonomous differential equations are strictly a function of the dependent varia
 ## First-Order Linear DEs
 \begin{equation}
 \deriv{y}{x} + p(x)y = q(x)
+\label{eq:folde}
 \end{equation}
 
 \begin{gather}
