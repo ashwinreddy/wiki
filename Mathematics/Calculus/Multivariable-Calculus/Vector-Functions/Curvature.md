@@ -7,5 +7,5 @@
 
 For a function $f: \mathbb{R} \to \mathbb{R}$,
 \begin{equation}
-\kappa(x) = \frac{\abs{f''(x)}}{\left(1+f'(x)^2\right)^{3/2}}
+\kappa(x) = \frac{|f''(x)|}{\left(1+f'(x)^2\right)^{3/2}}
 \end{equation}
