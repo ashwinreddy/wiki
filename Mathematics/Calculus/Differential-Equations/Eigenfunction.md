@@ -5,7 +5,7 @@ D \, f = \lambda \, f
 
 #### Eigenfunction of Derivative Operator
 
-Treat the problem like a [separable differential equation](./Home)
+Treat the problem like a [separable differential equation](./Home#introduction_separable-des)
 
 \begin{gather}
 \frac{\mathrm{d}f}{\mathrm{d}x} = \lambda \, f \\\
