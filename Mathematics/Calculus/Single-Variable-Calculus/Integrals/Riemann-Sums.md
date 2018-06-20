@@ -40,7 +40,7 @@ The intuition behind the formula for average value using integrals becomes much 
 
 \begin{gather}
 \diff{s}^2 = \diff{x}^2 + \diff{y}^2 \\\
-\diff{s} = \sqrt{\diff{x}^2 + \diff{y}^2} = 
+\diff{s} = \sqrt{\diff{x}^2 + \diff{y}^2} = \diff{x}\sqrt{1+\frac{\diff{y}^2}{\diff{x}^2}}
 \end{gather}
 
 # References
