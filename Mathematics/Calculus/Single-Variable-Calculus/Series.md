@@ -4,6 +4,8 @@ Geometric series
 \sum_{n=0}^\infty{x^n} = \frac{1}{1-x}, \qquad |x| < 1
 \end{equation}
 
+# Types of Series
+
 ## Power Series
 
 ### Taylor Series
