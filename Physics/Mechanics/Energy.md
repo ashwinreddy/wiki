@@ -1,4 +1,4 @@
-### Proof of Work-Energy Theorem
+# Proof of Work-Energy Theorem
 
 \begin{align}
 \Sigma{\vec{F}} &= m\vec{a} \\\
