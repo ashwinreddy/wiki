@@ -1,3 +1,4 @@
+
 Geometric series
 
 \begin{equation}
