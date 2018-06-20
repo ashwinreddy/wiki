@@ -1,1 +1,1 @@
-Let $f(x)=(f_1 \circ f_2 \circ )(x)
+Let $f(x)=(f_1 \circ f_2 \circ )(x)$
