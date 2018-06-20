@@ -1,3 +1,3 @@
 \begin{equation}
-\lambda x.x
+\text{function} := 
 \end{equation}
