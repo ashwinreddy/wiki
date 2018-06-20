@@ -1,3 +1,3 @@
 \begin{equation}
-\lambda
+\lambda x.x
 \end{equation}
