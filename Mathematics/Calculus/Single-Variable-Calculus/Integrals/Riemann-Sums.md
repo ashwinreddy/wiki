@@ -18,7 +18,9 @@ The more formal definition uses $n$ for a number of approximating rectangles tha
 ## Stieltjes Integral
 
 The Stieltjes integral allows Riemann sum integrals to integrate w.r.t. something other than a $\diff{x}$. First, we start with the  [chain rule](../derivatives/chain rule) for a function $\alpha(x)$.
+
 \begin{gather}
+\deriv{\alpha(x)}{x} = \alpha\prime(x) \\\
 \diff{\alpha(x)} = \alpha\prime(x)\, \diff{x} \\\
 \integral{f(x)}{\alpha(x)} = \integral{f(x)\alpha\prime(x)}{x}
 \end{gather}
