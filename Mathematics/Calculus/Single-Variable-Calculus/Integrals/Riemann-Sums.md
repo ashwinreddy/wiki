@@ -44,7 +44,7 @@ The intuition behind the formula for average value using integrals becomes much 
 \end{gather}
 
 \begin{equation}
-\ell = \defint{a}{b}{f(x)}{s}
+\ell = \defint{a}{b}{f(x)}{s} = \defint{a}{b}{f(x)\sqrt{1+f'(x)^2}}{x}
 \end{equation}
 
 # References
