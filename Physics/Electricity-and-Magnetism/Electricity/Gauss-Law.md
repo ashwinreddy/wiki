@@ -1,7 +1,7 @@
 **Gauss's Law** says that for an [electric field](electric field) $\vec{E}$,
 
 \begin{equation}
-\oint{\vec{E}\cdot\mathrm{d}\vec{A}} = \frac{q_{\text{enclosed}}}{\kappa\epsilon_0}.
+\oint{\color{blue}\vec{E}\cdot\mathrm{d}\vec{A}} = \frac{q_{\text{enclosed}}}{\kappa\epsilon_0}.
 \end{equation}
 
 ### Differential Form
