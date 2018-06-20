@@ -15,6 +15,8 @@ The more formal definition uses $n$ for a number of approximating rectangles tha
 \int\limits_a^b{f(x)\,\mathrm{d}x} = \lim_{n\to\infty}\sum_{j=1}^n{f \left(a+j\Delta x\right)\Delta x}
 \end{equation}
 
+## Stieltjes Integral
+
 # Use Cases
 
 ## Average Value
