@@ -1,6 +1,6 @@
 # Introduction
 
-A multiple integral
+A multiple integral finds an area in $\mathbb{R}^n$ for $n>2$
 
 ## Fubini's Theorem
 \begin{equation}
