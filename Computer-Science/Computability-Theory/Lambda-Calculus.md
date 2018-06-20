@@ -1,3 +1,3 @@
 \begin{equation}
-\text{function} := 
+\langle\text{function}\rangle := 
 \end{equation}
