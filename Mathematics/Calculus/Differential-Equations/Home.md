@@ -21,5 +21,5 @@ Autonomous differential equations are strictly a function of the dependent varia
 
 ## First-Order Linear DEs
 \begin{equation}
-
+\deriv{y}{t}
 \end{equation}
