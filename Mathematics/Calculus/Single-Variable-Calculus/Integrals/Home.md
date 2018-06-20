@@ -23,7 +23,7 @@ There are a couple basic, defining properties of integrals.
 
 # Computation
 
-### Integration By Parts (IBP)
+## Integration By Parts (IBP)
 IBP is a method to computing certain types of integrals. The fundamental principle for IBP comes from the integral form of the product rule
 
 \begin{equation}
