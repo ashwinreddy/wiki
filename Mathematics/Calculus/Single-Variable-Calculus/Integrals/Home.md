@@ -33,7 +33,7 @@ IBP is a method to computing certain types of integrals. The fundamental princip
 
 ## Stieltjes Integral
 
-The Stieltjes integral basically allows for computations w.r.t. something other than a $\diff{x}$. First, we start with the  [chain rule](../derivatives/chain rule) for a function $\alpha(x)$.
+The Stieltjes integral basically allows for computations w.r.t. something other than a $\diff{x}$, and it shows up quite often. First, we start with the  [chain rule](../derivatives/chain rule) for a function $\alpha(x)$.
 
 \begin{gather}
 \deriv{\alpha(x)}{x} = \alpha\prime(x) \\\
