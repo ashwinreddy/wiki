@@ -19,7 +19,7 @@ The more formal definition uses $n$ for a number of approximating rectangles tha
 
 The Stieltjes integral generalizes the Riemann sum even more. Namely, it adds on
 \begin{equation}
-\int\limits_a^b{f(x)\,\mathrm{d}\alpha(x)}
+\int\limits_a^b{f(x)\,\mathrm{d}\alpha(x)} = \int\limits_a^b{f(x)\alpha'(x)\,\mathrm{d}x}
 \end{equation}
 
 # Use Cases
