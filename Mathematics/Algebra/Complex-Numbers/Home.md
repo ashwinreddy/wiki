@@ -8,3 +8,9 @@ The **imaginary number** $\iota$ is the solution to the polynomial equation
 $$
 x^2 = -1
 $$
+
+## Complex Conjugates
+
+\begin{equation}
+\bar{z} = \Re{z} - \Im{z}
+\end{equation}
