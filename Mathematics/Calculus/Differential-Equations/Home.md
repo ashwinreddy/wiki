@@ -1,6 +1,5 @@
 
-
-# Autonomous DEs
+## Autonomous DEs
 Autonomous differential equations are strictly a function of the dependent variable.
 
 \begin{equation}
