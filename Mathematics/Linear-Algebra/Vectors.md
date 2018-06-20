@@ -2,7 +2,12 @@
 
 A vector belongs to the space $\mathbb{R}^n$.
 
-# Operators
+# Operations
+
+## Addition
+\begin{equation}
+\vec{a}+\vec{b} = 
+\end{equation}
 
 ## Dot Product
 
