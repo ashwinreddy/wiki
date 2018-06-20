@@ -20,3 +20,6 @@ Autonomous differential equations are strictly a function of the dependent varia
 \end{equation}
 
 ## First-Order Linear DEs
+\begin{equation}
+
+\end{equation}
