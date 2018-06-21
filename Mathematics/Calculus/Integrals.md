@@ -1,6 +1,6 @@
 # Introduction
 
-The **integral** is a linear operator that gives the area under a curve, at least under the Riemann sums interpretation.
+The **integral** is a linear operator that gives the area under a curve, at least under the Riemann sum interpretation.
 
 ## Properties
 There are a couple basic, defining properties of integrals.
