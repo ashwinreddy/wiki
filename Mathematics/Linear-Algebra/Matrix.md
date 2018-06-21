@@ -5,5 +5,5 @@
 ### Inversion
 
 \begin{equation}
-\mathbf{Ax=b}
+\mathbf{Ax=b} \implies \mathbf{x=A^{-1}}
 \end{equation}
