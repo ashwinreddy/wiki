@@ -13,7 +13,7 @@ A vector belongs to the space $\mathbb{R}^n$.
 
 #+BEGIN_HTML
 \begin{equation}
-c\vec{v} = 
+c\vec{v} = \sum_i cv_i\mathbf{e}_i
 \end{equation}
 #+END_HTML
 
