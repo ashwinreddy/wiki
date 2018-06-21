@@ -5,5 +5,5 @@
 ### Inversion
 
 \begin{equation}
-\mathbf{A}\mathbf{x}=\mathbf{B}
+\mathbf{Ax=b}
 \end{equation}
