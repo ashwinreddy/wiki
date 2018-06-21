@@ -2,10 +2,6 @@
 
 The **integral** is a [linear operator](../../../Linear Algebra/) that gives the area under a curve, at least under the [Riemann sum](./Riemann Sums) interpretation.
 
-\begin{equation}
-\defint{a}{b}{f(x)}{g(x)} = \defint{a}{b}{f(x)\,g\prime (x)}{x}
-\end{equation}
-
 ## Properties
 There are a couple basic, defining properties of integrals.
 
