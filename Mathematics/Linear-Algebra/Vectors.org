@@ -6,7 +6,7 @@ A vector belongs to the space $\mathbb{R}^n$.
 
 ** Addition
 \begin{equation}
-\vec{a}+\vec{b} = 
+\vec{a}+\vec{b} = \sum_i (a_1+b_1)\mathbf{e}_i
 \end{equation}
 
 ** Scalar Multiplication
