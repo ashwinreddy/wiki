@@ -4,6 +4,7 @@
 
 ### Inversion
 
-\begin{equation}
-\mathbf{Ax=b} \implies \mathbf{\mathbf{A}^{-1}Ax=A^{-1}b}
-\end{equation}
+\begin{gather}
+\mathbf{Ax=b} \\\
+\mathbf{\mathbf{A}^{-1}Ax=A^{-1}b}
+\end{gather}
