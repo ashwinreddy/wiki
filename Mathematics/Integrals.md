@@ -63,6 +63,12 @@ The intuition behind the formula for average value using integrals becomes much 
 \text{average of $f$ on } [a,b] = \frac{1}{b-a}\int\limits_a^b{f(x)\,\mathrm{d}x} = \lim_{n\to\infty}\frac{\sum_{j=1}^n{f(a+j\Delta x)}}{n}
 \end{equation}
 
+## Area of a Circle
+
+\begin{equation}
+C = 2\pi{r}
+\end{equation}
+
 ## Arc Length in $\mathbb{R}^2$
 
 \begin{gather}
