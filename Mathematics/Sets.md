@@ -26,12 +26,9 @@ The set difference operation returns a set of elements only in the first operand
 A \,\backslash\, B = \\{ {x \, | \, x \in A\text{ and } x \not\in B} \\}
 \end{equation}
 
-
-
-## Complements
 We can also write $\bar{A}$ to denote all elements of a universal set $U$ that are not part of the subset $A$.
 
-### DeMorgan's Laws
+## DeMorgan's Laws
 \begin{equation}
 \overline{A\cup{B}} = \bar{A}\cap{\bar{B}}
 \end{equation}
