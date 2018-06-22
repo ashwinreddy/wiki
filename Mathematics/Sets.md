@@ -6,6 +6,8 @@
 S = \\{ x \in M\, | \, P(x) \\}
 \end{equation}
 
+# Set Operations
+
 ## Union
 
 \begin{equation}
