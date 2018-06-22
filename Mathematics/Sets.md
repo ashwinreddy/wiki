@@ -1,7 +1,6 @@
 # Introduction
 
-
-## Describing a set
+Sets can be described like so, with a predicate function $P(x)$
 
 \begin{equation}
 S = \\{ x \in M\, | \, P(x) \\}
