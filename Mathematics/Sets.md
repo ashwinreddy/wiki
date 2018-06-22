@@ -31,6 +31,8 @@ We can also write $\bar{A}$ to denote all elements of a universal set $U$ that a
 
 ## Cartesian Product
 
+An ordered pair is
+
 \begin{equation}
 (x,y) = \\{ \\{x\\}, \\{x,y \\} \\}
 \end{equation}
