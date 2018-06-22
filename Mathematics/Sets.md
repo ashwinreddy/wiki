@@ -9,19 +9,19 @@ S = \\{ x \in M\, | \, P(x) \\}
 
 # Set Operations
 
-## Union
+The union operation creates a new set composed of all the elements from its operands.
 
 \begin{equation}
 A \cup B = \\{x \, | \, x \in A\text{ or } x \in B\\}
 \end{equation}
 
-## Intersection
+The intersection operation returns a set composed only of elements shared by both.
 
 \begin{equation}
 A \cap B = \\{x \, | \, x \in A\text{ and } x \in B\\}
 \end{equation}
 
-## Set Difference
+The set difference operation returns a set of elements only in the first operand, not in the second.
 
 \begin{equation}
 A \,\backslash\, B = \\{ {x \, | \, x \in A\text{ and } x \not\in B} \\}
