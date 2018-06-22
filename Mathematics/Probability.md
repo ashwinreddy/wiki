@@ -6,7 +6,7 @@ The sum of all the possible probabilities should be unity.
 
 ## Probability Density Function
 \begin{equation}
-p(a \leq X \geq B)
+p(a \leq X \leq B) = \defint{a}{b}{f_X(x)}{x}
 \end{equation}
 
 ## Expectation
