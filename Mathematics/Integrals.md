@@ -86,6 +86,9 @@ Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 \ell = \defint{a}{b}{f(x)}{s} = \defint{a}{b}{f(x)\sqrt{1+f'(x)^2}}{x}
 \end{equation}
 
+# Line Integral
+
+
 # References
 
 [Wikipedia Article on Stieltjes Integral](https://en.wikipedia.org/wiki/Riemann%E2%80%93Stieltjes_integral)
