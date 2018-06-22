@@ -11,7 +11,7 @@ A function is an [ordered triple](./Sets#set-operations_cartesian-product) $(f, 
 # Inverse Function
 
 \begin{equation}
-(f^{-1}\circf)(x) = x
+(f^{-1}\circ f)(x) = x
 \end{equation}
 
 A function can only have an inverse if it is injective.
