@@ -28,6 +28,18 @@ A \,\backslash\, B = \\{ {x \, | \, x \in A\text{ and } x \not\in B} \\}
 
 We can also write $\bar{A}$ to denote all elements of a universal set $U$ that are not part of the subset $A$.
 
+We can also create ordered pairs from sets using the Cartesian product.
+
+\begin{equation}
+A\times{B} = \\{(a,b) \,|\, a \in A\text{ and }b \in B\\}
+\end{equation}
+
+The product can be applied multiple times, so, for examples
+
+\begin{equation}
+\mathbb{R}^n = \underbrace{\mathbb{R}\times\mathbb{R}\times\dots\times\mathbb{R}\times\mathbb{R}}_{\text{n times}}
+\end{equation}
+
 ## DeMorgan's Laws
 \begin{equation}
 \overline{A\cup{B}} = \bar{A}\cap{\bar{B}}
@@ -39,14 +51,3 @@ We can also write $\bar{A}$ to denote all elements of a universal set $U$ that a
 
 Simply put, all the elements that are not in A or B is the same as all the elements not in A and all the elements not in B.
 
-## Cartesian Product
-
-\begin{equation}
-A\times{B} = \\{(a,b) \,|\, a \in A\text{ and }b \in B\\}
-\end{equation}
-
-
-
-\begin{equation}
-\mathbb{R}^n = \underbrace{\mathbb{R}\times\mathbb{R}\times\dots\times\mathbb{R}\times\mathbb{R}}_{\text{n times}}
-\end{equation}
