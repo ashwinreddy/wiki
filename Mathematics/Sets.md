@@ -1,7 +1,7 @@
 ### Cartesian Cross Product
 
 \begin{equation}
-A\times{B} = \\{\\}
+A\times{B} = \\{(a,b) | a \in A and b \in B\\}
 \end{equation}
 
 
