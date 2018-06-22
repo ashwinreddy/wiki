@@ -4,6 +4,12 @@ The sum of all the possible probabilities should be unity.
 \sum_{x \in \, \chi} p_X(x) = 1
 \end{equation}
 
+## Expectation
+
+\begin{equation}
+\mathbb{E}[X] = \sum_i{x_i p(x_i)}
+\end{equation}
+
 # References
 
 [Stanford Intro to Info Theory](https://web.stanford.edu/~montanar/RESEARCH/BOOK/partA.pdf)
