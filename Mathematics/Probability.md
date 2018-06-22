@@ -12,6 +12,12 @@ The expectation of a random variable $X$ is the sum of the possible outcomes $x_
 \mathbb{E}[X] = \sum_i{x_i \, p(x_i)}
 \end{equation}
 
+If $x$ can take on values along the continuous real number line,
+\begin{equation}
+\mathbb{E}[X] = \integral{xf(x)}{x}
+\end{equation}
+
+
 # References
 
 [Stanford Intro to Info Theory](https://web.stanford.edu/~montanar/RESEARCH/BOOK/partA.pdf)
