@@ -1,7 +1,7 @@
 The sum of all the possible probabilities should be unity.
 
 \begin{equation}
-\sum_{x \in \, \chi} p_X(x) = 1
+\sum_{i} p_X(x_i) = 1
 \end{equation}
 
 ## Probability Density Function
