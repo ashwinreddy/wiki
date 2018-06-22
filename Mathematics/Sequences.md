@@ -1,0 +1,1 @@
+A sequence $(x_n)$ of real numbers is a function $f: \mathbb{N} \to \mathbb{R}$
