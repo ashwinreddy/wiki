@@ -9,6 +9,10 @@ The sum of all the possible probabilities should be unity.
 p(a \leq X \leq B) = \defint{a}{b}{f_X(x)}{x}
 \end{equation}
 
+### Gaussian Distibution
+
+Let's say we want a probability density function from $\exp(-x^2/2)$
+
 ## Expectation
 
 The expectation of a random variable $X$ is the sum of the possible outcomes $x_i$ multiplied by their respective probabilities $p(x_i)$
