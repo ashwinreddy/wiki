@@ -11,7 +11,7 @@ p(a \leq X \leq B) = \defint{a}{b}{f_X(x)}{x}
 
 ### Gaussian Distibution
 
-Let's say we want a probability density function from $\exp(-x^2/2)$
+Let's say we want a probability density function from $\exp\left(-\frac{x^2}{2}\right)$
 
 ## Expectation
 
