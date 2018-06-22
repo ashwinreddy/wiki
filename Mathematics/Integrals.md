@@ -70,7 +70,7 @@ C(r) = 2\pi{r}
 \end{equation}
 
 \end{equation}
-A = \defint{0}{r}{C(r)}{r}
+A = \defint{}{}{}{}
 \end{equation}
 
 ## Arc Length in $\mathbb{R}^2$
