@@ -11,7 +11,11 @@ p(a \leq X \leq B) = \defint{a}{b}{f_X(x)}{x}
 
 ### Gaussian Distibution
 
-Let's say we want a probability density function from $e^{-x^2/2}$
+Let's say we want a probability density function from $f(x)=e^{-x^2/2}$. First, we have to check that the integral is 1.
+
+\begin{gather}
+\defint{-\infty}{\infty}{f(x)}{x}
+\end{gather}
 
 ## Expectation
 
