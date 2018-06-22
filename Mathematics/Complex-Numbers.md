@@ -1,3 +1,3 @@
 \begin{equation}
-re^{i\theta} = r\cos\theta + \iota r \sin\theta = x + \iota y
+e^{\iota\theta} = \sin\theta + \iota\cos\theta
 \end{equation}
