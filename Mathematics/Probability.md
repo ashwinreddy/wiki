@@ -9,8 +9,6 @@ The sum of all the possible probabilities should be unity.
 p(a \leq X \leq B) = \defint{a}{b}{f_X(x)}{x}
 \end{equation}
 
-### Examples: Gaussian distribution
-
 ## Expectation
 
 The expectation of a random variable $X$ is the sum of the possible outcomes $x_i$ multiplied by their respective probabilities $p(x_i)$
