@@ -54,5 +54,5 @@ Simply put, all the elements that are not in A or B is the same as all the eleme
 ## Ordered Pairs
 
 \begin{equation}
-(x,y) = \\{ \\{x\\} \\}
+(x,y) = \\{ \\{x\\}, \\{x,y \\} \\}
 \end{equation}
