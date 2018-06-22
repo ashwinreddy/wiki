@@ -32,9 +32,6 @@ A \,\backslash\, B = \\{ {x \, | \, x \in A\text{ and } x \not\in B} \\}
 A\times{B} = \\{(a,b) \,|\, a \in A\text{ and }b \in B\\}
 \end{equation}
 
-$$
-\set{}{}
-$$
 
 
 \begin{equation}
