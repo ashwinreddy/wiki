@@ -1,5 +1,6 @@
 # Introduction
 
+
 ## Describing a set
 
 \begin{equation}
