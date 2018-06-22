@@ -12,7 +12,8 @@ The expectation of a random variable $X$ is the sum of the possible outcomes $x_
 \mathbb{E}[X] = \sum_i{x_i \, p(x_i)}
 \end{equation}
 
-If $x$ can take on values along the continuous real number line,
+If $x$ can take on values along the continuous real number line and $f$ is a probability density function,
+
 \begin{equation}
 \mathbb{E}[X] = \integral{x\,f(x)}{x}
 \end{equation}
