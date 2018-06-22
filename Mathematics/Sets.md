@@ -20,6 +20,12 @@ A \cup B = \\{x \, | \, x \in A\text{ or } x \in B\\}
 A \cap B = \\{x \, | \, x \in A\text{ and } x \in B\\}
 \end{equation}
 
+## Set Difference
+
+\begin{equation}
+A \ B
+\end{equation}
+
 ## Cartesian Product
 
 \begin{equation}
