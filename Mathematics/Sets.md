@@ -32,6 +32,10 @@ A \,\backslash\, B = \\{ {x \, | \, x \in A\text{ and } x \not\in B} \\}
 A\times{B} = \\{(a,b) \,|\, a \in A\text{ and }b \in B\\}
 \end{equation}
 
+$$
+\set
+$$
+
 
 \begin{equation}
 \mathbb{R}^n = \underbrace{\mathbb{R}\times\mathbb{R}\times\dots\times\mathbb{R}\times\mathbb{R}}_{\text{n times}}
