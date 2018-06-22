@@ -51,3 +51,8 @@ The product can be applied multiple times, so, for example,
 
 Simply put, all the elements that are not in A or B is the same as all the elements not in A and all the elements not in B.
 
+## Ordered Pairs
+
+\begin{equation}
+(x,y) = \\{ \\{x\\} \\}
+\end{equation}
