@@ -1,3 +1,3 @@
 \begin{equation}
-\mathbb{E} = 
+\mathbb{E}[f] = 
 \end{equation}
