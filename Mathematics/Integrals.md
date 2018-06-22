@@ -89,7 +89,7 @@ Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 # Line Integrals
 
 \begin{equation}
-\int_C{f(\,\vec{r}\,)\,\mathrm{d}s}
+\int_C{f\left(\,\vec{r}\,\right)\,\mathrm{d}s}
 \end{equation}
 
 
