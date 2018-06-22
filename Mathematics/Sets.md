@@ -26,6 +26,8 @@ A \cap B = \\{x \, | \, x \in A\text{ and } x \in B\\}
 A \,\backslash\, B = \\{ {x \, | \, x \in A\text{ and } x \not\in B} \\}
 \end{equation}
 
+We can also write $-A$ to denote all elements of a universal set $U$ that are not part of a subset $A$
+
 ## Cartesian Product
 
 \begin{equation}
