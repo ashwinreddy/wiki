@@ -34,7 +34,7 @@ We can also create ordered pairs from sets using the Cartesian product.
 A\times{B} = \\{(a,b) \,|\, a \in A\text{ and }b \in B\\}
 \end{equation}
 
-The product can be applied multiple times, so, for example.
+The product can be applied multiple times, so, for example,
 
 \begin{equation}
 \mathbb{R}^n = \underbrace{\mathbb{R}\times\mathbb{R}\times\dots\times\mathbb{R}\times\mathbb{R}}_{\text{n times}}
