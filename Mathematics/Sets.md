@@ -23,7 +23,7 @@ A \cap B = \\{x \, | \, x \in A\text{ and } x \in B\\}
 ## Set Difference
 
 \begin{equation}
-A \ B
+A \\ B
 \end{equation}
 
 ## Cartesian Product
