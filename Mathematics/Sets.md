@@ -28,6 +28,12 @@ A \,\backslash\, B = \\{ {x \, | \, x \in A\text{ and } x \not\in B} \\}
 
 We can also write $\tilde{A}$ to denote all elements of a universal set $U$ that are not part of the subset $A$.
 
+### DeMorgan's Laws
+
+\begin{equation}
+\tilde{A\cup{B}}
+\end{equation}
+
 ## Cartesian Product
 
 \begin{equation}
