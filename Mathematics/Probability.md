@@ -20,7 +20,7 @@ The expectation of a random variable $X$ is the sum of the possible outcomes $x_
 If $x$ can take on values along the continuous real number line and $f$ is a probability density function,
 
 \begin{equation}
-\mathbb{E}[X] = \integral{x\,f(x)}{x}
+\mathbb{E}[X] = \defint{-\infty}{\infty}{x\,f(x)}{x}
 \end{equation}
 
 
