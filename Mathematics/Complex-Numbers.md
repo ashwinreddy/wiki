@@ -1,3 +1,3 @@
 \begin{equation}
-e
+re^{i\theta}
 \end{equation}
