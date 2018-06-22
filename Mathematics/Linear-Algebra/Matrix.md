@@ -13,5 +13,5 @@
 ## Identity Matrix
 
 \begin{equation}
-(I_n)_{ij} = \delta_{ij}
+(I)_{ij} = \delta_{ij}
 \end{equation}
