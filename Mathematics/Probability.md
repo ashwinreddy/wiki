@@ -4,6 +4,11 @@ The sum of all the possible probabilities should be unity.
 \sum_{x \in \, \chi} p_X(x) = 1
 \end{equation}
 
+## Probability Density Function
+\begin{equation}
+p(a \leq X \geq B)
+\end{equation}
+
 ## Expectation
 
 The expectation of a random variable $X$ is the sum of the possible outcomes $x_i$ multiplied by their respective probabilities $p(x_i)$
