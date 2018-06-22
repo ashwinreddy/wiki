@@ -9,14 +9,6 @@ The sum of all the possible probabilities should be unity.
 p(a \leq X \leq B) = \defint{a}{b}{f_X(x)}{x}
 \end{equation}
 
-### Gaussian Distibution
-
-Let's say we want a probability density function from $f(x)=e^{-x^2/2}$. First, we have to check that the integral is 1.
-
-\begin{gather}
-\defint{-\infty}{\infty}{f(x)}{x}
-\end{gather}
-
 ## Expectation
 
 The expectation of a random variable $X$ is the sum of the possible outcomes $x_i$ multiplied by their respective probabilities $p(x_i)$
