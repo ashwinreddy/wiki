@@ -29,7 +29,7 @@ A \,\backslash\, B = \\{ {x \, | \, x \in A\text{ and } x \not\in B} \\}
 We can also write $\bar{A}$ to denote all elements of a universal set $U$ that are not part of the subset $A$.
 
 
-## Ordered Pairs
+## Cartesian Product
 
 \begin{equation}
 (x,y) = \\{ \\{x\\}, \\{x,y \\} \\}
