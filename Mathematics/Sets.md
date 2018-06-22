@@ -31,7 +31,7 @@ We can also write $\bar{A}$ to denote all elements of a universal set $U$ that a
 ### DeMorgan's Laws
 
 \begin{equation}
-\overline{A\cup{B}}
+\overline{A\cup{B}} = \bar{A}\cap{\bar{B}}
 \end{equation}
 
 ## Cartesian Product
