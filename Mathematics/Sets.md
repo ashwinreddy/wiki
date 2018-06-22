@@ -1,7 +1,7 @@
 ## Union
 
 \begin{equation}
-A \union B
+A \cup B
 \end{equation}
 
 ## Cartesian Product
