@@ -5,5 +5,5 @@ A function is an [ordered triple](./Sets#set-operations_cartesian-product) $(f, 
 # Types of Functions
 
 - surjective means that the codomain and range are the same. In other words, the function can map onto its codomain completely.
-- injective means that each input has only one output
+- injective means that no two inputs give the same output
 - bijective means that there's a complete one-to-one correspondence between inputs and outputs
