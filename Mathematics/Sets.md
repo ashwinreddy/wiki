@@ -1,7 +1,7 @@
 ## Union
 
 \begin{equation}
-A \cup B
+A \cup B = {x \, | \, x \in A\text{ or } x \in B}
 \end{equation}
 
 ## Cartesian Product
