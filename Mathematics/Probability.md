@@ -1,5 +1,5 @@
 \begin{equation}
-\sum_
+\sum_{x \in \chi}
 \end{equation}
 
 # References
