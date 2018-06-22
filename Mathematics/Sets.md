@@ -33,7 +33,7 @@ A\times{B} = \\{(a,b) \,|\, a \in A\text{ and }b \in B\\}
 \end{equation}
 
 $$
-\set
+\set{}{}
 $$
 
 
