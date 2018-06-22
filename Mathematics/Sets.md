@@ -1,4 +1,4 @@
-### Cartesian Cross Product
+### Cartesian Product
 
 \begin{equation}
 A\times{B} = \\{(a,b) | a \in A and b \in B\\}
