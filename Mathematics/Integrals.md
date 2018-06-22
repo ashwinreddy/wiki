@@ -91,7 +91,7 @@ Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 By the Stieltjes integral,
 
 \begin{equation}
-\int_C{\mathcal{O}\vec{r}\,\mathrm{d}s} = \defint{a}{b}{\mathcal{O}\left(\vec{r}(t)\right)\left|\dot{\vec{r}}\right|}{t}
+\int_C{\mathcal{O}\,\vec{r}\,\mathrm{d}s} = \defint{a}{b}{\mathcal{O}\left(\vec{r}(t)\right)\left|\dot{\vec{r}}\right|}{t}
 \end{equation}
 
 
