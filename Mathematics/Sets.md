@@ -1,4 +1,10 @@
-### Cartesian Product
+## Union
+
+\begin{equation}
+A \union B
+\end{equation}
+
+## Cartesian Product
 
 \begin{equation}
 A\times{B} = \\{(a,b) \,|\, a \in A\text{ and }b \in B\\}
