@@ -1,3 +1,3 @@
 \begin{equation}
-\mu(A)
+\mu(A) = 
 \end{equation}
