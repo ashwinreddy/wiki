@@ -4,6 +4,12 @@
 A \cup B = \\{x \, | \, x \in A\text{ or } x \in B\\}
 \end{equation}
 
+## Intersection
+
+\begin{equation}
+A \cap B = \\{x \, | \, x \in A\text{ and } x \in B\\}
+\end{equation}
+
 ## Cartesian Product
 
 \begin{equation}
