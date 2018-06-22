@@ -1,3 +1,11 @@
+# Introduction
+
+## Describing a set
+
+\begin{equation}
+S = \\{ x \in M : P(x) \\}
+\end{equation}
+
 ## Union
 
 \begin{equation}
