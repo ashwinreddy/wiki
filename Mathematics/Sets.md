@@ -34,6 +34,10 @@ We can also write $\bar{A}$ to denote all elements of a universal set $U$ that a
 \overline{A\cup{B}} = \bar{A}\cap{\bar{B}}
 \end{equation}
 
+\begin{equation}
+\overline{A\cap{B}} = \bar{A}\cup{\bar{B}}
+\end{equation}
+
 Simply put, all the elements that are not in A or B is the same as all the elements not in A and all the elements not in B.
 
 ## Cartesian Product
