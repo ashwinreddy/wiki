@@ -1,6 +1,3 @@
-\begin{equation}
-
-\end{equation}
 
 # References
 
