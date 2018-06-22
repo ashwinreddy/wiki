@@ -66,7 +66,11 @@ The intuition behind the formula for average value using integrals becomes much 
 ## Area of a Circle
 
 \begin{equation}
-C = 2\pi{r}
+C(r) = 2\pi{r}
+\end{equation}
+
+\end{equation}
+A = \defint{0}{r}{C(r)}{r}
 \end{equation}
 
 ## Arc Length in $\mathbb{R}^2$
