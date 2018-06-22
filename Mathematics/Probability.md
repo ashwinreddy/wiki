@@ -1,3 +1,3 @@
 \begin{equation}
-\sum_i p = 1
+\sum_{x \in \, \chi} p_X(x) = 1
 \end{equation}
