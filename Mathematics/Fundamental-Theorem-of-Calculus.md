@@ -2,6 +2,10 @@
 
 The **fundamental theorem of calculus** connects [derivatives](./Derivatives) and [integrals](./Integrals/).
 
+\begin{equation}
+\defint{a}{b}{}{f}
+\end{equation}
+
 ## Part One
 
 \begin{equation}
