@@ -1,5 +1,5 @@
 # Gauss's Law
 
 \begin{equation}
-\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0} \iff \oint{\vec{E}\cdot\diff{\vec{A}}} = \frac{q_{enc}}{\epsilon_0}
+\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0} \iff \phi_E = \oint{\vec{E}\cdot\diff{\vec{A}}} = \frac{q_{enc}}{\epsilon_0}
 \end{equation}
