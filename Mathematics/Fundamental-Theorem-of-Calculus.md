@@ -40,6 +40,8 @@ There's a sense in which $f$ is oriented towards $b$, contributing the term $f(b
 
 It is common to see the antiderivative of $f(x)$ written as $F(x)$.
 
+# Fundamental Theorem for Line Integrals
+
 # References
 
 [Video of Proof](https://youtu.be/4DrCKhCECHo)
