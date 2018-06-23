@@ -1,3 +1,3 @@
 \begin{equation}
-\exp\left({\iota\theta}\right) = \sin\theta + \iota\cos\theta
+e^{\iota\theta} = \sin\theta + \iota\cos\theta
 \end{equation}
