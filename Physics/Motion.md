@@ -1,3 +1,3 @@
 \begin{equation}
-\vec{a} = \dot{v}\vec{T} + \kappa{v^2}\vec{N}
+\vec{a} = \dot{v}\hat{T} + \kappa{v^2}\hat{N}
 \end{equation}
