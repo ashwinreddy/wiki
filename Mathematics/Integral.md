@@ -89,7 +89,7 @@ Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 # Lebesgue Integration
 
 \begin{equation}
-\int{f\,\diff{\mu}}
+\int f\,d\mu =\int _{0}^{\infty }f^{*}(t)\,dt
 \end{equation}
 
 # Line Integrals
