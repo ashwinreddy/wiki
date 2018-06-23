@@ -7,5 +7,5 @@
 \end{gather}
 
 \begin{equation}
-W = \Delta{k}
+W = \Delta{K}
 \end{equation}
