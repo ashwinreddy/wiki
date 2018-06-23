@@ -9,5 +9,5 @@
 # RLC
 
 \begin{equation}
-L\dot{i}+Ri+\frac{1}{C}\defint{0}{t}{i(\tau)}{\tau} = 0
+L\ddot{q}+R\dot{q}+\frac{q}{C} = 0
 \end{equation}
