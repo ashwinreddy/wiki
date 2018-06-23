@@ -14,11 +14,6 @@ A 1-form looks like
 \omega = \sum_i {F_i\left(\vec{x}\right)\diff{x_i}}
 \end{equation}
 
-The general form is
-\begin{equation}
-\omega = \sum_{1\leq i \lt j \leq n}{F_{ij}\left(\vec{x}\right)\diff{x_i}\wedge\diff{x_j}}
-\end{equation}
-
 ## 2-Form
 
 The basic differential 2-form looks like 
@@ -26,6 +21,13 @@ The basic differential 2-form looks like
 \begin{equation}
 \omega = \diff{x_i}\wedge\diff{x_j} \qquad 1 \leq i, j \leq n
 \end{equation}
+
+
+The general form is
+\begin{equation}
+\omega = \sum_{1\leq i \lt j \leq n}{F_{ij}\left(\vec{x}\right)\diff{x_i}\wedge\diff{x_j}}
+\end{equation}
+
 
 # Integration
 
