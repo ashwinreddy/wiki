@@ -43,7 +43,7 @@ It is common to see the antiderivative of $f(x)$ written as $F(x)$.
 # Fundamental Theorem for Line Integrals
 
 \begin{equation}
-\int_C{\vec\nabla f}
+\int_C{\del{ f}}
 \end{equation}
 
 # References
