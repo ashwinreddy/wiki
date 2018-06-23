@@ -1,5 +1,5 @@
 # Proof
 
 \begin{gather}
-\sum \vec{F}
+\sum \vec{F} = m\vec{a}
 \end{gather}
