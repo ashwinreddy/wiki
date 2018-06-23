@@ -53,3 +53,6 @@ Since the cross product is computed as a [[determinant]], it represents an area,
 \end{equation}
 
 Technically speaking, the cross product returns not a vector but a pseudovector.
+
+## Basis
+
