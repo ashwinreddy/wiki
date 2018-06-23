@@ -24,7 +24,7 @@ With that,
 Intuitively, as $h$ closes in, the value of the integral becomes 0.
 
 ## Part Two
-For a function $f \in C^1$,
+For a function $f \in \mathcal{C}^1$,
 
 \begin{equation}
 \int\limits_a^b{f'(x)\,\mathrm{d}x} = f(b) - f(a)
