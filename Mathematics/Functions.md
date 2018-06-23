@@ -21,7 +21,7 @@ A function can only have an inverse if it is injective.
 For example,
 
 \begin{equation}
-x = \cos{t} \qquad y = \sin{t}
+x(t) = \cos{t} \qquad y(t) = \sin{t}
 \end{equation}
 
 determines a circle in $\mathbb{R}^2$
