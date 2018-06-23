@@ -3,7 +3,7 @@
 The **fundamental theorem of calculus** connects [derivatives](./Derivatives) and [integrals](./Integrals/).
 
 \begin{equation}
-\defint{a}{b}{}{f}
+\defint{a}{b}{}{f} = f |
 \end{equation}
 
 ## Part One
