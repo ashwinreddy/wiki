@@ -1,3 +1,3 @@
 \begin{equation}
-\Phi
+\Phi_V 
 \end{equation}
