@@ -15,3 +15,11 @@ A function is an [ordered triple](./Sets#set-operations_cartesian-product) $(f, 
 \end{equation}
 
 A function can only have an inverse if it is injective.
+
+# Parametric Curves/Equations
+
+For example,
+
+\begin{equation}
+x = \cos{t} \qquad y = \sin{t}
+\end{equation}
