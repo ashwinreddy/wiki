@@ -1,3 +1,3 @@
 \begin{equation}
-\Phi_V 
+\Phi_V = \int{\vec{V}\cdot\diff{A}}
 \end{equation}
