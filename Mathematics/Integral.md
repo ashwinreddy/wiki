@@ -86,14 +86,6 @@ Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 \ell = \defint{a}{b}{f(x)}{s} = \defint{a}{b}{f(x)\sqrt{1+f'(x)^2}}{x}
 \end{equation}
 
-# Lebesgue Integration
-
-$f^{*}(t) = \mu(\\{x\, | \, f(x) > t\\})$
-
-\begin{equation}
-\int f\,d\mu =\defint{0}{\infty }{f^{*}(t)}{t}
-\end{equation}
-
 # Line Integrals
 
 \begin{equation}
