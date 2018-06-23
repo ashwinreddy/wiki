@@ -11,5 +11,5 @@
 # Impulse
 
 \begin{equation}
-\Delta{p} = \defint{t}{t_0}{F(t)}{t}
+\Delta{p} = \defint{t_0}{t}{F(t)}{t}
 \end{equation}
