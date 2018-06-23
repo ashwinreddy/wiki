@@ -33,7 +33,7 @@ $k$-forms integrate on a [$k$-manifold](./Manifold)
 
 Integrating a 1-form on a 1-manifold is just a scalar line integral.
 \begin{equation}
-\int_M{\omega} = \defint{a}{b}{\omega\left(\vec{X}'(t)\right)}{}
+\int_M{\omega} = \defint{a}{b}{\omega\left(\vec{X}\prime(t)\right)}{t}
 \end{equation}
 
 # Wedge Product
