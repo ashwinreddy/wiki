@@ -16,7 +16,7 @@ A 1-form looks like
 
 The general form is
 \begin{equation}
-\omega = \ sum_{1\leq i \lt j \leq n}
+\omega = \sum_{1\leq i \lt j \leq n}
 \end{equation}
 
 ## 2-Form
