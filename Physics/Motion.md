@@ -1,3 +1,3 @@
 \begin{equation}
-\ddot{\vec{x}}
+\vec{\ddot{x}}
 \end{equation}
