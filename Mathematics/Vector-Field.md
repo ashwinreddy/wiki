@@ -1,2 +1,2 @@
 # Conservative
-A conservative vector field $\vec{F}$ has a scalar potential function.
+A vector field $\vec{F}$ is conservative when $F_1\diff{x}+F_2\diff{y}$ is exact.
