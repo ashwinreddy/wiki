@@ -31,6 +31,11 @@ The basic differential 2-form looks like
 
 $k$-forms integrate on a [$k$-manifold](./Manifold)
 
+Integrating a 1-form on a 1-manifold is just a scalar line integral.
+\begin{equation}
+\int_M{\omega} = \defint{a}{b}{\omega\left(\vec{X}'(t)\right)}{}
+\end{equation}
+
 # Wedge Product
 
 For row vectors $\vec{u}$ and $\vec{v}$
