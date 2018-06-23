@@ -43,7 +43,7 @@ It is common to see the antiderivative of $f(x)$ written as $F(x)$.
 # Fundamental Theorem for Line Integrals
 
 \begin{equation}
-\int_C{\vec\nabla f \cdot \mathrm{d}\vec{r}} = f(\vec{r}(b)) - f(\vec{r}(a))
+\int_C{\vec\nabla f \cdot \mathrm{d}\vec{r}} = f\left(\vec{r}\left(b\right)\right) - f\left(\vec{r}\left(a\right)\right)
 \end{equation}
 
 # References
