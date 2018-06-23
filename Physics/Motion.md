@@ -11,5 +11,5 @@
 # Impulse
 
 \begin{equation}
-J = \defint{a}{b}{F(t)}{t}
+J = \defint{t}{t_0}{F(t)}{t}
 \end{equation}
