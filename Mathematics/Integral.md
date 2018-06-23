@@ -88,6 +88,8 @@ Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 
 # Lebesgue Integration
 
+$f^{*}(t) = \mu(\\{x | f(x) > t\\})$
+
 \begin{equation}
 \int f\,d\mu =\defint{0}{\infty }{f^{*}(t)}{t}
 \end{equation}
