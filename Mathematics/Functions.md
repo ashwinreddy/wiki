@@ -24,4 +24,4 @@ For example,
 x = \cos{t} \qquad y = \sin{t}
 \end{equation}
 
-determines a curve in $\mathbb{R}^2$
+determines a circle in $\mathbb{R}^2$
