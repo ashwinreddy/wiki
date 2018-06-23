@@ -29,7 +29,7 @@ The general form is
 \end{equation}
 
 
-# Integration
+# Generalized Stoke's Theorem
 
 $k$-forms integrate on a [$k$-manifold](./Manifold)
 
