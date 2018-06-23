@@ -15,5 +15,5 @@ Working in the space $\mathbb{R}^n$, a 0-form looks like
 A 1-form looks like
 
 \begin{equation}
-\omega = \sum_i{F_i(\vec{x})\diff{x_i}}
+\omega = {F_i(\vec{x})\diff{x^i}}
 \end{equation}
