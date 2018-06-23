@@ -23,3 +23,5 @@ For example,
 \begin{equation}
 x = \cos{t} \qquad y = \sin{t}
 \end{equation}
+
+determines a curve in $\mathbb{R}^2$
