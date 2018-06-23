@@ -57,5 +57,5 @@ Technically speaking, the cross product returns not a vector but a pseudovector.
 # Cauchy-Schwarz Inequality
 
 \begin{equation}
-|\vec{u}\cdot\vec{v}|^2 \leq 
+|\vec{u}\cdot\vec{v}| \leq |\vec{u}||\vec{v}|
 \end{equation}
