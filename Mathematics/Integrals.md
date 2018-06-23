@@ -94,7 +94,7 @@ By the Stieltjes integral,
 \int_C{\mathcal{O}\,\vec{r}\,\mathrm{d}s} = \defint{a}{b}{\mathcal{O}\,\vec{r}\left|\dot{\vec{r}}\right|}{t}
 \end{equation}
 
-$\mathcal{O}$ can either be a function of the form $\mathbb{R}^n \to \mathbb{R}$
+$\mathcal{O}$ can either be a scalar function or a vector function.
 
 
 # References
