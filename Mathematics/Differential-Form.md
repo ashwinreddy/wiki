@@ -17,7 +17,7 @@ A 1-form looks like
 ## 2-Form
 
 \begin{equation}
-\omega = \diff{x_i}\wedge\diff{x_j}
+\omega = \diff{x_i}\wedge\diff{x_j} \qquad 1 \leq i, j \leq n
 \end{equation}
 
 # Wedge Product
