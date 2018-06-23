@@ -27,6 +27,10 @@ The basic differential 2-form looks like
 \omega = \diff{x_i}\wedge\diff{x_j} \qquad 1 \leq i, j \leq n
 \end{equation}
 
+# Integration
+
+$k$-forms integrate on a [$k$-manifold](./Manifold)
+
 # Wedge Product
 
 For row vectors $\vec{u}$ and $\vec{v}$
