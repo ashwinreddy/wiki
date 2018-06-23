@@ -4,4 +4,4 @@ A one dimensional manifold is a curve in an arbitrary number of dimensions. A tw
 
 ## 0-form
 
-Working in the space $\mathbb{R}^n$, a 0-form looks like $\omega = f(x_1,\dots,x_n)$
+Working in the space $\mathbb{R}^n$, a 0-form looks like $$\omega = f(\vec{x})$$
