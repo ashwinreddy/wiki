@@ -91,7 +91,7 @@ Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 Here is a scalar field line integral.
 
 \begin{equation}
-\int_C{f(x,y)\,\diff{s}}
+\int_C{f\left(\vec{r}\right)\,\diff{s}}
 \end{equation}
 
 Here is a vector field line integral.
