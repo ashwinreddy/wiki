@@ -7,3 +7,9 @@
 \begin{equation}
 \vec{P}_{sys} = \sum_i \vec{p}_i = \sum_i m_i\vec{v}_i
 \end{equation}
+
+# Impulse
+
+\begin{equation}
+J = \defint{a}{b}{F(t)}{t}
+\end{equation}
