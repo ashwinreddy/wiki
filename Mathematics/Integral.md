@@ -89,7 +89,7 @@ Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 # Line Integrals
 
 \begin{equation}
-\int_C{\vec{F}\cdot\diff{r}}
+\int_C{\vec{F}\cdot\diff{\vec{r}}}
 \end{equation}
 
 $\mathcal{O}$ can either be a scalar function or a vector function.
