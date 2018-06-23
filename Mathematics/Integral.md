@@ -88,10 +88,8 @@ Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 
 # Line Integrals
 
-By the Stieltjes integral,
-
 \begin{equation}
-\int_C{\mathcal{O}\,\vec{r}\,\mathrm{d}s} = \defint{a}{b}{\mathcal{O}\,\vec{r}\left|\dot{\vec{r}}\right|}{t}
+\int_C{f\,\diff{s}}
 \end{equation}
 
 $\mathcal{O}$ can either be a scalar function or a vector function.
