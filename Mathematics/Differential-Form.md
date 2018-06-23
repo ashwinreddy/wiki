@@ -1,4 +1,3 @@
-
 ## 0-form
 
 Working in the space $\mathbb{R}^n$, a 0-form looks like 
@@ -13,6 +12,12 @@ A 1-form looks like
 
 \begin{equation}
 \omega = \sum_i {F_i\left(\vec{x}\right)\diff{x_i}}
+\end{equation}
+
+## 2-Form
+
+\begin{equation}
+\omega = \diff{x_i}\wedge\diff{x_j}
 \end{equation}
 
 # Wedge Product
