@@ -1,3 +1,3 @@
 \begin{equation}
-\phi
+\Phi
 \end{equation}
