@@ -1,3 +1,3 @@
 \begin{equation}
-\sum_i\vec{F}_i = m\vec{a}
+\sum\vec{F} = m\vec{a}
 \end{equation}
