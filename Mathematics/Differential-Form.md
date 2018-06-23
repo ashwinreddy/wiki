@@ -16,6 +16,8 @@ A 1-form looks like
 
 ## 2-Form
 
+The basic differential 2-form looks like 
+
 \begin{equation}
 \omega = \diff{x_i}\wedge\diff{x_j} \qquad 1 \leq i, j \leq n
 \end{equation}
