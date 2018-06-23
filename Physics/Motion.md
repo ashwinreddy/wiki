@@ -5,5 +5,5 @@
 # Momentum
 
 \begin{equation}
-\vec{P} = \sum_i \vec{p}_i = \sum_i m_i\vec{v}_i
+\vec{P}_{sys} = \sum_i \vec{p}_i = \sum_i m_i\vec{v}_i
 \end{equation}
