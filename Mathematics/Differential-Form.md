@@ -33,7 +33,7 @@ The general form is
 
 $k$-forms integrate on a [$k$-manifold](./Manifold)
 
-Integrating a 1-form on a 1-manifold:
+Integrating a 1-form on a 1-manifold $M=\vec{X}(t)$:
 
 \begin{equation}
 \int_M{\omega} = \defint{a}{b}{\omega\left(\vec{X}\prime(t)\right)}{t}
