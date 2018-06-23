@@ -16,7 +16,7 @@ A 1-form looks like
 
 The general form is
 \begin{equation}
-\omega = \sum_{1\leq i \lt j \leq n}
+\omega = \sum_{1\leq i \lt j \leq n}{F_{ij}\left(\vec{x}\right)\diff{x_i}\wedge\diff{x_j}}
 \end{equation}
 
 ## 2-Form
