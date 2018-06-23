@@ -14,6 +14,11 @@ A 1-form looks like
 \omega = \sum_i {F_i\left(\vec{x}\right)\diff{x_i}}
 \end{equation}
 
+The general form is
+\begin{equation}
+\omega = \ sum_{1\leq i \lt j \leq n}
+\end{equation}
+
 ## 2-Form
 
 The basic differential 2-form looks like 
