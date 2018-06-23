@@ -88,6 +88,12 @@ Notice the use of the [Stieltjes integral](#computation_stieltjes-integral).
 
 # Line Integrals
 
+Here is a scalar field line integral.
+
+\begin{equation}
+\int_C{f(x,y)\,\diff{s}}
+\end{equation}
+
 Here is a vector field line integral.
 
 \begin{equation}
