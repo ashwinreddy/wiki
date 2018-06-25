@@ -48,7 +48,7 @@ The general form is
 Whereas a 1-form eats one vector, a 2-form eats a parallelogram (which we can think of as being formed by 2 vectors).
 
 \begin{equation}
-\int_S{\diff{x}\wedge\diff{y}} = \text{area of shadow of surface of $S$ on $xy$ plaen}
+\int_S{\diff{x}\wedge\diff{y}} = \text{area of shadow of surface of $S$ on $xy$ plane}
 \end{equation}
 
 
