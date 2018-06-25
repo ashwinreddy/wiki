@@ -10,7 +10,7 @@ V_R=iR
 ## Capacitor
 
 \begin{equation}
-q = CV
+C = \frac{q}{V}
 \end{equation}
 
 ## Inductor
