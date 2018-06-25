@@ -14,6 +14,10 @@ When you start moving,
 - length contracts
 - time dilates
 
+\begin{equation}
+E = mc^2
+\end{equation}
+
 # General Relativity
 
 > Spacetime tells matter how to move; matter tells spacetime how to curve. - John Wheeler
