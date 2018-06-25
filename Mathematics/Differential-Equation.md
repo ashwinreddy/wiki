@@ -54,6 +54,8 @@ y(x) = \frac{\integral{\exp\left(P(x)\right)}{Q(x)}}{\exp\left(P(x)\right)}
 y\prime\prime + p(t)y\prime + q(t)y = g(t)
 \end{equation}
 
+To solve this equation, we must first find the solution when the RHS is 0 and then add in specific solutions to deal with $g(t)$.
+
 # References
 
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/Classes/DE/Linear.aspx)
