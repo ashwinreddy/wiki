@@ -6,9 +6,7 @@ The **Laplace Transform** takes a function in the time domain and returns an equ
 \mathscr{L}\\{f(t)\\} = \defint{0}{\infty}{f(t)\exp(-st)}{t}
 \end{equation}
 
-@startuml
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
-@enduml
+{{{{{{ blue-modern
+    alice->bob: Test
+    bob->alice: Test response
+}}}}}}
