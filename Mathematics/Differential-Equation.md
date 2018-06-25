@@ -73,11 +73,12 @@ y(t) = c_1 \exp({r_1t}) + c_2\exp({r_2t})
 
 ### One Double Root
 
-### Two Complex Roots
-
 \begin{equation}
 y(t) = c_1\exp(rt)+c_2t\exp(rt)
 \end{equation}
+
+### Two Complex Roots
+
 
 # References
 
