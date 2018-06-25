@@ -30,6 +30,8 @@ In the differential forms setup, the "gradient" is now
 \diff{f} = \frac{\partial f}{\partial x}\diff{x} + \frac{\partial f}{\partial y}\diff{y} + \frac{\partial f}{\partial z}\diff{z}
 \end{equation}
 
+$\diff{f}$ is called an exact 1-form here.
+
 ## 2-Form
 
 The basic differential 2-form looks like 
