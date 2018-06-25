@@ -1,6 +1,6 @@
 # Introduction
 
-Light is both a particle and a wave.
+Light is both a particle known as a photon and an electromagnetic wave.
 
 ## Speed of Light
 
