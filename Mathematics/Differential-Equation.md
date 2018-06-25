@@ -60,7 +60,7 @@ First, solve for the general case (i.e. $g(t)=0$). We use the eigenfunction of t
 
 \begin{gather}
 a\lambda^2e^{\lambda t} + b\lambda e^{\lambda t} + ce^{\lambda t} = 0 \\\
-e^{\lambda t}(a\lambda^2 + b\lambda + c)
+e^{\lambda t}(a\lambda^2 + b\lambda + c) = 0
 \end{gather}
 
 # References
