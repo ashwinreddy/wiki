@@ -14,6 +14,9 @@ C = \frac{q}{V}
 \end{equation}
 
 ## Inductor
+\begin{equation}
+L = \frac{\Phi_B}{i}
+\end{equation}
 
 # RLC
 
