@@ -66,7 +66,7 @@ Since $\exp$ can never return $0$, the root must come from the quadratic, which 
 ### Two Real Roots
 
 \begin{equation}
-y(t) = c_1 \exp{r_1t} + c_2e^{r_2t}
+y(t) = c_1 \exp{r_1t} + c_2\exp{r_2t}
 \end{equation}
 
 ### One Double Root
