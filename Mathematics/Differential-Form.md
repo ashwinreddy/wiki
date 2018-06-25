@@ -51,6 +51,10 @@ Whereas a 1-form eats one vector, a 2-form eats a parallelogram (which we can th
 \int_S{\diff{x}\wedge\diff{y}} = \text{area of shadow of surface of $S$ on $xy$ plane}
 \end{equation}
 
+\begin{equation}
+\int_S{F\diff{x}\wedge\diff{y}}
+\end{equation}
+
 
 # Generalized Stoke's Theorem
 
