@@ -65,6 +65,8 @@ Since $\exp$ can never return $0$, the root must come from the quadratic, which 
 
 ### Two Real Roots
 
+If there are two real roots $r_1$ and $r_2$, the solution to the equation follows, where $c_1$ and $c_2$ are arbitrary constants determined by initial vaues.
+
 \begin{equation}
 y(t) = c_1 \exp{r_1t} + c_2\exp{r_2t}
 \end{equation}
