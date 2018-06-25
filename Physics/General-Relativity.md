@@ -16,4 +16,5 @@ When you start moving,
 # General Relativity
 
 John Wheeler: 
+
 > Spacetime tells matter how to move; matter tells spacetime how to curve.
