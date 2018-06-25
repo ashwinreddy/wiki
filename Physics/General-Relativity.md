@@ -6,7 +6,7 @@ Applies only to IRFs
 \color{blue} \gamma \color{black} = \frac{1}{\sqrt{1-\frac{v^2}{c^2}}}
 \end{equation}
 
-If $v\ll{c}$, then $\gamma \approx 1$. $\gamma$ is the <span style="color: blue">**Lorentz factor**</span style="color: blue">.
+If $v\ll{c}$, then $\gamma \approx 1$. $\gamma$ is the <span style="color: blue">**Lorentz factor**</span>.
 
 When you start moving,
 
