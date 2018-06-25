@@ -75,6 +75,10 @@ y(t) = c_1 \exp({r_1t}) + c_2\exp({r_2t})
 
 ### Two Complex Roots
 
+\begin{equation}
+y(t) = c_1\exp{rt}+c_2t\exp{rt}
+\end{equation}
+
 # References
 
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/Classes/DE/Linear.aspx)
