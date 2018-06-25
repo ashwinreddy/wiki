@@ -19,6 +19,11 @@ A concrete example is $P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}$ for $\mathbb{R}^3$. 
 \int_C{P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}}=\defint{a}{b}{\left[P(x(t),y(t),z(t))\deriv{x}{t}+Q(x(t),y(t),z(t))\deriv{y}{t}+R(x(t),y(t),z(t))\deriv{z}{t}\right]}{t}
 \end{equation}
 
+Imagine also that this 1-form is also a function on vectors such that
+\begin{equation}
+\left(P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}\right)(a,b,c) = Pa+Qb+Rc
+\end{equation}
+
 ## 2-Form
 
 The basic differential 2-form looks like 
