@@ -61,27 +61,18 @@ a\lambda^2e^{\lambda t} + b\lambda e^{\lambda t} + ce^{\lambda t} = 0 \\\
 e^{\lambda t}(a\lambda^2 + b\lambda + c) = 0
 \end{gather}
 
-Since $\exp$ can never return $0$, the root must come from the quadratic, which is known as the **characteristic equation**. It is useful to look at the three cases then.
-
-### Two Real Roots
-
-If there are two real roots $r_1$ and $r_2$, the solution to the equation follows, where $c_1$ and $c_2$ are arbitrary constants determined by initial values.
+Since $\exp$ can never return $0$, the root must come from the quadratic, which is known as the **characteristic equation**. If there are two distinct roots (whether complex or real) $r_1$ and $r_2$, the solution to the equation follows, where $c_1$ and $c_2$ are arbitrary constants determined by initial values.
 
 \begin{equation}
 y(t) = c_1 \exp({r_1t}) + c_2\exp({r_2t})
 \end{equation}
 
-### One Double Root
+For a repeated/double root,
 
 \begin{equation}
 y(t) = c_1\exp(rt)+c_2t\exp(rt)
 \end{equation}
 
-### Two Complex Roots
-
-\begin{equation}
-y(t)=Ae^{at}\cos(bt-\phi)
-\end{equation}
 
 # References
 
