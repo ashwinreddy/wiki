@@ -7,5 +7,5 @@
 # Newton's General Gravitation
 
 \begin{equation}
-\vec{g}(\vec{r}) = -G\frac{m}{\left|\vec{r}\cdot\vec{r}\right|}\hat{r}
+\vec{g}(\vec{r}) = -G\frac{m}{r^2}\hat{r}
 \end{equation}
