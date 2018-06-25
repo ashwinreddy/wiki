@@ -76,7 +76,7 @@ y(t) = c_1 \exp({r_1t}) + c_2\exp({r_2t})
 ### Two Complex Roots
 
 \begin{equation}
-y(t) = c_1\exp{rt}+c_2t\exp{rt}
+y(t) = c_1\exp(rt)+c_2t\exp(rt)
 \end{equation}
 
 # References
