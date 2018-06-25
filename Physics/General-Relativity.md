@@ -12,3 +12,7 @@ When you start moving,
 
 - length contracts
 - time dilates
+
+# General Relativity
+
+John Wheeler: Spacetime tells matter how to move; matter tells spacetime how to curve.
