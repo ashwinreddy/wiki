@@ -9,5 +9,6 @@ Applies only to IRFs
 If $v\ll{c}$, then $\gamma \approx 1$. $\gamma$ is the **Lorentz factor**.
 
 When you start moving,
+
 - length contracts
 - time dilates
