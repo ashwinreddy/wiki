@@ -10,3 +10,7 @@
 \begin{equation}
 W = \Delta{K}
 \end{equation}
+
+\begin{equation}
+W_{nc} = \Delta{K} + \Delta{U}
+\end{equation}
