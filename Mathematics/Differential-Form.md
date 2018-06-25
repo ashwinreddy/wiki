@@ -52,7 +52,7 @@ Whereas a 1-form eats one vector, a 2-form eats a parallelogram (which we can th
 \end{equation}
 
 \begin{equation}
-\int_S{F\diff{x}\wedge\diff{y}}
+\int_S{f(x,y,z)\diff{x}\wedge\diff{y}}
 \end{equation}
 
 
