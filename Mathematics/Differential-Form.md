@@ -14,7 +14,10 @@ A 1-form looks like
 \omega = \sum_i {F_i\left(\vec{x}\right)\diff{x_i}}
 \end{equation}
 
-A concrete example is $P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}$ for $\mathbb{R}^3$
+A concrete example is $P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}$ for $\mathbb{R}^3$. We can, for example, compute its line integral
+\begin{equation}
+\int_C{P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}}=\defint{a}{b}{\left(P\deriv{x}{t}+Q\deriv{y}{t}+R\deriv{z}{t}\right)}{t}
+\end{equation}
 
 ## 2-Form
 
