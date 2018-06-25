@@ -3,7 +3,7 @@
 Working in the space $\mathbb{R}^n$, a 0-form looks like 
 
 \begin{equation}
-\omega = f\left(\vec{x}\right) \qquad \vec{x}\in\mathbb{R}^n \qquad f \in C^1
+\omega = f\left(\vec{x}\right) \qquad \vec{x}\in\mathbb{R}^n \qquad f \in \mathcal{C}^1
 \end{equation}
 
 ## 1-form
