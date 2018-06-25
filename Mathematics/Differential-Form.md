@@ -35,8 +35,6 @@ The general form is
 
 $k$-forms integrate on a [$k$-manifold](./Manifold)
 
-Integrating a 1-form on a 1-manifold $M=\vec{X}(t)$:
-
 \begin{equation}
 \int_{\partial M}{\omega} = \int_{M}\diff{\omega}
 \end{equation}
