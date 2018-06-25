@@ -14,7 +14,7 @@ A 1-form looks like
 \omega = \sum_i {F_i\left(\vec{x}\right)\diff{x_i}}
 \end{equation}
 
-A concrete example is $P\diff{x}+Q\diff{y}+R\diff{z}$
+A concrete example is $P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}$ for $\mathbb{R}^3$
 
 ## 2-Form
 
