@@ -24,6 +24,12 @@ Imagine also that this 1-form is also a function on a vector $\langle(a,b,c)\ran
 \left(P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}\right)(a,b,c) = P(x_0,y_0,z_0)a+Q(x_0,y_0,z_0)b+R(x_0,y_0,z_0)c
 \end{equation}
 
+In the differential forms setup, the "gradient" is now
+
+\begin{equation}
+\diff{f} = \frac{\partial f}{\partial x}\diff{x} + \frac{\partial f}{\partial y}\diff{y} + \frac{\partial f}{\partial z}\diff{z}
+\end{equation}
+
 ## 2-Form
 
 The basic differential 2-form looks like 
