@@ -2,6 +2,7 @@
 
 Light is both a particle known as a photon and an electromagnetic wave.
 
+
 ## Speed of Light
 
 \begin{equation}
