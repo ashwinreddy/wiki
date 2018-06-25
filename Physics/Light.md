@@ -7,3 +7,7 @@ Light is both a particle and a wave.
 \begin{equation}
 c = \frac{1}{\sqrt{\epsilon_0\mu_0}}
 \end{equation}
+
+# References
+
+[Wikipedia on speed of light](https://en.wikipedia.org/wiki/Speed_of_light)
