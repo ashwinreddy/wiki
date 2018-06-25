@@ -18,5 +18,5 @@ When you start moving,
 > Spacetime tells matter how to move; matter tells spacetime how to curve. - John Wheeler
 
 \begin{equation}
-G^{\mu\nu} = 8\pi G T^{\mu\nu}
+\underbrace{G^{\mu\nu}}_{\text{Einstein tensor}} = 8\pi G T^{\mu\nu}
 \end{equation}
