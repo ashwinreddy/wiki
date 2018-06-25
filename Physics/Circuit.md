@@ -2,6 +2,10 @@
 
 ## Resistor
 
+\begin{equation}
+V=iR
+\end{equation}
+
 ## Capacitor
 
 ## Inductor
