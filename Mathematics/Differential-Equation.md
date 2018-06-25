@@ -50,11 +50,11 @@ y(x) = \frac{\integral{\exp\left(P(x)\right)}{Q(x)}}{\exp\left(P(x)\right)}
 
 ## Second-Order Linear DEs
 
-\begin{equation}
-y\prime\prime + p(t)y\prime + q(t)y = g(t)
-\end{equation}
+### With Constant Coefficients
 
-To solve this equation, we must first find the solution when the RHS is 0 and then add in specific solutions to deal with $g(t)$.
+\begin{equation}
+ay\prime\prime + by\prime+cy=0
+\end{equation}
 
 # References
 
