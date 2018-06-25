@@ -40,10 +40,15 @@ The basic differential 2-form looks like
 \omega = \diff{x_i}\wedge\diff{x_j} \qquad 1 \leq i, j \leq n
 \end{equation}
 
-
 The general form is
 \begin{equation}
 \omega = \sum_{1\leq i \lt j \leq n}{F_{ij}\left(\vec{x}\right)\diff{x_i}\wedge\diff{x_j}}
+\end{equation}
+
+Whereas a 1-form eats one vector, a 2-form eats a parallelogram (which we can think of as being formed by 2 vectors).
+
+\begin{equation}
+\int_S{\diff{x}\wedge\diff{y}} = \text{area of shadow of surface of \math{S}}
 \end{equation}
 
 
