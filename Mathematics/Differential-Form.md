@@ -16,7 +16,7 @@ A 1-form looks like
 
 A concrete example is $P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}$ for $\mathbb{R}^3$. We can, for example, compute its line integral
 \begin{equation}
-\int_C{P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}}=\defint{a}{b}{\left(P\deriv{x}{t}+Q\deriv{y}{t}+R\deriv{z}{t}\right)}{t}
+\int_C{P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}}=\defint{a}{b}{\left[P\deriv{x}{t}+Q\deriv{y}{t}+R\deriv{z}{t}\right]}{t}
 \end{equation}
 
 ## 2-Form
