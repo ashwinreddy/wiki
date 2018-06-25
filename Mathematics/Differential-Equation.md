@@ -51,7 +51,7 @@ y(x) = \frac{\integral{\exp\left(P(x)\right)}{Q(x)}}{\exp\left(P(x)\right)}
 ## Second-Order Linear DEs
 
 \begin{equation}
-y\prime\prime
+y\prime\prime + p(t)y\prime + q(t)y = g(t)
 \end{equation}
 
 # References
