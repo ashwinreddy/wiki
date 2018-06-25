@@ -80,7 +80,7 @@ y(t) = c_1\exp(rt)+c_2t\exp(rt)
 ### Two Complex Roots
 
 \begin{equation}
-y(t)=e^{at}\left(\cos(bt-\phi)\right)
+y(t)=e^{at}\cos(bt-\phi)
 \end{equation}
 
 # References
