@@ -7,5 +7,5 @@
 # Faraday's Law
 
 \begin{equation}
-\vec\nabla\times\vec{E} = -\frac{\partial \vec{B}}{\partial t} \iff
+\vec\nabla\times\vec{E} = -\frac{\partial \vec{B}}{\partial t} \iff \oint{\vec{E}\cdot\diff{\vec{s}}}
 \end{equation}
