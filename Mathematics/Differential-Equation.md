@@ -56,7 +56,7 @@ y(x) = \frac{\integral{\exp\left(P(x)\right)}{Q(x)}}{\exp\left(P(x)\right)}
 ay\prime\prime + by\prime+cy=g(t)
 \end{equation}
 
-First, solve for the general case (i.e. $g(t)=0$)
+First, solve for the general case (i.e. $g(t)=0$). We use the eigenfunction of the derivative here.
 
 # References
 
