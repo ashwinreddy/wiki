@@ -1,6 +1,6 @@
 # Introduction
 
-Electric field governed by Maxwell's equations. Gauss's Law and Faraday's Law describe the divergence and curl of $\vec{E}$, respectively.
+The electric field is governed by Maxwell's equations. Gauss's Law and Faraday's Law describe the divergence and curl of $\vec{E}$, respectively.
 
 ## Gauss's Law
 
