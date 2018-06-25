@@ -63,6 +63,8 @@ a\lambda^2e^{\lambda t} + b\lambda e^{\lambda t} + ce^{\lambda t} = 0 \\\
 e^{\lambda t}(a\lambda^2 + b\lambda + c) = 0
 \end{gather}
 
+Since $\exp$ can never return $0$, the root must come from the quadratic, which is known as the characteristic equation.
+
 # References
 
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/Classes/DE/Linear.aspx)
