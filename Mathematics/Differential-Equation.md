@@ -59,7 +59,7 @@ ay\prime\prime + by\prime+cy=g(t)
 First, solve for the general case (i.e. $g(t)=0$). We use the eigenfunction of the derivative here.
 
 \begin{equation}
-a\lambda^2e^{\lambda t} + b\lambdae^{\lambda t} + ce^{\lambda t} = 0
+a\lambda^2e^{\lambda t} + b\lambda e^{\lambda t} + ce^{\lambda t} = 0
 \end{equation}
 
 # References
