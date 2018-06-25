@@ -7,3 +7,6 @@ Applies only to IRFs
 \end{equation}
 
 If $v\ll{c}$, then $\gamma \approx 1$. $\gamma$ is the **Lorentz factor**.
+
+- length contraction
+- time dilation
