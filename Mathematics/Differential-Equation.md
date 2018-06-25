@@ -56,6 +56,8 @@ y(x) = \frac{\integral{\exp\left(P(x)\right)}{Q(x)}}{\exp\left(P(x)\right)}
 ay\prime\prime + by\prime+cy=g(t)
 \end{equation}
 
+First, solve for the general case (i.e. $g(t)=0$)
+
 # References
 
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/Classes/DE/Linear.aspx)
