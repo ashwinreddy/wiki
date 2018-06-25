@@ -21,7 +21,7 @@ A concrete example is $P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}$ for $\mathbb{R}^3$. 
 
 Imagine also that this 1-form is also a function on a vector $\langle(a,b,c)\rangle$ at a point $(x_0,y_0,z_0)$
 \begin{equation}
-\left(P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}\right)(a,b,c) = Pa+Qb+Rc
+\left(P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}\right)(a,b,c) = P(x_0,y_0,z_0)a+Q(x_0,y_0,z_0)b+R(x_0,y_0,z_0)c
 \end{equation}
 
 ## 2-Form
