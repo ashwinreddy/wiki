@@ -1,5 +1,5 @@
 # Introduction
 
 \begin{equation}
-\mathcal{L}
+\mathscr{L}
 \end{equation}
