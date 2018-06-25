@@ -14,4 +14,3 @@ Electric field governed by Maxwell's equations. Gauss's Law and Faraday's Law de
 \vec\nabla\times\vec{E} = -\frac{\partial \vec{B}}{\partial t} \iff \oint{\vec{E}\cdot\diff{\vec{s}}} = -\deriv{\Phi_B}{t} \qquad \Phi_B = \vec{B}\cdot\vec{A}
 \end{equation}
 
-# 
