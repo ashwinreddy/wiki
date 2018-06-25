@@ -8,8 +8,6 @@ Applies only to IRFs
 
 If $v\ll{c}$, then $\gamma \approx 1$. $\gamma$ is the **Lorentz factor**.
 
-<span style="color:blue">some *This is Blue italic.* text</span>
-
 
 When you start moving,
 
