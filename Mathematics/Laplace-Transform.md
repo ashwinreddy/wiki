@@ -1,5 +1,5 @@
 # Introduction
 
 \begin{equation}
-\mathscr{L}
+\mathscr{L}\\{f\\}
 \end{equation}
