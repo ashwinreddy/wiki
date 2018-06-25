@@ -53,7 +53,7 @@ y(x) = \frac{\integral{\exp\left(P(x)\right)}{Q(x)}}{\exp\left(P(x)\right)}
 ### With Constant Coefficients
 
 \begin{equation}
-ay\prime\prime + by\prime+cy=0
+ay\prime\prime + by\prime+cy=g(t)
 \end{equation}
 
 # References
