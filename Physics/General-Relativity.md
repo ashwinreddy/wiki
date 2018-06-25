@@ -1,6 +1,6 @@
 # Special Relativity
 
-Applies to IRFs
+Applies only to IRFs
 
 \begin{equation}
 \gamma = \frac{1}{\sqrt{1-\frac{v^2}{c^2}}}
