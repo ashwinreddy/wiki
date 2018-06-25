@@ -4,7 +4,7 @@
 
 Ohm's law is an empirical law, not a deep law of physics.
 \begin{equation}
-V_R=iR
+R=\frac{V_R}{i}
 \end{equation}
 
 ## Capacitor
