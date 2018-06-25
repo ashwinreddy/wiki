@@ -48,6 +48,12 @@ Equation \eqref{eq:folde} is the general form of a first-order linear differenti
 y(x) = \frac{\integral{\exp\left(P(x)\right)}{Q(x)}}{\exp\left(P(x)\right)}
 \end{equation}
 
+## Second-Order Linear DEs
+
+\begin{equation}
+y\pprime
+\end{equation}
+
 # References
 
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/Classes/DE/Linear.aspx)
