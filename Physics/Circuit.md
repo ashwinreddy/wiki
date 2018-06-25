@@ -2,6 +2,7 @@
 
 ## Resistor
 
+Ohm's law is an empirical law, not a deep law of physics.
 \begin{equation}
 V=iR
 \end{equation}
