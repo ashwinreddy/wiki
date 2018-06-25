@@ -60,7 +60,7 @@ Whereas a 1-form eats one vector, a 2-form eats a parallelogram (which we can th
 
 # Generalized Stoke's Theorem
 
-$k$-forms integrate on a [$k$-manifold](./Manifold)
+$k$-forms integrate on a $k$-[manifold](./Manifold)
 
 \begin{equation}
 \int_{\partial M}{\omega} = \int_{M}\diff{\omega}
