@@ -48,9 +48,7 @@ Equation \eqref{eq:folde} is the general form of a first-order linear differenti
 y(x) = \frac{\integral{\exp\left(P(x)\right)}{Q(x)}}{\exp\left(P(x)\right)}
 \end{equation}
 
-## Second-Order Linear DEs
-
-### With Constant Coefficients
+## Second-Order Linear DEs with Constant Coefficients
 
 \begin{equation}
 ay\prime\prime + by\prime+cy=g(t)
@@ -63,7 +61,13 @@ a\lambda^2e^{\lambda t} + b\lambda e^{\lambda t} + ce^{\lambda t} = 0 \\\
 e^{\lambda t}(a\lambda^2 + b\lambda + c) = 0
 \end{gather}
 
-Since $\exp$ can never return $0$, the root must come from the quadratic, which is known as the **characteristic equation**.
+Since $\exp$ can never return $0$, the root must come from the quadratic, which is known as the **characteristic equation**. It is useful to look at the three cases then.
+
+### Two Real Roots
+
+### One Double Root
+
+### Two Complex Roots
 
 # References
 
