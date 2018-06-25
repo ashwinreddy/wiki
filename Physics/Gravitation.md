@@ -12,7 +12,7 @@
 
 ## Gauss's Law for Gravity
 
-Note similarity to 
+Note similarity to [Gauss's Law for Electric Fields](Electric-Field#gauss-s-law)
 
 \begin{equation}
 \vec\nabla\cdot\vec{g} = -4\pi{G}\rho \iff \oint{\vec{g}\cdot\diff{\vec{A}}} = -4\pi{GM}
