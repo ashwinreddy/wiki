@@ -7,5 +7,5 @@
 # Newton's General Gravitation
 
 \begin{equation}
-\vec{F}_G = \frac{GMm}{r^2}\hat{r}
+\vec{F}_{G,M\to m} = \frac{GMm}{r^2}\hat{r}
 \end{equation}
