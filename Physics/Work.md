@@ -10,7 +10,3 @@
 \begin{equation}
 W = \Delta{K}
 \end{equation}
-
-\begin{equation}
-W_{\text{non-conservative}} = \Delta{K} + \Delta{U}
-\end{equation}
