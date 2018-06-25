@@ -9,6 +9,10 @@ V_R=iR
 
 ## Capacitor
 
+\begin{equation}
+q = CV
+\end{equation}
+
 ## Inductor
 
 # RLC
