@@ -6,7 +6,7 @@ The **derivative** is a linear operator that gives the local slope of a function
 \deriv{f(x)}{x} = \lim_{\epsilon\to 0}\frac{f(x+\epsilon)-f(x)}{\epsilon}
 \end{equation}
 
-The derivative at a point requires that the function be continuous at that point. Continuity at a point $(x_0,f(x_0))$ requires that
+The derivative at a point requires that the function be continuous at that point. Continuity at a point $x_0$ for a function $f$ requires that
 \begin{equation}
 \lim_{x\to{x_0}}f(x) = f(x_0)
 \end{equation}
