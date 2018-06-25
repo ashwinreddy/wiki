@@ -13,5 +13,5 @@
 ## Gauss's Law for Gravity
 
 \begin{equation}
-\oint{\vec{g}\cdot\diff{A}}
+\oint{\vec{g}\cdot\diff{\vec{A}}}
 \end{equation}
