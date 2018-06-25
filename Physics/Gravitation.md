@@ -12,6 +12,8 @@
 
 ## Gauss's Law for Gravity
 
+Note similarity to 
+
 \begin{equation}
 \vec\nabla\cdot\vec{g} = -4\pi{G}\rho \iff \oint{\vec{g}\cdot\diff{\vec{A}}} = -4\pi{GM}
 \end{equation}
