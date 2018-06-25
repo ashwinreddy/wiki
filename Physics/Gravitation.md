@@ -9,3 +9,9 @@
 \begin{equation}
 \vec{g}\left(\vec{r}\right) = Gm_1\vec\nabla\left[\frac{1}{r}  \right]
 \end{equation}
+
+## Gauss's Law for Gravity
+
+\begin{equation}
+\oint{\vec{g}\cdot\diff{A}}
+\end{equation}
