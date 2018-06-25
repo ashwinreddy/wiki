@@ -1,6 +1,6 @@
 # Introduction
 
-The **derivative** is a linear operator that gives the local slope of a function.
+The **derivative** is a linear operator that gives the local slope of a function. This means that the derivative loses information about the y-intercept.
 
 \begin{equation}
 \deriv{f(x)}{x} = \lim_{\epsilon\to 0}\frac{f(x+\epsilon)-f(x)}{\epsilon}
@@ -10,8 +10,6 @@ The derivative at a point requires that the function be continuous at that point
 \begin{equation}
 \lim_{x\to{x_0}}f(x) = f(x_0)
 \end{equation}
-
-This means that the derivative loses information about the y-intercept.
 
 # Chain Rule
 
