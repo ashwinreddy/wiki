@@ -1,3 +1,7 @@
+# Introduction
+
+A complex number is any number of the form $a+b\iota$ where $\iota=\sqrt{-1}$ 
+
 # Euler's Formula
 
 \begin{equation}
