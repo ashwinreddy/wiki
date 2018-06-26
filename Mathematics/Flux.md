@@ -1,3 +1,3 @@
 \begin{equation}
-\Phi_Q = \int{\vec{Q}\cdot\diff{\vec{A}}}
+\Phi_F = \int{\vec{F}\cdot\diff{\vec{A}}}
 \end{equation}
