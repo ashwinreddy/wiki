@@ -1,6 +1,6 @@
 # Bonds
 
-There are covalent and ionic bonds. 
+There are covalent and ionic bonds. Ionic bonds 
 
 # Ideal Gas Law
 
