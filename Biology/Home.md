@@ -194,4 +194,91 @@
 * Renal failure
     * Dialysis: external artificial kidney
     * Draws blood and uses dialysis tubing
-    * 
+
+# Digestive System
+
+* Herbivores eat plants, carnivores eat meat, omnivores eat both
+* Types of feeding mechanisms (not a focus)
+    * Filter feeders
+    * Substrate feeders
+    * Fluid feeders
+    * Bulk feeders
+* Phases of Digestion
+    * Ingestion: eating
+        * Tongue & mouth to pharynx
+    * Digestion: breakdown of food
+        * Mechanically breakdown
+        * Chemical breakdown
+    * Absorption:
+        * Cells lining digestive tract absorb small molecules
+    * Elimination
+        * Undigested material passes the tract
+* Digestion mechanism
+    * Gastrovascular cavity
+        * single opening for food and waste
+    * Alimentary canal
+        * Pharynx/throat
+        * Next is either a crop or a gizzard or a stomach
+        * Organ that softens and stores food (for children)
+        * Muscular gizzard stores food temporarily, churning and grinding food
+        * Chemical digestion in intestine
+        * Undigested material through anus
+    * Grasshoppers have gastric pouches and a hindgut (like a colon)
+* Mechanical digestion
+    * breaking food down into smaller pieces, easier to swallow and more surface area exposed to digestive fluids
+* Where are the polymers digested?
+    * Lipid
+        * small intestine (lipase from pancreas, bile from liver)
+    * Protein
+        * stomach (pepsinogen), small intestine
+    * Nucleic Acid
+        * Small Intestine (pancreas)
+    * Carbohydrates
+        * Mouth (amylase), stomach
+* Digestion in the oral cavity
+    * Teeth break up food, saliva moistens it
+        * Enzymes to hydrolyze starch
+        * buffers to neutralize acid
+        * antibacterial agents
+    * Tongue creates a bolus of food and moves it toward the pharynx (epiglottis)
+* Peristalsis
+    * Alternative waves of contraction and relaxation by smooth muscles to move food
+    * Sphincters control movement into and out of digestive chambers
+        * pyloric sphincter: regulate passage of food from stomach to small intestine
+* Stomach
+    * Parietal cells secrete hydrogen and chloride ions to make HCl
+    * Acid kills bacteria & breaks apart cells in food
+    * Chief cells produce pepsinogen, activated with acid, breaking down proteins
+    * Stomach outputs acid chyme
+    * Mucus and constant relining keeps the stomach from being digested
+* Acid reflux is when stomach acid goes back up the esophagus
+* Small intestine
+    * First portion is the duodenum
+    * Acid chyme neutralized by alkaline pancreatic juice before entering the sm. intestine
+    * Bile, made by liver and stored in gallbladder, acts as an emulsifying agent for fat
+    * Surface area of absorption is increased by folds and villi
+* Liver: stores and processes nutrients
+    * Glucose turned into glycogen
+    * Synthesizes proteins (e.g. blood clotting, lipoproteins)
+    * Produces bile
+    * Detoxification
+* Appendix: junction between small intestine and colon
+* Cecum: useful for digesting plants
+* Large intestine: reclaim water and compact feces
+    * More than half of feces is E. coli bacteria
+* Dietary modifications
+    * Carnivores have shorter tracts than herbivores and omnivores
+    * Herbivores have rumination
+* Chemical energy
+    * Basal metabolic rate and metabolic rate
+    * Excess energy as glycogen or fat
+    * Undernourishment: not enough calories
+    * Malnourishment: missing essential nutrients
+* Minerals
+    * Calcium & phosphorus
+* Everything happens in stages
+    * Boluses are dealt with one at a time
+    * The stomach squirts just a bit of chyme to small intestine and waits to squirt more
+* Fun facts
+    * Humpback whales strain krill from seawater with baleens
+    * Sponges digest food with vacuoles
