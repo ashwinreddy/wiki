@@ -41,7 +41,7 @@
         * goes to nucleus
         * creates mRNA which leaves the cell
 * Vertebrate Endocrine System
-    * > 12 glands, > 50 hormones
+    * more than 12 glands and 50 hormones
     * Glands
         * e.g. Hypothalamus, Pineal, Pituitary, Thyroid, parathyroid, thymus, adrenal, pancreas, ovary, testes
 * Hypothalamus: master control center
