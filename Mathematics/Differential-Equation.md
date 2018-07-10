@@ -35,15 +35,6 @@ Autonomous differential equations are strictly a function of the dependent varia
 \frac{\mathrm{d}y}{\mathrm{d}x} = f(y)
 \end{equation}
 
-## First-Order Linear DEs
-
-Equation \eqref{eq:folde} is the general form of a first-order linear differential equation.
-
-\begin{equation}
-\deriv{y}{x} + p(x)y = q(x)
-\label{eq:folde}
-\end{equation}
-
 \begin{equation}
 y(x) = \frac{\integral{\exp\left(P(x)\right)}{Q(x)}}{\exp\left(P(x)\right)}
 \end{equation}
