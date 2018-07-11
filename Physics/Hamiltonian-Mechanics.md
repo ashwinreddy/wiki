@@ -3,5 +3,5 @@
 \end{equation}
 
 \begin{equation}
-\dot{\vec{p}} = - \frac{\partial \mathcal H}{\partial q}
+\dot{\vec{p}} = - \frac{\partial \mathcal H}{\partial \vec q}
 \end{equation}
