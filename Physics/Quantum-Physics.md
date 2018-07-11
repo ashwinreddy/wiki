@@ -12,3 +12,7 @@ $\Psi$ is a wave function. In 1D,
 \begin{equation}
 p = \frac{h}{\lambda}
 \end{equation}
+
+\begin{equation}
+\sigma_x\sigma_p \geq \frac{\bar{h}}{2\pi}
+\end{equation}
