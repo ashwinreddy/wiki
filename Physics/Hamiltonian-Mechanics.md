@@ -1,3 +1,3 @@
 \begin{equation}
-\mathcal{H} = K + U
+\mathcal{H} = \frac{p^2}{2m} + U
 \end{equation}
