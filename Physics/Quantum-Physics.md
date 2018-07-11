@@ -8,3 +8,7 @@ $\Psi$ is a wave function. In 1D,
 \begin{equation}
 \int\limits_{-\infty}^{\infty}|\Psi|^2 \mathrm{d}x = 1
 \end{equation}
+
+\begin{equation}
+p = \frac{h}{\lambda}
+\end{equation}
