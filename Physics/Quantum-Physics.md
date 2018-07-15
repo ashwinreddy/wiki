@@ -31,4 +31,4 @@ p = \frac{h}{\lambda}
 
 ## General Relativity
 
-> Spacetime tells matter how to move; matter tells spacetime how to curve. `r tufte::quote_footer("-John Wheeler")`
+> Spacetime tells matter how to move; matter tells spacetime how to curve. - John Wheeler
