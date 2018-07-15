@@ -16,3 +16,19 @@ p = \frac{h}{\lambda}
 \begin{equation}
 \sigma_x\sigma_p \geq \frac{\bar{h}}{2\pi}
 \end{equation}
+
+## Special Relativity
+
+\begin{equation}
+\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
+\end{equation}
+
+## Heisenberg Uncertainty Principle
+
+\begin{equation}
+\sigma_x \sigma_p \geq \frac{\hbar}{2}
+\end{equation}
+
+## General Relativity
+
+> Spacetime tells matter how to move; matter tells spacetime how to curve. `r tufte::quote_footer("-John Wheeler")`
