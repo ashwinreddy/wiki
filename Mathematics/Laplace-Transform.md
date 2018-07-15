@@ -7,6 +7,6 @@ The **Laplace Transform** takes a function in the time domain and returns an equ
 \end{equation}
 
 {{{{{{ blue-modern
-    alice->bob: Test
+    laplace->algebra
     bob->alice: Test response
 }}}}}}
