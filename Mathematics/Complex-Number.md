@@ -1,7 +1,3 @@
-# Introduction
-
-A complex number is any number of the form $a+b\iota$ where $\iota=\sqrt{-1}$.
-
 # Complex Numbers as Vectors
 
 The modulus of $z=x+y\iota$ is $|z|=\sqrt{x^2 + y^2}$. 
