@@ -36,20 +36,3 @@ For a function $f \in \mathcal{C}^1$,
 
 There's a sense in which $f$ is oriented towards $b$, contributing the term $f(b)$, and away from $a$, contributing $-f(a)$.
 
-# Antiderivative
-
-\begin{equation}
-\integral{f'(x)}{x} = f(x) + C
-\end{equation}
-
-It is common to see the antiderivative of $f(x)$ written as $F(x)$.
-
-# Fundamental Theorem for Line Integrals
-
-\begin{equation}
-\int_C{\vec\nabla f \cdot \mathrm{d}\vec{r}} = f\left(\vec{r}\left(b\right)\right) - f\left(\vec{r}\left(a\right)\right)
-\end{equation}
-
-# References
-
-[Video of Proof](https://youtu.be/4DrCKhCECHo)
