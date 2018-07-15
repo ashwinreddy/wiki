@@ -1,5 +1,5 @@
 \begin{equation}
-\mathcal{H} = \frac{p^2}{2m} + U
+\mathcal{H} = K + U
 \end{equation}
 
 \begin{equation}
