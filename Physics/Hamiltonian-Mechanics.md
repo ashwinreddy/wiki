@@ -1,5 +1,5 @@
 \begin{equation}
-\mathcal{H} = \text{mechanical energy}
+\mathcal{H} = \text{mechanical energy} = E_{\text{mechanical}}
 \end{equation}
 
 \begin{equation}
