@@ -1,1 +1,0 @@
-[Proof of Euler-Lagrange](https://drive.google.com/file/d/1RrVvwoGYwy7De8P6b40Djz1-R-zpG-Rw/view?usp=sharing)
