@@ -1,5 +1,5 @@
 \begin{equation}
-\mathcal{H} = K + U
+\mathcal{H} = \text{mechanical energy}
 \end{equation}
 
 \begin{equation}
