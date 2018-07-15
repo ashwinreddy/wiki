@@ -8,5 +8,4 @@ The **Laplace Transform** takes a function in the time domain and returns an equ
 
 {{{{{{ blue-modern
     laplace->algebra
-    bob->alice: Test response
 }}}}}}
