@@ -17,7 +17,7 @@ Result of $E=mc^2$ and $E=hf$?
 
 ## Schrodinger Equation
 $$
-\iota\hbar \dot{\psi}(x,t) = \hat{\mathcal{H}}\, \psi(x,t)
+\dot{\psi}(x,t) = \frac{1}{\iota\hbar }\hat{\mathcal{H}}\, \psi(x,t)
 $$
 
 ## Special Relativity
