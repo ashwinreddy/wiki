@@ -41,5 +41,5 @@ $$
 $$
 
 $$
-\nabla^2 \varphi - \frac{1}{c^2}\frac{\partial^2 \varphi}{\partial t^2} = -\frac{\rho}{\epsilon_)}
+\nabla^2 \varphi - \frac{1}{c^2}\frac{\partial^2 \varphi}{\partial t^2} = -\frac{\rho}{\epsilon_0}
 $$
