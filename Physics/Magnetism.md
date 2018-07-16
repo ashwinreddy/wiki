@@ -7,7 +7,7 @@ The vector potential $\vec{A}$ is such that the result of its curl is $\vec{B}$.
 \end{equation}
 
 $$
-\vec{A}\left(\vec{r}\right)
+\vec{A}\left(\vec{r}\right) = \frac{1}{4\pi}\int_{\mathbb{R}^3}\frac{}{}\mathrm{d}^3y
 $$
 
 
