@@ -1,2 +1,4 @@
+:fox:
+
 <<GlobalTOC("Pages")>>
 
