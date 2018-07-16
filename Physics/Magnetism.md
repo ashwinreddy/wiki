@@ -9,3 +9,7 @@ The vector potential $\vec{A}$ is such that the result of its curl is $\vec{B}$.
 $$
 \vec{E} = -\vec\nabla V
 $$
+
+$$
+\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0}
+$$
