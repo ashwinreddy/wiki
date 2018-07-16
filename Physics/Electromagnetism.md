@@ -53,6 +53,8 @@ $$
 
 # Electromagnetism
 
+Lorentz force:
+
 $$
 \vec{F} = q\left[\vec{E} + \vec{v}\times\vec{B}\right]
 $$
