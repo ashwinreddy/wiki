@@ -3,7 +3,7 @@
 if $f$ is a function of $x$ and $y$,
 
 $$
-df = \partial_xf dx + \partial_y f dy
+df = \frac{\partial f}{\partial x}\mathrm{d}x + \frac{\partial f}{\partial y}\mathrm{d}y
 $$
 
 ## HM
