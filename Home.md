@@ -1,5 +1,5 @@
 $$
-a + b 😀
+🦊
 $$
 
 <<GlobalTOC("Pages")>>
