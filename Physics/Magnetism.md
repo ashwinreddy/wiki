@@ -19,3 +19,7 @@ Poisson's equation for electrostatics is
 \begin{equation}
 \nabla^2 V = -\frac{\rho}{\epsilon_0}
 \end{equation}
+
+$$
+V(r) = \frac{Q}{4\pi\epsilon r}
+$$
