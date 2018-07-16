@@ -7,7 +7,7 @@ $$
 $$
 
 $$
-\mathrm{d}(wy) = y\mathrm{d}w + w\mathrm{d}y
+\mathrm{d}(wy) = y\,\mathrm{d}w + w\,\mathrm{d}y
 $$
 
 
