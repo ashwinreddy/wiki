@@ -1,4 +1,6 @@
-:fox:
+$$
+a+b=c
+$$
 
 <<GlobalTOC("Pages")>>
 
