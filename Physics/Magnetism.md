@@ -11,5 +11,5 @@ $$
 $$
 
 $$
-\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0}
+\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0} \implies \vec\nabla\cdot(-\vec\nabla V) = \frac{\rho}{\epsilon_0}
 $$
