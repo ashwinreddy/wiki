@@ -1,7 +1,7 @@
 $\Psi$ is a wave function. In 1D,
 
 \begin{equation}
-\iota \bar{h} \frac{\partial \Psi}{\partial t} = \overbrace{- \frac{\bar{h}^2}{2m}\nabla^2 \Psi}^{\text{kinetic energy operator}} + \underbrace{V\Psi}_{\text{potential energy operator}}
+\iota \hbar{} \frac{\partial \Psi}{\partial t} = \overbrace{- \frac{\hbar{}^2}{2m}\nabla^2 \Psi}^{\text{kinetic energy operator}} + \underbrace{V\Psi}_{\text{potential energy operator}}
 \end{equation}
 
 
