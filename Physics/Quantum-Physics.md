@@ -27,6 +27,9 @@ $$
 \hat{H} = \frac{\hat{p}^2}{2m} + U(x)
 $$
 
+- linearity
+- unitary
+
 ## Special Relativity
 
 \begin{equation}
