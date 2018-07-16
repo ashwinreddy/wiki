@@ -1,3 +1,7 @@
+$$
+a + b 😀
+$$
 
 <<GlobalTOC("Pages")>>
+
 
