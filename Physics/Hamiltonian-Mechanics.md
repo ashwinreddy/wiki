@@ -1,5 +1,11 @@
 ## Legendre Transform
 
+if $f$ is a function of $x$ and $y$,
+
+$$
+df = \partial_xf dx + \partial_y f dy
+$$
+
 ## HM
 \begin{equation}
 \mathcal{H} = \text{mechanical energy} = E_{\text{mech}}
