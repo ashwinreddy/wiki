@@ -17,6 +17,8 @@ $$
 \vec{E} = -\vec\nabla V - \frac{\partial \vec{A}}{\partial t}
 $$
 
+But for the first form,
+
 $$
 \vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0} \implies \vec\nabla\cdot\left(-\vec\nabla V\right) = \frac{\rho}{\epsilon_0}
 $$
