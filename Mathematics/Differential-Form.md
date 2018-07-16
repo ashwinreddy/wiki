@@ -4,24 +4,25 @@
 
 Working in the space $\mathbb{R}^n$, a 0-form looks like 
 
-\begin{equation}
+$$
 \omega = f\left(\vec{x}\right) \qquad \vec{x}\in\mathbb{R}^n \qquad f \in \mathcal{C}^1
-\end{equation}
+$$
 
 ## 1-form
 
 A 1-form looks like
 
-\begin{equation}
-\omega = \sum_i {F_i\left(\vec{x}\right)\diff{x_i}}
-\end{equation}
+$$
+\omega = \sum_i {F_i\left(\vec{x}\right)\mathrm{d}{x_i}}
+$$
 
-A concrete example is $P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}$ for $\mathbb{R}^3$. We can, for example, compute its line integral
-\begin{equation}
-\int_C{P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}}=\defint{a}{b}{\left[P(x(t),y(t),z(t))\deriv{x}{t}+Q(x(t),y(t),z(t))\deriv{y}{t}+R(x(t),y(t),z(t))\deriv{z}{t}\right]}{t}
-\end{equation}
 
+A concrete example is $P\,\mathrm{d}{x}+Q\,\mathrm{d}{y}+R\,\mathrm{d}{z}$ for $\mathbb{R}^3$. We can, for example, compute its line integral
+$$
+\int_C{P\,\mathrm{d}{x}+Q\,\mathrm{d}{y}+R\,\mathrm{d}{z}}=\int\limits_{a}^{b}{\left[P(x(t),y(t),z(t))\frac{\mathrm{d}x}{\mathrm{d}t}+Q(x(t),y(t),z(t))\frac{\mathrm{d}y}{\mathrm{d}t}+R(x(t),y(t),z(t))\frac{\mathrm{d}z}{\mathrm{d}t}\right]}{t}
+$$
 Imagine also that this 1-form is also a function on a vector $\langle(a,b,c)\rangle$ at a point $(x_0,y_0,z_0)$
+
 \begin{equation}
 \left(P\,\diff{x}+Q\,\diff{y}+R\,\diff{z}\right)(a,b,c) = P(x_0,y_0,z_0)a+Q(x_0,y_0,z_0)b+R(x_0,y_0,z_0)c
 \end{equation}
@@ -32,16 +33,14 @@ In the differential forms setup, the "gradient" is now
 \diff{f} = \frac{\partial f}{\partial x}\diff{x} + \frac{\partial f}{\partial y}\diff{y} + \frac{\partial f}{\partial z}\diff{z}
 \end{equation}
 
-$\diff{f}$ is called an exact 1-form here.
+$\mathrm{d}{f}$ is called an exact 1-form here.
 
 ## 2-Form
 
 The basic differential 2-form looks like 
-
-\begin{equation}
-\omega = \diff{x_i}\wedge\diff{x_j} \qquad 1 \leq i, j \leq n
-\end{equation}
-
+$$
+\omega = \mathrm{d}{x_i}\wedge\mathrm{d}{x_j} \qquad 1 \leq i, j \leq n
+$$
 The general form is
 \begin{equation}
 \omega = \sum_{1\leq i \lt j \leq n}{F_{ij}\left(\vec{x}\right)\diff{x_i}\wedge\diff{x_j}}
