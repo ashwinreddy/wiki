@@ -21,7 +21,7 @@ All information in wave function $\psi$. Operators take in functions and spit ou
 
 
 $$
-\dot{\psi}(x,t) = \frac{1}{\iota\hbar }\hat{\mathcal{H}}\, \psi(x,t)
+\partial_t\psi(x,t) = \frac{1}{\iota\hbar }\hat{\mathcal{H}}\, \psi(x,t)
 $$
 
 $$
