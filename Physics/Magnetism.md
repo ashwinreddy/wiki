@@ -11,6 +11,12 @@ $$
 \vec{E} = -\vec\nabla V
 $$
 
+The actual form is
+
+$$
+\vec{E} = -\vec\nabla V - \frac{\partial \vec{A}}{\partial t}
+$$
+
 $$
 \vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0} \implies \vec\nabla\cdot\left(-\vec\nabla V\right) = \frac{\rho}{\epsilon_0}
 $$
