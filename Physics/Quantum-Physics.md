@@ -13,6 +13,8 @@ $\Psi$ is a wave function. In 1D,
 p = \frac{h}{\lambda}
 \end{equation}
 
+Result of $E=mc^2$ and $E=hf$?
+
 ## Special Relativity
 
 \begin{equation}
