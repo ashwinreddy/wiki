@@ -1,4 +1,4 @@
-:Happy:
+:happy:
 
 <<GlobalTOC("Pages")>>
 
