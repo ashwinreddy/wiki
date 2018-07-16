@@ -15,6 +15,10 @@ p = \frac{h}{\lambda}
 
 Result of $E=mc^2$ and $E=hf$?
 
+## Schrodinger Equation
+
+\iota\hbar \dot{\Psi}(x,t)
+
 ## Special Relativity
 
 \begin{equation}
