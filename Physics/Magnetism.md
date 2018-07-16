@@ -7,7 +7,7 @@ The vector potential $\vec{A}$ is such that the result of its curl is $\vec{B}$.
 \end{equation}
 
 $$
-\vec{A}\left(\vec{r}\right) = \frac{1}{4\pi}\int_{\mathbb{R}^3}\frac{}{|\vec{r}-\vec{y}|}\mathrm{d}^3\vec{y}
+\vec{A}\left(\vec{r}\right) = \frac{1}{4\pi}\int_{\mathbb{R}^3}\frac{\vec\nabla_y\times\vec{B}(\vec{y})}{|\vec{r}-\vec{y}|}\mathrm{d}^3\vec{y}
 $$
 
 
