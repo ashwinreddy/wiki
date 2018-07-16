@@ -19,12 +19,17 @@ Result of $E=mc^2$ and $E=hf$?
 
 All information in wave function $\psi$. Operators take in functions and spit out functions (denoted with hat here). Linear operators have eigenfunctions.
 
+
 $$
 \dot{\psi}(x,t) = \frac{1}{\iota\hbar }\hat{\mathcal{H}}\, \psi(x,t)
 $$
 
 $$
 \hat{H} = \frac{\hat{p}^2}{2m} + U(x)
+$$
+
+$$
+\iota\hbar\dot{\psi} = \frac{-\hbar^2}{2m}\vec\nabla^2\psi
 $$
 
 - linearity
