@@ -37,5 +37,5 @@ $$
 $$
 
 $$
-\vec{∇}×\vec{E} = –∂(\vec{B})/∂t = –∂(\vec{∇}×\vec{A})/∂t
+\vec{∇}×\vec{E} = –\frac{∂\vec{B}}{∂t} = –∂(\vec{∇}×\vec{A})/∂t
 $$
