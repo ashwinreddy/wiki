@@ -23,6 +23,10 @@ $$
 \dot{\psi}(x,t) = \frac{1}{\iota\hbar }\hat{\mathcal{H}}\, \psi(x,t)
 $$
 
+$$
+\hat{H} = \frac{\hat{p}^2}{2m}
+$$
+
 ## Special Relativity
 
 \begin{equation}
