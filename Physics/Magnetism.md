@@ -10,6 +10,7 @@ $$
 \vec{A}\left(\vec{r}\right) = \frac{1}{4\pi}\int_{\mathbb{R}^3}\frac{\vec\nabla_y\times\vec{B}\left(\vec{y}\right)}{|\vec{r}-\vec{y}|}\mathrm{d}^3\vec{y}
 $$
 
+But you can pick any A such that $\vec{A}_0+\vec\nabla m$
 
 ## Electrostatics
 
