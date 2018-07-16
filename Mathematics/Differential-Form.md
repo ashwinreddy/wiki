@@ -77,5 +77,5 @@ For row vectors $\vec{u}$ and $\vec{v}$
 - $\diff{x_i}\wedge\diff{x_i}=0$
 
 $$
-\mathsf{hello}
+\mathsf{y=mx+b}
 $$
