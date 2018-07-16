@@ -1,4 +1,1 @@
 <<GlobalTOC("Pages")>>
-
-
-$\as$
