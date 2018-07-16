@@ -37,5 +37,5 @@ $$
 $$
 
 $$
-\vec{∇}×\vec{E} = \frac{-\partial\vec{B}}{\partial t} = -\frac{\partial}{\partial t}\left[\vec{\nabla}\times\vec{A}\right]
+\vec{∇}×\vec{E} = \frac{-\partial\vec{B}}{\partial t} = -\frac{\partial}{\partial t}\left[\vec{\nabla}\times\vec{A}\right] \implies \vec\nabla\times\left[\vec{E} + \dot{\vec{A}}\right]
 $$
