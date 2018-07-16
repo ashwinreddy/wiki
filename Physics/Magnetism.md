@@ -6,6 +6,7 @@ The vector potential $\vec{A}$ is such that the result of its curl is $\vec{B}$.
 \vec{B} = \vec\nabla\times\vec{A}
 \end{equation}
 
+
 ## Electrostatics
 
 This only works if there's no changing magnetic field (there's a curl then):
@@ -33,4 +34,8 @@ $$
 
 $$
 \vec{E} = -\vec\nabla V - \frac{\partial \vec{A}}{\partial t}
+$$
+
+$$
+∇×E = –∂(∇×A)/∂t
 $$
