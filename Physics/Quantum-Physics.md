@@ -36,7 +36,8 @@ $$
 \gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
 \end{equation}
 
+## Standard Model Lagrangian
 
-## General Relativity
-
-> Spacetime tells matter how to move; matter tells spacetime how to curve. - John Wheeler
+\begin{equation}
+\mathcal{L} = -\frac{1}{4}F_{\mu\nu}F^{\mu\nu}
+\end{equation}
