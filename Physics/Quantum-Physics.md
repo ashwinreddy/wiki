@@ -39,5 +39,5 @@ $$
 ## Standard Model Lagrangian
 
 \begin{equation}
-\mathcal{L} = -\frac{1}{4}F_{\mu\nu}F^{\mu\nu} + i \bar{\psi}\gamma^\mu{D_\mu} - V(\phi)
+\mathcal{L} = -\frac{1}{4}F_{\mu\nu}F^{\mu\nu} + i \bar{\psi}\gamma^\mu{D_\mu}\psi + \psi_iy_{ij}\psi_j\phi \text{h.c.} + |D_mu\phi|^2 - V(\phi)
 \end{equation}
