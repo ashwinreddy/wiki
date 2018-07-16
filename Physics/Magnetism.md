@@ -39,3 +39,7 @@ $$
 $$
 \vec{∇}×\vec{E} = \frac{-\partial\vec{B}}{\partial t} = -\frac{\partial}{\partial t}\left[\vec{\nabla}\times\vec{A}\right] \implies \vec\nabla\times\left[\vec{E} + \dot{\vec{A}}\right] = - \vec\nabla \varphi
 $$
+
+$$
+\nabla^2 \varphi - \frac{1}{c^2}\frac{\partial^2 \varphi}{\partial t^2} = -\frac{\rho}{\epsilon_)}
+$$
