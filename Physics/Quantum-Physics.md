@@ -29,7 +29,7 @@ $$
 $$
 
 $$
-\iota\hbar\dot{\psi} = \frac{-\hbar^2}{2m}\vec\nabla^2\psi
+\iota\hbar\dot{\psi} = \frac{-\hbar^2}{2m}\nabla^2\psi
 $$
 
 - linearity
