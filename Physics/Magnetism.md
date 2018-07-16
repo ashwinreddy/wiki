@@ -13,3 +13,9 @@ $$
 $$
 \vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0} \implies \vec\nabla\cdot\left(-\vec\nabla V\right) = \frac{\rho}{\epsilon_0}
 $$
+
+Poisson's equation for electrostatics is 
+
+\begin{equation}
+\nabla^2 V = -\frac{\rho}{\epsilon_0}
+\end{equation}
