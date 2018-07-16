@@ -14,6 +14,12 @@ $$
 
 But you can pick any $\vec{A}$, $\vec{A}+\vec\nabla m$. The non-uniqueness means we have to fix/pick a gauge.
 
+The gauge
+
+$$
+\vec\nabla\cdot\vec{A} = -\frac{1}{c^2}\dot{\varphi}
+$$
+
 ## Electrostatics
 
 This only works if there's no changing magnetic field (there's a curl then):
