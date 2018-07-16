@@ -21,7 +21,7 @@ All information in wave function $\psi$. Operators take in functions and spit ou
 
 
 $$
-\partial_t|\psi\left(\vec{r},t\right)\Big\rangle = \frac{1}{\iota\hbar }\hat{\mathcal{H}}\, \psi\left(\vec{r},t\right)
+\partial_t\Big|\psi\left(\vec{r},t\right)\Big\rangle = \frac{1}{\iota\hbar }\hat{\mathcal{H}}\, \psi\left(\vec{r},t\right)
 $$
 
 $$
