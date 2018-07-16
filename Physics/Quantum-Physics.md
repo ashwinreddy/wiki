@@ -24,7 +24,7 @@ $$
 $$
 
 $$
-\hat{H} = \frac{\hat{p}^2}{2m} + V(x)
+\hat{H} = \frac{\hat{p}^2}{2m} + U(x)
 $$
 
 ## Special Relativity
