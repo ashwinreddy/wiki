@@ -21,5 +21,5 @@ Poisson's equation for electrostatics is
 \end{equation}
 
 $$
-V(r) = \frac{Q}{4\pi\epsilon r}
+V(r) = \frac{Q}{4\pi\epsilon_0 r}
 $$
