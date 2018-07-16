@@ -6,6 +6,7 @@ The vector potential $\vec{A}$ is such that the result of its curl is $\vec{B}$.
 \vec{B} = \vec\nabla\times\vec{A}
 \end{equation}
 
+This only works if there's no changing magnetic field (there's a curl then):
 $$
 \vec{E} = -\vec\nabla V
 $$
