@@ -10,6 +10,10 @@ $$
 \mathrm{d}(wy) = y\,\mathrm{d}w + w\,\mathrm{d}y
 $$
 
+$$
+\mathrm{d}f - \mathrm{d}(wy) = \mathrm{d}g
+$$
+
 
 ## HM
 \begin{equation}
