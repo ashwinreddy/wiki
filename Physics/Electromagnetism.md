@@ -14,11 +14,6 @@ $$
 
 But you can pick any $\vec{A}$, $\vec{A}+\vec\nabla m$. The non-uniqueness means we have to fix/pick a gauge.
 
-The gauge
-
-$$
-\vec\nabla\cdot\vec{A} = -\frac{1}{c^2}\dot{\varphi}
-$$
 
 ## Electrostatics
 
@@ -56,6 +51,15 @@ $$
 $$
 \nabla^2 \varphi - \frac{1}{c^2}\frac{\partial^2 \varphi}{\partial t^2} = -\frac{\rho}{\epsilon_0}
 $$
+
+
+The gauge
+
+$$
+\vec\nabla\cdot\vec{A} = -\frac{1}{c^2}\dot{\varphi}
+$$
+
+is called the Lorentz gauge
 
 # Electromagnetism
 
