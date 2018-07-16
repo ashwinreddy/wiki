@@ -1,3 +1,6 @@
+## Legendre Transform
+
+## HM
 \begin{equation}
 \mathcal{H} = \text{mechanical energy} = E_{\text{mech}}
 \end{equation}
