@@ -1,3 +1,5 @@
+
+
 $\Psi$ is a wave function. In 1D,
 
 \begin{equation}
@@ -46,3 +48,7 @@ $$
 \begin{equation}
 \mathcal{L} = -\frac{1}{4}F_{\mu\nu}F^{\mu\nu} + i \bar{\psi}\gamma^\mu{D_\mu}\psi + \psi_iy_{ij}\psi_j\phi + \text{h.c.} + |D_\mu\phi|^2 - V(\phi)
 \end{equation}
+
+# Bell's Theorem
+
+> No physical theory of local hidden variables can reproduce all of quantum mechanics
