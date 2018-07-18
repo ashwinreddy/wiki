@@ -23,3 +23,10 @@ $$
 \begin{equation}
 \dot{\vec{p}} = - \frac{\partial \mathcal H}{\partial \vec q} \qquad \dot{\vec{q}} = \frac{\partial \mathcal H}{\partial \vec p}
 \end{equation}
+
+## Hamilton-Jacobi Equation
+
+
+$$
+-\pderiv{\mathcal{S}}{t} = \mathcal{H}\left(q, \pderiv{\mathcal{S}}{q}, t\right)
+$$
