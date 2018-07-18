@@ -28,5 +28,5 @@ $$
 
 
 $$
--\pderiv{\mathcal{S}}{t} = \mathcal{H}\left(q, \pderiv{\mathcal{S}}{q}, t\right)
+-\frac{\partial \mathcal{S}}{\partial t} = \mathcal{H}\left(q, \frac{\partial\mathcal{S}}{\partial q}, t\right)
 $$
