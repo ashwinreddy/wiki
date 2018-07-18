@@ -21,7 +21,7 @@ $$
 \end{equation}
 
 \begin{equation}
-\dot{\vec{p}} = - \frac{\partial \mathcal H}{\partial \vec q} \qquad \dot{\vec{q}} = \frac{\partial \mathcal H}{\partial \vec p}
+\dot{p} = - \frac{\partial \mathcal H}{\partial q} \qquad \dot{q} = \frac{\partial \mathcal H}{\partial p}
 \end{equation}
 
 ## Hamilton-Jacobi Equation
