@@ -1,3 +1,10 @@
+1. **The Relativity Postulate**: the laws of physics are the same for all observers in all inertial reference frames. No one frame is preferred over any other.
+
+2. **The Speed of Light Postulate**: the speed of light in a vacuum has the same value in all directions and inertial reference frames.
+
+
+
+
 # Special Relativity
 
 Applies only to IRFs
