@@ -4,4 +4,4 @@ $$
 \frac{\partial u}{\partial t} - \alpha \nabla^2 u= 0 
 $$
 
-!()[./uploads/four-vector-table.png]
+![alt](./uploads/four-vector-table.png)
