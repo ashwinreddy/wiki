@@ -1,4 +1,3 @@
-
 ## Differential Equations
 
 ### Population Dynamics
