@@ -2,7 +2,11 @@
 
 2. **The Speed of Light Postulate**: the speed of light in a vacuum has the same value in all directions and inertial reference frames.
 
+# Four Vectors
 
+$$
+x^\mu = (x^0, x^1, x^2, x^3)
+$$
 
 
 # Special Relativity
