@@ -35,6 +35,16 @@ When you start moving,
 E = mc^2
 \end{equation}
 
+$$
+x\prime = x - ut \\
+t\prime = t
+$$
+
+$$
+x\prime = \gamma(x-ut) \\
+t\prime = \gamma\left(t-\frac{vx}{c^2}\right)
+$$
+
 # General Relativity
 
 > Spacetime tells matter how to move; matter tells spacetime how to curve. - John Wheeler
