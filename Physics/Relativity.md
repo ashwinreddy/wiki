@@ -5,7 +5,8 @@
 # Four Vectors
 
 $$
-x^\mu = (x^0 = ct , x^1 = x, x^2 = y, x^3 = z)
+x^\mu = (x^0 = ct , x^1 = x, x^2 = y, x^3 = z) \\
+x_\mu = (x_0 = ct, x_1 = -z, x_2 = -z, x_3 = -z)
 $$
 
 
