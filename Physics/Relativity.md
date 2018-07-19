@@ -36,12 +36,16 @@ E = mc^2
 \end{equation}
 
 $$
-x\prime = x - ut \\
+x\prime = x - ut
+$$
+$$
 t\prime = t
 $$
 
 $$
-x\prime = \gamma(x-ut) \\
+x\prime = \gamma(x-ut)
+$$
+$$
 t\prime = \gamma\left(t-\frac{vx}{c^2}\right)
 $$
 
