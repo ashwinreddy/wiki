@@ -4,13 +4,13 @@
 
 You only need to know three equations to solve any uniform acceleration motion problem.
 
-\begin{equation*}
-v = at
-\end{equation*}
+\begin{equation}
+\Delta{v} = at
+\end{equation}
 
-\begin{equation*}
+\begin{equation}
 \Delta{x} = v_0t+\frac{1}{2}at^2
-\end{equation*}
+\end{equation}
 
 \begin{equation}
 \Delta(v^2) = 2a\Delta{x}
