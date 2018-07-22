@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/Free_variables_and_bound_variables
+
 ## Differential Equations
 
 ### Population Dynamics
