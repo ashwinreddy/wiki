@@ -17,7 +17,7 @@ $$
 
 ## HM
 \begin{equation}
-\mathcal{H} = \text{mechanical energy} = E_{\text{mech}} = \frac{p^2}{2m} + U(
+\mathcal{H} = \text{mechanical energy} = E_{\text{mech}} = \frac{p^2}{2m} + U
 \end{equation}
 
 \begin{equation}
