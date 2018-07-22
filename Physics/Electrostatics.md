@@ -24,7 +24,7 @@ An PDE of this form is known as **Poisson's equation**. If we look at the specia
 Because the magnetic force is defined as a cross product, it is not conservative. However, we can artificially construct the concept of potential for magnetism using what's known as the **vector potential**. Recall Maxwell's Third Equation:
 
 $$
-\del\cdot\vec{B} = 0
+\vec\nabla\cdot\vec{B} = 0
 $$
 
-From the identity $\del\cdot\left(\del\times\vec{A}\right)=0$, we can decide to represent $\vec{B}$ as the curl of a vector field $\vec{A}$, our vector potential. Notice, however, that $\del\cdot\vec{A}$ is free to be anything we like. Picking the value for it is known as **fixing the gauge**. 
+From the identity $\vec\nabla\cdot\left(\del\times\vec{A}\right)=0$, we can decide to represent $\vec{B}$ as the curl of a vector field $\vec{A}$, our vector potential. Notice, however, that $\vec\nabal\cdot\vec{A}$ is free to be anything we like. Picking the value for it is known as **fixing the gauge**. 
