@@ -1,39 +1,26 @@
-
 ## Energy
 
 ### Work and Kinetic Energy
 
-Start with Equation \@ref(eq:velocity-squared-uam)
-
-\begin{gather*}
+\begin{gather}
 v^2 = v_0^2 + 2a\Delta{x} \\
 mv^2 = mv_0^2 + 2ma\Delta{x} \\
 \frac{1}{2}mv^2 - \frac{1}{2}mv_0^2 = F\Delta{x}
-\end{gather*}
+\end{gather}
 
-
-```{definition, name = "Kinetic Energy"}
 
 $$
 K = \frac{1}{2}mv^2
 $$
 
-```
-
-```{definition, name = "Work"}
-
 Work is the product of force in the direction of displacement times displacement.
 
-```
-
-
-```{theorem, name = "Work-Energy Theorem"}
 
 $$
 W_{\text{net}} = \Delta{K}
 $$
 
-```
+
 
 Now, we will use vector calculus to resolve a more complete picture of work in the case of an arbitrary curvilinear path.
 
@@ -53,22 +40,18 @@ Now, we will use vector calculus to resolve a more complete picture of work in t
 
 We now have a mathematical definition of work that applies to a broader range of situations:
 
-```{definition, name = "Line Integral Form of Work"}
 
 $$
 W = \int_C{\vec{F}\cdot\diff{\vec{r}}}
 $$
 
-```
 
 ### Potential Energy
 
-```{definition, name = "Conservative Force"}
+
 
 If $\vec{F}_{\text{cons}}$ is a conservative force, then it obeys the constraint
 
 $$
 \oint_C{\vec{F}_{\text{cons}}\cdot\diff{\vec{r}}} = 0
 $$
-
-```
