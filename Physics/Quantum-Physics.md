@@ -1,5 +1,4 @@
 
-
 $\Psi$ is a wave function. In 1D,
 
 \begin{equation}
@@ -52,3 +51,9 @@ $$
 # Bell's Theorem
 
 > No physical theory of local hidden variables can reproduce all of quantum mechanics
+
+So pilot wave theory cannot be completely right.
+
+$$
+\mathcal{L} = \frac{1}{2}mv^2 - (U+Q)
+$$
