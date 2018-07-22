@@ -23,6 +23,8 @@ If $x$ can take on values along the continuous real number line and $f$ is a pro
 \mathbb{E}[X] = \defint{-\infty}{\infty}{x\,f(x)}{x}
 \end{equation}
 
+like center of mass. First "moment"
+
 
 # References
 
