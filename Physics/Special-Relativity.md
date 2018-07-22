@@ -19,9 +19,9 @@ An event has both a space and time coordinate.
 
 The following are the Galilean Transformations:
 
-\begin{align*}
+\begin{align}
 x\prime &= x - ut \\\
 y\prime &= y \\\
 z\prime &= z \\\
 t\prime &= t
-\end{align*}
+\end{align}
