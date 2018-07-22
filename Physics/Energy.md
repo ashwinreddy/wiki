@@ -3,8 +3,8 @@
 ### Work and Kinetic Energy
 
 \begin{gather}
-v^2 = v_0^2 + 2a\Delta{x} \\
-mv^2 = mv_0^2 + 2ma\Delta{x} \\
+v^2 = v_0^2 + 2a\Delta{x} \\\
+mv^2 = mv_0^2 + 2ma\Delta{x} \\\
 \frac{1}{2}mv^2 - \frac{1}{2}mv_0^2 = F\Delta{x}
 \end{gather}
 
