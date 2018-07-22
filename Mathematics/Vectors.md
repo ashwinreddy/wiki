@@ -16,7 +16,7 @@ $$
 L(\alpha x+ \beta y) = \alpha L(x) + \beta L(y)
 $$
 
-An inner product space equips a vector space with an operation called the inner product. The inner product takes two vectors and returns a scalar. When the inner product of a vector is taken with the same vector, the value must never be negative.^[This property is known as positive definiteness.]
+An inner product space equips a vector space with an operation called the inner product. The inner product takes two vectors and returns a scalar. When the inner product of a vector is taken with the same vector, the value must never be negative. This property is known as positive definiteness.
 
 
 
