@@ -1,4 +1,3 @@
-
 ## Special Relativity
 
 ### Michelson-Morley
@@ -14,11 +13,9 @@ Postulates of Special Relativity:
 
 ### Galilean Transformation
 
-```{definition, name = "Event"}
 
 An event has both a space and time coordinate.
 
-```
 
 The following are the Galilean Transformations:
 
