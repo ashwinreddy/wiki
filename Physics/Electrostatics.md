@@ -27,4 +27,4 @@ $$
 \vec\nabla\cdot\vec{B} = 0
 $$
 
-From the identity $\vec\nabla\cdot\left(\del\times\vec{A}\right)=0$, we can decide to represent $\vec{B}$ as the curl of a vector field $\vec{A}$, our vector potential. Notice, however, that $\vec\nabla\cdot\vec{A}$ is free to be anything we like. Picking the value for it is known as **fixing the gauge**. 
+From the identity $\vec\nabla\cdot\left(\vec\nabla\times\vec{A}\right)=0$, we can decide to represent $\vec{B}$ as the curl of a vector field $\vec{A}$, our vector potential. Notice, however, that $\vec\nabla\cdot\vec{A}$ is free to be anything we like. Picking the value for it is known as **fixing the gauge**. 
