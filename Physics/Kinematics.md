@@ -5,7 +5,7 @@
 You only need to know three equations to solve any uniform acceleration motion problem.
 
 \begin{equation*}
-\Delta{v} = at
+v = at
 \end{equation*}
 
 \begin{equation*}
