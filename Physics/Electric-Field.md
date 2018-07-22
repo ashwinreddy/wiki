@@ -1,12 +1,3 @@
-\begin{equation}
-\begin{CD}
-\vec{F} @>\div q >> \vec{E} \\
-@AA-\vec\nabla{}A  @VV -\int{\cdot\mathrm{d}\vec{r}} V \\
-U @<\times q<< V
-\end{CD}
-(\#eq:thesquare)
-\end{equation}
-
 # Introduction
 
 The electric field is governed by Maxwell's equations. Gauss's Law and Faraday's Law describe the divergence and curl of $\vec{E}$, respectively.
