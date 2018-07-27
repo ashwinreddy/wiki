@@ -1,4 +1,4 @@
-## Special Relativity
+# Special Relativity
 
 ### Michelson-Morley
 
