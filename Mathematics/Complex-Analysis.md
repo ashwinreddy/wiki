@@ -21,5 +21,5 @@ $$
 If $f$ is holomorphic,
 
 \begin{equation}
- D^n f(z_0) = \frac{n!}{2\pi\iota}\int_C\frac{f(z)}{(z-z_0)^{n+1}}\mathrm{d}z 
+f(z_0) = \frac{1}{2\pi\iota}\int_C\frac{f(z)}{(z-z_0)^}\mathrm{d}z 
 \end{equation}
