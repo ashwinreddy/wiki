@@ -1,1 +1,1 @@
-Minkowski metric tensor $\eta$ is $\pm \mathrm{diag}[-1,1,1,1]$
+Minkowski metric tensor $\eta$ is $\pm \mathrm{diag}[-1,1,1,1]$.
