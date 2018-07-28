@@ -1,5 +1,5 @@
 ## Tensor Product
 
 $$
-\vec{e}_i \otimes \epsilon^j
+T_{ij}\prime = R_{ik} R_{jl} T_{kl}
 $$
