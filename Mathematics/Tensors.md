@@ -1,6 +1,6 @@
 # Introductions
 
-$(m,n)$-Tensor
+$(m,n)$-Tensor has rank $m+n$
 
 ## Metric Tensor
 
