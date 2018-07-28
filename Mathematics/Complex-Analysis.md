@@ -1,3 +1,3 @@
 # Complex Functions
 
-A complex function $f: C \to C$
+A complex function $f: \mathbb{C} \to \mathbb{C}$
