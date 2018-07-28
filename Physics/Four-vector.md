@@ -1,3 +1,1 @@
-Minkowski metric tensor $\eta$ is
-
-$\pm diag$
+Minkowski metric tensor $\eta$ is $\pm \mathrm{diag}$
