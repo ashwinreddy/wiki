@@ -13,5 +13,5 @@ We call a differentiable complex function "holomorphic."
 A complex function $f=u+\iota v$ is holomorphic iff
 
 $$
-
+\partial_x u = \partial_y v
 $$
