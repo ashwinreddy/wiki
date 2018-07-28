@@ -1,3 +1,5 @@
-# Complex Functions
+# Holomorphic
 
-A complex function $f: \mathbb{C} \to \mathbb{C}$
+\begin{equation}
+f\prime(z) = \lim_{z \to z_0} \frac{f(z)-f(z_0)}{z-z_0}
+\end{equation}
