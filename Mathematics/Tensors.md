@@ -6,3 +6,6 @@ g_{\alpha\beta} = \begin{bmatrix}
 0 & r^2
 \end{bmatrix}
 $$
+
+## Christoffel Symbols
+
