@@ -13,5 +13,5 @@ $$
 # Covariant Derivative
 
 $$
-\nabla_\mu V^\nu = \partial_\mu V^\nu + \Gamma
+\nabla_\mu V^\nu = \partial_\mu V^\nu + \Gamma^\nu_{\mu\lambda}V^\lambda
 $$
