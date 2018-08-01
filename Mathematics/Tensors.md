@@ -9,3 +9,7 @@ The type or valence of a tensor is a pair of whole numbers $(n,m)$ representing 
 $$
 g_{ij} = \vec{e}_i \cdot \vec{e}_j
 $$
+
+$$
+\mathrm{d}s^2 = g_{mn}\mathrm{d}x^m\mathrm{d}x^n
+$$
