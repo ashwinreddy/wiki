@@ -37,4 +37,4 @@ $$
 \Delta{t} = \gamma \Delta{t}_0
 $$
 
-This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effectively 1.
+This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effectively 1. Mathematically, it doesn't make sense for $v$ to be equal to $c$.
