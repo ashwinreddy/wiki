@@ -37,4 +37,4 @@ $$
 \Delta{t} = \gamma \Delta{t}_0
 $$
 
-This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is extremely small.
+This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effectively 1.
