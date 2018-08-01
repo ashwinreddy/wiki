@@ -1,5 +1,5 @@
 # Univariate Derivative
 
 $$
-y"(x)
+y'(x)
 $$
