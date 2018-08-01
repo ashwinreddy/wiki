@@ -2,9 +2,9 @@ A **four-vector** is a way of describing space and time using the same coordinat
 
 $$
 x \equiv \begin{bmatrix}
-ct \\\
-x \\\
-y \\\
-z
+x^0 = ct \\\
+x^1 = x \\\
+x^2 = y \\\
+x^3 = z
 \end{bmatrix}
 $$
