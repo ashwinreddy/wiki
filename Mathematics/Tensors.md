@@ -11,5 +11,9 @@ g_{ij} = \vec{e}_i \cdot \vec{e}_j
 $$
 
 $$
+A\cdot B = g_{\mu\nu}A^\mu B^\nu
+$$
+
+$$
 \mathrm{d}s^2 = g_{ij}\mathrm{d}x^i\mathrm{d}x^j
 $$
