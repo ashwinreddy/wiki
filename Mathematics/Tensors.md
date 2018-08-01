@@ -2,4 +2,4 @@ Tensors are objects that transform predictably in different coordinate systems. 
 
 # Nomenclature
 
-The type or valence of a
+The type or valence of a tensor is a pair of whole numbers $(n,m)$
