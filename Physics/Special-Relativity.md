@@ -16,7 +16,7 @@ Imagine a **light clock**, where a light signal starts at the bottom of a box, t
 The observer inside the box thinks that the time is
 
 $$
-\Delta{t}_0 = \frac{2D}{c}
+\Delta{t}_0 = \frac{2h}{c}
 $$
 
 \begin{equation}
