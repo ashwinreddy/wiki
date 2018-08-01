@@ -43,9 +43,9 @@ This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effe
 
 $$
 \eta_{\mu\nu} = (-1)^k \begin{bmatrix}
--1 & 0 & 0 & 0 \\
-0 & 1 & 0 & 0 \\
-0 & 0 & 1 & 0 \\
-0 & 0 & 0 & 1 \\
+-1 & 0 & 0 & 0 \\\
+0 & 1 & 0 & 0 \\\
+0 & 0 & 1 & 0 \\\
+0 & 0 & 0 & 1 
 \end{bmatrix}
 $$
