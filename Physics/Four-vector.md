@@ -14,4 +14,4 @@ z
 \end{bmatrix}
 $$
 
-Since $c$ is agreed upon by all observers, it is a suitable choice for converting time into a spatial coordinate.
+Since $c$ is agreed upon by all observers, it is a suitable choice for converting time into a spatial coordinate. 
