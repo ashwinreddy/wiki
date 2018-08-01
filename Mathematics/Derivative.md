@@ -19,4 +19,4 @@ $$
 \nabla_\mu V^\nu = \partial_\mu V^\nu + \Gamma^\nu_{\mu\lambda}V^\lambda
 $$
 
-$\Gamma$ is called the Christoffel symbol or the connection coefficients. The covariant derivative is defined like this in order to ensure that it transforms like a tensor.
+$\Gamma$ are called the connection coefficients. The covariant derivative is defined like this in order to ensure that it transforms like a tensor.
