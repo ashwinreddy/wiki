@@ -40,3 +40,12 @@ $$
 This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effectively 1. Mathematically, it doesn't make sense for $v$ to be equal to $c$. But if $v$ is appreciable, $\gamma$ will be greater than 1, so $\Delta{t}$ will be greater than $\Delta t_0$. The observer outside the box will see things as moving more slowly than the observer inside the box.
 
 # Minkowski [Metric](../Mathematics/Tensors#metric-tensor)
+
+$$
+\eta_{\mu\nu} = (-1)^k \begin{bmatrix}
+-1 & 0 & 0 & 0 \\
+0 & 1 & 0 & 0 \\
+0 & 0 & 1 & 0 \\
+0 & 0 & 0 & 1 \\
+\end{bmatrix}
+$$
