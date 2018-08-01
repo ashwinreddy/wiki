@@ -8,3 +8,5 @@ x^2 = y \\\
 x^3 = z
 \end{bmatrix}
 $$
+
+Since $c$ is agreed upon by all observers, it is a suitable choice for converting time into a spatial coordinate.
