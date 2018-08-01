@@ -1,3 +1,8 @@
+
+# Matrix Representation
+
+If we define
+
 $$
 a_{[\times]} = \begin{bmatrix}
 0 & -a_3 & a_2 \\\
