@@ -7,4 +7,4 @@ imply that there is no such thing as absolute time. Once an object has a velocit
 
 # Michelson-Morley Experiment
 
-Since light has wavelike behavior, it must have a medium. But light travels through a vacuum so its not any kind of medium we are familiar with. Scientists proposed a **luminiferous aether** that permeated space, allowing light to travel.
+Since light has wavelike behavior, it must have a medium. But light travels through a vacuum so its not any kind of medium we are familiar with. Scientists proposed a **luminiferous aether** that permeated space, allowing light to travel. Michelson performed an experiment to see if this were true.
