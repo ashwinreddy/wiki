@@ -1,4 +1,4 @@
-The cross product takes two vectors in $\mathbb{R}^3$ and returns a vector that is orthogonal to both (whose direction is given by the right hand rule) and whose magnitude is equivalent to the area spanned by the two vectors.
+The **cross product** takes two vectors in $\mathbb{R}^3$ and returns a vector that is orthogonal to both (whose direction is given by the right hand rule) and whose magnitude is equivalent to the area spanned by the two vectors.
 
 # Matrix Representation
 
