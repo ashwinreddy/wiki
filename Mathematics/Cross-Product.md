@@ -1,3 +1,3 @@
 $$
-\underline{a}
+a_{\times} = 
 $$
