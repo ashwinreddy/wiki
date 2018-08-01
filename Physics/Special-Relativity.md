@@ -31,4 +31,10 @@ $$
 \gamma = \frac{1}{\sqrt{1-(v/c)^2}}
 $$
 
+Then,
+
+$$
+\Delta{t} = \gamma \Delta{t}_0
+$$
+
 This is known as **time dilation**. In the case that $v \ll c$, the denominator
