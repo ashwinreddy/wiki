@@ -19,7 +19,7 @@ $$
 \Delta{t}_0 = \frac{2D}{c}
 $$
 
-But the observer outside the box sees an additional horizontal motion, which creates what we might call an artifact: he sees the light clock cover a $2L$ for the hypotenuse $L=\sqrt{\left(\frac{v\Delta{t}}{2}\right)^2+ D^2}$
+But the observer outside the box sees an additional horizontal motion, which creates what we might call an artifact: he sees the light clock cover a $2L$ for the hypotenuse $L=\sqrt{\left(\frac{v\Delta{t}}{2}\right)^2+ D^2}$. Therefore, he thinks it took a time of $2L/c$ .
 
 \begin{equation}
 \Delta t = \frac{\Delta t_0}{\sqrt{1-(v/c)^2}}
