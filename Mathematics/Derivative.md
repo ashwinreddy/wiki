@@ -1,5 +1,5 @@
 # Univariate Derivative
 
 $$
-y'(x)
+y'(x) = \lim_{h\to 0}\frac{y(x+h)-y(x)}{h}
 $$
