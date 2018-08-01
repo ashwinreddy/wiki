@@ -12,3 +12,7 @@ Since light has wavelike behavior, it must have a medium. But light travels thro
 # Light Clock
 
 Imagine a **light clock**, where a light signal starts at the bottom of a box, travels to the top, hits a mirror, and reflects back down to where it started. Now imagine an observer seeing the box move horizontally. The question is whether the observer inside the box and outside disagree on the time, and by how much if so.
+
+\begin{equation}
+\Delta t = \frac{\Delta t_0}{\sqrt{1-(v/c)^2}}
+\end{equation}
