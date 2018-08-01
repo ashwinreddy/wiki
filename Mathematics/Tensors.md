@@ -11,5 +11,5 @@ g_{ij} = \vec{e}_i \cdot \vec{e}_j
 $$
 
 $$
-\mathrm{d}s^2 = g_{mn}\mathrm{d}x^m\mathrm{d}x^n
+\mathrm{d}s^2 = g_{ij}\mathrm{d}x^i\mathrm{d}x^j
 $$
