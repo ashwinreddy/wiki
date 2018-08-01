@@ -37,4 +37,4 @@ $$
 \Delta{t} = \gamma \Delta{t}_0
 $$
 
-This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effectively 1. Mathematically, it doesn't make sense for $v$ to be equal to $c$. But if $v$ is appreciable, $\gamma$ will be greater than 1, so $\Delta{t}$ will be greater than $t_0$.
+This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effectively 1. Mathematically, it doesn't make sense for $v$ to be equal to $c$. But if $v$ is appreciable, $\gamma$ will be greater than 1, so $\Delta{t}$ will be greater than $\Delta t_0$.
