@@ -25,4 +25,10 @@ But the observer outside the box sees an additional horizontal motion, which cre
 \Delta t = \frac{\Delta t_0}{\sqrt{1-(v/c)^2}}
 \end{equation}
 
-This is known as **time dilation**. In the case that $v \ll c$
+Let us separate the factor to make the equation cleaner. Let 
+
+$$
+\gamma = \frac{1}{\sqrt{1-(v/c)^2}}
+$$
+
+This is known as **time dilation**. In the case that $v \ll c$, the denominator
