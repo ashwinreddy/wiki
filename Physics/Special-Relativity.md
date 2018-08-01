@@ -49,3 +49,7 @@ $$
 0 & 0 & 0 & 1 
 \end{bmatrix}
 $$
+
+$$
+\mathrm{d}s^2 = -\mathrm{d}t^2 + \mathrm{d}x^2 + \mathrm{d}y^2 + \mathrm{d}z^2
+$$
