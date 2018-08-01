@@ -42,7 +42,7 @@ This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effe
 # Minkowski [Metric](../Mathematics/Tensors#metric-tensor)
 
 $$
-\eta_{\mu\nu} = (-1)^k \begin{bmatrix}
+\eta_{\mu\nu} = \begin{bmatrix}
 -1 & 0 & 0 & 0 \\\
 0 & 1 & 0 & 0 \\\
 0 & 0 & 1 & 0 \\\
