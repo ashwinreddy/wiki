@@ -14,5 +14,5 @@
 ## Single Equation
 
 $$
-\box
+\Box
 $$
