@@ -16,3 +16,5 @@
 $$
 \Box^2 A^\nu = -\mu_0 J^\nu
 $$
+
+where $J$ is the [Four-Vector]
