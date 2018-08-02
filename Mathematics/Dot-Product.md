@@ -1,1 +1,1 @@
-The **dot product**
+The **dot product** between two vectors
