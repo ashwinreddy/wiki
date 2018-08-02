@@ -16,4 +16,4 @@ $$
 
 |Function|_n_-th Term|
 |-------|-----------|
-|$\exp{x}$|$\sum_{n=0}^\infty x^n / n!$|
+|$\exp{x}$|$\sum_{n=0}^\infty \frac{x^n}{n!}$|
