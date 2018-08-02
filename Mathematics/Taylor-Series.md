@@ -3,3 +3,10 @@ The **Taylor Series** approximates a differentiable function using polynomials t
 $$
 f(x) \simeq \sum_{n=0}^\infty \frac{D^n f(x_0)}{n!}(x-x_0)^n
 $$
+
+# Maclaurin Series
+
+The **Maclaurin series**
+
+$$
+$$
