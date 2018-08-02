@@ -1,1 +1,1 @@
-**General relativity** explains
+The theory of **General relativity** posits that the gravitational phenomenon is not simply a force, but that it is a reflection of a warped spacetime.
