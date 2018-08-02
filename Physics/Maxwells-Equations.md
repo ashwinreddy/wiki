@@ -14,5 +14,5 @@
 ## Single Equation
 
 $$
-\Box
+\Box^2 A^\nu = -\mu_0 J^\nu
 $$
