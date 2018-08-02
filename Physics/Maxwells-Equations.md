@@ -1,3 +1,5 @@
+**Maxwell's Equations** are a set of partial differential equations which describe how the electric and magnetic fields interact with each other.
+
 # Formulations
 
 ## Standard Vector Calculus Form
