@@ -17,4 +17,4 @@ $$
 \Box^2 A^\nu = -\mu_0 J^\nu
 $$
 
-where $A$ is the [Four-Vector](./Four-Vector#5-vector-potential)
+where $A$ is the [Four-Vector](./Four-Vector#4-vector-potential)
