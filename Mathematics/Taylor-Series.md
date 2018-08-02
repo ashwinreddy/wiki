@@ -11,3 +11,7 @@ The **Maclaurin series** is just the special case of the Taylor series where $x_
 $$
 f(x) \simeq \sum_{n=0}^\infty \frac{D^n f(0)}{n!}x^n
 $$
+
+# Common Expansions
+
+|Function|$n$-th Term|
