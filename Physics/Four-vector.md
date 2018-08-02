@@ -21,5 +21,5 @@ Since $c$ is agreed upon by all observers, it is a suitable choice for convertin
 ## 4-Vector Potential
 
 $$
-A^\mu = \begin{bmatrix}V/c \\ A_x \\ A_y \\ A_z\end{bmatrix}
+A^\mu = \begin{bmatrix}V/c \\\ A_x \\\ A_y \\\ A_z\end{bmatrix}
 $$
