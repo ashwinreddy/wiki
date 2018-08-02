@@ -1,1 +1,1 @@
-The **dot product** between two vectors
+The **dot product** returns a linear combination between two vectors.
