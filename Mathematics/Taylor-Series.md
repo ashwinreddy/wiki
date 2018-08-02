@@ -14,6 +14,8 @@ $$
 
 # Common Expansions
 
+<center>
 |Function|_n_-th Term|
 |-------|-----------|
 |$\exp{x}$|$$\sum_{n=0}^\infty \frac{x^n}{n!}$$|
+</center>
