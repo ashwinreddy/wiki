@@ -15,3 +15,4 @@ $$
 # Common Expansions
 
 |Function|$n$-th Term|
+|-------|-----------|
