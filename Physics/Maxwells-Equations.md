@@ -1,2 +1,2 @@
-
-$\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0}$
+|Formula|
+|$\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0}$|
