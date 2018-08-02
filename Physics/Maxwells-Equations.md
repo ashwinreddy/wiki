@@ -1,5 +1,6 @@
+# Formulations
 
-# Standard Vector Calculus Form
+## Standard Vector Calculus Form
 
 |Number|Formula|
 |------|:-------:|
