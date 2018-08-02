@@ -14,5 +14,5 @@ $$
 
 # Common Expansions
 
-|Function|_n_th Term|
+|Function|_n_-th Term|
 |-------|-----------|
