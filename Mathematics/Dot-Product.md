@@ -7,5 +7,5 @@ $$
 For tensors,
 
 $$
-\vec{a}\cdot\vec{b} = g_{\mu\nu}
+\vec{a}\cdot\vec{b} = g_{ij}a^ib^j
 $$
