@@ -4,3 +4,8 @@ $$
 \vec{a}\cdot\vec{b}=\sum_{i=1}^3 a_ib_i
 $$
 
+For tensors,
+
+$$
+\vec{a}\cdot\vec{b} = g_{\mu\nu}
+$$
