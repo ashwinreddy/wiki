@@ -15,3 +15,11 @@ z
 $$
 
 Since $c$ is agreed upon by all observers, it is a suitable choice for converting time into a spatial coordinate. 
+
+# Examples
+
+## 4-Vector Potential
+
+$$
+A^\mu = (V/c, A_x, A_y, A_z)
+$$
