@@ -1,5 +1,5 @@
 # Expectation
 
 \begin{equation}
-\mathbb{E}[x]
+\mathbb{E}[X]
 \end{equation}
