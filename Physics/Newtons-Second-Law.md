@@ -15,7 +15,7 @@ Newton's Second Law can be readily transformed into variants which may make cert
 ## Systems
 
 $$
-\vec{F}_{\text{net}} = M\vec{a}_{\text{com}}
+\sum \vec{F} = M\vec{a}_{\text{com}}
 $$
 
 ## Work and Energy
