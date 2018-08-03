@@ -1,1 +1,1 @@
-A **differential $p$-form** is a $(0,p)$ [tensor](tensors)
+A **differential $p$-form** is a antisymmetric $(0,p)$ [tensor](tensors)
