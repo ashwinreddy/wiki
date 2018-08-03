@@ -12,4 +12,4 @@ $$
 F_g = m\vec{g}
 $$
 
-If $\vec{g} = - \vec\nabla \phi$
+If $\vec{g} = - \vec\nabla \phi$, then $- \vec\nabla\cdot\vec{g} = -\nabla^2 \phi$
