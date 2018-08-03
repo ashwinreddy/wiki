@@ -12,6 +12,6 @@ Newton's Second Law can be readily transformed into variants which may make cert
 
 ## Work and Energy
 
-$$
+\begin{equation}
 W = \Delta{U} + \Delta{K}
-$$
+\end{equation}
