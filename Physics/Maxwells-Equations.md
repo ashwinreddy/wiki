@@ -6,7 +6,7 @@
 
 |Name|Derivative Form|Integral Form|
 |------|:-------:|:-------------:|
-|Gauss's Law|$\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0}$|$\oint \vec{E}\cdot\mathrm{d}A = \frac{q_{\text{enc}}}{\epsilon_0}$|
+|Gauss's Law|$\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0}$|$\oint \vec{E}\cdot\mathrm{d}\vec{A} = \frac{q_{\text{enc}}}{\epsilon_0}$|
 |2|$\vec\nabla\times\vec{E} = -\frac{\partial B}{\partial t}$||
 |3|$\vec\nabla\cdot\vec{B}=0$||
 |4|$\vec\nabla\times\vec{B} = \mu_0 \vec{\jmath} + \mu_0\epsilon_0\frac{\partial \vec E}{\partial t}$||
