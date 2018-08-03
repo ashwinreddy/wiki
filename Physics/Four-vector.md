@@ -18,7 +18,8 @@ Since $c$ is agreed upon by all observers, it is a suitable choice for convertin
 
 # Examples
 
-## 4-Vector Potential
+|Name|Time Component|Spatial Component|
+|-------------------------------------|
 
 $$
 A^\mu = \begin{bmatrix}V/c \\\ A_x \\\ A_y \\\ A_z\end{bmatrix}
