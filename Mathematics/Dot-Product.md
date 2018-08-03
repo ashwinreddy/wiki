@@ -4,6 +4,12 @@ $$
 \vec{a}\cdot\vec{b}=\sum_{i=1}^3 a_ib_i
 $$
 
+In two-dimensions
+
+$$
+\vec{a}\cdot\vec{b} = ab\cos\theta
+$$
+
 For tensors,
 
 $$
