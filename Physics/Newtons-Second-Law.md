@@ -8,4 +8,6 @@ where $F$ is the net force on a point mass, $m$ is the inertial mass, and $a$ is
 
 # Reformulations
 
+Newton's Second Law can be readily transformed into variants which may make certain problems easier.
+
 ## Work and Energy
