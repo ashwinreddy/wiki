@@ -19,6 +19,6 @@ Since $c$ is agreed upon by all observers, it is a suitable choice for convertin
 # Examples
 
 |Name|Time Component|Spatial Component|
-|----|--------------|------------------|
+|----|--------------|:------------------:|
 |Position|$ct$|$x$|
 |Current|$\rho$, electric charge density|$\jmath$, current density|
