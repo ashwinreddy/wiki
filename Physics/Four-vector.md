@@ -20,5 +20,5 @@ Since $c$ is agreed upon by all observers, it is a suitable choice for convertin
 
 |Name|Time Component|Spatial Component|
 |:----:|:--------------:|:------------------:|
-|Position|$ct$|$x$|
-|Current|$\rho$, electric charge density|$\jmath$, current density|
+|Position|$ct$|$\vec{r}$|
+|Current|$\rho$, electric charge density|$\vec\jmath$, current density|
