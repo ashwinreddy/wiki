@@ -6,9 +6,17 @@ F=ma
 
 where $F$ is the net force on a point mass, $m$ is the inertial mass, and $a$ is the net acceleration of the object.
 
-# Reformulations
+
+
+# Variants
 
 Newton's Second Law can be readily transformed into variants which may make certain problems easier.
+
+## Systems
+
+$$
+\sum_{} = \vec{a}_{\text{com}}
+$$
 
 ## Work and Energy
 
