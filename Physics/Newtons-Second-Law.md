@@ -12,11 +12,6 @@ where $F$ is the net force on a point mass, $m$ is the inertial mass, and $a$ is
 
 Newton's Second Law can be readily transformed into variants which may make certain problems easier.
 
-## Systems
-
-$$
-\sum \vec{F} = M\ddot{\vec{r}}_{\text{com}}
-$$
 
 ## Work and Energy
 
