@@ -5,5 +5,5 @@ The theory of **General relativity** posits that the gravitational phenomenon is
 The theory is summarized by the Einstein equation
 
 \begin{equation}
-R_{\mu\nu}
+R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu}
 \end{equation}
