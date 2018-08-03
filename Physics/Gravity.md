@@ -11,3 +11,5 @@ $$
 $$
 F_g = m\vec{g}
 $$
+
+If $\vec{g} = - \vec\nabla \phi$
