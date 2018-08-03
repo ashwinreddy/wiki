@@ -20,6 +20,7 @@ Since $c$ is agreed upon by all observers, it is a suitable choice for convertin
 
 |Name|Time Component|Spatial Component|
 |----|--------------|------------------|
+|Vector Potential|$\rho$, electric charge density|$A$, magnetic vector potential|
 
 $$
 A^\mu = \begin{bmatrix}V/c \\\ A_x \\\ A_y \\\ A_z\end{bmatrix}
