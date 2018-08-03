@@ -12,9 +12,14 @@ where $F$ is the net force on a point mass, $m$ is the inertial mass, and $a$ is
 
 Newton's Second Law can be readily transformed into variants which may make certain problems easier.
 
-
 ## Work and Energy
 
 \begin{equation}
 W = \Delta{U} + \Delta{K}
+\end{equation}
+
+## Tensor Form
+
+\begin{equation}
+f^\mu = m \frac{\mathrm{d}^2}{\mathrm{d}\tau^2}x^\mu(\tau)
 \end{equation}
