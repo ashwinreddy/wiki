@@ -3,3 +3,7 @@ The theory of **General relativity** posits that the gravitational phenomenon is
 > Matter tells spacetime how to curve. Spacetime tells matter how to move.
 
 The theory is summarized by the Einstein equation
+
+\begin{equation}
+R_{\mu\nu}
+\end{equation}
