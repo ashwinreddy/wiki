@@ -21,5 +21,5 @@ W = \Delta{U} + \Delta{K}
 ## Tensor Form
 
 \begin{equation}
-f^\mu = m \frac{\mathrm{d}^2}{\mathrm{d}\tau^2}x^\mu(\tau)
+f^\mu = m \frac{\mathrm{d}^2}{\mathrm{d}\tau^2}x^\mu(\tau) = \frac{\mathrm{d}}{\mathrm{d}\tau} p^\mu(\tau)
 \end{equation}
