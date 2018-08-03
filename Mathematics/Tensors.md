@@ -17,3 +17,9 @@ $$
 $$
 \mathrm{d}s^2 = g_{ij}\mathrm{d}x^i\mathrm{d}x^j
 $$
+
+# Tensor Operations
+
+$$
+\nabla^2 = \delta^{ij}\partial_i\partial_
+$$
