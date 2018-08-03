@@ -15,6 +15,6 @@ $$
 # Common Expansions
 
 
-|Function|_n_-th Term|
+|Function|Series Form|
 |:-------:|-----------|
 |$\exp{x}$|$$\sum_{n=0}^\infty \frac{x^n}{n!}$$|
