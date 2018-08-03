@@ -4,7 +4,7 @@
 
 ## Standard Vector Calculus Form
 
-|Number|Formula|
+|Name|Derivative Form|
 |------|:-------:|
 |1|$\vec\nabla\cdot\vec{E} = \frac{\rho}{\epsilon_0}$|
 |2|$\vec\nabla\times\vec{E} = -\frac{\partial B}{\partial t}$|
