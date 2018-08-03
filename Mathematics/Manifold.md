@@ -1,0 +1,1 @@
+A **tangent space** $T_p$ can be assigned to a manifold
