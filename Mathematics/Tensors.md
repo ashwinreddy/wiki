@@ -21,5 +21,5 @@ $$
 # Tensor Operations
 
 $$
-\nabla^2 = \delta^{ij}\partial_i\partial_
+\nabla^2 = \delta^{ij}\partial_i\partial_j
 $$
