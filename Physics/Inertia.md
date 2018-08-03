@@ -1,5 +1,5 @@
 # Inertia Tensor
 
 $$
-I
+\overleftrightarrow{I}
 $$
