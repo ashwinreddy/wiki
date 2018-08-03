@@ -15,5 +15,5 @@ $$
 If $\vec{g} = - \vec\nabla \Phi$, then $- \vec\nabla\cdot\vec{g} = \nabla^2 \Phi$. Then,
 
 $$
-\nabla^2 \phi = 4 \pi G \rho_m
+\nabla^2 \phi = 4 \pi G \rho
 $$
