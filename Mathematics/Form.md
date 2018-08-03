@@ -1,1 +1,1 @@
-A **differential $p$-form**
+A **differential $p$-form** is a $(0,p)$ [tensor](tensors)
