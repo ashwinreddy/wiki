@@ -5,5 +5,5 @@ Examples:
 - A dual vector is a 1-form
 
 $$
-\lambda^p
+\Lambda^p
 $$
