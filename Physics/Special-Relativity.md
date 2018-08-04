@@ -28,7 +28,7 @@ But the observer outside the box sees an additional horizontal motion, which cre
 Let us separate the factor to make the equation cleaner. Let 
 
 $$
-\gamma = \frac{1}{\sqrt{1-(v/c)^2}}
+\gamma \equiv \frac{1}{\sqrt{1-(v/c)^2}}
 $$
 
 Then,
