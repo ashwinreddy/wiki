@@ -12,6 +12,12 @@ where $F$ is the net force on a point mass, $m$ is the inertial mass, and $a$ is
 
 Newton's Second Law can be readily transformed into variants which may make certain problems easier.
 
+# Vector Form
+
+\begin{equation}
+\sum\vec{F}=m\vec{a}
+\end{equation}
+
 ## Work and Energy
 
 \begin{equation}
