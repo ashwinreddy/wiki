@@ -7,3 +7,9 @@ The theory is summarized by the Einstein equation
 \begin{equation}
 R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = 8\pi G T_{\mu\nu}
 \end{equation}
+
+# Lagrangian Formulation
+
+$$
+S = \int \sqrt{-g}R\mathrm{d}^4x
+$$
