@@ -11,5 +11,5 @@ R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = 8\pi G T_{\mu\nu}
 # Lagrangian Formulation
 
 $$
-S = \int \sqrt{-g}R\mathrm{d}^4x
+S = \int (\sqrt{-g}R)\mathrm{d}^4x
 $$
