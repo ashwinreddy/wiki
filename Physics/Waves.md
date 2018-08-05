@@ -1,0 +1,1 @@
+y(x,t)=f(kx\pm \omega t)
