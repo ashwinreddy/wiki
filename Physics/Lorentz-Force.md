@@ -7,5 +7,5 @@ $$
 If we divide volume out of the equation, we get a similar equation
 
 $$
-\mathrm{f} = \rho\vec{E}+\vec{\jmath}\times\vec{B}
+\vec{\mathrm{f}} = \rho\vec{E}+\vec{\jmath}\times\vec{B}
 $$
