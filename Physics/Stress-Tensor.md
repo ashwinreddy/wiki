@@ -7,5 +7,5 @@ $$
 Then,
 
 $$
-\mathrm{div}\,{T} = \vec{\mathrm{f}}
+\mathrm{div}\,{T} = \vec{\mathrm{f}} + \frac{1}{c^2}\frac{\partial \vec{S}}{\partial t}
 $$
