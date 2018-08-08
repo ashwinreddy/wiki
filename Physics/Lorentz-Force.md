@@ -21,5 +21,5 @@ $$
 ## Relativistic
 
 $$
-{\displaystyle L=-mc^{2}{\sqrt {1-\left({\frac {\dot {\mathbf {r} }}{c}}\right)^{2}}}+q\mathbf {A} (\mathbf {r} )\cdot {\dot {\mathbf {r} }}-q\phi (\mathbf {r} )\,\!}
+=-mc^{2}{\sqrt {1-\left({\frac {\dot {\mathbf {r} }}{c}}\right)^{2}}}+q\mathbf {A} (\mathbf {r} )\cdot {\dot {\mathbf {r} }}-q\phi (\mathbf {r} )
 $$
