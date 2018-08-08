@@ -63,7 +63,7 @@ $$
 \mathrm{d}s^2 = -\mathrm{d}t^2 + \mathrm{d}x^2 + \mathrm{d}y^2 + \mathrm{d}z^2
 $$
 
-Clearly, this is invariant to a transformation
+Clearly, this is invariant under a transformation
 
 $$
 x^\mu \to x^{\mu\prime} = x^\mu + a^\mu
