@@ -27,3 +27,7 @@ $$
 0 & i = j \lor i = k \lor j = k
 \end{cases}
 $$
+
+$$
+(\vec{a}\times\vec{b})^{i}
+$$
