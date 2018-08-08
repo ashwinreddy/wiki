@@ -44,20 +44,24 @@ This is known as **time dilation**. In the case that $v \ll c$, $\Beta$ is near 
 # Lorentz Transformations
 
 Galilean (classical) transformations:
-\begin{align}
+\begin{equation}
+\begin{aligned}
 x' &= x - vt \\\
 y' &= y \\\
 z' &= z \\\
 t' &= t
-\end{align}
+\end{aligned}
+\end{equation}
 
 Lorentz transformations:
-\begin{align}
+\begin{equation}
+\begin{aligned}
 x' &= \gamma(x - vt) \\\
 y' &= y \\\
 z' &= z \\\
 t' &= \gamma\left(t-\beta x/c\right)^2
-\end{align}
+\end{aligned}
+\end{equation}
 
 
 # Simultaneity
