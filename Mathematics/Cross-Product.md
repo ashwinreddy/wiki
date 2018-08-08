@@ -29,5 +29,5 @@ $$
 $$
 
 $$
-(\vec{a}\times\vec{b})^{i}
+(\vec{a}\times\vec{b})^{i} = \epsilon_{ijk}a^jb^k
 $$
