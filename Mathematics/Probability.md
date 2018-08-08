@@ -1,7 +1,14 @@
 # Expectation
 
+In general,
+
 \begin{equation}
-\mathbb{E}[X] = \sum_{x \in X} p(x) \cdot x
+\mathbb{E}[X] \equiv \sum_{x \in X} p(x) \cdot x
+\end{equation}
+
+For a pdf $x$,
+\begin{equation}
+\mathbb{E}[X] \equiv \int_{\mathbb{R}}
 \end{equation}
 
 The expectation is the center of mass for a probability mass function, since the sum of all possibilities must be unity.
