@@ -6,8 +6,8 @@ $$
 
 # Poynting's Theorem
 
-If $u$ is the energy density
+If the energy density is 
 
 $$
-\frac{1}{2}\left(\epsilon_0E^2 + \frac{1}{\mu_0}B^2\right)
+u = \frac{1}{2}\left(\epsilon_0E^2 + \frac{1}{\mu_0}B^2\right)
 $$
