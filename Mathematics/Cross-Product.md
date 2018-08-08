@@ -22,6 +22,8 @@ $$
 
 $$
 \epsilon_{ijk} = \begin{cases}
-1 & ijk \text{ an even permutation of } (1,2,3)
+1 & ijk \text{ an even permutation of } (1,2,3) \\
+-1 & ijk \text{ an odd permutation of } (1,2,3) \\
+0 & i = j \lor i = k \lor j = k
 \end{cases}
 $$
