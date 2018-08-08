@@ -19,3 +19,9 @@ $$
 $$
 
 # Levi-Civita Tensor
+
+$$
+\epsilon_{ijk} = \begin{cases}
+1 & $ijk$ \text{ even permutation}
+\end{cases}
+$$
