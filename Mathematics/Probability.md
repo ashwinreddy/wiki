@@ -1,5 +1,5 @@
 # Expectation
 
 \begin{equation}
-\mathbb{E}[X] = \sum_{x \in X} x p(x)
+\mathbb{E}[X] = \sum_{x \in X} p(x)x
 \end{equation}
