@@ -7,5 +7,5 @@ $$
 Then,
 
 $$
-\mathrm{div} {T}
+\mathrm{div}\,{T}
 $$
