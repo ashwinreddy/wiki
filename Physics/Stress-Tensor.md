@@ -10,4 +10,4 @@ $$
 \mathrm{div}\,{T} = \vec{\mathrm{f}} + \frac{1}{c^2}\frac{\partial \vec{S}}{\partial t}
 $$
 
-where $\vec{S}$ is the Poynting Vector
+where $\vec{S}$ is the [Poynting Vector](Poynting's-Theorem#poynting-s-theorem)
