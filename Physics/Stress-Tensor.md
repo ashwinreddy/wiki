@@ -1,1 +1,1 @@
-# Maxwell's Stress Tensor
+# Maxwell Stress Tensor
