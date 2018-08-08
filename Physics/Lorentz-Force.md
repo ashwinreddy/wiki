@@ -15,5 +15,5 @@ $$
 ## Classical
 
 $$
-\mathcal{L} = \frac{m}{2}\dot{r}^2 + q\vec{A}\cdot\vec{r}-qV
+\mathcal{L} = \frac{m}{2}\dot{r}^2 + q\left(\vec{A}\cdot\vec{r}-V\right)
 $$
