@@ -15,5 +15,5 @@ $$,
 then
 
 $$
-\frac{partial u}{\partial t}  = -\vec\nabla\cdot\vec{S} - \vec{\jmath}\cdot\vec{E}
+\frac{\partial u}{\partial t}  = -\vec\nabla\cdot\vec{S} - \vec{\jmath}\cdot\vec{E}
 $$
