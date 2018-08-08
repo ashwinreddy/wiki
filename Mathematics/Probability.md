@@ -11,4 +11,4 @@ For a pdf $f(x)$,
 \mathbb{E}[X] \equiv \int_{\mathbb{R}} xf(x)\,\mathrm{d}x
 \end{equation}
 
-The expectation is the center of mass for a probability mass function, since the sum of all possibilities must be unity.
+The expectation is the center of mass for a probability mass or density function, since the sum of all possibilities must be unity.
