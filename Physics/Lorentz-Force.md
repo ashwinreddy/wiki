@@ -17,3 +17,9 @@ $$
 $$
 \mathcal{L} = \frac{m}{2}\dot{r}^2 + q\left(\vec{A}\cdot\vec{r}-V\right)
 $$
+
+## Relativistic
+
+$$
+{\displaystyle L=-mc^{2}{\sqrt {1-\left({\frac {\dot {\mathbf {r} }}{c}}\right)^{2}}}+q\mathbf {A} (\mathbf {r} )\cdot {\dot {\mathbf {r} }}-q\phi (\mathbf {r} )\,\!}
+$$
