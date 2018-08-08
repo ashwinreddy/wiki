@@ -21,5 +21,5 @@ $$
 ## Relativistic
 
 $$
-\mathcal{L}=-mc^2\sqrt{1 -  \left( \frac{\vec{v}}{c} \right)^2 }
+\mathcal{L}=-mc^2\sqrt{1 -  \left( \frac{\vec{v}}{c} \right)^2 } +  q\left(\vec{A}\cdot\vec{r}-V\right)
 $$
