@@ -28,7 +28,7 @@ But the observer outside the box sees an additional horizontal motion, which cre
 Let us separate the factor to make the equation cleaner. Let 
 
 $$
-\gamma \equiv \frac{1}{\sqrt{1-(v/c)^2}}
+\gamma \equiv \frac{1}{\sqrt{1-\beta^2}} \qquad \beta = v/c
 $$
 
 Then,
@@ -37,9 +37,28 @@ $$
 \Delta{t} = \gamma \Delta{t}_0
 $$
 
-This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effectively 1. Mathematically, it doesn't make sense for $v$ to be equal to $c$. But if $v$ is appreciable, $\gamma$ will be greater than 1, so $\Delta{t}$ will be greater than $\Delta t_0$. The observer outside the box will see things as moving more slowly than the observer inside the box.
+This is known as **time dilation**. In the case that $v \ll c$, $\Beta$ is near 0 and $\gamma$ is effectively 1. Mathematically, it doesn't make sense for $v$ to be equal to $c$ (i.e. $\beta = 1$). But if $v$ is appreciable, $\gamma$ will be greater than 1, so $\Delta{t}$ will be greater than $\Delta t_0$. The observer outside the box will see things as moving more slowly than the observer inside the box.
 
 > Moving Clocks run slow.
+
+# Lorentz Transformations
+
+Galilean (classical) transformations:
+\begin{align}
+x' &= x - vt \\\
+y' &= y \\\
+z' &= z \\\
+t' &= t
+\end{align}
+
+Lorentz transformations:
+\begin{align}
+x' &= \gamma(x - vt) \\\
+y' &= y \\\
+z' &= z \\\
+t' &= \gamma\left(t-\beta x/c\right)^2
+\end{align}
+
 
 # Simultaneity
 
