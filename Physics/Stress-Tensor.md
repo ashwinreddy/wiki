@@ -7,5 +7,5 @@ $$
 Then,
 
 $$
-\vec\nabla\cdot\overleftrightarrow{T}
+\div {T}
 $$
