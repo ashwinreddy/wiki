@@ -82,12 +82,19 @@ $$
 \end{bmatrix}
 $$
 
+As per the usual consequences of the metric,
+
+$$
+s^2 = \eta_{\mu\nu}\Delta{x}^\mu\Delta{x}^\nu
+$$
+
 $$
 \mathrm{d}s^2 = -\mathrm{d}t^2 + \mathrm{d}x^2 + \mathrm{d}y^2 + \mathrm{d}z^2
 $$
 
-Clearly, this is invariant under a transformation
+Such a transformation is invariant under a transformation
 
 $$
 x^\mu \to x^{\mu\prime} = x^\mu + a^\mu
 $$
+
