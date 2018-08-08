@@ -22,6 +22,6 @@ $$
 
 $$
 \epsilon_{ijk} = \begin{cases}
-1 & $ijk$ \text{ even permutation}
+1 & ijk \text{ even permutation}
 \end{cases}
 $$
