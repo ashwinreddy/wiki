@@ -28,7 +28,7 @@ But the observer outside the box sees an additional horizontal motion, which cre
 Let us separate the factor to make the equation cleaner. Let 
 
 $$
-\gamma \equiv \frac{1}{\sqrt{1-\beta^2}} \qquad \beta = v/c
+\gamma \equiv \frac{1}{\sqrt{1-(v/c)^2}}
 $$
 
 Then,
@@ -37,32 +37,9 @@ $$
 \Delta{t} = \gamma \Delta{t}_0
 $$
 
-This is known as **time dilation**. In the case that $v \ll c$, $\beta$ is near 0 and $\gamma$ is effectively 1. Mathematically, it doesn't make sense for $v$ to be equal to $c$ (i.e. $\beta = 1$). But if $v$ is appreciable, $\gamma$ will be greater than 1, so $\Delta{t}$ will be greater than $\Delta t_0$. The observer outside the box will see things as moving more slowly than the observer inside the box.
+This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effectively 1. Mathematically, it doesn't make sense for $v$ to be equal to $c$. And if $v$ is greater than $c$ But if $v$ is appreciable, $\gamma$ will be greater than 1, so $\Delta{t}$ will be greater than $\Delta t_0$. The observer outside the box will see things as moving more slowly than the observer inside the box.
 
 > Moving Clocks run slow.
-
-# Lorentz Transformations
-
-Galilean (classical) transformations:
-\begin{equation}
-\begin{aligned}
-x' &= x - vt \\\
-y' &= y \\\
-z' &= z \\\
-t' &= t
-\end{aligned}
-\end{equation}
-
-Lorentz transformations:
-\begin{equation}
-\begin{aligned}
-x' &= \gamma(x - vt) \\\
-y' &= y \\\
-z' &= z \\\
-t' &= \gamma\left(t-\beta x/c\right)^2
-\end{aligned}
-\end{equation}
-
 
 # Simultaneity
 
@@ -82,19 +59,12 @@ $$
 \end{bmatrix}
 $$
 
-As per the usual consequences of the metric,
-
-$$
-s^2 = \eta_{\mu\nu}\Delta{x}^\mu\Delta{x}^\nu
-$$
-
 $$
 \mathrm{d}s^2 = -\mathrm{d}t^2 + \mathrm{d}x^2 + \mathrm{d}y^2 + \mathrm{d}z^2
 $$
 
-Such a transformation is invariant under a transformation
+Clearly, this is invariant under a transformation
 
 $$
 x^\mu \to x^{\mu\prime} = x^\mu + a^\mu
 $$
-
