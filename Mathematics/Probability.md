@@ -3,7 +3,7 @@
 In general,
 
 \begin{equation}
-\mathbb{E}[X] \equiv \sum_{x \in X} p(x) \cdot x
+\mathbb{E}[X] = \sum_{x \in X} p(x) \cdot x
 \end{equation}
 
 For a pdf $f(x)$,
