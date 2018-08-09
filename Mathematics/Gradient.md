@@ -1,9 +1,10 @@
-$$
-\mathrm{d}f = \frac{\partial f}{\partial x^\mu}\hat\theta^{\mu}
-$$
 
-Shorthand:
+Let
 
 $$
-f_{,\mu} = \partial_\mu f = \frac{\partial f}{\partial x^\mu}
+f_{,\mu} \equiv \partial_\mu f = \frac{\partial f}{\partial x^\mu}
+$$
+
+$$
+\mathrm{d}f = \partial_\mu f \hat\theta^{\mu}
 $$
