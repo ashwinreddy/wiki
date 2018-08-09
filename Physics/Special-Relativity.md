@@ -48,7 +48,7 @@ This is known as **time dilation**. In the case that $v \ll c$, $\gamma$ is effe
 
 # Minkowski Spacetime
 
-Four-dimensional spacetime can be represented with the following [metric](../Mathematics/Tensors#metric-tensor)
+Four-dimensional spacetime can be represented with the following [metric](../Mathematics/Tensors#metric-tensor).
 
 $$
 \eta_{\mu\nu} = \pm \begin{bmatrix}
