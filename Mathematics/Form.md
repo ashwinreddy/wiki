@@ -7,4 +7,5 @@ Examples:
 A one-form $\tilde{p}$
 
 $$
+\tilde{p}(\vec{A}) = A^\alpha p_\alpha
 $$
