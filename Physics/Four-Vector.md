@@ -22,7 +22,7 @@ $$
 \begin{cases}
 \eta_{\mu\nu}V^\mu V^\nu < 0 & \text{timelike} \\\
 =0 & \text{lightlike} \\\
-> 0 & \text{spacelike}
+\lt 0 & \text{spacelike}
 \end{cases}
 $$
 
