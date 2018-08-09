@@ -16,6 +16,16 @@ $$
 
 Since $c$ is agreed upon by all observers, it is a suitable choice for converting time into a spatial coordinate. 
 
+# Likeness
+
+$$
+\begin{cases}
+\eta_{\mu\nu}V^\mu V^\nu < 0 & \text{timelike} \\\
+=0 & \text{lightlike} \\\
+> 0 & \text{spacelike}
+\end{cases}
+$$
+
 # Examples
 
 |Name|Time Component|Spatial Component|
