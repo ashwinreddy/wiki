@@ -1,4 +1,6 @@
 
+The **gradient** is a generalization of the [derivative](Derivative).
+
 Let
 
 $$
