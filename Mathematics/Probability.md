@@ -18,5 +18,7 @@ The expectation is the center of mass for a probability mass or density function
 More generally,
 
 $$
-\mu_n = \int_{\mathbb{R}} (x-c)^n f(x)\,mathrm{d}x
+\mu_n = \int_{\mathbb{R}} (x-c)^n f(x)\,\mathrm{d}x
 $$
+
+The mean is $\mu_1$ and the variance is $\mathbb{E}[(X-\mu_1)^2]$
