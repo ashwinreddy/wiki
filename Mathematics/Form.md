@@ -4,8 +4,4 @@ Examples:
 - A scalar is a 0-form
 - A dual vector is a 1-form
 
-A one-form $\tilde{p}$
-
-$$
-\tilde{p}(\vec{A}) = A^\alpha p_\alpha
-$$
+A one-form $\tilde{p}$ acts on a vector to produce a real number.
