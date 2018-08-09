@@ -26,6 +26,12 @@ $$
 \end{cases}
 $$
 
+Path Length:
+
+$$
+\Delta{s} = \int{\sqrt{\eta_{\mu\nu\frac{\mathrm{d}x^\mu}{\mathrm{d}\lambda}\frac{\mathrm{d}x^\nu}{\mathrm{d}\lambda}}}\mathrm{d}\lambda}
+$$
+
 # Examples
 
 |Name|Time Component|Spatial Component|
