@@ -3,6 +3,10 @@ F \equiv \mathrm{d}A
 $$
 
 $$
+\mathcal{F}^{0i}=E^i \qquad \mathcal{F}^{ij} =\epsilon^{ijk}B_k
+$$
+
+$$
 \mathcal{F} = \begin{bmatrix}
 0 & -E_1 & -E_2 & -E_3 \\\
 E_1 & 0 & B_3 & -B_2 \\\
