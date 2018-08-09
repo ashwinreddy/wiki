@@ -6,6 +6,11 @@ F=ma
 
 where $F$ is the net force on a point mass, $m$ is the inertial mass, and $a$ is the net acceleration of the object.
 
+Newton's laws are invariant under the transformation
+
+$$
+\vec{v}(t) \to \vec{v}'(t) + \vec{a}
+$$
 
 
 # Variants
