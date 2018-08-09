@@ -8,5 +8,5 @@ f_{,\mu} \equiv \partial_\mu f = \frac{\partial f}{\partial x^\mu}
 $$
 
 $$
-\tilde\mathrm{d}f = \partial_\mu f \hat\theta^{\mu}
+\tilde{\mathrm{d}f} = \partial_\mu f \hat\theta^{\mu}
 $$
