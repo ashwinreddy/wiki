@@ -12,3 +12,11 @@ For a pdf $f(x)$,
 \end{equation}
 
 The expectation is the center of mass for a probability mass or density function, since the sum of all possibilities must be unity.
+
+# Moments
+
+More generally,
+
+$$
+\mu_n = \int_{\mathbb{R}} (x-c)^n f(x)\,mathrm{d}x
+$$
