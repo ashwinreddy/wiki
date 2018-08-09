@@ -1,4 +1,4 @@
-A **vector** can be turned into a one-form like so
+A **vector** can be turned into a one-form (i.e. dual vector) like so
 
 
 $$
