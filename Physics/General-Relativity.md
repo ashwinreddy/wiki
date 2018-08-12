@@ -19,6 +19,10 @@ G_{\mu\nu} \equiv R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R
 \frac{\mathrm{d}^2x^\mu}{\mathrm{d}\lambda^2}+\Gamma^\mu_{\rho\sigma}\frac{\mathrm{d}x^\rho}{\mathrm{d}\lambda}\frac{\mathrm{d}x^\sigma}{\mathrm{d}\lambda} =0
 \end{equation}
 
+$$
+\lambda = a\tau + b
+$$
+
 # Einstein Tensor
 
 Properties:
