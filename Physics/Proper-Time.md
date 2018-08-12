@@ -1,3 +1,3 @@
 $$
-(\mathrm{d}\tau)^2 = -\mathrm{d}\vec{x}\cdot\mathrm{d}\vec{x}
+(\mathrm{d}\tau)^2 \equiv -\mathrm{d}s^2
 $$
