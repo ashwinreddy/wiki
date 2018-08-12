@@ -45,3 +45,9 @@ In a vacuum,
 \begin{equation}
 R_{\mu\nu} = 0
 \end{equation}
+
+# Linearized Gravity
+
+$$
+g = \eta + h
+$$
