@@ -13,6 +13,11 @@ R_{\mu \nu }-{\tfrac {1}{2}}Rg_{\mu\nu} \,+\Lambda g_{\mu \nu }={\frac {8\pi G}{
 G_{\mu\nu} \equiv R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R
 \end{equation}
 
+# Geodesic Equation
+
+\begin{equation}
+\frac{\mathrm{d}^2x^\mu}{\mathrm{d}\lambda^2}+\Gamma^\mu_{\rho\sigma}\frac{\mathrm{d}x^\rho}{\mathrm{d}\lambda}\frac{\mathrm{d}x^\sigma}{\mathrm{d}\lambda} =0
+\end{equation}
 
 # Einstein Tensor
 
