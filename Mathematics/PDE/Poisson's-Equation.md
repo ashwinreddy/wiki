@@ -1,6 +1,8 @@
 
 # Laplace's Equation
 
+Special case of homogeneity:
+
 $$
 \nabla^2 f = 0 
 $$
