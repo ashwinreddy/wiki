@@ -13,6 +13,10 @@ R_{\mu \nu }-{\tfrac {1}{2}}Rg_{\mu\nu} \,+\Lambda g_{\mu \nu }={\frac {8\pi G}{
 G_{\mu\nu} \equiv R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R
 \end{equation}
 
+$$
+R = g^{\mu\nu}R_{\mu\nu}
+$$
+
 # Geodesic Equation
 
 \begin{equation}
