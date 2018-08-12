@@ -19,7 +19,7 @@ $$
 
 Notice that:
 
-$$\forall a \in \mathbb{R} : f(x)=\frac{1}{2}(V(x+a)+V(x-a))$$
+$$\forall a \in \mathbb{R} : f(x)=\frac{1}{2}(f(x+a)+f(x-a))$$
 
 ## Two-Dimensional Case
 
