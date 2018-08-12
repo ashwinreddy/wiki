@@ -7,3 +7,9 @@ The theory is summarized by the Einstein equation
 \begin{equation}
 G_{\mu\nu} = 8\pi G T_{\mu\nu}
 \end{equation}
+
+In a vacuum,
+
+\begin{equation}
+R_{\mu\nu} = 0
+\end{equation}
