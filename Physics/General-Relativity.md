@@ -13,6 +13,11 @@ The theory of **General relativity** posits that the gravitational phenomenon is
 G_{\mu\nu} \equiv R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R
 \end{equation}
 
+$$
+R = R^\lambda_\lambda = g^{\mu\nu}R_{\mu\nu}
+$$
+
+
 
 # Vaccum Solutions
 
