@@ -5,7 +5,7 @@ The theory of **General relativity** posits that the gravitational phenomenon is
 The theory is summarized by the Einstein equation
 
 \begin{equation}
-G \propto T
+G + \Lambda g \propto T
 \end{equation}
 
 In a vacuum,
