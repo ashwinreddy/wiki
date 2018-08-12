@@ -17,7 +17,11 @@ $$
 R =  g^{\mu\nu}R_{\mu\nu}
 $$
 
+# Einstein Tensor
 
+Properties:
+- symmetric
+- incompressible
 
 # Vaccum Solutions
 
