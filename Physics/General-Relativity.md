@@ -5,7 +5,7 @@ The theory of **General relativity** posits that the gravitational phenomenon is
 The theory is summarized by the Einstein equation
 
 \begin{equation}
-G_{\mu\nu} = 8\pi G T_{\mu\nu}
+G \propto T
 \end{equation}
 
 In a vacuum,
