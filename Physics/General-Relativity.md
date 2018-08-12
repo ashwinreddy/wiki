@@ -2,11 +2,14 @@ The theory of **General relativity** posits that the gravitational phenomenon is
 
 > Matter tells spacetime how to curve. Spacetime tells matter how to move.
 
-The theory is summarized by the Einstein equation
+# Einstein Equation
 
 \begin{equation}
-G + \Lambda g \propto T
+{\displaystyle R_{\mu \nu }-{\tfrac {1}{2}}R\,g_{\mu \nu }+\Lambda g_{\mu \nu }={\frac {8\pi G}{c^{4}}}T_{\mu \nu }}
 \end{equation}
+
+
+# Vaccum Solutions
 
 In a vacuum,
 
