@@ -12,6 +12,10 @@ $$
 f(x) = mx+b
 $$
 
+Notice that:
+
+1. $\forall a : f(x)=\frac{1}{2}(V(x+a)+V(x-a))$
+
 # Two-Dimensional Case
 
 $$
