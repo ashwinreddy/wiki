@@ -5,3 +5,8 @@
 .highlight {
     font-family: "Source Code Pro"
 }
+
+body
+{
+    text-rendering: optimizeLegibility;
+}
