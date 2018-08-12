@@ -11,3 +11,9 @@ $$
 $$
 \nabla_{[\lambda} R_{\mu\nu]\sigma\rho} = 0
 $$
+
+Einstein tensor
+
+$$
+G_{\mu\nu} \equiv R_{\mu\nu}-\frac{1}{2}Rg_{\mu\nu}
+$$
