@@ -6,7 +6,7 @@ The theory of **General relativity** posits that the gravitational phenomenon is
 
 
 \begin{equation}
-R_{\mu \nu }-{\tfrac {1}{2}}Rg^{\mu\nu} \,+\Lambda g_{\mu \nu }={\frac {8\pi G}{c^{4}}}T_{\mu \nu }
+R_{\mu \nu }-{\tfrac {1}{2}}Rg_{\mu\nu} \,+\Lambda g_{\mu \nu }={\frac {8\pi G}{c^{4}}}T_{\mu \nu }
 \end{equation}
 
 \begin{equation}
