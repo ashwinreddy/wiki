@@ -39,3 +39,7 @@ $$
 |Position|$ct$|$\vec{r}$|
 |Momentum|$E$|$\vec{p}$|
 |Current|$c\rho$, electric charge density|$\vec\jmath$, current density|
+
+$$
+\vec{p} = m \vec{U}
+$$
