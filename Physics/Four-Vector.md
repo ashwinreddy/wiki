@@ -28,9 +28,10 @@ $$
 
 Path Length:
 
-$$
-\Delta{s} = \int{\sqrt{\eta_{\mu\nu}\frac{\mathrm{d}x^\mu}{\mathrm{d}\lambda}\frac{\mathrm{d}x^\nu}{\mathrm{d}\lambda}}\mathrm{d}\lambda}
-$$
+\begin{align}
+\Delta{s} &= \int \mathrm{d}s \\\
+&= \int{\sqrt{\eta_{\mu\nu}\frac{\mathrm{d}x^\mu}{\mathrm{d}\lambda}\frac{\mathrm{d}x^\nu}{\mathrm{d}\lambda}}\mathrm{d}\lambda}
+\end{align}
 
 # Examples
 
