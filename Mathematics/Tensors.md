@@ -27,6 +27,14 @@ $$
 
 # Tensor Operations
 
+Laplacian
+
 $$
 \nabla^2 = \delta^{ij}\partial_i\partial_j
+$$
+
+# General Vector Derivative
+
+$$
+\frac{\partial \vec{V}}{\partial x^\beta}=\frac{\partial V^\alpha}{\partial x^\beta}\vec{e}_\alpha+V^\alpha\frac{\partial \vec{a}}{\partial x^\beta}
 $$
