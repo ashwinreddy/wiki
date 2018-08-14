@@ -11,5 +11,5 @@ $$
 If we write 
 
 $$
-\frac{\partial \vec{e}\sb{\alpha}{\partial x^\beta} = \Gamma^\mu\sb{\alpha\beta}\vec{e}_\mu
+\frac{\partial \vec{e}\sb{\alpha}}{\partial x^\beta} = \Gamma^\mu\sb{\alpha\beta}\vec{e}_\mu
 $$
