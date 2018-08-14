@@ -13,6 +13,14 @@ $$
 \frac{\partial \vec{e}\sb{\alpha}}{\partial x^\beta} = \Gamma^\mu\sb{\alpha\beta}\vec{e}_\mu
 $$
 
+The Christoffel symbols are computed as derivatives of the metric tensor.
+
+$$
+\Gamma^\gamma_{\beta\mu} = \frac{1}{2}g^{\alpha\gamma}(g_{\alpha\beta,\mu}+g_{\alpha\mu,\beta}-g_{\beta\mu,\alpha})
+$$
+
+# Properties
+
 $$
 \Gamma^\mu_{\alpha\beta} = \Gamma^\mu_{\beta\alpha}
 $$
