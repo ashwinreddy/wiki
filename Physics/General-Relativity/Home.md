@@ -2,6 +2,10 @@ The theory of **General relativity** posits that the gravitational phenomenon is
 
 > Matter tells spacetime how to curve. Spacetime tells matter how to move.
 
+\begin{equation}
+\overleftrightarrow{G}+\Lambda\overleftrightarrow{g}=\kappa \overleftrightarrow{T}
+\end{equation}
+
 # Einstein Equation
 
 
