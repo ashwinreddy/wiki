@@ -6,11 +6,6 @@ $$
 \overleftrightarrow{T} = T^\alpha_\beta\tilde{\omega}^\beta\otimes\vec{e}_{\alpha}
 $$
 
-A type $(r,s)$ tensor may be written as
-
-$$
-T=T^{a_{1}\ldots a_{r}}}_{{b_{1}}\ldots {b_{s}}}
-$$
 
 # Nomenclature
 
