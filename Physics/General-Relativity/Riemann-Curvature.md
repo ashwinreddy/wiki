@@ -1,3 +1,8 @@
+
 $$
-R^\alpha_{\beta\mu\nu} \equiv \Gamma^\alpha_{\beta\nu,\mu} - \Gamma^\alpha_{\beta\mu,\nu} + \Gamma^\alpha_{\sigma\mu}\Gamma^{\sigma}_{\beta\nu}-\Gamma^\alpha_{\sigma\nu}\Gamma^\sigma_{\beta\mu}
+\let\sb=_
+$$
+
+$$
+R^\alpha_{\beta\mu\nu} \equiv \Gamma^\alpha\sb{\beta\nu,\mu} - \Gamma^\alpha\sb{\beta\mu,\nu} + \Gamma^\alpha\sb{\sigma\mu}\Gamma^{\sigma}\sb{\beta\nu}-\Gamma^\alpha_{\sigma\nu}\Gamma^\sigma_{\beta\mu}
 $$
