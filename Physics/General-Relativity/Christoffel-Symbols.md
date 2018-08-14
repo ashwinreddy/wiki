@@ -12,3 +12,7 @@ We can write
 $$
 \frac{\partial \vec{e}\sb{\alpha}}{\partial x^\beta} = \Gamma^\mu\sb{\alpha\beta}\vec{e}_\mu
 $$
+
+$$
+\Gamma^\mu_{\alpha\beta} = \Gamma^\mu_{\beta\alpha}
+$$
