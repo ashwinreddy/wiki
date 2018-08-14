@@ -7,5 +7,5 @@ $$
 # Transform of Derivative
 
 $$
-\mathcal{L}\\{f'(t)\\} = s \mathcal{L}\\{f(s)\\}-f(0)
+\mathcal{L}\\{f'(t)\\} = s \mathcal{L}\\{f(t)\\}-f(0)
 $$
