@@ -36,5 +36,5 @@ $$
 # General Vector Derivative
 
 $$
-\frac{\partial \vec{V}}{\partial x^\beta}=\frac{\partial V^\alpha}{\partial x^\beta}\vec{e}_\alpha+V^\alpha\frac{\partial \vec{e}_\alpha}{\partial x^\beta}
+\frac{\partial \vec{V}}{\partial x^\beta}=\frac{\partial V^\alpha}{\partial x^\beta}\vec{e}_{\alpha}+V^\alpha\frac{\partial \vec{e}_{\alpha}}{\partial x^\beta}
 $$
