@@ -1,5 +1,5 @@
 \begin{equation}
-\vec{F}_G = \frac{GMm}{r^2}\hat{r}
+\vec{F}_G \propto \frac{Mm}{r^2}\hat{r}
 \end{equation}
 
 ## Gravitational Field
