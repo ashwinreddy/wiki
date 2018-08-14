@@ -19,3 +19,8 @@ $$
 
 Ricci tensor is symmetric.
 
+## Ricci Scalar
+
+$$
+R \equiv g^{\mu\nu}R_{\mu\nu}
+$$
