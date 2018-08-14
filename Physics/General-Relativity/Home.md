@@ -10,13 +10,6 @@ R_{\mu \nu }-{\tfrac {1}{2}}Rg_{\mu\nu} \,+\Lambda g_{\mu \nu }={\frac {8\pi G}{
 \end{equation}
 
 
-## Ricci Curvature Scalar
-
-$$
-R = g^{\mu\nu}R_{\mu\nu}
-$$
-
-
 # Geodesic Equation
 
 \begin{equation}
