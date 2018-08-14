@@ -2,7 +2,7 @@ $$
 \let\sb=_
 $$
 \begin{equation}
-\vec{F}\sb{G} \propto \frac{m\sb{1}m\sb{2}}{r_{12}^2}\hat{r}
+\vec{F}\sb{G} \propto \frac{m\sb{1}m\sb{2}}{r_{12}^2}\hat{r}_{12}
 \end{equation}
 
 ## Gravitational Field
