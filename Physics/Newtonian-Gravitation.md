@@ -11,7 +11,7 @@ $$
 F_g = m\vec{g}
 $$
 
-If $\vec{g} = - \vec\nabla \Phi$, then $- \vec\nabla\cdot\vec{g} = \nabla^2 \Phi$. Then,
+If $\vec{g} = - \vec\nabla \phi$, then $- \vec\nabla\cdot\vec{g} = \nabla^2 \phi$. Then,
 
 $$
 \nabla^2 \phi = 4 \pi G \rho
