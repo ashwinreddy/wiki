@@ -9,7 +9,7 @@ where $F$ is the net force on a point mass, $m$ is the inertial mass, and $a$ is
 Newton's laws are invariant under the transformation
 
 $$
-\vec{v}(t) \to \vec{v}'(t) + \vec{a}
+\vec{v}(t) \to \vec{v}'(t) + \vec{v}_0
 $$
 
 
