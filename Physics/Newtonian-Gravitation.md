@@ -1,5 +1,8 @@
+$$
+\let\sb=_
+$$
 \begin{equation}
-\vec{F}_G \propto \frac{m_1m_2}{r_{12}^2}\hat{r}
+\vec{F}\sb{G} \propto \frac{m\sb{1}m\sb{2}}{r_{12}^2}\hat{r}
 \end{equation}
 
 ## Gravitational Field
