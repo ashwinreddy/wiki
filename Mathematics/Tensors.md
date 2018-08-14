@@ -6,6 +6,12 @@ $$
 \overleftrightarrow{T} = T^\alpha_\beta\tilde{\omega}^\beta\otimes\vec{e}_{\alpha}
 $$
 
+A type (r,s) tensor may be written as
+
+$$
+{\displaystyle T={T^{a_{1}\ldots a_{r}}}_{{b_{1}}\ldots {b_{s}}}{\frac {\partial }{\partial x^{a_{1}}}}\otimes \ldots \otimes {\frac {\partial }{\partial x^{a_{r}}}}\otimes dx^{b_{1}}\otimes \ldots \otimes dx^{b_{s}}}
+$$
+
 # Nomenclature
 
 The type or valence of a tensor is a pair of whole numbers $(n,m)$ representing the number of vectors and dual vectors needed to form the tensor. Tensors are formed from vectors and dual vectors using the tensor product.
