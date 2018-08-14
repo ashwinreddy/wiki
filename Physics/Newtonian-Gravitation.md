@@ -1,10 +1,6 @@
-# Formulations
-
-## Newton's Universal Gravitation
-
-$$
+\begin{equation}
 \vec{F}_G = \frac{GMm}{r^2}\hat{r}
-$$
+\end{equation}
 
 ## Gravitational Field
 
