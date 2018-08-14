@@ -9,15 +9,6 @@ The theory of **General relativity** posits that the gravitational phenomenon is
 R_{\mu \nu }-{\tfrac {1}{2}}Rg_{\mu\nu} \,+\Lambda g_{\mu \nu }={\frac {8\pi G}{c^{4}}}T_{\mu \nu }
 \end{equation}
 
-## Einstein Tensor
-
-Properties:
-- symmetric
-- incompressible
-
-\begin{equation}
-G_{\mu\nu} \equiv R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R
-\end{equation}
 
 ## Ricci Curvature Scalar
 
