@@ -1,6 +1,3 @@
-$$
-\let\sp=^
-$$
 
 **Tensors** are objects that transform predictably in different coordinate systems. Thus, a tensor equation is powerful because it holds in all coordinate systems. 
 
@@ -8,6 +5,10 @@ A $(1,1)$ tensor can be written like
 
 $$
 \overleftrightarrow{T} = T^\alpha_\beta\tilde{\omega}^\beta\otimes\vec{e}_{\alpha}
+$$
+
+$$
+\let\sb=_
 $$
 
 
