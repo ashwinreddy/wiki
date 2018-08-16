@@ -1,0 +1,1 @@
+A **linear map** $A : V \to W$ for vector spaces $V$ and $W$
