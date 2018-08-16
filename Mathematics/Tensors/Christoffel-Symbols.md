@@ -1,4 +1,6 @@
 
+**Christoffel Symbols**
+
 $$
 \let\sb=_
 $$
