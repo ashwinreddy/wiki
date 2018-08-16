@@ -13,5 +13,5 @@ $$
 $$
 
 $$
-\mathrm{d}f(v)
+\mathrm{d}f(v) = \frac{\partial f}{\partial x^i}v^i
 $$
