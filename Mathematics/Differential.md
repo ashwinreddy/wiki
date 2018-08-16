@@ -15,3 +15,7 @@ $$
 $$
 \mathrm{d}f(v) = \frac{\partial f}{\partial x^i}v^i
 $$
+
+$$
+\mathrm{d}x^i(v)=v^i
+$$
