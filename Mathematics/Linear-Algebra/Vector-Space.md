@@ -3,7 +3,11 @@ A **vector space** is a set equipped with vector addition and scalar multiplicat
 
 Functions are vectors.
 
-# Dot Product
+# Vector Operations
+
+Vectors can be equipped with operations.
+
+## Dot Product
 
 The **dot product** returns a linear combination between two vectors. In an orthonormal system,
 
