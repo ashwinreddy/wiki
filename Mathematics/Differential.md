@@ -1,3 +1,3 @@
 $$
-f(x_0 + v) = f(x_0) + Av + o(v) \qquad \lim_{v \to 0} \frac{o(v)}{|v|} = 0
+f(x_0 + v) = f(\vec x_0) + A\vec{v} + o(\vec v) \qquad \lim_{v \to 0} \frac{o(v)}{|v|} = 0
 $$
