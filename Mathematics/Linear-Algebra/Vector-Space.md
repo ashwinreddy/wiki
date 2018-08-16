@@ -1,1 +1,3 @@
 A **vector space** is a set equipped with vector addition and scalar multiplication.
+
+Functions are vector spaces.
