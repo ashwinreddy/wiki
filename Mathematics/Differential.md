@@ -1,5 +1,5 @@
 $$
-f(\vec{x}_0 + \vec{v}) = f(\vec x_0) + A\vec{v} + o(\vec v) \qquad \lim_{v \to 0} \frac{o(\vec{v})}{\hat{v}} = 0
+f(x_0 + \vec{v}) = f(\vec x_0) + A\vec{v} + o(\vec v) \qquad \lim_{v \to 0} \frac{o(\vec{v})}{\hat{v}} = 0
 $$
 
 We call $A$
