@@ -5,4 +5,4 @@
 3. Capital (manmade tools)
 4. Entrepreneur (business starter)
 
-Money is not a resource. It does not help to produce anythign
+Money is not a resource. It does not help to produce anything.
