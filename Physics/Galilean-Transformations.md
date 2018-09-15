@@ -1,10 +1,10 @@
 The **Galilean Transformations** describe the relationship between two inertial reference frames, given that the laws of physics apply in all inertial reference frames.
 
 \begin{align*}
-x' = x-vt \\\
-y' = y \\\
-z' = z \\\
-t' = t
+x' &= x-vt \\\
+y' &= y \\\
+z' &= z \\\
+t' &= t
 \end{align*}
 
 # Resources
