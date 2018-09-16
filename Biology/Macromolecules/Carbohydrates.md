@@ -5,7 +5,7 @@ $\let\sb_$
 
 # Monosaccharides
 
-Hexose sugars are monosaccharides with $n=6$, which means they have the formula $\ce{C6H12O6}$
+Hexose sugars are monosaccharides with $n=6$, which means they have the formula $\ce{C6H12O6}$. Glucose, fructose, and galactose all have this formula, which makes them isomers.
 
 
 # Polysaccharides
