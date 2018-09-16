@@ -10,7 +10,7 @@ The properties of water are incredibly important because they shape the evolutio
 - Liquid at body temperature
 - High heat of vaporization
 - High specific heat capacity
-- Greatest density occurs at $4^\deg$
+- Greatest density occurs at $4 \deg$
 
 The pH of water is 7, which makes it amphoteric (both acid and base).
 
