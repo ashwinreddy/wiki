@@ -5,7 +5,7 @@ window.MathJax = {
         processEscapes: true
     },
     TeX: { 
-        equationNumbers: { autoNumber: "AMS" },
+        // equationNumbers: { autoNumber: "AMS" },
         extensions: ["autoload-all.js", "autobold.js"]
     }
 };
