@@ -10,3 +10,6 @@ Polymer (polysaccharide) examples:
 
 - starch (how plants store energy)
 - cellulose
+
+
+Glucose, fructose, galactose are isomers
