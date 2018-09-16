@@ -11,3 +11,5 @@ $\alpha$-helix for example occurs in hair. $\beta$-pleated shets occur in spider
 peptide bonds link amino acids.
 
 Proteins can stop having structure after the secondary level.
+
+proteins can be fibrous or globular.
