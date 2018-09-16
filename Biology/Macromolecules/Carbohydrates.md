@@ -1,0 +1,1 @@
+The monomers of carbohydrates are called monosaccharides.
