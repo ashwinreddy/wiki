@@ -6,10 +6,15 @@ The properties of water are incredibly important because they shape the evolutio
 
 
 - Adhesion, water molecules form hydrogen bonds with each other
+
+Adhesion allows water to dissolve salt and sugar. Adhesion also means that water forms a meniscus in a glass graduated cylinder.
+
 - Cohesion, water molecules form hydrogen bonds with polar surfaces
 - Liquid at body temperature
-- High heat of vaporization
-- High specific heat capacity
+- High heat of vaporization and high specific heat capacity
+
+Water takes a lot of energy when it vaporizes, enabling evaporative cooling.
+
 - Greatest density occurs at $4^ \circ \mathrm{C}$
 
 The pH of water is 7, which makes it amphoteric (both acid and base).
