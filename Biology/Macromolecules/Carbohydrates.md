@@ -5,7 +5,7 @@ $\let\sb_$
 
 # Monosaccharides
 
-Hexose sugars are monosaccharides with $n=6$, which means they have the formula $\ce{C6H12O6}$. Glucose, fructose, and galactose all have this formula, which makes them isomers.
+Hexose sugars are monosaccharides with $n=6$, which means they have the formula $\ce{C6H12O6}$. Glucose, fructose, and galactose all have this formula, which makes them isomers. Glucose is found in blood sugar, for example.
 
 
 # Polysaccharides
@@ -14,13 +14,3 @@ Starch is a polysaccharide that plants use to store energy. Cellulose is also a 
 
 Glycogen is a polysaccharide used by animals. Glycogen is stored in the liver.
 
-
-Blood sugar, for example, contains the monosaccharide hexose sugar glucose, whose chemical formula is $\ce{C6H12O6}$.
-
-Polymer (polysaccharide) examples:
-
-- starch (how plants store energy)
-- cellulose
-
-
-Glucose, fructose, galactose are isomers
