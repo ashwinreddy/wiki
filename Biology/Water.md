@@ -4,5 +4,4 @@
 
 The properties of water are incredibly important because they shape the evolution of life.
 
-## Polarity
-
+- Water is a [polar](../Chemistry/Polarity) molecule
