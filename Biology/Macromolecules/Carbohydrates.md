@@ -1,4 +1,6 @@
-The monomers of carbohydrates are called monosaccharides, which have the general formula $\rm{C}_n\rm{H}_{2n}\rm{O}_n$.
+$\let\sb_$.
+
+The monomers of carbohydrates are called monosaccharides, which have the general formula $\rm{C}\sb{n}\rm{H}_{2n}\rm{O}\sb{n}$.
 
 Blood sugar, for example, contains the monosaccharide glucose, whose chemical formula is $\ce{C6H12O6}$.
 
