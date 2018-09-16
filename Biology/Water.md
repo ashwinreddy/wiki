@@ -2,7 +2,7 @@
 
 # Properties
 
-The properties of water are incredibly important because they shape the evolution of life. Many of the properties of water stem from the fact that it is a [polar](../Chemistry/Polarity#polar-molecule) molecule as well as [hydrogen-bonding](../Chemistry/Intermolecular-Forces)
+The properties of water are incredibly important because they shape the evolution of life. Many of the properties of water stem from the fact that it is a [polar](../Chemistry/Polarity#polar-molecule) molecule as well as [hydrogen-bonding](../Chemistry/Intermolecular-Forces#hydrogen-bonding)
 
 
 - Adhesion
