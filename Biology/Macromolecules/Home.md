@@ -1,3 +1,1 @@
-$$
-\text{Monomer} \to \text{Polymer} \to \text{Macromolecule}
-$$
+Monomers are repeating subunits that can be condensed (via dehydration synthesis) into polymers, which can, in turn, be chained to form macromolecules.
