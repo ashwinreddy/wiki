@@ -1,7 +1,4 @@
-
-$\let\sb_$
-
-**Carbohydrates** are a macromolecule, made up of hydrogen and carbon. The monomers of carbohydrates are called monosaccharides. Monosaccharides have the general chemical formula $\rm{C}\sb{n}\rm{H}_{2n}\rm{O}\sb{n}$. 
+**Carbohydrates** are a macromolecule, made up of hydrogen and carbon. $\let\sb_$. The monomers of carbohydrates are called monosaccharides. Monosaccharides have the general chemical formula $\rm{C}\sb{n}\rm{H}_{2n}\rm{O}\sb{n}$. 
 
 # Monosaccharides
 
