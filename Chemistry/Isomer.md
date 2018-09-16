@@ -1,0 +1,1 @@
+An **isomer** of a molecule is one with the same molecular formula but either a different spatial arrangement or a different structure.
