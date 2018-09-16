@@ -1,10 +1,7 @@
-# Van der Waals Forces 
+London Dispersion Forces are typically very weak forces between molecules caused by momentary or instantaneous dipoles, present even between nonpolar molecules, which would not ordinarily have dipoles.
 
-## London Dispersion Forces
+Dipole-dipole forces are interactions between dipoles of molecules. Hydrogen bonding is a special example because it is so strong.
 
-These are typically very weak forces between molecules caused by momentary or instantaneous dipoles, present even between nonpolar molecules, which would not ordinarily have dipoles.
+# Hydrogen Bonding
 
-## Dipole-Dipole Forces
-
-
-### Hydrogen Bonding
+Between a hydrogen and a nitrogen, oxygen, or fluorine. The electronegativity difference makes this kind of IMF very strong.
