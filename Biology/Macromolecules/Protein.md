@@ -1,4 +1,7 @@
 
 |Structure Level|Associated Structure|
 |---------------|--------------------|
-|a|b|
+|Primary|b|
+|Secondary|$\alpha$-helix or $\beta$-sheet|
+|Tertiary||
+|Quaternary||
