@@ -1,8 +1,4 @@
-**Carbohydrates** are a macromolecule, made up of hydrogen and carbon. $\let\sb_$ The monomers of carbohydrates are called monosaccharides. Monosaccharides have the general chemical formula $\rm{C}\sb{n}\rm{H}_{2n}\rm{O}\sb{n}$.
-
-# Properties
-
-Hydrocarbons are a source of energy. Hydrocarbons are nonpolar, which makes them hydrophobic.
+**Carbohydrates** are a macromolecule, made up of hydrogen and carbon. $\let\sb_$ The monomers of carbohydrates are called monosaccharides. Monosaccharides have the general chemical formula $\rm{C}\sb{n}\rm{H}_{2n}\rm{O}\sb{n}$. Hydrocarbons are a source of energy. Hydrocarbons are nonpolar, which makes them hydrophobic.
 
 # Monosaccharides
 
