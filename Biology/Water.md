@@ -8,3 +8,5 @@ The properties of water are incredibly important because they shape the evolutio
 - Adhesion
 - Cohesion
 - High specific heat capacity
+
+The pH of water is 7, which makes it amphoteric (both acid and base).
