@@ -6,5 +6,5 @@ The animal form of stored carbohydrate is called glycogen and is stored in the l
 
 Polymer (polysaccharide) examples:
 
-- starch
+- starch (how plants store energy)
 - cellulose
