@@ -6,6 +6,9 @@ Processed data includes any changes made to the data informed by looking at the 
 
 Analyzed Data is the data with which analysis is generated.
 
+- $n$ is the size of the data, or the number of samples collected
+- $x$ represents the samples themselves such that $x_i$ is the $i$th entry of the dataset
+- $\sum$ represents a summation. In this case, a summation over the bound variable $i$.
 
 Mean:
 $$
