@@ -2,7 +2,9 @@
 
 # Monosaccharides
 
-Hexose sugars are monosaccharides with $n=6$, which means they have the formula $\ce{C6H12O6}$. Glucose, fructose, and galactose all have this formula, which makes them isomers. Glucose is found in blood sugar, for example.
+Hexose sugars are monosaccharides with $n=6$, which means they have the formula $\ce{C6H12O6}$. Glucose, fructose, and galactose all have this formula, which makes them isomers of each other. 
+
+Glucose can be found in blood sugar.
 
 
 # Polysaccharides
