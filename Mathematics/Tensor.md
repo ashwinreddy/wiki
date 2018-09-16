@@ -1,9 +1,4 @@
-
-| | 0 | 1 | 2|
-|-|---|---|---|
-|0| scalar |   |   |
-|1|   |   |   |
-|2|   |   |   |
+A **tensor** is a coordinate-invariant generalization of a vector.
 
 # References
 
