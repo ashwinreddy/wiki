@@ -2,7 +2,9 @@
 
 ## Hydroxyl
 
-$\ce{R-OH}$
+Chemical Formula is $\ce{-OH}$.
+
+[[https://ka-perseus-images.s3.amazonaws.com/d0f2df15737d3feeaeea4cf4ec640413c493a875.png]]
 
 ## Carbonyl
 
