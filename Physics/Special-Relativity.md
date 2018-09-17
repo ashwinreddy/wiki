@@ -1,3 +1,12 @@
+Special relativity explains how observers in different reference frames observe each other. 
+
+
+# Galilean Transformations
+
+[[include:Galilean-Transformations]]
+
+# Lorentz Transformations
+
 
 1. The laws of physics are the same in all inertial reference frames
 2. The speed of light in a vacuum $c$ is constant for all observers
@@ -9,9 +18,6 @@
 
 $\gamma = \frac{\mathrm{d}t}{\mathrm{d}\tau}$
 
-# Galilean Transformations
-
-[[include:Galilean-Transformations]]
 
 **References**
 
