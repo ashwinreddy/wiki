@@ -4,6 +4,8 @@
 G + \Lambda g = \kappa T
 \end{equation}
 
+> Spacetime tells matter how to move; matter tells spacetime how to curve.
+
 # Metrics
 
 - [Alcubierre metric](https://en.wikipedia.org/wiki/Gravitoelectromagnetism)
