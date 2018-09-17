@@ -6,4 +6,6 @@ Stanley Miller created an experimental setup that roughly mimicked what we belie
 
 # Alkane
 
-the general formula is $\mathrm{C}_n \mathrm{H}_{2n+2}$
+$\let\sb_$
+
+the general formula is $\mathrm{C}\sb{n} \mathrm{H}_{2n+2}$
