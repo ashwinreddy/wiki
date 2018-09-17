@@ -10,7 +10,7 @@ Glucose can be found in blood sugar.
 
 A disaccharide is made up of two monosaccharides.
 
-[[https://thebiochemsynapse.files.wordpress.com/2013/02/maltose.jpg]]
+[[https://thebiochemsynapse.files.wordpress.com/2013/02/maltose.jpg|height=100px]]
 
 # Polysaccharides
 
