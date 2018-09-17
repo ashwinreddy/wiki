@@ -1,3 +1,5 @@
+# Introduction
+
 The **Galilean Transformations** describe the relationship between two inertial reference frames, given that the laws of physics apply in all inertial reference frames. If one inertial frame is moving at a constant velocity $v$ with respect to the other, then
 
 \begin{align}
