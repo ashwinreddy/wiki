@@ -13,6 +13,6 @@ Starch is a polysaccharide that plants use to store energy. Cellulose is also a 
 
 | ![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Alpha-D-Glucopyranose.svg) | ![](https://upload.wikimedia.org/wikipedia/commons/8/82/Beta-D-Glucopyranose.svg) |
 |:--:|:-------:|
-| $\alpha$-D-glucopyranose | $beta$-D-glucopyranose |
+| $\alpha$-D-glucopyranose | $\beta$-D-glucopyranose |
 
 Glycogen is a polysaccharide used by animals and is stored in the liver. Glycogen is also highly branched while starch is not. Plants are more efficient at storing/packing b/c of linearity.
