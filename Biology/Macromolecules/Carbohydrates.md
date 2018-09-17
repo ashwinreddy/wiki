@@ -12,7 +12,7 @@ Glucose can be found in blood sugar.
 Starch is a polysaccharide that plants use to store energy. Cellulose is also a polysaccharide used by plants in their cell walls. Starch is made up of $\alpha$-glucopyranose monomers while cellulose is made up of $\beta$-glucopyranose monomers. The result is that cellulose is more branched so that it can link more readily.
 
 
-| ![](https://upload.wikimedia.org/wikipedia/commons/c/c6/Alpha-D-Glucopyranose.svg) | ![](https://upload.wikimedia.org/wikipedia/commons/8/82/Beta-D-Glucopyranose.svg) |
+| [[https://upload.wikimedia.org/wikipedia/commons/c/c6/Alpha-D-Glucopyranose.svg|align=center]] | ![](https://upload.wikimedia.org/wikipedia/commons/8/82/Beta-D-Glucopyranose.svg) |
 |:--:|:-------:|
 | $\alpha$-D-glucopyranose | $\beta$-D-glucopyranose |
 
