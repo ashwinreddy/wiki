@@ -2,7 +2,7 @@
 
 ## Hydroxyl
 
-$\ce{-OH}$
+$\ce{R-OH}$
 
 ## Carbonyl
 
