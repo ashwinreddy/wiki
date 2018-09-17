@@ -6,8 +6,9 @@ Stanley Miller created a closed system that roughly mimicked what we believed th
 
 1. A heated flask of water
 2. Atmosophere of $\ce{H2}$, $\ce{CH4}$, $\ce{NH3}$ gas
+3. Sparks discharged to mimic lightning
 
-The result was that the environment generated basic organic compounds without outside intervention.
+A sample for chemical analysis showed compounds like formaldehyde, hydrogen cyanide, as well as amino acids and hydrocarbons.
 
 # Alkane
 
