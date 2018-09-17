@@ -1,4 +1,7 @@
 
+1. The laws of physics are the same in all inertial reference frames
+2. The speed of light in a vacuum $c$ is constant for all observers
+
 \begin{equation}
 \gamma \equiv \frac{1}{\sqrt{1-\beta^2}} \qquad \beta \equiv \frac{v}{c}
 \end{equation}
