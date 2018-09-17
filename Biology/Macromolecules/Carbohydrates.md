@@ -6,6 +6,11 @@ Hexose sugars are monosaccharides with $n=6$, which means they have the formula 
 
 Glucose can be found in blood sugar.
 
+# Disaccharide
+
+A disaccharide is made up of two monosaccharides.
+
+[[https://thebiochemsynapse.files.wordpress.com/2013/02/maltose.jpg]]
 
 # Polysaccharides
 
