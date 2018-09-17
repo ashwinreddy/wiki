@@ -1,3 +1,7 @@
+Hydroxyl ($\ce{ROH}$
+
+
+
 Aldehyde is a carbonyl on a terminal atom.
 
 Ketone is a carbonyl on a central atom.
