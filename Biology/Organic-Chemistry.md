@@ -1,3 +1,0 @@
-All organic compounds contain hydrogen and carbon.
-
-
