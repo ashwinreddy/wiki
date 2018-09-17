@@ -1,4 +1,3 @@
-# Groups
 
 |Name|Compound Name|Chemical Formula|Picture|Notes|
 |:----|----------------|-------|------|
