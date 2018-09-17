@@ -1,3 +1,3 @@
 \begin{equation}
-\mathrm{pH} = -\log [\ce{H+}]
+\mathrm{pH} = -\log \left[\ce{H+}\right]
 \end{equation}
