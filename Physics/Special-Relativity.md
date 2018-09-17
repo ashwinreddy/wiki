@@ -1,6 +1,6 @@
 
 \begin{equation}
-\gamma = \frac{1}{\sqrt{1-\beta^2}} \qquad \beta = \frac{v}{c}
+\gamma \equiv \frac{1}{\sqrt{1-\beta^2}} \qquad \beta \equiv \frac{v}{c}
 \end{equation}
 
 # References
