@@ -12,6 +12,8 @@ A disaccharide is made up of two monosaccharides. An example is shown below:
 
 [[https://thebiochemsynapse.files.wordpress.com/2013/02/maltose.jpg|height=300px]]
 
+Notice that the monosaccharides are linked by an oxygen. 
+
 # Polysaccharides
 
 Starch is a polysaccharide that plants use to store energy. Cellulose is also a polysaccharide used by plants in their cell walls. Starch is made up of $\alpha$-glucopyranose monomers while cellulose is made up of $\beta$-glucopyranose monomers. The result is that cellulose is more branched so that it can link more readily.
