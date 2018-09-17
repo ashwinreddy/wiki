@@ -1,3 +1,3 @@
 $$
-pH = -\log [\ce{H+}]
+\mathrm{pH} = -\log [\ce{H+}]
 $$
