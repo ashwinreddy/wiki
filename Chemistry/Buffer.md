@@ -1,1 +1,1 @@
-A buffer resists changes in $\mathrm{pH}$ $\ce{pH}$
+A buffer resists changes in $\mathrm{pH}$
