@@ -7,6 +7,6 @@ z' &= z \\\
 t' &= t
 \end{align}
 
-# Resources
+# References
 
 - [Frames of Reference and Newton’s Laws](http://galileo.phys.virginia.edu/classes/252/lecture1.htm)
