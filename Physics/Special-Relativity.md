@@ -9,7 +9,7 @@
 
 $\gamma = \frac{\mathrm{d}t}{\mathrm{d}\tau}$
 
-
+# Galilean Transformations
 
 [[include:Galilean-Transformations]]
 
