@@ -6,4 +6,4 @@ Stanley Miller created an experimental setup that roughly mimicked what we belie
 
 # Alkane
 
-$\ce{C_n H_{2n+2}}$
+$\ce{C_{n} H_{2n+2}}$
