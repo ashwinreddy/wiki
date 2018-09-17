@@ -9,7 +9,6 @@ Glucose can be found in blood sugar.
 
 # Polysaccharides
 
-Starch is a polysaccharide that plants use to store energy. Cellulose is also a polysaccharide used by plants in their cell walls. 
+Starch is a polysaccharide that plants use to store energy. Cellulose is also a polysaccharide used by plants in their cell walls. Starch is made up of $\alpha$ glucose monomers while cellulose is made up of $\beta$ glucose monomers. The result is that cellulose is more branched so that it can link more readily.
 
 Glycogen is a polysaccharide used by animals and is stored in the liver. Glycogen is also highly branched while starch is not. Plants are more efficient at storing/packing b/c of linearity.
-
