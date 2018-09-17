@@ -1,4 +1,4 @@
-Hydroxyl ($\ce{ROH}$
+Hydroxyl ($\ce{-OH}$
 
 
 
