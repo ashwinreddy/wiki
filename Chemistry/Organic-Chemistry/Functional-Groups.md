@@ -12,6 +12,10 @@ Typically, compounds with a hydroxyl group are alcohols.
 
 ## Carbonyl
 
+$\ce{C=O}$
+
+[[https://ka-perseus-images.s3.amazonaws.com/c599e439d6d70c9056d48931515740f81119c1a2.png]]
+
 ## Carboxyl
 
 
