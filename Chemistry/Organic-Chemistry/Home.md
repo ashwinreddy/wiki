@@ -6,4 +6,4 @@ Stanley Miller created an experimental setup that roughly mimicked what we belie
 
 # Alkane
 
-$\ce{C_{n}} \ce{ H_{2n+2}}$
+the general formula is $\mathrm{C}_n \mathrm{H}_{2n+2}$
