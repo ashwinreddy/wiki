@@ -6,9 +6,9 @@
 
 The equations of motion fall out from the Euler-Lagrange equation:
 
-$$
+\begin{equation}
 \frac{\partial \mathcal{L}}{\partial q} = \frac{\mathrm{d}}{\mathrm{d}t}\frac{\partial \mathcal{L}}{\partial \dot{q}}
-$$
+\end{equation}
 
 # Examples
 
