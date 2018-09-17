@@ -1,0 +1,1 @@
+A buffer resists changes in $\mathrm{pH}$
