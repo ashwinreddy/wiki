@@ -6,4 +6,4 @@
 |Carboxyl| Carboxylic acid | $\ce{-COOH}$ | [[https://ka-perseus-images.s3.amazonaws.com/72abebf791f804371ea5a4166d761bf006db41f4.png]] | Acidic, able to donate $\ce{H+}$. |
 |Amino Group|Amine| $\ce{-NH2}$ | [[https://ka-perseus-images.s3.amazonaws.com/7b8a1048ca747ec7c58340d0b35c50df02667093.png]] | Acts as a base |
 | Sulfhydryl  | Thiol | $\ce{-SH}$ | [[https://ka-perseus-images.s3.amazonaws.com/f48e2a481826e67cbc76b854794e76eaaf8f0f2b.png]] | Cross-link stabilizes protein structure|
-| Phosphate group | Organic Phosphate | $\ce{-OPO3 2-}$ | [[https://ka-perseus-images.s3.amazonaws.com/fb55e88e06205e247a726f19f461b45fb2c4f972.png]] | |
+| Phosphate group | Organic Phosphate | $\ce{-OPO3 {2-}}$ | [[https://ka-perseus-images.s3.amazonaws.com/fb55e88e06205e247a726f19f461b45fb2c4f972.png]] | |
