@@ -10,7 +10,7 @@ G + \Lambda g = \kappa T
 
 - [Alcubierre metric](https://en.wikipedia.org/wiki/Gravitoelectromagnetism)
 
-# References
+**References**
 
 - [Newtonian motivations for general relativity](https://en.wikipedia.org/wiki/Newtonian_motivations_for_general_relativity)
 - [Gravitoelectromagnetism](https://en.wikipedia.org/wiki/Gravitoelectromagnetism)
