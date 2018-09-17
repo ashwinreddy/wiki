@@ -7,5 +7,5 @@
 \end{equation}
 
 \begin{equation}
-pH + pOH = 14
+\mathrm{pH + pOH} = 14
 \end{equation}
