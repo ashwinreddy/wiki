@@ -1,6 +1,6 @@
 A **tensor** is a coordinate-invariant generalization of a vector.
 
-# References
+**References**
 
 - [Introduction to Tensor Calculus](http://www.ita.uni-heidelberg.de/~dullemond/lectures/tensor/tensor.pdf)
 - [A Primer on Tensor Calculus](http://ap.smu.ca/~dclarke/home/documents/byDAC/tprimer.pdf)
