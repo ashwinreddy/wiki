@@ -1,12 +1,8 @@
 # Groups
 
-## Hydroxyl
-
-Chemical Formula is $\ce{-OH}$.
-
-[[https://ka-perseus-images.s3.amazonaws.com/d0f2df15737d3feeaeea4cf4ec640413c493a875.png]]
-
-This group is polar due to electronegative oxygen, which also allows for hydrogen bonds with water. Thus, it can help dissolve compounds like sugars.
+|Name|Chemical Formula|Picture|Notes|
+|----|----------------|-------|------|
+| Hydroxyl | $\ce{-OH}$ | [[https://ka-perseus-images.s3.amazonaws.com/d0f2df15737d3feeaeea4cf4ec640413c493a875.png]] | This group is polar due to electronegative oxygen, which also allows for hydrogen bonds with water. Thus, it can help dissolve compounds like sugars. |
 
 Typically, compounds with a hydroxyl group are alcohols.
 
