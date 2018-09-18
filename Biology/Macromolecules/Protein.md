@@ -6,6 +6,8 @@ Amino Acid: contains a amine and a carboxylic acid.
 
 The central carbon is known as the $\alpha$-carbon.
 
+This is a zwitterion in water because it has a polar/nonpolar, or is it acid/base?
+
 # Protein Structure
 
 |Structure Level|Associated Structure|
