@@ -1,10 +1,12 @@
 **Proteins** play important roles in biology. They make up 50% of the dry weight of cells.
 
+# Amino Acids
 
-
-Amino Acid: contains a amine and a carboxylic acid.
+The monomers of protiens are amino acids, which look like 
 
 [[http://www.nutrientsreview.com/wp-content/uploads/2014/10/Amino-Acid-Structure.jpg]]
+
+On the right is an amine and on the left is a carboxylic acid.
 
 The central carbon is known as the $\alpha$-carbon.
 
