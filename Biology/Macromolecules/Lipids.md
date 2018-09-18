@@ -3,7 +3,7 @@
 
 # Fats
 
-Fat is a better energy storage than carbohydrates for fast-moving animals. Fats are esters of three fatty acid chains and glycerol, the three-carbon alcohol. Fats are also known as triglycerides.
+Fat is a better energy storage than carbohydrates for fast-moving animals (carbs make us bloated by absorbing water? but carbs are nonpolar). Fats are esters of three fatty acid chains and glycerol, the three-carbon alcohol. Fats are also known as triglycerides.
 
 
 |Saturated Fats|Unsaturated Fats|
