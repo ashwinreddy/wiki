@@ -1,3 +1,3 @@
 Hydrophobic tail, hydrophilic head
 
-[[https://images.slideplayer.com/23/6634700/slides/slide_6.jpg|width=350px]]
+[[https://bio.libretexts.org/@api/deki/files/8347/glycerophosphate_cartoon2.png?revision=1|width=350px]]
