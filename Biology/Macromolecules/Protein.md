@@ -1,3 +1,5 @@
+**Proteins** play important roles in biology. They make up 50% of the dry weight of cells.
+
 
 
 Amino Acid: contains a amine and a carboxylic acid.
