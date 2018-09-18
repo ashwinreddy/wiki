@@ -15,6 +15,10 @@ Fat is a better energy storage than carbohydrates for fast-moving animals (carbs
 
 Omega-3 fatty acids are harder to obtain, but neccessary. They come from fish and avocado, for example.
 
+$$
+\text{glycerol} + 3 \text{ fatty acid chains} \to \text{triglycerides} + 3 \ce{H2O}
+$$
+
 # Steroids
 
 Examples include cholesterol and hormones.
