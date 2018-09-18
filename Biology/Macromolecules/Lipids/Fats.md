@@ -19,3 +19,10 @@ Fats are made via a dehydration synthesis:
 Fats are linked by a polar ester linkage.
 
 [[http://www.sliderbase.com/images/referats/1467b/(38).PNG|width=300px]]
+
+
+
+# Trans Fats
+Enzymes can easily break the cis-oleic acid but cannot easily break the trans-oleic acid because of its linearity.
+
+In the worse case, trans fats can float into the bload stream, causing plaque build up, and coronary artery disease
