@@ -27,6 +27,8 @@ Fats are linked by a polar ester linkage.
 
 # Steroids
 
+Steroids are 4 interlocking hydrocarbons.
+
 Examples include cholesterol and hormones.
 
 # Phospholipids
