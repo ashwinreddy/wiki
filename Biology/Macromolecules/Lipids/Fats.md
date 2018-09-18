@@ -18,4 +18,4 @@ Fats are made via a dehydration synthesis:
 
 Fats are linked by a polar ester linkage.
 
-[[http://www.sliderbase.com/images/referats/1467b/(38).PNG|width=100px]]
+[[http://www.sliderbase.com/images/referats/1467b/(38).PNG|width=300px]]
