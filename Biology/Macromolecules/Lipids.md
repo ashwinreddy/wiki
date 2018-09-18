@@ -19,6 +19,10 @@ Omega-3 fatty acids are harder to obtain, but neccessary. They come from fish an
 \overbrace{\ce{C3H8O3}}^{\text{glycerol}} + 3 \text{ fatty acid chains} \to \text{triglycerides} + 3 \ce{H2O}
 \end{equation}
 
+Fats are linked by an ester linkage
+
+[[http://www.sliderbase.com/images/referats/1467b/(38).PNG]]
+
 # Steroids
 
 Examples include cholesterol and hormones.
