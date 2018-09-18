@@ -4,4 +4,4 @@
 - Steroids
   - cholesterol
   - hormones
-- phospholipids
+- Phospholipids
