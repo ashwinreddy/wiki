@@ -1,0 +1,1 @@
+Lipids are not polymer because they do not have repeating sub units.
