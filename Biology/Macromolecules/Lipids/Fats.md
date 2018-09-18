@@ -26,3 +26,7 @@ Fats are linked by a polar ester linkage.
 Enzymes can easily break the cis-oleic acid but cannot easily break the trans-oleic acid because of its linearity.
 
 In the worse case, trans fats can float into the bload stream, causing plaque build up, and coronary artery disease
+
+# Hydrogenation
+
+Hydrogenation is opening up the double bonds in a fat. For example, corn oil is liquid at room temperature since it is unstaturated. By hydrogenating corn oil, we get margarine, solid at room temperature.
