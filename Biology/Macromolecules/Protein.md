@@ -1,5 +1,11 @@
 
 
+Amino Acid: contains a amine and a carboxylic acid.
+
+[[http://www.nutrientsreview.com/wp-content/uploads/2014/10/Amino-Acid-Structure.jpg]]
+
+The central carbon is known as the $\alpha$-carbon.
+
 # Protein Structure
 
 |Structure Level|Associated Structure|
