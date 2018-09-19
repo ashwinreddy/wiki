@@ -1,9 +1,6 @@
 Special relativity explains how observers in different reference frames observe each other. 
 
 
-# Galilean Transformations
-
-[[include:Galilean-Transformations]]
 
 # Lorentz Transformations
 
