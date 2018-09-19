@@ -12,6 +12,12 @@ The central carbon is known as the $\alpha$-carbon.
 
 This is a zwitterion in water because it has a polar/nonpolar, or is it acid/base?
 
+R groups can confer:
+
+- hydrophobic properties
+- hydrophilic properties
+- ionic properties
+
 # Protein Structure
 
 |Structure Level|Associated Structure|
