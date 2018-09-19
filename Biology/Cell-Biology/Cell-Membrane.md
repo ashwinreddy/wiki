@@ -2,4 +2,4 @@ The **cell membrane**, also known as the **plasma membrane** is the membrane tha
 
 # Components
 
-The most abundant lipids in most membranes are [phospholipids](../Macromolecules/Lipids/Phospholipids)
+The most abundant lipids in most membranes are [phospholipids](../Macromolecules/Lipids/Phospholipids), which arrange in a bilayer.
