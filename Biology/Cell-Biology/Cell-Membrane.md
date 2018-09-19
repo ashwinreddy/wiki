@@ -7,3 +7,14 @@ The most abundant lipids in most membranes are [phospholipids](../Macromolecules
 Membrane proteins are also mostly amphipathic.
 
 Cholesterol is wedged between phospholipid molecules in the membrane. At high temperatures, it restrains movement and lowers the temperature needed to solidify. Thus, cholesterol keeps the membrane fluid, by resisting changes, giving it the name "fluidity buffer."
+
+The membrane must be fluid so that it is permeable and so that membrane proteins can move around. 
+
+Functions of Membrane Proteins:
+
+1. Transport
+2. Enzymatic activity
+3. Signal transduction
+4. Cell-cell recognition
+5. Intercellular joining
+6. Attachment to the cytoskeleton and extracellular matrix
