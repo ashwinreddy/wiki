@@ -1,4 +1,4 @@
-**Polarity** can refer to a bond or a molecule.
+**Polarity** is a property that can refer to a bond or a molecule.
 
 # Polar Bond
 
