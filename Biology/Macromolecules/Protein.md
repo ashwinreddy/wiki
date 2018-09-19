@@ -18,8 +18,6 @@ R groups can confer:
 - hydrophilic properties
 - ionic properties
 
-[[http://ib.bioninja.com.au/_Media/amino-acid-structures_med.jpeg]]
-
 # Protein Structure
 
 |Structure Level|Associated Structure|
@@ -28,6 +26,8 @@ R groups can confer:
 |Secondary|$\alpha$-helix or $\beta$-sheet|
 |Tertiary||
 |Quaternary||
+
+$\beta$-pleated sheets (e.g. in spider silk) are created by hydrogen-bonding between the oxygen of the carboxyl group and the amino group.
 
 $\alpha$-helix for example occurs in hair. $\beta$-pleated shets occur in spider webs. Both are caused by hydrogen-bonding from charged functional groups due to acid-base reactions.
 
