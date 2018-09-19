@@ -18,6 +18,8 @@ R groups can confer:
 - hydrophilic properties
 - ionic properties
 
+[[http://ib.bioninja.com.au/_Media/amino-acid-structures_med.jpeg|width=150px]]
+
 # Protein Structure
 
 |Structure Level|Associated Structure|
