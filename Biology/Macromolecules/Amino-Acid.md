@@ -7,15 +7,19 @@ The central carbon is known as the $\alpha$-carbon.
 
 This is a zwitterion in water because it has a polar/nonpolar, or is it acid/base?
 
-R groups can confer:
+# Side Chains
+
+R groups, aka side chains, can confer:
 
 - hydrophobic properties
 - hydrophilic properties
 - ionic properties
 
-# Proteins
+# Peptide Bonds
 
 Linking two amino acids through a peptide bonds results in a dipeptide. A dipeptide can then be linked to another amino acid via a peptide bond to make a tripeptide. After that, the resultant is called a polypeptide. Peptide bonds are a type of dehydration synthesis. 
+
+# Examples
 
 [[http://www.compoundchem.com/wp-content/uploads/2014/09/20-Common-Amino-Acids-v3-1024x724.png]]
 
