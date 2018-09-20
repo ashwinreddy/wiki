@@ -9,12 +9,9 @@
 |Tertiary|general 3d shape|
 |Quaternary|folded protein subunits|
 
-$\beta$-pleated sheets (e.g. in spider silk) are created by hydrogen-bonding between the oxygen of the carboxyl group and the amino group.
-
-$\alpha$-helix for example occurs in hair. $\beta$-pleated shets occur in spider webs. Both are caused by hydrogen-bonding from charged functional groups due to acid-base reactions.
-
-peptide bonds link amino acids.
 
 Proteins can stop having structure after the secondary level.
 
-proteins can be fibrous or globular.
+## Secondary Structure
+
+$\beta$-pleated sheets (e.g. in spider silk) are created by hydrogen-bonding between the oxygen of the carboxyl group and the amino group. $\alpha$-helix for example occurs in hair. Both are caused by hydrogen-bonding from charged functional groups due to acid-base reactions.
