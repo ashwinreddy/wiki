@@ -25,8 +25,13 @@ Linking two amino acids through a peptide bonds results in a dipeptide. A dipept
 
 Notice in this picture that methionine, which acts as the start codon, has a sulfur group. However, it does not form sulfide bridges; that is not a sulfhydryl group. Cysteine, on the other hand, can.
 
+Valine is hydrophobic, glutamic acid forms salt bridges.
+
 # Shape
 
 Hydrophobic amino acids will fold inwards while hydrophilic ones will stay out. Acid and base amino acids will form salt bridges.
 
 The folding of the protein at this stage gives the protein its 3D conformation.
+
+Change in protein protein structure is a change in protein function. 
+
