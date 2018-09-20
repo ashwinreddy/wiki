@@ -1,4 +1,4 @@
-**Proteins** play important roles in biology. They make up 50% of the dry weight of cells. They are polymers, and their monomers are [amino acids](./Amino Acids)
+**Proteins** play important roles in biology. They make up 50% of the dry weight of cells. They are polymers, and their monomers are [amino acids](./Amino Acid)
 
 # Protein Structure
 
