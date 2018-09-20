@@ -1,1 +1,1 @@
-**Adenine triphosphate**
+**Adenosine triphosphate**
