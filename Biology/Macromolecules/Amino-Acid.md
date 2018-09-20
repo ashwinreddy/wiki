@@ -1,4 +1,4 @@
-**Amino acids** are the monomers of [proteins](./Proteins)
+**Amino acids** are the monomers of [proteins](./Protein)
 
 
 The monomers of protiens are amino acids, which look like 
