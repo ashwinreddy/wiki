@@ -17,4 +17,6 @@ R groups can confer:
 
 Linking two amino acids through a peptide bonds results in a dipeptide. A dipeptide can then be linked to another amino acid via a peptide bond to make a tripeptide. After that, the resultant is called a polypeptide. Peptide bonds are a type of dehydration synthesis. 
 
-[[http://www.compoundchem.com/wp-content/uploads/2014/09/20-Common-Amino-Acids-v3-1024x724.png|width=450px]]
+[[http://www.compoundchem.com/wp-content/uploads/2014/09/20-Common-Amino-Acids-v3-1024x724.png]]
+
+Notice in this picture that methionine, which acts as the start codon, has a sulfur group. However, it does not form sulfide bridges; that is not a sulfhydrl group.
