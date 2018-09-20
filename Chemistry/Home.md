@@ -1,4 +1,4 @@
-**Chemistry** is the study of matter.
+**Chemistry** is the study of matter. Sub-branches of chemistry include:
 
 [Organic chemistry](./Organic Chemistry/) deals with compounds made of carbon, the building block of life.
 
