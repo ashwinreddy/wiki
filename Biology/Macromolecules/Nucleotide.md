@@ -1,1 +1,1 @@
-**Nucleotides** consist of a phosphate connected to a sugar connected to a nitrogenous base. Linked nucleotides therefore form a **sugar phosphate backbone**.
+**Nucleotides** consist of a phosphate connected to a sugar connected to a nitrogenous base. Linked nucleotides therefore form a **sugar phosphate backbone**. The bond that links them is called a **phosphodiester bond**.
