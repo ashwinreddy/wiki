@@ -20,3 +20,9 @@ Water takes a lot of energy when it vaporizes, enabling evaporative cooling.
 The pH of water is 7, which makes it amphoteric (both acid and base).
 
 Other compounds can be hydrophilic (water-loving) or hydrophobic (water-fearing). A compound is likely to be hydrophilic with the presence of polar bonds, which allow for hydrogen bonding.
+
+# Biological Standpoint
+
+Often, organic molecules are built in what is called dehydration synthesis. After joining two compounds, a bigger compound is formed and water is released. 
+
+The bigger compound can then be broken into its constituents by reinserting a water in what is known as hydrolysis.
