@@ -3,3 +3,5 @@
 \begin{equation}
 \overbrace{\text{phospho}}^{\text{phosphate group}}\underbrace{\text{di}}_{\text{double-sided}}\text{ester}
 \end{equation}
+
+Adenine, Thymine, Guanine, Cytosine. The purines include A and G.
