@@ -12,3 +12,5 @@ R groups can confer:
 - hydrophobic properties
 - hydrophilic properties
 - ionic properties
+
+[[http://www.compoundchem.com/wp-content/uploads/2014/09/20-Common-Amino-Acids-v3-1024x724.png]]
