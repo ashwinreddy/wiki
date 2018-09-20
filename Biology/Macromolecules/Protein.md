@@ -1,22 +1,4 @@
-**Proteins** play important roles in biology. They make up 50% of the dry weight of cells.
-
-# Amino Acids
-
-The monomers of protiens are amino acids, which look like 
-
-[[http://www.nutrientsreview.com/wp-content/uploads/2014/10/Amino-Acid-Structure.jpg]]
-
-On the right is an amine and on the left is a carboxylic acid.
-
-The central carbon is known as the $\alpha$-carbon.
-
-This is a zwitterion in water because it has a polar/nonpolar, or is it acid/base?
-
-R groups can confer:
-
-- hydrophobic properties
-- hydrophilic properties
-- ionic properties
+**Proteins** play important roles in biology. They make up 50% of the dry weight of cells. They are polymers, and their monomers are [amino acids](./Amino Acids)
 
 # Protein Structure
 
