@@ -5,9 +5,9 @@
 |Structure Level|Associated Structure|Created As|
 |---------------|--------------------|----------|
 |Primary|Amino Acid sequence|Peptide Bond|
-|Secondary|$\alpha$-helix or $\beta$-sheet|3D shape gained by Hydrogen bonding |
-|Tertiary||
-|Quaternary||
+|Secondary|local 3d shape ($\alpha$-helix or $\beta$-sheet)|3D shape gained by Hydrogen bonding |
+|Tertiary|general 3d shape|
+|Quaternary|folded protein subunits|
 
 $\beta$-pleated sheets (e.g. in spider silk) are created by hydrogen-bonding between the oxygen of the carboxyl group and the amino group.
 
