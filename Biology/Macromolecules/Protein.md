@@ -7,7 +7,7 @@
 |Primary|Amino Acid sequence|Peptide Bond|
 |Secondary|local 3d shape ($\alpha$-helix or $\beta$-sheet)|3D shape gained by Hydrogen bonding |
 |Tertiary|general 3d shape|
-|Quaternary|folded protein subunits|
+|Quaternary|fibrous or globular|folded protein subunits|
 
 
 Proteins can stop having structure after the secondary level.
