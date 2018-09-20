@@ -1,9 +1,9 @@
 # Biochemistry
+
+Biochemistry is the [organic chemistry](../Chemistry/Organic Chemistry/)
+
 [Macromolecules](./Macromolecules/)
 
 [Water](../Chemistry/Water)
 
 # [Cell Biology](./Cell Biology/)
-
-
-Trace elements are required by organisms in minute quantities (e.g. iron).
