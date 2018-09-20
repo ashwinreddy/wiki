@@ -1,9 +1,6 @@
-**Amino acids** are the monomers of [proteins](./Protein)
+**Amino acids** are the monomers of [proteins](./Protein). They are organic compounds with an amine group, a carboxylic acid group, and an R group:
 
-
-The monomers of protiens are amino acids, which look like 
-
-[[http://www.nutrientsreview.com/wp-content/uploads/2014/10/Amino-Acid-Structure.jpg]]
+[[http://www.nutrientsreview.com/wp-content/uploads/2014/10/Amino-Acid-Structure.jpg|width=250px]]
 
 On the right is an amine and on the left is a carboxylic acid.
 
