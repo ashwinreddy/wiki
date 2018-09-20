@@ -1,5 +1,5 @@
 - Biochemistry
-  - [Macromolecules](./Macromolecules)
+  - [Macromolecules](./Macromolecules/)
 - Cell Biology
 
 
