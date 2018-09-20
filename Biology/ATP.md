@@ -1,1 +1,1 @@
-**Adenosine triphosphate**
+**Adenosine triphosphate** is a nucleoside triphosphate
