@@ -2,7 +2,6 @@
 
 [[http://www.nutrientsreview.com/wp-content/uploads/2014/10/Amino-Acid-Structure.jpg|width=250px]]
 
-On the right is an amine and on the left is a carboxylic acid.
 
 The central carbon is known as the $\alpha$-carbon.
 
