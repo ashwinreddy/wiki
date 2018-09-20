@@ -2,10 +2,10 @@
 
 # Protein Structure
 
-|Structure Level|Associated Structure|
-|---------------|--------------------|
-|Primary|Amino Acid sequence|
-|Secondary|$\alpha$-helix or $\beta$-sheet|
+|Structure Level|Associated Structure|Created As|
+|---------------|--------------------|----------|
+|Primary|Amino Acid sequence|Peptide Bond|
+|Secondary|$\alpha$-helix or $\beta$-sheet|3D shape gained by Hydrogen bonding |
 |Tertiary||
 |Quaternary||
 
