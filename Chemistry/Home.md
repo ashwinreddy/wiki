@@ -1,3 +1,11 @@
+**Chemistry** is the study of matter.
+
+[Organic chemistry](./Organic Chemistry/) deals with compounds made of carbon, the building block of life.
+
+
+
+
+
 Elements in the same column of the periodic table have the same number of electrons in their valence shell when neutral.
 
 In a chemical equilibrium, forward and reverse reactions continue with no net effect on the concentrations of the reactants and products.
