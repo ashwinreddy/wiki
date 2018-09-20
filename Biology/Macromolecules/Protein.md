@@ -12,6 +12,8 @@
 
 Proteins can stop having structure after the secondary level.
 
+Examples of globular proteins include antibodies and enzymes.
+
 ## Secondary Structure
 
 $\beta$-pleated sheets (e.g. in spider silk) are created by hydrogen-bonding between the oxygen of the carboxyl group and the amino group. $\alpha$-helix for example occurs in hair. Both are caused by hydrogen-bonding from charged functional groups due to acid-base reactions.
