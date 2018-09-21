@@ -21,7 +21,7 @@ The most abundant lipids in most membranes are [phospholipids](../Macromolecules
 
 Membrane proteins are mostly amphipathic.
 
-**Integral proteins** penetrate the hydrophobic interior of the lipid bilayer, with many being transmembrane (spanning the membrane). 
+**Integral proteins** penetrate the hydrophobic interior of the lipid bilayer, with many being transmembrane (spanning the membrane). **Peripheral proteins** are loosely bound to the surface of the membrane, not embedded at all.
 
 ## Functions
 
