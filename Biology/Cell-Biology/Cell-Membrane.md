@@ -8,6 +8,8 @@ At low enough temperatures, the membrane can pack and solidify, but the temperat
 
 At high temperatures, cholesterol, wedged betweeen phospholipid molecules in animals, restrains movement and lowers the temperature needed to solidify. Thus, cholesterol keeps the membrane fluid, by resisting changes, giving it the name "fluidity buffer."
 
+Fish that live in extreme cold have membranes with a high proportion of unsaturated hydrocarbon tails, enabling their membranes to remain fluid. On the other hand, bacteria living in extreme heat have membranes wit hunuusal lipids that prevent excessive fluidity at high temperatures.
+
 
 # Components
 
@@ -15,7 +17,9 @@ The most abundant lipids in most membranes are [phospholipids](../Macromolecules
 
 Membrane proteins are also mostly amphipathic.
 
-# Functions of Membrane Proteins
+# Membrane Proteins
+
+Functions include:
 
 1. Transport
 2. Enzymatic activity
