@@ -29,5 +29,8 @@ Membrane proteins are mostly amphipathic.
 2. Enzymatic activity
 3. Signal transduction
 4. Cell-cell recognition
+
+Distinguishing one type of neighboring cell from another and rejecting foreign cells is important. Cells bind to molecules on the extracellular surface of the plasma membrane. These are often carbohydrates, some covalently bonded to lipids, most bonded to proteins, (**glycolipids** and **glycoproteins**, respectively).
+
 5. Intercellular joining
 6. Attachment to the cytoskeleton and extracellular matrix
