@@ -1,6 +1,6 @@
 The **cell membrane**, also known as the **plasma membrane** is the membrane that surrounds a cell. Like all biological membranes, the cell membrane is **selectively permeable**: it allows some substances to cross more easily than others. Substances are often controlled via transport proteins. For example, aquaporin allows water to travel through the membrane.
 
-The **fluid mosaic model** describes the membrane as a mosaic of protein molecules bobbing in a fluid layer of phospholipids; the membrane is held together by hydrophobic interactions. As a result, the lipids in the membrane are often shifting and bobbing. Proteins often move more slowly because they are larger, but some membrane proteins drift or move in a directed manner. 
+The **fluid mosaic model** describes the membrane as a mosaic of protein molecules bobbing in a fluid layer of phospholipids; the membrane is held together by hydrophobic interactions. As a result, the lipids in the membrane are often shifting and bobbing. Proteins often move more slowly because they are larger, but some membrane proteins drift or move in a directed manner. The membrane must be fluid so that it is permeable and so that membrane proteins can move around. 
 
 # Temperature Effects
 
@@ -15,10 +15,7 @@ The most abundant lipids in most membranes are [phospholipids](../Macromolecules
 
 Membrane proteins are also mostly amphipathic.
 
-
-The membrane must be fluid so that it is permeable and so that membrane proteins can move around. 
-
-Functions of Membrane Proteins:
+# Functions of Membrane Proteins
 
 1. Transport
 2. Enzymatic activity
