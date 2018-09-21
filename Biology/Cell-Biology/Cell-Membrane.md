@@ -1,4 +1,4 @@
-The **cell membrane**, also known as the **plasma membrane** is the membrane that surrounds a cell. Like all biological membranes, the cell membrane is **selectively permeable**: it allows some substances to cross more easily than others. Substances are often controlled via transport proteins.
+The **cell membrane**, also known as the **plasma membrane** is the membrane that surrounds a cell. Like all biological membranes, the cell membrane is **selectively permeable**: it allows some substances to cross more easily than others. Substances are often controlled via transport proteins. For example, aquaporin allows water to travel through the membrane.
 
 The **fluid mosaic model** describes the membrane as a mosaic of protein molecules bobbing in a fluid layer of phospholipids; the membrane is held together by hydrophobic interactions.
 
