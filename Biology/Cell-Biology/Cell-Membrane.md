@@ -1,6 +1,6 @@
 The **cell membrane**, also known as the **plasma membrane** is the membrane that surrounds a cell. Like all biological membranes, the cell membrane is **selectively permeable**: it allows some substances to cross more easily than others. Substances are often controlled via transport proteins. For example, aquaporin allows water to travel through the membrane.
 
-The **fluid mosaic model** describes the membrane as a mosaic of protein molecules bobbing in a fluid layer of phospholipids; the membrane is held together by hydrophobic interactions.
+The **fluid mosaic model** describes the membrane as a mosaic of protein molecules bobbing in a fluid layer of phospholipids; the membrane is held together by hydrophobic interactions. As a result, the lipids in the membrane are often shifting and bobbing. Proteins often move more slowly because they are larger, but some membrane proteins drift or move in a directed manner. At low enough temperatures, the membrane can pack and solidify, but the temperature depends on the type of lipids.
 
 # Components
 
