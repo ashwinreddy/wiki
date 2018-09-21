@@ -15,11 +15,15 @@ Fish that live in extreme cold have membranes with a high proportion of unsatura
 
 The most abundant lipids in most membranes are [phospholipids](../Macromolecules/Lipids/Phospholipids), which arrange in a bilayer.
 
-Membrane proteins are also mostly amphipathic.
+
 
 # Membrane Proteins
 
-Functions include:
+Membrane proteins are mostly amphipathic.
+
+**Integral proteins** penetrate the hydrophobic interior of the lipid bilayer, with many being transmembrane (spanning the membrane). 
+
+## Functions
 
 1. Transport
 2. Enzymatic activity
