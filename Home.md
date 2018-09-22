@@ -5,7 +5,9 @@ This is a personal wiki with notes on a variety of subjects, including:
 
 A [table of contents](./Table Of Contents) is available for speedier albeit less aesthetically pleasing access.
 
-{{{{{{ blue-modern
-    alice->bob: Test
-    bob->alice: Test response
-}}}}}}
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+@enduml
