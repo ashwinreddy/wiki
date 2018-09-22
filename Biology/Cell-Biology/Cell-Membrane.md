@@ -43,7 +43,7 @@ if "Can it dissolve through membrane?" then
   -->[true] "Likely to get through"
   -right-> (*)
 else
-  ->[false] "Something else"
+  ->[false] "Presence of integral protein for molecule"
   -->[Ending process] (*)
 endif
 @enduml
