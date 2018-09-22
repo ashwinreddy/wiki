@@ -38,13 +38,12 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 ### Transport
 
 @startuml
-(*) --> if "Can it dissolve through membrane?" then
+(*) --> if (Can it dissolve through membrane?) then
   -->[true] "Likely to get through"
   -right-> (*)
 else
   ->[false] "Presence of integral protein for molecule"
   -->[true] "Likely to get through"
-  -->[false] "Unlikely to get through"
   -->[Ending process] (*)
 endif
 @enduml
