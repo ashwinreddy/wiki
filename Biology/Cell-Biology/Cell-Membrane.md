@@ -51,5 +51,4 @@ else (no)
     stop
   endif
 endif
-stop
 @enduml
