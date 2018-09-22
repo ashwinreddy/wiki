@@ -34,3 +34,6 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 
 5. Intercellular joining
 6. Attachment to the cytoskeleton and extracellular matrix
+
+### Transport
+
