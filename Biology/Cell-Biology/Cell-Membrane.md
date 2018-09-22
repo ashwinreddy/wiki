@@ -42,7 +42,11 @@ start
 if (Can it dissolve through membrane?) then (yes)
   :Likely to get through;
 else (no)
-  :Presence of integral protein for molecule;
+  if (Presence of integral protein for molecule) then (yes)
+    :Likely to get through;
+  else (no)
+    :Unlikely to get through;
+  endif
 endif
 stop
 @enduml
