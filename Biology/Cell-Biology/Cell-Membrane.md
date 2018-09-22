@@ -42,8 +42,7 @@ start
 if (Can it dissolve through membrane?) then (yes)
   :Likely to get through;
 else (no)
-  :process only
-  Presence of integral protein for molecule;
+  :Presence of integral protein for molecule;
 endif
 stop
 @enduml
