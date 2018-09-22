@@ -39,7 +39,6 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 
 @startuml
 (*) --> "Initialization"
-
 if "Some Test" then
   -->[true] "Some Activity"
   --> "Another activity"
@@ -48,5 +47,4 @@ else
   ->[false] "Something else"
   -->[Ending process] (*)
 endif
-
 @enduml
