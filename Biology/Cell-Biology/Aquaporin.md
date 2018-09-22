@@ -1,0 +1,1 @@
+**Aquaporin** is an integral protein that facilitates the transport of water.
