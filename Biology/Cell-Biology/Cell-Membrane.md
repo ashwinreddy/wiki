@@ -43,6 +43,7 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
   -right-> (*)
 else
   ->[false] "Presence of integral protein for molecule"
+  -->[true] "Likely to get through"
   -->[Ending process] (*)
 endif
 @enduml
