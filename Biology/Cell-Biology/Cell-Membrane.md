@@ -39,8 +39,8 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 
 @startuml
 (*) --> "Initialization"
-if "Some Test" then
-  -->[true] "Some Activity"
+if "Can it dissolve through membrane?" then
+  -->[true] "Likely to get through"
   --> "Another activity"
   -right-> (*)
 else
