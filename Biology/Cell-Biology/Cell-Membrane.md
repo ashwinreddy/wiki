@@ -40,10 +40,10 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 @startuml
 start
 if (Can it dissolve through membrane?) then (yes)
-  :process all\ndiagrams;
+  :Likely to get through;
 else (no)
   :process only
-  __sequence__ and __activity__ diagrams;
+  Presence of integral protein for molecule;
 endif
 stop
 @enduml
