@@ -37,6 +37,8 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 
 ### Transport
 
+The membrane easily allows small, nonpolar molecules through. For large molecules and/or charged or polar molecules, they need transport proteins, which allow them through a channel.
+
 @startuml
 start
 if (Can it dissolve through membrane?) then (yes)
