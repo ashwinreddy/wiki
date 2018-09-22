@@ -38,5 +38,6 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 ### Transport
 
 @startuml
-testdot
+(*) --> "First Activity"
+"First Activity" --> (*)
 @enduml
