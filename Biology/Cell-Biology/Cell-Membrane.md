@@ -41,11 +41,14 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 start
 if (Can it dissolve through membrane?) then (yes)
   :Likely to get through;
+  stop
 else (no)
   if (Presence of integral protein for molecule) then (yes)
     :Likely to get through;
+    stop
   else (no)
     :Unlikely to get through;
+    stop
   endif
 endif
 stop
