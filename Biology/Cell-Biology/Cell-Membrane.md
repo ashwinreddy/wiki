@@ -41,7 +41,6 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 (*) --> "Initialization"
 if "Can it dissolve through membrane?" then
   -->[true] "Likely to get through"
-  --> "Another activity"
   -right-> (*)
 else
   ->[false] "Something else"
