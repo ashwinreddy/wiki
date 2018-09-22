@@ -44,6 +44,7 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 else
   ->[false] "Presence of integral protein for molecule"
   -->[true] "Likely to get through"
+  -->[false] "Unlikely to get through"
   -->[Ending process] (*)
 endif
 @enduml
