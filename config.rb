@@ -4,7 +4,7 @@ Precious::App.set(:wiki_options, {
     :universal_toc => true ,
     :live_preview => true,
     :allow_uploads => true,
-    :plantuml_url => "https://www.plantuml.com/plantuml/png"
+    :plantuml_url => "http://www.plantuml.com/plantuml/png"
 })
 
 GitHub::Markup::Markdown::MARKDOWN_GEMS['kramdown'] = proc { |content|
