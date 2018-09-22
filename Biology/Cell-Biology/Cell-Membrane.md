@@ -38,8 +38,7 @@ Distinguishing one type of neighboring cell from another and rejecting foreign c
 ### Transport
 
 @startuml
-(*) --> "Initialization"
-if "Can it dissolve through membrane?" then
+(*) --> if "Can it dissolve through membrane?" then
   -->[true] "Likely to get through"
   -right-> (*)
 else
