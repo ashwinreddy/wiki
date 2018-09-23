@@ -9,3 +9,10 @@ A **function** is a mapping between two sets that only returns one output for a 
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
+
+down vote
+Maruku and kramdown support this.
+
+kramdown
+  : A Markdown-superset converter
