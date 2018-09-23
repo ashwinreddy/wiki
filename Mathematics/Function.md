@@ -2,17 +2,11 @@ A **function** is a mapping between two sets that only returns one output for a 
 
 # Classifications
 
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-
-down vote
-Maruku and kramdown support this.
-
-kramdown
-  : A Markdown-superset converter
+Injective
+  : A function where the output can be traced back to its input without ambiguity
+  
+Surjective
+  : A function which fills its codomain (i.e. the image is the codomain)
+  
+Bijective
+  : A function which is both injective and surjective
