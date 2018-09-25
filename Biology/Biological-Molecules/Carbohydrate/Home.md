@@ -1,8 +1,5 @@
-**Carbohydrates** are sugars and polymers of sugars. $\let\sb_$ The monomers of carbohydrates are called monosaccharides. Hydrocarbons are a source of energy. Hydrocarbons are nonpolar, which makes them hydrophobic.
+**Carbohydrates** are sugars and polymers of sugars. $\let\sb_$ The monomers of carbohydrates are called [[monosaccharides]]. Hydrocarbons are a source of energy. Hydrocarbons are nonpolar, which makes them hydrophobic.
 
-# Monosaccharides
-
-Also known as simple sugars, monosaccharides have the general chemical formula $\ce{ C_{n} H_{2n} O_{n}}$. The most common monosaccharide is [[glucose]].
 
 # Disaccharide
 
