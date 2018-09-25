@@ -1,4 +1,4 @@
-**Phospholipids** are [lipids](./) that are similar to [fats](./Fats)
+**Phospholipids** are [lipids](./) that are similar to [fats](./Fats) except that it has only two fatty acids and the third hydroxyl group of the glycerol is joined to a phosphate group. Typically, an additional small charged or polar molecule is also linked to the phosphate group (e.g. choline)
 
 
 with a hydrophilic head and a hydrophobic tail. That phospholipids have a hydrophilic region and a hydrophobic region means that it is an "amphipathic" molecule.
