@@ -39,3 +39,8 @@ Enzymes can easily break the cis-oleic acid but cannot easily break the trans-ol
 
 In the worse case, trans fats can float into the bload stream, causing plaque build up, and coronary artery disease
 
+
+
+[[http://www.nutrientsreview.com/wp-content/uploads/2014/12/Trans-cis-fatty-acid.jpg]]
+
+[[https://i.stack.imgur.com/qZvGz.jpg]]
