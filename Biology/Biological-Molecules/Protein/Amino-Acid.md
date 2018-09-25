@@ -19,6 +19,8 @@ R groups, aka side chains, can confer:
 
 Linking two amino acids through a peptide bonds results in a dipeptide. A dipeptide can then be linked to another amino acid via a peptide bond to make a tripeptide. After that, the resultant is called a polypeptide. Peptide bonds are a type of dehydration synthesis. Now, simply by nature of having an amino end and a carboxyl end, the final result will have an N-terminus (the end which has a free amine group) and a C-terminus (the end which has a free carboxyl).
 
+[[https://biologydictionary.net/wp-content/uploads/2017/01/Peptide-Bond-Formation.jpg]]
+
 # Common Amino Acids
 
 [[http://www.compoundchem.com/wp-content/uploads/2014/09/20-Common-Amino-Acids-v3-1024x724.png]]
