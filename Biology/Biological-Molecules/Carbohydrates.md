@@ -1,6 +1,8 @@
-**Carbohydrates** are a macromolecule, made up of hydrogen and carbon. $\let\sb_$ The monomers of carbohydrates are called monosaccharides. Monosaccharides have the general chemical formula $\ce{ C_{n} H_{2n} O_{n}}$. Hydrocarbons are a source of energy. Hydrocarbons are nonpolar, which makes them hydrophobic.
+**Carbohydrates** are sugars and polymers of sugars. $\let\sb_$ The monomers of carbohydrates are called monosaccharides. Hydrocarbons are a source of energy. Hydrocarbons are nonpolar, which makes them hydrophobic.
 
 # Monosaccharides
+
+Also known as simple sugars, monosaccharides have the general chemical formula $\ce{ C_{n} H_{2n} O_{n}}$..
 
 Hexose sugars are monosaccharides with $n=6$, which means they have the formula $\ce{C6H12O6}$. Glucose, fructose, and galactose all have this formula, which makes them isomers of each other. 
 
