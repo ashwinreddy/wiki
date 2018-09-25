@@ -4,7 +4,7 @@
 
 |Saturated Fats|Unsaturated Fats|
 |--------------|----------------|
-| Filled with $\ce{H}$ | Not all carbons single bonding |
+| Carbons are saturated with $\ce{H}$s as a result of complete single bonding | Not all carbons single bonding |
 | Straight | Kinks from double bonds |
 | Used by animals (e.g. butter or lard) | Used by plants (e.g. corn oil, olive oil)|
 | Solid at room temperature | Liquid at room temperature |
