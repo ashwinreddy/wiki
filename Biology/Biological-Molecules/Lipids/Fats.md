@@ -1,7 +1,4 @@
-**Fats** are lipids constructed from three fatty acid molecules joined to a glycerol by an ester linkage, a bond formed by a dehydration reaction between a hydroxyl group and a carboxyl group. 
-
-
-Fat is a better energy storage than carbohydrates for fast-moving animals (carbs make us bloated by absorbing water? but carbs are nonpolar). Fats are esters of three fatty acid chains and glycerol, the three-carbon alcohol. Fats are also known as triglycerides.
+**Fats** (aka **triglycerides**) are lipids constructed from three fatty acid molecules joined to a glycerol (the three-carbon alcohol) by an ester linkage, a bond formed by a dehydration reaction between a hydroxyl group and a carboxyl group. Fat is a better energy storage than carbohydrates for fast-moving animals.
 
 
 |Saturated Fats|Unsaturated Fats|
