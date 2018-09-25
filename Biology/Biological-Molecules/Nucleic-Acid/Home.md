@@ -6,3 +6,5 @@
 | Single-stranded | Double-stranded |
 | Uses Uracil | Uses Thymine |
 | Uses ribose | Uses deoxyribose (missing oxygen on second carbon in the ring)|
+
+The 5' end is the one with the phosphate group; the 3' end is the one with the hydroxyl group.
