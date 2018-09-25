@@ -15,6 +15,8 @@
 
 [[http://www.quarkology.com/12-chemistry/92-production-materials/images/92B-pic-starch-cellulose.png]]
 
+The glycosidic linkages in starch are all between same-orientation $\alpha$-glucoses while the linkages in cellulose are between alternating orientation $\beta$-glucoses. 
+
 # Glycogen
 
 Animals store a polysaccharide called **glycogen** which is like amylopectin but even more branched. Vertebrates store amylopectin mainly in liver and muscle cells. Hydrolysis of glycogen then releases glucose when the demand for sugar increases. A more branched molecule is easier to break as there are more free ends and more easily broken free ends.
