@@ -6,7 +6,7 @@
 |---------------|--------------------|----------|
 |Primary|Amino Acid sequence|Peptide Bond|
 |Secondary|local 3d shape ($\alpha$-helix or $\beta$-sheet)|3D shape gained by Hydrogen bonding |
-|Tertiary|general 3d shape|
+|Tertiary|general 3d shape| hydrophobic interaction and disulfide bridges|
 |Quaternary|fibrous or globular|folded protein subunits|
 
 
