@@ -8,9 +8,7 @@ Notice that the monosaccharides are linked by an oxygen. In this example, the li
 
 |Equation|Linkage|
 |---------|-------|
-|\begin{equation}
-\mathrm{glucose} + \mathrm{glucose} \rightarrow \mathrm{maltose}+\mathrm{water}
-\end{equation} | 1-4 |
+|\begin{equation} \mathrm{glucose} + \mathrm{glucose} \rightarrow \mathrm{maltose}+\mathrm{water} \end{equation} | 1-4 |
 
 \begin{equation}
 \mathrm{glucose} + \mathrm{fructose} \rightarrow \mathrm{sucrose}+\mathrm{water}
