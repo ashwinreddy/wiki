@@ -1,1 +1,1 @@
-**Glucose** is an aldose hexose. Its formula is $\ce{C6H12O6}$
+**Glucose** is an aldose hexose. Its formula is $\ce{C6H12O6}$. Glucose can be found in blood sugar. Its isomers are fructose and galactose.
