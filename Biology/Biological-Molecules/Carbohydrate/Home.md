@@ -1,4 +1,5 @@
-**Carbohydrates** are sugars and polymers of sugars. $\let\sb_$ The monomers of carbohydrates are called [monosaccharides](monosaccharide). Two monomers make a [[disaccharide]]. Hydrocarbons are a source of energy. Hydrocarbons are nonpolar, which makes them hydrophobic.
+**Carbohydrates** are sugars and polymers of sugars. $\let\sb_$ The monomers of carbohydrates are called [monosaccharides](monosaccharide). Two monomers make a [[disaccharide]]. 
+
 
 
 
@@ -13,3 +14,7 @@ Starch is a polysaccharide that plants use to store energy. Cellulose is also a 
 
 
 Glycogen is a polysaccharide used by animals and is stored in the liver. Glycogen is also highly branched while starch is not. Plants are more efficient at storing/packing b/c of linearity.
+
+# Misc
+
+Hydrocarbons are a source of energy. Hydrocarbons are nonpolar, which makes them hydrophobic.
