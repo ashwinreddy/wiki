@@ -15,3 +15,5 @@ Animals store a polysaccharide called **glycogen** which is like amylopectin but
 |:--:|:-------:|
 | $\alpha$-D-glucopyranose, both hydroxyls below | $\beta$-D-glucopyranose, hydroxyls on opposite sides |
 
+
+[[http://www.quarkology.com/12-chemistry/92-production-materials/images/92B-pic-starch-cellulose.png]]
