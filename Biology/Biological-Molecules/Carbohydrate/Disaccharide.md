@@ -6,6 +6,6 @@ A **disaccharide** consists of two monosaccharides joined by a **glycosidic link
 
 Notice that the monosaccharides are linked by an oxygen. In this example, the linkage is called a 1-4 glycosydic linkage.
 
-$$
+\begin{equation}
 \mathrm{glucose} + \mathrm{glucose} \rightarrow \mathrm{maltose}+\mathrm{water}
-$$
+\end{equation}
