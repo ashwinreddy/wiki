@@ -1,6 +1,6 @@
 # Starch
 
-**Starch** is a polysaccharide that plants use to store energy. They are stored as granules within plastids. The sugar can then be withdrawn by the plant through hydrolysis. Most animals have enzymes to hydrolyze plant starch. Most of the glucose monomers in starch are joined by 1-4 linkages. The simplest form of starch is amylose, which is unbranched. Amylopectin, a more complex starch, is a branched polymer with 1-6 linkages at the branch points. 
+**Starch** is a polysaccharide that plants use to store energy. They are stored as granules within plastids. The sugar can then be withdrawn by the plant through hydrolysis. Most animals have enzymes to hydrolyze plant starch. Most of the glucose monomers in starch are joined by 1-4 linkages. The simplest form of starch is **amylose**, which is unbranched. Amylopectin, a more complex starch, is a branched polymer with 1-6 linkages at the branch points. 
 
 # Glycogen
 
