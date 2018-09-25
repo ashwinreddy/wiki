@@ -1,4 +1,4 @@
-Also known as simple sugars, monosaccharides have the general chemical formula $\ce{ C_{n} H_{2n} O_{n}}$. The most common monosaccharide is [[glucose]].
+Also known as simple sugars, monosaccharides have the general chemical formula $\ce{ C_{n} H_{2n} O_{n}}$. The most common monosaccharide is glucose.
 
 # Glucose
 
