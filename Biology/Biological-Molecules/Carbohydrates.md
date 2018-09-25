@@ -2,9 +2,7 @@
 
 # Monosaccharides
 
-Also known as simple sugars, monosaccharides have the general chemical formula $\ce{ C_{n} H_{2n} O_{n}}$..
-
-Hexose sugars are monosaccharides with $n=6$, which means they have the formula $\ce{C6H12O6}$. Glucose, fructose, and galactose all have this formula, which makes them isomers of each other. 
+Also known as simple sugars, monosaccharides have the general chemical formula $\ce{ C_{n} H_{2n} O_{n}}$. The most common monosaccharide is glucose, which happens to have $n=6$, making it a hexose sugar. Glucose, fructose, and galactose all have this formula, which makes them isomers of each other. 
 
 Glucose can be found in blood sugar.
 
