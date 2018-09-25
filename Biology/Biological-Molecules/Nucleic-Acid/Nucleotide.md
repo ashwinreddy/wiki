@@ -1,4 +1,4 @@
-**Nucleotides** consist of a phosphate connected to a sugar connected to a nitrogenous base. A diagram is given below:
+**Nucleotides** consist of a phosphate connected to a sugar connected to a nitrogenous base. A **nucleoside** consists of just a sugar and a nitrogenous base. A diagram is given below:
 
 
 <img src="https://qph.fs.quoracdn.net/main-qimg-8dcebb935392f92f6f3c58d63ee529a6" width="300px">
