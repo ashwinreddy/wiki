@@ -6,4 +6,4 @@ This is a personal wiki with notes on a variety of subjects, including:
 
 ---
 
-<<GlobalTOC()>>
+<<GlobalTOC("Pages")>>
