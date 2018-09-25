@@ -1,7 +1,7 @@
 There are 4 main types of large molecules found in all living things:
 
 - [Carbohydrates](./Carbohydrate/)
-- [Lipids](./Lipid/)
+- [Lipids](./Lipids/)
 - [Proteins](./Protein/)
 - [Nucleic Acids](./Nucleic-Acid/)
 
