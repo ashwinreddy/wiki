@@ -9,6 +9,8 @@
 | Used by animals (e.g. butter or lard) | Used by plants (e.g. corn oil, olive oil)|
 | Solid at room temperature | Liquid at room temperature |
 
+Nearly every double bond in naturally occurring fatty acids is a _cis_ double bond, which creates a kink in the hydrocarbon chain.
+
 Omega-3 fatty acids are harder to obtain, but neccessary. They come from fish and avocado, for example.
 
 Fats are made via a dehydration synthesis:
