@@ -13,3 +13,7 @@ Notice that the monosaccharides are linked by an oxygen. In this example, the li
 \begin{equation}
 \mathrm{glucose} + \mathrm{fructose} \rightarrow \mathrm{sucrose}+\mathrm{water}
 \end{equation}
+
+\begin{equation}
+\mathrm{glucose} + \mathrm{galactose} \rightarrow \mathrm{lactose}+\mathrm{water}
+\end{equation}
