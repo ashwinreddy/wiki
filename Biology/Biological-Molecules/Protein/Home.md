@@ -25,3 +25,9 @@ Proteins are sentitive to physical and chemical conditions. The usual shape is c
 Chaperonins are proteins that provide an environment for folding proteins.
 
 Alzheimer's and Parkinson's are believed to come from misfolded proteins.
+
+# Denaturation
+
+1. Heat
+2. $\mathrm{pH}$
+3. Salt concentration
