@@ -1,1 +1,1 @@
-**Glucose** is an aldose hexose.
+**Glucose** is an aldose hexose. Its formula is $\ce{C6H12O6}
