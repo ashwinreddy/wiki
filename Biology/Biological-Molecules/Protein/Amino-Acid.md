@@ -35,8 +35,6 @@ Groupings:
 
 Notice in this picture that methionine, which acts as the start codon, has a sulfur group. However, it does not form sulfide bridges; that is not a sulfhydryl group. Cysteine, on the other hand, can.
 
-Valine is hydrophobic? Why?
-
 # Shape
 
 Hydrophobic amino acids will fold inwards while hydrophilic ones will stay out. Acid and base amino acids will form salt bridges.
