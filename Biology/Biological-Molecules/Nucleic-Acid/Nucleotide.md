@@ -10,3 +10,10 @@ Linked nucleotides therefore form a **sugar phosphate backbone**. The bond that 
 \end{equation}
 
 Adenine, Thymine, Guanine, Cytosine. The purines include A and G.
+
+Table: Nitrogenous Bases
+
+| Purine | Pyrimidine |
+|--------|------------|
+| A      |     T      |
+| C      |     G      |
