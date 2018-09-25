@@ -13,7 +13,7 @@ Adenine, Thymine, Guanine, Cytosine. The purines include A and G.
 
 
 
-| Purine | Pyrimidine |
+| Purine (Larger) | Pyrimidine (Smaller) |
 |--------|------------|
 | A      |     T      |
 | C      |     G      |
