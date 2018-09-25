@@ -8,6 +8,7 @@
 | Straight | Kinks from double bonds |
 | Used by animals (e.g. butter or lard) | Used by plants (e.g. corn oil, olive oil)|
 | Solid at room temperature | Liquid at room temperature |
+| Can lead to atherosclerosis| |
 
 Nearly every double bond in naturally occurring fatty acids is a _cis_ double bond, which creates a kink in the hydrocarbon chain.
 
