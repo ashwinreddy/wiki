@@ -15,7 +15,7 @@
 
 [[http://www.quarkology.com/12-chemistry/92-production-materials/images/92B-pic-starch-cellulose.png]]
 
-The glycosidic linkages in starch are all between same-orientation $\alpha$-glucoses while the linkages in cellulose are between alternating orientation $\beta$-glucoses. 
+The glycosidic linkages in starch are all between same-orientation $\alpha$-glucoses while the linkages in cellulose are between alternating orientation $\beta$-glucoses. The result is that starch is never branched and can be stacked parallel and grouped into microfibril units. On the other hand, some starch molecules are helical, which serves as an efficient storage device. 
 
 # Glycogen
 
