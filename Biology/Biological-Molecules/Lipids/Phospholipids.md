@@ -2,4 +2,4 @@
 
 [[https://bio.libretexts.org/@api/deki/files/8347/glycerophosphate_cartoon2.png|width=350px]]
 
-The figure above shows that phospholipids have a hydrophilic head and a hydrophobic tail. That phospholipids have a hydrophilic region and a hydrophobic region means that it is an "amphipathic" molecule. The kink caused by the _cis_ double bond allow for semipermeability
+The figure above shows that phospholipids have a hydrophilic head and a hydrophobic tail. That phospholipids have a hydrophilic region and a hydrophobic region means that it is an "amphipathic" molecule. The kink caused by the _cis_ double bond allow for semipermeability.
