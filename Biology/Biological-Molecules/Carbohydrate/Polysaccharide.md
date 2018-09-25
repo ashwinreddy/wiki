@@ -17,3 +17,7 @@ Animals store a polysaccharide called **glycogen** which is like amylopectin but
 
 
 [[http://www.quarkology.com/12-chemistry/92-production-materials/images/92B-pic-starch-cellulose.png]]
+
+# Chitin
+
+Similar to cellulose, with $\beta$ linkages, except that the glucose monomer of chitin has a nitrogen-containing attachment.
