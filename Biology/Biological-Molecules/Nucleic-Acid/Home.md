@@ -1,3 +1,8 @@
 **Nucleic acids** are a polymer. Their monomers are nucleotides.
 
-deoxyribose means missing oxygen
+
+| RNA | DNA |
+|-----|------|
+| Single-stranded | Double-stranded |
+| Uses Uracil | Uses Thymine |
+| Uses ribose | Uses deoxyribose (missing oxygen on second carbon in the ring)|
