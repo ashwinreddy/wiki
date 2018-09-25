@@ -1,9 +1,8 @@
-Monomers are repeating subunits that can be condensed (via dehydration synthesis) into polymers, which can, in turn, be chained to form macromolecules.
+There are 4 main types of large molecules found in all living things:
 
-Dehydration synthesis: anabolic
-Hydrolysis: catabolic
+- [Carbohydrates](./Carbohydrates)
+- [Lipids](./Lipids/)
+- [Proteins](./Amino-Acid)
+- [Nucleic Acids](./Nucleic-Acid)
 
-anabolic - making larger units from smaller ones.
-
-
-Because hydrolysis is required to break down macromolecules, water is needed to digest food (which is why you should first find water, not food, if stuck in the desert).
+Of these, all but lipids are considered **macromolecules** for their huge size. These macromolecules are made of repeating subunits known as **monomers**, linked together through dehydration synthesis, an anabolic process. Breaking down macromolecules is known as **hydrolysis**. Because hydrolysis is required to break down macromolecules, water is needed to digest food (which is why you should first find water, not food, if stuck in the desert).
