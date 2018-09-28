@@ -10,3 +10,10 @@ Surjective
   
 Bijective
   : A function which is both injective and surjective
+
+Support
+  : A function's support is the set of inputs that result in a nonzero output
+  
+\begin{equation}
+\mathrm{supp}\left(f\right) = \\{x \in X | f(x) \neq 0 \\}
+\end{equation}
