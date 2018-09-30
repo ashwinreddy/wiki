@@ -11,6 +11,8 @@ Surjective
 Bijective
   : A function which is both injective and surjective
 
+# Operators
+
 Support
   : A function's support is the set of inputs that result in a nonzero output
   
