@@ -11,3 +11,5 @@ Identity
   
 Invertibility
   : $\forall a \in G: \exists b \in G: a\diamond b = b \diamond a = e$
+  
+However, $a \diamond b = b \diamond a$ does not, in general, need to be true.
