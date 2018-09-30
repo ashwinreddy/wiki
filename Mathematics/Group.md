@@ -1,0 +1,1 @@
+A **group** is a set $G$ with any operator $\heartshape$
