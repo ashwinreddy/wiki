@@ -1,4 +1,4 @@
-A **group** is a set $G$ with any operator $\diamond: G\times G \to G$ such that
+A **group** is a set $G$ with any operator $\diamond: G\times G \to G$ with the following properties:
 
 Closure
   : $\forall a, b \in G : a \diamond b \in G$
