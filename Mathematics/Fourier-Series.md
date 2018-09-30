@@ -1,0 +1,1 @@
+The **Fourier series** decomposes a periodic function into a sum of sinusoids.
