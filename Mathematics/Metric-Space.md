@@ -3,4 +3,4 @@ A **metric space** is an ordered pair $(M,d)$ where $M$ is a set and $d$ is a me
 1. $d(x,y) \geq 0$
 2. $d(x,y) = 0 \iff x=y$
 3. $d(x,y) = d(y,x)$
-4. $d(x,z) \geq d(x,y) + d(y,z)$
+4. $d(x,z) \leq d(x,y) + d(y,z)$
