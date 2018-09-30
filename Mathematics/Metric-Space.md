@@ -1,0 +1,1 @@
+A **metric space** is an ordered pair $(M,d)$ where $M$ is a set and $d$ is a metric on $M$. A metric is a function $d: M \times M \to \mathbb{R}$ such that
