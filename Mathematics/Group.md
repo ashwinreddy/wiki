@@ -8,3 +8,6 @@ Associativity
 
 Identity
   : $\exists e \in G : \forall a \in G: e \diamond a = a \diamond e = a$
+  
+Invertibility
+  : $\forall a \in G: \exists b \in G: a\diamond b = b \diamond a = e$
