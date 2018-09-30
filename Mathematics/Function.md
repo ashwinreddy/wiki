@@ -12,7 +12,7 @@ Bijective
   : A function which is both injective and surjective
 
 Periodic
-  : A function for which $\exists T > 0: f(t+T)=f(t)$
+  : A function for which $\exists \, T > 0: f(t+T)=f(t)$
 
 # Methods
 
