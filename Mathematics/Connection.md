@@ -1,4 +1,1 @@
-
-\\[
-\nabla_X f := Xf
-\\]
+A **connection** $\nabla$ (aka covariant derivative) on a smooth manifold $(M,\mathcal{O},\mathscr{A})$ is a map that takes a pair consisting of a vector field $X$ and a $(p,q)$-tensor field $T$ and sends them to a $(p,q)$-tensor field $\nabla_X T$
