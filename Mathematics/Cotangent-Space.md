@@ -1,1 +1,1 @@
-The **cotangent space** $(T_p M)^\ast := \{ \varphi: T_pM \xrightarrow{\sim} \mathbb{R} \}$
+The **cotangent space** $(T_p M)^\ast := \\{ \varphi: T_pM \xrightarrow{\sim} \mathbb{R} \\}$
