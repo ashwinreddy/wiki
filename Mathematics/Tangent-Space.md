@@ -14,7 +14,7 @@ The partial derivatives of $x$ are the basis of $T_p M$
 \\]
 
 \\[
-\sqcup
+\cupdot
 \\]
 
 # Change of Charts
