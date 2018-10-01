@@ -19,8 +19,7 @@ $\mathcal{O} = \mathscr{P}(M)$ is the **discrete topology** on $M$.
 The standard topology over $M = \mathbb{R}^d$, denoted $\mathcal{O}_{\text{standard}}$, is constructed as follows:
 
 1. Construct a [[Metric Space]] by picking a metric, Euclidean norm will do.
-1. A **ball** of radius $r$ around a point $x \in X$ is $B := \\{y \in X \vert d(x,y) < r\\}$
-2. $\forall x \in \mathbb{R}^d : \forall r \in \mathbb{R}^+$, define a **ball** of radius $r$ around a point $x \in M$ as $B_r(x) := \\{y \in \mathbb{R}^d \vert d(x,y) < r\\}$
+2. $\forall x \in \mathbb{R}^d : \forall r \in \mathbb{R}^+$, define a **ball** of radius $r$ as $B_r(x) := \\{y \in \mathbb{R}^d \vert d(x,y) < r\\}$
 3. $U \in \mathcal{O}_{\text{standard}} : \iff \forall p \in U: \exists r \in \mathbb{R}^+ : B_r(p) \subseteq U$
 
 
