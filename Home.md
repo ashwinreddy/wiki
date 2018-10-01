@@ -4,3 +4,5 @@ This wiki contains articles on a number of fields, including:
 - [Chemistry](./Chemistry/)
 - [Mathematics](./Mathematics/)
 - [Physics](./Physics/)
+
+A [table of contents](./TOC) is also available.
