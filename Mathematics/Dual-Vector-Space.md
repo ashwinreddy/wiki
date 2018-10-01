@@ -1,0 +1,1 @@
+For a vector space $V$, the **dual vector space** $V^*$ is $\mathrm{Hom}(V, \mathbb{R})$
