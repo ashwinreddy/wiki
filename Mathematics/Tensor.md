@@ -1,6 +1,6 @@
 An $(r,s)$-tensor $T$ over $V$ is a multilinear map:
 $$
-\let\sb=_
+\let\sb_
 $$
   
 \begin{equation}
