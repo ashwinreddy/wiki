@@ -8,3 +8,7 @@ $\let\sb_$
 \\]
 
 The partial derivatives of $x$ are the basis of $T_p M$
+
+\\[
+\dim T_p M = \dim M
+\\]
