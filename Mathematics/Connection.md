@@ -11,3 +11,7 @@ A manifold with connection is a $(M, \mathcal{O},\mathscr{A},\nabla)$
 \Gamma^i_{(x)\, jk}: U &\to \mathbb{R} \\\
 p &\mapsto \left(\mathrm{d}x^i\left(\nabla_{\frac{\partial}{\partial x^k}}\frac{\partial}{\partial x_j}\right)\right)(p)
 \end{align}
+
+\\[
+(\nabla_X Y)^i = X\left(Y^i\right) + \Gamma^i_{jm}Y^jX^m
+\\]
