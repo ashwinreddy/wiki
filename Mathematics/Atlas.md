@@ -7,3 +7,7 @@ A chart is a homeomorphism $\varphi$ from an open subset $U$ of $M$ to an open s
 # Transition Map
 
 ![](../../uploads/transition-map.png)
+
+\begin{equation}
+\tau_{\alpha,\beta} = \phi_\beta \circ \phi_{\alpha}^{-1}
+\end{equation}
