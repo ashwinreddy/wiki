@@ -7,8 +7,7 @@ A manifold with connection is a $(M, \mathcal{O},\mathscr{A},\nabla)$
 
 # Connection Coefficient Functions
 
-$\let\sb_$
-
-\\[
-\Gamma^i\sb{(x)}_{j}
-\\]
+\begin{align}
+\Gamma^i_{(x)\, jk}: U &\to \mathbb{R} \\
+p \mapsto \left(\mathrm{d}x^i\left(\nabla_{\frac{\partial}{\partial x^k}}\right)\right)
+\end{align}
