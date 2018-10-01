@@ -10,5 +10,5 @@ A manifold with connection is a $(M, \mathcal{O},\mathscr{A},\nabla)$
 $\let\sb_$
 
 \\[
-\Gamma^i\sb{(x)}\sb{j}
+\Gamma^i\sb{(x)}_{j}
 \\]
