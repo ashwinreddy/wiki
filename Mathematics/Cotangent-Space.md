@@ -6,3 +6,5 @@ $\let\sb_$
 (\mathrm{d}f)\sb{p} : T\sb{p}M &\xrightarrow{\sim} \mathbb{R} \\\
 X & \mapsto (\mathrm{d}f)_p(X) := Xf
 \end{align}
+
+$(\mathrm{d}f)_p$ is the gradient of $f$ at $p$ in $M$.
