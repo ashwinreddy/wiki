@@ -1,1 +1,1 @@
-A smooth vector field $\Chi$ is a smooth map that is a section
+A smooth vector field $\chi$ is a smooth map that is a section
