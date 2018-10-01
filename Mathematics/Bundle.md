@@ -1,0 +1,1 @@
+A **bundle** is a triple $E \xrightarrow{\pi} M$
