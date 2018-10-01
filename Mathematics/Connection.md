@@ -4,3 +4,11 @@ A **connection** $\nabla$ (aka covariant derivative) on a smooth manifold $(M,\m
 2. $\nabla_X(T+S) = \nabla_X T + \nabla_X S$
 
 A manifold with connection is a $(M, \mathcal{O},\mathscr{A},\nabla)$
+
+# Connection Coefficient Functions
+
+$\let\sb_
+
+\\[
+\Gamma^i\sb{(x)}\sb{j}
+\\]
