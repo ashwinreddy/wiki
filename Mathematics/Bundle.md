@@ -2,4 +2,4 @@ A **bundle** is a triple $E \xrightarrow{\pi} M$. _E_ is a smooth manifold calle
 
 The fiber over $p \in M$ is the preimage of $p$ from $\pi$.
 
-A section $\sigma$ of a bundle goes from $M$ to $E$
+A section $\sigma$ of a bundle goes from $M$ to $E$ such that $\pi \circ \sigma = \mathrm{id}_M$
