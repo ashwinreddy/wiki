@@ -3,4 +3,4 @@ A **connection** $\nabla$ (aka covariant derivative) on a smooth manifold $(M,\m
 1. For a scalar tensor field $f$, $\nabla_X f = Xf$ $\forall f \in C^\infty(M)$
 2. $\nabla_X(T+S) = \nabla_X T + \nabla_X S$
 
-A manifold with connection is a $(M, \mathcal{O},\mathscr{O},\nabla)$
+A manifold with connection is a $(M, \mathcal{O},\mathscr{A},\nabla)$
