@@ -22,5 +22,5 @@ $\let\sb_$
 \\]
 
 \begin{equation}
-\bar {\Gamma }}^{k}{}\sb{ij}={\frac {\partial x^{p}}{\partial y^{i}}}\,{\frac {\partial x^{q}}{\partial y^{j}}}\,\Gamma ^{r}{}_{pq}\,{\frac {\partial y^{k}}{\partial x^{r}}}+{\frac {\partial y^{k}}{\partial x^{m}}}\,{\frac {\partial ^{2}x^{m}}{\partial y^{i}\partial y^{j}}
+{\displaystyle {\bar {\Gamma }}^{k}{}\sb{ij}={\frac {\partial x^{p}}{\partial y^{i}}}\,{\frac {\partial x^{q}}{\partial y^{j}}}\,\Gamma ^{r}{}_{pq}\,{\frac {\partial y^{k}}{\partial x^{r}}}+{\frac {\partial y^{k}}{\partial x^{m}}}\,{\frac {\partial ^{2}x^{m}}{\partial y^{i}\partial y^{j}}}}
 \end{equation}
