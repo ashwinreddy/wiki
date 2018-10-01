@@ -14,7 +14,7 @@ The partial derivatives of $x$ are the basis of $T_p M$
 \\]
 
 \\[
-\cupdot
+TM := \bigsqcup_{p \in M} T_p M
 \\]
 
 # Change of Charts
