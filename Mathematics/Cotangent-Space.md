@@ -12,3 +12,5 @@ $(\mathrm{d}f)_p$ is the gradient of $f$ at $p$ in $M$.
 \begin{align}
 ((\mathrm{d}f)_p) := (df)_p\left(\left(\frac{\partial}{\partial x^j}\right)_p\right) = \left(\frac{\partial f}{\partial x^j}\right)_p
 \end{align}
+
+The $\mathrm{d}x^i$ are the dual basis.
