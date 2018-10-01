@@ -1,5 +1,7 @@
 A **topology** is the weakest structure that can be imposed upon a set to establish a notion of continuity.
 
+
+
 # Mathematical Construction
 
 A topology on a set $M$ is an $\mathcal{O} \subseteq \mathscr{P}(M)$ if
@@ -7,6 +9,8 @@ A topology on a set $M$ is an $\mathcal{O} \subseteq \mathscr{P}(M)$ if
 1. $\emptyset \in \mathcal{O}$ and $M \in \mathcal{O}$
 2. $U, V \in \mathcal{O} \implies \bigcap \\{U,V\\} \in \mathcal{O}$
 3. $C \subseteq \mathcal{O} \implies \bigcup C \in \mathcal{O}$
+
+# Topological Space
 
 The pair $(M,\mathcal{O})$ is then called a **topological space**.
 
