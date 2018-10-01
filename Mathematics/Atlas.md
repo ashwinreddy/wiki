@@ -11,3 +11,5 @@ A chart is a homeomorphism $\varphi$ from an open subset $U$ of $M$ to an open s
 \begin{equation}
 \tau_{\alpha,\beta} = \varphi_\beta \circ \varphi_{\alpha}^{-1}
 \end{equation}
+
+All three are homeomorphisms.
