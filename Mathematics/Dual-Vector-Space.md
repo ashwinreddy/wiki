@@ -8,7 +8,7 @@ The basis vectors for the dual space can be picked independently of the vector s
 \epsilon^a(e_b) = \delta^a_b
 \end{equation}
 
-**Covariant vector transformation under change of basis**.
+**Contravariant vector transformation under change of basis**.
 \begin{equation}
-\tilde{A_i} = \frac{\partial x^j}{\partial \tilde{x }^i}A_j
+\tilde{A^i} = \frac{\partial \tilde{x}^i}{\partial x^j}A^j
 \end{equation}
