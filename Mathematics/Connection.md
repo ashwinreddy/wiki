@@ -7,7 +7,7 @@ A manifold with connection is a $(M, \mathcal{O},\mathscr{A},\nabla)$
 
 # Connection Coefficient Functions
 
-$\let\sb_
+$\let\sb_$
 
 \\[
 \Gamma^i\sb{(x)}\sb{j}
