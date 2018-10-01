@@ -1,1 +1,1 @@
-A **vector space** is a set $V$ equipped with a $+:V \times V \to V$ and a $\cdot: \mathbb{R}\times V \to V$
+A **vector space** is a set $V$ equipped with a $+:V \times V \to V$ and a $\cdot: \mathbb{R}\times V \to V$ satisfying the vector space axioms.
