@@ -8,6 +8,11 @@ A topology on a set $M$ is an $\mathcal{O} \subseteq \mathscr{P}(M)$ if
 2. $U, V \in \mathcal{O} \implies \bigcap \\{U,V\\} \in \mathcal{O}$
 3. $C \subseteq \mathcal{O} \implies \bigcup C \in \mathcal{O}$
 
+The pair $(M,\mathcal{O})$ is then called a **topological space**.
+
+# Examples
+
+The topology over $M$ consisting of $\\{M,\emptyset\\}$ is called the **chaotic topology**.
 
 
 [[Metric Space]]
