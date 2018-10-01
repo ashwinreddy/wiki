@@ -2,6 +2,6 @@ The **cotangent space** $(T_p M)^\ast := \\{ \varphi: T_pM \xrightarrow{\sim} \m
 
 $\let\sb_$
 
-\begin{align*}
+\begin{equation*}
 \mathrm{d}f\sb{p} 
-\end{align*}
+\end{equation*}
