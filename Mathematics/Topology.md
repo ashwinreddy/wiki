@@ -14,6 +14,16 @@ The pair $(M,\mathcal{O})$ is then called a **topological space**.
 
 The topology over $M$ consisting of $\\{M,\emptyset\\}$ is called the **chaotic topology**.
 
+$\mathcal{O} = \mathscr{P}(M)$ is the **discrete topology** on $M$.
+
+The standard topology is constructed as 
+
+If $M = \mathbb{R}^d$, $\mathcal{O}_{\text{standard}}$ is constructed as:
+  
+1. $\forall x \in \mathbb{R}^d : \forall r \in \mathbb{R}^+$, define $B_r(x) := \{y \in \mathbb{R}^d | \sqrt{\sum_{i=1}^d(y_i - x_i)^2} < r\}$
+2. $U \in \mathcal{O}_{\text{standard}} : \iff \forall p \in U: \exists r \in \mathbb{R}^+ : B_r(p) \subseteq U$
+
+
 
 [[Metric Space]]
 
