@@ -16,9 +16,7 @@ The topology over $M$ consisting of $\\{M,\emptyset\\}$ is called the **chaotic 
 
 $\mathcal{O} = \mathscr{P}(M)$ is the **discrete topology** on $M$.
 
-The standard topology is constructed as 
-
-If $M = \mathbb{R}^d$, $\mathcal{O}_{\text{standard}}$ is constructed as:
+The standard topology over $M = \mathbb{R}^d$, denoted $\mathcal{O}_{\text{standard}}$, is constructed as:
 
 1. A **ball** of radius $r$ around a point $x \in X$ is $B := \\{y \in X \vert d(x,y) < r\\}$
 2. $\forall x \in \mathbb{R}^d : \forall r \in \mathbb{R}^+$, define $B_r(x) := \{y \in \mathbb{R}^d \vert \sqrt{\sum_{i=1}^d(y_i - x_i)^2} < r\}$
