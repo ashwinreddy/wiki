@@ -5,4 +5,4 @@ Endomorphism
 \mathrm{End}(V) = \mathrm{Hom}(V,V)
 \end{equation}
 
-$a$
+\\(a\\)
