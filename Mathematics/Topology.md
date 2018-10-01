@@ -20,7 +20,7 @@ The standard topology is constructed as
 
 If $M = \mathbb{R}^d$, $\mathcal{O}_{\text{standard}}$ is constructed as:
   
-1. $\forall x \in \mathbb{R}^d : \forall r \in \mathbb{R}^+$, define $B_r(x) := \{y \in \mathbb{R}^d | \sqrt{\sum_{i=1}^d(y_i - x_i)^2} < r\}$
+1. $\forall x \in \mathbb{R}^d : \forall r \in \mathbb{R}^+$, define $B_r(x) := \{y \in \mathbb{R}^d \vert \sqrt{\sum_{i=1}^d(y_i - x_i)^2} < r\}$
 2. $U \in \mathcal{O}_{\text{standard}} : \iff \forall p \in U: \exists r \in \mathbb{R}^+ : B_r(p) \subseteq U$
 
 
