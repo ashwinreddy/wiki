@@ -1,2 +1,0 @@
-
-![](../../transition-map.png)
