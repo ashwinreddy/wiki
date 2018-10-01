@@ -15,3 +15,7 @@ p &\mapsto \left(\mathrm{d}x^i\left(\nabla_{\frac{\partial}{\partial x^k}}\frac{
 \\[
 \left(\nabla_X Y\right)^i = X\left(Y^i\right) + \Gamma^i_{jm}Y^jX^m
 \\]
+
+\\[
+\left(\nabla_X \omega\right)_i = X\left(Y^i\right) + \Gamma^j_{im}\omega_jX^m
+\\]
