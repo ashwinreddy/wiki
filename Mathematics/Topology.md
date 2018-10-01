@@ -23,10 +23,6 @@ The standard topology over $M = \mathbb{R}^d$, denoted $\mathcal{O}_{\text{stand
 3. $U \in \mathcal{O}_{\text{standard}} : \iff \forall p \in U: \exists r \in \mathbb{R}^+ : B_r(p) \subseteq U$
 
 
-
-[[Metric Space]]
-
-
 # Classifications
 
 A subset $O \subseteq X$ is **open** if for every point $x \in O$, there is a ball around $x$ entirely contained in $O$.
