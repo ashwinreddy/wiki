@@ -1,4 +1,5 @@
 # Topological Manifold
+A topological manifold is a separable metrizable space $M$ which is locally homeomorphic to $\mathbb{R}^n$
 
 A [topological space](./Topology#topological-space) is called a $d$-dimensional topological manifold if 
 
