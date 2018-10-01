@@ -2,7 +2,12 @@ A **topology** is the weakest structure that can be imposed upon a set to establ
 
 # Mathematical Construction
 
-A topology on a set $M$ is an $\mathcal{O} \subseteq \mathscr{P}$
+A topology on a set $M$ is an $\mathcal{O} \subseteq \mathscr{P}(M)$ if
+
+i) $\emptyset \in \mathcal{O}$ and $M \in \mathcal{O}$
+ii) $U, V \in \mathcal{O} \implies \bigcap \{U,V\} \in \mathcal{O}$
+iii) $C \subseteq \mathcal{O} \implies \bigcup C \in \mathcal{O}$
+
 
 
 [[Metric Space]]
