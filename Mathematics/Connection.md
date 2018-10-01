@@ -21,4 +21,6 @@ $\let\sb_$
 \left(\nabla_X \omega\right)_i = X\left(Y^i\right) + \Gamma^j\sb{im}\omega_jX^m
 \\]
 
+\begin{equation}
 {\displaystyle {\bar {\Gamma }}^{k}{}_{ij}={\frac {\partial x^{p}}{\partial y^{i}}}\,{\frac {\partial x^{q}}{\partial y^{j}}}\,\Gamma ^{r}{}_{pq}\,{\frac {\partial y^{k}}{\partial x^{r}}}+{\frac {\partial y^{k}}{\partial x^{m}}}\,{\frac {\partial ^{2}x^{m}}{\partial y^{i}\partial y^{j}}}}
+\end{equation}
