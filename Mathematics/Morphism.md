@@ -2,5 +2,7 @@ In mathematics, a **morphism** is a structure-preserving map from one mathematic
 
 Endomorphism
   :  \begin{equation}
-\mathrm{End}(V) = \mathrm{Hom}(V,V)$
+\mathrm{End}(V) = \mathrm{Hom}(V,V)
 \end{equation}
+
+$a$
