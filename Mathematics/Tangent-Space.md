@@ -16,5 +16,5 @@ The partial derivatives of $x$ are the basis of $T_p M$
 # Change of Charts
 
 \\[
-X^i\sb{(y)}\left(\frac{\partial}{\partial y^i}\right)\sb{p} = X^i\sb{(x)}\left(\frac{\partial}{\partial x^i}\right)\sb{p}
+X^i\sb{(y)}\left(\frac{\partial}{\partial y^i}\right)\sb{p} \stackrel{?}{=} X^i\sb{(x)}\left(\frac{\partial}{\partial x^i}\right)\sb{p}
 \\]
