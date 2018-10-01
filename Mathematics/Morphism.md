@@ -4,7 +4,3 @@ Endomorphism
   :  \begin{equation}
 \mathrm{End}(V) = \mathrm{Hom}(V,V)
 \end{equation}
-
-\\[
-a + b
-\\]
