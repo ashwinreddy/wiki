@@ -7,3 +7,7 @@ The basis vectors for the dual space can be picked independently of the vector s
 \begin{equation}
 \epsilon^a(e_b) = \delta^a_b
 \end{equation}
+
+\begin{equation}
+\tilde{A_i} = \frac{\partial x^j}{\partial \tilde{x }^i}A_j
+\end{equation}
