@@ -9,5 +9,5 @@ A manifold with connection is a $(M, \mathcal{O},\mathscr{A},\nabla)$
 
 \begin{align}
 \Gamma^i_{(x)\, jk}: U &\to \mathbb{R} \\
-p \mapsto \left(\mathrm{d}x^i\left(\nabla_{\frac{\partial}{\partial x^k}}\right)\right)
+p \mapsto \left(\mathrm{d}x^i\left(\nabla_{\frac{\partial}{\partial x^k}}\frac{\partial}{\partial x_j}\right)\right)(p)
 \end{align}
