@@ -1,2 +1,2 @@
 
-![](./transition-map.png)
+![](../../transition-map.png)
