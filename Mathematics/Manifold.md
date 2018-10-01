@@ -7,3 +7,4 @@ A [topological space](./Topology#topological-space) is called a $d$-dimensional 
 \end{equation}
   
 and $x$ is invertible and continous, and $x^{-1}$ is continuous.
+
