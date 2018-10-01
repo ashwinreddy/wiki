@@ -19,14 +19,16 @@ $\mathcal{O} = \mathscr{P}(M)$ is the **discrete topology** on $M$.
 The standard topology is constructed as 
 
 If $M = \mathbb{R}^d$, $\mathcal{O}_{\text{standard}}$ is constructed as:
-  
-1. $\forall x \in \mathbb{R}^d : \forall r \in \mathbb{R}^+$, define $B_r(x) := \{y \in \mathbb{R}^d \vert \sqrt{\sum_{i=1}^d(y_i - x_i)^2} < r\}$
-2. $U \in \mathcal{O}_{\text{standard}} : \iff \forall p \in U: \exists r \in \mathbb{R}^+ : B_r(p) \subseteq U$
+
+1. A **ball** of radius $r$ around a point $x \in X$ is $B := \\{y \in X \vert d(x,y) < r\\}$
+2. $\forall x \in \mathbb{R}^d : \forall r \in \mathbb{R}^+$, define $B_r(x) := \{y \in \mathbb{R}^d \vert \sqrt{\sum_{i=1}^d(y_i - x_i)^2} < r\}$
+3. $U \in \mathcal{O}_{\text{standard}} : \iff \forall p \in U: \exists r \in \mathbb{R}^+ : B_r(p) \subseteq U$
 
 
 
 [[Metric Space]]
 
-A **ball** of radius $r$ around a point $x \in X$ is $B := \\{y \in X \vert d(x,y) < r\\}$
+
+# Classifications
 
 A subset $O \subseteq X$ is **open** if for every point $x \in O$, there is a ball around $x$ entirely contained in $O$.
