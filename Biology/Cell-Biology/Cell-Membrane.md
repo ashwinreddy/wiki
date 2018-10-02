@@ -27,8 +27,6 @@ Membrane proteins are mostly amphipathic.
 
 ## Functions
 
-###  Transport
-
 ### Enzymatic activity
 
 ### Signal transduction
