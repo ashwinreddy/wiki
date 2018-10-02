@@ -1,0 +1,1 @@
+**Diffusion** is the movement of particles spreading into available space.
