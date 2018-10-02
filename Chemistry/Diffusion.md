@@ -1,1 +1,1 @@
-**Diffusion** is the movement of particles spreading into available space.
+**Diffusion** is the movement of particles spreading into available space. Substances diffuse down their **concentration gradient**. Diffusion (i.e. moving to regions of low density of the substance) requiers no input of energy.
