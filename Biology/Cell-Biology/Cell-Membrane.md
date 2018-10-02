@@ -25,21 +25,21 @@ Membrane proteins are mostly amphipathic.
 
 **Integral proteins** penetrate the hydrophobic interior of the lipid bilayer, with many being transmembrane (spanning the membrane). **Peripheral proteins** are loosely bound to the surface of the membrane, not embedded at all.
 
-## Functions
+# Functions
 
-### Enzymatic activity
+## Enzymatic activity
 
-### Signal transduction
+## Signal transduction
 
-### Cell-cell recognition
+## Cell-cell recognition
 
 Distinguishing one type of neighboring cell from another and rejecting foreign cells is important. Cells bind to molecules on the extracellular surface of the plasma membrane. These molecules often contain carbohydrates, but these membrane carbohydrates are typically short, branched chains with fewer than 15 sugar units. If they are covalently bonded to a lipid, then the molecule is a **glycolipid**. More likely is that the protein is covalently bonded to a **protein**, in which case the molecule is a **glycoprotein**.
 
-### Intercellular joining
+## Intercellular joining
 
-### Attachment to the cytoskeleton and extracellular matrix
+## Attachment to the cytoskeleton and extracellular matrix
 
-### Transport
+## Transport
 
 The membrane easily allows small, nonpolar molecules through. For large molecules and/or charged or polar molecules, they need transport proteins, which allow them through a channel.
 
