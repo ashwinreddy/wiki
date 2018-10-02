@@ -1,0 +1,1 @@
+**Endocytosis** is when the cell absorbs a package as a vesicle.
