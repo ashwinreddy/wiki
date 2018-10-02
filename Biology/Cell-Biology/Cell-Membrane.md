@@ -27,15 +27,19 @@ Membrane proteins are mostly amphipathic.
 
 ## Functions
 
-1. Transport
-2. Enzymatic activity
-3. Signal transduction
-4. Cell-cell recognition
+###  Transport
+
+### Enzymatic activity
+
+### Signal transduction
+
+### Cell-cell recognition
 
 Distinguishing one type of neighboring cell from another and rejecting foreign cells is important. Cells bind to molecules on the extracellular surface of the plasma membrane. These molecules often contain carbohydrates, but these membrane carbohydrates are typically short, branched chains with fewer than 15 sugar units. If they are covalently bonded to a lipid, then the molecule is a **glycolipid**. More likely is that the protein is covalently bonded to a **protein**, in which case the molecule is a **glycoprotein**.
 
-5. Intercellular joining
-6. Attachment to the cytoskeleton and extracellular matrix
+### Intercellular joining
+
+### Attachment to the cytoskeleton and extracellular matrix
 
 ### Transport
 
