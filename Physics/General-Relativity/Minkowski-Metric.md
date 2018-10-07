@@ -1,3 +1,5 @@
+The **Minkowski** metric describes flat spacetime.
+
 \begin{equation}
 \eta = \begin{bmatrix}
 -1 & 0 & 0 & 0 \\\
