@@ -13,3 +13,7 @@ One kind of transport protein is a channel protein, which allows the substance t
 Another kind of transport protein is a carrier protein which reshapes itself around its passenger substance and passes through the membrane.
 
 The transport proteins that move solutes against their concentration gradients are all carrier proteins rather than channel proteins. This makes sense because when channel proteins are open, they mereley allow solutes to diffuse down the concentration gradients rather than picking them up and transporting them against their gradients.
+
+# Cotransport
+
+When a membrane protein enables "downhill diffusion of one solute to drive "uphill transport of other.
