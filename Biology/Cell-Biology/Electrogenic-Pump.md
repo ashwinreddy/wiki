@@ -1,0 +1,1 @@
+An **electrogenic pump** pushes ions against gradient, creates voltage across a membrane.
