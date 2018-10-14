@@ -4,6 +4,6 @@ A **vector space** is a set $V$ equipped with a $+:V \times V \to V$ and a $\cdo
 
 The components of a contravariant vector transform as follows.
 
-$$
+\begin{equation}
 \tilde{A}^i = \frac{\partial \tilde{x}^i}{\partial x^j}A^j
-$$
+\end{equation}
