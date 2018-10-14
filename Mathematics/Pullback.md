@@ -7,4 +7,17 @@ f(y(x)) \equiv g(x) \implies (f\circ y) = g
 
 In differential geometry,
 
-the pullback allows us to take, for example, a surface in ambient space $\mathbb{R}^3$ can be defined parametrically by two parameters $u$ and $v$. We want to integrate the surface, so pullback to R2.
+the pullback allows us to take, for example, a surface in ambient space $\mathbb{R}^3$ can be defined parametrically by two parameters $u$ and $v$. We want to integrate the surface, so pullback to $\mathbb{R}^2$.
+
+The pullback $\Phi*$
+  
+\begin{equation}
+(\Phi^*)F(v_1, \dots, v_n) = F(\Phi(v_1), \dots, \Phi(v_n))
+\end{equation}
+
+On $\mathbb{R}^n$, up to $n$ forms.
+
+Properties:
+
+- $\mathrm{d}(\mathrm{d}x)=0$
+- $\mathrm{d}(F\,\mathrm{d}x)=\mathrm{d}F\wedge\mathrm{d}x$
