@@ -31,7 +31,6 @@ L &= \int \,\mathrm{d}s \\\
 \end{align}
 
 
-
-$$
+\begin{equation}
 g = J^\mathsf{T}J
-$$
+\end{equation}
