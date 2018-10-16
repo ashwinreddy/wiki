@@ -9,3 +9,11 @@ For any 0-form $f$,
 \begin{equation}
 \mathrm{d}(\mathrm{d}f)=0
 \end{equation}
+
+# Vector Operations
+
+## Gradient
+
+\begin{equation}
+\vec\nabla f = (\mathrm{d}f)^\sharp
+\end{equation}
