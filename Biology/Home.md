@@ -1,5 +1,1 @@
-Biochemistry is the [organic chemistry](../Chemistry/Organic Chemistry/) associated with life, thus focusing on the role of carbon in life. Other critical molecules in life are [water](../Chemistry/Water) and [macromolecules](./Biological-Molecules/).
-
-
-
-[Cell Biology](./Cell Biology/) is about the biology of the cell.
+Biochemistry is the [organic chemistry](../Chemistry/Organic Chemistry/) associated with life, thus focusing on the role of carbon in life. Other critical molecules in life are [water](../Chemistry/Water) and [macromolecules](./Biological-Molecules/). [Cell Biology](./Cell Biology/) is about the biology of the cell.
