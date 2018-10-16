@@ -14,6 +14,8 @@ For any 0-form $f$,
 
 ## Gradient
 
+[[musical isomorphism]]
+
 \begin{equation}
 \vec\nabla f = (\mathrm{d}f)^\sharp
 \end{equation}
