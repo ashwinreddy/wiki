@@ -3,3 +3,7 @@ If $\alpha$ and $\beta$ are differential _k_-forms of degrees _p_ and _q_ respec
 \begin{equation}
 \alpha \wedge \beta = (-1)^{pq} \beta \wedge \alpha
 \end{equation}
+
+\begin{equation}
+(\alpha \wedge \beta)\wedge u = \alpha \wedge (\beta \wedge u)
+\end{equation}
