@@ -3,7 +3,3 @@ Biochemistry is the [organic chemistry](../Chemistry/Organic Chemistry/) associa
 
 
 [Cell Biology](./Cell Biology/) is about the biology of the cell.
-
-# Questions
-
-Carbs make us bloated by absorbing water? but carbs are nonpolar?
