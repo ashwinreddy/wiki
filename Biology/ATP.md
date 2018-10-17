@@ -6,3 +6,5 @@
 
 Note that $\Delta G = -7.3 \mathrm{\frac{kcal}{mol}}$.
 
+The three posphate groups are negatively charged, so their mutual repulsion contributes to the instability of of the molecule.
+
