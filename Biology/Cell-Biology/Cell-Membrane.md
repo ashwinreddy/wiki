@@ -1,4 +1,4 @@
-The **cell membrane**, also known as the **plasma membrane** is the membrane that surrounds a cell. Like all biological membranes, the cell membrane is **selectively permeable**: it allows some substances to cross more easily than others. Substances are often controlled via [transport proteins](./Transport Protein). For example, aquaporin allows water to travel through the membrane. The membrane is mostly made of  [phospholipids](../Macromolecules/Lipids/Phospholipids), which arrange in a bilayer. Other components include:
+The **cell membrane**, also known as the **plasma membrane** is the membrane that surrounds a cell. Like all biological membranes, the cell membrane is **selectively permeable**: it allows some substances to cross more easily than others. Substances are often controlled via [transport proteins](./Transport Protein). For example, [[aquaporin]] allows water to travel through the membrane. The membrane is mostly made of  [phospholipids](../Macromolecules/Lipids/Phospholipids), which arrange in a bilayer. Other components include:
 
 - cholesterol
 - glycoprotein
