@@ -1,0 +1,1 @@
+A reaction is said to be spontaneous if it can proceed without any energy input
