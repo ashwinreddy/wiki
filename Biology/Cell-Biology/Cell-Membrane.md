@@ -15,8 +15,13 @@ Fish that live in extreme cold have membranes with a high proportion of unsatura
 
 # Components
 
-The most abundant lipids in most membranes are [phospholipids](../Macromolecules/Lipids/Phospholipids), which arrange in a bilayer.
+The most abundant lipids in most membranes are [phospholipids](../Macromolecules/Lipids/Phospholipids), which arrange in a bilayer. Other components include:
 
+- cholesterol
+- glycoprotein
+- glycolipids
+- integral proteins
+- peripheral proteins
 
 
 # Membrane Proteins
