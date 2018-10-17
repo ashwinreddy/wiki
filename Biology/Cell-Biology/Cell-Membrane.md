@@ -4,6 +4,13 @@ The **cell membrane**, also known as the **plasma membrane** is the membrane tha
 
 The **fluid mosaic model** describes the membrane as a mosaic of protein molecules bobbing in a fluid layer of phospholipids; the membrane is held together by hydrophobic interactions. As a result, the lipids in the membrane are often shifting and bobbing. Proteins often move more slowly because they are larger, but some membrane proteins drift or move in a directed manner. The membrane must be fluid so that it is permeable and so that membrane proteins can move around. 
 
+
+# Membrane Proteins
+
+Membrane proteins are mostly amphipathic. The proteins are not randomly distributed in the membrane, but they do move within the membrane plane.
+
+**Integral proteins** penetrate the hydrophobic interior of the lipid bilayer, with many being transmembrane (spanning the membrane). **Peripheral proteins** are loosely bound to the surface of the membrane, not embedded at all.
+
 ## Temperature Effects
 
 At low enough temperatures, the membrane can pack and solidify, but the temperature at which this occurs depends on the type of lipids.
@@ -24,11 +31,6 @@ The most abundant lipids in most membranes are [phospholipids](../Macromolecules
 - peripheral proteins
 
 
-# Membrane Proteins
-
-Membrane proteins are mostly amphipathic.
-
-**Integral proteins** penetrate the hydrophobic interior of the lipid bilayer, with many being transmembrane (spanning the membrane). **Peripheral proteins** are loosely bound to the surface of the membrane, not embedded at all.
 
 # Functions
 
