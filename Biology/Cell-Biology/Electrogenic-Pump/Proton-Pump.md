@@ -1,2 +1,1 @@
-used by plants, bacteria, fungi
-
+**Proton pumps** are used by plants, bacteria, fungi.
