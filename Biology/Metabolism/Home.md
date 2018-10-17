@@ -2,3 +2,4 @@
 
 **Catabolism** refers to a breakdown pathway (energy-releasing) while **anabolism** refers to a synthetic or constructive pathway (energy-requiring).
 
+**Bioenergetics** is the study of how energy flows through living organisms.
