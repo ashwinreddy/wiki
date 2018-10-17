@@ -3,3 +3,9 @@ Gibbs free energy is the portion of a system's energy that can perform work when
 \begin{equation}
 \Delta G = \Delta H - T \Delta S
 \end{equation}
+
+$\Delta G < 0$, forward rxn spontaneous
+
+$\Delta G = 0$, equiibrium
+
+$\Delta G > 0$, backward rxn spontaneous, forward rxn never spontaneous
