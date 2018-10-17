@@ -1,4 +1,11 @@
-The **cell membrane**, also known as the **plasma membrane** is the membrane that surrounds a cell. Like all biological membranes, the cell membrane is **selectively permeable**: it allows some substances to cross more easily than others. Substances are often controlled via [transport proteins](./Transport Protein). For example, aquaporin allows water to travel through the membrane.
+The **cell membrane**, also known as the **plasma membrane** is the membrane that surrounds a cell. Like all biological membranes, the cell membrane is **selectively permeable**: it allows some substances to cross more easily than others. Substances are often controlled via [transport proteins](./Transport Protein). For example, aquaporin allows water to travel through the membrane. The membrane is mostly made of  [phospholipids](../Macromolecules/Lipids/Phospholipids), which arrange in a bilayer. Other components include:
+
+- cholesterol
+- glycoprotein
+- glycolipids
+- integral proteins
+- peripheral proteins
+
 
 # Fluid Mosaic Model
 
@@ -17,18 +24,6 @@ Fish that live in extreme cold have membranes with a high proportion of unsatura
 Membrane proteins are mostly amphipathic. The proteins are not randomly distributed in the membrane, but they do move within the membrane plane.
 
 **Integral proteins** penetrate the hydrophobic interior of the lipid bilayer, with many being transmembrane (spanning the membrane). **Peripheral proteins** are loosely bound to the surface of the membrane, not embedded at all.
-
-
-# Components
-
-The most abundant lipids in most membranes are [phospholipids](../Macromolecules/Lipids/Phospholipids), which arrange in a bilayer. Other components include:
-
-- cholesterol
-- glycoprotein
-- glycolipids
-- integral proteins
-- peripheral proteins
-
 
 
 # Functions
