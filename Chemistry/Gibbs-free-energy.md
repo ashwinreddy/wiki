@@ -1,0 +1,5 @@
+Gibbs free energy is the portion of a system's energy that can perform work when temperature and pressure are uniform throughout a system, as in a living cell.
+
+\begin{equation}
+\Delta G = \Delta H - T \Delta S
+\end{equation}
