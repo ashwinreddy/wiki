@@ -9,5 +9,5 @@ v(t) = \frac{\mathrm{d}x}{\mathrm{d}t} \equiv \dot{x}
 so that a vector velocity is
 
 \begin{equation}
-\vec{v}(t) = \dot{x}\mathbf{\hat{i}}+\dot{y}\mathbf{\hat{j}}+\dot{z}\mathbf{\hat{k}}
+\vec{v}(t) = \dot{x}\mathbf{\hat{i}}+\dot{y}\mathbf{\hat{j}}+\dot{z}\mathbf{\hat{k}} = \langle \dot x, \dot y, dot z \rangle
 \end{equation}
