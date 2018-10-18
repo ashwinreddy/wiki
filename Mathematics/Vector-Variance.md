@@ -1,1 +1,0 @@
-vectors can be covariant or contravariant
