@@ -1,5 +1,7 @@
 **Velocity** is the vector describing the rate at which a system moves relative to a reference frame.
 
+In one-dimension
+
 \begin{equation}
-\frac{}{}
+v(t) = \frac{\mathrm{d}x}{\mathrm{d}t}
 \end{equation}
