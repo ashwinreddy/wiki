@@ -6,7 +6,7 @@ In one-dimension
 v(t) = \frac{\mathrm{d}x}{\mathrm{d}t} \equiv \dot{x}
 \end{equation}
 
-so that a vector velocity is
+so that a vector velocity in Cartesian coordinates is
 
 \begin{equation}
 \vec{v}(t) = \dot{x}\mathbf{\hat{i}}+\dot{y}\mathbf{\hat{j}}+\dot{z}\mathbf{\hat{k}} = \langle \dot x, \dot y, \dot z \rangle
