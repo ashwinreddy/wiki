@@ -2,8 +2,6 @@ A **vector space** is a set $V$ equipped with a $+:V \times V \to V$ and a $\cdo
 
 **Theorem**. $\dim V < \infty \implies \left(V^\ast\right)^\ast \cong_{\text{vec}} V$
 
-The components of a contravariant vector transform as follows.
-
 \begin{equation}
-\tilde{A}^i = \frac{\partial \tilde{x}^i}{\partial x^j}A^j
+v^i = \vec{v}\cdot\vec\nabla x^i
 \end{equation}
