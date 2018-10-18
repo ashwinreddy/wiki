@@ -1,3 +1,5 @@
 \begin{align}
-\tilde{x}
+\tilde{x} &= x - vt \\\
+\tilde{y} &= y\\\
+\tilde{z} &= z
 \end{align}
