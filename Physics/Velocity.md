@@ -17,5 +17,5 @@ Note that velocity in spherical coordinates looks like
 $\let\sb_$
 
 \begin{equation}
-\vec{v}(t) = \dot{r} \hat{e}\sb{r} + r\dot\theta \hat{e}_\theta + r\sin\theta \dot\phi \hat{e}\sb\phi
+\vec{v}(t) = \dot{r} \hat{e}\sb{r} + r\dot\theta \hat{e}_\theta + r\dot\phi \sin\theta \hat{e}\sb\phi
 \end{equation}
