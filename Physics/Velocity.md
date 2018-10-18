@@ -9,5 +9,11 @@ v(t) = \frac{\mathrm{d}x}{\mathrm{d}t} \equiv \dot{x}
 so that a vector velocity in Cartesian coordinates is
 
 \begin{equation}
-\vec{v}(t) = \dot{x}\mathbf{\hat{i}}+\dot{y}\mathbf{\hat{j}}+\dot{z}\mathbf{\hat{k}} = \langle \dot x, \dot y, \dot z \rangle
+\vec{v}(t) = \dot{x} \hat{e}_x + \dot{y} \hat{e}_y + \dot{z} \hat{e}_z
+\end{equation}
+
+Note that velocity in spherical coordinates looks like
+
+\begin{equation}
+\vec{v}(t) = \dot{r} \hat{e}_r + r\dot\theta \hat{e}_\theta + r\sin\theta \dot\phi \hat{e}_\phi
 \end{equation}
