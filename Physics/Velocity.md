@@ -14,6 +14,8 @@ so that a vector velocity in Cartesian coordinates is
 
 Note that velocity in spherical coordinates looks like
 
+$\let\sb_$
+
 \begin{equation}
-\vec{v}(t) = \dot{r} \hat{e}_r + r\dot\theta \hat{e}_\theta + r\sin\theta \dot\phi \hat{e}_\phi
+\vec{v}(t) = \dot{r} \hat{e}\sb{r} + r\dot\theta \hat{e}_\theta + r\sin\theta \dot\phi \hat{e}_\phi
 \end{equation}
