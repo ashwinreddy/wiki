@@ -1,0 +1,1 @@
+A **redox reaction** is a reaction in which one reactant oxidizes (loses electrons) and another one reduces (gains electrons)
