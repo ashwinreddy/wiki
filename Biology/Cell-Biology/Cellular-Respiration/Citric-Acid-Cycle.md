@@ -14,3 +14,5 @@ In the [[mitochondria]]l matrix, pyruvate enters (via a transport protein). Make
 Net gain: 2 ATP, 6 NADH, 2 FADH2
 
 NADH more energized than FADH2
+
+ATP produced by substrate-level phosphorylation
