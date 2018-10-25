@@ -1,0 +1,1 @@
+Makes 2 pyruvate, 2 ATP, 2 NADH
