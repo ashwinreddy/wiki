@@ -10,3 +10,5 @@ In the [[mitochondria]]l matrix, pyruvate enters (via a transport protein). Make
 \begin{equation}
 \text{Acetyl CoA} \to \text{Citrate} + \ce{CO2}
 \end{equation}
+
+Net gain: 2 ATP, 6 NADH, 2 FADH2
