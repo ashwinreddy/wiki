@@ -7,6 +7,6 @@ In the [[mitochondria]]l matrix, pyruvate enters (via a transport protein). Make
 
 # Citric Acid Cycle
 
-$$
+\begin{equation}
 \text{Acetyl CoA} \to \text{Citrate} + \ce{CO2}
-$$
+\end{equation}
