@@ -5,5 +5,5 @@ For timeline paths, proper time measures the time elapsed on a physical clock ca
 \end{equation}
 
 \begin{equation}
-\Delta \tau =\int _{P}\,d\tau =\int _{P}{\frac  {1}{c}}{\sqrt  {g_{{\mu \nu }}\;dx^{\mu }\;dx^{\nu }}}.	
+\Delta \tau =\int_{P}\,d\tau =\int_{P}{\frac{1}{c}}{\sqrt  {g_{{\mu \nu }}\;dx^{\mu }\;dx^{\nu }}}.	
 \end{equation}
