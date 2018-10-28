@@ -1,0 +1,1 @@
+- $R_{abcd}^{}=-R_{bacd}=-R_{abdc}$
