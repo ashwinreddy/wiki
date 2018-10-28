@@ -8,6 +8,6 @@ Examples:
 - Direct product of two manifolds
 
 
-A chart is a homeomorphism that maps coordinate neighborhoods of points on an $n$-dimensional manifold to a subset of $\mathbb{R}^n$.
+A chart is a [[homeomorphism]] that maps coordinate neighborhoods of points on an $n$-dimensional manifold to a subset of $\mathbb{R}^n$.
 
 An [[atlas]] on a manifold is a set of charts whose domains cover the manifold completely.
