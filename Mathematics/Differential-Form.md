@@ -23,3 +23,19 @@ A 1-form linearly transforms a vector into a real as $a_i d x^i$.
 \begin{equation}
 v \wedge w \equiv v \otimes w - w \otimes v
 \end{equation}
+
+## 1-Form
+
+For $\mathbb{R}^3$, all 1-forms can be written as 
+
+\\[
+\alpha = a dx + bdy + cdz
+\\]
+
+## 2-Form
+
+For $\mathbb{R}^3$, all 2-forms can be written as 
+
+\\[
+\beta = a dy \wedge dz + b dz \wedge dx + c dx \wedge dy
+\\]
