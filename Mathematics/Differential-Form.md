@@ -11,9 +11,13 @@ A differential 1-form is a covector with bases $\mathrm{d} x^i$. A basic or elem
 d x_i (\vec{v}) = v_i
 \\]
 
+so that
+
 \\[
 \int \vec{F}\cdot d \vec{r} = \int F_x d x + F_y d y + F_z d z
 \\]
+
+A 1-form linearly transforms a vector into a real as $a_i d x^i$.
 
 
 \begin{equation}
