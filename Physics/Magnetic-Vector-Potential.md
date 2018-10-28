@@ -11,7 +11,6 @@ then
 \end{equation}
 
 \begin{align*}
-\Box \phi &= \frac{\rho}{\epsilon_0} \\\
-\Box \vec{A} = \mu_0 \vec{j}
+\Box \phi &= \frac{\rho}{\epsilon_0} \Box \vec{A} = \mu_0 \vec{j}
 \end{align*}
 
