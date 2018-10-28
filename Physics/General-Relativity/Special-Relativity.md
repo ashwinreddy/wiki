@@ -1,0 +1,3 @@
+1. Principle of relativity (Galileo): No experiment can measure the absolute velocity of an observer; the results of any experiment performed by an observer do not depend on his speed relative to other observers who are not involved in the experiment.
+
+2. Universality of the speed of light (Einstein): The speed of light relative to any unac- celerated observer is c = 3 × 108 m s−1, regardless of the motion of the light’s source relative to the observer. Let us be quite clear about this postulate’s meaning: two differ- ent unaccelerated observers measuring the speed of the same photon will each find it to be moving at 3 × 108 m s−1 relative to themselves, regardless of their state of motion relative to each other.
