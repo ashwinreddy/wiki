@@ -1,6 +1,11 @@
 The critical concept of calculus is that a curve is made up of straight line segments if we zoom close enough. Manifolds generalize this concept with a topological space that locally resembles Euclidean space. 
 
-Clearly, $\mathbb{R}^n$ is an _n_-dimensional manifold.
+Examples:
+
+- Clearly, $\mathbb{R}^n$ is an _n_-dimensional manifold.
+- An _n_-sphere
+- An _n_-torus
+- Direct product of two manifolds
 
 
 A chart is a homeomorphism that maps coordinate neighborhoods of points on an $n$-dimensional manifold to a subset of $\mathbb{R}^n$.
