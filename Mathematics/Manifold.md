@@ -5,4 +5,4 @@ Clearly, $\mathbb{R}^n$ is an _n_-dimensional manifold.
 
 A chart is a homeomorphism that maps coordinate neighborhoods of points on an $n$-dimensional manifold to a subset of $\mathbb{R}^n$.
 
-An atlas on a manifold is a set of charts whose domains cover the manifold completely.
+An [[atlas]] on a manifold is a set of charts whose domains cover the manifold completely.
