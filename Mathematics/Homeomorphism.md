@@ -1,3 +1,4 @@
 
+Examples:
 
-The graph of a differentiable function is homeomorphic to the domain of the function.
+- The graph of a differentiable function is homeomorphic to the domain of the function.
