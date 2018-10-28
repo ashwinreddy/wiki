@@ -12,3 +12,7 @@ $\let\sb_$
 \\[
 {\displaystyle \sum _{i=1}^{3}\varepsilon _{ijk}\varepsilon _{imn}=\delta _{jm}\delta _{kn}-\delta _{jn}\delta _{km}}
 \\]
+
+\\[
+{\displaystyle (\nabla \times \mathbf {F} )^{i}(\mathbf {x} )=\varepsilon ^{ijk}{\frac {\partial }{\partial x^{j}}}F_{k}(\mathbf {x} ),}
+\\]
