@@ -7,3 +7,5 @@ Three underlying ideas:
 \begin{equation}
 G_{\mu\nu} +\Lambda g_{\mu\nu}= \kappa T_{\mu\nu}
 \end{equation}
+
+> Spacetime is a four-dimensional topological manifold with a smooth atlas carrying a torsion-free connection compatible with a Lorentzian metric and a time orientation satisfying the Einstein equations.
