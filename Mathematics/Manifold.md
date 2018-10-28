@@ -1,11 +1,8 @@
-# Topological Manifold
-A topological manifold is a separable metrizable space $M$ which is locally homeomorphic to $\mathbb{R}^n$
+The critical concept of calculus is that a curve is made up of straight line segments if we zoom close enough. Manifolds generalize this concept with a topological space that locally resembles Euclidean space. 
 
-A [topological space](./Topology#topological-space) is called a $d$-dimensional topological manifold if 
+Clearly, $\mathbb{R}^n$ is an _n_-dimensional manifold.
 
-\begin{equation}
-\forall p \in M: \exists U \in p \in \mathcal{O}: \exists x: U \to x(U) \subseteq \mathbb{R}^d
-\end{equation}
-  
-and $x$ is invertible and continous, and $x^{-1}$ is continuous.
 
+A chart is a homeomorphism that maps coordinate neighborhoods of points on an $n$-dimensional manifold to a subset of $\mathbb{R}^n$.
+
+An atlas on a manifold is a set of charts whose domains cover the manifold completely.
