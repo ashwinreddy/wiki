@@ -4,3 +4,6 @@ Among those who use index notation for tensors, it is common to use the letter R
 2. the Ricci tensor $R_{ij}$
 3. the scalar curvature $R$
 
+\begin{equation}
+R = g^{\mu\nu}R_{\mu\nu}
+\end{equation}
