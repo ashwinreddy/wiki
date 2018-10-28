@@ -1,1 +1,1 @@
-- [[General Relativity]]
+- [General Relativity](./General Relativity/)
