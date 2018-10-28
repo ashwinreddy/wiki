@@ -10,7 +10,5 @@ $\let\sb_$
 \end{equation}
 
 \\[
-
 {\displaystyle \sum _{i=1}^{3}\varepsilon _{ijk}\varepsilon _{imn}=\delta _{jm}\delta _{kn}-\delta _{jn}\delta _{km}}
-
 \\]
