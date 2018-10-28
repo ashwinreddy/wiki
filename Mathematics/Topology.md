@@ -8,7 +8,7 @@ A topology on a set $M$ is an $\mathcal{O} \subseteq \mathscr{P}(M)$ if
 
 1. $\emptyset \in \mathcal{O}$ and $M \in \mathcal{O}$
 2. $U, V \in \mathcal{O} \implies U \bigcap V \in \mathcal{O}$
-3. $U \in \mathcal{O} \implies \bigcup_{\alpha in A} U_\alpha \in \mathcal{O}$
+3. $U \in \mathcal{O} \implies \bigcup_{\alpha \in A} U_\alpha \in \mathcal{O}$
 
 # Topological Space
 
