@@ -1,4 +1,7 @@
-In the thylakoids. Endergonic reaction.
+The light reactions convert light energy into chemical energy in the thylakoids. 
+
+
+Endergonic reaction.
 
 1. Split $\ce{H2O}$
 2. Release $\ce{O2}$
