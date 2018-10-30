@@ -1,1 +1,1 @@
-Where the [light reactions] take place
+Where the [[light reactions]] take place
