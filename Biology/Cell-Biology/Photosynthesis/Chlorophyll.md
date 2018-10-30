@@ -6,4 +6,4 @@ carotenoids: photoprotection, broaden color spectrum for photosynthesis (protect
 
 
 action spectrum
-  : superposition of wavelengths
+  : superposition (or maximum?) of wavelengths
