@@ -1,0 +1,1 @@
+ATP and NADPH from [[Light reaction]]s
