@@ -10,6 +10,8 @@ From the equation, it is clear that ATP and NADPH power the cycle, which has thr
 - Reduction. ATP and NADPH are used to convert 3PG into G3P
 - Regeneration. Use G3P to make RuBP to accept $\ce{CO2}$ on the next cycle.
 
+When $[\ce{O2}] \gg [\ce{CO2}]$, Rubisco uses $\ce{O2}$ instead of $\ce{CO2}$, making a 2 carbon molecule and releasing $\ce{CO2}$.
+
 [[https://ka-perseus-images.s3.amazonaws.com/4c9fbc7e4f158fd4bf3e1114e9a7ebe47d08f020.png]]
 
 ATP and NADPH from [[Light reaction]]s
