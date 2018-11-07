@@ -6,9 +6,9 @@ The Calvin cycle builds three carbon sugars using light-independent reactions. T
 
 There are three phases in the Calvin cycle:
 
-- Carbon Fixation. 
-- Reduction. 
-- Regeneration. 
+- Carbon Fixation. Formation of 3PG from carbon.
+- Reduction. 3PG makes G3P
+- Regeneration. Use G3P to make RuBP to accept $\ce{CO2}$ on the next cycle.
 
 [[https://ka-perseus-images.s3.amazonaws.com/4c9fbc7e4f158fd4bf3e1114e9a7ebe47d08f020.png]]
 
