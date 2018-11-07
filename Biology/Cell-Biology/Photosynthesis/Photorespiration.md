@@ -1,1 +1,1 @@
-Photorespiration is when RuBisCO oxygenates RuBP. Adding the oxygen makes a product that it is unusable in the [[Calvin cycle]]
+Photorespiration is when RuBisCO oxygenates RuBP. Adding the oxygen makes a product that it is unusable in the [[Calvin cycle]], wasting energy. Because it consumes oxygen and releases $\ce{CO2}$ and consumes ATP wastefully (ultimately meaning that it doesn't create sugars), it it thought to be an evolutionary relic.
