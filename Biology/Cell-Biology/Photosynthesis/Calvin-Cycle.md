@@ -1,5 +1,15 @@
-ATP and NADPH from [[Light reaction]]s
+The Calvin cycle builds three carbon sugars using light-independent reactions. The sum of all its component reactions is
 
-- carbon fixation
+\begin{equation}
+3 \ce{CO2} + 6 \text{NADPH} + 6 \ce{H+} + 9 \text{ATP} \longrightarrow \text{G3P} + 6 \text{NADP}+ + 9 \text{ADP} + 3 \ce{H2O} + 8 \text{P}_i
+\end{equation}
+
+There are three phases in the Calvin cycle:
+
+- Carbon Fixation. 
+- Reduction. 
+- Regeneration. 
 
 [[https://ka-perseus-images.s3.amazonaws.com/4c9fbc7e4f158fd4bf3e1114e9a7ebe47d08f020.png]]
+
+ATP and NADPH from [[Light reaction]]s
