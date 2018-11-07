@@ -1,0 +1,1 @@
+Photorespiration is when RuBisCO oxygenates RuBP. Adding the oxygen makes a product that it is unusable in the [[Calvin cycle]]
