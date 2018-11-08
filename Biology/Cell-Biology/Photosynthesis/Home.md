@@ -1,5 +1,3 @@
-[[http://www.phschool.com/itext/elife/site/text/images/08images/08-14.jpg]]
-
 
 1. Light reactions
 2. Calvin cycle
