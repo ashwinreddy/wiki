@@ -1,1 +1,1 @@
-In **pyruvate oxidation**, the pyruvate from [[glycolysis]]
+In **pyruvate oxidation**, the pyruvate products from [[glycolysis]] are oxidated before the [[citric acid cycle]] can occur.
