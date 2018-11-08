@@ -1,0 +1,1 @@
+**Fermentation** is the partial degradation of sugars or other organic fuel that occurs without the use of oxygen. 
