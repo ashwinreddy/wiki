@@ -1,1 +1,1 @@
-**Fermentation** is the partial degradation of sugars or other organic fuel that occurs without the use of oxygen. 
+**Fermentation** is the partial degradation of sugars or other organic fuel that occurs without the use of oxygen. In alcohol fermentation, pyruvate is converted to ethanol in two steps. During lactic acid femerntation, pyruvate is reduced directly by NADH to form lactate, regenerating NAD+ with no release of $\ce{CO2}$
