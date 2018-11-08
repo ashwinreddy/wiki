@@ -1,8 +1,16 @@
 **Cellular respiration** includes both aerobic and anaerobic catabolic reactions to release energy that generates ATP. It is useful to imagine aerobic respiration as analogous to combustion in an automobile. The general equation for cellular respiration follows:
 
 \begin{equation}
-\ce{C6H12O6}+\ce{O2}\to \ce{CO2}+\ce{H2O} + \mathrm{Energy}
+\ce{C6H12O6}+\ce{O2}\to \ce{CO2}+\ce{H2O} \qquad \Delta G < 0
 \end{equation}
+
+Some of the energy on the right hand side is used to make ATP and some is released as heat. 
+
+There are three main stages to cellular respiration:
+
+1. [[Glycolysis]]
+2. Pyruvate Oxidation and the Citric Acid Cycle
+3. Oxidative Phosphorylation
 
 
 Glycolysis (sugar-breaking) occurs for all organisms. It occurs whether there is oxygen or not. Glycolysis creates on net 2 ATP by taking glucose and turning it into 2 pyruvates. 
