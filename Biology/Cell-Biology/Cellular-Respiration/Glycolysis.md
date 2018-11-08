@@ -14,3 +14,5 @@ Each glucose is separated into 2 pyruvates and 2 water molecules. 4 ATPs are for
 # Efficiency
 
 Glycolysis releases less than 25% of the chemical energy in glucose that can be harvested by cells; most of the energy remains stockpiled in the two molecules of pyruvate.
+
+Phosphofructokinase is a kinase enzyme that phosphorylates fructose 6-phosphate in glycolysis.
