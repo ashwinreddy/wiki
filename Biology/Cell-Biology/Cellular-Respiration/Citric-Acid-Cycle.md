@@ -1,3 +1,5 @@
+In the **citric acid cycle**, 
+
 \begin{equation}
 \text{Acetyl CoA} \to \text{Citrate} + \ce{CO2}
 \end{equation}
