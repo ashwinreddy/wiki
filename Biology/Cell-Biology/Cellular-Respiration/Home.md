@@ -1,7 +1,7 @@
 **Cellular respiration** includes both aerobic and anaerobic catabolic reactions to release energy that generates ATP. It is useful to imagine aerobic respiration as analogous to combustion in an automobile. The general equation for cellular respiration follows:
 
 \begin{equation}
-\ce{C6H12O6}+\ce{O2}\to \ce{CO2}+\ce{H2O} + \text{Energy}
+\ce{C6H12O6}+\ce{O2}\to \ce{CO2}+\ce{H2O} + \mathrm{Energy}
 \end{equation}
 
 
