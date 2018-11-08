@@ -9,7 +9,7 @@ Some of the energy on the right hand side is used to make ATP and some is releas
 There are three main stages to cellular respiration:
 
 1. [[Glycolysis]]
-2. [[Pyruvate Oxidation]] and the [[Citric Acid Cycle]]
+2. Pyruvate Oxidation and the [[Citric Acid Cycle]]
 3. Oxidative Phosphorylation
 
 
