@@ -16,4 +16,4 @@ So far, including glycolysis products, we have:
 
 and we made 2 ATP already for the cell to use
 
-The next step is the [[citric acid cycle]]
+The next step is the [[citric acid cycle]].
