@@ -1,0 +1,1 @@
+In **pyruvate oxidation**, the pyruvate from [[gylcolysis]]
