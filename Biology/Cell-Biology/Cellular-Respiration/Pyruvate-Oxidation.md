@@ -2,4 +2,16 @@ In **pyruvate oxidation** (aka link reaction), the pyruvate products from [[glyc
 
 Because pyruvate is a charged molcule, the mitochondria of eukaryotic cells have a transport protein to help in actively transporting it. 
 
- Make more NADH, $\ce{CO2}$
+
+What exactly goes into and comes out pyruvate oxidation?
+
+1. One of the carbons on the three carbon chain of pyruvate bonds with an oxygen and leaves the cell as $\ce{CO2}$
+2. What's left is Acetyl CoA
+3. An NAD+ picks up hydrogen to make NADH
+
+So far, including glycolysis products, we have:
+
+- 4 NADH
+- Acetyl CoA
+
+and we made 2 ATP already for the cell to use
