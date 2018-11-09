@@ -1,4 +1,4 @@
-The light reactions convert light energy into chemical energy in the thylakoids. 
+The **light reactions** convert light energy into chemical energy in the thylakoids. 
 
 The light can be absorbed, reflected, or transmitted. 
 
