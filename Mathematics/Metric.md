@@ -6,3 +6,13 @@ A metric on a set $X$ is a function $X\times X \to \mathbb{R}$ such that $\foral
 4. $d(x,y) = 0 \implies x = y$
 
 Satisfying only 1 - 3 is a pseudometric.
+
+A metric space is a $(X,d)$. 
+
+Property 2 is called the triangle inequality. It says that a detour via z will not give a shortcut when going from x to y.
+
+Example. Let X be a nonempty set. A metric could be
+
+\\[
+d(x,y) = [x=y]
+\\]
