@@ -11,3 +11,11 @@ R_{\mu \nu }={R^{\alpha }}_{\mu \alpha \nu }
 \begin{equation}
 R = g^{\mu\nu}R_{\mu\nu}
 \end{equation}
+
+A Riemannian manifold has a natural volume form, which in local coordinates is expressed as 
+
+\\[
+
+\omega = \sqrt{|g|} \mathrm{d}x^1 \wedge \dots \wedge \mathrm{d}x^n
+
+\\]
