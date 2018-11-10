@@ -1,8 +1,9 @@
-If $\alpha$ and $\beta$ are differential _k_-forms of degrees _p_ and _q_ respectively, then
 
-\begin{equation}
-\alpha \wedge \beta = (-1)^{pq} \beta \wedge \alpha
-\end{equation}
+If $\omega$ is a $k$-form and $\eta$ is a $p$ form,
+
+\\[
+\omega \wedge \eta = (-1)^{kp} \eta \wedge \omega
+\\]
 
 
 In $\mathbb{R}^n$, the volume of an infinitesimal _n_-hypercube is
