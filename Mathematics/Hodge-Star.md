@@ -1,1 +1,1 @@
-The **Hodge star** is a linear map that sends a $k$-form to a $(n-k)$-form
+The **Hodge star** is a linear map that sends a $k$-form to a $(n-k)$-form for an ambient space of dimension $n$.
