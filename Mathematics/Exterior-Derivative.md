@@ -4,7 +4,7 @@ The exterior derivative of a [[differential form]] of degree _k_ is a differenti
 \mathrm{d}f = \frac{\partial f}{\partial x_i}\mathrm{d}x_i = \vec\nabla f \cdot d\vec{r}
 \end{equation}
 
-For any 0-form $f$,
+The operator is also nilpotent, that is,
 
 \begin{equation}
 \mathrm{d}(\mathrm{d}f)=0
