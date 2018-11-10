@@ -3,3 +3,7 @@ A **homomorphism** is a map between two algebraic structures of the same type th
 \\[
 f(\mu_A(a_1, \dots, a_k)) = \mu_B(f(a_1, \dots, a_k))
 \\]
+
+Example:
+
+$x \mapsto e^x \in \mathrm{Hom}(\mathbb{R}, \mathbb{R}^+)$
