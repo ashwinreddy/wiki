@@ -1,3 +1,3 @@
 \\[
-f(x) = \sum_{n=0}^\infty \frac{D^n f}{n!}
+f(x) = \sum_{n=0}^\infty \left(\frac{D^n f(a)}{n!}(x-a)^n\right)
 \\]
