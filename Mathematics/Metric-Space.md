@@ -1,1 +1,1 @@
-A **metric space** is an ordered pair $(M,d)$ where $M$ is a set and $d$ is a [[metric]]
+A **metric space** is an ordered pair $(M,d)$ where $M$ is a set and $d$ is a [[metric]] on $M$.
