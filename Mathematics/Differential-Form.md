@@ -39,3 +39,14 @@ For $\mathbb{R}^3$, all 2-forms can be written as
 \\[
 \beta = a dy \wedge dz + b dz \wedge dx + c dx \wedge dy
 \\]
+
+# Closed Form
+
+If $\alpha = f(x,y)dx + g(x,y)dy$, a closed form is
+
+$$
+\frac{\partial g}{\partial x} = \frac{\partial f}{\partial y}
+$$
+
+Generally, a closed form has a exterior derivative of 0.
+
