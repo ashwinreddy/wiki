@@ -16,3 +16,7 @@ Example. Let X be a nonempty set. A metric could be
 \\[
 d(x,y) = [x=y]
 \\]
+
+This induces a discrete topology
+
+A metric on $\mathbb{R}$ could be $d(x,y)=|x-y|$. This induces the standard topology.
