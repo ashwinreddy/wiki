@@ -1,0 +1,1 @@
+The **Hodge star** is a linear map that sends a $k$-form to a $(n-k)$-form
