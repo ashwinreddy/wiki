@@ -43,3 +43,11 @@ For $\mathbb{R}^3$, all 2-forms can be written as
 Cross product:
 
 Take two 1 forms and wedge them together. The result is a cross product.
+
+## General Properties
+
+If $\omega$ is a $k$-form and $\eta$ is a $p$ form,
+
+\\[
+\omega \wedge \eta = (-1)^{kp} \eta \wedge \omega
+\\]
