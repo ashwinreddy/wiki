@@ -1,0 +1,1 @@
+A **ring** is a set with binary operations for addition and multiplication.
