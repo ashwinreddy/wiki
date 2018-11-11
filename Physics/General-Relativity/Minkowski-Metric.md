@@ -12,6 +12,6 @@ The **Minkowski** metric describes flat spacetime.
 In Minkowski space,
 
 \begin{equation}
-\mathrm{d} s^2 = \eta_{\mu\nu}\mathrm{d}  x^\mu \mathrm{d}  x^\nu = \pm \left(\mathrm{d}x^2 + \mathrm{d}y^2 + \mathrm{d}z^2 - \mathrm{d}t^2 \right)
+\mathrm{d} s^2 = \eta_{\mu\nu}\mathrm{d}  x^\mu \mathrm{d}  x^\nu = \pm \left(\mathrm{d}x^2 + \mathrm{d}y^2 + \mathrm{d}z^2 - c\mathrm{d}t^2 \right)
 \end{equation}
 
