@@ -1,3 +1,5 @@
+**Pullbacks** are a generalization of [integration by substituion](./Integral)
+
 
 Precomposition with a function probably provides the most elementary notion of pullback: in simple terms, a function f of a variable y, where y itself is a function of another variable x, may be written as a function of x. This is the pullback of f by the function y.
 
