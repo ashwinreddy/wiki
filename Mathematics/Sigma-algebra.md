@@ -1,1 +1,0 @@
-A **sigma algebra** is a non-empty family of subsets of $X$ closed under complement and countable union.
