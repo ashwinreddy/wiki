@@ -1,0 +1,1 @@
+[[https://upload.wikimedia.org/wikipedia/commons/d/d0/Magma_to_group2.svg]]
