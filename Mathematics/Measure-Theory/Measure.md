@@ -5,3 +5,11 @@ A **measure** $\mu$ is a function from the sigma algebra $\Sigma$ on a set to th
 3. For mutually disjoint $E_k$, \\[
 \mu\left(\bigcup_{k=1}^\infty E_k\right)=\sum_{k=1}^\infty \mu(E_k)
 \\]
+
+# Counting Measure
+
+\\[
+\mu(A) = \begin{cases} |A| & \text{if A is finite} \\\
+\infty & \text{o/w}
+\end{cases}
+\\]
