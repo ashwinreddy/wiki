@@ -4,7 +4,7 @@ In differential geometry, **pullbacks** are a generalization of [integration by 
 \int_{\Phi(S)}\omega = \int_S \Phi^*(\omega)
 \\]
 
-For scalar functions, $\Phi^*f(x)=f(\Phi(x))$.
+So for example, with scalar functions, $\Phi^*f(x)=f(\Phi(x))$. 
 
 
 Precomposition with a function probably provides the most elementary notion of pullback: in simple terms, a function f of a variable y, where y itself is a function of another variable x, may be written as a function of x. This is the pullback of f by the function y.
