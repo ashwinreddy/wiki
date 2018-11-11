@@ -6,7 +6,7 @@ $\let\sb_$
 \\[
 \begin{cases}
 g'\sb{ab}(P) = \eta_{ab} \\\
-\frac{\partial g'_{ab}}{\partial x'^c}\lvert_P = 0
+\frac{\partial g'_{ab}}{\partial x'^c}\Big\lvert_P = 0
 \end{cases}
 \\]
 
