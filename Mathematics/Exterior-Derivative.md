@@ -12,6 +12,12 @@ The operator is also nilpotent, that is,
 \mathrm{d}(\mathrm{d}f)=0
 \end{equation}
 
+This is usually summarized succinctly with
+
+\\[
+d^2 = 0
+\\]
+
 # Vector Operations
 
 ## Gradient
