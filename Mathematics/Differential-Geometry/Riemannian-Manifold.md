@@ -4,7 +4,10 @@ At any point $P$ in a pseudo-Riemannian manifold, it is possible in principle to
 $\let\sb_$
 
 \\[
-g'\sb{ab}(P) = \eta_{ab}
+\begin{cases}
+g'\sb{ab}(P) = \eta_{ab} \\\
+\frac{\partial g'_{ab}}{\partial x'^c}\lvert_P = 0
+\end{cases}
 \\]
 
 
