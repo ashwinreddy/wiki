@@ -1,3 +1,3 @@
 \\[
-\nabla^2 \phi = 0
+\nabla^2 \varphi = 0
 \\]
