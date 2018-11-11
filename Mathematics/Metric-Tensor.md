@@ -1,4 +1,4 @@
-The metric tensor is a function $g: V \times V \to \mathbb R$ that measures arclengths in a given coordinate system. Perhaps the most straightforward to compute it is with the [[jacobian]]
+The metric tensor is a function $g: V \times V \to \mathbb R$ that measures arclengths in a given coordinate system. Perhaps the most straightforward to compute it is with the [[Jacobian]]
 
 
 
