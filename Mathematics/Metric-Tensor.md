@@ -10,14 +10,7 @@ We can see that this expression easily regresses to flat space if $g_{ij}=\delta
 (\mathrm{d}s)^2 = (\mathrm{d}x)^2+(\mathrm{d}y)^2+(\mathrm{d}z)^2
 \end{equation}
 
-The generality of the metric tensor stems from cross terms that appear if the basis vectors are not orthogonal.
-
-Properties:
-
-- bilinear
-- symmetric
-- nondegenerate
-
+The generality of the metric tensor stems from cross terms that appear if the basis vectors are not orthogonal. Thus, the length of the curve in any coordinate system is given by
 
 
 $\let\sb_$
@@ -27,6 +20,15 @@ L &= \int \,\mathrm{d}s \\\
 &= \int \sqrt{g\sb{ij}\mathrm{d}x^i\mathrm{d}x^j} \\\
 &= \int\limits_{t\sb{1}}^{t_2} \sqrt{g_{ij}\frac{\mathrm{d}x^i}{\mathrm{d}t}\frac{\mathrm{d}x^j}{\mathrm{d}t}}\,\mathrm{d}t
 \end{align}
+
+Properties:
+
+- bilinear
+- symmetric
+- nondegenerate
+
+
+
 
 
 \begin{equation}
