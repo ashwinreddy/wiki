@@ -1,8 +1,10 @@
 
 At any point $P$ in a pseudo-Riemannian manifold, it is possible in principle to find local Cartesian coordinates $x'^a$ such that
 
+$\let\sb_$
+
 \\[
-g'_ab(P) = \eta_{ab}
+g'\sb{ab}(P) = \eta_{ab}
 \\]
 
 
