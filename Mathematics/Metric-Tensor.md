@@ -43,6 +43,12 @@ Then,
 ds^2 = \left(\vec{e}_a dx^a\right)\left(\vec{e}_b dx^b\right) = \vec{e}_a\vec{e}_b dx^adx^b = g\sb{ab}dx^adx^b
 \\]
 
+# Dual Metric
+
+\\[
+g^{ab}g_{bc}=\delta^a_c
+\\]
+
 # Properties
 
 - bilinear
