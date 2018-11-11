@@ -2,6 +2,8 @@ The critical concept of calculus is that a curve is made up of straight line seg
 
 > A manifold is supposed to be "locally" like one of these exemplary metric spaces $\mathbb{R}^n$. To be precise, a manifold is a metric space $M$ with the following property: If $x \in M$, then there is some neighborhood $U$ of $x$ and some whole number $n$ such that $U$ is homeomorphic to $\mathbb{R}^n$.
 
+We can replace "metric space" with "topological space" for greater generalizability.
+
 Examples:
 
 - Clearly, $\mathbb{R}^n$ is an _n_-dimensional manifold.
