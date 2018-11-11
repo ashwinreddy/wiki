@@ -13,3 +13,9 @@ A **measure** $\mu$ is a function from the sigma algebra $\Sigma$ on a set to th
 \infty & \text{o/w}
 \end{cases}
 \\]
+
+# Lebesgue Measure
+
+\\[
+\lambda([a_1,b_1]\times\dots\times[a_n,b_n])=(b_1-a_1)\cdots(b_n-a_n)
+\\]
