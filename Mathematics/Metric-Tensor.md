@@ -1,5 +1,16 @@
+The metric tensor is a function $g: V \times V \to \mathbb R$ that measures arclengths in a given coordinate system. The metric tensor actually readily encodes differential arc length at a point $x$:
 
-The metric tensor is a function $g: V \times V \to R$.
+\begin{equation}
+(\mathrm{d}s)^2 = g_{ij}(x)\mathrm{d}x^i\mathrm{d}x^j
+\end{equation}
+
+We can see that this expression easily regresses to flat space if $g_{ij}=\delta_{ij}$
+
+\begin{equation}
+(\mathrm{d}s)^2 = (\mathrm{d}x)^2+(\mathrm{d}y)^2+(\mathrm{d}z)^2
+\end{equation}
+
+The generality of the metric tensor stems from cross terms that appear if the basis vectors are not orthogonal.
 
 Properties:
 
@@ -7,20 +18,7 @@ Properties:
 - symmetric
 - nondegenerate
 
-In flat space,
 
-
-\begin{equation}
-(\mathrm{d}s)^2 = (\mathrm{d}x)^2+(\mathrm{d}y)^2+(\mathrm{d}z)^2
-\end{equation}
-
-However, if the basis vectors are not orthogonal, cross terms appear. Then,
-
-\begin{equation}
-(\mathrm{d}s)^2 = g_{ij}\mathrm{d}x^i\mathrm{d}x^j
-\end{equation}
-
-So we see that in flat space, we have the special case where $g_{ij} = \delta_{ij}$. In general, arc length is
 
 $\let\sb_$
 
