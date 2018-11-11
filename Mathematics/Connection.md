@@ -25,8 +25,16 @@ $\let\sb_$
 {\displaystyle {\bar {\Gamma }}^{k}{}\sb{ij}={\frac {\partial x^{p}}{\partial y^{i}}}\,{\frac {\partial x^{q}}{\partial y^{j}}}\,\Gamma ^{r}{}_{pq}\,{\frac {\partial y^{k}}{\partial x^{r}}}+{\frac {\partial y^{k}}{\partial x^{m}}}\,{\frac {\partial ^{2}x^{m}}{\partial y^{i}\partial y^{j}}}}
 \end{equation}
 
-# Gradient of a scalar
+# Vector Operations
+
+Gradient of a scalar field since covariant derivative of scalar is partial derivative
 
 \\[
 \nabla\phi = (\nabla_a \phi)e^a = (\partial_a \phi) e^a
+\\]
+
+Divergence
+
+\\[
+\nabla\cdot v = \nabla_a v^a = \partial_a v^a + \Gamma^a_{ab} v^b
 \\]
