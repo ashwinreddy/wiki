@@ -5,3 +5,5 @@ The Galilean coordinate transform looks like this
 \tilde{y} &= y\\\
 \tilde{z} &= z
 \end{align}
+
+Since the motion can always be aligned to a single axis.
