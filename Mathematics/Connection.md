@@ -28,5 +28,5 @@ $\let\sb_$
 # Gradient of a scalar
 
 \\[
-\nabla\phi = (\nabla_a \phi)e^a = (\partial_a )\phi e^a
+\nabla\phi = (\nabla_a \phi)e^a = (\partial_a \phi) e^a
 \\]
