@@ -6,6 +6,8 @@ A **measure** $\mu$ is a function from the sigma algebra $\Sigma$ on a set to th
 \mu\left(\bigcup_{k=1}^\infty E_k\right)=\sum_{k=1}^\infty \mu(E_k)
 \\]
 
+If they are not disjoint, use $\leq$ instead.
+
 # Counting Measure
 
 \\[
