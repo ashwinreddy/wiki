@@ -4,9 +4,9 @@ The critical concept of calculus is that a curve is made up of straight line seg
 
 We can replace "metric space" with "topological space" for greater generalizability.
 
-Examples:
+Clearly, $\mathbb{R}^n$ is an _n_-dimensional manifold. We could also look at an open ball in $\mathbb{R}^n$. In fact, any open subset of $\mathbb{R}^n$ is automatically a manifold. Further, any open subset of a manifold is also a manifold. It should be obvious that any nice domain in a manifold will be a nice domain in its corresponding $\mathbb{R}^n$. More examples:
 
-- Clearly, $\mathbb{R}^n$ is an _n_-dimensional manifold.
+
 - An _n_-sphere
 - An _n_-torus
 - Direct product of two manifolds
