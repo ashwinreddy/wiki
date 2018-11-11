@@ -11,3 +11,9 @@ A dual vector, covector, 1-form is written
 \\[
 \alpha = \alpha_i dx^i
 \\]
+
+So then a dot product looks like
+
+\\[
+\alpha\cdot v = \alpha_i dx^i v^i \frac{\partial}{\partial x^i} = \alpha_i v^i
+\\]
