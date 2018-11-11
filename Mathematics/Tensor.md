@@ -34,3 +34,12 @@ The most general second-order tensor is
 \begin{equation}
 T = T^{ij}e_i \otimes e_j
 \end{equation}
+
+# Symmetric and Antisymmetric
+
+\\[
+t_{ab} = \frac{1}{2}\left(t_{ab}+t_{ba}\right) +  \frac{1}{2}\left(t_{ab}-t_{ba}\right)
+\\]
+
+
+
