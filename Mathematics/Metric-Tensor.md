@@ -1,4 +1,12 @@
-The metric tensor is a function $g: V \times V \to \mathbb R$ that measures arclengths in a given coordinate system. The metric tensor actually readily encodes differential arc length at a point $x$:
+The metric tensor is a function $g: V \times V \to \mathbb R$ that measures arclengths in a given coordinate system. Perhaps the most straightforward to compute it is with the [[jacobian]]
+
+
+
+\begin{equation}
+g = J^\mathsf{T}J
+\end{equation}
+
+The metric tensor actually readily encodes differential arc length at a point $x$:
 
 \begin{equation}
 (\mathrm{d}s)^2 = g_{ij}(x)\mathrm{d}x^i\mathrm{d}x^j
@@ -21,7 +29,7 @@ L &= \int \,\mathrm{d}s \\\
 &= \int\limits_{t\sb{1}}^{t_2} \sqrt{g_{ij}\frac{\mathrm{d}x^i}{\mathrm{d}t}\frac{\mathrm{d}x^j}{\mathrm{d}t}}\,\mathrm{d}t
 \end{align}
 
-Properties:
+# Properties
 
 - bilinear
 - symmetric
@@ -29,8 +37,3 @@ Properties:
 
 
 
-
-
-\begin{equation}
-g = J^\mathsf{T}J
-\end{equation}
