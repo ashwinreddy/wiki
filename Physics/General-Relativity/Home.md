@@ -7,8 +7,7 @@ m\vec{g}=m\vec{a} \\\
 \vec{g}=\vec{a}
 \\]
 
-
-
+This suggests something special about the gravitational force. Einstein actually concluded that the better way of understanding this phenomenon is to imagine that space is curved so that gravity **is** just acceleration.
 
 Three underlying ideas:
 
