@@ -42,4 +42,4 @@ For $\mathbb{R}^3$, all 2-forms can be written as
 
 # Types of Forms
 
-A form $\alpha$ is closed if $d\alpha = 0$. It is exact if $a = d\beta$ for some form $\beta$.
+A form $\alpha$ is closed if $d\alpha = 0$. It is exact if $a = d\beta$ for some form $\beta$. Every exact form is closed.
