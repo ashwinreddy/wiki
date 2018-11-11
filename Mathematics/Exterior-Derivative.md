@@ -12,7 +12,7 @@ The operator is also nilpotent, that is,
 \mathrm{d}(\mathrm{d}f)=0
 \end{equation}
 
-This is usually summarized succinctly with
+This is usually summarized succinctly (although somewhat ambiguously) with
 
 \\[
 d^2 = 0
