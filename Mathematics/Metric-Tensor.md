@@ -29,6 +29,20 @@ L &= \int \,\mathrm{d}s \\\
 &= \int\limits_{t\sb{1}}^{t_2} \sqrt{g_{ij}\frac{\mathrm{d}x^i}{\mathrm{d}t}\frac{\mathrm{d}x^j}{\mathrm{d}t}}\,\mathrm{d}t
 \end{align}
 
+# First Principles
+
+The arclength interpretation is rather obvious if one considers $ds$:
+
+\\[
+ds = \vec{e}_a dx^a
+\\]
+
+Then,
+
+\\[
+ds^2 = \left(\vec{e}_a dx^a\right)\left(\vec{e}_b dx^b\right) = \vec{e}_a\vec{e}_b dx^adx^b = g_{ab}dx^adx^b
+\\]
+
 # Properties
 
 - bilinear
