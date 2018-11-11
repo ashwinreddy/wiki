@@ -11,3 +11,5 @@ Examples:
 - rational numbers
 - real numbers
 - complex numbers
+
+Every field is a [[ring]].
