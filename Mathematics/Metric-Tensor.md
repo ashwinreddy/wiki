@@ -40,7 +40,7 @@ ds = \vec{e}_a dx^a
 Then,
 
 \\[
-ds^2 = \left(\vec{e}_a dx^a\right)\left(\vec{e}_b dx^b\right) = \vec{e}_a\vec{e}_b dx^adx^b = g_{ab}dx^adx^b
+ds^2 = \left(\vec{e}_a dx^a\right)\left(\vec{e}_b dx^b\right) = \vec{e}_a\vec{e}_b dx^adx^b = g\sb{ab}dx^adx^b
 \\]
 
 # Properties
