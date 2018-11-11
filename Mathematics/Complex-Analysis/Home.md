@@ -1,3 +1,12 @@
+Integration:
+
+\\[
+\int_\gamma f(z) dz = \int\limits_{t_0}^{t} f(z) \frac{dz}{dt}dt
+\\]
+
+
+
+
 Cauchy–Goursat theorem:
 
 For a path $\gamma$ and a holomorphic $f$,
