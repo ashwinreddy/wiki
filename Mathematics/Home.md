@@ -2,3 +2,7 @@
 - [Complex Analysis](./Complex Analysis/)
 - [Differential Forms](./Differential Forms/)
 - [Differential Geometry](./Differential Geometry/)
+- [Group Theory](./Group Theory/)
+- [Measure Theory](./Measure Theory/)
+- [PDEs](./PDEs/)
+- [Topology](./Topology/)
