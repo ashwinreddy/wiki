@@ -6,6 +6,8 @@ A vector is written
 v = v^{i} \frac{\partial}{\partial x^i}
 \\]
 
+In other words, the basis vectors for a coordinate system are its partial derivatives.
+
 A dual vector, covector, 1-form is written
 
 \\[
