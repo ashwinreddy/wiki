@@ -40,13 +40,6 @@ For $\mathbb{R}^3$, all 2-forms can be written as
 \beta = a dy \wedge dz + b dz \wedge dx + c dx \wedge dy
 \\]
 
-# Closed Form
+# Types of Forms
 
-If $\alpha = f(x,y)dx + g(x,y)dy$, a closed form is
-
-$$
-\frac{\partial g}{\partial x} = \frac{\partial f}{\partial y}
-$$
-
-Generally, a closed form has a exterior derivative of 0.
-
+A form $\alpha$ is closed if $d\alpha = 0$. It is exact if $a = d\beta$ for some form $\beta$.
