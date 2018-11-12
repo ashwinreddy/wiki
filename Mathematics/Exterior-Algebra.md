@@ -1,1 +1,3 @@
- Lambda^pV= tensor ^pV/W_p, 
+\\[
+\Lambda^pV= \otimes^p V/W_p
+\\]
