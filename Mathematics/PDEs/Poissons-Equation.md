@@ -1,4 +1,4 @@
-$\varOmega$
+$\Omega\varOmega$
 
 \\[
 \nabla^2 \varphi = f
