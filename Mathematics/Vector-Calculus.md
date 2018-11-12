@@ -1,6 +1,6 @@
 
 \begin{equation}
-\int_C \vec\nabla f \cdot \mathrm{d}\vec{r} = f(b) - f(a)
+\int_C \vec\nabla f \bullet \mathrm{d}\vec{r} = f(b) - f(a)
 \end{equation}
 
 \begin{equation}
