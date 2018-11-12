@@ -10,6 +10,8 @@
 \nabla^2 \Phi = 4\pi G \rho
 \\]
 
+
+
 # Electrostatics
 
 \\[
