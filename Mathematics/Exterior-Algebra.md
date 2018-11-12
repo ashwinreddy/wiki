@@ -1,0 +1,1 @@
+ Lambda^pV= tensor ^pV/W_p, 
