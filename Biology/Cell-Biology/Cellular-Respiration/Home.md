@@ -16,3 +16,7 @@ There are three main stages to cellular respiration:
 
 
 phosphofructokinase allosterically regulates ATP (feedback inhibition)
+
+# Ecosystem
+
+Together with [photosynthesis](../Photosynthesis/)
