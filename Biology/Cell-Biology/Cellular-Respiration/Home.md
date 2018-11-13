@@ -21,6 +21,12 @@ There are three main stages to cellular respiration:
 
 phosphofructokinase allosterically regulates ATP (feedback inhibition)
 
+# Macromolecule Breakdown
+
+Obviously, carbohydrates can be broken into glucose, where glycolysis will begin. Proteins are broken into amino acids and can be converted to intermediates of glycolysis and citric acid cycle but first they have to be deamination (remove amino groups). nitrogenous waste excreted by urea or waste products
+
+Fats: glycerol to g3p in glycoslysis and beta oxidation on fatty acids to enter citric acid cycle as acetyl coa.
+
 # Organisms
 
 Obligate anaerobes carry out only fermentation or anaerobic respiration. Facltative anaerobes make enough ATP to survive using either fermentation or respiration.
