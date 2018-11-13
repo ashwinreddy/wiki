@@ -1,6 +1,6 @@
 **Photosynthesis** is how plants convert light energy to chemical energy in the form of G3P sugar.
 
-[[https://qph.fs.quoracdn.net/main-qimg-1cf547fc0bfa99759395f095fac420e4]]
+![](https://qph.fs.quoracdn.net/main-qimg-1cf547fc0bfa99759395f095fac420e4)
 
 1. Light-dependent or just light reactions
 2. Light-independent reactions or Calvin cycle
