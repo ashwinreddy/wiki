@@ -10,6 +10,6 @@ To summarize,
 
 Glycolysis releases less than 25% of the chemical energy in glucose that can be harvested by cells; most of the energy remains stockpiled in the two molecules of pyruvate.
 
-The next step, if $\ce{O2}$ is present, is [[pyruvate oxidation]]
+The next step, if $\ce{O2}$ is present, is [[pyruvate oxidation]].
 
 Phosphofructokinase is a kinase enzyme that phosphorylates fructose 6-phosphate in glycolysis.
