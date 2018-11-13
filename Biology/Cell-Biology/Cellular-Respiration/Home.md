@@ -4,6 +4,8 @@
 \overbrace{\ce{C6H12O6}}^\text{sugar}+\overbrace{\ce{O2}}^\text{oxygen}\to \overbrace{\ce{CO2}}^{\text{carbon dioxide}}+\overbrace{\ce{H2O}}^{\text{water}} \qquad \Delta G < 0
 \end{equation}
 
+As a [[redox]] reaction
+
 The catabolic pathways involved here turn sugar, a relatively complex organic molecule, into simple products with less free energy. The difference in free energy is available to do work. 
 
 Some of the energy on the right hand side is used to make ATP and some is released as heat. 
