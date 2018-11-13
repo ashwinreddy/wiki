@@ -15,6 +15,6 @@ How do they get their inputs?
 |-----|-----|
 |Water|Roots|
 |CO2|Outside via stomata|
-|Light|[[Chloroplasts]]|
+|Light|[[Chloroplast]]s|
 
 Plants get water from their roots through xylem. Stomata lets CO2 in and O2 out (plants need O2 levels low). 
