@@ -5,7 +5,7 @@
 \label{cellrep}
 \end{equation}
 
-In Equation $\eqref{cellrep}$, a [[redox]] reaction, the fuel (i.e. glucose) is oxidized and oxygen is reduced. In othe words, the electrons are stripped from glucose and given to carbon dioxide. We also note that oxygen will gain/pull electrons to become water.
+In Equation $\eqref{cellrep}$, a [[redox]] reaction, the fuel (i.e. [[glucose]]) is oxidized and oxygen is reduced. In othe words, the electrons are stripped from glucose and given to carbon dioxide. We also note that oxygen will gain/pull electrons to become water.
 
 The catabolic pathways involved here turn sugar, a relatively complex organic molecule, into simple products with less free energy. The difference in free energy is available to do work. 
 
