@@ -1,4 +1,4 @@
-**Glycolysis** (sugar-breaking), which occurs in the cytosol, breaks glucose into pyruvate. Glycolysis occurs for all organisms whether there is $\ce{O2}$ is present or not (i.e. aerobic process). We can separate glycolysis into two phases:
+**Glycolysis** (sugar-breaking), which occurs in the cytosol, breaks [[glucose]] into pyruvate. Glycolysis occurs for all organisms whether there is $\ce{O2}$ is present or not (i.e. aerobic process). We can separate glycolysis into two phases:
 
 1. Energy investment. In this phase, the cell spends 2 ATP per glucose.
 2. Energy payoff
