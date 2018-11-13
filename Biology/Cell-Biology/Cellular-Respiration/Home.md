@@ -1,4 +1,4 @@
-**Cellular respiration** provides the energy cells need to do work, whether chemical, mechanical, etc. It is essentially the breakdown of food. Cellular respiration includes both aerobic and anaerobic catabolic (metabolic breakdown to release energy) reactions to release energy that generates ATP, although aerobic respiration is much more efficient. It is useful to imagine aerobic respiration as analogous to combustion in an automobile. The general equation for cellular respiration follows:
+**Cellular respiration** provides the [[energy]] cells need to do work, whether chemical, mechanical, etc. It is essentially the breakdown of food. Cellular respiration includes both aerobic and anaerobic catabolic (metabolic breakdown to release energy) reactions to release energy that generates ATP, although aerobic respiration is much more efficient. It is useful to imagine aerobic respiration as analogous to combustion in an automobile. The general equation for cellular respiration follows:
 
 \begin{equation}
 \ce{C6H12O6}+\ce{O2}\to \ce{CO2}+\ce{H2O} \qquad \Delta G < 0
