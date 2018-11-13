@@ -1,15 +1,12 @@
-**Glycolysis** (sugar-breaking), which occurs in the cytosol, breaks [[glucose]] into pyruvate. Glycolysis occurs for all organisms whether there is $\ce{O2}$ is present or not (i.e. aerobic process). We can separate glycolysis into two phases:
+**Glycolysis** (sugar-breaking), which occurs in the cytosol, breaks [[glucose]] into pyruvate. Glycolysis occurs for all organisms whether there is $\ce{O2}$ is present or not (i.e. aerobic process). We can separate glycolysis into two phases (we will look at what happens per 1 glucose molecule):
 
-1. Energy investment. In this phase, the cell spends 2 ATP per glucose.
-2. Energy payoff
+1. Energy investment. 2 ATP are spent.
+2. Energy payoff. 4 ATP are regenerated and 2 NAD+ reduced, creating 2 pyruvate and 2 $\ce{H2O}$.
 
-# Energy payoff
-
-The energy invested is used to regenerate ATPs from ADP in substrate-level phosphorylation. Additionally, 2 NAD+ molecules are reduced through the oxidation of glucose.
-
-# Net Results
-
-Each glucose is separated into 2 pyruvates and 2 water molecules. 4 ATPs are formed, but 2 ATPs were needed during the investment phase. 2 ATPs on net are generated. Finally, 2 NADH molecules and 2 H+ were created.
+To summarize,
+\begin{align*}
+\text{Glucose} \to 
+\end{align*}
 
 # Efficiency
 
