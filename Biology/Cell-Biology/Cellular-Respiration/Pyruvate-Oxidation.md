@@ -17,4 +17,6 @@ So far, including glycolysis products, we have:
 
 and we made 2 ATP already for the cell to use
 
+Acetyl CoA has a high potential energy, which is used to transfer the acetyl group to a molecule in the citric acid cycle, a reaction that is therefore highly exergonic.
+
 The next step is the [[citric acid cycle]].
