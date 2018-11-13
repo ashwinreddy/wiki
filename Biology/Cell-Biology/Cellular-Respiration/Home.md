@@ -1,7 +1,7 @@
 **Cellular respiration** provides the [[energy]] cells need to do work, whether chemical, mechanical, etc. It is essentially the breakdown of food. Cellular respiration includes both aerobic and anaerobic catabolic (metabolic breakdown to release energy) reactions to release energy that generates ATP, although aerobic respiration is much more efficient. It is useful to imagine aerobic respiration as analogous to combustion in an automobile. The general equation for cellular respiration follows:
 
 \begin{equation}
-\ce{C6H12O6}+\ce{O2}\to \ce{CO2}+\ce{H2O} \qquad \Delta G < 0
+\overbrace{\ce{C6H12O6}}^\text{sugar}+\overbrace{\ce{O2}}^\text{oxygen}\to \overbrace{\ce{CO2}}^{\text{carbon dioxide}}+\overbrace{\ce{H2O}}^{\text{water}} \qquad \Delta G < 0
 \end{equation}
 
 The catabolic pathways involved here turn sugar, a relatively complex organic molecule, into simple products with less free energy. The difference in free energy is available to do work. 
