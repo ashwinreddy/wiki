@@ -9,6 +9,7 @@ In Equation $\eqref{cellrep}$, a [[redox]] reaction, the fuel (i.e. [[glucose]])
 
 The catabolic pathways involved here turn sugar, a relatively complex organic molecule, into simple products with less free energy. The difference in free energy is available to do work. 
 
+During cellular respiration, most electrons travel down the following downhill energy route: glucose, NADH, ETC, oxygen.
 
 
 There are three main stages to cellular respiration:
