@@ -5,8 +5,9 @@ Firstly, pyruvate enters the mitochondrion of eukaryotic cells via a transport p
 What exactly goes into and comes out pyruvate oxidation?
 
 1. One of the carbons on the three carbon chain of pyruvate bonds with an oxygen and leaves the cell as $\ce{CO2}$
-2. What's left is Acetyl CoA
-3. An NAD+ picks up hydrogen to make NADH
+2. An NAD+ picks up hydrogen to make NADH
+3. What's left is Acetyl CoA
+
 
 [[https://ka-perseus-images.s3.amazonaws.com/a93caa9342414da215594680e06b0e25a4fca5eb.png]]
 
