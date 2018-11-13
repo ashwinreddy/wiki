@@ -4,9 +4,9 @@
 2. Energy payoff. 4 ATP are regenerated and 2 NAD+ reduced, creating 2 pyruvate and 2 $\ce{H2O}$.
 
 To summarize,
-\begin{align*}
-\text{Glucose} \to 
-\end{align*}
+\begin{align}
+\text{Glucose} \to 2\,\text{Pyruvate} + \ce{2H2O} + 2\,\text{ATP}+2\,\text{NADH} + 2\,\ce{H+} \\\
+\end{align}
 
 # Efficiency
 
