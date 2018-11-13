@@ -21,6 +21,10 @@ There are three main stages to cellular respiration:
 
 phosphofructokinase allosterically regulates ATP (feedback inhibition)
 
+# Organisms
+
+Obligate anaerobes carry out only fermentation or anaerobic respiration. Facltative anaerobes make enough ATP to survive using either fermentation or respiration.
+
 # Ecosystem
 
 Cellular respiration and [photosynthesis](../Photosynthesis/) together are the mechanisms for making energy in plants and animals. The energy stored in organic molecules ultimately come from the sun. 
