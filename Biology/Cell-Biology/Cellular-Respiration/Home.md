@@ -19,4 +19,7 @@ phosphofructokinase allosterically regulates ATP (feedback inhibition)
 
 # Ecosystem
 
-Together with [photosynthesis](../Photosynthesis/)
+Cellular respiration and [photosynthesis](../Photosynthesis/) together are the mechanisms for making energy in plants and animals. The energy stored in organic molecules ultimately come from the sun. 
+
+
+
