@@ -2,9 +2,8 @@ In **pyruvate oxidation** (aka link reaction), the pyruvate products from [[glyc
 
 Firstly, pyruvate enters the mitochondrion of eukaryotic cells via a transport protein because pyruvate is a charged molecule. 
 
-What exactly goes into and comes out pyruvate oxidation?
-
-1. One of the carbons on the three carbon chain of pyruvate bonds with an oxygen and leaves the cell as $\ce{CO2}$
+What exactly goes into and comes out pyruvate oxidation? A complex of several enzymes (pyruvate dehydrogenase complex) catalyzes these steps:
+1. One of the carbons on the three carbon chain of pyruvate bonds with an oxygen and leaves the cell as $\ce{CO2}$ by diffusion.
 2. An NAD+ picks up hydrogen to make NADH
 3. What's left is Acetyl CoA
 
