@@ -8,6 +8,8 @@ What exactly goes into and comes out pyruvate oxidation?
 2. What's left is Acetyl CoA
 3. An NAD+ picks up hydrogen to make NADH
 
+[[https://ka-perseus-images.s3.amazonaws.com/a93caa9342414da215594680e06b0e25a4fca5eb.png]]
+
 So far, including glycolysis products, we have:
 
 - 4 NADH
