@@ -4,4 +4,4 @@ Organisms that use fermentation do so because they don't have an ETC, but they s
 
 In alcohol fermentation, pyruvate is decomposed into acetaldehyde, which acts as an electron acceptor. Then it can give its electrons to NADH (i.e. oxidize it) to turn it back into NAD+. Alcohol is a waste product, but humans use it for food and stuff.
 
-In lactic acid fermentation, pyruvate is the electron acceptor and lactate is made instead.
+In lactic acid fermentation, pyruvate is the electron acceptor and lactate is made instead. Used by muscle cells and yogurt bacteria
