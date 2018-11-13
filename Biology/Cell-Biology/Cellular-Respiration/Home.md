@@ -2,9 +2,10 @@
 
 \begin{equation}
 \overbrace{\ce{C6H12O6}}^\text{sugar}+\overbrace{\ce{O2}}^\text{oxygen}\to \overbrace{\ce{CO2}}^{\text{carbon dioxide}}+\overbrace{\ce{H2O}}^{\text{water}} \qquad \Delta G < 0
+\label{cellrep}
 \end{equation}
 
-As a [[redox]] reaction
+As a [[redox]] reaction, we can tell that $\eqref{cellrep}$
 
 The catabolic pathways involved here turn sugar, a relatively complex organic molecule, into simple products with less free energy. The difference in free energy is available to do work. 
 
