@@ -16,7 +16,7 @@ There are three main stages to cellular respiration:
 
 1. [[Glycolysis]]
 2. Pyruvate Oxidation and the [[Citric Acid Cycle]]
-3. Oxidative Phosphorylation
+3. [[Oxidative Phosphorylation]]
 
 
 phosphofructokinase allosterically regulates ATP (feedback inhibition)
