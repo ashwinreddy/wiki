@@ -8,8 +8,8 @@ To summarize,
 \text{Glucose} \to 2\,\text{Pyruvate} + \ce{2H2O} + 2\,\text{ATP}+2\,\text{NADH} + 2\,\ce{H+} \\\
 \end{align}
 
-# Efficiency
-
 Glycolysis releases less than 25% of the chemical energy in glucose that can be harvested by cells; most of the energy remains stockpiled in the two molecules of pyruvate.
+
+When $\ce{O2}$ is present, the pyruvate in eukaryotic cells
 
 Phosphofructokinase is a kinase enzyme that phosphorylates fructose 6-phosphate in glycolysis.
