@@ -1,5 +1,7 @@
 All organic compounds contain hydrogen and carbon.
 
+Organic compounds possess potential energy as a result of the arrangement of electrons in the bonds between their atoms.
+
 # Stanley Miller's Experiment
 
 Stanley Miller created a closed system that roughly mimicked what we believed the conditions of early Earth were like.
