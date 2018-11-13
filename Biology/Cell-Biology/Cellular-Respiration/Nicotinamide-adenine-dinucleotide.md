@@ -1,1 +1,5 @@
 **Nicotinamide adenine dinucleotide** is a coenzyme and a derivative of the vitamin niacin. It is well suited as an electron carrier because it can cycle easily between its oxidized form NAD+ and its reduced form NADH. As an electron acceptor, NAD+ functions as an oxidizing agent during [cellular respiration](./).
+
+\\[
+\text{NAD}^+ + \ce{H+} + \ce{2e-} \longrightarrow \text{NADH}
+\\]
