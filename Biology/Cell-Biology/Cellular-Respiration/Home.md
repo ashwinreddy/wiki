@@ -5,7 +5,7 @@
 \label{cellrep}
 \end{equation}
 
-As a [[redox]] reaction, we can tell that $\eqref{cellrep}$
+As a [[redox]] reaction, we can tell that Equation $\eqref{cellrep}$
 
 The catabolic pathways involved here turn sugar, a relatively complex organic molecule, into simple products with less free energy. The difference in free energy is available to do work. 
 
