@@ -19,7 +19,11 @@ There are three main stages to cellular respiration:
 3. [[Oxidative Phosphorylation]]
 
 
-phosphofructokinase allosterically regulates ATP (feedback inhibition)
+
+
+# Regulation
+
+If the cell doesn't have enough ATP, then AMP stimulates phosphofructokinase, which catalyzes a step in glycolysis. But citrate (made in citric acid cycle) and ATP inhibit it. Allosterically regulated to prevent excess ATP from floating around.
 
 # Macromolecule Breakdown
 
@@ -34,6 +38,4 @@ Obligate anaerobes carry out only fermentation or anaerobic respiration. Facltat
 # Ecosystem
 
 Cellular respiration and [photosynthesis](../Photosynthesis/) together are the mechanisms for making energy in plants and animals. The energy stored in organic molecules ultimately come from the sun. 
-
-
 
