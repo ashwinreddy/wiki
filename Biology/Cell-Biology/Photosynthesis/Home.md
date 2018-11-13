@@ -2,8 +2,8 @@
 
 ![](https://qph.fs.quoracdn.net/main-qimg-1cf547fc0bfa99759395f095fac420e4)
 
-1. Light-dependent or just light reactions
-2. Light-independent reactions or Calvin cycle
+1. The light reactions use light as well as water to provide energy in the form of ATP and NADPH, producing oxygen as waste product.
+2. The light-independent reactions or Calvin cycle use that energy to make G3P from $\ce{CO2}$.
 
 The overall reaction follows:
 
