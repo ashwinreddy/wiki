@@ -2,6 +2,8 @@ A **curve** is defined by a map $\gamma: I \to X$ for an interval $I$ of the rea
 
 A simple curve is injective. If $I$ is a $[a,b]$, we allow $\gamma(a)=\gamma(b)$.
 
+Length of the curve is given by
+
 \\[
 L = \int_a^b \alpha'(t)dt
 \\]
