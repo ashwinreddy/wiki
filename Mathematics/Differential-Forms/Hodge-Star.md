@@ -5,5 +5,5 @@ The **Hodge star** is a linear map that sends a $k$-form to a $(n-k)$-form for a
 \\]
 
 \\[
-\star^2 = I
+\star(\star \omega) = \omega \implies \star^2 = I
 \\]
