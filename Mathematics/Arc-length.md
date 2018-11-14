@@ -12,5 +12,5 @@ Every regular curve can be parameterized with arc length. It's not a unique para
 Example: Line
 
 \\[
-\alpha(t) = \vec{v}t + \vec{v}_0
+\alpha(t) = t\vec{v} + \vec{v}_0
 \\]
