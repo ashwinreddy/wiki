@@ -1,0 +1,1 @@
+A **curve** is defined by a map $\gamma: I \to X$ for an interval $I$ of the real numbers into a [[topological space]] $X$.
