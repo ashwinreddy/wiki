@@ -1,5 +1,5 @@
 \begin{aligned}
-dTds = kN \\\
-dNds = -kT+tB \\\
-dBds = -tN
+\frac{dT}{ds} &= kN \\\
+\frac{dN}{ds} &= -kT+tB \\\
+\frac{dB}{ds} &= -tN
 \end{aligned}
