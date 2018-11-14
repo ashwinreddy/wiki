@@ -23,4 +23,9 @@ So then a dot product looks like
 
 # Types of Forms
 
-A form $\alpha$ is closed if $d\alpha = 0$. It is exact if $a = d\beta$ for some form $\beta$. Every exact form is closed. By the Poincare lemma, every closed form on a contractible domain is exact.
+A form $\alpha$ is closed if $d\alpha = 0$. It is exact if $a = d\beta$ for some form $\beta$. Every exact form is closed. By the Poincare lemma, every closed form on a contractible domain is exact. An operational definition for exact is 
+
+\\[
+\frac{\partial \alpha_i}{\partial x_j} = \frac{\partial \alpha_j}{\partial x_i}
+\\]
+
