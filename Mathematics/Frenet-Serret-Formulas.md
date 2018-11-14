@@ -9,3 +9,4 @@ So one way to define torsion is
 \\[
 \tau = - \vec{N}\cdot\vec{B}'
 \\]
+
