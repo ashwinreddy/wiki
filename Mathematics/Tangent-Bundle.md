@@ -1,0 +1,1 @@
+The **tangent bundle** of a differentiable manifold $M$ is the collection of [[tangent space]]s
