@@ -4,6 +4,11 @@ The exterior derivative of a [[differential form]] of degree _k_ is a differenti
 \mathrm{d}f = \frac{\partial f}{\partial x_i}\mathrm{d}x_i = \vec\nabla f \cdot d\vec{r}
 \end{equation}
 
+let f be a function and $\alpha$ a form just involving dx, dy, dz, and $\wedge$
+\\[
+d(f\alpha) = df \wedge \alpha
+\\]
+
 It may be helpful to view $\mathrm{d}\omega$ as $\mathrm{d}\wedge\omega$.
 
 The operator is also nilpotent, that is,
