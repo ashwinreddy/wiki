@@ -1,4 +1,4 @@
-A **field** is a set on which two binary operators addition and multiplication are defined so that 
+A **field** is a [[set]] on which two binary operators addition and multiplication are defined so that 
 
 a) both operations are commutative
 b) are associative
