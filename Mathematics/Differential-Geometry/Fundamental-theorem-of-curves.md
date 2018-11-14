@@ -1,1 +1,1 @@
-The **fundamental theorem of space curves** states that every regular curve in three-dimensional space, with non-zero curvature, has its shape (and size) completely determined by its curvature and torsion.
+The **fundamental theorem of space curves** states that every regular curve in three-dimensional space, with non-zero curvature, has its shape (and size) completely determined by its [[curvature]] and [[torsion]].
