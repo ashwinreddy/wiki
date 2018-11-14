@@ -3,7 +3,7 @@ A **function** is a mapping between two sets that only returns one output for a 
 # Classifications
 
 Injective
-  : A function where the output can be traced back to its input without ambiguity
+  : A function where the output can be traced back to its input without ambiguity. $f(x)=f(y)\implies x = y$.
   
 Surjective
   : A function which fills its codomain (i.e. the image is the codomain)
