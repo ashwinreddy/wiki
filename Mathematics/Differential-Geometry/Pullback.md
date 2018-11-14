@@ -1,4 +1,4 @@
-In [differential geometry](./Home), **pullbacks** are a generalization of [integration by substitution](../Integral#integration-by-substitution). As Tao summarizes,
+In [differential geometry](./Home), **pullbacks** are a generalization of [integration by substitution](../Calculus/Integral#integration-by-substitution). As Tao summarizes,
 
 \\[
 \int_{\Phi(S)}\omega = \int_S \Phi^*(\omega)
