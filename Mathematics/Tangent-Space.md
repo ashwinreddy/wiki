@@ -1,4 +1,4 @@
-The **tangent space** generates a vector field on a manifold.
+The **tangent space** generates a vector field on a manifold of [[tangent vector]]s.
 
 
 
