@@ -3,3 +3,7 @@ The **Hodge star** is a linear map that sends a $k$-form to a $(n-k)$-form for a
 \\[
 \vec{u}\times\vec{v} = \star\left(\vec{u}\wedge\vec{v}\right)
 \\]
+
+\\[
+\star^2 = I
+\\]
