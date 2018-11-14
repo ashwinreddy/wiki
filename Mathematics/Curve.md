@@ -19,3 +19,5 @@ But we're kind of assuming we have a nice parameterization like
 \\[
 \alpha(t) = t\vec{v} + \vec{v}_0
 \\]
+
+What if the particle backtracks? 
