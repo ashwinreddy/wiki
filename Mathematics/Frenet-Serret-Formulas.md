@@ -1,5 +1,5 @@
 \begin{aligned}
-\frac{dT}{ds} &= kN \\\
-\frac{dN}{ds} &= -kT+tB \\\
-\frac{dB}{ds} &= -tN
+\frac{dT}{ds} &= \kappa N \\\
+\frac{dN}{ds} &= -\kappa T+ \tau B \\\
+\frac{dB}{ds} &= -\tau N
 \end{aligned}
