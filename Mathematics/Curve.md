@@ -9,6 +9,7 @@ Simple Curve
 Jordan Curve
   : A simple closed curve.
 
+It is a theorem that a Jordan curve divides the plane into an interior and exterior region.
 
 Length of the curve is given by
 
