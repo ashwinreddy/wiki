@@ -1,4 +1,4 @@
-A **vector space** is a set $V$ equipped with operators $+:V \times V \to V$ and a $\cdot: \mathbb{R}\times V \to V$ satisfying the vector space axioms.
+A **vector space** is a [[set]] $V$ equipped with operators $+:V \times V \to V$ and a $\cdot: \mathbb{R}\times V \to V$ satisfying the vector space axioms.
 
 
 
