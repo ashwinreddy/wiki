@@ -23,4 +23,5 @@ But we're kind of assuming we have a nice parameterization like
 
 What if the particle backtracks? 
 
-A regular curve is one where $\vert\alpha'(t)\vert\neq 0$.
+Regular curve
+  : curve where $\vert\alpha'(t)\vert\neq 0$.
