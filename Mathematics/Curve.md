@@ -21,3 +21,5 @@ But we're kind of assuming we have a nice parameterization like
 \\]
 
 What if the particle backtracks? 
+
+A regular curve is one where $|\alpha'(t)|\neq 0$.
