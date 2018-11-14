@@ -14,3 +14,5 @@ Example: Line
 \\[
 \alpha(t) = t\vec{v} + \vec{v}_0
 \\]
+
+Implicit assumption that $\vec{v}$ is never 0. But $s(t)=t\vert v \vert$.
