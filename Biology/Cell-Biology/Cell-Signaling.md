@@ -35,7 +35,7 @@ Examples:
 
 - Diabetes
 - Cholera
-Bacteria colonizes lining of small intestine and produces toxin. Toxinmodifiesi G-proteininclolved in regulating salt and water secretion. G protein stuck in active form $\to$ intestinal cells secrete salts, water
+Bacteria colonizes lining of small intestine and produces toxin. Toxinmodifiesi G-protein involved in regulating salt and water secretion. G protein stuck in active form $\to$ intestinal cells secrete salts, water
 
 - Cancer
 - Poison
