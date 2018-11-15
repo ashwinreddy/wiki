@@ -42,3 +42,5 @@ Bacteria colonizes lining of small intestine and produces toxin. Toxinmodifiesi 
 - Drugs like anesthetics, antihistamines
 
 
+Viagra inhibits hydrolysis of cGMP to GMP.
+
