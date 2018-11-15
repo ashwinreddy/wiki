@@ -37,4 +37,6 @@ Examples:
 - Cholera
 - Cancer
 - Poison
+- Drugs like anesthetics, antihistamines
+
 
