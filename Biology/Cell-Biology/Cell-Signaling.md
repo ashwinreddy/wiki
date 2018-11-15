@@ -22,3 +22,19 @@ Cascades of molecular interactions relay signals from receptors
 Protein kinase is an enzyme that phosphorylates and activates proteins at next level
 
 Phosphorylation cascades enhance and amplify signal. 
+
+# Response
+
+Gene expression - turning on or off a gene
+
+Make a protein functional.
+
+# Problems
+
+Examples:
+
+- Diabetes
+- Cholera
+- Cancer
+- Poison
+
