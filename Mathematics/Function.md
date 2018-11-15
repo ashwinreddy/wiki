@@ -1,4 +1,4 @@
-A **function** is a mapping between two sets that only returns one output for a given input.
+A **function** is a mapping between two [[set]]s that only returns one output for a given input.
 
 # Classifications
 
