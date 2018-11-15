@@ -10,7 +10,7 @@ activated relay molecule makes inactive protein kinase active. Protein kinase ph
 
 Calcium and cyclic AMP can be a second messenger
 
-second messenger
+Second Messenger
   : Small nonprotein molecules/ions that can relay signal inside cell.
 
 # Transduction
