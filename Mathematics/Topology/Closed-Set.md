@@ -1,1 +1,1 @@
-A set $A$ is a closed set if $M \setminus A \in O$
+A set $A$ is a closed set if $M \setminus A \in O$.
