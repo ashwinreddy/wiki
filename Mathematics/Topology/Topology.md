@@ -7,8 +7,8 @@ A **topology** is the weakest structure that can be imposed upon a set to establ
 A topology on a set $M$ is an $\mathcal{O} \subseteq \mathscr{P}(M)$ ( $\mathcal{O}$ is a collection of subsets of $M$ ) if
 
 1. $\emptyset \in \mathcal{O}$ and $M \in \mathcal{O}$ (The empty set and $M$ itself belong to $\mathcal{O}$)
-2. $U, V \in \mathcal{O} \implies U \bigcap V \in \mathcal{O}$ (Any arbitrary (finite or infinite) union of members of $\tau$ still belongs to $\mathcal{O}$)
-3. $U \in \mathcal{O} \implies \bigcup_{\alpha \in A} U_\alpha \in \mathcal{O}$ (The intersection of any finite number of members of $\tau$ still belongs to $\mathcal{O}$)
+2. $U, V \in \mathcal{O} \implies U \bigcap V \in \mathcal{O}$ (The intersection of any finite number of members of $\tau$ still belongs to $\mathcal{O}$)
+3. $U \in \mathcal{O} \implies \bigcup_{\alpha \in A} U_\alpha \in \mathcal{O}$ (Any arbitrary (finite or infinite) union of members of $\tau$ still belongs to $\mathcal{O}$)
 
 This defines a [[topological space]].
 
