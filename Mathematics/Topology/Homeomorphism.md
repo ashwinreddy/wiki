@@ -1,4 +1,4 @@
-A **homeomorphism** is a function $f:X\to Y between two [[topological space]]s with the following properties:
+A **homeomorphism** is a function $f:X \to Y$ between two [[topological space]]s with the following properties:
 
 - $f$ is a bijection
 - $f$ is continuous
