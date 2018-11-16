@@ -38,3 +38,12 @@ If $f$ and $g$ are continuous maps, $g\circ f$ is continuous. [Proof](https://yo
 
 Suppose you've got an $M$ with a topology $\mathcal{O}_M$. For a subset $S \subseteq M$, can we inherit a subset from $\mathcal{O}_M$ in some meaningful way?
 
+
+\\[
+\mathcal{O}\vert_S \equiv \\{ U \cap S | U \in \mathcal{O}_M \\}
+\\]
+
+
+
+
+
