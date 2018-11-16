@@ -25,7 +25,7 @@ The standard topology over $M = \mathbb{R}^d$, denoted $\mathcal{O}_{\text{stand
 1. Construct a [[Metric Space]] by picking a [[metric]], Euclidean norm will do.
 2. $\forall x \in \mathbb{R}^d : \forall r \in \mathbb{R}^+$, define a **ball** of radius $r$ as 
 
-\\[B_r(x) := \\{y \in \mathbb{R}^d \vert d(x,y) < r\\}\\]
+\\[B_r(x) \equiv \\{y \in \mathbb{R}^d \vert d(x,y) < r\\}\\]
 
 3. $U \in \mathcal{O}_{\text{standard}} : \iff \forall p \in U: \exists r \in \mathbb{R}^+ : B_r(p) \subseteq U$
 
