@@ -1,5 +1,7 @@
 For a vector space $V$, the **dual vector space** $V^\ast$ is the [[homomorphism]] $\mathrm{Hom}(V, \mathbb{R})$, that is, a [[linear map]]. An element of $V^\ast$ is called a covector or a dual vector w.r.t. the vector space $V$.
 
+For a finite dimensional $V$, $(V^*)^*$ 
+
 **Example**. If $p$ is an element of the vector space of polynomials, $I = \int_0^1 \mathrm{d}x$ is a covector.
 
 The basis vectors for the dual space can be picked independently of the vector space. To be economical, we usually require that
