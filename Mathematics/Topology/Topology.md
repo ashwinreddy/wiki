@@ -1,4 +1,4 @@
-A **topology** is the weakest structure that can be imposed upon a set to establish a notion of continuity.
+A **topology** is the weakest structure that can be imposed upon a [[set]] to establish a notion of continuity.
 
 
 
