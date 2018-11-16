@@ -16,7 +16,7 @@ Intuition, $\mathcal{O}$ is a collection of subsets of $M$, satisfying the follo
 2. Any arbitrary (finite or infinite) union of members of $\tau$ still belongs to $\mathcal{O}$.
 3. The intersection of any finite number of members of $\tau$ still belongs to $\mathcal{O}$.
 
-This defines a [[topological space]]
+This defines a [[topological space]].
 
 # Examples
 
