@@ -1,1 +1,1 @@
-For a topological space $(M,\mathcal{O})$
+For a topological space $(M,\mathcal{O})$, $\mathcal{O}$ is the set of open sets on $M$.
