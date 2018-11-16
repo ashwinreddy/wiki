@@ -43,7 +43,9 @@ Suppose you've got an $M$ with a topology $\mathcal{O}_M$. For a subset $S \subs
 \mathcal{O}\vert_S \equiv \\{ U \cap S | U \in \mathcal{O}_M \\}
 \\]
 
+Inheriting the topology in this way allows one to make the following leap:
 
+If a function is continuous from $M$ to $N$ for their topologies, then for any $S \subseteq M$, $f(S)$ is continuous.
 
 
 
