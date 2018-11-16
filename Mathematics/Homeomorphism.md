@@ -1,3 +1,10 @@
+A **homeomorphism** is a function $f:X\to Y between two [[topological spaces]] with the following properties:
+
+- $f$ is a bijection
+- $f$ is continuous
+- $f^{-1}$ is continuous
+
+
 
 Examples:
 
