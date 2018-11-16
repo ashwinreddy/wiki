@@ -1,6 +1,4 @@
-**Curvature**
-
-from tangent vector
+**Curvature** is a scalar field of a curve, derived from the [[tangent vector]]
 
 \\[
 k(s) = \vert T'(s) \vert
