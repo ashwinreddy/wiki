@@ -34,14 +34,6 @@ The standard topology over $M = \mathbb{R}^d$, denoted $\mathcal{O}_{\text{stand
 3. $U \in \mathcal{O}_{\text{standard}} : \iff \forall p \in U: \exists r \in \mathbb{R}^+ : B_r(p) \subseteq U$
 
 
-# Classifications
-
-A subset $O \subseteq X$ is **open** if for every point $x \in O$, there is a ball around $x$ entirely contained in $O$.
-
-$A\subseteq M$ is a closed set iff $M \setminus A \in \mathcal{O}$.
-
-An open set does not imply a closed set. A closed set does not imply an open set.
-
 # Continuity
 
 Let $(M,\mathcal{O}_M)$ and $(N, \mathcal{O}_N)$ be topological spaces. Then a map $f: M \to N$ is continuous if $\forall V \in \mathcal{O}_N : \mathrm{preim}_f(V) \in \mathcal{O}_M.$
