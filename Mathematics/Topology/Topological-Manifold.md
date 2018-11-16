@@ -1,4 +1,4 @@
-A topological space $(M,\mathcal{O})$ is called a $d$-dimensional manifold if 
+A [[topological space]] $(M,\mathcal{O})$ is called a $d$-dimensional manifold if 
 
 \\[
 \forall p \in M: \exists U \in \mathcal{O}: \exists x: U \to x(U) \subseteq \mathbb{R}^d
