@@ -10,6 +10,13 @@ A topology on a set $M$ is an $\mathcal{O} \subseteq \mathscr{P}(M)$ if
 2. $U, V \in \mathcal{O} \implies U \bigcap V \in \mathcal{O}$
 3. $U \in \mathcal{O} \implies \bigcup_{\alpha \in A} U_\alpha \in \mathcal{O}$
 
+Intuition, $\mathcal{O}$ is a collection of subsets of $M$, satisfying the following axioms:
+
+1. The empty set and $M$ itself belong to $\mathcal{O}$.
+2. Any arbitrary (finite or infinite) union of members of $\tau$ still belongs to $\mathcal{O}$.
+3. The intersection of any finite number of members of $\tau$ still belongs to $\mathcal{O}$.
+
+
 # Topological Space
 
 The pair $(M,\mathcal{O})$ is then called a **topological space**.
