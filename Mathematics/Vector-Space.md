@@ -11,3 +11,6 @@ v^i = \vec{v}\cdot\vec\nabla x^i
 \end{equation}
 
 A subset $B \subset V$ of a vector space $V$ is a basis if for all vectors in $V$, there's a finite subset of $B$ such that the vectors can be uniquely written as a linear combination of basis vectors and components.
+
+If there exists a basis with finitely many elements, say $d$ many, then $\dim V \equiv d$.
+
