@@ -8,7 +8,9 @@ The maximal atlas contains all possible charts.
 
 An atlas is $\heartsuit$-compatible if any two charts in it are $\heartsuit$-compatible.
 
-Every atlas is $C^0$ atlas. 
+Every atlas is $C^0$ atlas.
+
+Ever $C^k$-atlas is uniquely smoothable to a $C^∞$-atlas.
 
 # Transition Map
 
