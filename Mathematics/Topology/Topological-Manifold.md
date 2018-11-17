@@ -5,3 +5,7 @@ A [[topological space]] $(M,\mathcal{O})$ is called a $d$-dimensional manifold i
 \\]
 
 and $x$ is invertible, continuous and $x^{-1}$ is continuous.
+
+# Compatible Manifold
+
+$(M, \mathcal{O}, \mathscr{A}_{\heartsuit})$
