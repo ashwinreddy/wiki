@@ -22,3 +22,6 @@ $\let\sb_$
 
 ---
 
+\\[
+\vartheta_{\gamma, p}(f) \equiv (f \circ \gamma)'(0) = (x \circ \gamma)^i\prime(0)(\partial_i (f\circ x^{-1}))(x(p))
+\\]
