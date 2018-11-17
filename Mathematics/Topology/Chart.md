@@ -1,1 +1,1 @@
-A **chart** $(U,\varphi)$ is a [[homeomorphism]] $\varphi$ from an open subset $U$ of $M$ to an open subset of a Euclidean space. A [[vector]] does not change under a change of chart. The $\varphi^i$ are the coordinate maps.
+A **chart** $(U,\varphi)$ is a [[homeomorphism]] $\varphi$ from an open subset $U$ of $M$ to an open subset of a Euclidean space. A vector does not change under a change of chart. The $\varphi^i$ are the coordinate maps.
