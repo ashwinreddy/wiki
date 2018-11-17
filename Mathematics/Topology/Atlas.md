@@ -10,7 +10,7 @@ An atlas is $\heartsuit$-compatible if any two charts in it are $\heartsuit$-com
 
 Every atlas is $C^0$ atlas.
 
-Ever $C^k$-atlas is uniquely smoothable to a $C^∞$-atlas.
+Ever $C^k$-atlas ($k \geq 1$) is uniquely smoothable to a $C^∞$-atlas.
 
 # Transition Map
 
