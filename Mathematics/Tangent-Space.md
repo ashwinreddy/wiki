@@ -1,7 +1,9 @@
 The **tangent space** generates a vector field on a manifold of [[tangent vector]]s.
 
+$\let\sb_$
+
 \\[
-\operatorname{T}_p M \equiv \\{\vartheta_{\gamma, p} | \gamma \text{ smooth} \\}
+\operatorname{T}\sb{p} M \equiv \\{\vartheta_{\gamma, p} | \gamma \text{ smooth} \\}
 \\]
 
 
