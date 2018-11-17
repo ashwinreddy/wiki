@@ -10,4 +10,4 @@ The maximal atlas contains all possible charts.
 \tau_{\alpha,\beta} = \varphi_\beta \circ \varphi_{\alpha}^{-1}
 \end{equation}
 
-All three are homeomorphisms.
+All three are [[homeomorphisms]].
