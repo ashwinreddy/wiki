@@ -4,5 +4,5 @@
 
 
 \\[
-\lim_{x\to 0}\frac{\sin x}{x} = \lim_{x\to 0}\frac{cos x}{1} = 1
+\lim_{x\to 0}\frac{\sin x}{x} = \lim_{x\to 0}\frac{\cos x}{1} = 1
 \\]
