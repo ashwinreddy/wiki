@@ -1,4 +1,4 @@
-An **atlas** consists of [[chart]]s that describe regions of a [[manifold]]. For a topological space $M$, the atlas is a collection $\\{(U_\alpha, \varphi_\alpha) \vert \alpha \in A\\}$ such that $\bigcup_{\alpha \in A}U_\alpha = M$.
+An **atlas** consists of [[chart]]s that describe regions of a [[topological manifold]]. For a topological space $M$, the atlas is a collection $\\{(U_\alpha, \varphi_\alpha) \vert \alpha \in A\\}$ such that $\bigcup_{\alpha \in A}U_\alpha = M$.
 
 The maximal atlas contains all possible charts.
 
