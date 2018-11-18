@@ -1,3 +1,3 @@
 \begin{equation}
-\nabla_\mu V^\nu = \partial_\mu V^\nu + \Gamma_{\mu\lambda}^\nu V^\lambda
+\nabla_X Y^i = X(Y^i) + \Gamma^i_{jm} Y^jX^m
 \end{equation}
