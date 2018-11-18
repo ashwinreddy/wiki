@@ -1,4 +1,5 @@
 A **ring** is a set with binary operations for addition and multiplication.
 
 - [[abelian group]] under addition
-- 
+- [[monoid]] under multiplication
+- multiplication distributes over addition
