@@ -7,3 +7,9 @@
 \\[
 \lim_{x\to 0}\frac{\sin x}{x} = \lim_{x\to 0}\frac{\cos x}{1} = 1
 \\]
+
+For this reason, the sine function can be approximated up to first order with a Taylor series as:
+
+\\[
+\sin x \approx x
+\\]
