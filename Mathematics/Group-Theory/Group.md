@@ -12,4 +12,4 @@ Identity
 Invertibility
   : $\forall a \in G: \exists b \in G: a\diamond b = b \diamond a = e$
   
-However, $a \diamond b = b \diamond a$ does not, in general, need to be true. If it is, the group is said to be **abelian** or **commutative**.
+However, $a \diamond b = b \diamond a$ does not, in general, need to be true. If it is, the group is said to be an [[abelian group]].
