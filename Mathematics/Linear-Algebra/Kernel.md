@@ -1,3 +1,3 @@
 \\[
-\ker(L)=\left\\{\mathbf {v} \in V\mid L(\mathbf {v} )=\mathbf {0} \right\\}
+\ker\left(L\right)=\left\\{\vec {v} \in V\mid L(\vec {v} )=\vec {0} \right\\}
 \\]
