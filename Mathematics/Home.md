@@ -6,3 +6,4 @@
 - [Measure Theory](./Measure Theory/)
 - [PDEs](./PDEs/)
 - [Topology](./Topology/)
+- [Linear Algebra](./Linear Algebra/)
