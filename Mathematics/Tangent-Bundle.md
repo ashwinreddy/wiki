@@ -2,7 +2,7 @@ The **tangent bundle** is a [[bundle]]. As a set,
 
 
 \\[
-TM \equiv \bigsqcup_{p\in M}T_pM
+\boxed{TM \equiv \bigsqcup_{p\in M}T_pM}
 \\]
 
 
