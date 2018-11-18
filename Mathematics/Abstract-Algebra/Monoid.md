@@ -1,0 +1,1 @@
+A **monoid** is a set with a binary operation with associativity and an identity element.
