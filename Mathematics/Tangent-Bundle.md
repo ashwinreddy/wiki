@@ -14,3 +14,5 @@ X &\mapsto p
 \end{align}
 
 where _p_ is the unique point _p_ $\in$ M: $X \in T_pM$.
+
+We pick the coarsest topology on TM that is the coarsest topology such that $\pi$ is just continuous.
