@@ -13,3 +13,4 @@ Let $(M,\mathcal{O}_M)$ and $(N, \mathcal{O}_N)$ be topological spaces. Then a m
 
 If $f$ and $g$ are continuous maps, $g\circ f$ is continuous. 
 
+> A map is continuous iff the preimages of all open sets are open sets.
