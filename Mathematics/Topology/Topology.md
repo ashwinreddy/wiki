@@ -18,6 +18,8 @@ The topology over $M$ consisting of $\\{M,\emptyset\\}$ is called the **chaotic 
 
 $\mathcal{O} = \mathscr{P}(M)$ is the **discrete topology** on $M$.
 
+These are both kind of useless, but they are good pedagogical examples.
+
 The standard topology over $M = \mathbb{R}^d$, denoted $\mathcal{O}_{\text{standard}}$, is constructed as follows:
 
 1. Construct a [[Metric Space]] by picking a [[metric]], Euclidean norm will do.
