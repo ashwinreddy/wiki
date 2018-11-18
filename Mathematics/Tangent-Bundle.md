@@ -12,3 +12,5 @@ Intuitively, of a differentiable manifold $M$ is the collection of [[tangent spa
 \pi : TM &\to M \\\
 X &\mapsto p
 \end{align}
+
+where _p_ is the unique point _p_ $\in$ M: $X \in T_pM$.
