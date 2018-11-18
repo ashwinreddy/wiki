@@ -23,5 +23,5 @@ $\let\sb_$
 ---
 
 \\[
-\vartheta_{\gamma, p} = \dot{\gamma}_x^i(0)\cdot\frac{\partial}{\partial x^i}
+\vartheta_{\gamma, p} = \dot{\gamma}_x^i(0)\cdot\left(\frac{\partial}{\partial x^i}\right)_p
 \\]
