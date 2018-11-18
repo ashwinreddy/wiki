@@ -5,5 +5,5 @@
 $\let\sb_$
 
 \\[
-(\nabla_X \omega)_i = X(\omega_i) - \Gamma^j\sb{im}\omega_j X^m
+\left(\nabla_X \omega\right)_i = X(\omega_i) - \Gamma^j\sb{im}\omega_j X^m
 \\]
