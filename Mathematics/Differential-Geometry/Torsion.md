@@ -12,3 +12,5 @@ The torsion of a [[connection]] is
 \\[
 T(X, Y) = \nabla_X Y - \nabla_Y X - [X,Y]
 \\]
+
+If $T=0$, torsion-free.
