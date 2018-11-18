@@ -3,7 +3,5 @@
 \end{equation}
 
 \\[
-
 (\nabla_X \omega)_i = X(\omega_i) - \Gamma^j_{im}\omega_j X^m
-
 \\]
