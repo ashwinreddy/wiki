@@ -30,7 +30,7 @@ Suppose you've got an $M$ with a topology $\mathcal{O}_M$. For a subset $S \subs
 
 
 \\[
-\mathcal{O}\vert_S \equiv \\{ U \cap S | U \in \mathcal{O}_M \\}
+\mathcal{O}\vert_S \equiv \\{ U \in \mathcal{O}_M \mid U \cap S \\}
 \\]
 
 Inheriting the topology in this way allows one to make the following leap:
