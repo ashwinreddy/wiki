@@ -1,4 +1,1 @@
-A base is a collection B of subsets of X satisfying the following properties:
-
-- The base elements cover X.
-- Let B1, B2 be base elements and let I be their intersection. Then for each x in I, there is a base element B3 containing x and contained in I.
+In mathematics, a base (or basis) B for a topological space X with topology T is a collection of open sets in X such that every open set in X can be written as a union of elements of B. We say that the base generates the topology T. Bases are useful because many properties of topologies can be reduced to statements about a base generating that topology, and because many topologies are most easily defined in terms of a base which generates them.
