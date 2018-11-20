@@ -1,0 +1,1 @@
+The set of linear transformations with the constraint that $|\vec{x}|^2 - (ct)^2$ is constant.
