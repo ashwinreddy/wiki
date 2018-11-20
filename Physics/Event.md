@@ -1,0 +1,1 @@
+An event specifies a time and a location. 
