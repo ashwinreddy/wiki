@@ -1,7 +1,1 @@
 Covers are commonly used in the context of topology. If the set X is a topological space, then a cover C of X is a collection of subsets Uα of X whose union is the whole space X. In this case we say that C covers X, or that the sets Uα cover X. 
-
-$\let\sb_$
-
-\\[
-Y\subseteq \bigcup_{\alpha \in C} U\sb{\alpha }
-\\]
