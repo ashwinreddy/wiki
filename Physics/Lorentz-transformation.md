@@ -1,1 +1,1 @@
-The set of linear transformations with the constraint that $\vert\vec{x}\vert^2 - (ct)^2$ is constant.
+The set of linear transformations with the constraint that the space time interval is constant.
