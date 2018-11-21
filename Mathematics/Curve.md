@@ -35,14 +35,3 @@ Therefore, lines are of minimal length because
 \\[
 \lvert\alpha(b)-\alpha(a)\rvert = L[\alpha; a, b]
 \\]
-
-But we're kind of assuming we have a nice parameterization like
-
-\\[
-\alpha(t) = t\vec{v} + \vec{v}_0
-\\]
-
-What if the particle backtracks? 
-
-Regular curve
-  : curve where $\vert\alpha'(t)\vert\neq 0$.
