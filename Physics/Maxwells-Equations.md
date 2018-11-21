@@ -1,3 +1,3 @@
 \\[
-\vec\nabla\cdot\vec{E}=0
+\vec\nabla\cdot\vec{E}=\frac{\rho}{\varepsilon}
 \\]
