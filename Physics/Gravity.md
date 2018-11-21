@@ -4,6 +4,4 @@ The theory of [General Relativity](./General Relativity/) best explains gravity,
 F_G \propto \frac{Mm}{r^2}
 \\]
 
-\\[
-U \propto -\frac{M}{r}
-\\]
+[[Poisson's Equation]]
