@@ -8,6 +8,27 @@ Simple Curve
   
 Jordan Curve
   : A simple closed curve.
+  
+  
+Simple curve
+
+:   A simple curve is one where $\gamma$ is injective.
+
+Closed curve
+
+:   A curve is closed if $I = [a,b]$ and $\gamma(a)=\gamma(b)$.
+
+Jordan curve
+
+:   A Jordan curve is a simple closed curve.
+
+Regular curve
+
+:   A curve whose derivative never vanishes.
+
+Rectifiable curve
+
+:   A curve with finite length
 
 It is a theorem that a Jordan curve divides the plane into an interior and exterior region.
 
