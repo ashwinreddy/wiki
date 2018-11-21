@@ -1,0 +1,1 @@
+A **geodesic** is a shortest line path.
