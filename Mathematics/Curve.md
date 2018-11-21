@@ -1,15 +1,5 @@
 A **curve** is defined by a map $\gamma: I \to X$ for an interval $I$ of the real numbers into a [[topological space]] $X$. 
 
-Closed Curve
-  : if $I=[a,b]$ and $\gamma(a)=\gamma(b)$.
-
-Simple Curve
-  : An injective curve. Allowed to be closed.
-  
-Jordan Curve
-  : A simple closed curve.
-  
-  
 Simple curve
 
 :   A simple curve is one where $\gamma$ is injective.
