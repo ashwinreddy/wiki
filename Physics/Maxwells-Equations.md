@@ -1,0 +1,3 @@
+\\[
+\vec\nabla\cdot\vec{E}=0
+\\]
