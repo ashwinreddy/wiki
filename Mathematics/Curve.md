@@ -27,7 +27,7 @@ It is a theorem that a Jordan curve divides the plane into an interior and exter
 Length of the curve is given by
 
 \\[
-L[\alpha; a,b] = \int_a^b \alpha'(t)dt
+L[\alpha; a,b] = \int_a^b \vert \alpha'(t)\vert dt
 \\]
 
 Therefore, lines are of minimal length because
