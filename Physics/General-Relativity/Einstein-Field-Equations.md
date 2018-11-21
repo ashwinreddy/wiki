@@ -1,0 +1,1 @@
+The **Einstein Field Equations** (EFE) comprise a set of 10 nonlinear partial differential equations describing gravity.
