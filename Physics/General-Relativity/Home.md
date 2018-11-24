@@ -1,4 +1,4 @@
-**General relativity** is the most accurate way of describing gravity. 
+**General relativity** is the most accurate way of describing gravity, mathematically encoded in the [[Einstein Field Equations]].
 
 
 
