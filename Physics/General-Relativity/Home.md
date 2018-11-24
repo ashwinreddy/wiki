@@ -1,6 +1,4 @@
-**General relativity** is the most accurate way of describing gravity, mathematically encoded in the [[Einstein Field Equations]]. Einstein actually concluded that space is curved so that gravity **is** just acceleration.
-
-Three underlying ideas:
+**General relativity** is the most accurate way of describing gravity, mathematically encoded in the [[Einstein Field Equations]], which concluded that space is curved so that gravity is just acceleration. In other words, the local structure of spacetime is that of special relativity.
 
 - Spacetime can be described as a curved, four-dimensional pseudo-Riemannian manifold
 - At every point in spacetime is a locally inertial reference frame
