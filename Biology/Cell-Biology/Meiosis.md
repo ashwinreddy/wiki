@@ -1,1 +1,1 @@
-**Meiosis** is the production of haploid gamete cells from diploid cells.
+**Meiosis** is the production of [[gamete]] cells from diploid cells.
