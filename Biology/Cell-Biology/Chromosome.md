@@ -1,0 +1,1 @@
+A **chromosome** is a unit of genetic information.
