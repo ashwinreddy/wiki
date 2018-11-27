@@ -1,1 +1,0 @@
-**Kinase** is an [[enzyme]].
