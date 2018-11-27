@@ -1,4 +1,4 @@
-A **disaccharide** consists of two monosaccharides joined by a **glycosidic linkage**, a covalent bond formed between two monosaccharides by a dehydration reaction. An example is shown below:
+A **disaccharide** consists of two [[monosaccharide]]s joined by a **glycosidic linkage**, a covalent bond formed between two monosaccharides by a dehydration reaction. An example is shown below:
 
 
 
