@@ -1,1 +1,1 @@
-A **chromosome** is a unit of genetic information. 
+A **chromosome** is a unit of genetic information. When the chromosome duplicates in [[mitosis]], it takes on a new shape, but it is still called a chromosome.
