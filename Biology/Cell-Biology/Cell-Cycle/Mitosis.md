@@ -1,4 +1,4 @@
-**Mitosis** is the division of the genetic material in the nucleus, usually followed by cytokinesis, division of the cytoplasm.
+**Mitosis** is the part of the [cell cycle](./) division of the genetic material in the nucleus, usually followed by cytokinesis, division of the cytoplasm.
 
 |Stage|Events|
 |-----|------|
