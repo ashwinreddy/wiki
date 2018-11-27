@@ -1,0 +1,1 @@
+**Mitosis** is the division of the genetic material in the nucleus, usually followed by cytokinesis, division of the cytoplasm.
