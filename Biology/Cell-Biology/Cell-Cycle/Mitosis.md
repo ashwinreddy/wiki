@@ -1,4 +1,4 @@
-**Mitosis** is the part of the [cell cycle](./) in which the genetic material in the nucleus divides, usually followed by cytokinesis, division of the cytoplasm.
+**Mitosis** is the part of the [cell cycle](./) in which the genetic material in the nucleus divides, usually followed by cytokinesis, division of the cytoplasm. For all of mitosis except telophase, there is twice as much genetic material in the cell as there is during G1, since the DNA was duplicated in the S phase of interphase.
 
 |Stage|Events|
 |-----|------|
