@@ -1,1 +1,1 @@
-**Interphase** is the part of the cell cycle in which the cell spends most of its life.
+**Interphase** is the part of the [cell cycle](./) in which the cell spends most of its life.
