@@ -4,9 +4,10 @@ The **cell cycle** is the life of a cell from formation to death. When the cell 
 
 There are checkpoints, control points where stop and go-ahead signals regulate the cycle. Three important checkpoints are found in G1, G2, and M phases.
 
-There are internal and external cues for cell division. THe internal cues come from molecules called kinases. Cdk, or cyclin-dependent kinase, is the main one for cell division. Cyclin is broken down and rebuilt; its levels change. It accumulates as cell nears G2. Cdk levels are constant, but it is only active when it binds to cyclin. 
+There are internal and external cues for cell division. The internal cues come from [[kinase]]s, Cdks in particular. In late S phase, cyclin synthesis begins, accumulating. Cyclin binds to Cdk to produce a complex known as MPF (maturation-promoting factor). When enough MPF accumulates, the cell passes G2 checkpoint and begins mitosis. MPF promotes mitosis by phosphorylating various proteins. MPF's activity peaks during metaphase. During anaphase, the cyclin in MPF is degraded, terminating the M phase. The cell enters G1 phase, in which degradation of cyclin continues, and the Cdk of MPF is recycled. Note that Cdk levels are constant, but it is only active when it binds to cyclin.Therefore, the slope of MPF levels matches cyclin levels.
 
-MPF (maturation promoting factor) is CDK to cyclin (activated enzyme). Therefore, the slope of MPF levels matches cyclin levels.
+The G1 phase (aka "restriction point") is super important. For many cells, if a cell gets the go-ahead at G1, it'll usually complete G1, S, G2, M, and divide. If it doesn't recieve the go-ahead, it may exit the cycle and switch to a nondividing G0 phase. Most of your cells are in G0 phase.
+
 
 [[Kinetochore]]s provide internal cues that signal M-phase. M-phase takes place in mitosis, between metaphase and anaphase.
 
