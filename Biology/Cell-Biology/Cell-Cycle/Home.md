@@ -6,9 +6,9 @@ There are checkpoints, control points where stop and go-ahead signals regulate t
 
 There are internal and external cues for cell division. The internal cues come from [[kinase]]s, Cdks in particular. 
 
-- In late S phase, cyclin synthesis begins, accumulating.
+- Cyclin synthesis begins in late S phase and accumulates
 - Cyclin binds to Cdk to produce a complex known as MPF (maturation-promoting factor). 
-- When enough MPF accumulates, the cell passes G2 checkpoint and begins mitosis. 
+- Enough MPF accumulates; the cell passes G2 checkpoint and begins mitosis. 
 - MPF promotes mitosis by phosphorylating various proteins. MPF's activity peaks during metaphase. 
 - During anaphase, the cyclin in MPF is degraded, terminating the M phase. 
 - The cell enters G1 phase, in which degradation of cyclin continues, and the Cdk of MPF is recycled.
