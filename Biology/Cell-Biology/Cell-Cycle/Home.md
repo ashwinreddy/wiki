@@ -1,6 +1,6 @@
-The **cell cycle** is the life of a cell from formation to death. When the cell is operating normally, producing proteins and such, it is in interphase. Here are the phases of interphase
+The **cell cycle** is the life of a cell from formation to death. When the cell is operating normally, producing proteins and such, it is in interphase:
 
-|Phase|Event|
+|Phase in Interphase|Event|
 |-----|-----|
 |G1|Cellular contents except chromosomes duplicated|
 |S|Chromosomes double, but they are not yet visible because they have not condensed|
