@@ -1,4 +1,4 @@
-The **cell cycle** is the life of a cell from formation to death. When the cell is operating normally, producing proteins and such, it is in interphase. In interphase, the genetic material in the cell is duplicated so that the cell can divide and each daughter cell will have the appropriate amount of genetic material (or, more accurately, the correct number of chromosomes). The synthesis of this new DNA is designated as the S (S for synthesis) phase, and the phases of general growth that come before and after are designated G1 and G2 (G for gap).
+The **cell cycle** is the life of a cell from formation to death. When the cell is operating normally, producing proteins and such, it is in interphase. Here are the phases of interphase
 
 |Phase|Event|
 |-----|-----|
