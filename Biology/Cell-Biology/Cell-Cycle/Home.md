@@ -4,7 +4,7 @@ The **cell cycle** is the life of a cell from formation to death. When the cell 
 |:-----:|-----|
 |G1|Cellular contents except chromosomes duplicated|
 |S|Chromosomes double, but they are not yet visible because they have not condensed|
-|G2|Cell ensures duplication occured correctly.|
+|G2|Cell ensures duplication occured correctly. Synthesis of microtubules|
 
 In G2, the nuclear envelope still encloses the nucleus. Two centrosomes are around (recall G1 phase)
 
