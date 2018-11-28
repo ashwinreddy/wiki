@@ -45,3 +45,5 @@ Platelets originate from red blood cells, help in clotting. Platelet derived gro
 
 Cancer cells make their own growth factor (autocrine), and/or they force neighbors to make growth factors for them. or they might grow w/o a growth factor. Cancer cells that stop dividing stop at random points in the cycle.
 
+
+A benign tumor is one that is localized to a given area. A malignant tumor includes cells which can spread to new tissue. The spread of cancer cells to locations distant from their origin is called metastasis.
