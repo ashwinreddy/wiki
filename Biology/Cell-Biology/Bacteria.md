@@ -1,0 +1,1 @@
+**Bacteria** are special prokaryotic unicellular organisms. In bacteria, most genes are carried on a single chromosome that consists of circular DNA molecules and associated proteins.
