@@ -1,5 +1,11 @@
 The **cell cycle** is the life of a cell from formation to death. When the cell is operating normally, producing proteins and such, it is in interphase. In interphase, the genetic material in the cell is duplicated so that the cell can divide and each daughter cell will have the appropriate amount of genetic material (or, more accurately, the correct number of chromosomes). The synthesis of this new DNA is designated as the S (S for synthesis) phase, and the phases of general growth that come before and after are designated G1 and G2 (G for gap).
 
+|Phase|Event|
+|-----|-----|
+|G1|Cellular contents except chromosomes duplicated|
+|S|Chromosomes double|
+|G2|Cell ensures duplication occured correctly|
+
 There are internal and external cues for cell division. THe internal cues come from molecules called kinases. Cdk, or cyclin-dependent kinase, is the main one for cell division. Cyclin is broken down and rebuilt; its levels change. It accumulates as cell nears G2. Cdk levels are constant, but it is only active when it binds to cyclin. 
 
 MPF (maturation promoting factor) is CDK to cyclin (activated enzyme). Therefore, the slope of MPF levels matches cyclin levels.
