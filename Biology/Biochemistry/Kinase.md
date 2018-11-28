@@ -1,0 +1,1 @@
+**Kinases** are enzymes that activate or inactive other proteins by phosphorylating them.
