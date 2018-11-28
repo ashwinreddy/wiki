@@ -1,12 +1,5 @@
-The **cell cycle** is the life of a cell from formation to death. When the cell is operating normally, producing proteins and such, it is in interphase:
+The **cell cycle** is the life of a cell from formation to death. When the cell is operating normally, producing proteins and such, it is in [[interphase]]:
 
-|Phase in Interphase|Event|
-|:-----:|-----|
-|G1|Cellular contents except chromosomes duplicated|
-|S|Chromosomes double, but they are not yet visible because they have not condensed|
-|G2|Cell ensures duplication occured correctly. Synthesis of microtubules|
-
-In G2, the nuclear envelope still encloses the nucleus. Two centrosomes are around (recall G1 phase)
 
 There are internal and external cues for cell division. THe internal cues come from molecules called kinases. Cdk, or cyclin-dependent kinase, is the main one for cell division. Cyclin is broken down and rebuilt; its levels change. It accumulates as cell nears G2. Cdk levels are constant, but it is only active when it binds to cyclin. 
 
