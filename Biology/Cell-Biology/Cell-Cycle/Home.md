@@ -2,7 +2,7 @@ The **cell cycle** is the life of a cell from formation to death. When the cell 
 
 # Cell Cycle Control System
 
-There are checkpoints, control points where stop and go-ahead signals regulate the cycle. Three important checkpoints are found in $G_1$, $G_2$, and _M_.
+There are checkpoints, control points where stop and go-ahead signals regulate the cycle. Three important checkpoints are found in G1, G2, and M phases.
 
 There are internal and external cues for cell division. THe internal cues come from molecules called kinases. Cdk, or cyclin-dependent kinase, is the main one for cell division. Cyclin is broken down and rebuilt; its levels change. It accumulates as cell nears G2. Cdk levels are constant, but it is only active when it binds to cyclin. 
 
