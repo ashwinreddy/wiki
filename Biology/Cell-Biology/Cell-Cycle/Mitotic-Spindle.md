@@ -1,1 +1,1 @@
-The **mitotic spindle** begins to form in the cytoplasm during prophase. It consists of fibers made of microtubules and proteins. Other microtubules of the cytoskeleton partially dissemble to provide the materials for the mitotic spindle.
+The **mitotic spindle** begins to form in the cytoplasm during prophase. It consists of fibers made of [[microtubule]]s and proteins. Other microtubules of the cytoskeleton partially dissemble to provide the materials for the mitotic spindle.
