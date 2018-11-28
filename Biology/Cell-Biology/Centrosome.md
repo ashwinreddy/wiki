@@ -1,0 +1,1 @@
+**Centrosomes** are organelles and [[microtubule]] organizing centers. Each centrosome contains two centrioles. 
