@@ -4,7 +4,11 @@ The **cell cycle** is the life of a cell from formation to death. When the cell 
 
 There are checkpoints, control points where stop and go-ahead signals regulate the cycle. Three important checkpoints are found in G1, G2, and M phases.
 
-There are internal and external cues for cell division. The internal cues come from [[kinase]]s, Cdks in particular. 
+There are internal and external cues for cell division. 
+
+## Internal Factors
+
+The internal cues come from [[kinase]]s, Cdks in particular. 
 
 - Cyclin synthesis begins in late S phase and accumulates
 - Cyclin binds to Cdk to produce a complex known as MPF (maturation-promoting factor). 
@@ -21,6 +25,8 @@ The G1 phase (aka "restriction point") is super important. For many cells, if a 
 [[Kinetochore]]s provide internal cues that signal M-phase. M-phase takes place in mitosis, between metaphase and anaphase.
 
 Kinetochores not attached to spindles trigger a signaling pathway that keeps APC (anaphase-promoting complex, example of a kinase) in an inactive state.
+
+## External Factors
 
 External factors include
 
