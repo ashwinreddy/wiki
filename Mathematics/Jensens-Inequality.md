@@ -1,0 +1,1 @@
+The secant of a convex function lies above the graph of the function.
