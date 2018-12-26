@@ -1,2 +1,3 @@
 - [[https://patrickcollison.com/advice]]
 - [Slow Reading](https://www.theindy.us/slow-reading/)
+- [[https://idiallo.com/blog/im-bored-what-do-i-do]]
