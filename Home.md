@@ -8,3 +8,7 @@ This wiki contains articles on a number of fields, including:
 - [Computer Science](./Computer Science/)
 
 A [table of contents](./TOC) and a [file view](./fileview) are also available.
+
+It also just contains files for keeping track of resources for different topics:
+
+- [LaTeX](./LaTeX)
