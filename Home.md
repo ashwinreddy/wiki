@@ -4,6 +4,7 @@ This wiki contains articles on a number of fields, including:
 - [Chemistry](./Chemistry/)
 - [Mathematics](./Mathematics/)
 - [Engineering](./Engineering/)
+- [Design](./Design/)
 - [Physics](./Physics/)
 - [Economics](./Economics/)
 - [Latin](./Latin/)
