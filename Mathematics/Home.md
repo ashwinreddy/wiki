@@ -9,6 +9,7 @@
 - [PDEs](./PDEs/)
 - [Topology](./Topology/)
 - [Linear Algebra](./Linear Algebra/)
+- [Differential Equations](./Differential Equations/)
 
 # Mathematical Software
 
