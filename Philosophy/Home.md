@@ -1,1 +1,2 @@
-[Fallacy](./Fallacy)
+- [Fallacy](./Fallacy)
+- [Philosophy of science](./Philosophy of science)
