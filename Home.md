@@ -8,6 +8,7 @@ This wiki contains articles on a number of fields, including:
 - [Physics](./Physics/)
 - [Economics](./Economics/)
 - [Latin](./Latin/)
+- [Linguistics](./Linguistics/)
 - [Philosophy](./Philosophy/)
 - [Computer Science](./Computer Science/)
 
