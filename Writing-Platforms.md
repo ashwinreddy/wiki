@@ -7,3 +7,10 @@
 - [Jekyll](http://jekyllrb.com)
 - [Jekyll Themes](http://jekyllthemes.org)
 - [Pubcss](https://thomaspark.co/2015/01/pubcss-formatting-academic-publications-in-html-css/)
+
+# LaTeX
+
+- [MathJax](https://www.mathjax.org)
+- [KaTeX](https://katex.org)
+- [Griffith's Script R](https://tex.stackexchange.com/questions/21274/script-r-symbol)
+- [Tikzcd-editor](https://tikzcd.yichuanshen.de)
