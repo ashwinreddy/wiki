@@ -12,3 +12,4 @@ A [table of contents](./TOC) and a [file view](./fileview) are also available.
 It also just contains files for keeping track of resources for different topics:
 
 - [LaTeX](./LaTeX)
+- [Writing Platforms](./Writing Platforms)
