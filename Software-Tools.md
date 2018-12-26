@@ -4,3 +4,4 @@
 - [asciinema](https://asciinema.org)
 - [ShoesRB](http://shoesrb.com)
 - [[https://dotfiles.github.io]]
+- [[https://sw.kovidgoyal.net/kitty/#]]
