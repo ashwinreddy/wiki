@@ -11,6 +11,7 @@
 - [Pubcss](https://thomaspark.co/2015/01/pubcss-formatting-academic-publications-in-html-css/)
 - Dropbox Paper
 - [Tufte LaTeX](https://tufte-latex.github.io/tufte-latex/)
+- Notion
 
 # LaTeX
 
