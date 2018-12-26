@@ -3,6 +3,7 @@ This wiki contains articles on a number of fields, including:
 - [Biology](./Biology/)
 - [Chemistry](./Chemistry/)
 - [Mathematics](./Mathematics/)
+- [Engineering](./Engineering/)
 - [Physics](./Physics/)
 - [Economics](./Economics/)
 - [Computer Science](./Computer Science/)
