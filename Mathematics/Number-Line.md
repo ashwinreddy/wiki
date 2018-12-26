@@ -1,0 +1,1 @@
+A number line is a visual depiction of the real numbers $\mathbb{R}$.
