@@ -1,0 +1,1 @@
+[[http://orwell.ru/library/articles/As_I_Please/english/efasc]]
