@@ -1,1 +1,2 @@
-[[https://patrickcollison.com/advice]]
+- [[https://patrickcollison.com/advice]]
+- [Slow Reading](https://www.theindy.us/slow-reading/)
