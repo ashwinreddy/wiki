@@ -5,3 +5,7 @@
 - Particles follow geodesics through a spacetime curved by mass
 
 > Spacetime is a four-dimensional topological manifold with a smooth atlas carrying a torsion-free connection compatible with a Lorentzian metric and a time orientation satisfying the Einstein equations.
+
+# Resources
+
+- [[https://faculty.etsu.edu/gardnerr/5310/notes.htm]]
