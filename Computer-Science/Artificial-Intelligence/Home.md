@@ -1,3 +1,5 @@
+- [Machine Learning](./Machine Learning)
+
 # Resources
 
 - [OpenAI Blog](https://blog.openai.com)
