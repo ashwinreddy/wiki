@@ -1,20 +1,20 @@
 This wiki contains articles on a number of fields, including:
 
-|[Biology](./Biology/)|b|
-|[Chemistry](./Chemistry/)|d|
-|[Physics](./Physics/)|f|
+|[Biology](./Biology/)|[Mathematics](./Mathematics/)|
+|[Chemistry](./Chemistry/)|[Computer Science](./Computer Science/)|
+|[Physics](./Physics/)|[Linguistics](./Linguistics/)|
 
 - 
 - 
-- [Mathematics](./Mathematics/)
+- 
 - [Engineering](./Engineering/)
 - [Design](./Design/)
 - 
 - [Economics](./Economics/)
 - [Latin](./Latin/)
-- [Linguistics](./Linguistics/)
+- 
 - [Philosophy](./Philosophy/)
-- [Computer Science](./Computer Science/)
+- 
 
 A [table of contents](./TOC) and a [file view](./fileview) are also available.
 
