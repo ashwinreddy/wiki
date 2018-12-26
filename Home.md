@@ -6,6 +6,7 @@ This wiki contains articles on a number of fields, including:
 - [Engineering](./Engineering/)
 - [Physics](./Physics/)
 - [Economics](./Economics/)
+- [Latin](./Latin/)
 - [Computer Science](./Computer Science/)
 
 A [table of contents](./TOC) and a [file view](./fileview) are also available.
