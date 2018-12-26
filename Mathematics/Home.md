@@ -1,13 +1,11 @@
 # Subjects / Topics
 
-- [Calculus](./Calculus/)
-- [Complex Analysis](./Complex Analysis/)
-- [Differential Forms](./Differential Forms/)
-- [Differential Geometry](./Differential Geometry/)
-- [Group Theory](./Group Theory/)
-- [Probability](./Probability/)
-- [Measure Theory](./Measure Theory/)
-- [PDEs](./PDEs/)
+|[Calculus](./Calculus/)|[Group Theory](./Group Theory/)|
+|[Complex Analysis](./Complex Analysis/)|[Probability](./Probability/)|
+|[Differential Forms](./Differential Forms/)|[Measure Theory](./Measure Theory/)|
+|[Differential Geometry](./Differential Geometry/)|[PDEs](./PDEs/)|
+
+
 - [Topology](./Topology/)
 - [Linear Algebra](./Linear Algebra/)
 - [Differential Equations](./Differential Equations/)
