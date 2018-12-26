@@ -1,4 +1,4 @@
-**Calculus** is the study of change.
+**Calculus** is the study of change. [[Derivative]]
 
 # Resources
 
