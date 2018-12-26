@@ -1,1 +1,2 @@
 - [[https://modelzoo.co/blog/reinforcement-learning-resources-models-and-code]]
+- [[https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html#what-is-reinforcement-learning]]
