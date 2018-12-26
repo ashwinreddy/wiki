@@ -1,4 +1,4 @@
-The **entropy** of a random variable $X$ is defined as
+The **entropy** of a discrete random variable $X$ is defined as
 
 \begin{equation}
 H(X) \equiv \mathbb{E}\left[\log\frac{1}{\Pr(x)}\right]
