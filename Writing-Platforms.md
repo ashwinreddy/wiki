@@ -7,6 +7,7 @@
 - [Jekyll](http://jekyllrb.com)
 - [Jekyll Themes](http://jekyllthemes.org)
 - [Pubcss](https://thomaspark.co/2015/01/pubcss-formatting-academic-publications-in-html-css/)
+- Dropbox Paper
 
 # LaTeX
 
