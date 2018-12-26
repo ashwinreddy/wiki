@@ -13,6 +13,7 @@
 - [Tufte LaTeX](https://tufte-latex.github.io/tufte-latex/)
 - Notion
 - Typora
+- Pandoc
 
 # LaTeX
 
