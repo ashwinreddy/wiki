@@ -22,3 +22,4 @@ It also just contains files for keeping track of resources for different topics:
 - [Web Dev](./Web Dev)
 - [Software Tools](./Software Tools)
 - [Advice](./Advice)
+- [Explorable Explanations](./Explorable Explanations)
