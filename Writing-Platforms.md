@@ -4,3 +4,5 @@
 - [RMarkdown](https://rmarkdown.rstudio.com)
 - [Bookdown](https://bookdown.org)
 - [Emacs Orgmode](https://orgmode.org)
+- [Jekyll](http://jekyllrb.com)
+- [Jekyll Themes](http://jekyllthemes.org)
