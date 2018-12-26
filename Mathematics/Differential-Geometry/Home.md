@@ -5,3 +5,5 @@
 https://ocw.mit.edu/courses/mathematics/18-950-differential-geometry-fall-2008/lecture-notes/
 
 https://www.youtube.com/playlist?list=PLLq_gUfXAnkl5JArcktbOrIUeR5rra-Gz
+
+http://marctenbosch.com/quaternions/#h_10
