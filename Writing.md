@@ -10,6 +10,7 @@
 - [Jekyll Themes](http://jekyllthemes.org)
 - [Pubcss](https://thomaspark.co/2015/01/pubcss-formatting-academic-publications-in-html-css/)
 - Dropbox Paper
+- [Tufte CSS](https://tufte-latex.github.io/tufte-latex/)
 
 # LaTeX
 
