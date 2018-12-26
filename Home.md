@@ -1,7 +1,6 @@
 This wiki contains articles on a number of fields, including:
 
 |a|b|
-|-|--|
 |c|d|
 |e|f|
 
