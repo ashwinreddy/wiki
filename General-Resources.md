@@ -1,1 +1,2 @@
 - [OpenStax](https://openstax.org/subjects)
+- [[https://unicode.style]]
