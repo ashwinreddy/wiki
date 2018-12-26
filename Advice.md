@@ -1,0 +1,1 @@
+[[https://patrickcollison.com/advice]]
