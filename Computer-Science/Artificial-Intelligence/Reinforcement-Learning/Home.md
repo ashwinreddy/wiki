@@ -4,3 +4,4 @@
 - [[https://www.cc.gatech.edu/~aclegg3/projects/LearningToDress.html]]
 - [[https://katefvision.github.io]]
 - [[https://danieltakeshi.github.io/2016/10/31/going-deeper-into-reinforcement-learning-understanding-q-learning-and-linear-function-approximation/]]
+- [[[[https://www.cc.gatech.edu/~aclegg3/projects/LearningToDress.html]]
