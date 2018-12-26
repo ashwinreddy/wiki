@@ -17,3 +17,4 @@ It also just contains files for keeping track of resources for different topics:
 - [Self-Teaching](./Self-Teaching)
 - [Web Dev](./Web Dev)
 - [Software Tools](./Software Tools)
+- [Advice](./Advice)
