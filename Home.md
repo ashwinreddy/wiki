@@ -16,6 +16,7 @@ It also just contains files for keeping track of resources for different topics:
 - [General Resources](./General Resources)
 - [Writing](./Writing)
 - [Self-Teaching](./Self-Teaching)
+- [Productivity](./Productivity)
 - [Web Dev](./Web Dev)
 - [Software Tools](./Software Tools)
 - [Advice](./Advice)
