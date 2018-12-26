@@ -15,3 +15,4 @@ It also just contains files for keeping track of resources for different topics:
 - [Writing Platforms](./Writing Platforms)
 - [Writing](./Writing)
 - [Self-Teaching](./Self-Teaching)
+- [Web Dev](./Web Dev)
