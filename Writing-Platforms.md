@@ -1,3 +1,6 @@
 - [StackEdit](https://stackedit.io)
 - [Gollum](./)
 - [MarkDeep](https://casual-effects.com/markdeep/)
+- [RMarkdown](https://rmarkdown.rstudio.com)
+- [Bookdown](https://bookdown.org)
+- [Emacs Orgmode](https://orgmode.org)
