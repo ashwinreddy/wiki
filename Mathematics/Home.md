@@ -5,6 +5,7 @@
 - [Differential Forms](./Differential Forms/)
 - [Differential Geometry](./Differential Geometry/)
 - [Group Theory](./Group Theory/)
+- [Probability](./Probability/)
 - [Measure Theory](./Measure Theory/)
 - [PDEs](./PDEs/)
 - [Topology](./Topology/)
