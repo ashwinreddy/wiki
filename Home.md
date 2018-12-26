@@ -8,6 +8,7 @@ This wiki contains articles on a number of fields, including:
 - [Physics](./Physics/)
 - [Economics](./Economics/)
 - [Latin](./Latin/)
+- [Philosophy](./Philosophy/)
 - [Computer Science](./Computer Science/)
 
 A [table of contents](./TOC) and a [file view](./fileview) are also available.
