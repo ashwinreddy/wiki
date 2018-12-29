@@ -5,8 +5,6 @@
 |[Differential Geometry](./Differential Geometry/)|[PDEs](./PDEs/)|[Differential Equations](./Differential Equations/)|
 
 
-# Mathematical Software
-
 - Grapher on Mac
 - Mathematica
 - [Sage](https://www.sagemath.org)
