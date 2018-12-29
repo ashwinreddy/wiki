@@ -1,4 +1,3 @@
-# Subjects / Topics
 
 |[Calculus](./Calculus/)|[Group Theory](./Group Theory/)|[Topology](./Topology/)|
 |[Complex Analysis](./Complex Analysis/)|[Probability](./Probability/)|
