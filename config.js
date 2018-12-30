@@ -1,3 +1,5 @@
+alert("hello");
+
 window.MathJax = {
     tex2jax: {
         inlineMath:  [ ['$','$'], ['\\(','\\)'] ],
