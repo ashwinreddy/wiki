@@ -9,3 +9,5 @@ Bacteria can rapidly respond to changes in the environment with gene regulation 
 - [[feedback inhibition]]
 - operon model
 
+# Operon Model
+
