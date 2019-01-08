@@ -8,10 +8,3 @@ Bacteria can rapidly respond to changes in the environment with gene regulation 
 
 - feedback inhibition
 - operon model
-
-@startuml
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
-@enduml
