@@ -6,5 +6,6 @@ In multicellular eukaryotes, gene expression determines and configures cells to 
 
 Bacteria can rapidly respond to changes in the environment with gene regulation -- they only make those proteins which they have to make. They do this in two ways:
 
-- feedback inhibition
+- [[feedback inhibition]]
 - operon model
+
