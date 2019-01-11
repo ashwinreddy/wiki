@@ -2,6 +2,8 @@
 
 # Initiation
 
+![](/uploads/screen-shot-2019-01-11-at-09.11.56.png)
+
 # Elongation
 
 # Termination
