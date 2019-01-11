@@ -1,1 +1,1 @@
-**Transcription** is the process of copying DNA into mRNA.
+**Transcription** is the stage of [gene expression](./) of copying DNA into mRNA.
