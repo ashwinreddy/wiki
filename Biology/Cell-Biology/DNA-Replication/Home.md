@@ -8,13 +8,24 @@
 |--|--|
 |<img src="https://ka-perseus-images.s3.amazonaws.com/f56c2ded537d0915cbf4f39c0ea5a856ad73bfa5.png" height="400px">|<img src="https://i.stack.imgur.com/LMG6h.png">|
 
+# Opening Replication Bubble
 
 1. Find origin(s) of replication (bacteria have single origin, but eukaryotes often have many)
 2. Replicate in both directions.
 3. Helicase unwinds and separates parental DNA.
 4. Single-stranded binding proteins stabilize open strands.
-5. Topoisomerase relieves downstream DNA from stress by breaking, rejoining, swiveling DNA pieces
+5. Topoisomerase relieves downstream DNA from stress by breaking, rejoining, swiveling DNA pieces.
 6. Primase synthesizes RNA primers.
+
+[[https://d2vlcm61l7u1fs.cloudfront.net/media%2F363%2F36318e59-6365-400a-b512-197c857e5ded%2FphpxluqpN.png]]
+
+# Leading strand
+
+
+
+# Lagging strand
+
+
 7. DNA polymerase I removes & replaces RNA primer with DNA.
 8. DNA polymerase III adds nucleotides in 5' to 3' direction.
 
