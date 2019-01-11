@@ -6,4 +6,6 @@
 
 # Elongation
 
+![](/uploads/elongation.png)
+
 # Termination
