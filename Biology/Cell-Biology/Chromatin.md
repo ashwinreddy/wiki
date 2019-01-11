@@ -6,3 +6,5 @@
 |Elongated|Tightly packed|
 |Enables transcription|Found along the periphery|
 ||What daughter cells inhert in mitotic cell division|
+||Found during interphase|
+
