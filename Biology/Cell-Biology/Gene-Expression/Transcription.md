@@ -17,3 +17,7 @@ Each gene (or, in bacteria, each group of genes transcribed together) has its ow
 The strand RNA polymerase reads off of is the template strand. The other strand is the coding strand. RNA polymerase walks along the template strand in the 3' to 5' direction, building the RNA in the 5' to 3' direction. 
 
 [[https://ka-perseus-images.s3.amazonaws.com/1da89713b9aa8067742244d916749e72561bb3cc.png]]
+
+# Termination
+
+For bacteria, the terminator might create a hairpin shape or conformation change that breaks off the protein. For eukaryotes, it might do polyadenylation where a specific sequence is added.
