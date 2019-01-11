@@ -40,6 +40,8 @@ DNA molecules have uneven ends due to this 5' to 3' nature, ends which are also 
 - prevent these uneven ends as being read as errors
 - protect the genes from being modified directly
 
+The enzyme telomerase catalyzes the lengthening of the telomeres to restore them back to their original length.
+
 Nucleotides are phosphorylated to give polymerase energy needed to add the nucleotides in.
 
 # Proofreading and Repair
