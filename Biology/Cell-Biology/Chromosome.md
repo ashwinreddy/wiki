@@ -2,3 +2,4 @@ A **chromosome** is a unit of genetic information. When the chromosome duplicate
 
 
 Chromosomes are visible only once they have condensed.
+
