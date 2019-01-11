@@ -4,7 +4,7 @@
 
 # Overview
 
-|a |b |
+| | |
 |--|--|
 |<img src="https://ka-perseus-images.s3.amazonaws.com/f56c2ded537d0915cbf4f39c0ea5a856ad73bfa5.png" height="400px">|<img src="https://i.stack.imgur.com/LMG6h.png">|
 
