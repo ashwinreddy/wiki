@@ -6,7 +6,7 @@
 
 # Elongation
 
-![](/uploads/elongation.png)
+|![](/uploads/elongation.png)|[[https://ka-perseus-images.s3.amazonaws.com/87bc3dd2b420d5ae739cde5146ade4f8f431f090.png]]|
 
 # Termination
 
