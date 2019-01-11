@@ -5,3 +5,7 @@
 - Conclude that each gene encodes an enzyme and mutants missing genes have an incomplete pathway.
 
 The current hypothesis is the one gene - one polypeptide hypothesis, but there are exceptions.
+
+
+[[Transcription]]
+[[Translation]]
