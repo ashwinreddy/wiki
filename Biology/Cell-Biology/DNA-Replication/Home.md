@@ -1,4 +1,4 @@
-[[DNA]] replicates via the semi-conservative model. 
+[[DNA]] replication is the process of replicating DNA for mitosis.
 
 
 <img src="https://ka-perseus-images.s3.amazonaws.com/f56c2ded537d0915cbf4f39c0ea5a856ad73bfa5.png" height="400px">
@@ -21,8 +21,11 @@ DNA molecules have uneven ends due to this 5' to 3' nature, ends which are also 
 - prevent these uneven ends as being read as errors
 - protect the genes from being modified directly
 
+Nucleotides are phosphorylated to give polymerase energy needed to add the nucleotides in.
 
+# Proofreading and Repair
 
-
-
-Nucleotides are phosphorylated.
+- Repair enzymes remove and replace incorrectly paired nucleotides that result from replication errors
+- Nuclease cuts segments of DNA strands containing damage
+- DNA polymerase proofreads nucleotides and repeats if incorrect
+- Ligase seals free end of new DNA to old DNA, making the strand complete.
