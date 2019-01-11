@@ -4,7 +4,9 @@
 - Test their growth with limited environments.
 - Conclude that each gene encodes an enzyme and mutants missing genes have an incomplete pathway.
 
-The current hypothesis is the one gene - one polypeptide hypothesis, but there are exceptions.
+The current hypothesis is the one gene - one polypeptide hypothesis, but there are exceptions. The model we have is based on the supposition of the central dogma.
+
+[[http://ib.bioninja.com.au/_Media/central-dogma_med.jpeg]]
 
 
 [[Transcription]]
