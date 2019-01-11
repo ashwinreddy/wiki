@@ -21,7 +21,7 @@
 
 # Leading strand
 
-
+[[https://slideplayer.com/slide/4023241/13/images/48/DNA+pol+III+starts+to+synthesize+leading+strand.+Origin+of+replication.jpg]]
 
 # Lagging strand
 
