@@ -12,6 +12,8 @@ RNA polymerase binds to the DNA of the gene at the region called the **promoter*
 
 Each gene (or, in bacteria, each group of genes transcribed together) has its own promoter. A promoter contains DNA sequences that let RNA polymerase or its helper proteins attach to the DNA. Once the transcription bubble has formed, the polymerase can start transcribing.
 
+[[https://ka-perseus-images.s3.amazonaws.com/d8f337cfb9d80ad3576e26877c766626ede50b1d.png]]
+
 # Elongation
 
 The strand RNA polymerase reads off of is the template strand. The other strand is the coding strand. RNA polymerase walks along the template strand in the 3' to 5' direction, building the RNA in the 5' to 3' direction. 
