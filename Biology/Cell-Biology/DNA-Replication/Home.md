@@ -1,23 +1,5 @@
 [[DNA]] replicates via the semi-conservative model. 
 
-# Replication Models
-
-|Model|Replication pattern|
-|-----|--------------------|
-|Conservative model|The entire double helix is copied|
-|Semiconservative|The new DNA has some original and some duplicated material|
-|Dispersive|Segments of DNA are broken up, resulting in mixed original/duplicate components|
-
-
-<img src="http://ib.bioninja.com.au/_Media/models-of-replication_med.jpeg" height="300px">
-
-## Meselson-Stahl
-
-Grow bacteria with heavy nitrogen in DNA and then move it to light nitrogen. Centrifuge it.
-
-<img src="http://ib.bioninja.com.au/_Media/meselson-stahl_med.jpeg" height='300px'>
-
-# Replication
 
 <img src="https://ka-perseus-images.s3.amazonaws.com/f56c2ded537d0915cbf4f39c0ea5a856ad73bfa5.png" height="400px">
 
