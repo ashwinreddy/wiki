@@ -1,0 +1,1 @@
+DNA replicates via the semi-conservative model. 
