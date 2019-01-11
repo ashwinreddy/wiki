@@ -1,4 +1,4 @@
-DNA polymerase is an [enzyme](../Enzymes/) that synthesizes DNA. They
+DNA polymerase is an [enzyme](../../Enzymes/) that synthesizes DNA. They
 
 - always need a template strand
 - They can only add nucleotides to the 3' end of DNA (i.e. they build 5' to 3')
