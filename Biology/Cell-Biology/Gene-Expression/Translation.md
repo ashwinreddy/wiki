@@ -9,3 +9,5 @@
 ![](/uploads/elongation.png)
 
 # Termination
+
+![](/uploads/termination.png)
