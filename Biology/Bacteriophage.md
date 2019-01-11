@@ -1,0 +1,1 @@
+A bacteriophage is a virus that infects and replicates within bacteria and archaea.
