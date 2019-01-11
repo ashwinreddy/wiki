@@ -19,6 +19,8 @@ Grow bacteria with heavy nitrogen in DNA and then move it to light nitrogen. Cen
 
 # Replication
 
+[[https://ka-perseus-images.s3.amazonaws.com/f56c2ded537d0915cbf4f39c0ea5a856ad73bfa5.png]]
+
 1. Find origin(s) of replication (bacteria have single origin, but eukaryotes often have many)
 2. Replicate in both directions.
 3. Helicase unwinds and separates parental DNA.
