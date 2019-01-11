@@ -1,4 +1,4 @@
-DNA replicates via the semi-conservative model. 
+[[DNA]] replicates via the semi-conservative model. 
 
 # Replication Models
 
