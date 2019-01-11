@@ -30,7 +30,7 @@ Grow bacteria with heavy nitrogen in DNA and then move it to light nitrogen. Cen
 
 However, since DNA polymerase III can only build one way, only one strand can be built continuously while the other has to be built in fragments. The strand built continuously is the leading strand. The other is the lagging strand.
 
-On the lagging strand, the fragments are called Okazaki fragments.
+On the lagging strand, the fragments are called Okazaki fragments. They require ligase and polymerase I to keep replacing RNA.
 
 DNA molecules have uneven ends due to this 5' to 3' nature, ends which are also shortening. Telomeres, genetic material serving as caps at the end of DNA do the following:
 
