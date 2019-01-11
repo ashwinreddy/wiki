@@ -15,4 +15,4 @@ DNA replicates via the semi-conservative model.
 
 Grow bacteria with heavy nitrogen in DNA and then move it to light nitrogen. Centrifuge it.
 
-[[http://ib.bioninja.com.au/_Media/meselson-stahl_med.jpeg]]
+![](http://ib.bioninja.com.au/_Media/meselson-stahl_med.jpeg)
