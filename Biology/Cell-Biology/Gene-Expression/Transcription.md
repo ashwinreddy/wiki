@@ -1,0 +1,1 @@
+**Transcription** is the process of copying DNA into mRNA.
