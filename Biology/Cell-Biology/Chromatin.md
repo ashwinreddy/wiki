@@ -1,0 +1,1 @@
+**Chromatin** is the complex of DNA and proteins that makes up the [[chromosomes]]
