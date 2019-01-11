@@ -27,8 +27,9 @@
 
 [[http://www.bio.miami.edu/dana/pix/laggingstrand.jpg]]
 
-7. DNA polymerase I removes & replaces RNA primer with DNA.
-8. DNA polymerase III adds nucleotides in 5' to 3' direction.
+1. DNA polymerase I removes & replaces RNA primer with DNA.
+2. DNA polymerase III adds nucleotides in 5' to 3' direction.
+3. DNA ligase seals the new DNA in.
 
 However, since DNA polymerase III can only build one way, only one strand can be built continuously while the other has to be built in fragments. The strand built continuously is the leading strand. The other is the lagging strand.
 
