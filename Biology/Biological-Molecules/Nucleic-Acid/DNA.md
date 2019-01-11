@@ -1,5 +1,19 @@
 **DNA** is a macromolecule that is used to store genetic information.
 
+# Structure
+
+Rosalind Franklin's X-ray crystallography suggested DNA has a helical shape with two strands.
+
+|Purines|Pyrimidines|
+|-------|-----------|
+|A|T|
+|G|C|
+||U|
+
+Purines, which are double-ringed, are twice as wide as pyrimidines, which are single-ringed.
+
+Uracil replaces thymine in RNA.
+
 # Experiments
 
 There is lots of experimental evidence that was used to show DNA encodes genetic information.
