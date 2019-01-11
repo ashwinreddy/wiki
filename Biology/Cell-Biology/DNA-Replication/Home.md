@@ -25,6 +25,7 @@
 
 # Lagging strand
 
+[[http://www.bio.miami.edu/dana/pix/laggingstrand.jpg]]
 
 7. DNA polymerase I removes & replaces RNA primer with DNA.
 8. DNA polymerase III adds nucleotides in 5' to 3' direction.
