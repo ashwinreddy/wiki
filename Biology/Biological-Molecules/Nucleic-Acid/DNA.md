@@ -1,4 +1,4 @@
-**DNA** is a [macromolecule](../) that is used to store genetic information. It consists of two sugar-phosphate backbones intertwined in a double helix shape with a constant width between them. The sugar is deoxyribose, a pentose sugar.
+**DNA** is a macromolecule that is used to store genetic information. It consists of two sugar-phosphate backbones intertwined in a double helix shape with a constant width between them. The sugar is deoxyribose, a pentose sugar.
 
 # Structure
 
