@@ -14,3 +14,5 @@ In eukaryotes, not all of the DNA encodes genetic material. The introns are non-
 3. They can hydrogen bond
 
 Spliceosomes have small RNAs that match introns, delete them, and then paste the exons.
+
+Alternative RNA splicing enables one gene - multiple peptides.
