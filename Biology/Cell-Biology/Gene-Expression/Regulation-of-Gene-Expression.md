@@ -1,4 +1,4 @@
-How do bacteria regulate [gene expression](./)? First, they can regulate [[transcription]]. 
+How do bacteria regulate [gene expression](./)? First, they can regulate [[transcription]]. Take the example of tryptophan. When enough tryptophan is produced for the cell, the cell stops producing the enzyme that helps create it.
 
 
 
