@@ -10,5 +10,15 @@ On the other hand, an inducible operon is typically off but is induced to be tur
 
 Repressible typically goes with anabolic, and inducible typically goes with catabolic.
 
+Because the gene is not produced when the repressor protein is active, the regulation is called negative control. Positive control would mean directly turning transcription on.
+
+# Negative Gene Regulation
+
+# Positive Gene Regulation
+
+_E. coli_ only breaks down lactose if glucose is in short supply. This means _E. coli_ must sense the glucose concentration and relay this information to the _lac_ operon. When glucose is scarce, cyclic AMP accumulates. So somehow a high amount of cyclic AMP needs to be associated with an increase in affinity for _lac_. The association comes in the form of an activator, a type of regulatory protein, known as CAP.
+
+
+
 
 In multicellular eukaryotes, gene expression determines and configures cells to being their specialized selves. Every cell has the same genetic information, so what distinguishes an eye cell from a liver cell is which genes are being turned on.
