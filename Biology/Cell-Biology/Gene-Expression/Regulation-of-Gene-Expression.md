@@ -1,4 +1,4 @@
-How do bacteria regulate [gene expression](./)? 
+How do bacteria regulate [gene expression](./)? First, they can regulate [[transcription]]. 
 
 
 
