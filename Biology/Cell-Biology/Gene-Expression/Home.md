@@ -8,7 +8,5 @@ The current hypothesis is the one gene - one polypeptide hypothesis, but there a
 
 ![](http://ib.bioninja.com.au/_Media/central-dogma_med.jpeg)
 
-
-[[Transcription]]
-[[Translation]]
+A gene is expressed if  [[Transcription]] occurs for the gene and  [[Translation]] occurs for the gene.
 
