@@ -6,5 +6,9 @@ The operator, promoter, and genes are together called the operon. An operon like
 
 The repressor is created as a protein product of another gene, a regulatory gene which is some distance away from the operon and has its own promoter. These are expressed continuously, so there are always a few repressor molecules. The represssor only binds to the promorer when it binds to its target, which is called the corepressor.
 
+On the other hand, an inducible operon is typically off but is induced to be turned on when a molecule interacts with a regulatory protein. The classic example is the _lac_ operon. The repressor is active by default, preventing the cell from making lactase. But when allolactose comes along, it changes the shape of the repressor, which detaches from the operator, making it possible for RNA polymerase to start transcription. The enzymes of the lactose pathway are called inducible enyzmes.
+
+Repressible typically goes with anabolic, and inducible typically goes with catabolic.
+
 
 In multicellular eukaryotes, gene expression determines and configures cells to being their specialized selves. Every cell has the same genetic information, so what distinguishes an eye cell from a liver cell is which genes are being turned on.
