@@ -1,4 +1,4 @@
-How do bacteria regulate [gene expression](./)? First, they can regulate [[transcription]]. Take the example of tryptophan. When enough tryptophan is produced for the cell, the cell stops producing the enzymes that helps create it. They can also regulate the activity of one of the enzymes that helped create it.
+Bacteria can rapidly respond to changes in the environment with gene regulation -- they only make those proteins which they have to make. So how do bacteria regulate [gene expression](./)? First, they can regulate [[transcription]]. Take the example of tryptophan. When enough tryptophan is produced for the cell, the cell stops producing the enzymes that helps create it. They can also regulate the activity of one of the enzymes that helped create it.
 
 The cell can very effectively stop producing the enzymes that create tryptophan because all the enzymes in the pathway are grouped together in the DNA. Thus, the polypeptide sequences can be put into one mRNA, punctuated with start and stop codons. What controls whether the group of genes will be transcribed or not is the operator, which can be thought of as a switch. The operator sits within the promoter or between the promoter and the enzyme-coding genes.
 
@@ -7,14 +7,4 @@ The operator, promoter, and genes are together called the operon. An operon like
 The repressor is created as a protein product of another gene, a regulatory gene which is some distance away from the operon and has its own promoter. These are expressed continuously, so there are always a few repressor molecules. The represssor only binds to the promorer when it binds to its target, which is called the corepressor.
 
 
-
-First, they can regulate transcription. The gene does not have to be transcribed if the environment is not forcing it to produce the gene. There can also be levels of expression.
-
 In multicellular eukaryotes, gene expression determines and configures cells to being their specialized selves. Every cell has the same genetic information, so what distinguishes an eye cell from a liver cell is which genes are being turned on.
-
-Bacteria can rapidly respond to changes in the environment with gene regulation -- they only make those proteins which they have to make. They do this in two ways:
-
-- [[feedback inhibition]]
-- operon model
-
-# Operon Model
