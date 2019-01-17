@@ -7,5 +7,5 @@ You need a couple mutations to accumulate before cancer. The longer you live, th
 How a proto-oncogne turns into an oncogene?
 
 1. Gene moves to a new location and now under new control elements (translocation / transposition)
-2. Multiple copies of the genes are made
-3. Point mutation in the control element or gene.
+2. Multiple copies of the genes are made (gene amplification)
+3. Point mutation in the control element or gene. (point mutation)
