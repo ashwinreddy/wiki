@@ -8,8 +8,6 @@ These repressor molecules can bind to the operator under certain conditions, pre
 
 |Repressible|Inducible|
 |-----------|---------|
-|Repressible operon
-: An operon which is usually on but can be repressed (inhibited). Typically associated with anabolic activity.| Inducible operon
-: An operon which is usually off but can be induced (turned on). Typically associated with catabolic activity.|
+|An operon which is usually on but can be repressed (inhibited). Typically associated with anabolic activity.| An operon which is usually off but can be induced (turned on). Typically associated with catabolic activity.|
 
 For a repressible operon, the repressor molecules are usually inactive, but when they bind to the corepressor (e.g. tryptophan), they become active and prevent RNA polymerase from proceeding.
