@@ -33,4 +33,4 @@ Eukaryotes have more ways of regulating their genes.
 
 [[https://www.quia.com/files/quia/users/lmcgee/genetics/APchapter19-EukaryoticGenome/regulationofgeneexpression_.gif]]
 
-First, eukaryotes can control access to the DNA through [[chromatin remodeling]].
+First, eukaryotes can control access to the DNA through [[chromatin remodeling]]. Next, they can control transcription initiation. Even if the gene is available for transcription, the DNA can be made more or less accessible to the _transcription machinery_.
