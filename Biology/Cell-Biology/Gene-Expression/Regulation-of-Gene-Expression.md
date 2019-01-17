@@ -18,3 +18,9 @@ The repressor is created as a protein product of another gene, a regulatory gene
 Because the gene is not produced when the repressor protein is active, the regulation is called negative control. Positive control would mean directly turning transcription on.
 
 # Positive Gene Regulation
+
+_E. coli_ preferentially breaks down glucose instead of lactose. It only breaks down lactose if glucose is in short supply. How does the cell know when glucose is in short supply and how does that signal trigger lactase to be made?
+
+When glcuose is in short supply, cyclic AMP (cAMP) accumulates. An activator binds to the DNA and stimulates transcription by increasing the affinity of RNA polymerase to that gene's promoter. The activator in this example is called cAMP receptor protein (CRP). 
+
+When glucose levels increase, CRP detaches. CAP also helps regulate other operins in catabolic pathways, too.
