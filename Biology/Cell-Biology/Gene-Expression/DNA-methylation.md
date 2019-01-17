@@ -4,3 +4,5 @@ Methylation patterns are passed to daughter cells and embryos remember what was 
 
 Epigenetic inheritance
 : Inheritance of traits other than through the nucleotide sequence
+
+DNA methylation is influenced by outside factors like stress, smoking, eating, etc.
