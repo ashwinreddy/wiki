@@ -1,0 +1,1 @@
+**Non-coding RNA** (abbreviated **ncRNA**) do not translate into proteins.
