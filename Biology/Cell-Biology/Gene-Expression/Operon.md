@@ -7,10 +7,9 @@ The regulatory gene lives upstream from the operon and has its own promoter. The
 These repressor molecules can bind to the operator under certain conditions, preventing RNA polymerase from creating a transcript out of the operon genes.
 
 |Repressible|Inducible|
-|-----------|-----------|
+|-----------|---------|
 |Repressible operon
-: An operon which is usually on but can be repressed (inhibited). Typically associated with anabolic activity.|
-Inducible operon
+: An operon which is usually on but can be repressed (inhibited). Typically associated with anabolic activity.| Inducible operon
 : An operon which is usually off but can be induced (turned on). Typically associated with catabolic activity.|
 
 For a repressible operon, the repressor molecules are usually inactive, but when they bind to the corepressor (e.g. tryptophan), they become active and prevent RNA polymerase from proceeding.
