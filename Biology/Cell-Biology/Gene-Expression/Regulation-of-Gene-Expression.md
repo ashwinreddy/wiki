@@ -32,3 +32,4 @@ The typical human cells only expresses 20% of genes expressed at any given time.
 Eukaryotes have more ways of regulating their genes.
 
 [[https://www.quia.com/files/quia/users/lmcgee/genetics/APchapter19-EukaryoticGenome/regulationofgeneexpression_.gif]]
+
