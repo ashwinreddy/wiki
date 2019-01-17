@@ -5,6 +5,6 @@
 |Unfolded|Not found in prokaryotes|
 |Elongated|Tightly packed|
 |Enables transcription|Found along the periphery|
-||What daughter cells inhert in mitotic cell division|
+||What daughter cells inherit in mitotic cell division|
 ||Found during interphase|
 |stains less intensely|stains more intensely|
