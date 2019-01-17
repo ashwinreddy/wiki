@@ -1,4 +1,4 @@
-**Gene expression** is the process by which DNA directs the synthesis of proteins. The one gene - one enzyme hypothesis by Archibald Garrod said that each gene encodes one enzyme. Beadle & Tatum proved this with the following clever experiment:
+**Gene expression** is the process by which DNA directs the synthesis of proteins. The one gene - one enzyme hypothesis by Archibald Garrod said that each gene encodes one enzyme that will act in a metabolic pathway. Beadle & Tatum proved this with the following clever experiment:
 
 - Create genetic mutants of a bread spore. They can all thrive in conducive control environments.
 - Test their growth with limited environments.
