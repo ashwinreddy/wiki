@@ -13,4 +13,4 @@ These repressor molecules can bind to the operator under certain conditions, pre
 |Repressor molecules become active and bind to operator when corepressor is around|Repressor molecules become inactive when corepressor is around|
 |Bacteria usually produce their own tryptophan, unless there is tryptophan around|Bacteria usually don't produce lactose, unless there is lactose around|
 
-For a repressible operon, the repressor molecules are usually inactive, but when they bind to the corepressor (e.g. tryptophan), they become active and prevent RNA polymerase from proceeding.
+The repressible/inducible model describes negative gene regulation because it is creating repressors.
