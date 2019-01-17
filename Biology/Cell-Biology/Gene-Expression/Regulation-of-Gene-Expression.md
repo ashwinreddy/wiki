@@ -34,3 +34,13 @@ Eukaryotes have more ways of regulating their genes.
 [[https://www.quia.com/files/quia/users/lmcgee/genetics/APchapter19-EukaryoticGenome/regulationofgeneexpression_.gif]]
 
 First, eukaryotes can control access to the DNA through [[chromatin remodeling]]. Next, they can control transcription initiation. Even if the gene is available for transcription, the DNA can be made more or less accessible to the _transcription machinery_.
+
+Upstream from the promoter is the TATA box. Transcription factors bind to the TATA box to assist RNA polymerase in finding the promoter.
+
+Further upstream from the promoter are enhancers. Activators are proteins that bind to enhancers to increase the rate of transcription. Enhancers right behind the promoters are called proximal control elements while ones farther away are called distal control elements.
+
+In making a protein, general transcription factors are always needed, but genes have their own specific transcription factors which are determined by the control elements.
+
+A particular combination of control elements activate transcription only when the activators are present. This is why liver cells produce albumin when lens cells produce crystallin; they use different activators, activating different parts of the genome.
+
+Where bacterias had operons that put all the clustered genes together, eukaryotes have promoters and control elements behind every gene. Related genes have the same control element activation patterns.
