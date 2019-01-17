@@ -1,0 +1,1 @@
+**Cellular differentation** is the process by which cells become specialized in structure and function
