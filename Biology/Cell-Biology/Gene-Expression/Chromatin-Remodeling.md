@@ -9,4 +9,4 @@ To make it easier to access DNA, loosen the DNA from the histones using histone 
 
 To loosen methylated chromatin, phosphorylate (i.e. add phosphate groups) next to a methylated amino acid.
 
-Changes to thromatin can be reversed.
+Changes to the chromatin can be reversed.
