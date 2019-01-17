@@ -24,3 +24,11 @@ _E. coli_ preferentially breaks down glucose instead of lactose. It only breaks 
 When glcuose is in short supply, cyclic AMP (cAMP) accumulates. An activator binds to the DNA and stimulates transcription by increasing the affinity of RNA polymerase to that gene's promoter. The activator in this example is called cAMP receptor protein (CRP). 
 
 When glucose levels increase, CRP detaches. CAP also helps regulate other operins in catabolic pathways, too.
+
+# Eukaryotic Regulation of Gene Expression
+
+The typical human cells only expresses 20% of genes expressed at any given time. The difference between cell types is due to **differential gene expression**.
+
+Eukaryotes have more ways of regulating their genes.
+
+[[https://www.quia.com/files/quia/users/lmcgee/genetics/APchapter19-EukaryoticGenome/regulationofgeneexpression_.gif]]
