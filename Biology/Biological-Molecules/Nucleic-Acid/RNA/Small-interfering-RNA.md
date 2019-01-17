@@ -1,0 +1,1 @@
+**Small interfering RNA** (abbreviated **siRNA**) has a role in heterochromatin formation and can block large regions of chromosome or block transcription of specific genes. 
