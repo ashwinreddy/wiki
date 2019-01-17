@@ -1,3 +1,6 @@
+$\let\sub_$
+
+
 \begin{equation}
-\underbrace{\text{Morpho}}_{\text{Form}}\underbrace{\text{genesis}}_{\text{creation}}
+\underbrace{\text{Morpho}}\sub{\text{Form}}\underbrace{\text{genesis}}_{\text{creation}}
 \end{equation}
