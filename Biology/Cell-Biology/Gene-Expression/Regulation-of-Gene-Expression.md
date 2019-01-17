@@ -15,19 +15,6 @@ The operator, promoter, and genes are together called the operon. An operon like
 
 The repressor is created as a protein product of another gene, a regulatory gene which is some distance away from the operon and has its own promoter. These are expressed continuously, so there are always a few repressor molecules. The represssor only binds to the promorer when it binds to its target, which is called the corepressor.
 
-On the other hand, an inducible operon is typically off but is induced to be turned on when a molecule interacts with a regulatory protein. The classic example is the _lac_ operon. The repressor is active by default, preventing the cell from making lactase. But when allolactose comes along, it changes the shape of the repressor, which detaches from the operator, making it possible for RNA polymerase to start transcription. The enzymes of the lactose pathway are called inducible enyzmes.
-
-Repressible typically goes with anabolic, and inducible typically goes with catabolic.
-
 Because the gene is not produced when the repressor protein is active, the regulation is called negative control. Positive control would mean directly turning transcription on.
 
-# Negative Gene Regulation
-
 # Positive Gene Regulation
-
-_E. coli_ only breaks down lactose if glucose is in short supply. This means _E. coli_ must sense the glucose concentration and relay this information to the _lac_ operon. When glucose is scarce, cyclic AMP accumulates. So somehow a high amount of cyclic AMP needs to be associated with an increase in affinity for _lac_. The association comes in the form of an activator, a type of regulatory protein, known as CAP.
-
-
-
-
-In multicellular eukaryotes, gene expression determines and configures cells to being their specialized selves. Every cell has the same genetic information, so what distinguishes an eye cell from a liver cell is which genes are being turned on.
