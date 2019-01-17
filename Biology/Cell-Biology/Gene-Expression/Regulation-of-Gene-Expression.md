@@ -44,3 +44,5 @@ In making a protein, general transcription factors are always needed, but genes 
 A particular combination of control elements activate transcription only when the activators are present. This is why liver cells produce albumin when lens cells produce crystallin; they use different activators, activating different parts of the genome.
 
 Where bacterias had operons that put all the clustered genes together, eukaryotes have promoters and control elements behind every gene. Related genes have the same control element activation patterns.
+
+Next, if the transcript has been made, the cell can still stop translation. microRNA
