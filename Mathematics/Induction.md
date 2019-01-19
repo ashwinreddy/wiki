@@ -1,0 +1,1 @@
+Proof by induction is a useful tool for proving that some predicate $P(n)$ holds for all $n \geq k$ for a $k \in \mathbb{N}$.
