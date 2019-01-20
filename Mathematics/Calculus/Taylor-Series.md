@@ -1,3 +1,5 @@
+The **Taylor series** provides a polynomial approximation to a function that becomes arbitrarily good with more terms.
+
 \\[
 f(x) = \sum_{n=0}^\infty \left(\frac{D^n f(a)}{n!}(x-a)^n\right)
 \\]
