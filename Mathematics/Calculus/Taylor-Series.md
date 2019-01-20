@@ -9,3 +9,6 @@ To first-order,
 \\[
 f(x_0+\Delta x) \approx f(x_0) +f'(x_0)\Delta x
 \\]
+
+Maclaurin series
+: A Taylor series centered at the input point 0.
