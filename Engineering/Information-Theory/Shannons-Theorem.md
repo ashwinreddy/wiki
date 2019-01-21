@@ -50,6 +50,6 @@ R(\delta) = \begin{cases} H(p) - H(\delta) & 0 \leq \delta < p \\\
 \end{cases}
 \end{equation}
 
-
+The distortion metric we ues is $d(x, y) = \delta_{xy}$ with this $\delta$ being the Kronecker delta.
 
 
