@@ -33,3 +33,5 @@ Expected amount of information per symbol is $I(X; Y)$
 $R(\delta)$: rate-distortion fora  given src, how do you find rate-distortion for a given $\delta$?
 
 Hook up the source to various different "test" channels s.t. $\mathbb{E}[d] \leq \delta$. Then pick the one that minimizes $I(X; Y)$. Call this minimum value $R(\delta)$.
+
+<img src="/uploads/distortion-cost.jpg">
