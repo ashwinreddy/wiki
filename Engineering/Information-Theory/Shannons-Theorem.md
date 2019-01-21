@@ -35,3 +35,7 @@ $R(\delta)$: rate-distortion fora  given src, how do you find rate-distortion fo
 Hook up the source to various different "test" channels s.t. $\mathbb{E}[d] \leq \delta$. Then pick the one that minimizes $I(X; Y)$. Call this minimum value $R(\delta)$.
 
 <img src="/uploads/distortion-cost.jpg">
+
+Given a channel, how do you find $C(\beta)$? Hook up various test sources and find the source that satisfies expected cost less than equal to beta. then pick the one that maximizes mutual information between x and y. That is c of beta. 
+
+Previosuly we had infinite cost and 0 distortion.
