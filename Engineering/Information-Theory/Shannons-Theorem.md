@@ -52,4 +52,22 @@ R(\delta) = \begin{cases} H(p) - H(\delta) & 0 \leq \delta < p \\\
 
 The distortion metric we ues is $d(x, y) = \delta_{xy}$ with this $\delta$ being the Kronecker delta.
 
+The expected distortion can be treated as a probability because it is between 0 and 1.
+
+\begin{equation}
+I(X; Y) + H\left[\mathbb{E}_{xy}(d(x, y))\right] \geq H(p)
+\end{equation}
+
+\begin{align}
+I(X; Y) &= H(X) - H(X|Y) \\\
+&= H(p) - H(X|Y) \\\
+&= H(p) - H(X \oplus Y | Y) \\\
+&\geq H(p) - H(X \oplus Y) \\\
+&= H(p) - H\left[E_{xy}(d(x,y))\right]
+\end{align}
+
+
+
+
+
 
