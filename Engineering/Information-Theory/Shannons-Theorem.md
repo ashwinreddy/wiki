@@ -13,3 +13,23 @@ to pervent symbols from dropping out completely.
 Picture
 
 <img src="/uploads/buffered-channel.jpg">
+
+# Definitions of $R(\delta)$, $C(\beta)$
+
+Src -> X -> Channel -> Y
+
+Expected distortion
+
+\begin{equation}
+\mathbb{E}[d] = \sum p(x,y) d(x,y)
+\end{equation}
+
+\begin{equation}
+\mathbb{E}[c] = \sum p(x) c(x)
+\end{equation}
+
+Expected amount of information per symbol is $I(X; Y)$
+
+$R(\delta)$: rate-distortion fora  given src, how do you find rate-distortion for a given $\delta$?
+
+Hook up the source to various different "test" channels s.t. $\mathbb{E}[d] \leq \delta$. Then pick the one that minimizes $I(X; Y)$. Call this minimum value $R(\delta)$.
