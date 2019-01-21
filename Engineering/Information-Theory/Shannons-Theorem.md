@@ -39,3 +39,18 @@ Hook up the source to various different "test" channels s.t. $\mathbb{E}[d] \leq
 Given a channel, how do you find $C(\beta)$? Hook up various test sources and find the source that satisfies expected cost less than equal to beta. then pick the one that maximizes mutual information between x and y. That is c of beta. 
 
 Previosuly we had infinite cost and 0 distortion.
+
+# Bianry Source
+
+Imagine a binary source that produces 1 with probability $p$ and 0 with probability $1-p$. Wlog $p \leq 1/2$. Claim:
+
+\begin{equation}
+R(\delta) = \begin{cases} H(p) - H(\delta) & 0 \leq \delta < p \\\
+0 & \delta \geq p
+\end{cases}
+
+\end{equation}
+
+
+
+
