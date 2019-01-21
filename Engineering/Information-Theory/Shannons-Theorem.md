@@ -2,7 +2,13 @@ Rate-distortion $R(\delta)$ depends only on the source. Roughly, $R(\delta)$ mea
 
 The capacity cost function $C(\beta)$ depends only on the channel. Roughly, $C(\beta)$ is how many bits of information the channel can transmit if you have a cost of $\beta$.
 
-Shannon's theorem says one can build an encoder/decoder that achieves a performance of $\delta$ at a cost of $\beta$ iff $R(\delta) < C(\beta)$.
+Shannon's theorem says one can build an encoder/decoder that achieves a performance of $\delta$ at a cost of $\beta$ iff
+
+\begin{equation}
+\boxed{R(\delta) < C(\beta)}
+\end{equation}
+
+to pervent symbols from dropping out completely.
 
 Picture
 
