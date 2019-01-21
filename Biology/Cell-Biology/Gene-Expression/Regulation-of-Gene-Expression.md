@@ -1,7 +1,8 @@
-Prokaryotes and eukaryotes both regulate their gene expression. For eukaryotes, it is also how they differentiate into cell types.
-
 Gene Regulation
 : Mechanisms that induce or repress the expression of a gene
+
+
+[[Prokaryote]]s and eukaryotes both regulate their gene expression. For eukaryotes, it is also how they differentiate into cell types.
 
 Bacteria can rapidly respond to changes in the environment with gene regulation -- they only make those proteins which they have to make. So how do bacteria regulate [gene expression](./)? First, they can regulate [[transcription]]. Take the example of tryptophan. When enough tryptophan is produced for the cell, the cell stops producing the enzymes that helps create it. They can also regulate the activity of one of the enzymes that helped create it through [[feedback inhibition]], which results in a much quicker response.
 
