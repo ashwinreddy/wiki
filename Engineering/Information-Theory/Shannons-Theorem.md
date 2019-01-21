@@ -5,3 +5,5 @@ The capacity cost function $C(\beta)$ depends only on the channel. Roughly, $C(\
 Shannon's theorem says one can build an encoder/decoder that achieves a performance of $\delta$ at a cost of $\beta$ iff $R(\delta) < C(\beta)$.
 
 Picture
+
+[[buffered-channel.jpg]]
