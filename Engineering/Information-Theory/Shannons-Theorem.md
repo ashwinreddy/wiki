@@ -66,8 +66,33 @@ I(X; Y) &= H(X) - H(X|Y) \\\
 &= H(p) - H\left[E_{xy}(d(x,y))\right]
 \end{align}
 
+Corollary: Limit yourself to those test channels s.t. they yield $E[d] \leq \delta$
 
+\begin{equation}
+I(X; Y) \geq H(p) - H(\delta)
+\end{equation}
 
+\begin{equation}
+E_{xy}\left[d(x, y)\right] \leq \delta
+\end{equation}
 
+Take the entropy of the equation but only because $\delta \leq 1/2$
 
+\begin{equation}
+I(X; Y) + H(\mathbb{E}_{xy}[d(x,y)]) \geq H(p)
+\end{equation}
 
+\begin{equation}
+I(X; Y) + H(\delta) \geq H(p)
+\end{equation}
+
+We know that $R(\delta) \geq H(p) - H(\delta)$
+
+If $\delta \leq p$, then concoct a bizzare test channel s.t.
+
+a) this channel in conjunction with the source has an expected distortion of $\delta$
+b) this channel in conjunction with the source has mutual info of $H(p) - H(\delat0$
+
+Since \delta \leq 1/2$, pretend it is a prob and design a BSC w/ prob of error $\delta$
+
+Look for a mystery channel with the following property.
