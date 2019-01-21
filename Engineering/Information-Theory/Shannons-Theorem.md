@@ -6,4 +6,4 @@ Shannon's theorem says one can build an encoder/decoder that achieves a performa
 
 Picture
 
-<img src="/uploads/buffered-channel.jpg" style="transform:rotate(180deg);">
+<img src="/uploads/buffered-channel.jpg">
