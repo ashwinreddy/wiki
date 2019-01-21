@@ -48,7 +48,6 @@ Imagine a binary source that produces 1 with probability $p$ and 0 with probabil
 R(\delta) = \begin{cases} H(p) - H(\delta) & 0 \leq \delta < p \\\
 0 & \delta \geq p
 \end{cases}
-
 \end{equation}
 
 
