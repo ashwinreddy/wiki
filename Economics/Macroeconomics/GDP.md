@@ -20,3 +20,6 @@ This yields
 Y \equiv C + I + G + X_{net}
 \end{equation}
 
+# Real GDP
+
+Adjusting GDP requires the use of a price index.
