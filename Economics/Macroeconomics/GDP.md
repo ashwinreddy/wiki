@@ -3,11 +3,13 @@
 GDP is a monetary measure because we need to use dollar amount to compare different goods and services. We can only say a country that makes 1 house is economically more productive than one that makes six shirts because the house has more value to society as it costs more.
 
 
+
+
 - Final good or service is one that isn't used to make another good or service. A sandwich's price includes the value of its constituents. Some goods can be final in one scenario and not final in an another (purchasing a tomato at a farmer's market versus tomato in ketchup)
 - Where it is produced (American selling a Mexican car; the car was made in Mexico, it contributes to Mexico's GDP)
 - When it is produced.
 
-What is not included in the GDP?
+# Expenditures not included
 
 - Black market goods. Drugs, murder, babysitting. 
 - Abroad (made outside of the country)
