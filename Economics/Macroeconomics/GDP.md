@@ -22,4 +22,5 @@ Y \equiv C + I + G + X_{net}
 
 # Real GDP
 
-Adjusting GDP requires the use of a price index.
+Adjusting GDP requires the use of a price index called the GDP deflator. However, a [[consumer price index]] would also work.
+
