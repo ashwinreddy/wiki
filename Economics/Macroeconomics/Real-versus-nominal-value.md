@@ -2,6 +2,8 @@ In economics, a **nominal value** is measured using dollars from that year while
 
 # GDP
 
+Nominal GDP measures today's prices times today's quantities. Real GDP uses base year prices times today's quantity.
+
 \begin{equation}
 \text{Real }Y = \frac{\text{Nominal } Y}{\text{CPI}}\times 100
 \end{equation}
