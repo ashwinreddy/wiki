@@ -1,0 +1,1 @@
+**Consumer price index** (or **CPI**) is a price index for household purchases.
