@@ -6,7 +6,7 @@ In economics, a **nominal value** is measured using dollars from that year while
 \text{Real }Y = \frac{\text{Nominal } Y}{\text{CPI}}\times 100
 \end{equation}
 
-Conceptually, this is kind of like
+Conceptually, this is kind of like saying
 
 \begin{equation}
 Q \equiv \frac{P_0 \times Q_0}{P}
