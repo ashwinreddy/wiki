@@ -1,4 +1,6 @@
-**Gross domestic product** (**GDP**) is the total (gross) dollar amount of all the final goods and services (product) produced by a country (domestic) in a given time period. GDP is basically a measure of the total value produced by a nation in that it is the total quantity produced times the average market value of all the things produced. So in some sense, it is like the country's total revenue. It is a key variable in the study of macroeconomics. GDP has [real and nominal](./Real-versus-nominal-value) quantities.
+**Gross domestic product** (**GDP**) is the total (gross) dollar amount of all the final goods and services (product) produced by a country (domestic) in a given time period. GDP is basically a measure of the total value produced by a nation in that it is the total quantity produced times the average market value of all the things produced. So in some sense, it is like the country's total revenue. It is a key variable in the study of macroeconomics. 
+
+GDP has [real and nominal](./Real-versus-nominal-value) quantities. Adjusting GDP from nominal to real requires the use of a price index called the GDP deflator. However, a [[consumer price index]] would also work. Economic growth is measured by a percent change in real GDP.
 
 GDP is a monetary measure because we need to use dollar amount to compare different goods and services. We can only say a country that makes 1 house is economically more productive than one that makes six shirts because the house costing more indicates that it has more value to society.
 
@@ -20,17 +22,5 @@ This yields
 Y \equiv C + I + G + X_{net}
 \end{equation}
 
-# Real GDP
-
-Adjusting GDP requires the use of a price index called the GDP deflator. However, a [[consumer price index]] would also work.
-
-# Growth
-
-Economic growth is measured by a percent change in real GDP.
-
-# Per Capita
 
 The actual measurement we care about is real GDP per capita. If a country's population increases rapidly, and its economic output does as well, that doesn't leave individuals with more. 
-
-
-
