@@ -1,6 +1,6 @@
-**Gross domestic product** (**GDP**) is the total (gross) dollar amount of all the final goods and services (product) produced by a country (domestic) in a given time period.
+**Gross domestic product** (**GDP**) is the total (gross) dollar amount of all the final goods and services (product) produced by a country (domestic) in a given time period. It is a key variable in the study of macroeconomics.
 
-GDP is basically a measure of the total amount produced times the average market value of all the things produced. So in some sense, it is like the country's total revenue.
+GDP is basically a measure of the total value produced by a nation in that it is the total quantity produced times the average market value of all the things produced. So in some sense, it is like the country's total revenue.
 
 - We need to use dollar amount to compare different goods and services. A country that makes 1 house is economically more productive than one that makes six shirts because the house has more value to society (it costs more)
 - Final good or service is one that isn't used to make another good or service. A sandwich's price includes the value of its constituents. Some goods can be final in one scenario and not final in an another (purchasing a tomato at a farmer's market versus tomato in ketchup)
