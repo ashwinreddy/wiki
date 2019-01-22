@@ -90,9 +90,10 @@ We know that $R(\delta) \geq H(p) - H(\delta)$
 
 If $\delta \leq p$, then concoct a bizzare test channel s.t.
 
-a) this channel in conjunction with the source has an expected distortion of $\delta$
-b) this channel in conjunction with the source has mutual info of $H(p) - H(\delat0$
+- this channel in conjunction with the source has an expected distortion of $\delta$
+- this channel in conjunction with the source has mutual info of $H(p) - H(\delta)$
 
-Since \delta \leq 1/2$, pretend it is a prob and design a BSC w/ prob of error $\delta$
+Since $\delta \leq 1/2$, pretend it is a prob and design a BSC w/ prob of error $\delta$
 
 Look for a mystery channel with the following property.
+
