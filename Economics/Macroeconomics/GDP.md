@@ -1,7 +1,7 @@
 **Gross domestic product** (**GDP**) is the total (gross) dollar amount of all the final goods and services (product) produced by a country (domestic) in a given time period. GDP is basically a measure of the total value produced by a nation in that it is the total quantity produced times the average market value of all the things produced. So in some sense, it is like the country's total revenue. It is a key variable in the study of macroeconomics. GDP has [real and nominal](./Real-versus-nominal-value) quantities.
 
 
-We can measure GDP by spending or by earnings, but typically we use spending.
+We typically measure GPD by spending, but we can also use earnings. When measuring by spending, the breakdown is as follows:
 
 - Consumer spending
 - Investments - business spending on capital and all new housing
