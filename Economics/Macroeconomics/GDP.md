@@ -24,3 +24,13 @@ Y \equiv C + I + G + X_{net}
 
 Adjusting GDP requires the use of a price index called the GDP deflator. However, a [[consumer price index]] would also work.
 
+# Growth
+
+Economic growth is measured by a percent change in real GDP.
+
+# Per Capita
+
+The actual measurement we care about is real GDP per capita. If a country's population increases rapidly, and its economic output does as well, that doesn't leave individuals with more. 
+
+
+
