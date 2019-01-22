@@ -4,7 +4,7 @@
 We can measure GDP by spending or by earnings, but typically we use spending.
 
 - Consumer spending
-- Investments - business spendnig on capital and all new housing
+- Investments - business spending on capital and all new housing
 - Government spending
 - Net exports
 
