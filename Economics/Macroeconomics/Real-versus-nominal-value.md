@@ -1,0 +1,1 @@
+In economics, a **nominal value** is measured using dollars from that year while its **real value** counterpart is adjusted for inflation / deflation.
