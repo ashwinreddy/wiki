@@ -12,7 +12,7 @@ We typically measure GPD by spending, but we can also use earnings. When measuri
 - Consumer spending
 - Investments - business spending on capital and all new housing
 - Government spending
-- Net exports
+- [[Net exports]]
 
 This yields
 
