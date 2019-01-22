@@ -1,0 +1,1 @@
+Inflation rate can be measured as a percent change in CPI.
