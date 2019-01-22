@@ -1,1 +1,3 @@
 An **intermediate good** is one that it is used to produce something else. Some goods can be intermediate in some circumstances and final in others.
+
+Intermdiate goods are not counted in [[GDP]]
