@@ -9,5 +9,5 @@ In economics, a **nominal value** is measured using dollars from that year while
 Conceptually, this is kind of like
 
 \begin{equation}
-Q = \frac{P_0 \times Q}{P}
+Q = \frac{P_0 \times Q_0}{P}
 \end{equation}
