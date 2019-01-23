@@ -1,1 +1,1 @@
-**Temperature** is average [[kinetic energy]]
+**Temperature** is average [[kinetic energy]].
