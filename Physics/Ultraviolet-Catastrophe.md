@@ -1,0 +1,1 @@
+**Ultraviolet catastrophe** was the prediction in classical physics of Rayleigh and Jeans.
