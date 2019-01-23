@@ -1,6 +1,1 @@
-There are three variables we will look at:
-
-1. [[GDP]]
-2. Unemployment
-3. [[Inflation]]
-
+The goal of macroeconomics is to stabilize the business cycle while growing our level of real output over time, which is measured by [[GDP]]. The problems we face in trying to accomplish these tasks are [[inflation]] and [[unemployment]].
