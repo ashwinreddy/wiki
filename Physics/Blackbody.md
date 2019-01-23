@@ -1,0 +1,1 @@
+A **blackbody** need not be black.
