@@ -1,0 +1,1 @@
+In 1687, Isaac Newton publishes _Principia_, which describes his three laws of motion and the universal law of gravitation among other concepts.
