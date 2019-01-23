@@ -17,6 +17,23 @@ The kind of unemployment dictates the appropriate policy response.
 - Cyclical unemployment is due to the business cycle
 - Seasonal unemployment is due to seasons. Farmers hired for the harvest. Retail workers for the holiday season.
 
+Examples:
+
+|Description|Type|
+|------------|---|
+|A computer programmer is laid off because of a recession|C|
+|A literary editor leaves her job in New York to look for a new job in SFO|F|
+|An unemployed college graduate is looking for his first job|F|
+|Advances in technology make the assemby-line worker's job obsolete|S|
+|Slumping sales lead to the cashier being laid off|C|
+|An individual refuses to work for minimum wage|N|
+|A high school graduate lacks the skills neccessary for a particular job|S|
+|Workesr are laid off when the local manufacturing plant closes because the product made there isn't selling during a recession|C|
+|A skilled glass blower becomes unemployed when a new machine does her job faster|S|
+|An individual has been laid off during a recession and has been looking for work unsucessfully for so long that he has finally given up actively seeking a job|N|
+|A college graduate works at a job that does not require a college education|N|
+
+
 # Full employment
 
 Full employment or the natural rate of employment is 100% - the different kinds of unemployment except cyclical.
