@@ -1,1 +1,1 @@
-The **labor force** includes all those who are willing and able to work. If one is in the labor force, he or she must necessarily be either employed or [[unemployed]]. 
+The **labor force** includes all those who are willing and able to work. If one is in the labor force, he or she must necessarily be either employed or [unemployed](./Unemployment). 
