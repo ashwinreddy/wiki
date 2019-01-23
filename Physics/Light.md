@@ -1,0 +1,1 @@
+**Light** can be anything in the EM spectrum. Color/frequency/energy/wavelength are all interchangeable.
