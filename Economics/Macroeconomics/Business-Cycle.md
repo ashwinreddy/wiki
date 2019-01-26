@@ -2,6 +2,6 @@ The **business cycle** is the GDP as a function of time, typically with the foll
 
 **Missing graph, include from notes**
 
-You can imagine that the business cycle could be roughly modelled with $ax+\sin(bx)$ and that our goal is to maximize $a$ and to minimize $\lvert b\rvert$.
+You can imagine that the business cycle could be roughly modelled with $y(t)=at+\sin(bt)$ and that our goal is to maximize $a$ and to minimize $\lvert b\rvert$.
 
 Reasons for the biz cycle include shocks, money, and technology bubbles.
