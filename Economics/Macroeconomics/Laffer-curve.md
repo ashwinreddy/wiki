@@ -1,1 +1,1 @@
-[[https://www.investopedia.com/thmb/oua-gYbiCSF8lPSysXWt25cqGY4=/250x202/filters:no_upscale()/laffercurve-5bfd6c1b46e0fb0026957e0a]]
+<img src="https://www.investopedia.com/thmb/oua-gYbiCSF8lPSysXWt25cqGY4=/250x202/filters:no_upscale()/laffercurve-5bfd6c1b46e0fb0026957e0a">
