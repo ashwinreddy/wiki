@@ -4,4 +4,4 @@ However, there must be an increase between the two points. Thus, we must see a c
 
 <img src="https://www.investopedia.com/thmb/oua-gYbiCSF8lPSysXWt25cqGY4=/250x202/filters:no_upscale()/laffercurve-5bfd6c1b46e0fb0026957e0a">
 
-This means that reducing the tax rate may actually create higher revenue, depending on the actual curve.
+This means that reducing the tax rate may actually create higher revenue, depending on the empirical curve and where we currently sit.
