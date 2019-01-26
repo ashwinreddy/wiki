@@ -12,3 +12,5 @@ Reaganomics
 : If a leftward shift in supply creates problems for the economy, then a rightward shift must be great.
 
 On the one hand, you get econ growth. On the other, you get income inequality and debt.
+
+Inflation hurts fixed income receivers, savers, and creditors while it helps debtors.
