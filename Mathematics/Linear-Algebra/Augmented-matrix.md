@@ -1,0 +1,1 @@
+An **augmented matrix** represents a system of linear equations.
