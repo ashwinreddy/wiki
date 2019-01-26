@@ -10,4 +10,10 @@ Humans and chairs are reasonably good blackbodies.
 
 Blackbodies would look black.
 
+Stars are decent blackbodies (not great though) because they are not in thermal equilibrium with their surroundings.
+
 The quality of the material as an absorber is indicative of its quality as an emitter.
+
+# Applications
+
+An infrared thermometer uses a Planck spectrum and Wein's law to determine temperature.
