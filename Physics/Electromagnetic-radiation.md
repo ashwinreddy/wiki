@@ -1,0 +1,1 @@
+**Electromagnetic radiation**, or in common parlance light, 
