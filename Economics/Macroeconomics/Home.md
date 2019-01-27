@@ -17,6 +17,8 @@ Finally, capital and entrepreneurship are always good to have.
 
 From this, we create a list of keys to economic growth.
 
-- Better people, which in economic terms is called better human capital. Influenced by quality of education.
-- Capital Stock (K) influenced by interest rate
-- Better quality capital, or technology, influenced by research
+|Factor|Term|Influence|
+|------|----|---------|
+|Higher quality people|Human Capital|Education|
+|Higher quantity capital|Capital Stock (K)|Interest Rate|
+|Higher quality capital|Technology|Research|
