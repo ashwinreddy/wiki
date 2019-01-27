@@ -1,0 +1,1 @@
+**Reagonomics**, closely related to supply-side economics posits that the economy should try to move its supply curve to the right.
