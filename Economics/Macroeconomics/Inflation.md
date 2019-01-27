@@ -7,7 +7,7 @@ What would cause an increase in price? A rightward shift in demand or a leftward
 
 In demand-pull inflation, the total economic quantity (real GDP) also increases whereas cost-push inflation causes a decrease in real GDP and maybe also unemployment. 
 
-Reaganomics
+[[Reaganomics]]
 
 : If a leftward shift in supply creates problems for the economy, then a rightward shift must be great.
 
