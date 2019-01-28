@@ -6,4 +6,5 @@ Binary [[fission]] begins when the DNA replicates at the origin of replication. 
 
 - Lysogeny spares bacteria from death
 - Natural selection favors bacterial mutants with surface proteins that are no longer recognized as receptors by a particular type of phage
-- Phage DNA can be identified as foreign and cut up by [[restriction enzymes]]
+- Phage DNA can be identified as foreign and cut up by [[restriction enzyme]].
+- 
