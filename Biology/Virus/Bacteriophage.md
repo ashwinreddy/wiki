@@ -1,0 +1,1 @@
+A **bacteriophage** (or **phage**) is a type of virus that infects and replicates within bacteria and archaea.
