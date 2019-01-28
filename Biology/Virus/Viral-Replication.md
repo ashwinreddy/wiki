@@ -16,3 +16,5 @@ Animal viruses are more likely than phages to have envelopes.
 5. Vesicles transport envelope glycoproteins to plasma membrane
 6. Capsid assembles around viral genome
 7. Virus buds off with envelope studded with viral glycoproteins
+
+Host cell left alive.
