@@ -1,0 +1,1 @@
+A **restriction enzyme** cuts [[DNA]] at a restriction site.
