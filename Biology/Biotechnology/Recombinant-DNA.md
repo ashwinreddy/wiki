@@ -10,3 +10,5 @@ One way to create recombinant DNA is using a [[restriction enzyme]]. Bacterial c
 How does one check whether it worked or not? Run a [[gel electrophoresis]].
 
 How can we ensure that the gene will be expressed? One way is to use an [[expression vector]].
+
+Yeast is sometimes a preferable alternative to bacteria. They are as easy to grow and also have plasmids but are eukaryotes.
