@@ -1,0 +1,1 @@
+**Gel electrophoresis** is a method for separation and analysis of macromolecules (DNA, RNA and proteins) and their fragments, based on their size and charge.
