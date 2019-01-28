@@ -10,7 +10,6 @@ Viruses can inject their DNA or be taken up by endocytosis or the viral envelope
 
 Viruses were discovered when scientists observed that rubbing the sap of diseased plants on healthy plants caused the healthy plants to become diseased. 
 
----
 
 |Living|Non-living|
 |------|----------|
