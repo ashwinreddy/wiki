@@ -18,3 +18,15 @@ Animal viruses are more likely than phages to have envelopes.
 7. Virus buds off with envelope studded with viral glycoproteins
 
 Host cell left alive.
+
+# Retrovirus
+
+1. Envelope glycoproteins enable virus to bind to specific receptors on cells
+2. Virus fuses with cell's plasma membrane. Capsid proteins are removed, releasing viral proteins and RNA.
+3. Reverse transcriptase catalyzes synthesis of a DNA strand complimentary to viral RNA
+4. Reverse transcriptase cataylzes synthesis of DNA strand complimentary to the one above
+5. DNA incorporated into cell as a **provirus**
+6. Proviral genes transcribed 
+7. Vesicles transport glycoproteins to plasma membrane
+8. Capsid assembles around viral genomes and reverse transcriptase molecules
+9. Buds from host
