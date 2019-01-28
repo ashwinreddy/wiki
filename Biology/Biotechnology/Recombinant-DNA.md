@@ -8,3 +8,5 @@ One way to create recombinant DNA is using a [[restriction enzyme]]. Bacterial c
 4. DNA ligase seals the strands
 
 How does one check whether it worked or not? Run a [[gel electrophoresis]].
+
+How can we ensure that the gene will be expressed? One way is to use an [[expression vector]].
