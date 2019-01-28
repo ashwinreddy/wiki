@@ -8,4 +8,4 @@ The central dogma of biology is basically that proteins are created from DNA.
 
 [Biotechnology](./Biotechnology/)
 
-[Virus](./Virus/)
+[Virology](./Virology/)
