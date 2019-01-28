@@ -6,3 +6,5 @@ One way to create recombinant DNA is using a [[restriction enzyme]]. Bacterial c
 2. The same restriction enzyme is used to cut a fragment from a different DNA molecule
 3. The sticky ends of the inserted DNA molecule and the plasmid connect
 4. DNA ligase seals the strands
+
+How does one check whether it worked or not? Run a [[gel electrophoresis]].
