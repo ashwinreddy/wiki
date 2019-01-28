@@ -2,6 +2,6 @@ A **retrovirus** is a type of RNA virus that inserts a copy of its genome into t
 
 - Glycoproteins
 - Viral envelope
-- Capsid
-- RNA (two identical strands)
+- [[Capsid]]
+- [[RNA]] (two identical strands)
 - Reverse Transcriptase
