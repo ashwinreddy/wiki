@@ -12,11 +12,15 @@ Viruses were discovered when scientists observed that rubbing the sap of disease
 
 ---
 
-Are viruses living or nonliving? Some people say viruses lead "a kind of borrowed life."
+|Living|Non-living|
+|------|----------|
+|Uses a genetic code|Can only reproduce within host cell|
+|Evolutionary connection to living world|No ribosomes to make proteins|
+|Probably evolved after life first appeared|Generally no source of energy|
 
-Viruses probably evolved after the first cells as a result of nucleic acids moving from cell to cell. The original source for viral genomes could be plasmids or transposons, which, like viruses, are mobile genetic elements.
+The original source for viral genomes could be plasmids or transposons, which, like viruses, are mobile genetic elements.
 
-Viruses often share genetic information with their hosts but also other viruses.
+Viruses often share genetic information with their hosts but they also share genetic information with other viruses.
 
 # Symptoms
 
