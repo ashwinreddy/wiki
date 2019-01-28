@@ -1,0 +1,1 @@
+A **capsid** is the protein shell of a [virus](./)
