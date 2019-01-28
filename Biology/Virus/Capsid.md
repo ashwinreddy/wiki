@@ -1,1 +1,1 @@
-A **capsid** is the protein shell of a [virus](./). The capsid is made up of [[capsomere]]s.
+A **capsid** is the protein shell of a [virus](./). The capsid is made up of capsomeres. 
