@@ -16,6 +16,6 @@ For example, a T4 phage will use its tail fibers to bind to proteins on an _E. c
 
 # Lysogenic Cycle
 
-The DNA of the virus is incorporated into a specific site on the bacterial chromosome (viral proteins will break the circular DNA molecule and insert the viral DNA, which is now known as a **prophage** inside the bacteria). However, there's one gene on the prophage gene that prevents transcription of most of the other genes. When the bacteria divides, the prophage is carried along with it. 
+The DNA of the virus is incorporated into a specific site on the bacterial chromosome (viral proteins will break the circular DNA molecule and insert the viral DNA, which is now known as a **prophage** inside the bacteria). However, there's one gene on the prophage gene that prevents transcription of most of the other genes. There might be a few that alter the host's phenotype. 
 
-An environmental signal triggers the switchover from lysogenic to lytic. 
+When the bacteria divides, the prophage is carried along with it. An environmental signal triggers the switchover from lysogenic to lytic. 
