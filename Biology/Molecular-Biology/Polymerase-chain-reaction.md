@@ -7,5 +7,5 @@
 
 |Advantages|Disadvantages|
 |----------|-------------|
-|PCR is very quick|Prone to errors|
+|Very quick|Prone to errors|
 |Can target specific genes|Cannot clone large amounts|
