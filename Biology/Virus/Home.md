@@ -15,3 +15,14 @@ Are viruses living or nonliving? Some people say viruses lead "a kind of borrowe
 Viruses probably evolved after the first cells as a result of nucleic acids moving from cell to cell. The original source for viral genomes could be plasmids or transposons, which, like viruses, are mobile genetic elements.
 
 Viruses often share genetic information with their hosts but also other viruses.
+
+# Symptoms
+
+- Damaged or killed cells caused by the release of hydrolytic enzymes from lysosomes
+- Cells producing toxins or molecular components of virus are toxic
+
+# Emergence 
+
+- Mutation of exiting viruses. RNA viruses have high mutation rates because viral RNA polymerase does not proofread or correct errors.
+- Dissemination of viral disease from small, isolated population
+- Spread of viruses from animals
