@@ -7,3 +7,11 @@ Some viruses are surrounded by a membranous envelope called the **viral envelope
 Viruses have a limited number of host species, called the **host range**. They usually identify the host cell by a fit between the viral surface proteins and specific receptor molecules on the cells. Host ranges for some viruses can be quite broad or very limited.
 
 Viruses can inject their DNA or be taken up by endocytosis or the viral envelope can fuse with the plasma membrane. This leads to [[viral replication]]
+
+---
+
+Are viruses living or nonliving? Some people say viruses lead "a kind of borrowed life."
+
+Viruses probably evolved after the first cells as a result of nucleic acids moving from cell to cell. The original source for viral genomes could be plasmids or transposons, which, like viruses, are mobile genetic elements.
+
+Viruses often share genetic information with their hosts but also other viruses.
