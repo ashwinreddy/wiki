@@ -1,1 +1,0 @@
-A **virus** consists of a nucleic acid surrounded by a protein coat. Viruses were discovered when scientists observed that rubbing the sap of diseased plants on healthy plants caused the healthy plants to become diseased. 
