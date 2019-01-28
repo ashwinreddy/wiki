@@ -2,4 +2,6 @@
 
 [[https://cdn.kastatic.org/ka-perseus-images/ec82418c42e1a4176745273dab3c204bf50cc603.png]]
 
-Because DNA
+Because DNA is negatively charged, it will move towards the positive electrode. Smaller fragments will move farther ahead.
+
+You can use gel electrophoresis to distinguish between different alleles because restriction enzymes will cut them at different sites and thus give them different lengths.
