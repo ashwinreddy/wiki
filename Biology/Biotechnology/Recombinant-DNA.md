@@ -9,7 +9,7 @@ One way to create recombinant DNA is using a [[restriction enzyme]]. Bacterial c
 3. The sticky ends of the inserted DNA molecule and the plasmid connect
 4. DNA ligase seals the strands
 
-Another way is to use electroporation 
+Another way is to use [[electroporation]].
 
 # How to Check
 
