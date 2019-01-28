@@ -1,1 +1,1 @@
-A **restriction enzyme** cuts [[DNA]] at a restriction site.
+A **restriction enzyme** cuts [[DNA]] at a restriction site. They are so called because restict a [[bacteriophage]]'s ability to replicate within the bacterium.
