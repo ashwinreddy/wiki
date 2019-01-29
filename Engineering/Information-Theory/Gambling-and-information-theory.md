@@ -19,5 +19,13 @@ If horse $i$ wins, the gambler gets $o_i$ times the amount of wealth bet on $i$.
 Let us find $S_n$, the gambler's relative wealth after $n$ races.
 
 \begin{equation}
-S_n = \prod_{i=1}^n S(X_i)
+S_n = \prod_{i=1}^n S(X_i) \qquad S(X) = b(X)\cdot o(X)
+\end{equation}
+
+$S(X)$ is the factor by which the gambler's wealth is multiplied if horse $X$ wins.
+
+The doubling rate of a race is 
+
+\begin{equation}
+W(b, p) = \mathbb{E}[\log S(X)\right] = \sum_{k=1}^m p_k \log b_k o_k
 \end{equation}
