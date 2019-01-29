@@ -22,3 +22,6 @@ From this, we create a list of keys to economic growth.
 |Higher quality people|Human Capital|Education|
 |Higher quantity capital|Capital Stock (K)|Interest Rate|
 |Higher quality capital|Technology|Research|
+
+
+[[Aggregate demand]] and [[aggregate supply]]
