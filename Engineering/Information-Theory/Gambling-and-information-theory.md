@@ -47,10 +47,10 @@ J(b) = \sum_k p_k \log b_k o_k + \lambda \sum b_i
 Then we set $\frac{\partial J}{\partial b_i} = 0$, so
 
 \begin{align*}
-\frac{p_i}{b_i} + \lambda = 0  \\
-b_i = -p_i / \lambda \\
+\frac{p\sb{i}}{b\sb{i}} + \lambda = 0  \\
+b\sb{i} = -p\sb{i} / \lambda \\
 \sum b_i = 1 \\
-b_i = p_i
+b\sb{i} = p\sb{i}
 \end{align*}
 
 The optimum double rating is given by (when $b^\star=p$)
