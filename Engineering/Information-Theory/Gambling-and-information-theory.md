@@ -38,7 +38,14 @@ Let the race outcomes $X_1, X_2, \dots X_n$ be i.i.d and $\sim p(x)$. Wealth of 
 S_n = 2^{n W(b,p)}
 \end{equation}
 
-How can one maximize $S_n$? Maximize $W(b,p)$. The optimum double rating is given by (when $b^\star=p$)
+How can one maximize $S_n$? Maximize $W(b,p)$. 
+
+\begin{gather*}
+J(b) = \sum_k p_k \log b_k o_k + \lambda \sum b_i \\\
+a
+\end{gather*}
+
+The optimum double rating is given by (when $b^\star=p$)
 
 \begin{equation}
 W^\star = \sum_i p_i \log o_i - H(p)
