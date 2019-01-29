@@ -47,9 +47,9 @@ J(b) = \sum_k p_k \log b_k o_k + \lambda \sum b_i
 Then we set $\frac{\partial J}{\partial b_i} = 0$, so
 
 \begin{align*}
-\frac{p_i}{b_i} + \lambda = 0  \\\
-b_i = -p_i / \lambda \\\
-\sum b_i = 1 \\\
+\frac{p_i}{b_i} + \lambda = 0  \\
+b_i = -p_i / \lambda \\
+\sum b_i = 1 \\
 b_i = p_i
 \end{align*}
 
