@@ -40,10 +40,18 @@ S_n = 2^{n W(b,p)}
 
 How can one maximize $S_n$? Maximize $W(b,p)$. 
 
-\begin{gather*}
-J(b) = \sum_k p_k \log b_k o_k + \lambda \sum b_i \\\
-a
-\end{gather*}
+\begin{equation}
+J(b) = \sum_k p_k \log b_k o_k + \lambda \sum b_i
+\end{equation}
+
+Then we set $\frac{\partial J}{\partial b_i} = 0$, so
+
+\begin{align*}
+\frac{p_i}{b_i} + \lambda = 0  \\\
+b_i = -p_i / \lambda \\\
+\sum b_i = 1 \\\
+b_i = p_i
+\end{align*}
 
 The optimum double rating is given by (when $b^\star=p$)
 
