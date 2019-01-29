@@ -29,5 +29,5 @@ The doubling rate of a race is
 $\let\sb_$
 
 \begin{equation}
-W(b, p) = \mathbb{E}[\log S(X)\right] = \sum_{k=1}^m p\sb{k} \log b\sb{k} o\sb{k}
+W(b, p) = \mathbb{E}\left[\log S(X)\right] = \sum_{k=1}^m p\sb{k} \log b\sb{k} o\sb{k}
 \end{equation}
