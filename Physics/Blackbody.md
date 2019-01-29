@@ -1,4 +1,8 @@
-A **blackbody** need not be black.
+A **blackbody** is a complex object, simply anything but a gas, that absorbs all electromagnetic energy and radiates it out. The blackbody has what is variously called a blackbody, Planck, continuous, or thermal spectrum. Its absorbance properties also mean that it does not transmit (allow any light to pass through it) or reflect (bounce back any light). The blackbody also obeys Wien's law and the Stefan-Boltzmann law.
+
+
+
+need not be black.
 
 An idealized blackbody would absorb all electromagnetic energy. As a result, it would heat up and emit an equal amount of energy, assuming it is in thermal equilibrium. Because of these properties, it would look black. It would not reflect light because it absorbs everything. Nor would it transmit.
 
