@@ -1,3 +1,3 @@
 \begin{equation}
-\lambda = \frac{b}{T}
+\lambda_{\text{peak}} = \frac{b}{T}
 \end{equation}
