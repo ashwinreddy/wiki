@@ -31,3 +31,15 @@ $\let\sb_$
 \begin{equation}
 W(b, p) = \mathbb{E}\left[\log S(X)\right] = \sum_{k=1}^m p\sb{k} \log b\sb{k} o\sb{k}
 \end{equation}
+
+Let the race outcomes $X_1, X_2, \dots X_n$ be i.i.d and $\sim p(x)$. Wealth of a gambler using a betting strategy $b$ grows exponentially at a rate $W(b,p)$:
+
+\begin{equation}
+S_n = 2^{n W(b,p)}
+\end{equation}
+
+How can one maximize $S_n$? Maximize $W(b,p)$. The optimum double rating is given by (when $b^\star=p$)
+
+\begin{equation}
+W^\star = \sum_i p_i \log o_i - H(p)
+\end{equation}
