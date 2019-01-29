@@ -11,3 +11,5 @@ As prices in the aggregate economy increase, the output decreases because
 Real balance effect
 : An increase in price levels means consumers have less purchasing power. Therefore, consumer spending decreases.
 
+Foreign pruchases or net exports effect
+: An increase in price levels makes the nation's goods more expensive. We buy more foreign goods and foreigners stop purchasing our goods. **DOES THIS INCREASE OR DECREASE $X_n$?**
