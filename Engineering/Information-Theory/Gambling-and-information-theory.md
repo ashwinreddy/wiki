@@ -9,3 +9,15 @@ The gambler distributes his wealth across all horses. A distribution $b$ describ
 \begin{equation}
 \forall i, b_i \geq 0 \qquad \sum_{i=1}^m b_i = 1
 \end{equation}
+
+Thus, $b$ can be thought of as a random variable. 
+
+If horse $i$ wins, the gambler gets $o_i$ times the amount of wealth bet on $i$. All other bets are lost. This makes the wealth at the end also a random variable.
+
+# Wealth
+
+Let us find $S_n$, the gambler's relative wealth after $n$ races.
+
+\begin{equation}
+S_n = \prod_{i=1}^n S(X_i)
+\end{equation}
