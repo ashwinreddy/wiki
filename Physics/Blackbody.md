@@ -57,3 +57,4 @@ There's a derived constant
 \hbar \equiv \frac{h}{2\pi}
 \end{equation}
 
+which lets us say that $E = \hbar \omega$ and $p=\hbar k$ where $k$ is the wavenumber.
