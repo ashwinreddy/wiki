@@ -2,7 +2,7 @@ A **blackbody** is a complex object, simply anything but a gas, that absorbs all
 
 
 
-need not be black.
+The term blackbody is kind of a misnomer. A blackbody will still radiate, just not in the visible light spectrum.
 
 An idealized blackbody would absorb all electromagnetic energy. As a result, it would heat up and emit an equal amount of energy, assuming it is in thermal equilibrium. Because of these properties, it would look black. It would not reflect light because it absorbs everything. Nor would it transmit.
 
@@ -27,4 +27,8 @@ An infrared thermometer uses a Planck spectrum and Wein's law to determine tempe
 Goldilocks zone
 : The region some distance away from a star where liquid water can exist
 
-Let us imagine that there is a spherical star with some radius $R_{\odot}$ and temperature $T_{\odot}$
+Let us imagine that there is a spherical star with some radius $R_{\odot}$ and temperature $T_{\odot}$ and then a planet some distance $d$ away with a radius $r_p$. We can pretend like the planet is like a point compared to the star so we can avoid doing steradians. Also, note that only the half of the planet facing the star will actually absorb the energy. 
+
+\begin{gather}
+L_{\odot} = \Phi_{\odot}\cdot 4 \pi R_{\odot}^2 \\
+\end{gather}
