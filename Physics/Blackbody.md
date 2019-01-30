@@ -21,3 +21,10 @@ The quality of the material as an absorber is indicative of its quality as an em
 # Applications
 
 An infrared thermometer uses a Planck spectrum and Wein's law to determine temperature.
+
+# Goldilocks Zone
+
+Goldilocks zone
+: The region some distance away from a star where liquid water can exist
+
+Let us imagine that there is a spherical star with some radius $R_{\odot}$ and temperature $T_{\odot}$
