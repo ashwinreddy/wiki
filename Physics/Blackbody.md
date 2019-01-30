@@ -30,13 +30,13 @@ Goldilocks zone
 Let us imagine that there is a spherical star with some radius $R_{\odot}$ and temperature $T_{\odot}$ and then a planet some distance $d$ away with a radius $r_p$. We can pretend like the planet is like a point compared to the star so we can avoid doing steradians. Also, note that only the half of the planet facing the star will actually absorb the energy. 
 
 \begin{gather}
-L_{\odot} = \Phi_{\odot}\cdot 4 \pi R_{\odot}^2 \\
-\Phi_{\odot} = \sigma T_{\odot}^4 \\
-\frac{\pi r_p^2}{4\pi d^2} = f \\
-\Phi_p = \frac{L_{\odot} f}{4 \pi r_p^2} \\
-\Phi_p = \sigma T_p^4\\
-T_p^4 = \frac{1}{\sigma}\frac{1}{4\pi r_p^2}\frac{\pi r_p^2}{4\pi d^2}\cdot 4 \pi R_{\odot}^2 \cdot \sigma T_{\odot}^4 \\
-T_p^4 = \frac{1}{4}\frac{1}{d^2} R_{\odot}^2 T_{\odot}^4 \\
-T_p^2 = \frac{R_{\odot}T_{\odot}^2}{2d} \\
+L_{\odot} = \Phi_{\odot}\cdot 4 \pi R_{\odot}^2 \\\
+\Phi_{\odot} = \sigma T_{\odot}^4 \\\
+\frac{\pi r_p^2}{4\pi d^2} = f \\\
+\Phi_p = \frac{L_{\odot} f}{4 \pi r_p^2} \\\
+\Phi_p = \sigma T_p^4\\\
+T_p^4 = \frac{1}{\sigma}\frac{1}{4\pi r_p^2}\frac{\pi r_p^2}{4\pi d^2}\cdot 4 \pi R_{\odot}^2 \cdot \sigma T_{\odot}^4 \\\
+T_p^4 = \frac{1}{4}\frac{1}{d^2} R_{\odot}^2 T_{\odot}^4 \\\
+T_p^2 = \frac{R_{\odot}T_{\odot}^2}{2d} \\\
 T_p = T_{\odot} \sqrt{\frac{R_{\odot}}{2d}}
 \end{gather}
