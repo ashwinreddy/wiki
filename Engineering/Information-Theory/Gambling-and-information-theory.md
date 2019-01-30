@@ -77,8 +77,80 @@ W^\star = \sum_i p_i \log o_i - H(p)
 W(b,p) &= \sum p_i \log b_i o_i \\\
 &= \sum p_i \log \frac{b_i}{p_i} - p_i o_i \\\
 &= \sum p_i \log o_i + \sum p_i \log p_i \\\
-&= \sum p_i \log o_i + \sum p_i \log p_i - D_{KL}(p \parallel b)
+&= \sum p_i \log o_i + \sum p_i \log p_i - D_{KL}(p \parallel b) \\\
+&= \sum p_i \log o_i - H(p)
 \end{align}
 
+w/equality when $b_i = p_i$.
+
+**Example**. 2 horses p1 and p2. Assume even odds (2-for-1). Resulting wealth after n races
+
+\begin{gather}
+S_n = 2^{nW^\star} \\\
+W^\star = \sum p_i \log o_i - H(p) = 1 - H(p)
+\end{gather}
+
+50/50 chance means you always have $1.
+
+**Example**. When odds are fair w.r.t. some distribution
+
+\begin{equation}
+\sum_i \frac{1}{o_i} = 1 \qquad r_i = 1/o_i
+\end{equation}
+
+One interpretation of $r_i$: bookie's estimate of horse $i$ winning.
+
+\begin{align}
+W(b, p) &= \sum p_i \log b_i o_i \\\
+&= \sum p_i \log \left(\frac{b_i}{p_i}p_io_i\right) \\\
+&= \sum p_i \log \frac{p_i}{r_i} - \sum p_i \log \frac{p_i}{b_i} \\\
+&= D(p \parallel r) - D(p \parallel b)
+\end{align}
+
+When does the gambler make money? only when $b$ is "better than" bookie's $r$.
+
+What happens when odds are $m$-for-1?
+
+\begin{equation}
+W(b, p) = D(p \parallel 1/m) - D(p \parallel b)
+\end{equation}
+
+\begin{equation}
+W^\star (b, p) = \log m - H(p)
+\end{equation}
+
+\begin{equation}
+\boxed{W^\star + H(p) = \log m}
+\end{equation}
+
+Allow gambler to retain some cash: $S(X) = b(X)o(X)+ b_0$
+
+a) Fair odds: $\sum r_i = 1$. Nothing changes. Proportional betting.
+b) Superfair odds the sum is less than 1
+c) Subfair odds, the sum is greater than 1
+
+**Problem** 3-for-1 odds on each horse these are fair assuming horses are equally likely to win. $p = (1/2, 1/4, 1/4)$. What is W star b star and wealth. If you put all your money in horse 1 what happens?
+
+\begin{equation}
+W(b) = \sum p_i \log 3 b_i
+\end{equation}
+
+\begin{equation}
+H(p) = 3/2
+\end{equation}
+
+
+
+b star is p star.
+
+\begin{align}
+W\star &= \sum p_i \log 3 p_i \\\
+&= \sum p_i \left(\log 3 + \log p_i\right) \\\
+&= \sum p_i \log 3 + \sum p_i \log p_i \\\
+&= \sum p_i \log 3 - H(p) \\\
+&= \log 3 - 3/2
+\end{align}
+
+$(1/2)^n$ to win $3^n$
 
 
