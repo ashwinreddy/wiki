@@ -38,7 +38,7 @@ L_{\odot} = \Phi_{\odot}\cdot 4 \pi R_{\odot}^2 \\\
 T_p^4 = \frac{1}{\sigma}\frac{1}{4\pi r_p^2}\frac{\pi r_p^2}{4\pi d^2}\cdot 4 \pi R_{\odot}^2 \cdot \sigma T_{\odot}^4 \\\
 T_p^4 = \frac{1}{4}\frac{1}{d^2} R_{\odot}^2 T_{\odot}^4 \\\
 T_p^2 = \frac{R_{\odot}T_{\odot}^2}{2d} \\\
-T_p = T_{\odot} \sqrt{\frac{R_{\odot}}{2d}}
+\boxed{T_p = T_{\odot} \sqrt{\frac{R_{\odot}}{2d}}}
 \end{gather}
 
 However, we are not accounting for reflection or the planet's atmosphere. So this might not be a great estimate for everything, but it could work for the moon, for example.
@@ -57,7 +57,7 @@ There's a derived constant
 \hbar \equiv \frac{h}{2\pi}
 \end{equation}
 
-which lets us say that $E = \hbar \omega$ and $p=\hbar k$ where $k$ is the wavenumber.
+which lets us say that $E = \hbar \omega$ and $p=\hbar k$ where $k$ is the wavenumber. Also, $c = \lambda \nu$.
 
 So let's imagine that light from the sun is hitting a sail. The momentum from the light transfers to the sail, making it move.
 
