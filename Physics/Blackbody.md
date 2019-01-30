@@ -58,3 +58,17 @@ There's a derived constant
 \end{equation}
 
 which lets us say that $E = \hbar \omega$ and $p=\hbar k$ where $k$ is the wavenumber.
+
+So let's imagine that light from the sun is hitting a sail. The momentum from the light transfers to the sail, making it move.
+
+\begin{gather}
+P = \frac{dE}{dt} \\\
+E = pc \\
+\frac{\Delta E}{\Delta t} = \frac{c\Delta p}{\Delta t} \\
+p = Fc \\
+F = \frac{p}{c} \\
+F = \frac{\sigma T^4 \pi R^2 r^2}{cd^2} \\
+\text{Power} = f \cdot L_{\odot} \\
+L_{\odot} = \sigma T^4 \cdot 4 \pi R_{\odot}^2
+\end{gather}
+
