@@ -40,3 +40,20 @@ T_p^4 = \frac{1}{4}\frac{1}{d^2} R_{\odot}^2 T_{\odot}^4 \\\
 T_p^2 = \frac{R_{\odot}T_{\odot}^2}{2d} \\\
 T_p = T_{\odot} \sqrt{\frac{R_{\odot}}{2d}}
 \end{gather}
+
+However, we are not accounting for reflection or the planet's atmosphere. So this might not be a great estimate for everything, but it could work for the moon, for example.
+
+# Solar Sails
+
+Planck realized that if $E = h \nu$ then one could find momentum using dimensional analysis as
+
+\begin{equation}
+p = \frac{h}{\lambda}
+\end{equation}
+
+There's a derived constant 
+
+\begin{equation}
+\hbar \equiv \frac{h}{2\pi}
+\end{equation}
+
