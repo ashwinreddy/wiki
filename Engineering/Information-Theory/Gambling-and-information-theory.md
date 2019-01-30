@@ -58,3 +58,27 @@ The optimum double rating is given by (when $b^\star=p$)
 \begin{equation}
 W^\star = \sum_i p_i \log o_i - H(p)
 \end{equation}
+
+# Optimality
+
+Now one may wonder, why doesn't the betting depend on the payouts. Suppose we have two horses, equally likely to win. One has a payout of 2 to 1 and the other 6 to 1.
+
+In our optimal case, we would bet half our wealth on both. So we expect to get $(1)^{n/2}3^{n/2}$. If we adjust according to payout, we get $(1/2)^{n/2}(9/2)^{n/2}=(9/4)^{n/2}$, which is less.
+
+**Theorem 2**. The optimal doubling rate is given by
+
+\begin{equation}
+W^\star = \sum_i p_i \log o_i - H(p)
+\end{equation}
+
+**Proof**.
+
+\begin{align}
+W(b,p) &= \sum p_i \log b_i o_i \\\
+&= \sum p_i \log \frac{b_i}{p_i} - p_i o_i \\\
+&= \sum p_i \log o_i + \sum p_i \log p_i \\\
+&= \sum p_i \log o_i + \sum p_i \log p_i - D_{KL}(p \par b)
+\end{align}
+
+
+
