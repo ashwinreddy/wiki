@@ -77,7 +77,7 @@ W^\star = \sum_i p_i \log o_i - H(p)
 W(b,p) &= \sum p_i \log b_i o_i \\\
 &= \sum p_i \log \frac{b_i}{p_i} - p_i o_i \\\
 &= \sum p_i \log o_i + \sum p_i \log p_i \\\
-&= \sum p_i \log o_i + \sum p_i \log p_i - D_{KL}(p \par b)
+&= \sum p_i \log o_i + \sum p_i \log p_i - D_{KL}(p \parallel b)
 \end{align}
 
 
