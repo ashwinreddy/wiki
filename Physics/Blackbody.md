@@ -63,12 +63,12 @@ So let's imagine that light from the sun is hitting a sail. The momentum from th
 
 \begin{gather}
 P = \frac{dE}{dt} \\\
-E = pc \\
-\frac{\Delta E}{\Delta t} = \frac{c\Delta p}{\Delta t} \\
-p = Fc \\
-F = \frac{p}{c} \\
-F = \frac{\sigma T^4 \pi R^2 r^2}{cd^2} \\
-\text{Power} = f \cdot L_{\odot} \\
+E = pc \\\
+\frac{\Delta E}{\Delta t} = \frac{c\Delta p}{\Delta t} \\\
+p = Fc \\\
+F = \frac{p}{c} \\\
+F = \frac{\sigma T^4 \pi R^2 r^2}{cd^2} \\\
+\text{Power} = f \cdot L_{\odot} \\\
 L_{\odot} = \sigma T^4 \cdot 4 \pi R_{\odot}^2
 \end{gather}
 
