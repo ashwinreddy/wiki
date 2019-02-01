@@ -12,7 +12,7 @@ Real balance effect
 : An increase in price levels means consumers have less purchasing power. Therefore, consumer spending decreases.
 
 Foreign purchases or net exports effect
-: An increase in price levels makes the nation's goods more expensive. We buy more foreign goods and foreigners stop purchasing our goods. **DOES THIS INCREASE OR DECREASE $X_n$?**
+: An increase in price levels makes the nation's goods more expensive. We buy more foreign goods and foreigners stop purchasing our goods. Net exports go down because imports increase.
 
 Interest rate effect
 : An increase in price level means there is a higher demand for money, a higher nominal interest rate ensues, and consumer and investment spending decrease
