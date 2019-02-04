@@ -1,0 +1,1 @@
+It is the same constant in all IRFs
