@@ -20,5 +20,5 @@ v = 0 \qquad v' = x_0 - v
 Subtract off the speed from both
 
 \begin{equation}
-v' = 0 \qquad v = \Omega
+v' = 0 \qquad v = v
 \end{equation}
