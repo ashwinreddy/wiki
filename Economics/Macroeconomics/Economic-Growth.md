@@ -1,11 +1,6 @@
 **Economic growth** is a percent change in real GDP.
 
-What can we actually do to grow the economy? Push out the frontier of the PPC. To do that, we need better quantity and/or quality of resources. Recall the [[factors of production]]:
-
-- Land
-- Labor
-- Capital
-- Entrepreneurship
+What can we actually do to grow the economy? Push out the frontier of the PPC. To do that, we need better quantity and/or quality of resources. Recall the [[factors of production]]: Land, Labor, Capital, Entrepreneurship.
 
 We're going to consider land to be basically fixed. It's not really expandable unless we conquer land, and its quality cannot be easily enhanced. So we discard land.
 
