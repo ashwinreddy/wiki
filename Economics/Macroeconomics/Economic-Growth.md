@@ -1,0 +1,1 @@
+**Economic growth** is a percent change in real GDP.
