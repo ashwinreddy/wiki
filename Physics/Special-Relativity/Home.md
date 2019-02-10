@@ -8,6 +8,9 @@ Postulates:
 \Delta t &= \gamma\left(\Delta t' + \frac{v_f}{c^2}\Delta x'\right) 
 \end{align}
 
+Correspondence principle
+: We should see modern models come back to classical models under classical conditions
+
 \begin{equation}
 v_1 \oplus v_2 = \frac{v_1+v_2}{1+\frac{v_1v_2}{c}}
 \end{equation}
