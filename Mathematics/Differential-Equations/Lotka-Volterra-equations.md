@@ -8,3 +8,5 @@ Assumptions:
 - prey always have food
 - environment not changing
 - limitless apetite
+
+[[https://beta.observablehq.com/@mbostock/predator-and-prey]]
