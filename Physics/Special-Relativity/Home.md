@@ -7,3 +7,7 @@ Postulates:
 \Delta x &= \gamma\left(\Delta x'+v_f \Delta t'\right) \\\
 \Delta t &= \gamma\left(\Delta t' + \frac{v_f}{c^2}\Delta x'\right) 
 \end{align}
+
+\begin{equation}
+v_1 \oplus v_2 = \frac{v_1+v_2}{1+\frac{v_1v_2}{c}}
+\end{equation}
