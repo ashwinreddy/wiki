@@ -1,3 +1,3 @@
 \begin{equation}
-\text{degrees of freedom} = \sum \left(\text{freedoms of points}\right) - \text{number of independent constraints}
+\text{degrees of freedom} +  \text{number of independent constraints} = \sum \left(\text{freedoms of points}\right)
 \end{equation}
