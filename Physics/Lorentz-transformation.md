@@ -1,1 +1,0 @@
-The set of linear transformations with the constraint that the space time interval is constant.
