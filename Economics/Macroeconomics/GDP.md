@@ -12,8 +12,8 @@ Rental payments always count regardless of the age of a good or service. Therefo
 We typically measure GPD by spending, but we can also use earnings. When measuring by spending, the breakdown is as follows:
 
 - Consumer spending
-- Investments - business spending on capital and all new housing
-- Government spending
+- Investments - business spending on capital and all new housing. Bonds, stocks, and funds are strictly not considered.
+- Government spending - only when government buys goods or services. Welfare and social security do not count.
 - [[Net exports]]
 
 This yields
