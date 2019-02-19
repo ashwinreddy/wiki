@@ -1,0 +1,1 @@
+Frequency increases if you walk into a wave (blue-shift). If you walk away from a traveling wave, red-shift.
