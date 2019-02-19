@@ -1,0 +1,1 @@
+Bank reserves are cash in a bank. The United States uses a fractional reserve banking system in which a percentage of deposits known as the reserve requirement must be kept in reserve. The rest is free to be loaned out. 
