@@ -1,3 +1,3 @@
 \begin{equation}
-\text{Required Reserves} = R \cdot \text{Checkable Deposits}
+\text{Required Reserves} = \text{Required Reserve Ratio} \cdot \text{Checkable Deposits}
 \end{equation}
