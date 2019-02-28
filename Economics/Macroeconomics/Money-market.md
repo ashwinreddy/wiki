@@ -1,0 +1,1 @@
+The money market is the market for holding wealth in the form of money as opposed to another financial asset. The price of money is the opportunity cost on the rate of return on another asset.
