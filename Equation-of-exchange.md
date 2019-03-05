@@ -1,3 +1,3 @@
 \begin{equation}
-M\cdot V = P \cdot Y
+M\times V = P \times Y
 \end{equation}
