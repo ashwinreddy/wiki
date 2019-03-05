@@ -5,6 +5,6 @@ The discount rate is the interest rate the Feds charge the bank. The federal fun
 
 | |Expansionary | Contractionary|
 |--|--|--|
-|Reserve requirement|Decrease||
-|Open market operations|
-|Discount rate|
+|Reserve requirement|Decrease|Increase|
+|Open market operations|Buy bonds|Sell bonds|
+|Discount rate|Decrease|Increase|
