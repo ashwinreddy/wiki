@@ -14,3 +14,5 @@ If the reserve requirement is high, then banks have to keep a lot of money on ha
 If the Fed buys bonds, that's money that goes into the hands of banks and people, increasing the ability to make loans, and growing the economy.
 
 If the discount rate is low, banks can borrow more easily, increase their excess reserves, and make more loans.
+
+The federal funds rate is is controlled by the fed indirectly. If the fed wants a lower fed funds rate, they should buy bonds. That puts money back into the banks?
