@@ -12,7 +12,7 @@ Overall, $D_m$ is downward sloping.
 
 Shifters:
 
-- A change in nominal GDP
+- A change in nominal GDP (either price level or real GDP)
 - Credit card fees go down
 
 # Supply of Money
