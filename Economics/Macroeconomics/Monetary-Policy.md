@@ -1,0 +1,1 @@
+The fed uses monetary policy to control the money supply. An increase in the money supply is called expansionary monetary policy. A decrease in the money supply is called contractionary monetary policy.
