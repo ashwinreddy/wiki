@@ -1,6 +1,6 @@
-Natural selection acts on individuals. Populations evolve.
+[[Natural selection]] acts on individuals. Populations evolve.
 
-Microevolution is a change in allele frequencies in a population over generations.
+[[Microevolution]] is a change in allele frequencies in a population over generations.
 
 Mutation and sexual reproduction create variation in the gene pool. 
 
