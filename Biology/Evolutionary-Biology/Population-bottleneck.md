@@ -1,1 +1,1 @@
-**Population bottleneck** is due to environmental events.
+**Population bottleneck** is a change in due to environmental events.
