@@ -1,1 +1,1 @@
-**Genetic drift** is when chance events cause allele frequencies to fluctuate from generation to generation.
+**Genetic drift** is when chance events cause allele frequencies to fluctuate from generation to generation. Examples include a [[population bottleneck]].
