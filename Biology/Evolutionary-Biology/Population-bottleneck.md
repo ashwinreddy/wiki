@@ -1,0 +1,1 @@
+**Population bottleneck** is due to environmental events.
