@@ -1,0 +1,1 @@
+**Induced consumption** is the portion of consumption that varies with disposable income.
