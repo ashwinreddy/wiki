@@ -1,0 +1,1 @@
+The **Phillips curve** is a model that describes unemployment and inflation.
