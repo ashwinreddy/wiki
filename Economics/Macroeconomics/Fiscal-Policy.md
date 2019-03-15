@@ -4,3 +4,5 @@
 |-------------------|-------|----------------------|
 |Taxes| Decrease | Increase |
 |Government Spending |Increase | Decrease |
+
+The goal of expansionary policy is to increase [[aggregate demand]] and the goal of contractionary policy is to decrease it.
