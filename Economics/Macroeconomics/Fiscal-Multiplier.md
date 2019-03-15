@@ -9,3 +9,7 @@ Imagine Alice spends a fraction of her disposable income at Bob's shop. Bob then
 \begin{equation}
 \text{SM} = \frac{1}{1-\text{MPC}}
 \end{equation}
+
+\begin{equation}
+\Delta Y = \text{SM} \times \Delta \left(\text{Spending}\right)
+\end{equation}
