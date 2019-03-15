@@ -1,0 +1,1 @@
+Whenever somebody earns money, they can decide to do one of two things with it: spend it or save it. 
