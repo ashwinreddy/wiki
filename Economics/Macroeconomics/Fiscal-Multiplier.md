@@ -5,3 +5,7 @@ Imagine Alice spends a fraction of her disposable income at Bob's shop. Bob then
 \begin{equation}
 \text{SM} \equiv \frac{1}{\text{MPS}}
 \end{equation}
+
+\begin{equation}
+\text{SM} = \frac{1}{1-\text{MPC}}
+\end{equation}
