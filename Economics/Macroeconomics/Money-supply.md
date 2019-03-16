@@ -9,5 +9,3 @@ The M2 money supply includes the M1 money supply plus near monies, which are lik
 \begin{equation}
 \text{M2 = M1 + Savings Accounts}
 \end{equation}
-
-The Federal Reserve or Central Bank of the United States controls the money supply, regulates banking and payments, and is a lender of last resort.
