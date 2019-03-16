@@ -1,1 +1,1 @@
-An **elementary [[matrix]]**
+An **elementary [[matrix]]** differs from the [[identity matrix]] by one single elementary row operation.
