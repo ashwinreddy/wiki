@@ -1,5 +1,5 @@
 The **Legendre transformation**
 
 \\[
-f^*(m) =\argmax
+f^*(m) =\arg\max_x \left[ mx - f(x) \right]
 \\]
