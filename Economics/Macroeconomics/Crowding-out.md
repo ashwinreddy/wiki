@@ -9,4 +9,4 @@ Chain of events:
 - Real interest rate increases
 - Investment decreases
 - Capital decreases
-- 
+- Econ growth / LRAS? decreases
