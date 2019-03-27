@@ -16,6 +16,7 @@ Double check:
 # Fed buys bonds
 
 |Variable|Initial Conditions|Fed Buys Bonds|Deposit|After All|
+|--------|------------------|---------------|------|-------|
 |CIC|0|$x$|0|0|
 |CD|
 |M1|
