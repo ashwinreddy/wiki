@@ -16,3 +16,9 @@ Suppose the economy begins to boom and incomes are rising. Then a progressive ta
 Suppose to the economy slows down and incomes are dropping. Need-based programs like welfare will kick in because more people qualify, and government spending will increase.
 
 Discretionary policy on the other hand requires new laws to be put in place.
+
+# Chain Reaction
+
+\begin{equation}
+G \uparrow \implies AD \rightarrow \implies PL \uparrow, Y \uparrow \implies U \downarrow
+\end{equation}
