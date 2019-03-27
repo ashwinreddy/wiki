@@ -20,7 +20,7 @@ The federal reserve buys $x$ dollars worth of bonds from the public with a reser
 |Variable|Initial Conditions|Fed Buys Bonds|Deposit|After All|
 |--------|------------------|---------------|------|-------|
 |CIC|0|$x$|0|0|
-|CD|0|0|x|$x/r$|
+|CD|0|0|$x$|$x/r$|
 |M1|0|$x$|$x$|$x/r$|
 |Reserves|0|0|$x$|$x$|
 |Loans|0|0|0|$\frac{1-r}{r}x$
