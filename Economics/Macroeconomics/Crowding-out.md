@@ -1,15 +1,4 @@
-**Crowding out**
-
-Chain of events:
-
-- Recession
-- Expansionary Fiscal Policy
-- Budget deficit
-- Demand for loanable funds increases
-- Real interest rate increases
-- Investment decreases
-- Capital decreases
-- Econ growth / LRAS? decreases
+**Crowding out** is a result of expansionary [[fiscal policy]].
 
 # Chain Reaction
 
