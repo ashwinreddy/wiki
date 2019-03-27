@@ -5,7 +5,7 @@
 |Y|$\uparrow$|
 |U|$\downarrow$|
 |nominal wages|$-$|
-|real wages|
+|real wages|$\downarrow$|
 |i|
 |r|
 |C|
