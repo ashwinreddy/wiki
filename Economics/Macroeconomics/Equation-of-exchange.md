@@ -1,5 +1,5 @@
 \begin{equation}
-M \times V = P \times Y
+M \cdot V = P \cdot Y
 \end{equation}
 
 [[velocity of money]]
