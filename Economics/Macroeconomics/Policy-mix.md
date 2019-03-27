@@ -9,7 +9,7 @@
 |i|$\downarrow$|$\uparrow$|
 |r|$\downarrow$|$\uparrow$|
 |C|($\uparrow$)|
-|I|$\uparrow$|
+|I|$\uparrow$|$\downarrow$|
 |G|-|$\uparrow$|
 |K|$\uparrow$|$\downarrow$|
 |BP|$\uparrow$|$\downarrow$|
