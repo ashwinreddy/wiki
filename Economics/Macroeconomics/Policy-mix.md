@@ -1,7 +1,7 @@
 
 | |Expansionary Monetary Policy|
 |-|----------------------------|
-|PL|
+|[[Price Level]]|
 |Y|
 |U|
 |nominal wages|
