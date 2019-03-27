@@ -17,4 +17,6 @@
 
 
 |Fiscal Policy \ Monetary Policy |EMP|CMP|
-|-|---|---|
+|----------------------------|---|---|---|
+|EFP|||
+|CFP|||
