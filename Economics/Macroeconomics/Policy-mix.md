@@ -1,16 +1,16 @@
 
 |Variable|Expansionary [[Monetary Policy]]|Expansionary [[Fiscal Policy]]|
 |--------|:---------------------------:|:-----------:|
-|PL|$\uparrow$|
-|Y|$\uparrow$|
-|U|$\downarrow$|
-|nominal wages|$-$|
-|real wages|$\downarrow$|
-|i|$\downarrow$|
-|r|$\downarrow$|
+|PL|$\uparrow$|$\uparrow$|
+|Y|$\uparrow$|$\uparrow$|
+|U|$\downarrow$|$\uparrow$|
+|nominal wages|$-$|$-$|
+|real wages|$\downarrow$|$\downarrow$|
+|i|$\downarrow$|$\uparrow$|
+|r|$\downarrow$|$\uparrow$|
 |C|($\uparrow$)|
 |I|$\uparrow$|
-|G|-|
-|K|$\uparrow$|
-|BP|$\uparrow$|
-|LRG|$\uparrow$|
+|G|-|$\uparrow$|
+|K|$\uparrow$|$\downarrow$|
+|BP|$\uparrow$|$\downarrow$|
+|LRG|$\uparrow$|$\downarrow$|
