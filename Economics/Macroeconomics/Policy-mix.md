@@ -9,8 +9,8 @@
 |i|$\downarrow$|
 |r|$\downarrow$|
 |C|($\uparrow$)|
-|I|
-|G|
-|K|
-|BP|
-|LRG|
+|I|$\uparrow$|
+|G|-|
+|K|$\uparrow$|
+|BP|$\uparrow$|
+|LRG|$\uparrow$|
