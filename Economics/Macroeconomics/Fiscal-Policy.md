@@ -1,4 +1,9 @@
-**Fiscal policy** is government (president/congress) response to macroeconomic problems. There are two tools: changing personal income taxes or changing government spending. Both tools affect [[aggregate demand]]: changing the personal income tax changes individuals' disposable incomes, allowing them to spend more or less, which affects the $C$ component of [[GDP]]. Government spending _is_ the $G$ component of [[GDP]].
+**Fiscal policy** is government (president/congress) response to macroeconomic problems. There are two tools: 
+
+- changing personal income taxes
+- changing government spending. 
+ 
+Both tools affect [[aggregate demand]] as changing the personal income tax changes individuals' disposable incomes, allowing them to spend more or less, which affects the $C$ component of [[GDP]]. Government spending _is_ the $G$ component of [[GDP]].
 
 |                   | Expansionary | Contractionary |
 |-------------------|-------|----------------------|
