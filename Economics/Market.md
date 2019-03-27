@@ -1,0 +1,2 @@
+- People with item _x_ looking to be paid in _y_
+- People with _y_ looking to obtain _x_
