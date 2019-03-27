@@ -3,7 +3,7 @@
 |--------|:---------------------------:|:-----------:|
 |PL|$\uparrow$|$\uparrow$|
 |Y|$\uparrow$|$\uparrow$|
-|U|$\downarrow$|$\downarrow|
+|U|$\downarrow$|$\downarrow$|
 |nominal wages|$-$|$-$|
 |real wages|$\downarrow$|$\downarrow$|
 |i|$\downarrow$|$\uparrow$|
