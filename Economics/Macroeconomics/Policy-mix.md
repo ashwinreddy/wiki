@@ -1,5 +1,5 @@
 
-|Variable|Expansionary Monetary Policy|
+|Variable|Expansionary [[Monetary Policy]]|
 |--------|:---------------------------:|
 |PL|$\uparrow$|
 |Y|$\uparrow$|
