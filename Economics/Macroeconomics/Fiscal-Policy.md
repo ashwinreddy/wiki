@@ -5,7 +5,7 @@
  
 Both tools affect [[aggregate demand]] as changing the personal income tax changes individuals' disposable incomes, allowing them to spend more or less, which affects the $C$ component of [[GDP]] and government spending _is_ the $G$ component of [[GDP]].
 
-|                   | Expansionary | Contractionary |
+|                   | Expansionary Fiscal Policy (EFP) | Contractionary Fiscal Policy (CFP)|
 |-------------------|-------|----------------------|
 |Taxes| Decrease | Increase |
 |Government Spending |Increase | Decrease |
