@@ -15,6 +15,8 @@ Double check:
 
 # Fed buys bonds
 
+The federal reserve buys $x$ dollars worth of bonds from the public with a reserve ratio $r$.
+
 |Variable|Initial Conditions|Fed Buys Bonds|Deposit|After All|
 |--------|------------------|---------------|------|-------|
 |CIC|0|$x$|0|0|
