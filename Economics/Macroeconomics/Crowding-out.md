@@ -10,3 +10,10 @@ Chain of events:
 - Investment decreases
 - Capital decreases
 - Econ growth / LRAS? decreases
+
+# Chain Reaction
+
+\begin{align}
+\text{Budget Deficit} \implies D_{LF} \rightarrow \implies r \uparrow \implies I \uparrow \implies & K\downarrow \implies LRG \downarrow \\\
+\implies & AD \leftarrow
+\end{align}
