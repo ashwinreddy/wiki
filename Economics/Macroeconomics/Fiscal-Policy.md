@@ -14,7 +14,7 @@ The goal of expansionary policy is to increase [[aggregate demand]] and the goal
 
 # Automatic and Discretionary Policy
 
-Automatic fiscal policy stabilizes the economy without new laws. Automatic stabilizers are the result of need-based programs or progressive taxes. These policies attempt yo create a stable equilibrium by automatically counteract the stray from equilibrium. 
+Automatic fiscal policy stabilizes the economy without new laws. Automatic stabilizers are the result of need-based programs or progressive taxes. These policies attempt to create a stable equilibrium by automatically counteracting the stray from equilibrium. 
 
 Suppose the economy begins to boom and incomes are rising. Then a progressive tax will kick in and contractionary policy is automatically being put in place.
 
