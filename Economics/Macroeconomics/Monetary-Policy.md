@@ -17,6 +17,8 @@ If the discount rate is low, banks can borrow more easily, increase their excess
 
 The federal funds rate is is controlled by the fed indirectly. If the fed wants a lower fed funds rate, they should buy bonds. That puts money back into the banks?
 
+Monetary policy would be less effective if investment demand turned out to be inelastic (interest-rate insensitive). We are assuming that businesses are highly interest-rate sensitive or elastic.
+
 # Chain Reaction
 
 - Expansionary monetary policy always begins with some way of increasing the money supply
