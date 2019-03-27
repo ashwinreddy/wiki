@@ -14,3 +14,7 @@
 |K|$\uparrow$|$\downarrow$|
 |BP|$\uparrow$|$\downarrow$|
 |LRG|$\uparrow$|$\downarrow$|
+
+
+|Fiscal Policy \ Monetary Policy |EMP|CMP|
+|-|---|---|
