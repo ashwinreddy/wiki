@@ -18,8 +18,8 @@ Double check:
 |Variable|Initial Conditions|Fed Buys Bonds|Deposit|After All|
 |--------|------------------|---------------|------|-------|
 |CIC|0|$x$|0|0|
-|CD|
-|M1|
-|Reserves|
-|Loans|
-|Bonds|
+|CD|0|0|x|$x/r$|
+|M1|0|$x$|$x$|$x/r$|
+|Reserves|0|0|$x$|$x$|
+|Loans|0|0|0|$\frac{1-r}{r}x$
+|Bonds|$x$ (P)|$x$ (F)| $x$ (F) | $x$ (F)|
