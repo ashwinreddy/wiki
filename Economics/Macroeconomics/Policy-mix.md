@@ -1,6 +1,6 @@
 
-|Variable|Expansionary [[Monetary Policy]]|
-|--------|:---------------------------:|
+|Variable|Expansionary [[Monetary Policy]]|Expansionary [[Fiscal Policy]]|
+|--------|:---------------------------:|:-----------:|
 |PL|$\uparrow$|
 |Y|$\uparrow$|
 |U|$\downarrow$|
