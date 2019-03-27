@@ -2,6 +2,8 @@
 
 # Chain Reaction
 
+The government spending creates a budget deficit (spending > income). This deficit forces the government to take out loans, increasing the demand in the [[loanable funds]] market. That in turn 
+
 \begin{align}
 \text{Budget Deficit} \implies D_{LF} \rightarrow \implies r \uparrow \implies I \uparrow \implies & K\downarrow \implies LRG \downarrow \\\
 \implies & AD \leftarrow
