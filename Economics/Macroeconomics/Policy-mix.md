@@ -8,7 +8,7 @@
 |real wages|$\downarrow$|$\downarrow$|
 |i|$\downarrow$|$\uparrow$|
 |r|$\downarrow$|$\uparrow$|
-|C|($\uparrow$)|
+|C|($\uparrow$)|$\uparrow$|
 |I|$\uparrow$|$\downarrow$|
 |G|-|$\uparrow$|
 |K|$\uparrow$|$\downarrow$|
