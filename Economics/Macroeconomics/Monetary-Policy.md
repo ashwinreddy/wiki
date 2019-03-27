@@ -26,6 +26,6 @@ The federal funds rate is is controlled by the fed indirectly. If the fed wants 
 - An increase in AD leads to an increase in price level and real GDP, which leads to a decrease in unemployment
 
 \begin{align}
-S_m \uparrow \implies i \downarrow (BP \downarrow) \implies I \uparrow &\implies AD \rightarrow \implies Y \uparrow, PL \downarrow \implies U \downarrow\\\
+S_m \uparrow \implies i \downarrow (BP \uparrow) \implies I \uparrow &\implies AD \rightarrow \implies Y \uparrow, PL \downarrow \implies U \downarrow\\\
 &\implies K \uparrow \implies LRG \uparrow \\\
 \end{align}
