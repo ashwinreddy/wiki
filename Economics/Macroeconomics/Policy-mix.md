@@ -2,9 +2,9 @@
 | |Expansionary Monetary Policy|
 |-|:----------------------------:|
 |PL|$\uparrow$|
-|Y|
-|U|
-|nominal wages|
+|Y|$\uparrow$|
+|U|$\downarrow$|
+|nominal wages|$-$|
 |real wages|
 |i|
 |r|
