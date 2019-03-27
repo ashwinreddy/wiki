@@ -6,9 +6,9 @@
 |U|$\downarrow$|
 |nominal wages|$-$|
 |real wages|$\downarrow$|
-|i|
-|r|
-|C|
+|i|$\downarrow$|
+|r|$\downarrow$|
+|C|($\uparrow$)|
 |I|
 |G|
 |K|
