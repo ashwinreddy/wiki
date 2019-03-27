@@ -18,5 +18,5 @@
 
 |Fiscal Policy \ Monetary Policy |EMP|CMP|
 |----------------------------|---|---|---|
-|EFP|$PL \uparrow, Y \uparrow, C\uparrow$||
+|EFP|$PL \uparrow, Y \uparrow, C\uparrow$|$K \downarrow, LRG \downarrow$|
 |CFP|$K\uparrow, LRG \uparrow$|$PL \downarrow, Y \downarrow, C\downarrow$|
