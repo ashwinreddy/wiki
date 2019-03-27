@@ -19,6 +19,10 @@ Discretionary policy on the other hand requires new laws to be put in place.
 
 # Chain Reaction
 
+The primary reaction is fairly simple.
+
 \begin{equation}
 G \uparrow \implies AD \rightarrow \implies PL \uparrow, Y \uparrow \implies U \downarrow
 \end{equation}
+
+The more complete picture requires the chain reaction from [[crowding out]].
