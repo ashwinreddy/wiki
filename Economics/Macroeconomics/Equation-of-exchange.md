@@ -2,4 +2,4 @@
 M \cdot V = P \cdot Y
 \end{equation}
 
-[[velocity of money]]
+$V$ is the [[velocity of money]].
