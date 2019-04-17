@@ -1,0 +1,1 @@
+**Abscisic acid** (ABA) slows growth, antagonistic to auxins, gibberellins, cytokinins.
