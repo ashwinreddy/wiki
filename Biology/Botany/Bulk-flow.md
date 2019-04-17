@@ -1,0 +1,1 @@
+**Bulk flow** is the movement of liquid in response to a pressure gradient.
