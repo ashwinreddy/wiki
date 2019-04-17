@@ -15,4 +15,4 @@ How are water and minerals transported from roots to shoots?
 
 # [[Bulk flow]] transport
 
-Water and minerals cross into [[xylem]]. The sap is primarily pulled up, but there is also a push up as well.
+Water and minerals cross into [[xylem]]. The sap is primarily pulled up, but there is also a push up as well due to [[root pressure]].
