@@ -6,12 +6,6 @@ The central dogma of biology is basically that proteins are created from DNA.
 
 [[http://www.cs.cmu.edu/~wcohen/GuideToBiology-sampleChapter-release1.4.pdf]]
 
-[Biotechnology](./Biotechnology/)
-
-[Virology](./Virology/)
-
-[Molecular Biology](./Molecular-Biology/)
-
-[Evolutionary Biology](./Evolutionary-Biology/)
-
-[Botany](./Botany/)
+|[Biotechnology](./Biotechnology/)|[Virology](./Virology/)|
+|[Molecular Biology](./Molecular-Biology/)|[Evolutionary Biology](./Evolutionary-Biology/)|
+|[Botany](./Botany/)|
