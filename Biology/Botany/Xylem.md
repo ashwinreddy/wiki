@@ -11,3 +11,5 @@ Transpiration pulls the xylem sap and the cohesion of water molecules transmits 
 3. Water vapor moves out
 4. Water from xylem moves in to replace lost water
 5. Cohesion pulls all the water along with it
+
+Thus, the water potential gradient is highest at the roots and lowest at the shoots (even lower in the air).
