@@ -1,1 +1,1 @@
-Gibberellin is a plant hormone.
+Gibberellin is a plant hormone that enhances cell elongation and cell division.
