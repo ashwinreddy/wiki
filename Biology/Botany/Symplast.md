@@ -1,0 +1,1 @@
+The **symplast** is the inner side of the plasma membrane in which water and solutes can freely diffuse.
