@@ -1,0 +1,1 @@
+**Guttation** is the exudation of water onto leaves because the rate of transpiration is lower than the rate of water intake.
