@@ -4,6 +4,10 @@ Evolutionarily, plants that can more efficiently capture light from the sun and 
 
 # Absorption of Water and Minerals
 
+Epidermal cells near the tips of roots absorb soil solution.
+
+# Transport of Water and Minerals
+
 How are water and minerals transported from roots to shoots?
 
 1. Soil solution takes the [[apoplast]]ic route.
