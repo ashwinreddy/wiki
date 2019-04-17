@@ -2,11 +2,9 @@
 
 Evolutionarily, plants that can more efficiently capture light from the sun and $\ce{CO2}$ from the air have an advantage. Leaves with a higher surface area can capture more light, and more open stomatal pores allows more $\ce{CO2}$ to diffuse. However, the latter also leads to evaporation of water from the plant. Thus, there is a compromise that must be made between more efficient energy uptake and minimizing water loss.
 
-# Absorption of Water and Minerals
+# Uptake of Water and Minerals
 
 Epidermal cells near the tips of roots absorb soil solution.
-
-# Transport of Water and Minerals
 
 How are water and minerals transported from roots to shoots?
 
