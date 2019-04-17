@@ -1,0 +1,1 @@
+**Endosperm** is the food-storing tissue of the seed.
