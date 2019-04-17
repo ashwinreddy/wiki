@@ -1,1 +1,1 @@
-**Blue-light photoreceptors** and **phytochromes**
+**Blue-light photoreceptors** and **phytochromes** (mostly absorb red light).
