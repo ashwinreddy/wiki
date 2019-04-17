@@ -4,5 +4,5 @@ Credit - money coming into a country
 Debit - money going out
 
 \begin{equation}
-\text{Capital Account Surplus} + \text{Current Account Deficit} = 0
+\text{Capital Account} + \text{Current Account} = 0
 \end{equation}
