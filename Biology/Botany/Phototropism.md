@@ -1,0 +1,1 @@
+**Phototropism** is a type of [[trophism]] where a plant shoot moves towards or away from light, positive and negative respectively.
