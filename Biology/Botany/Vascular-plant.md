@@ -14,3 +14,5 @@ How are water and minerals transported from roots to shoots?
 4. Minerals by symplast pass into vascular cylinder.
 
 # [[Bulk flow]] transport
+
+Water and minerals cross into [[xylem]]. The sap is primarily pulled up, but there is also a push up as well.
