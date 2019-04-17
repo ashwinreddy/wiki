@@ -1,1 +1,1 @@
-**Ethylene** is produced in response to a drought, flooding, pressure, injury, or infection. Triple response enables seedling to circumvent obstacle. 
+**Ethylene** is produced in response to a drought, flooding, pressure, injury, or infection.
