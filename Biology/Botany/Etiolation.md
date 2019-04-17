@@ -1,0 +1,1 @@
+**Etiolation** refers to morphological adaptations for growing in darkness.
