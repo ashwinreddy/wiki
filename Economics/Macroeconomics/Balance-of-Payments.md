@@ -1,0 +1,1 @@
+Sum of all monetary transactions between residents of 2 different countries.
