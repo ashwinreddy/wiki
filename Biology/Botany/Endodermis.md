@@ -1,0 +1,1 @@
+The **endodermis** is the innermost layer of cells in the root cortex. Each endodermal cell has a Casparian strip, a waxy material.
