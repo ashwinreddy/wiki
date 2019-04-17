@@ -1,3 +1,3 @@
 [[Vascular plant]]
 
-[[https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjUlbDtwNfhAhWLTd8KHYjYB94QjRx6BAgBEAU&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fwww.homestratosphere.com%252Fparts-of-a-flower%252F%26psig%3DAOvVaw0htYjZ7edf3eAuvadAnlYO%26ust%3D1555603521970119&psig=AOvVaw0htYjZ7edf3eAuvadAnlYO&ust=1555603521970119]]
+[[https://www.homestratosphere.com/wp-content/uploads/2018/02/parts-of-flower.jpg]]
