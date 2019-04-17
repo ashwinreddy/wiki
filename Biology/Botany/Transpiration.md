@@ -1,0 +1,1 @@
+**Transpiration** is evaporation of water vapor from inside the leaves.
