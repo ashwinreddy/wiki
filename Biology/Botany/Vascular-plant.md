@@ -1,0 +1,1 @@
+**Vascular plants** have vascular tissue to distribute resources through the plant.
