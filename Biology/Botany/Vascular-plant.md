@@ -1,1 +1,1 @@
-**Vascular plants** have vascular tissue to distribute resources through the plant.
+**Vascular plants** are [[embryophyte]]s with vascular tissue to distribute resources through the plant.
