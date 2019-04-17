@@ -1,1 +1,1 @@
-**Auxin** promotes the elongation of coleoptiles.
+**Auxin** is a growth hormone that promotes the elongation of coleoptiles. The natural auxin in plants is indoleacetic acid (IAA) produced from tryptophan at the shoot tips on plants.
