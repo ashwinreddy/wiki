@@ -1,0 +1,1 @@
+**Cytokinins** stimulate cytokinesis (cell division) in plants. They also control apical dominance.
