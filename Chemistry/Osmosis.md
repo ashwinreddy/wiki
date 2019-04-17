@@ -1,0 +1,1 @@
+**Osmosis** is the spontaneous net movement of solvent molecules through a selectively permeable membrane into a region of high solute concentration in a direction that tends to equalize the solute concentrations on the two sides.
