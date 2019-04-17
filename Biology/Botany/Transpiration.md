@@ -1,1 +1,1 @@
-**Transpiration** is water movemement.
+**Transpiration** is the loss of water vapor from leaves and other aerial parts of plants.
