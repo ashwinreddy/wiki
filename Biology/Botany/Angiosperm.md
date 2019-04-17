@@ -1,0 +1,1 @@
+Two mechanisms to prevent self-fertilization are self-incompatibility and incomplete flowers.
