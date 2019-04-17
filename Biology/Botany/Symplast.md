@@ -1,1 +1,1 @@
-The **symplast** is the inner side of the plasma membrane in which water and solutes can freely diffuse.
+The **symplast** of a plant is the inner side of the plasma membrane in which water and solutes can freely diffuse.
