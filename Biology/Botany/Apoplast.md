@@ -1,0 +1,1 @@
+The **apoplast** is the space inside a plant outside the plasma membrane where material can freely diffuse.
