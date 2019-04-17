@@ -4,5 +4,7 @@ Evolutionarily, plants that can more efficiently capture light from the sun and 
 
 How are water and minerals transported from roots to shoots?
 
-1. Soil solution takes the [[apoplast]]ic route
-2. 
+1. Soil solution takes the [[apoplast]]ic route.
+2. Minerals and water take [[symplas]]tic route.
+3. Minearls and water can move inward by transmembrane route.
+4. Minerals by symplast pass into vascular cylinder.
