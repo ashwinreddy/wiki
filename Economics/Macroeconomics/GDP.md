@@ -19,7 +19,7 @@ We typically measure GPD by spending, but we can also use earnings. When measuri
 This yields
 
 \begin{equation}
-Y \equiv C + I + G + X_{net}
+Y \equiv C + I + G + X_{n}
 \end{equation}
 
 
