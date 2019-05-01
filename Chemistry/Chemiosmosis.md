@@ -1,0 +1,1 @@
+**Chemiosmosis** is the movement of [[ions]]
