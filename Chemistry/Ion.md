@@ -1,0 +1,1 @@
+An **ion** is a atom or molecule with net electrical charge.
