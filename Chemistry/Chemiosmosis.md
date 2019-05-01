@@ -1,1 +1,1 @@
-**Chemiosmosis** is the movement of [[ion]]s.
+**Chemiosmosis** is the movement of [[ion]]s across a semipermeable membrane down its electrochemical gradient.
