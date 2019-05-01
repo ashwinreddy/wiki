@@ -1,1 +1,1 @@
-**Chemiosmosis** is the movement of [[ion]]s across a semipermeable membrane down its electrochemical gradient.
+**Chemiosmosis** is the movement of [[ion]]s across a semipermeable membrane down its electrochemical gradient. An example is generating ATP by the movement of protons during cellular respiration and photosynthesis.
