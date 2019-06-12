@@ -2,7 +2,7 @@ This wiki contains articles on a number of fields, including:
 
 |[Mathematics](./Mathematics/)|[Biology](./Biology/)|[Engineering](./Engineering/)|[Economics](./Economics/)|
 |[Computer Science](./Computer Science/)|[Chemistry](./Chemistry/)|[Design](./Design/)|[Psychology](./Psychology/)|
-|[Philosophy](./Philosophy/)|[Physics](./Physics/)|
+[Physics](./Physics/)|
 
 A [table of contents](./TOC) and a [file view](./fileview) are also available.
 
