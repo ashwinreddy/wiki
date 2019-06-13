@@ -8,5 +8,5 @@ Well, if we're looking for roots of $f(x)$, we could imagine looking to our line
 
 \begin{gather}
 0 = f'(x_0)(x-x_0)+f(x_0) \\\
-x_0 + \frac{-f(x_0)}{f'(x_0)} = x
+x = x_0 - \frac{f(x_0)}{f'(x_0)}
 \end{gather}
