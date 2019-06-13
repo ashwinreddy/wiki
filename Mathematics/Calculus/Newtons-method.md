@@ -7,6 +7,6 @@ y = f'(x_0)(x-x_0)+f(x_0)
 Well, if we're looking for roots of $f(x)$, we could imagine looking to our linear model to see where the root is (what $x$ value corresponds to the 0):
 
 \begin{gather}
-0 = f'(x_0)(x-x_0)+f(x_0) \\
+0 = f'(x_0)(x-x_0)+f(x_0) \\\
 x_0 + \frac{-f(x_0)}{f'(x_0)} = x
 \end{gather}
