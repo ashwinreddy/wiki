@@ -1,3 +1,5 @@
+**Newton's method**
+
 Recall that the best linear approximation for $f(x)$ at $x_0$ is
 
 \begin{equation}
