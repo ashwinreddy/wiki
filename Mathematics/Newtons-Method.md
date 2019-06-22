@@ -16,5 +16,6 @@ The idea is to pick out the root from this line and consider that to be the next
 
 \begin{gather}
 0 = f'(x_0)(x-x_0)+f(x_0) \\\
-x-x_0 = \frac{-f(x_0)}{f'(x_0)}
+x-x_0 = \frac{-f(x_0)}{f'(x_0)} \\\
+x = x_0 - \frac{f(x_0)}{f'(x_0)}
 \end{gather}
