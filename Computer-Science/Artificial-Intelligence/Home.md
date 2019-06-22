@@ -1,2 +1,0 @@
-- [Machine Learning](./Machine Learning/)
-- [Reinforcement Learning](./Reinforcement Learning/)
