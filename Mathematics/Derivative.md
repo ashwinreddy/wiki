@@ -6,4 +6,4 @@ The **derivative** of a function measures the function's sensitivity to its inpu
 
 # Properties
 
-- $\frac{d}{dx}f(g(x))=f'(g(x))g'(x)$
+- $(f \circ g)'=(f'\circ g)\cdot g'$
