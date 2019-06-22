@@ -7,5 +7,5 @@ $\newcommand{\idx}[2]{#1^{(#2)}}$
 |$\idx{x}{i}$| Input variables/features|
 |$\idx{y}{i}$| Output or target variable|
 |$(\idx{x}{i}, \idx{y}{i})$| Training example|
-|$\left\{(\idx{x}{i}, \idx{y}{i})\right\}$|Training set|
+|$\left(\idx{x}{i}, \idx{y}{i})\right)$|Training set|
 |$h: \mathcal{X} \to \mathcal{Y}$| Hypothesis |
