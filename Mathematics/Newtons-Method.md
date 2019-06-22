@@ -14,6 +14,6 @@ y = f'(x_0)(x-x_0)+f(x_0)
 
 The idea is to pick out the root from this line and consider that to be the next guess. So we set $y=0$ and solve for $x$:
 
-\begin{align*}
+\begin{align}
 y
-\end{align*}
+\end{align}
