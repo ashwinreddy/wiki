@@ -1,3 +1,4 @@
+$\newcommand{\idx}[2]{#1^{(#2)}}$
 
 | Notation | Meaning |
 |----------|---------|
