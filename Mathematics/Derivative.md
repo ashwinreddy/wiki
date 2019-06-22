@@ -6,5 +6,8 @@ The **derivative** of a function measures the function's sensitivity to its inpu
 
 # Properties
 
-- $(f \circ g)'=(f'\circ g)\cdot g'$
-- $(\alpha f + \beta g)'=\alpha f' + \beta g'$
+For functions $f$ and $g$ and constants $\alpha$ and $\beta$, 
+
+- Chain rule: $(f \circ g)'=(f'\circ g)\cdot g'$
+- Product rule: $(fg)' = f'g+g'f$
+- Linearity: $(\alpha f + \beta g)'=\alpha f' + \beta g'$
