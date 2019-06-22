@@ -1,0 +1,1 @@
+**Newton's method** is an iterative algorithm for finding a root of a function. 
