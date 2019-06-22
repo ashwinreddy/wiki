@@ -1,1 +1,0 @@
-The **schwarzschild metric** describes the metric in empty space outside a spherically symmetric black hole or star.

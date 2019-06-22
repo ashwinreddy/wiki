@@ -1,1 +1,0 @@
-Hypothetical medium through which light travels

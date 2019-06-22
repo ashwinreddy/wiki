@@ -1,1 +1,0 @@
-**Cell division** is the process by which a parent cell divides into two or more daughter cells. For unicellular organisms, cell division _is_ the process of reproduction. For multicellular organisms, [[mitosis]] enables the growth of the organism and repair of lost cells. These multicellular organisms rely on [[meiosis]] for creating [[gamete]]s.

@@ -1,1 +1,0 @@
-**Brassinosteroid** is basically like auxin (it promotes cell elongation) and it slows leaf abscission.

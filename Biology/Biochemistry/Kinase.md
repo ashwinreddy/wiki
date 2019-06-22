@@ -1,1 +1,0 @@
-**Kinases** are enzymes that activate or inactive other proteins by phosphorylating them. Cyclin-dependent kinases (Cdks) are only active if they are attached to cyclin, a protein whose concentration is cyclically fluctuating. 

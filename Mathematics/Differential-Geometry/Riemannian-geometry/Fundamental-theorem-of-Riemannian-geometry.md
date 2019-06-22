@@ -1,1 +1,0 @@
-The **fundamental theorem of Riemannian geometry** states that on any [[Riemannian manifold]] (or pseudo-Riemannian manifold) there is a unique torsion-free metric [[connection]], called the Levi-Civita connection of the given metric. Here a metric (or Riemannian) connection is a connection which preserves the metric tensor. 

@@ -1,1 +1,0 @@
-**Cell potency** is a cell's ability to differentiate into other cell types. Totipotent cells can become anything. Pluripotent cells can be a few things. Unipotent cells can be only one thing.

@@ -1,1 +1,0 @@
-**Electroporation** increases the permeability of the cell membrane by giving it a brief electrical pulse. 

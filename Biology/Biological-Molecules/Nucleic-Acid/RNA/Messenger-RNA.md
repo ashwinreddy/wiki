@@ -1,1 +1,0 @@
-**Messenger RNA** (abbreviated **mRNA**) have characteristic life spans, based on the UTR regions.

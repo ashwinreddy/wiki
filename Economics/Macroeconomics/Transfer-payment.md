@@ -1,1 +1,0 @@
-A **transfer payment** is the reallocation of money from one party to another. Examples include welfare programs and Social Security.

@@ -1,1 +1,0 @@
-An **expression vector** is a cloning vector that contains a highly active bacterial promoter just upstream of a restriction site where the eukaryotic gene will be inserted in the correct reading frame. The bacterial host cell will recognize the promoter and proceed to express the foreign gene now linked to that promoter.

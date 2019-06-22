@@ -1,1 +1,0 @@
-**Meiosis** is the production of [[gamete]] cells from diploid cells. In meiosis I, homologous pairs separate. In meiosis II, sister chromatids separate. Thus, meiosis II shares many similarities with [[mitosis]].

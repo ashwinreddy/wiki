@@ -1,1 +1,0 @@
-Maxwell's equations describe electromagnetism.

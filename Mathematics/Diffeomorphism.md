@@ -1,3 +1,0 @@
-A **diffeomorphism** $\varphi : I \to J$ (I, J open intervals) is smooth, invertible with smooth inverse. Diffeomorphisms are isomorphisms of smooth manifolds.
-
-Given a curve $\alpha : I \to \mathbb{R}^3$, we can construct a new curve $\beta: J \to \mathbb{R}^3$ as $\alpha \circ \varphi$. This is a reparameterization. Then $L[\alpha \circ \varphi; a,b] = L[\alpha; a,b]$

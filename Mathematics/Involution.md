@@ -1,1 +1,0 @@
-An **involution** is an operator which when successively applied twice returns its input.

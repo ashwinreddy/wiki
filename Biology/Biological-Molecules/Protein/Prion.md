@@ -1,1 +1,0 @@
-A **prion** is a misfolded protein  that can convert normal proteins into prions, creating a chain reaction.

@@ -1,6 +1,0 @@
-- An object with no net forces on it travels in a straight line at constant velocity
-- The net force on an object is equal to its mass multiplied by its acceleration
-- forces come in equal and opposite pairs
-
-
-These laws obey rotational symmetry.

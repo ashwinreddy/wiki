@@ -1,1 +1,0 @@
-A **kinetochore** is a disc-shaped [[protein]] that assembles on the centromere of a [[chromosome]], making it possible for spindle fibers to attach to the chromosome and split it apart.

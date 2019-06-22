@@ -1,1 +1,0 @@
-**Embryophytes** are land plants.

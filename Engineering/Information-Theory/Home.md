@@ -1,1 +1,0 @@
-[[https://github.com/papers-we-love/papers-we-love/blob/master/information_theory/a-mathematical-theory-of-communication-1948.pdf]]

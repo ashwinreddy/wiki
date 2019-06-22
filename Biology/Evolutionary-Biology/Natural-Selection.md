@@ -1,1 +1,0 @@
-**Natural selection** is the process by which individuals with adaptations survive and reproduce at a higher rate than those without the adaptations.

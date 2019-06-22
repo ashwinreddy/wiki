@@ -1,1 +1,0 @@
-An **inertial frame of reference** has a constant velocity for its frame.

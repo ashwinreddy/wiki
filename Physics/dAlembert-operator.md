@@ -1,3 +1,0 @@
-\begin{equation}
-{\displaystyle {\begin{aligned}\Box &=\partial ^{\mu }\partial _{\mu }=g^{\mu \nu }\partial _{\nu }\partial _{\mu }={\frac {1}{c^{2}}}{\frac {\partial ^{2}}{\partial t^{2}}}-{\frac {\partial ^{2}}{\partial x^{2}}}-{\frac {\partial ^{2}}{\partial y^{2}}}-{\frac {\partial ^{2}}{\partial z^{2}}}\\\&={\frac {1}{c^{2}}}{\partial ^{2} \over \partial t^{2}}-\nabla ^{2}={\frac {1}{c^{2}}}{\partial ^{2} \over \partial t^{2}}-\Delta ~~.\end{aligned}}}
-\end{equation}

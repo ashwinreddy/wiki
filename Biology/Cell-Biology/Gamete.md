@@ -1,1 +1,0 @@
-**Gametes** are haploid cells that can sexually reproduce, namely sperm and egg cells.

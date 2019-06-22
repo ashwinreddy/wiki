@@ -1,1 +1,0 @@
-[[http://nautil.us/issue/67/reboot/what-defines-a-stem-cell]]

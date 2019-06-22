@@ -1,5 +1,0 @@
-
-- Land
-- Labor
-- Capital
-- Entrepreneurship

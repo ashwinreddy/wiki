@@ -1,3 +1,0 @@
-Classical mechanics and E&M were deterministic, meaning that given the initial positions $q$ and velocities $\dot{q}$ of the system, you could determine what would happen next. So by 1900, physicists thought that all the underlying theory was known.
-
-When we observe light from a lamp, we notice that for low voltages it is red and low intensity, then yellow with medium intensity, and finally white with high intensity.

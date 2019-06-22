@@ -1,1 +1,0 @@
-Scarcity is the difference between our limited resources and potentially unlimited wants.

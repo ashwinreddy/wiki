@@ -1,1 +1,0 @@
-**Endosperm** is the triploid food-storing tissue of the seed.

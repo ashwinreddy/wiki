@@ -1,6 +1,0 @@
-- [[https://patrickcollison.com/advice]]
-- [Slow Reading](https://www.theindy.us/slow-reading/)
-- [[https://idiallo.com/blog/im-bored-what-do-i-do]]
-- [[https://www.darpa.mil/work-with-us/heilmeier-catechism]]
-- [[https://dcgross.com/accomplish-dread-tasks/]]
-- [[https://justinjackson.ca/words.html]]

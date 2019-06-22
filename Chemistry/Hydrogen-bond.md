@@ -1,1 +1,0 @@
-When hydrogen is attracted to fluorine oxygen or nitrogen.

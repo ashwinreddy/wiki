@@ -1,1 +1,0 @@
-**Evolution** is a change in the gene pool over successive generations. There are three common mechanisms that alter allele frequencies: [[natural selection]], [[genetic drift]], [[gene flow]].

@@ -1,1 +1,0 @@
-An **event** specifies a time and a location in a given coordinate system. 

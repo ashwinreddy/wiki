@@ -1,1 +1,0 @@
-**Pressure flow** is the main explanation for translocation, that when phloem sap moves by bulk flow action driven by positive pressure.

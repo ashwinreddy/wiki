@@ -1,1 +1,0 @@
-An **abelian group** is a group whose operation is commutative.

@@ -1,1 +1,0 @@
-A **viroid** is a circular RNA molecule, usually only a few hundred nucleotides long, that infects plants. They don't encode for proteins and replicate using host cell enzymes. They cause errors in regulatory systems controlling plant growth. 

@@ -1,1 +1,0 @@
-**Exaptation** is a shift in function of a trait during [[evolution]].

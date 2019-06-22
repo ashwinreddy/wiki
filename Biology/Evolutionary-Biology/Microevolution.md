@@ -1,1 +1,0 @@
-**Microevolution** is a change in gene frequencies over generations/time.

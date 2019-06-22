@@ -1,1 +1,0 @@
-[Shannon's original paper](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)

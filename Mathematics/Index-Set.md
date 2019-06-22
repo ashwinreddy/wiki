@@ -1,1 +1,0 @@
-In mathematics, an index set is a [[set]] whose members label (or index) members of another set. For instance, if the elements of a set A may be indexed or labeled by means of the elements of a set J, then J is an index set. The indexing consists of a surjective function from J onto A and the indexed collection is typically called an (indexed) family, often written as {Aj}j∈J.

@@ -1,1 +1,0 @@
-Einstein added the cosmological constant because he didn't think the universe was expanding, but Hubble discovered that it was. The new consensus is that its value is positive but small.

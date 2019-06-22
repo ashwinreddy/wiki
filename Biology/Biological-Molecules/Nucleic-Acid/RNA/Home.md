@@ -1,1 +1,0 @@
-**RNA** is ribonucleic acid.

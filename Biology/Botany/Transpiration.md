@@ -1,3 +1,0 @@
-**Transpiration** is the loss of water vapor from leaves and other aerial parts of plants. The rate of transpiration is regulated by stomata. Each stoma is flanked by a pair of guard cells, which control the diamater of the stoma by widening or narrowing the gap between the pair. 
-
-When the guard cells take in water, they become turgid and due to their shape they bow out, creating an opening. Stomatal opening is due to accumulation of $\ce{K+}$ and active transport of $\ce{H+}$ out of the guard cell.

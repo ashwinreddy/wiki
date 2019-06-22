@@ -1,3 +1,0 @@
-In biochemistry, a ligase is an enzyme that can catalyze the joining of two large molecules by forming a new chemical bond, usually with accompanying hydrolysis of a small pendant chemical group on one of the larger molecules or the enzyme catalyzing the linking together of two compounds, e.g., enzymes that catalyze joining of C-O, C-S, C-N, etc. In general, a ligase catalyzes the following reaction:
-
-Ab + C → A–C + b

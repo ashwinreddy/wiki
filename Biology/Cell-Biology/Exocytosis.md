@@ -1,1 +1,0 @@
-**Exocytosis** is when the cell secretes certain molecules by fusion of vesicles with the plasma membrane. This process requires energy. A transport vesicle carrying the package moves along a microtubule till it hits the plasma membrane. At that point it fuses with the membrane, thereby ejecting its contents as well.

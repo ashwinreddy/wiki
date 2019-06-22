@@ -1,1 +1,0 @@
-**Eukaryotes** have cells with nuclei 

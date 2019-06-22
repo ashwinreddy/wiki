@@ -1,1 +1,0 @@
-A **topological space** is an ordered pair $(X, \tau)$, where $X$ is a set and $\tau$ is a suitable [[topology]] on $X$.

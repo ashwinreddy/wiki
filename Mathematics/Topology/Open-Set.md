@@ -1,1 +1,0 @@
-For a [[topological space]] $(M,\mathcal{O})$, $\mathcal{O}$ is the set of open sets on $M$. This generalizes the concept of an open interval $(a,b)$ on $\mathbb{R}$.

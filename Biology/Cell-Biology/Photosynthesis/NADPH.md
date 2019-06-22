@@ -1,1 +1,0 @@
-is a cofactor (coenzyme?)
