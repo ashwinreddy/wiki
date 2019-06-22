@@ -3,3 +3,7 @@ The **derivative** of a function measures the function's sensitivity to its inpu
 \\[
 \frac{df}{dx}=\lim_{\epsilon \to 0}\frac{f(x+\epsilon)-f(x)}{\epsilon}
 \\]
+
+# Properties
+
+- $\frac{d}{dx}f(g(x))=f'(g(x))g'(x)$
