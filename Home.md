@@ -1,7 +1,7 @@
 This wiki contains articles on a number of fields, including:
 
 |[Mathematics](./Mathematics/)|[Biology](./Biology/)|[Economics](./Economics/)|
-|[Computer Science](./Computer Science/)|[Chemistry](./Chemistry/)|[Physics](./Physics/)|[Psychology](./Psychology/)
+|[Computer Science](./Computer Science/)|[Chemistry](./Chemistry/)|[Physics](./Physics/)|
 
 A [table of contents](./TOC) and a [file view](./fileview) are also available.
 
