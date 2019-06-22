@@ -1,5 +1,3 @@
-$\newcommand{\idx}[2]{#1^{(#2)}}$
-
 
 | Notation | Meaning |
 |----------|---------|
@@ -12,3 +10,6 @@ $\newcommand{\idx}[2]{#1^{(#2)}}$
 |$h: \mathcal{X} \to \mathcal{Y}$| Hypothesis |
 
   If $y$ can take on continuous values, we call the learning problem a regression problem. If it takes on a small number of discrete values, we call the learning problem a classification problem.
+  
+  $\newcommand{\idx}[2]{#1^{(#2)}}$
+
