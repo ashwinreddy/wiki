@@ -1,1 +1,0 @@
-[[https://upload.wikimedia.org/wikipedia/en/e/e4/Character_theory_chart.svg]]
