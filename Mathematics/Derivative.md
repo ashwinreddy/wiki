@@ -7,3 +7,4 @@ The **derivative** of a function measures the function's sensitivity to its inpu
 # Properties
 
 - $(f \circ g)'=(f'\circ g)\cdot g'$
+- $(\alpha f + \beta g)'=\alpha f' + \beta g'$
