@@ -1,1 +1,1 @@
-[Global Table of Contents](TOC)
+<<GlobalTOC()>>
