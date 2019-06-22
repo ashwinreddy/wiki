@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gollum --mathjax --emoji --js --mathjax-config config.js --config config.rb --css
+gollum --mathjax --emoji --config config.rb --css
