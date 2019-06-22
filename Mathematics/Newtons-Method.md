@@ -17,6 +17,6 @@ The idea is to pick out the root from this line and consider that to be the next
 \begin{gather}
 0 = f'(x_0)(x-x_0)+f(x_0) \\\
 0 = f'(x_0)(x_0-x)-f(x_0) \\\
-\frac{f(x_0)}{f'(x_0)}=x_0-x
+\frac{f(x_0)}{f'(x_0)}=x_0-x \\\
 x = x_0 - \frac{f(x_0)}{f'(x_0)}
 \end{gather}
