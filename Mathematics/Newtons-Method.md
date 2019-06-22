@@ -1,1 +1,1 @@
-**Newton's method** is an iterative algorithm for finding a root of a function. 
+**Newton's method** is an iterative algorithm for finding a root of a function. In the simplest example, we have a differentiable function $f(x)$. Then with an initial guess $x_0$ for the root, we perform the following update.
