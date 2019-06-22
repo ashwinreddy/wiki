@@ -1,1 +1,0 @@
-Karl Popper's idea of falsifiability
