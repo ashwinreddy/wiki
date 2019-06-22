@@ -1,1 +1,0 @@
-[[https://measureofdoubt.com/2018/07/22/finding-pi-from-random-numbers/]]
