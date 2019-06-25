@@ -1,0 +1,1 @@
+A Bernoulli distribution is a discrete probability distribution modeling a possibly biased coin flip.
