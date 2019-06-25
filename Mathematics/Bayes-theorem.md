@@ -1,3 +1,3 @@
 \begin{equation}
-\Pr(A | B) = \frac{\Pr(B | A)\Pr(A)}{\Pr(B)}
+\overbrace{\Pr(A | B)}^{\text{posterior}} = \frac{\Pr(B | A)\overbrace{\Pr(A)}^{\text{prior}}}{\Pr(B)}
 \end{equation}
