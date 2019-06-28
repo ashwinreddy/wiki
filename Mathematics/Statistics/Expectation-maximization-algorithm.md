@@ -21,5 +21,5 @@ The likelihood model is
 We can now link the latent variable in by saying
 
 \\[
-\ell(\phi, \mu, \Sigma) = \sum_{i=1}^n \log \sum_{z^{(i)}=1}^k p(x^{(i)} | z^{(i)}; \mu, \Sigma)p(z^{(i)};\phi)
+\ell(\phi, \mu, \Sigma) = \sum_{i=1}^n \log \left[\sum_{z^{(i)}=1}^k p(x^{(i)} | z^{(i)}; \mu, \Sigma)p(z^{(i)};\phi)\right]
 \\]
