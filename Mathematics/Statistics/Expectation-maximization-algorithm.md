@@ -2,9 +2,10 @@
 
 Let's say we have a training set $\\{x^{(1)}, \dots, x^{(n)} \\}$.
 
-\\[
-\ell(\theta) = \sum_{i=1}^m \log p(x^{(i)}; \theta)
-\\]
+\begin{align}
+\ell(\theta) &= \sum_{i=1}^m \log p(x^{(i)}; \theta) \\\
+&= \sum_{i=1}^n \log \sum_{z} p(x, z; \theta)
+\end{align}
 
 
 We posit that each example has a latent variable $z^{(i)}$ attached to it that determines one of $k$ Gaussian models to use to model $x^{(i)}$. In formal terms,
