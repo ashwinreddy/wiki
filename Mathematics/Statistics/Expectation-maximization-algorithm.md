@@ -7,6 +7,8 @@ Let's say we have a training set $\\{x^{(1)}, \dots, x^{(n)} \\}$.
 &= \sum_{i=1}^n \log \left[\sum_{z} p(x^{(i)}, z; \theta)\right]
 \end{align}
 
+Here, we are basically acting under the assumption that there is a valid underlying joint distribution $p(x,z)$
+
 
 We posit that each example has a latent variable $z^{(i)}$ attached to it that determines one of $k$ Gaussian models to use to model $x^{(i)}$. In formal terms,
 
