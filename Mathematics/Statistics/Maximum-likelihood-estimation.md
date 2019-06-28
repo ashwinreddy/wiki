@@ -9,3 +9,5 @@ We then try to compute
 \\[
 \theta^\star = \arg\max_\theta L(\theta; y)
 \\]
+
+For computational purposes, it is sometimes convenient to find the arg max of $\ell(\theta)=\log L(\theta)$
