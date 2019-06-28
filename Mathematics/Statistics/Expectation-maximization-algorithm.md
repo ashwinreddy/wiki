@@ -17,3 +17,9 @@ The likelihood model is
 \\[
 \ell(\phi, \mu, \Sigma) = \sum_{i=1}^n \log p(x^{(i)}; \phi, \mu, \Sigma)
 \\]
+
+We can now link the latent variable in by saying
+
+\\[
+\ell(\phi, \mu, \Sigma) = \sum_{i=1}^n \log \sum_{z^{(i)}=1}^k
+\\]
