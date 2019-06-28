@@ -1,6 +1,6 @@
 **Expectation-maximization** is an iterative method to find [[maximum likelihood estimation]]s of parameters when there are unobserved latent variables. 
 
-Let's say we have a training set $\\{x^{(1)}, \dots, x^{(n)} \\}$.
+Let's say we have a training set $\\{x^{(1)}, \dots, x^{(n)} \\}$. 
 
 \begin{align}
 \ell(\theta) &= \sum_{i=1}^m \log p(x^{(i)}; \theta) \\\
