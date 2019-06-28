@@ -11,3 +11,9 @@ $\phi$ is a distribution over the $k$ Gaussians (i.e. $\phi_j \geq 0$ and $\sum_
 \\[
 x^{(i)} | z^{(i)} \sim \mathcal{N}(\mu_j, \Sigma_j)
 \\]
+
+The likelihood model is
+
+\\[
+\ell(\phi, \mu, \Sigma) = \sum_{i=1}^n \log p(x^{(i)}; \phi, \mu, \Sigma)
+\\]
