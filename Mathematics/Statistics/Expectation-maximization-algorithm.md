@@ -6,4 +6,4 @@ As an example, let's say we have a training set $\\{x^{(1)}, \dots, x^{(n)} \\}$
 z^{(i)} \sim \text{Multinomial}(\phi)
 \\]
 
-$\phi$ is a distribution over the $k$ Gaussians (i.e. $\phi_j \geq 0$ and $\sum_{j=1}^k \phi_j = 1$ )
+$\phi$ is a distribution over the $k$ Gaussians (i.e. $\phi_j \geq 0$ and $\sum_{j=1}^k \phi_j = 1$ and $\phi_j = \Pr(z^{(i)} = j $)
