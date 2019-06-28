@@ -37,5 +37,5 @@ We can now link the latent variable in by saying
 Imagine we had acess to the latent variable $z^{(i)}$, then it would be possible to compute the likelihood by
 
 \\[
-\ell(\theta) = \sum_{i=1}^m \log p(x^{(i)}; \theta) 
+\ell(\theta) = \sum_{i=1}^m \log p(x^{(i)} | z^{(i)}; \theta) p(z^{(i)}; \phi)
 \\]
