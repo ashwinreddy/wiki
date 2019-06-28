@@ -1,0 +1,1 @@
+**Expectation-maximization** is an iterative method to find [[maximum likelihood estimation]]
