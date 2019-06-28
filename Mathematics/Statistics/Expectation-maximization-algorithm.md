@@ -4,7 +4,7 @@ Let's say we have a training set $\\{x^{(1)}, \dots, x^{(n)} \\}$.
 
 \begin{align}
 \ell(\theta) &= \sum_{i=1}^m \log p(x^{(i)}; \theta) \\\
-&= \sum_{i=1}^n \log \sum_{z} p(x, z; \theta)
+&= \sum_{i=1}^n \log \sum_{z} p(x^{(i)}, z; \theta)
 \end{align}
 
 
