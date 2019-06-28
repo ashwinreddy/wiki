@@ -38,6 +38,6 @@ Imagine we had acess to the latent variable $z^{(i)}$, then it would be possible
 
 \begin{align}
 \ell(\theta) &= \sum_{i=1}^m \log p(x^{(i)} | z^{(i)}; \theta) p(z^{(i)}; \phi) \\\
-&= \sum_{i=1}^m \log p(x^{(i)} | z^{(i)}; \theta) p(z^{(i)}; \phi)
+&= \sum_{i=1}^m \log p(x^{(i)} | z^{(i)}; \theta) + \log p(z^{(i)}; \phi)
 \end{align}
 
