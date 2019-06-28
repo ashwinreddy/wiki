@@ -1,1 +1,1 @@
-**Expectation-maximization** is an iterative method to find [[maximum likelihood estimation]]
+**Expectation-maximization** is an iterative method to find [[maximum likelihood estimation]]s of parameters when there are unobserved latent variables.
