@@ -54,5 +54,5 @@ w_{j}^{(i)} \leftarrow p(z^{(i)} = j | x^{(i)}; \phi, \mu, \Sigma)
 \\]
 
 \\[
-\mu_j \leftarrow \frac{}{\sum_{i=1}^n w_j^{(i)}}
+\mu_j \leftarrow \frac{\sum_{i=1}^n w_j^{(i)}x^{(i)}}{\sum_{i=1}^n w_j^{(i)}}
 \\]
