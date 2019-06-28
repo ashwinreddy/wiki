@@ -58,6 +58,6 @@ w_{j}^{(i)} \leftarrow p(z^{(i)} = j | x^{(i)}; \phi, \mu, \Sigma)
 \\]
 
 \\[
-\Sigma_j \leftarrow \frac{\sum_{i=1}^n w_j^{(i)}(x^{(i)})()}{\sum_{i=1}^n w_j^{(i)}}
+\Sigma_j \leftarrow \frac{\sum_{i=1}^n w_j^{(i)}(x^{(i)}-\mu_j)(x^{(i)}-\mu_j)}{\sum_{i=1}^n w_j^{(i)}}
 \\]
 
