@@ -1,0 +1,1 @@
+**Maximum likelihood estimation** is a technique for finding the parameters of a statistical model given some data. We construct a likelihood function $L(\theta)$
