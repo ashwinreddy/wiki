@@ -1,1 +1,3 @@
-**Expectation-maximization** is an iterative method to find [[maximum likelihood estimation]]s of parameters when there are unobserved latent variables.
+**Expectation-maximization** is an iterative method to find [[maximum likelihood estimation]]s of parameters when there are unobserved latent variables. 
+
+As an example, let's say we have a training set $\\{x^{(1)}, \dots, x^{(n)} \\}$. We posit that each example has a latent variable $z^{(i)}$ attached to it that determines one of $k$ Gaussian models to use to model $x^{(i)}$.
