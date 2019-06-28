@@ -41,3 +41,10 @@ Imagine we had acess to the latent variable $z^{(i)}$, then it would be possible
 &= \sum_{i=1}^m \log p(x^{(i)} | z^{(i)}; \theta) + \log p(z^{(i)}; \phi)
 \end{align}
 
+# Algorithm
+
+Repeat until convergence:
+
+\\[
+w_{j}^{(i)} \leftarrow p(z^{(i) = j | x^{(i)}; \phi, \mu, \SIgma)
+\\]
