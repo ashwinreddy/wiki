@@ -46,7 +46,7 @@ Imagine we had acess to the latent variable $z^{(i)}$, then it would be possible
 Repeat until convergence:
 
 \\[
-w_{j}^{(i)} \leftarrow p(z^{(i)} = j | x^{(i)}; \phi, \mu, \Sigma) = \frac{p(x^{(i)}|z^{(i)}=j; \mu, \Sigma)p(z^{(i)}=j; \phi)}{\sum_{l=1}^k p(x^{(i)} | z^{i} = l; \mu, \Sigma )}
+w_{j}^{(i)} \leftarrow p(z^{(i)} = j | x^{(i)}; \phi, \mu, \Sigma) = \frac{p(x^{(i)}|z^{(i)}=j; \mu, \Sigma)p(z^{(i)}=j; \phi)}{\sum_{l=1}^k p(x^{(i)} | z^{i} = l; \mu, \Sigma ) p(z^{(i)}=l)}
 \\]
 
 \\[
