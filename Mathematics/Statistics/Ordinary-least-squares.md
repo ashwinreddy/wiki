@@ -42,8 +42,32 @@ The alternative to batch gradient descent is stochastic gradient descent, where 
 
 We can also analytically derive the optimal $\theta$ since we know there's a global optimum. Let $X$ be a $n \times (d+1)$ matrix of input examples. That is, each of the $n$ examples gets its own row with $(d+1)$ columns. 
 
-\begin{equation}
-X = \brows{ \transpose{(   \idx{x}{1}   )} \\ \transpose{(   \idx{x}{2}   )} \\ \rowsvdots \\ \transpose{(   \idx{x}{n}   )}}
-\end{equation}
+First, note that it is totally valid to write
 
+\begin{equation*}
+h_\theta(x^{(i)}) = \transpose{(\idx{x}{i})}\theta
+\end{equation*}
 
+Then, we can just run them all through with $X\theta$. This enables us to say
+
+\begin{equation*}
+J(\theta) = \frac{1}{2}\transpose{\left(X\theta - \vec{y}\right)}\left(X\theta - \vec{y}\right)
+\end{equation*}
+
+Through some matrix calculus, we find that
+
+\begin{equation*}
+\nabla_\theta J(\theta) = \transpose{X}X\theta - \transpose{X}\vec{y}
+\end{equation*}
+
+Setting this equal to nil, we find
+
+\begin{equation*}
+\transpose{X}X\theta  = \transpose{X}\vec{y}
+\end{equation*}
+
+We read off the value of $\theta$ that minimizes $J(\theta)$ as
+
+\begin{equation*}
+\theta = \left( \transpose{X}X\right)^{-1}\transpose{X}\vec{y}
+\end{equation*}
