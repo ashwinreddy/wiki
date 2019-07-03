@@ -3,11 +3,11 @@
 
 The gradient descent algorithm makes incremental simultaneous updates to each $\theta_j$ that make $J(\theta)$ smaller:
 
-\begin{equation} \label{eq:lms-grad-descent}
+\begin{equation}
 \theta_j \leftarrow \theta_j - \alpha \partial_{\theta_j}{J(\theta)}
 \end{equation}
 
-The learning rate $\alpha$ is a hyperparameter. Note that Equation \ref{eq:lms-grad-descent} requires the evaluation of the derivative of cost w.r.t. the weights. We can determine that by hand. Let's first assume there's only one example $(x, y)$:
+The learning rate $\alpha$ is a hyperparameter. Note the evaluation of the derivative of cost w.r.t. the weights. We can determine that by hand. Let's first assume there's only one example $(x, y)$:
 
 \begin{align*}
 \partialderivative{J(\theta)}{\theta_j} &= \partialderivative{}{\theta_j} \frac{1}{2}\left( h_\theta(x) - y \right)^2 \\
