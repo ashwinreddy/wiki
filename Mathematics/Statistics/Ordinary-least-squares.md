@@ -51,13 +51,13 @@ h_\theta(x^{(i)}) = \transpose{(\idx{x}{i})}\theta
 Then, we can just run them all through with $X\theta$. This enables us to say
 
 \begin{equation}
-J(\theta) = \frac{1}{2}\transpose{\left(X\theta - \vec{y}\right)}\left(X\theta - \vec{y}\right)
+J(\theta) = \frac{1}{2}{\left(X\theta - \vec{y}\right)}^\mathsf{T}\left(X\theta - \vec{y}\right)
 \end{equation}
 
 Through some matrix calculus, we find that
 
 \begin{equation}
-\nabla_\theta J(\theta) = \transpose{X}X\theta - \transpose{X}\vec{y}
+\nabla_\theta J(\theta) = {X}^\mathsf{T}X\theta - \transpose{X}\vec{y}
 \end{equation}
 
 Setting this equal to nil, we find
