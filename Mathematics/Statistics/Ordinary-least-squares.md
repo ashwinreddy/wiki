@@ -96,8 +96,8 @@ It then follows that $\Pr(\left.{y}^{(i)}  \right\vert x^{(i)}; \theta) = \Pr({\
 The likelihood function tells us the probability that we got the data we did given the parameters to our model:
 
 \begin{align}
-L(\theta) &= \Pr(\left. \vec{y} \right| X; \theta) \\
-&= \prod_{i=1}^n \Pr( \left. \idx{y}{i} \right| \idx{x}{i}; \theta ) \\
+L(\theta) &= \Pr(\left. \vec{y} \right| X; \theta) \\\
+&= \prod_{i=1}^n \Pr( \left. \idx{y}{i} \right| \idx{x}{i}; \theta ) \\\
 &= \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2})
 \end{align}
 
