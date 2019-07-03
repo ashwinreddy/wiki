@@ -98,7 +98,7 @@ The likelihood function tells us the probability that we got the data we did giv
 \begin{align}
 L(\theta) &= \Pr(\left. \vec{y} \right| X; \theta) \\\
 &= \prod_{i=1}^n \Pr( \left. y^{(i)} \right| x^{(i)}; \theta ) \\\
-&= \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2})
+&= \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}\right)
 \end{align}
 
 We need to pick the values of $\theta$ so to maximize the value of $L(\theta)$. We can also maximize any strictly increasing function of $L(\theta)$. So we can also use the log likelihood $\ell(\theta)$:
