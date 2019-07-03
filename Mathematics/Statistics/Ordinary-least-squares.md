@@ -104,9 +104,9 @@ L(\theta) &= \Pr(\left. \vec{y} \right| X; \theta) \\
 We need to pick the values of $\theta$ so to maximize the value of $L(\theta)$. We can also maximize any strictly increasing function of $L(\theta)$. So we can also use the log likelihood $\ell(\theta)$:
 
 \begin{align}
-\ell(\theta) &= \log L(\theta) \\
-&= \log \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2}) \\
-&= \sum_{i=1}^n \log \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2}) \\
+\ell(\theta) &= \log L(\theta) \\\
+&= \log \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2}) \\\
+&= \sum_{i=1}^n \log \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2}) \\\
 &= n \log \frac{1}{\sigma\sqrt{2\pi}} - \frac{1}{2\sigma^2}\sum_{i=1}^n \left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2
 \end{align}
 
