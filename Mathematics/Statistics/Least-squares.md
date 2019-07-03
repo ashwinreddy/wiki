@@ -12,6 +12,6 @@ The learning rate $\alpha$ is a hyperparameter. Note the evaluation of the deriv
 \begin{align}
 \partial_{\theta_j}{J(\theta)} &= \partial_{\theta_j} \frac{1}{2}\left( h_\theta(x) - y \right)^2 \\\
 &= 2 \cdot \frac{1}{2}\left(h_\theta(x) - y \right)^2\cdot \partial{}{\theta_j}\left(h_\theta(x) - y\right) \\\
-&= \left( h_\theta(x) - y \right)\cdot\partial{}{\theta_j}\left( {\theta}^\mathsf{T}x -y \right) \\\
+&= \left( h_\theta(x) - y \right)\cdot\partial_{\theta_j}\left( {\theta}^\mathsf{T}x -y \right) \\\
 &= \left( h_\theta(x) - y \right)x_j
 \end{align}
