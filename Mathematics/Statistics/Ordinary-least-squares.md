@@ -105,8 +105,8 @@ We need to pick the values of $\theta$ so to maximize the value of $L(\theta)$. 
 
 \begin{align}
 \ell(\theta) &= \log L(\theta) \\\
-&= \log \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}) \\\
-&= \sum_{i=1}^n \log \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}) \\\
+&= \log \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}\right) \\\
+&= \sum_{i=1}^n \log \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}\right) \\\
 &= n \log \frac{1}{\sigma\sqrt{2\pi}} - \frac{1}{2\sigma^2}\sum_{i=1}^n \left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2
 \end{align}
 
