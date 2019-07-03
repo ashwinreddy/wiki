@@ -16,8 +16,8 @@ Let's run [[maximum likelihood estimation]] again. We want our hypothesis to tel
 
 We're now going to take advantage of the fact that we're using 0 and 1 as our labels for $y$ to pull off a bit of a hacky trick:
 
-\[
+\\[
 \Pr(\left. y \right| x; \theta) = \left(h_\theta(x)\right)^y\left(1-h_\theta(x)\right)^{1-y}
-\]
+\\]
 
 Therefore the likelihood of getting the data that we did is the product of the probability of getting each individual training example:
