@@ -10,8 +10,8 @@ The gradient descent algorithm makes incremental simultaneous updates to each $\
 The learning rate $\alpha$ is a hyperparameter. Note the evaluation of the derivative of cost w.r.t. the weights. We can determine that by hand. Let's first assume there's only one example $(x, y)$:
 
 \begin{align}
-\partial{J(\theta)}{\theta_j} &= \partial{}{\theta_j} \frac{1}{2}\left( h_\theta(x) - y \right)^2 \\\
-&= 2 \cdot \frac{1}{2}\left(h_\theta(x) - y \right)^2\cdot \partialderivative{}{\theta_j}\left(h_\theta(x) - y\right) \\\
-&= \left( h_\theta(x) - y \right)\cdot\partialderivative{}{\theta_j}\left( \transpose{\theta}x -y \right) \\\
+\partial_{\theta_j}{J(\theta)} &= \partial_{\theta_j} \frac{1}{2}\left( h_\theta(x) - y \right)^2 \\\
+&= 2 \cdot \frac{1}{2}\left(h_\theta(x) - y \right)^2\cdot \partial{}{\theta_j}\left(h_\theta(x) - y\right) \\\
+&= \left( h_\theta(x) - y \right)\cdot\partial{}{\theta_j}\left( \transpose{\theta}x -y \right) \\\
 &= \left( h_\theta(x) - y \right)x_j
 \end{align}
