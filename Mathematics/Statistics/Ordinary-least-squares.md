@@ -42,8 +42,8 @@ The alternative to batch gradient descent is stochastic gradient descent, where 
 
 We can also analytically derive the optimal $\theta$ since we know there's a global optimum. Let $X$ be a $n \times (d+1)$ matrix of input examples. That is, each of the $n$ examples gets its own row with $(d+1)$ columns. 
 
-\begin{equation*}
+\begin{equation}
 X = \brows{ \transpose{(   \idx{x}{1}   )} \\ \transpose{(   \idx{x}{2}   )} \\ \rowsvdots \\ \transpose{(   \idx{x}{n}   )}}
-\end{equation*}
+\end{equation}
 
 
