@@ -57,7 +57,7 @@ J(\theta) = \frac{1}{2}{\left(X\theta - \vec{y}\right)}^\mathsf{T}\left(X\theta 
 Through some matrix calculus, we find that
 
 \begin{equation}
-\nabla_\theta J(\theta) = {X}^\mathsf{T}X\theta - \transpose{X}\vec{y}
+\nabla_\theta J(\theta) = {X}^\mathsf{T}X\theta - {X}^\mathsf{T}\vec{y}
 \end{equation}
 
 Setting this equal to nil, we find
