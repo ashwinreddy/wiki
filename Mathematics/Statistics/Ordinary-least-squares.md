@@ -90,7 +90,7 @@ Here, the $\epsilon^{(i)}$ terms cover unmodeled effects or error. If we posit t
 It then follows that $\Pr(\left.{y}^{(i)}  \right\vert x^{(i)}; \theta) = \Pr({\epsilon}^{(i)})$. If you tell me an $x$ value and ask me what the probability of a corresponding $y$ value is, it's just the probability that the difference is exactly equal to the error.
 
 \begin{equation}
-\Pr(\left.y^{(i)}  \right| x^{(i)}; \theta) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left({y}^{(i)} - {\theta}^\mathsf{T}{x}^{(i)}\right)^2}{2\sigma^2})
+\Pr(\left.y^{(i)}  \right| x^{(i)}; \theta) = \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left({y}^{(i)} - {\theta}^\mathsf{T}{x}^{(i)}\right)^2}{2\sigma^2}\right)
 \end{equation}
 
 The likelihood function tells us the probability that we got the data we did given the parameters to our model:
