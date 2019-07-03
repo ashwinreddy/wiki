@@ -14,4 +14,6 @@ One fairly standard choice of weights is
 w^{(i)} = \exp(-\frac{\left( x^{(i)}- x\right)^2}{2\tau^2})
 \end{equation}
 
-$\tau$ is called the bandwidth parameter. In this regime, there is a higher weight given to training examples close to the query point $x$. Note that to use this algorithm\footnote{We call this algorithm non-parametric.} during prediction we need to store the training set.
+$\tau$ is called the bandwidth parameter. In this regime, there is a higher weight given to training examples close to the query point $x$. Note that to use this algorithm[^1]. During prediction we need to store the training set.
+
+[^1]: We call this algorithm non-parametric. 
