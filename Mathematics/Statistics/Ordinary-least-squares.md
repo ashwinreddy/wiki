@@ -45,7 +45,7 @@ We can also analytically derive the optimal $\theta$ since we know there's a glo
 First, note that it is totally valid to write
 
 \begin{equation}
-h_\theta(x^{(i)}) = {(\idx{x}{i})}^\mathsf{T}\theta
+h_\theta(x^{(i)}) = {({x}^{(i)})}^\mathsf{T}\theta
 \end{equation}
 
 Then, we can just run them all through with $X\theta$. This enables us to say
