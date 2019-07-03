@@ -30,4 +30,10 @@ If we just follow the gradient descent rule, we would repeat the following until
 \theta_j \leftarrow \theta_j + \alpha \sum_{i=1}^n \left( y^{(i)} - h_\theta(x^{(i)}) \right)x_{j}^{(i)}
 \end{equation}
 
+
+
+This is called batch gradient descent. For linear regression with least-squares, this is only one optimum, the global one because $J$ is a convex quadratic function. 
+
+The alternative to batch gradient descent is stochastic gradient descent, where we run Equation \ref{eq:lms-grad-descent-rule} for each training example. This eliminates the need to scan through the entire training set for each step.
+
 [^1]: Notice that the update is proportional to the error (the difference between $y$ and $h(x)$).
