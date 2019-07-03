@@ -45,7 +45,7 @@ We can also analytically derive the optimal $\theta$ since we know there's a glo
 First, note that it is totally valid to write
 
 \begin{equation*}
-h_\theta(x^{(i)}) = \transpose{(\idx{x}{i})}\theta
+h_\theta(x^{(i)}) = {(\idx{x}{i})}^\mathsf{T}\theta
 \end{equation*}
 
 Then, we can just run them all through with $X\theta$. This enables us to say
@@ -63,11 +63,11 @@ Through some matrix calculus, we find that
 Setting this equal to nil, we find
 
 \begin{equation}
-\transpose{X}X\theta  = \transpose{X}\vec{y}
+\transpose{X}X\theta  = {X}^\mathsf{T}\vec{y}
 \end{equation}
 
 We read off the value of $\theta$ that minimizes $J(\theta)$ as
 
 \begin{equation}
-\theta = \left( \transpose{X}X\right)^{-1}\transpose{X}\vec{y}
+\theta = \left( {X}^\mathsf{T}X\right)^{-1}\transpose{X}\vec{y}
 \end{equation}
