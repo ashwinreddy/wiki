@@ -10,7 +10,7 @@ The $\theta_i$'s are parameters or weights. We can simplify the notation by defi
 h(x) = \theta^\mathsf{T}x
 \\]
 
-We need to formalize a notion of $h(x)$ being close to $y$ so that we can determine what the optimal $\theta$ is. The cost function captures the difference between $h(x)$ and $y$. For example, in linear regression it is common to use the least-squares cost function:
+We need to formalize a notion of $h(x)$ being close to $y$ so that we can determine what the optimal $\theta$ is. The cost function captures the difference between $h(x)$ and $y$. For example, in linear regression it is common to use the [[least squares]] cost function.
 
 \\[
 J(\theta) = \frac{1}{2}\sum_{i=1}^n \left( h_\theta\left(  x^{(i)} \right) - y^{(i)}  \right)^2
