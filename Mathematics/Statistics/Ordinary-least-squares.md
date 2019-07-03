@@ -69,5 +69,5 @@ Setting this equal to nil, we find
 We read off the value of $\theta$ that minimizes $J(\theta)$ as
 
 \begin{equation}
-\theta = \left( {X}^\mathsf{T}X\right)^{-1}\transpose{X}\vec{y}
+\theta = \left( {X}^\mathsf{T}X\right)^{-1}{X}^\mathsf{T}\vec{y}
 \end{equation}
