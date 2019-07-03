@@ -24,7 +24,7 @@ So for a specific training example $(x^{(i)}, y^{(i)})$, the rule is
 
 This is called the Widrow-Hoff rule.[^1] What do we do with multiple examples?
 
-If we just follow what Equation \ref{eq:lms-grad-descent} says, we would repeat the following until convergence for every $j$:
+If we just follow the gradient descent rule, we would repeat the following until convergence for every $j$:
 
 \begin{equation}
 \theta_j \leftarrow \theta_j + \alpha \sum_{i=1}^n \left( y^{(i)} - h_\theta(x^{(i)}) \right)x_{j}^{(i)}
