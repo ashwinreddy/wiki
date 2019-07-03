@@ -50,24 +50,24 @@ h_\theta(x^{(i)}) = \transpose{(\idx{x}{i})}\theta
 
 Then, we can just run them all through with $X\theta$. This enables us to say
 
-\begin{equation*}
+\begin{equation}
 J(\theta) = \frac{1}{2}\transpose{\left(X\theta - \vec{y}\right)}\left(X\theta - \vec{y}\right)
-\end{equation*}
+\end{equation}
 
 Through some matrix calculus, we find that
 
-\begin{equation*}
+\begin{equation}
 \nabla_\theta J(\theta) = \transpose{X}X\theta - \transpose{X}\vec{y}
-\end{equation*}
+\end{equation}
 
 Setting this equal to nil, we find
 
-\begin{equation*}
+\begin{equation}
 \transpose{X}X\theta  = \transpose{X}\vec{y}
-\end{equation*}
+\end{equation}
 
 We read off the value of $\theta$ that minimizes $J(\theta)$ as
 
-\begin{equation*}
+\begin{equation}
 \theta = \left( \transpose{X}X\right)^{-1}\transpose{X}\vec{y}
-\end{equation*}
+\end{equation}
