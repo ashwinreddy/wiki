@@ -5,13 +5,13 @@ If we have too few features, we run the risk of underfitting while too many feat
 
 Now,
 
-1. Fit $\theta$ to minimize $\sum_i \idx{w}{i}\left( y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2$ for non-negative weights $\idx{w}{i}$
+1. Fit $\theta$ to minimize $\sum_i w^{(i)}\left( y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2$ for non-negative weights $w^{(i)}$
 2. Output $\theta^\mathsf{T}x$
 
 One fairly standard choice of weights is
 
 \begin{equation}
-\idx{w}{i} = \exp(-\frac{\left( x^{(i)}- x\right)^2}{2\tau^2})
+w^{(i)} = \exp(-\frac{\left( x^{(i)}- x\right)^2}{2\tau^2})
 \end{equation}
 
 $\tau$ is called the bandwidth parameter. In this regime, there is a higher weight given to training examples close to the query point $x$. Note that to use this algorithm\footnote{We call this algorithm non-parametric.} during prediction we need to store the training set.
