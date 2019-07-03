@@ -87,10 +87,10 @@ Here, the $\epsilon^{(i)}$ terms cover unmodeled effects or error. If we posit t
 \Pr({\epsilon}^{(i)}) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left({\epsilon}^{(i)}\right)^2}{2\sigma^2})
 \end{equation}
 
-It then follows that $\Pr(\left.\idx{y}{i}  \right\vert \idx{x}{i}; \theta) = \Pr(\idx{\epsilon}{i})$. If you tell me an $x$ value and ask me what the probability of a corresponding $y$ value is, it's just the probability that the difference is exactly equal to the error.
+It then follows that $\Pr(\left.{y}^{(i)}  \right\vert x^{(i)}; \theta) = \Pr({\epsilon}^{(i)})$. If you tell me an $x$ value and ask me what the probability of a corresponding $y$ value is, it's just the probability that the difference is exactly equal to the error.
 
 \begin{equation}
-\Pr(\left.\idx{y}{i}  \right| \idx{x}{i}; \theta) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2})
+\Pr(\left.y^{(i)}  \right| x^{(i)}; \theta) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2})
 \end{equation}
 
 The likelihood function tells us the probability that we got the data we did given the parameters to our model:
