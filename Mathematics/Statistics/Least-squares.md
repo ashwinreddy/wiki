@@ -21,3 +21,5 @@ So for a specific training example $(x^{(i)}, y^{(i)})$, the rule is
 \begin{equation} \label{eq:lms-grad-descent-rule}
 \theta_j \leftarrow \theta_j + \alpha \left( {y}^{(i)} - h_\theta\left( {x}^{(i)}\right) \right)x_{j}^{(i)}
 \end{equation}
+
+This is called the Widrow-Hoff rule.\footnote{Notice that the update is proportional to the error (the difference between $y$ and $h(x)$).} What do we do with multiple examples?
