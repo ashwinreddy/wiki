@@ -78,10 +78,10 @@ We read off the value of $\theta$ that minimizes $J(\theta)$ as
 Why does linear regression with least-squares cost make sense? We can give a probabilistic argument. Say that the actual relationship is captured by the following equation.
 
 \begin{equation}
-\idx{y}{i} = \transpose{\theta}\idx{x}{i} +\idx{\epsilon}{i}
+y^{(i)} = \transpose{\theta}x^{(i)} +\epsilon^{(i)}
 \end{equation}
 
-Here, the $\idx{\epsilon}{i}$ terms cover unmodeled effects or error. If we posit that $\idx{\epsilon}{i} \sim \mathcal{N}(0, \sigma^2)$ (i.e. the $\idx{\epsilon}{i}$'s are i.i.d. and normally distributed with a mean of 0), then we can say that
+Here, the $\epsilon^{(i)}$ terms cover unmodeled effects or error. If we posit that $\idx{\epsilon}{i} \sim \mathcal{N}(0, \sigma^2)$ (i.e. the $\idx{\epsilon}{i}$'s are i.i.d. and normally distributed with a mean of 0), then we can say that
 
 \begin{equation}
 \Pr(\idx{\epsilon}{i}) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{\epsilon}{i}\right)^2}{2\sigma^2})
