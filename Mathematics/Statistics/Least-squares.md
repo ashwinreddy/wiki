@@ -15,3 +15,9 @@ The learning rate $\alpha$ is a hyperparameter. Note the evaluation of the deriv
 &= \left( h_\theta(x) - y \right)\cdot\partial_{\theta_j}\left( {\theta}^\mathsf{T}x -y \right) \\\
 &= \left( h_\theta(x) - y \right)x_j
 \end{align}
+
+So for a specific training example $(x^{(i)}, y^{(i)})$, the rule is
+
+\begin{equation} \label{eq:lms-grad-descent-rule}
+\theta_j \leftarrow \theta_j + \alpha \left( \idx{y}{i} - h_\theta( \idx{x}{i}) \right)x_{j}^{(i)}
+\end{equation}
