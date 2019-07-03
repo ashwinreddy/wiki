@@ -1,6 +1,5 @@
-\begin{equation} \label{eq:lms-grad-descent}
-\theta_j \leftarrow \theta_j - \alpha \partialderivative{J(\theta)}{\theta_j}
-\end{equation}
+\\[ J(\theta) = \frac{1}{2}\sum_{i=1}^n \left( h_\theta\left( x^{(i)} \right) - y^{(i)} \right)^2 \\]
+
 
 The gradient descent algorithm makes incremental simultaneous updates to each $\theta_j$ that make $J(\theta)$ smaller:
 
