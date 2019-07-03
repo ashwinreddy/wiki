@@ -81,10 +81,10 @@ Why does linear regression with least-squares cost make sense? We can give a pro
 y^{(i)} = \transpose{\theta}x^{(i)} +\epsilon^{(i)}
 \end{equation}
 
-Here, the $\epsilon^{(i)}$ terms cover unmodeled effects or error. If we posit that $\idx{\epsilon}{i} \sim \mathcal{N}(0, \sigma^2)$ (i.e. the $\idx{\epsilon}{i}$'s are i.i.d. and normally distributed with a mean of 0), then we can say that
+Here, the $\epsilon^{(i)}$ terms cover unmodeled effects or error. If we posit that $\epsilon^{(i)} \sim \mathcal{N}(0, \sigma^2)$ (i.e. the $\epsilon^{(i)}$'s are i.i.d. and normally distributed with a mean of 0), then we can say that
 
 \begin{equation}
-\Pr(\idx{\epsilon}{i}) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{\epsilon}{i}\right)^2}{2\sigma^2})
+\Pr({\epsilon}^{(i)}) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left({\epsilon}^{(i)}\right)^2}{2\sigma^2})
 \end{equation}
 
 It then follows that $\Pr(\left.\idx{y}{i}  \right| \idx{x}{i}; \theta) = \Pr(\idx{\epsilon}{i})$. If you tell me an $x$ value and ask me what the probability of a corresponding $y$ value is, it's just the probability that the difference is exactly equal to the error.
