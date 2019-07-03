@@ -71,3 +71,43 @@ We read off the value of $\theta$ that minimizes $J(\theta)$ as
 \begin{equation}
 \theta = \left( {X}^\mathsf{T}X\right)^{-1}{X}^\mathsf{T}\vec{y}
 \end{equation}
+
+
+# Probabilistic Interpretation
+
+Why does linear regression with least-squares cost make sense? We can give a probabilistic argument. Say that the actual relationship is captured by the following equation.
+
+\begin{equation*}
+\idx{y}{i} = \transpose{\theta}\idx{x}{i} +\idx{\epsilon}{i}
+\end{equation*}
+
+Here, the $\idx{\epsilon}{i}$ terms cover unmodeled effects or error. If we posit that $\idx{\epsilon}{i} \sim \mathcal{N}(0, \sigma^2)$ (i.e. the $\idx{\epsilon}{i}$'s are i.i.d. and normally distributed with a mean of 0), then we can say that
+
+\begin{equation*}
+\Pr(\idx{\epsilon}{i}) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{\epsilon}{i}\right)^2}{2\sigma^2})
+\end{equation*}
+
+It then follows that $\Pr(\left.\idx{y}{i}  \right| \idx{x}{i}; \theta) = \Pr(\idx{\epsilon}{i})$. If you tell me an $x$ value and ask me what the probability of a corresponding $y$ value is, it's just the probability that the difference is exactly equal to the error.
+
+\begin{equation*}
+\Pr(\left.\idx{y}{i}  \right| \idx{x}{i}; \theta) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2})
+\end{equation*}
+
+The likelihood function tells us the probability that we got the data we did given the parameters to our model:
+
+\begin{align*}
+L(\theta) &= \Pr(\left. \vec{y} \right| X; \theta) \\
+&= \prod_{i=1}^n \Pr( \left. \idx{y}{i} \right| \idx{x}{i}; \theta ) \\
+&= \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2})
+\end{align*}
+
+We need to pick the values of $\theta$ so to maximize the value of $L(\theta)$. We can also maximize any strictly increasing function of $L(\theta)$. So we can also use the log likelihood $\ell(\theta)$:
+
+\begin{align*}
+\ell(\theta) &= \log L(\theta) \\
+&= \log \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2}) \\
+&= \sum_{i=1}^n \log \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2}) \\
+&= n \log \frac{1}{\sigma\sqrt{2\pi}} - \frac{1}{2\sigma^2}\sum_{i=1}^n \left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2
+\end{align*}
+
+But maximizing $\ell(\theta)$ as you can see is just the same as finding a minimum $J(\theta)$.
