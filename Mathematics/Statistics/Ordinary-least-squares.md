@@ -63,7 +63,7 @@ Through some matrix calculus, we find that
 Setting this equal to nil, we find
 
 \begin{equation}
-\transpose{X}X\theta  = {X}^\mathsf{T}\vec{y}
+{X}^\mathsf{T}X\theta  = {X}^\mathsf{T}\vec{y}
 \end{equation}
 
 We read off the value of $\theta$ that minimizes $J(\theta)$ as
