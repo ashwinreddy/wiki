@@ -13,5 +13,5 @@ h(x) = \theta^\mathsf{T}x
 We need to formalize a notion of $h(x)$ being close to $y$ so that we can determine what the optimal $\theta$ is. The cost function captures the difference between $h(x)$ and $y$. For example, in linear regression it is common to use the least-squares cost function:
 
 \\[
-J(\theta) = \frac{1}{2}\sum_{i=1}^n \left( h_\theta(  \idx{x}{i} ) - \idx{y}{i}  \right)^2
+J(\theta) = \frac{1}{2}\sum_{i=1}^n \left( h_\theta(  x^{(i)} ) - y^{(i)}  \right)^2
 \\]
