@@ -7,7 +7,7 @@ J(\theta) = \frac{1}{2}\sum_{i=1}^n \left( h_\theta\left(  x^{(i)} \right) - y^{
 The gradient descent algorithm makes incremental simultaneous updates to each $\theta_j$ that make $J(\theta)$ smaller:
 
 \begin{equation} \label{eq:lms-grad-descent}
-\theta_j \leftarrow \theta_j - \alpha \partial{J(\theta)}{\theta_j}
+\theta_j \leftarrow \theta_j - \alpha \partial_{\theta_j}{J(\theta)}
 \end{equation}
 
 The learning rate $\alpha$ is a hyperparameter. Note that Equation \ref{eq:lms-grad-descent} requires the evaluation of the derivative of cost w.r.t. the weights. We can determine that by hand. Let's first assume there's only one example $(x, y)$:
