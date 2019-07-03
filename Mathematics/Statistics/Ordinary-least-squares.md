@@ -84,13 +84,13 @@ y^{(i)} = {\theta}^\mathsf{T}x^{(i)} +\epsilon^{(i)}
 Here, the $\epsilon^{(i)}$ terms cover unmodeled effects or error. If we posit that $\epsilon^{(i)} \sim \mathcal{N}(0, \sigma^2)$ (i.e. the $\epsilon^{(i)}$'s are i.i.d. and normally distributed with a mean of 0), then we can say that
 
 \begin{equation}
-\Pr({\epsilon}^{(i)}) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left({\epsilon}^{(i)}\right)^2}{2\sigma^2})
+\Pr({\epsilon}^{(i)}) = \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left({\epsilon}^{(i)}\right)^2}{2\sigma^2}\right)
 \end{equation}
 
 It then follows that $\Pr(\left.{y}^{(i)}  \right\vert x^{(i)}; \theta) = \Pr({\epsilon}^{(i)})$. If you tell me an $x$ value and ask me what the probability of a corresponding $y$ value is, it's just the probability that the difference is exactly equal to the error.
 
 \begin{equation}
-\Pr(\left.y^{(i)}  \right| x^{(i)}; \theta) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2})
+\Pr(\left.y^{(i)}  \right| x^{(i)}; \theta) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left({y}^{(i)} - {\theta}^\mathsf{T}{x}^{(i)}\right)^2}{2\sigma^2})
 \end{equation}
 
 The likelihood function tells us the probability that we got the data we did given the parameters to our model:
