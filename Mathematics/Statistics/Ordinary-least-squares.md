@@ -97,17 +97,17 @@ The likelihood function tells us the probability that we got the data we did giv
 
 \begin{align}
 L(\theta) &= \Pr(\left. \vec{y} \right| X; \theta) \\\
-&= \prod_{i=1}^n \Pr( \left. \idx{y}{i} \right| \idx{x}{i}; \theta ) \\\
-&= \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2})
+&= \prod_{i=1}^n \Pr( \left. y^{(i)} \right| x^{(i)}; \theta ) \\\
+&= \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(y^{(i)} - \transpose{\theta}x^{(i)}\right)^2}{2\sigma^2})
 \end{align}
 
 We need to pick the values of $\theta$ so to maximize the value of $L(\theta)$. We can also maximize any strictly increasing function of $L(\theta)$. So we can also use the log likelihood $\ell(\theta)$:
 
 \begin{align}
 \ell(\theta) &= \log L(\theta) \\\
-&= \log \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2}) \\\
-&= \sum_{i=1}^n \log \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2}{2\sigma^2}) \\\
-&= n \log \frac{1}{\sigma\sqrt{2\pi}} - \frac{1}{2\sigma^2}\sum_{i=1}^n \left(\idx{y}{i} - \transpose{\theta}\idx{x}{i}\right)^2
+&= \log \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(y^{(i)} - \transpose{\theta}x^{(i)}\right)^2}{2\sigma^2}) \\\
+&= \sum_{i=1}^n \log \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{\left(y^{(i)} - \transpose{\theta}x^{(i)}\right)^2}{2\sigma^2}) \\\
+&= n \log \frac{1}{\sigma\sqrt{2\pi}} - \frac{1}{2\sigma^2}\sum_{i=1}^n \left(y^{(i)} - \transpose{\theta}x^{(i)}\right)^2
 \end{align}
 
 But maximizing $\ell(\theta)$ as you can see is just the same as finding a minimum $J(\theta)$.
