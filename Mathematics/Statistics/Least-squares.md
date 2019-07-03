@@ -22,4 +22,6 @@ So for a specific training example $(x^{(i)}, y^{(i)})$, the rule is
 \theta_j \leftarrow \theta_j + \alpha \left( {y}^{(i)} - h_\theta\left( {x}^{(i)}\right) \right)x_{j}^{(i)}
 \end{equation}
 
-This is called the Widrow-Hoff rule.\footnote{Notice that the update is proportional to the error (the difference between $y$ and $h(x)$).} What do we do with multiple examples?
+This is called the Widrow-Hoff rule.[^1] What do we do with multiple examples?
+
+[^1]: Notice that the update is proportional to the error (the difference between $y$ and $h(x)$).
