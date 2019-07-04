@@ -11,3 +11,9 @@ This can be written in a single expression as
 \\]
 
 When $x=0$, the first term is a 1 and the second term is $1-p$. Likewise, when $x=1$ the first term is a $p$ and the second term is a 1.
+
+The Bernoulli distribution is part of the exponential family:
+
+\\[
+p(x; \phi) = \exp( x \log \phi + (1-x) \log(1-\phi))
+\\]
