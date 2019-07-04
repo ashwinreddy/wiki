@@ -26,3 +26,5 @@ We can use Newton's method to find local minima for a multivariable functions (r
 \begin{equation}
 x_{n+1} \leftarrow x_n - H^{-1}\nabla_x f(x_n)
 \end{equation}
+
+where $H$ is the [[Hessian]].
