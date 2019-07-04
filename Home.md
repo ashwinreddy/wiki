@@ -1,5 +1,4 @@
-|[Mathematics](./Mathematics/)|
-
+|[Mathematics](./Mathematics/)|[Computer Science](./Computer Science/)|
 
 
 
