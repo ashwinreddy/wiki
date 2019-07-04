@@ -26,8 +26,8 @@ Therefore the likelihood of getting the data that we did is the product of the p
 
 \begin{align}
 L(\theta) &= \Pr(\left. \vec{y} \right| X;\theta) \\\
-&= \prod_{i=1}^n \Pr(\left. \idx{y}{i} \right| \idx{x}{i}; \theta) \\\
-&= \prod_{i=1}^n \left(h_\theta(\idx{x}{i})\right)^{\idx{y}{i}}\left(1-h_\theta(\idx{x}{i})\right)^{1-\idx{y}{i}}
+&= \prod_{i=1}^n \Pr(\left. y^{(i)} \right| x^{(i)}; \theta) \\\
+&= \prod_{i=1}^n \left(h_\theta(\idx{x}{i})\right)^{\idx{y}{i}}\left(1-h_\theta({x}^{(i)})\right)^{1-{y}^{(i)}}
 \end{align}
 
 \begin{align}
