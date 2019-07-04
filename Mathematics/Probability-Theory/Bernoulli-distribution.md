@@ -15,5 +15,5 @@ When $x=0$, the first term is a 1 and the second term is $1-p$. Likewise, when $
 The Bernoulli distribution is part of the exponential family:
 
 \\[
-p(x; \phi) = \exp( x \log \phi + (1-x) \log(1-\phi))
+\Pr(X=x; \phi) = \exp( x \log \phi + (1-x) \log(1-\phi))
 \\]
