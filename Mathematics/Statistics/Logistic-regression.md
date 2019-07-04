@@ -32,5 +32,5 @@ L(\theta) &= \Pr(\left. \vec{y} \right| X;\theta) \\\
 
 \begin{align}
 \ell(\theta) &= \log L(\theta) \\\
-&= \sum_{i=1}^n \idx{y}{i}\log h_\theta({x}^{(i)}) + \left(1- y^{(i)}\right)\log\left(1- h\left({x}^{(i)}\right)\right) 
+&= \sum_{i=1}^n y^{(i)}\log h_\theta({x}^{(i)}) + \left(1- y^{(i)}\right)\log\left(1- h\left({x}^{(i)}\right)\right) 
 \end{align}
