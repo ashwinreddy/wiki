@@ -18,3 +18,16 @@ The idea is to pick out the root from this line and consider that to be the next
 0 = f'(x_0)(x-x_0)+f(x_0) \\\
 x = x_0 - \frac{f(x_0)}{f'(x_0)}
 \end{gather}
+
+# Extensions
+
+We can use Newton's method to find local minima for a multivariable functions (recall that the root of the derivative indicates a possible optimum):
+
+\begin{equation}
+x_{n+1} \leftarrow x_n - \frac{f'(x_n)}{f''(x_n)}
+\end{equation}
+
+
+\begin{equation}
+x_{n+1} \leftarrow x_n - H^{-1}\nabla_x f(x_n)
+\end{equation}
