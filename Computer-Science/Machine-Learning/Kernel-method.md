@@ -24,3 +24,18 @@ But now notice that we never need to compute $\phi$ explicitly, only the inner p
 
 
 > For $K$ to be a valid kernel, it is neccessary and sufficient that it is symmetric PSD.
+
+
+
+
+The functional margin $\idx{\hat{\gamma}}{i}$ is defined by
+
+\\[
+\idx{\hat{\gamma}}{i} = \idx{y}{i}\left(\transpose{w}\idx{x}{i}+b\right)
+\\]
+
+The geometric margin is
+
+\\[
+\gamma = \min_i \idx{\hat\gamma}{i}
+\\]
