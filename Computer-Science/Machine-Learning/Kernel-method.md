@@ -21,3 +21,7 @@ If we eliminate $\theta$ completely, we can write
 \end{align}
 
 But now notice that we never need to compute $\phi$ explicitly, only the inner product. If we define the kernel as $K: \mathcal{X} \times \mathcal{X} \to \mathbb{R}$ with $K(x, z) = \langle \phi(x), \phi(z) \rangle$, we only have to worry if there exists some $\phi$ such that $K$ can be constructed. $K$ serves roughly as a similarity metric.
+
+```
+For $K$ to be a valid kernel, it is neccessary and sufficient that it is symmetric PSD.
+```
