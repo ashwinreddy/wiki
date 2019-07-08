@@ -37,5 +37,5 @@ The functional margin $\idx{\hat{\gamma}}{i}$ is defined by
 The geometric margin is
 
 \\[
-\gamma = \min_i \idx{\hat\gamma}{i}
+\gamma = \min_i {\hat\gamma}^{(i)}
 \\]
