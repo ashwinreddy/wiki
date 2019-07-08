@@ -16,7 +16,7 @@ What if $\phi(x)$ is high-dimensional? If we note that $\theta$ can be written a
 If we eliminate $\theta$ completely, we can write
 
 \begin{align}
-\beta_i &\leftarrow \beta_i + \alpha\left( y^{(i)} - \sum_{j=1}^n \beta_j \transpose\phi(\idx{x}{j}) \phi(x^{(i)})\right) \\
+\beta_i &\leftarrow \beta_i + \alpha\left( y^{(i)} - \sum_{j=1}^n \beta_j \phi(\idx{x}{j})^\mathsf{T} \phi(x^{(i)})\right) \\
 &\leftarrow \beta_i + \alpha\left( y^{(i)} - \sum_{j=1}^n \beta_j \left\langle\phi\left(\idx{x}{j}\right) , \phi\left(x^{(i)}\right)\right\rangle\right) 
 \end{align}
 
