@@ -3,3 +3,5 @@
 \\[
 x_{n+1} \leftarrow x_{n} - \alpha \nabla F(x_{n})
 \\]
+
+The alternative to batch gradient descent is stochastic gradient descent, where we run the gradient descent rule for each training example. This eliminates the need to scan through the entire training set for each step.
