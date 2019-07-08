@@ -1,0 +1,1 @@
+The variance of a random variable is the covariance of the variable with itself.
