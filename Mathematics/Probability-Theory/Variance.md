@@ -5,5 +5,5 @@ The variance of a random variable is the covariance of the variable with itself.
 \\]
 
 \\[
-\operatorname{Var}[X] = \mathbb{E}[X^2] - \mathbb{E}[X]^2
+\operatorname{Var}[X] = \mathbb{E}[X^2] - \mathbb{E}[X]^2 = \mathbb{E}[X^2] - \mu^2
 \\]
