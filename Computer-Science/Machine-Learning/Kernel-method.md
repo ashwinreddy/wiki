@@ -28,7 +28,7 @@ But now notice that we never need to compute $\phi$ explicitly, only the inner p
 
 
 
-The functional margin $\idx{\hat{\gamma}}{i}$ is defined by
+The functional margin ${\hat{\gamma}}^{(i)}$ is defined by
 
 \\[
 \hat{\gamma}^{(i)} = {y}^{(i)}\left({w}^\mathsf{T}{x}^{(i)}+b\right)
