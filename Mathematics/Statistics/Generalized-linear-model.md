@@ -1,6 +1,6 @@
 # Assumptions
 
-1. $y \vert x; \theta \sim \text{ExponentialFamily}(\eta)$ [[Exponential Family]]
+1. $y \vert x; \theta \sim \href{}{ExponentialFamily}(\eta)$ [[Exponential Family]]
 2. Our goal is to predict $\mathbb{E}[T(y)\vert x; \theta]$.
 3. The natural parameter relates to inputs by $\eta = {\theta}^\mathsf{T}x$.
 
