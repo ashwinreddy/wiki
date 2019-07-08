@@ -1,6 +1,6 @@
 # Feature Maps
 
-Let's imagine we want a richer representation of $x \in \mathbb{R}^d$ for our model. We could write a function $\phi: \mathbb{R}^d \to \mathbb{R}^p$. For example, $\phi(x) = \langle 1, x, x^2, x^3 \rangle$. Now, we make the replacement $x \to \phi(x)$. In the end, stochastic gradient descent looks the same if we make the replacement:
+Let's imagine we want a richer representation of $x \in \mathbb{R}^d$ for our model. We could write a function $\phi: \mathbb{R}^d \to \mathbb{R}^p$ (where presumably $p>d$). For example, $\phi(x) = \langle 1, x, x^2, x^3 \rangle$. Now, we make the replacement $x \to \phi(x)$. In the end, stochastic gradient descent looks the same if we make the replacement:
 
 \\[
 \theta \leftarrow \theta + \alpha \left(y^{(i)} - {\theta}^{\mathsf{T}}\phi(x^{(i)})\right)\phi(x^{(i)})
