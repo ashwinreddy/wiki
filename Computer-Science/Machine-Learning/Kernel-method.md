@@ -7,7 +7,7 @@ Let's imagine we want a richer representation of $x \in \mathbb{R}^d$ for our mo
 \\]
 
 
-What if $\phi(x)$ is high-dimensional? If we note that $\theta$ can be written as a linear combination of the vectors $\phi(\idx{x}{1}), \dots, \phi(\idx{x}{n})$, the update to the coefficients of the linear combination is
+What if $\phi(x)$ is high-dimensional? If we note that $\theta$ can be written as a linear combination of the vectors $\phi({x}^{(1)}), \dots, \phi({x}^{(n)})$, the update to the coefficients of the linear combination is
 
 \\[
 \beta_i \leftarrow \beta_i + \alpha\left(y^{(i)} - {\theta}^{\mathsf{T}}\phi(x^{(i)})\right)
