@@ -8,3 +8,6 @@
 |$({x}^{(i)}, {y}^{(i)})$| Training example|
 |$\\{({x}^{(i)}, {y}^{(i)})\\}$|Training set|
 |$h: \mathcal{X} \to \mathcal{Y}$| Hypothesis |
+
+
+  If $y$ can take on continuous values, we call the learning problem a regression problem. If it takes on a small number of discrete values, we call the learning problem a classification problem.
