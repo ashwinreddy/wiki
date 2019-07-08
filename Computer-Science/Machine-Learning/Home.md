@@ -6,5 +6,5 @@
 |${x}^{(i)}$| Input variables/features|
 |$y^{(i)}$| Output or target variable|
 |$({x}^{(i)}, {y}^{(i)})$| Training example|
-|$\left\{({x}^{(i)}, {y}^{(i)})\right\}$|Training set|
+|$\{({x}^{(i)}, {y}^{(i)})\}$|Training set|
 |$h: \mathcal{X} \to \mathcal{Y}$| Hypothesis |
