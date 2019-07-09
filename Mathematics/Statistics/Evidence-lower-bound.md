@@ -8,6 +8,7 @@ Let $Q$ be a distribution over possible values of $z$.
 &\geq  \sum_z Q(z) \log \frac{p(x, z; \theta)}{Q(z)} && \href{../Jensens inequality}{\text{Jensen's inequality}}
 \end{align}
 
+Equality occurs
 
 
 \begin{equation}
