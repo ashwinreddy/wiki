@@ -1,3 +1,5 @@
+**Jensen's inequality** says the following:
+
 Let $\varphi$ be a [[convex function]] and $X$ be a random variable. Then,
 
 \\[
