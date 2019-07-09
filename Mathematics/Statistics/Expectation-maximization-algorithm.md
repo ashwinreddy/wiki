@@ -6,6 +6,8 @@ Let's say we have a training set $\\{x^{(1)}, \dots, x^{(n)} \\}$. If the latent
 p(x; \theta) = \sum_z p(x, z; \theta)
 \end{equation}
 
+The log likelihood is then
+
 \begin{align}
 \ell(\theta) &= \sum_{i=1}^m \log p(x^{(i)}; \theta) \\\
 &= \sum_{i=1}^n \log \left[\sum_{z} p(x^{(i)}, z^{(i)}; \theta)\right]
