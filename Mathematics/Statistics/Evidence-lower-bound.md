@@ -18,6 +18,14 @@ An equality will occur if the expectation is taken over a constant random variab
 \frac{p(x, z; \theta)}{Q(z)}=c
 \\]
 
+So we might as well just make $Q(z)=p(x, z; \theta)$ and normalize:
+
+\begin{align}
+Q(z) &= \frac{p(x, z; \theta)}{\sum_z p(x, z; \theta)} \\\
+&= \frac{p(x, z; \theta)}{p(x; 
+\theta)} \\\
+&= p(z | x; \theta)
+\end{align}
 
 \begin{equation}
 \operatorname{ELBO}(x; Q, \theta) = \sum_z Q(z)\log \frac{p(x, z; \theta)}{Q(z)}
