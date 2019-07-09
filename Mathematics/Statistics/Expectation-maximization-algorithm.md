@@ -49,21 +49,8 @@ Imagine we had acess to the latent variable $z^{(i)}$, then it would be possible
 
 # Algorithm
 
-Repeat until convergence:
+Alternately update $Q$ and $\theta$
 
-\\[
-w_{j}^{(i)} \leftarrow p(z^{(i)} = j | x^{(i)}; \phi, \mu, \Sigma) = \frac{p(x^{(i)}|z^{(i)}=j; \mu, \Sigma)p(z^{(i)}=j; \phi)}{\sum_{l=1}^k p(x^{(i)} | z^{i} = l; \mu, \Sigma ) p(z^{(i)}=l;\phi)}
-\\]
+- Set $Q(z) = p(z \vert x; \theta)$
 
-\\[
-\phi_j \leftarrow \frac{1}{n} \sum_{i=1}^n w^{(i)}_j
-\\]
-
-\\[
-\mu_j \leftarrow \frac{\sum_{i=1}^n w_j^{(i)}x^{(i)}}{\sum_{i=1}^n w_j^{(i)}}
-\\]
-
-\\[
-\Sigma_j \leftarrow \frac{\sum_{i=1}^n w_j^{(i)}(x^{(i)}-\mu_j)(x^{(i)}-\mu_j)^\mathsf{T}}{\sum_{i=1}^n w_j^{(i)}}
-\\]
 
