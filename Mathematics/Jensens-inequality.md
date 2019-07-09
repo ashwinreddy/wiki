@@ -9,5 +9,5 @@ Let $\varphi$ be a [[convex function]] and $X$ be a random variable. Then,
 If $\phi$ is a concave function,
 
 \\[
-\phi\left(\mathbb{E}[X]\right) \geq \mathbb{E}[\phi(X)]
+\phi\left(\mathbb{E}[X]\right) \geq \mathbb{E}\left[\phi(X)\right]
 \\]
