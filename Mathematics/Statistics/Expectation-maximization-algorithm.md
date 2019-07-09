@@ -52,5 +52,6 @@ Imagine we had acess to the latent variable $z^{(i)}$, then it would be possible
 Alternately update $Q$ and $\theta$
 
 - Set $Q(z) = p(z \vert x; \theta)$
+- Maximize $ELBO$ with fixed $Q$
 
 
