@@ -1,0 +1,1 @@
+Evidence lower bound is the difference between the distribution of a latent variable and the distribution of the observed variable.
