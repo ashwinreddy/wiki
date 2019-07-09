@@ -8,7 +8,11 @@ Let $Q$ be a distribution over possible values of $z$.
 &\geq  \sum_z Q(z) \log \frac{p(x, z; \theta)}{Q(z)} && \href{../Jensens inequality}{\text{Jensen's inequality}}
 \end{align}
 
-Equality occurs
+\\[
+\log \mathbb{E}_{z \sim Q}\left[\frac{p(x, z; \theta)}{Q(z)}\right] \geq \mathbb{E}_{z \sim Q}\left[\log \frac{p(x, z; \theta)}{Q(z)}\right]
+\\]
+
+An equality will occur if the expectation is taken over a constant random variable
 
 
 \begin{equation}
