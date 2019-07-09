@@ -10,7 +10,7 @@ The log likelihood is then
 
 \begin{align}
 \ell(\theta) &= \sum_{i=1}^m \log p(x^{(i)}; \theta) \\\
-&= \sum_{i=1}^n \log \left[\sum_{z} p(x^{(i)}, z^{(i)}; \theta)\right]
+&= \sum_{i=1}^n \log \left[\sum_{z^{(i)}} p(x^{(i)}, z^{(i)}; \theta)\right]
 \end{align}
 
 Here, we are basically acting under the assumption that there is a valid underlying joint distribution $p(x,z)$, so we recognize that $p(x)$ is the marginal distribution which results when we sum and bind over the $z$.
