@@ -1,4 +1,4 @@
-Evidence lower bound is the difference between the distribution of a latent variable and the distribution of the observed variable.
+**Evidence lower bound** is the difference between the distribution of a latent variable and the distribution of the observed variable.
 
 Let $Q$ be a distribution over possible values of $z$. 
 
