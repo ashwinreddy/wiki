@@ -2,4 +2,5 @@
 
 |Notation|Name|Meaning|
 |--------|----|--------|
+|$\Theta(k)$|Constant|Time taken is independent of input size|
 |$Θ(n)$|Linear||
