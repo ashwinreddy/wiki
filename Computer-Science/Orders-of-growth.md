@@ -4,4 +4,5 @@
 |--------|----|--------|
 |$\Theta(k)$|Constant|Time taken is independent of input size|
 |$Θ(n)$|Linear|Time taken adds by a constant amount when input is increased by 1|
-|$\Theta(\log n)$|Logarithmic|Time taken adds by a constant amount when multiplied by a number|
+|$\Theta(\log n)$|Logarithmic|Time taken adds by a constant amount when input doubled|
+|$\Theta(\exp n)$|Exponential|Time taken multiplies by a constant when input is increased by 1|
