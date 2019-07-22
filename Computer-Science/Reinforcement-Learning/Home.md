@@ -1,0 +1,1 @@
+A trajectory $\tau$ is a sequence of states and actions $(s_0, a_0, s_1, a_1, \dots)$
