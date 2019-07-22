@@ -1,1 +1,1 @@
-A **partially observable Markov decision process (POMDP)** has observations $o$ of the state $s$.
+A **partially observable Markov decision process (POMDP)** has observations $o$, partial descriptions, of the state $s$.
