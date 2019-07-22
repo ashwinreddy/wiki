@@ -1,0 +1,1 @@
+A **Markov decision process (MDP)** is a 4-tuple $(\mathcal{S}, \mathcal{A})$
