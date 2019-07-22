@@ -11,3 +11,5 @@ The on-policy action-value function is
 \\[
 Q^\pi(s, a) = \mathbb{E}_{\tau \sim \pi}\left[R(\tau) \vert s_0 = s, a_0 = a\right]
 \\]
+
+The optimal value function and the optimal action-value function are just the max of the respective previous two over all $\pi$.
