@@ -6,9 +6,8 @@ A **Markov decision process (MDP)** describes an environment that provides rewar
 |$\mathcal{A}$|Set of actions|
 |$P$|$\mathcal{S} \times \mathcal{A} \times \mathcal{S} \to [0,1]$| $P(s, a, s')=P(s' \vert s, a)$|
 |$r$|A reward function| $r: \mathcal{S} \times \mathcal{A} \to \mathbb{R}$|
-
-- An initial state distribution $p(s_0)$
-- A discount factor $\gamma \in [0,1]$[^gamma]
+|$p(s_0)$|Initial state distribution||
+|$\gamma$|A discount factor $\gamma \in [0,1]$[^gamma]
 
 
 Solving a MDP amounts to finding a "policy," that is a mapping from states to actions $\pi: \mathcal{S} \to \mathcal{A}$. 
