@@ -1,8 +1,10 @@
 A **Markov decision process (MDP)** describes an environment that provides rewards to an agent who can take actions to influence the environment. An MDP consists of a number of elements:
 
-- A set of states $\mathcal{S}$
-- A set of actions $\mathcal{A}$
-- A transition function $P: \mathcal{S} \times \mathcal{A} \times \mathcal{S} \to [0,1]$. $P(s, a, s')=P(s' | s, a)$
+|Symbol|Object Type & Meaning|Notes|
+|------|--------|------|
+|$\mathcal{S}$|Set of states|
+|$\mathcal{A}$|Set of actions|
+|$P$|$\mathcal{S} \times \mathcal{A} \times \mathcal{S} \to [0,1]$| $P(s, a, s')=P(s' | s, a)$|
 - A reward function $r: \mathcal{S} \times \mathcal{A}$
 - An initial state distribution $p(s_0)$
 - A discount factor $\gamma \in [0,1]$[^gamma]
