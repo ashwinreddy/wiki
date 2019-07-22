@@ -8,4 +8,4 @@ A **Markov decision process (MDP)** describes an environment that provides rewar
 - A discount factor $\gamma \in [0,1]$[^gamma]
 
 
-[^gamma]: Unlike the rest
+[^gamma]: Unlike the rest of the elements,$\gamma$ is more a hyperparameter than inherently part of the environment.
