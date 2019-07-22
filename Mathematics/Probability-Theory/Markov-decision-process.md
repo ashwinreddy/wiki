@@ -5,8 +5,8 @@ A **Markov decision process (MDP)** describes an environment that provides rewar
 |$\mathcal{S}$|Set of states|
 |$\mathcal{A}$|Set of actions|
 |$P$|$\mathcal{S} \times \mathcal{A} \times \mathcal{S} \to [0,1]$| $P(s, a, s')=P(s' \vert s, a)$|
+|$r$|A reward function| $r: \mathcal{S} \times \mathcal{A}$|
 
-- A reward function $r: \mathcal{S} \times \mathcal{A}$
 - An initial state distribution $p(s_0)$
 - A discount factor $\gamma \in [0,1]$[^gamma]
 
