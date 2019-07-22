@@ -21,3 +21,7 @@ The expected return is
 \\[
 J(\pi) = \mathbb{E}_{\tau \sim \pi}\left[R(\tau)\right]
 \\]
+
+\\[
+\pi^\star = \arg\max_\pi J(\pi)
+\\]
