@@ -9,3 +9,9 @@ The discounted reward of an infinite-horizon trajectory is
 \\[
 R(\tau) = \sum_{t=0}^\infty \gamma^t r_t
 \\]
+
+The probability of a trajectory is
+
+\\[
+P(\tau, \pi) = \rho_0(s_0)\prod_{t=0}^{T-1}
+\\]
