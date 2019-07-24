@@ -1,5 +1,9 @@
 A **value function** is a function that gives the utility of being in a state or being in a state and taking an action.
 
+\\[
+R(\tau) = \sum_{t=0}^\infty \gamma^tr_t
+\\]
+
 The on-policy value function is
 
 \\[
