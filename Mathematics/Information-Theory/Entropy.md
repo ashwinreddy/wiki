@@ -1,3 +1,3 @@
 \\[
-H(X) = \mathbb{E}\left[\log \frac{1}{\Pr(x)}\right]
+H(X) = -\mathbb{E}_{x \sim X}\left[\log p(x) \right]
 \\]
