@@ -1,3 +1,3 @@
 \\[
-H(X) = \mathbb{E}_{x \sim X} \Big{\[}I_X(x) \Big{\]}
+H(X) = \mathbb{E}_{x \sim X} \big{\[}I_X(x) \big{\]}
 \\]
