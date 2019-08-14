@@ -5,4 +5,4 @@ NP
 : The set of problems that can be verified in polynomial time
 
 NP-Complete
-: The set of problems that all NP problems reduce to
+: The set of problems which any other NP problem can be reduced to
