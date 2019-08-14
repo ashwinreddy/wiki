@@ -3,3 +3,6 @@ P
 
 NP
 : The set of problems that can be verified in polynomial time
+
+NP-Complete
+: The set of problems that all NP problems reduce to
