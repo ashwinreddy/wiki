@@ -1,3 +1,5 @@
+A **rotation matrix** is a matrix that performs a rotation in Euclidean space.
+
 \begin{equation}
 R(\vartheta) = \begin{bmatrix}\cos \vartheta & -\sin\vartheta \\\ \sin\vartheta & \cos\vartheta
 \end{bmatrix}
