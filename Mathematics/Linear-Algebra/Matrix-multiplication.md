@@ -9,3 +9,7 @@ If it is possible to take the product $AB$, it must be the case that you can tak
 \\[
 \left(AB\right)^\mathsf{T} = B^\mathsf{T}A^\mathsf{T}
 \\]
+
+# Properties
+
+- $A(\vec{v})$
