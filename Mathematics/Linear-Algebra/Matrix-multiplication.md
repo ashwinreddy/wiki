@@ -13,3 +13,4 @@ If it is possible to take the product $AB$, it must be the case that you can tak
 # Properties
 
 - $A(\vec{v}_1 + \vec{v}_2) = A\vec{v}_1+A\vec{v}_2$
+- Matrix multiplication is not generically commutative
