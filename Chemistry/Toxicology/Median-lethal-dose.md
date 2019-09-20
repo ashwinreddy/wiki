@@ -1,1 +1,1 @@
-The **median lethal dose**, or, $\mathrm{LD}_{50}$ of a substance is the dose required to kill half the members of a test population after a specified test duration.
+The **median lethal dose**, or, $\mathrm{LD}_{50}$ of a substance is the dose required to kill half the members of a test population after a specified test duration. It is usually measured in grams per kilogram of body weight.
