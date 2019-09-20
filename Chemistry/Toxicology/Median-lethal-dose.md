@@ -1,1 +1,1 @@
-The **median lethal dose**, or, $\mathrm{LD}_50$
+The **median lethal dose**, or, $\mathrm{LD}_{50}$
