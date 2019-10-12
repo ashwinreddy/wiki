@@ -1,0 +1,1 @@
+\\[f(n) \in O(g(n)) \Longleftrightarrow \lim\limits_{n \to \infty} \frac{f(n)}{g(n)} < \infty\\]
