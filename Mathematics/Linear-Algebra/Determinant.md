@@ -1,0 +1,1 @@
+The **determinant** of a square matrix represents the signed area of a hypercube after applying the matrix.
