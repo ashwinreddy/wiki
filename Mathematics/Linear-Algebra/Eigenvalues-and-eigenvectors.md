@@ -9,3 +9,5 @@ The eigenvalues can be found by solving
 \\[
 \det(A - \lambda I) = 0
 \\]
+
+If 0 is an eigenvalue, then the determinant of $\bf A$ is 0.
