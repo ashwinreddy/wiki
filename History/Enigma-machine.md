@@ -10,4 +10,4 @@ Every letter will map to a different letter.
 
 # Rotor
 
-A rotor consists of a _alphabet tyre_ (letter ring).
+A rotor consists of a _alphabet tyre_ (letter ring). A single rotor performs a substitution cipher based on the _Ringstellung_ (ring setting).
