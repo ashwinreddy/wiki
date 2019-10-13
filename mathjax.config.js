@@ -12,7 +12,7 @@ window.MathJax = {
     }
 };
 
-window.MathJax.Hub.Config({
+window.MathJax.Hub.config({
     TeX: {
       Macros: {
         RR: '{\\bf R}',
@@ -20,7 +20,7 @@ window.MathJax.Hub.Config({
       }
     }
   });
-window.MathJax.Hub.Config({
+window.MathJax.Hub.config({
   CommonHTML: {
     styles: {
       "@font-face /* vec */ ": {
