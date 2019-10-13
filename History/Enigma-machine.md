@@ -22,6 +22,10 @@ When a letter key is pushed, all the rotors will attempt to turn. Of course, sin
 
 We can choose to have non-rotating rotors by not placing pawls on them.
 
+## Double Stepping
+
+When the $i$th rotor is able to engage through the notch in the $(i+1)$th rotor's alphabet tyre, both rotor $i$ and $i+1$ rotate. Note, however, that a rotor either rotates or doesn't at any given time (i.e it will never rotate twice).
+
 # Signal
 
 A signal starting from the rightmost rotor enters through one of the 26 possible contacts, flows through wires in the rotors, "bounces" off the reflector, and then comes back through the same rotors (in reverse) by a different route, always ending up being permuted to a letter position different from where it started; that is, the permutation was always a derangement.
