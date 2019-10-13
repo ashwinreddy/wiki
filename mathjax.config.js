@@ -12,7 +12,7 @@ window.MathJax = {
     }
 };
 
-MathJax.Hub.Config({
+window.MathJax.Hub.Config({
     TeX: {
       Macros: {
         RR: '{\\bf R}',
@@ -20,7 +20,7 @@ MathJax.Hub.Config({
       }
     }
   });
-MathJax.Hub.Config({
+window.MathJax.Hub.Config({
   CommonHTML: {
     styles: {
       "@font-face /* vec */ ": {
@@ -55,8 +55,8 @@ MathJax.Hub.Config({
     }
   }
 });
-MathJax.Hub.Register.StartupHook("CommonHTML Jax Ready", function () {
-  var MML = MathJax.ElementJax.mml;
+window.MathJax.Hub.Register.StartupHook("CommonHTML Jax Ready", function () {
+  var MML = window.MathJax.ElementJax.mml;
   var fixCombiningChar = MML.mo.prototype.CHTMLfixCombiningChar;
   MML.mo.Augment({
     CHTMLfixCombiningChar: function (node) {
