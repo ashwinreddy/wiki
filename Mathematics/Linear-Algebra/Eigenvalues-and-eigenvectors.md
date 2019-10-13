@@ -7,7 +7,7 @@ An eigenvector $\vec{v}$ for a matrix $\bf A$ is one that satisfies the followin
 The eigenvalues can be found by solving
 
 \\[
-\det(A - \lambda I) = 0
+\det(\mathbf{A} - \lambda I) = 0
 \\]
 
 If 0 is an eigenvalue, then the determinant of $\bf A$ is 0.
