@@ -10,4 +10,4 @@ The eigenvalues can be found by solving
 \det(\mathbf{A} - \lambda \mathbf{I}) = 0
 \\]
 
-If 0 is an eigenvalue, then the determinant of $\bf A$ is 0.
+0 is an eigenvalue iff the determinant of $\bf A$ is 0.
