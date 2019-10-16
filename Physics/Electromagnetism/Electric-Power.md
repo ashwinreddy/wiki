@@ -1,3 +1,3 @@
 \begin{equation}
-P = \frac{dE}{dt}=\frac{dE}{dq}\frac{dq}{dt}=Vi
+P = \frac{dE}{dt}=\frac{dE}{dq}\cdot\frac{dq}{dt}=VI
 \end{equation}
