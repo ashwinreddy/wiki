@@ -1,1 +1,1 @@
-**Node-voltage analysis** is an algorithm to find all the voltages of [[node]] in a circuit.
+**Node-voltage analysis** is an algorithm to find all the voltages of [[node]]s in a circuit.
