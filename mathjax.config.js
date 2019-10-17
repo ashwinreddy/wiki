@@ -6,15 +6,10 @@ window.MathJax = {
     },
     TeX: { 
         equationNumbers: { autoNumber: "AMS" },
-        extensions: ["autoload-all.js", "autobold.js"]
-    }
-};
-
-window.MathJax.Hub.config({
-    TeX: {
-      Macros: {
+        extensions: ["autoload-all.js", "autobold.js"],
+        Macros: {
         RR: '{\\bf R}',
         defeq: ['{\\mathrel{\\unicode{x2254}}}']
       }
     }
-  });
+};
