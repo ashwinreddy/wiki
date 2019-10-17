@@ -1,3 +1,3 @@
 \begin{equation}
-P \order{3}
+P = \dv{E}{t}=\dv{E}{q}\cdot\dv{q}{t}=Vi
 \end{equation}
