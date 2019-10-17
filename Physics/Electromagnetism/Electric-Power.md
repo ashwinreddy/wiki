@@ -1,3 +1,3 @@
 \begin{equation}
-P = \dv{E}{t}
+P \order{3}
 \end{equation}
