@@ -6,4 +6,4 @@
 2. Mark known node voltages
 3. Mark unknown node voltages
 4. Mark element voltages and currents
-5. [Kirchhoff's current law](./Kirchhoffs-circuit-laws)
+5. [Kirchhoff's current law](./Kirchhoffs-circuit-laws#current-law)
