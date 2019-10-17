@@ -8,4 +8,8 @@ The sum of currents entering a node equals the sum of currents exiting a node. U
 
 # Voltage Law
 
-Voltages around a loop in a circuit sum to nil.
+Voltages around a loop in a circuit sum to nil. For $n$ elements in the loop,
+
+\begin{equation}
+\sum_{k=1}^n V_k = 0
+\end{equation}
