@@ -1,0 +1,1 @@
+The passive sign convention in electrical engineering prescribes that current always flows from the terminal of a circuit element with higher voltage to the terminal with lower voltage.
