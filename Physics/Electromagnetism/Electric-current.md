@@ -1,0 +1,1 @@
+**Electric current** is the derivative of charge w.r.t. time
