@@ -2,4 +2,4 @@
 
 # Algorithm
 
-1. Choose a reference node to be ground voltage ($V=0$).
+1. Choose a reference node to be [[ground]].
