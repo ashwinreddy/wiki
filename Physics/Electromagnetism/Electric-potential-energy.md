@@ -1,5 +1,7 @@
 **Electric potential energy**
 
+For point charges $q$ and $Q$ a distance $r$ apart, the potential energy is
+
 \begin{equation}
-U = -k\frac{q_1q_2}{r}
+U = k\frac{qQ}{r}
 \end{equation}
