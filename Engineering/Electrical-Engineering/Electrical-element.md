@@ -1,0 +1,1 @@
+Electrical elements include resistors, capacitors, and inductors.
