@@ -1,0 +1,1 @@
+Current source has $I=I_0$. Voltage source has $V=V_0$. Resistors follow [[Ohm's Law]] which relates voltage and current by a proportionality constant.
