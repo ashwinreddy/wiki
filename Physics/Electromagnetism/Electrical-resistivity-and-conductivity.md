@@ -1,0 +1,1 @@
+\begin{equation}\rho =R{\frac {A}{\ell }},\,\!\end{equation}
