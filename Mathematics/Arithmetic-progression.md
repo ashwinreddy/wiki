@@ -10,6 +10,8 @@ Arithmetic series refers to the sum of the elements:
 S_n = \frac{n}{2}\left(a_0 + a_n\right)
 \end{equation}
 
+This gives us a fairly useful identity:
+
 \begin{equation}
 \sum_{i=0}^n i = \frac{n(n+1)}{2}
 \end{equation}
