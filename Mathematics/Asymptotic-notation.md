@@ -9,11 +9,12 @@ Big O places an upper bound on a function. Specifically, we define the set $\ord
 f(n) \in \order{g(n)} \Longleftrightarrow \lim\limits_{n \to \infty} \frac{f(n)}{g(n)} < \infty
 \end{equation}
 
-Intuitively, $f$ belonging to $\order{g(n)}$ means $g$ is an upper bound on $f$.
+# Omega
 
 \\[f(n) \in \Omega(g(n)) \Longleftrightarrow g(n) \in \order{f(n)} \Longleftrightarrow \lim\limits_{n \to \infty} \frac{f(n)}{g(n)} > 0\\]
 
+# Theta
 
-\\[f(n) \in \Theta(g(n)) \iff \lim_{n \to \infty} \frac{f(n)}{g(n)} \in \mathbb{R}^+ \\]
+\\[f(n) \in \Theta(g(n)) \iff 0 < \lim_{n \to \infty} \frac{f(n)}{g(n)}  < \infty \\]
 
 If a function has different tight bounds for $\mathcal{O}$ and $\Omega$, then $\Theta$ doesn't exist.
