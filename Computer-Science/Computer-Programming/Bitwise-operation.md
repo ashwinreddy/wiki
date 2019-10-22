@@ -1,0 +1,1 @@
+A **bitwise operation** operates on bit patterns.
