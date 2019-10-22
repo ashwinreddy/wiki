@@ -1,8 +1,13 @@
-Big O notation is useful for putting bounds on functions.
+Asymptotic notion is useful for putting bounds on functions, especially for approximations and algorithm analysis.
+
+# Big O notation
+
+Big O places an upper bound on a function. Specifically, we define the set $\order{g(n)}$ by the following:
 
 
-
-\\[f(n) \in \order{g(n)} \Longleftrightarrow \lim\limits_{n \to \infty} \frac{f(n)}{g(n)} < \infty\\]
+\begin{equation}
+f(n) \in \order{g(n)} \Longleftrightarrow \lim\limits_{n \to \infty} \frac{f(n)}{g(n)} < \infty
+\end{equation}
 
 Intuitively, $f$ belonging to $\order{g(n)}$ means $g$ is an upper bound on $f$.
 
