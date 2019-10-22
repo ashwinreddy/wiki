@@ -1,3 +1,7 @@
+Big O notation is useful for putting bounds on functions.
+
+
+
 \\[f(n) \in \order{g(n)} \Longleftrightarrow \lim\limits_{n \to \infty} \frac{f(n)}{g(n)} < \infty\\]
 
 Intuitively, $f$ belonging to $\order{g(n)}$ means $g$ is an upper bound on $f$.
