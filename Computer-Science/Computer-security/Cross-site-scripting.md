@@ -1,1 +1,0 @@
-**Cross site scripting (XSS)** is injecting client-side scripts into web pages.
