@@ -1,4 +1,5 @@
-|[Mathematics](./Mathematics/)|[Computer Science](./Computer Science/)|[Physics](./Physics/)|[Chemistry](./Chemistry/)|[History](./History/)|
+|[Mathematics](./Mathematics/)|[Computer Science](./Computer Science/)|
+|(./Physics/)|[Chemistry](./Chemistry/)|[History](./History/)|
 
 
 
