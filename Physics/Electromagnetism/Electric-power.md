@@ -11,5 +11,5 @@ P =\dv{E}{q}\cdot\dv{q}{t}=Vi
 For a resistive element following [[Ohm's Law]], we can determine that
 
 \begin{equation}
-P = iV = i^2R = V^2/R
+P = i^2R = V^2/R
 \end{equation}
