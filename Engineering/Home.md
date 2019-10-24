@@ -1,1 +1,1 @@
-[[Electrical Engineering]]
+[Electrical Engineering](./Electrical-Engineering/)
