@@ -1,1 +1,1 @@
-A binary tree is a tree where each node has at most two children.
+A binary tree is a [tree](./Tree) where each node has at most two children.
