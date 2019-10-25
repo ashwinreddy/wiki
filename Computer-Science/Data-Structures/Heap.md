@@ -1,1 +1,1 @@
-A **heap** is a [[tree]
+A **heap** is a [[tree]]
