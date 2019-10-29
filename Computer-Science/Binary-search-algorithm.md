@@ -1,0 +1,1 @@
+A binary search algorithm searches for an element in a set of size $n$ by making comparisons that cut the search space in half each time. Thus, the algorithm has a worse case time of $\order{\log n}$.
