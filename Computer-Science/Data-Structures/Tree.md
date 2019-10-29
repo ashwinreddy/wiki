@@ -1,1 +1,0 @@
-A _k_-ary tree is a tree with at most _k_ children (e.g. a [[binary tree]])
