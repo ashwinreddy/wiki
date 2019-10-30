@@ -1,0 +1,1 @@
+**Liquor** or **spirit** is an alcoholic drink produced by distillation. 
