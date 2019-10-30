@@ -22,6 +22,10 @@ Aging alcohol in wood barrels causes additional chemical changes.
 
 # Effects
 
+## Neurochemistry
+
+
+
 ## Health
 
 Less than 1-2 drinks per day can increase HDL & decrease LDL and atherosclerosis, perhaps decrease risk for heart attack.
