@@ -1,0 +1,1 @@
+Grain alcohol, neutral spirit, and aqua vitae refer to ethanol that has been repeatedly distilled to the point of having up to 95% ABV.
