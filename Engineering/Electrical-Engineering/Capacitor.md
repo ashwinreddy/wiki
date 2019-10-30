@@ -9,5 +9,11 @@ C = \frac{\epsilon_0 A}{d}
 \end{equation}
 
 \begin{equation}
-I = C \dv{V}{t}
+I = C \cdot \dv{V}{t}
 \end{equation}
+
+# Equivalent Capacitance
+
+If you have two capacitors in parallel, the equivalent capacitance is $C_1+C_2$.
+
+In series, $C_1 \parallel C_2$
