@@ -9,5 +9,5 @@ C = \frac{\epsilon_0 A}{d}
 \end{equation}
 
 \begin{equation}
-I = C \diff{V}{t}
+I = C \dv{V}{t}
 \end{equation}
