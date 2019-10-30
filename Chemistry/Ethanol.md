@@ -17,3 +17,5 @@ Alcohol is produced by [fermenting glucose](../Biology/Ethanol-fermentation).
 |Vodka, Gin|grain, potato|
 |Mescal, Tequila|agave|
 |Rum|sugar cane|
+
+Aging alcohol in wood barrels causes additional chemical changes.
