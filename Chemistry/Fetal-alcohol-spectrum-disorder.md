@@ -1,1 +1,0 @@
-Prenatal and postnatal growth retardation, malformations of facial structure, CNS abnormalities: mental retardation, attention deficits, other behavioral problems.
