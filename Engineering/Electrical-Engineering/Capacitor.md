@@ -12,6 +12,15 @@ C = \frac{\epsilon_0 A}{d}
 I = C \cdot \dv{V}{t}
 \end{equation}
 
+\begin{equation}
+\dv{V}{t} = \frac{I(t)}{C}
+\end{equation}
+
+\begin{gather}
+\int\limits_0^t V(t) \,\dd{t} =\frac{1}{C}\int\limits_0^t I(t) \,\dd{t} \\\
+V(t) = V(0)+\frac{1}{C}\int\limits_0^t I(t)\,\dd{t}
+\end{gather}
+
 # Equivalent Capacitance
 
 If you have two capacitors in parallel, the equivalent capacitance is $C_1+C_2$.
