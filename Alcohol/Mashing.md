@@ -1,0 +1,1 @@
+Mashing is the process of combining a [[grain bill]] with water and heating the mixture.
