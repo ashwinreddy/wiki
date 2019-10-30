@@ -1,0 +1,1 @@
+Hops are _Humulus lupulus_ with antibacterial properties. They are bitter but aid in digestion.
