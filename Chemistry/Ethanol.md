@@ -1,0 +1,1 @@
+**Ethanol** also known as ethyl alcohol or simply alcohol is $\ce$
