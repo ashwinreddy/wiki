@@ -20,13 +20,29 @@ Alcohol is produced by [fermenting glucose](../Biology/Ethanol-fermentation).
 
 Aging alcohol in wood barrels causes additional chemical changes.
 
-# Acute effects
+# Effects
+
+## Health
+
+Less than 1-2 drinks per day can increase HDL & decrease LDL and atherosclerosis, perhaps decrease risk for heart attack.
+
+Increases risk for female breast cancer, oral, and esophageal cancer.
+
+## Acute
 
 - Relaxation, anxiolytic, "disinhibition"
 - Impairment of coordinated movement
 - Impairment of memory storage (alcohol "blackout"), cognition
 - Sleep (passing out, loss of consciousness)
 - Death
+
+## Chronic
+
+- Abuse, addiction
+- Fatty liver, hepatitis, cirrhosis
+- Pancreatitis, diabetes, GI problems
+- Peripheral neuropathy, cerebral atrophy, cognitive impairment
+
 
 # Prevalence & Cost
  
@@ -47,10 +63,3 @@ Prevalence of alcohol abuse in general medical practice:
 
 - outpatient: 15%
 - inpatient: 40%
-
-# Chronic problems
-
-- Abuse, addiction
-- Fatty liver, hepatitis, cirrhosis
-- Pancreatitis, diabetes, GI problems
-- Peripheral neuropathy, cerebral atrophy, cognitive impairment
