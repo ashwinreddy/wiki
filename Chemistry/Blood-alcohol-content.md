@@ -1,0 +1,1 @@
+**Blood alcohol content** is the number of grams of ethanol per 100 mL of blood. Because alcohol is volatile, it will be breathed out from, which enables the use of breathalyzers.
