@@ -5,4 +5,4 @@
 
 
 
-Alcohol is produced by fermenting glucose.
+Alcohol is produced by [fermenting glucose](../Biology/Ethanol-fermentation).
