@@ -19,3 +19,9 @@ Alcohol is produced by [fermenting glucose](../Biology/Ethanol-fermentation).
 |Rum|sugar cane|
 
 Aging alcohol in wood barrels causes additional chemical changes.
+
+# Acute effects
+
+- Relaxation, anxiolytic, "disinhibition"
+- Impairment of coordinated movement
+- Impairment of memory storage
