@@ -16,6 +16,8 @@ I = C \cdot \dv{V}{t}
 \dv{V}{t} = \frac{I(t)}{C}
 \end{equation}
 
+# Capacitors as Current Integrators
+
 \begin{gather}
 \int\limits_0^t V(t) \,\dd{t} =\frac{1}{C}\int\limits_0^t I(t) \,\dd{t} \\\
 V(t) = V(0)+\frac{1}{C}\int\limits_0^t I(t)\,\dd{t}
