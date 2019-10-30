@@ -1,0 +1,1 @@
+An **azeotrope** is a mixture of at least two liquids whose proportions cannot be altered by distillation.
