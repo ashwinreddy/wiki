@@ -6,3 +6,8 @@
 
 
 Alcohol is produced by [fermenting glucose](../Biology/Ethanol-fermentation).
+
+|Drink|Made from|Alcohol content|
+|-----|---------|----------------|
+|Wine|Grapes (_Vitis vinifera_), apples|8-18%|
+|Beer|Grains|3-10%|
