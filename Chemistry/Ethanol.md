@@ -44,6 +44,7 @@ Costs the US around 250 billion dollars each year.
 Around 100k die each year from alcohol.
 
 Prevalence of alcohol abuse in general medical practice:
+
 - outpatient: 15%
 - inpatient: 40%
 
