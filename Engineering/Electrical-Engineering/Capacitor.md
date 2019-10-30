@@ -17,3 +17,9 @@ I = C \cdot \dv{V}{t}
 If you have two capacitors in parallel, the equivalent capacitance is $C_1+C_2$.
 
 In series, $C_1 \parallel C_2$
+
+# Energy
+
+\begin{equation}
+E_c = \frac{1}{2}CV_c^2
+\end{equation}
