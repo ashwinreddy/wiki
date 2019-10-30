@@ -1,1 +1,1 @@
-**Liquor** or **spirit** is an alcoholic drink produced by distillation. 
+**Liquor** or **spirit** is an alcoholic drink produced by distillation, which increases the ABV. Distilled alcoholic beverages have an alcohol content around 25-50%. Examples include brandy, cognac, whiskey, vodka, gin, mescal, tequila, rum, shochu.
