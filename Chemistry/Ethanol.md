@@ -24,7 +24,7 @@ Aging alcohol in wood barrels causes additional chemical changes.
 
 ## Neurochemistry
 
-Alcohol increases inhibition by facilitating [[GABA]] action at GABA receptors.
+Alcohol increases inhibition by facilitating [[GABA]] action at GABA receptors. It is also a [[glutamate]] receptor antagonist.
 
 ## Health
 
