@@ -4,7 +4,7 @@ An eigenvector $\vec{v}$ for a matrix $\bf A$ is one that satisfies the followin
 \mathbf{A}\vec{v} = \lambda \vec{v}
 \\]
 
-> The zero vector does not count as an eigenvector, but zero can be an eigenvalue!
+_The zero vector does not count as an eigenvector, but zero can be an eigenvalue!_
 
 The eigenvalues can be found by solving
 
