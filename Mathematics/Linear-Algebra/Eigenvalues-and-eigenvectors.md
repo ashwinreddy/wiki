@@ -1,8 +1,10 @@
-An eigenvector $\vec{v}$ for a matrix $\bf A$ is one that satisfies the following equation for some corresponding eigenvalue $lambda$.
+An eigenvector $\vec{v}$ for a matrix $\bf A$ is one that satisfies the following equation for some corresponding eigenvalue $\lambda$.
 
 \\[
 \mathbf{A}\vec{v} = \lambda \vec{v}
 \\]
+
+> The zero vector does not count as an eigenvector, but zero can be an eigenvalue!
 
 The eigenvalues can be found by solving
 
