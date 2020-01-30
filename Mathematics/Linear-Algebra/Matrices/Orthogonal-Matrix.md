@@ -1,5 +1,5 @@
-An **orthogonal matrix** $\mathbf{A}$ is one such that
+An **orthogonal matrix** $\mathbf{Q}$ is one such that
 
 \\[
-Q^\mathsf{T}Q = QQ^\mathsf{T}=I
+\mathbf{Q}^\mathsf{T}\mathbf{Q} = \mathbf{Q}\mathbf{Q}^\mathsf{T}=\mathbf{I}
 \\]
