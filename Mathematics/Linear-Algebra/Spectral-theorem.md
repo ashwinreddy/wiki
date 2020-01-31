@@ -1,1 +1,1 @@
-If $\mathbf{A}$ is a symmetric $n \times n$ matrix with only real eigenvalues then there is an orthogonal basis for $\mathbb{R}^n$ with the eigenvectors of $\mathbf{A}$.
+The spectral theorem says if $\mathbf{A}$ is a symmetric $n \times n$ matrix with only real eigenvalues then there is an orthogonal basis for $\mathbb{R}^n$ with the eigenvectors of $\mathbf{A}$.
