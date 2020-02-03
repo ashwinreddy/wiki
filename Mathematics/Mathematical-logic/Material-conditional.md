@@ -1,0 +1,1 @@
+$p \implies q \equiv \not p \lor q$
