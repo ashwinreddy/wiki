@@ -1,1 +1,1 @@
-$p \implies q \equiv \not p \lor q$
+$p \implies q \equiv \neg p \lor q$
