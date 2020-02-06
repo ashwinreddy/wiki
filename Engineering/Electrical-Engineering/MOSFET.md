@@ -1,0 +1,1 @@
+A MOSFET (metal oxide semiconductor field effect transistor) has three terminals: a source, a drain, and a gate.
