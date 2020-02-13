@@ -1,6 +1,7 @@
 **Principal component analysis (PCA)** is a [[dimensionality reduction]] technique. Intuitively, we're trying to find structure in our data. But how do we find a good, representative basis? 
 
-First, we'll project onto a vector $\vec{w}$:
+
+Let's say we have data $\{\vec{x}_i\}$. First, we'll project onto a vector $\vec{w}$:
 
 \begin{equation}
 \vec{p}_i = \langle\vec{x}_i, \vec{w}\rangle\vec{w}, \qquad \lVert \vec{w} \rVert =1
