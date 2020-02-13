@@ -1,0 +1,1 @@
+**Principal component analysis (PCA)** is a [[dimensionality reduction]] technique.
