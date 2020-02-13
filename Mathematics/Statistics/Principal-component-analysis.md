@@ -15,6 +15,6 @@ Let's define an error
 
 The mean projection is 
 
-\begin{align*}
+\begin{align}
 \frac{1}{n}\sum_{i=1}^n \langle \vec{x}_i, \vec{w}\rangle \vec{w}
-\end{align*}
+\end{align}
