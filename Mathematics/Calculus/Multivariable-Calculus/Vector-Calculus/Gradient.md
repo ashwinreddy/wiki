@@ -1,3 +1,3 @@
 \begin{equation}
-\nabla_{\vec{x}} \left( \vec{x}^\mathsf{T}\vec{a} \right)
+\nabla_{\vec{x}} \left( \vec{x}^\mathsf{T}\vec{a} \right) = \nabla_{\vec{x}} \left( \vec{a}^\mathsf{T}\vec{x} \right) = \vec{a}^\mathsf{T}
 \end{equation}
