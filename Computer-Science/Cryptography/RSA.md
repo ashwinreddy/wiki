@@ -5,4 +5,4 @@ Here's how to generate a public key:
 - pick a number $e$ which is relatively prime to $(p-1)(q-1)$.
 - the public key is $(N, e)$
 
-The private key is the inverse of $e \mathrm{mod}\, (p-1)(q-1)$.
+The private key is the inverse of $e\, \mathrm{mod}\, (p-1)(q-1)$.
