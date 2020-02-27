@@ -9,3 +9,8 @@ Here's how to generate a public key:
 The private key is the inverse of $e\, \mathrm{mod}\, (p-1)(q-1)$.
 
 Alice wants to send a message $x\,\mathrm{mod}\, N$ to Bob. She sends him $y=E(x)=x^e\,\mathrm{mod}\, N$ and Bob will compute $D(y)= y^d \,\mathrm{mod}\, N$.
+
+\begin{gather}
+D(y) = y^d \,\mathrm{mod}\, N \\\
+D(x^e\,\mathrm{mod}\, N) = (x^e\,\mathrm{mod}\, N)^d\,\mathrm{mod}\, N
+\end{gather}
