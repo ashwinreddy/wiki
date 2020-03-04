@@ -9,3 +9,29 @@ The Eigendecomposition of $A$ is
 \\[
 A = V\Lambda V^{-1}
 \\]
+
+# Solving system of differential equations
+
+Suppose we are solving
+
+\\[
+\frac{\rm d}{\mathrm{d}t}\vec{x} = \mathbf{A}\vec{x}
+\\]
+
+One way to solve this system is to diagonalize $\mathbf{A}$.
+
+\\[
+\frac{\rm d}{\mathrm{d}t}\vec{x} = V\Lambda V^{-1}\vec{x}
+\\]
+
+Let's multiply both sides by $V^{-1}$.
+
+\\[
+V^{-1}\cdot \frac{\rm d}{\mathrm{d}t}\vec{x} = V^{-1}V\Lambda V^{-1}\vec{x}
+\\]
+
+$V^{-1}$ is just a constant as far as the differentiation is concerned. Let's define $\vec{z} = V^{-1}\vec{x}$ and clean this all up:
+
+\\[
+\frac{\mathrm{d}}{\mathrm{d}t}\vec{z} = \Lambda \vec{z}
+\\]
