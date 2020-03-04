@@ -35,3 +35,5 @@ $V^{-1}$ is just a constant as far as the differentiation is concerned. Let's de
 \\[
 \frac{\mathrm{d}}{\mathrm{d}t}\vec{z} = \Lambda \vec{z}
 \\]
+
+It's now fairly easy to solve for $\vec{z}$ since each $z_i$ depends only on itself. So once you've found a solution vector $\vec{z}$, push it back through the transformation to get the real solution $\vec{x}$.
