@@ -1,0 +1,1 @@
+A metric space is a pair $(M, d)$ with a set $M$ and a function $d: M \times M \to \mathbb{R}_{\geq 0}$.
