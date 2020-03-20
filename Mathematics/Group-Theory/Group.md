@@ -1,0 +1,1 @@
+A group is a set with a binary invertible operation.
