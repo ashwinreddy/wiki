@@ -1,1 +1,1 @@
-The general linear group $\text{GL}_n$ of degree $n$ is the set of $n \times n$ invertible matrices.
+The general linear group $\text{GL}_n(\mathbb{R})$ of degree $n$ is the set of $n \times n$ invertible matrices.
