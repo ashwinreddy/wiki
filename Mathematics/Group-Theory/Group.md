@@ -1,1 +1,1 @@
-A group is a set with a binary invertible operation.
+A group is a set with a binary invertible operation. If the operation is commutative, the group is said to be abelian.
