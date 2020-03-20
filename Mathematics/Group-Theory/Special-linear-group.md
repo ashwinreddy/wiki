@@ -1,1 +1,1 @@
-The special linear group is a subset of the [[general linear group]] with determinant unity.
+The special linear group is a [[subgroup]] of the [[general linear group]] with determinant unity.
