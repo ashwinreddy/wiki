@@ -1,7 +1,7 @@
 The log derivative trick is a way of reformulating gradients that might be tricky to compute otherwise
 
 \begin{equation}
-\frac{\mathrm{d}f(x)}{\mathrm{d}x} = f(x)\frac{\mathrm{d}}{\mathrm{d}x}\log f(x)
+\frac{\mathrm{d}f(x)}{\mathrm{d}x} = f(x)\cdot \frac{\mathrm{d}}{\mathrm{d}x}\log f(x)
 \end{equation}
 
 \begin{equation}
