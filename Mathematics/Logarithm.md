@@ -1,3 +1,7 @@
+\begin{equation}
+\ln x = \int_{1}^u \frac{\mathrm{d}u}{u}
+\end{equation}
+
 The log derivative trick is a way of reformulating gradients that might be tricky to compute otherwise
 
 \begin{equation}
