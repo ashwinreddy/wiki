@@ -3,7 +3,7 @@
 \end{equation}
 
 \begin{equation}
-\ln ' x = \frac{1}{x}
+\ln' x = \frac{1}{x}
 \end{equation}
 
 The log derivative trick is a way of reformulating gradients that might be tricky to compute otherwise
