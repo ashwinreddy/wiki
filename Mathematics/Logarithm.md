@@ -4,4 +4,4 @@
 
 # Concavity
 
-If $f(x) = \log x$, $f^{\prime\prime} (x) = -\frac{1}{x^2}$. Over it's domain, $f''(x) <0$ so it is concave.
+If $f(x) = \log x$, $f^{\prime\prime} (x) = -\frac{1}{x^2}$. Over it's domain, $f^{\prime\prime}(x) <0$ so it is concave.
