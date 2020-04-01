@@ -4,7 +4,7 @@
 C_{ij} = \sum_{k=1}^n A_{ik}B_{kj}
 \\]
 
-Let the $i$th row of $A$ be $\vec{a}\_i^\mathsf{T} = A_{ik}$. Let the $j$th column of $B$ be $\vec{b}_j = B_{kj}$. Then
+Let the $i$th row of $A$ be $\vec{a}\_i^\mathsf{T} = A_{ik}$. Let the $j$th column of $B$ be $\vec{b}\_j = B_{kj}$. Then
 
 \\[
 C_{ij} = \vec{a}_i^\mathsf{T} \cdot \vec{b}_j
