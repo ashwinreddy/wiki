@@ -4,7 +4,11 @@
 C_{ij} = \sum_{k=1}^n A_{ik}B_{kj}
 \\]
 
-Let the $i$th row of $A$ be $\vec{a}\_i = A_{ik}$
+Let the $i$th row of $A$ be $\vec{a}\_i^\mathsf{T} = A_{ik}$. Let the $j$th column of $B$ be $\vec{b}_j = B_{kj}$. Then
+
+\\[
+C_{ij} = \vec{a}_i^\mathsf{T} \cdot \vec{b}_j
+\\]
 
 If it is possible to take the product $AB$, it must be the case that you can take the product $B^\mathsf{T}A^\mathsf{T}$, and, in fact, 
 
