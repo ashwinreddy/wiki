@@ -4,6 +4,8 @@
 C_{ij} = \sum_{k=1}^n A_{ik}B_{kj}
 \\]
 
+Let the $i$th row of $A$ be $\vec{a}_i = A_{ik}$
+
 If it is possible to take the product $AB$, it must be the case that you can take the product $B^\mathsf{T}A^\mathsf{T}$, and, in fact, 
 
 \\[
