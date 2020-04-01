@@ -21,5 +21,5 @@ The eigenvalues can be found by solving
 \end{equation}
 
 \begin{equation}
-\det A = \prod \lambda_i
+\det A = \prod_i \lambda_i
 \end{equation}
