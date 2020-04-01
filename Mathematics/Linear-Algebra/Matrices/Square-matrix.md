@@ -1,1 +1,1 @@
-A square matrix is one with an equal number of rows as columns.
+A square matrix is one with an equal number of rows as columns. A square matrix is an endomorphism.
