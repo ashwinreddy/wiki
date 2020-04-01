@@ -13,3 +13,13 @@ The eigenvalues can be found by solving
 \\]
 
 0 is an eigenvalue iff the determinant of $\bf A$ is 0.
+
+(Need to insert a proof for this)
+
+\begin{equation}
+\operatorname{tr} A = \sum_i \lambda_i
+\end{equation}
+
+\begin{equation}
+\det A = \prod \lambda_i
+\end{equation}
