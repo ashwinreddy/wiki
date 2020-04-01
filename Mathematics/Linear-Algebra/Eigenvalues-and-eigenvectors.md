@@ -1,12 +1,20 @@
 An **eigenvector** $\vec{v}$ for a matrix $\bf A$ is one that satisfies the following equation for some corresponding **eigenvalue** $\lambda$.
 
+
+_The zero vector does not count as an eigenvector, but zero can be an eigenvalue!_
+
+
 \\[
 \mathbf{A}\vec{v} = \lambda \vec{v}
 \\]
 
-Note that the equation above will only make sense if $\mathbf{A}$ is a [[square matrix]].
+Note that the equation above will only make sense if $\mathbf{A}$ is a [[square matrix]]. Let's rearrange the equation above.
 
-_The zero vector does not count as an eigenvector, but zero can be an eigenvalue!_
+\begin{gather}
+\mathbf{A}\vec{v} = \lambda \mathbf{I} \vec{v} \\\
+\mathbf{A}\vec{v} -  \lambda \mathbf{I} \vec{v} = \vec{0} \\\
+\left(\mathbf{A}-\lambda \mathbf{I}\right)\vec{v} = \vec{0}
+\end{gather}
 
 The eigenvalues can be found by solving
 
