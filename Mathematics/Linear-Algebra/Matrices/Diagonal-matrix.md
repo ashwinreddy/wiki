@@ -1,0 +1,1 @@
+A diagonal matrix has non-zero entries only on its main diagonal.
