@@ -1,1 +1,1 @@
-An endomorphism is a [[morphism]] from an object to itself (e.g. a [[square matrices]]
+An endomorphism is a [[morphism]] from an object to itself (e.g. a [[square matrix]])
