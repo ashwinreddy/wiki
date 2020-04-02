@@ -1,0 +1,1 @@
+Slater's condition guarantees strong duality for a class of convex optimization problems.
