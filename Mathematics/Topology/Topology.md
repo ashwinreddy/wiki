@@ -6,4 +6,4 @@ A topology for a set $M$ is $O \subseteq \mathscr{P}(M)$ with
 
 Example:  $M = \{1,2,3\}$
 
-$O=\\{\emptyset, \\{1,2,3\\}\\}$ is a topology but O=\\{\emptyset, \\{1\\}, \\{2\\}, \\{1,2,3\\}\\}.
+$O=\\{\emptyset, \\{1,2,3\\}\\}$ is a topology but $O=\\{\emptyset, \\{1\\}, \\{2\\}, \\{1,2,3\\}\\}$.
