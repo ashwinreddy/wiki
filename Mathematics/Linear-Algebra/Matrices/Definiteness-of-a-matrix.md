@@ -8,7 +8,7 @@ It is positive definite if the above holds without equality.
 
 # Examples
 
-For a matrix $A$, $A^TA$ is PSD because we have $x^T A^TA x = (Ax)^T(Ax) \geq 0$ by [[norm]] rules.
+For a matrix $A$, $A^TA$ is PSD because we have $x^T A^TA x = (Ax)^T(Ax) \geq 0$ by [[norm]] rules. Of course, $AA^T$ has $x^T AA^T x = (A^Tx)^TA^Tx$ so same logic.
 
 # Eigenvalues
 
