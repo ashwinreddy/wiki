@@ -14,7 +14,7 @@ Since the output is a real number, there are only three options:
 
 # Properties
 
-The derivative is a linear operator, so 
+The derivative is a linear operator, meaning 
 
 $$
 \dv{}{x}\big[af(x) + b g(x)\big] = a \dv{f}{x} + b \dv{g}{x}.
