@@ -13,8 +13,8 @@ In practice, we use a number of rules about how to take derivatives of functions
 |Expression|Derivative|Notes|
 |:--------:|:--------:|-----|
 | $c$      |  $0$     |     |
-| $cx$     | $c$      |     |
-| $f(x)+g(x)$|$f'(x)+g'(x)$||
+| $cf(x)$     | $cf'(x)$      |     |
+| $f(x)+g(x)$|$f'(x)+g'(x)$|With above, gives linearity|
 
 # Interpretation 
 
