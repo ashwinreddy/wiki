@@ -11,9 +11,9 @@ The **derivative** of a single-variable function $f: \mathbb{R} \to \mathbb{R}$ 
 In practice, we use a number of rules about how to take derivatives of functions built up from simpler ones.
 
 |Expression|Derivative|
-|----------|----------|
+|:--------:|:--------:|
 | $c$      |  $0$     |
-| $f(x)+b$ | $f'(x)$ |
+| $f(x)+b$ | $f'(x)$  |
 
 # Interpretation 
 
