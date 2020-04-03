@@ -1,1 +1,1 @@
-The **derivative** of a single-variable function $f: \mathbb{R} to \mathbb{R}$ is a function denoted $f'$ or $df/dx$ that measures the sensitivity of the output to the input at a point
+The **derivative** of a single-variable function $f: \mathbb{R} to \mathbb{R}$ is a function denoted $f'$ or $\frac{df}{dx}$ that measures the sensitivity of the output to the input at a point
