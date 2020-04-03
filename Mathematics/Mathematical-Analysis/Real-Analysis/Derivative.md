@@ -13,6 +13,7 @@ In practice, we use a number of rules about how to take derivatives of functions
 |Expression|Derivative|Notes|
 |:--------:|:--------:|-----|
 | $c$      |  $0$     |     |
+| $x^n$    | $nx^{n-1}$|    |
 | $cf(x)$     | $cf'(x)$      |     |
 | $f(x)+g(x)$|$f'(x)+g'(x)$|With above, gives linearity|
 
