@@ -8,3 +8,6 @@ Invertibility
 
 Associativity
 : $A \cdot (B \cdot C) = (A \cdot B) \cdot C$, which allows us to drop the $\cdot$ altogether unambiguously.
+
+
+A **subgroup** for $G$ is a subset $H$ that satisfies the above given the same operation $\cdot$.
