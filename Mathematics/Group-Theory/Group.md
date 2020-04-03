@@ -1,4 +1,10 @@
-A **group** is a set $G$ equipped with a binary composition operation $\cdot$ that obeys
+A **group** is a set $G$ equipped with a closed binary composition operation $\cdot: G \times G \to G$ that obeys
 
-Closure
-: $a, b \in G \implies a\cdot b \in G$
+Identity existence
+: There is an element $I \in G$ such that $\forall A \in G, I \cdot A = A$
+
+Invertibility
+: Every $A$ has a pair $A^{-1}$ so that $A^{-1}\cdot A = I$
+
+Associativity
+: $A \cdot (B \cdot C) = (A \cdot B) \cdot C$
