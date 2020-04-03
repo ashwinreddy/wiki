@@ -19,9 +19,6 @@ AA^T = U\Lambda U^T
 \\]
 
 
-However, $\Lambda = \Sigma^T\Sigma$.
-
-
 \\[
 \Lambda = \Sigma^T\Sigma
 \\]
