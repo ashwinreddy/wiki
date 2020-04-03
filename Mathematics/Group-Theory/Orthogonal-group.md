@@ -1,0 +1,1 @@
+The orthogonal group $O(n)$ is the group of orthogonal matrices of dimension $N$
