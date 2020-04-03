@@ -8,7 +8,7 @@ Example:  $M = \{1,2,3\}$
 
 $O=\\{\emptyset, \\{1,2,3\\}\\}$ would work but $O=\\{\emptyset, \\{1\\}, \\{2\\}, \\{1,2,3\\}\\}$ would not.
 
-# Continuous functions between topological spaces
+# Continuity
 
 A map $f: M \to N$ for topological spaces $(M, O_M)$ for $(N, O_N)$ is continuous if:
 
