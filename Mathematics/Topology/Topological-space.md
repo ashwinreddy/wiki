@@ -1,4 +1,4 @@
-A topology for a set $M$ is $O \subseteq \mathscr{P}(M)$ with
+A topological space is a $(M, O)$ for a set $M$ with $O \subseteq \mathscr{P}(M)$ satisfying
 
 1. $\emptyset \in O$ and $M \in O$
 2. $U \in O, V \in O \implies U \cap V \in O$
