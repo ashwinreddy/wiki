@@ -1,0 +1,1 @@
+An **eigenpair** for a linear mapping $T: V \to V$ for a vector space $V$is a $(\lambda, \vec{v})$
