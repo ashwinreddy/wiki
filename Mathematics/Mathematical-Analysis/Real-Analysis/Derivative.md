@@ -16,6 +16,7 @@ In practice, we use a number of rules about how to take derivatives of functions
 | $x^n$    | $nx^{n-1}$|    |
 | $cf(x)$     | $cf'(x)$      |     |
 | $f(x)+g(x)$|$f'(x)+g'(x)$|With above, gives linearity|
+|$f(x)g(x)$|$f'(x)g(x) + g'(x)f(x)$||
 | $f(g(x))$  | $f'(g(x))g'(x)$|Chain rule|
 
 # Interpretation 
