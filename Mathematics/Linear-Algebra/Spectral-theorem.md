@@ -4,4 +4,4 @@ The spectral theorem says if $A$ is an $n\times n$ [[symmetric matrix]] in the r
 A = V\Lambda V^T
 \\]
 
-with $\Lambda$ eigenvalues of $A$
+with $\Lambda$ eigenvalues of $A$ and eigenvectors in $U$, an [[orthogonal matrix]]
