@@ -1,1 +1,0 @@
-A receptor antagonist blocks a receptor, thereby preventing the usual response.
