@@ -10,10 +10,11 @@ The **derivative** of a single-variable function $f: \mathbb{R} \to \mathbb{R}$ 
 
 In practice, we use a number of rules about how to take derivatives of functions built up from simpler ones.
 
-|Expression|Derivative|
-|:--------:|:--------:|
-| $c$      |  $0$     |
-| $f(x)+b$ | $f'(x)$  |
+|Expression|Derivative|Notes|
+|:--------:|:--------:|-----|
+| $c$      |  $0$     |     |
+| $cx$     | $c$      |     |
+| $f(x)+g(x)$|$f'(x)+g'(x)$||
 
 # Interpretation 
 
@@ -24,11 +25,3 @@ Since the output is a real number, there are only three options:
 |Positive|Locally increasing|
 |Zero|Locally stationary|
 |Negative|Locally decreasing|
-
-# Properties
-
-The derivative is a linear operator, meaning 
-
-$$
-\dv{}{x}\big[af(x) + b g(x)\big] = a \dv{f}{x} + b \dv{g}{x}.
-$$
