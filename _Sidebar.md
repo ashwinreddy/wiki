@@ -1,1 +1,1 @@
-<<Navigation("TOC", "./", true)>>
+<<Navigation()>>
