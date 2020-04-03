@@ -13,6 +13,11 @@ If our linear transformation in question is an $n \times n$ matrix $\mathbf{A}$,
 \mathbf{A}\vec{v} = \lambda \vec{v} \\\\\
 \mathbf{A}\vec{v} - \lambda \vec{v} = 0 \\\\\
 \mathbf{A}\vec{v} - \lambda \mathbf{I}\vec{v} = 0 \\\\\
-\left(\mathbf{A} - \lambda \mathbf{I} \right)\vec{v} = 0 \\\\\
-\det(\mathbf{A} - \lambda \mathbf{I}) = 0
+\left(\mathbf{A} - \lambda \mathbf{I} \right)\vec{v} = 0
 \end{gather\*}
+
+Luckily, we can ignore the $\vec{v}$ in the last equation above and recognize that we must have a singular matrix with
+
+\begin{equation}
+\det(\mathbf{A} - \lambda \mathbf{I}) = 0
+\end{equation}
