@@ -7,3 +7,11 @@ A topological space is a $(M, O)$ for a set $M$ with $O \subseteq \mathscr{P}(M)
 Example:  $M = \{1,2,3\}$
 
 $O=\\{\emptyset, \\{1,2,3\\}\\}$ would work but $O=\\{\emptyset, \\{1\\}, \\{2\\}, \\{1,2,3\\}\\}$ would not.
+
+# Continuous functions between topological spaces
+
+A map $f: M \to N$ for topological spaces $(M, O_M)$ for $(N, O_N)$ is continuous if:
+
+\\[
+\forall V \in O_N, \\{m \in M | f(m) \in V\\} \in O_M
+\\]
