@@ -17,5 +17,5 @@ Since the output is a real number, there are only three options:
 The derivative is a linear operator, so 
 
 $$
-\dv{}{x}\left[af(x) + b g(x)\right] = a \dv{f}{x} + b \dv{g}{x}
+\dv{}{x}\big[af(x) + b g(x)\big] = a \dv{f}{x} + b \dv{g}{x}
 $$
