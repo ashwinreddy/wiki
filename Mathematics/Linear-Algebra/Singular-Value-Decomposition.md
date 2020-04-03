@@ -5,7 +5,7 @@ A = U\Sigma V^T
 \\]
 
 \\[
-\sigma_i = \sqrt{\lambda_i(A^TA)}
+\Sigma_{ii} = \sigma_i = \sqrt{\lambda_i(A^TA)}
 \\]
 
 with $U \in O(m)$ and $V \in O(n)$ (see [[orthogonal group]]) and $\Sigma$ [[diagonal matrix]].
