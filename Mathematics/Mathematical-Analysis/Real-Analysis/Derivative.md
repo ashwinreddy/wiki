@@ -3,3 +3,11 @@ The **derivative** of a single-variable function $f: \mathbb{R} \to \mathbb{R}$ 
 \begin{equation}
 \dv{f}{x} \triangleq \lim_{\epsilon \to 0} \frac{f(x + \epsilon) - f(x)}{\epsilon}
 \end{equation}
+
+Since the output is a real number, there are only three options:
+
+|Sign|Interpretation|
+|----|--------------|
+|Positive|Locally increasing|
+|Zero|Locally stationary|
+|Negative|Locally decreasing|
