@@ -4,6 +4,10 @@ Any matrix $A \in \mathbb{R}^{m \times n}$ of [[rank]] $r$ admits a decompositio
 A = U\Sigma V^T
 \\]
 
+\\[
+\sigma_i = \sqrt{\lambda_i(A^TA)}
+\\]
+
 with $U \in O(m)$ and $V \in O(n)$ (see [[orthogonal group]]) and $\Sigma$ [[diagonal matrix]].
 
 # Derivation
