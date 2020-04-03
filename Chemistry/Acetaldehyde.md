@@ -1,1 +1,0 @@
-Accumulation of **acetaldehyde** in the body can lead to flushing, headache, etc.
