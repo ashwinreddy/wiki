@@ -1,0 +1,4 @@
+The general philosophy of this wiki is to contain detailed notes on subjects of intellectual inquiry (as opposed to opinions or personal ponderings). In a sense, it will be somewhat like Wikipedia, but with writing that makes sense because it comes from me. Keep the following in mind:
+
+* Add and write an article iff you have enough to say something substantial. You should be able to give at least a 5 minute talk on the topic. There's no value added with simple definitions.
+* Verify that only ideas you are confident are true are in here. It's okay to be wrong else where, but give yourself at least one place where you can trust your knowledge.
