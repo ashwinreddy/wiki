@@ -9,8 +9,8 @@ p(x; \theta) = \sum_z p(x, z; \theta)
 The log likelihood is then
 
 \begin{align}
-\ell(\theta) &= \sum_{i=1}^m \log p(x^{(i)}; \theta) \\\
-&= \sum_{i=1}^n \log \left[\sum_{z^{(i)}} p(x^{(i)}, z^{(i)}; \theta)\right]
+\ell(\theta) &amp;= \sum_{i=1}^m \log p(x^{(i)}; \theta) \\\
+&amp;= \sum_{i=1}^n \log \left[\sum_{z^{(i)}} p(x^{(i)}, z^{(i)}; \theta)\right]
 \end{align}
 
 Here, we are basically acting under the assumption that there is a valid underlying joint distribution $p(x,z)$, so we recognize that $p(x)$ is the marginal distribution which results when we sum and bind over the $z$.
@@ -43,8 +43,8 @@ We can now link the latent variable in by saying
 Imagine we had acess to the latent variable $z^{(i)}$, then it would be possible to compute the likelihood by
 
 \begin{align}
-\ell(\theta) &= \sum_{i=1}^m \log p(x^{(i)} | z^{(i)}; \theta) p(z^{(i)}; \phi) \\\
-&= \sum_{i=1}^m \log p(x^{(i)} | z^{(i)}; \theta) + \log p(z^{(i)}; \phi)
+\ell(\theta) &amp;= \sum_{i=1}^m \log p(x^{(i)} | z^{(i)}; \theta) p(z^{(i)}; \phi) \\\
+&amp;= \sum_{i=1}^m \log p(x^{(i)} | z^{(i)}; \theta) + \log p(z^{(i)}; \phi)
 \end{align}
 
 # Algorithm

@@ -1,1 +1,1 @@
-<<Navigation()>>
+&lt;<navigation>&gt;</navigation>

@@ -1,6 +1,6 @@
 A **Markov decision process (MDP)** describes an environment that provides rewards to an agent who can take actions to influence the environment. An MDP consists of a number of elements:
 
-|Symbol|Object Type & Meaning|Notes|
+|Symbol|Object Type &amp; Meaning|Notes|
 |------|--------|------|
 |$\mathcal{S}$|Set of states|
 |$\mathcal{A}$|Set of actions|

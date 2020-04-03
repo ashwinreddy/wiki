@@ -10,10 +10,10 @@ The gradient descent algorithm makes incremental simultaneous updates to each $\
 The learning rate $\alpha$ is a hyperparameter. Note the evaluation of the derivative of cost w.r.t. the weights. We can determine that by hand. Let's first assume there's only one example $(x, y)$:
 
 \begin{align}
-\partial_{\theta_j}{J(\theta)} &= \partial_{\theta_j} \frac{1}{2}\left( h_\theta(x) - y \right)^2 \\\
-&= 2 \cdot \frac{1}{2}\left(h_\theta(x) - y \right)^2\cdot \partial_{\theta_j}\left(h_\theta(x) - y\right) \\\
-&= \left( h_\theta(x) - y \right)\cdot\partial_{\theta_j}\left( {\theta}^\mathsf{T}x -y \right) \\\
-&= \left( h_\theta(x) - y \right)x_j
+\partial_{\theta_j}{J(\theta)} &amp;= \partial_{\theta_j} \frac{1}{2}\left( h_\theta(x) - y \right)^2 \\\
+&amp;= 2 \cdot \frac{1}{2}\left(h_\theta(x) - y \right)^2\cdot \partial_{\theta_j}\left(h_\theta(x) - y\right) \\\
+&amp;= \left( h_\theta(x) - y \right)\cdot\partial_{\theta_j}\left( {\theta}^\mathsf{T}x -y \right) \\\
+&amp;= \left( h_\theta(x) - y \right)x_j
 \end{align}
 
 So for a specific training example $(x^{(i)}, y^{(i)})$, the rule is
@@ -96,18 +96,18 @@ It then follows that $\Pr(\left.{y}^{(i)}  \right\vert x^{(i)}; \theta) = \Pr({\
 The likelihood function tells us the probability that we got the data we did given the parameters to our model:
 
 \begin{align}
-L(\theta) &= \Pr(\left. \vec{y} \right| X; \theta) \\\
-&= \prod_{i=1}^n \Pr( \left. y^{(i)} \right| x^{(i)}; \theta ) \\\
-&= \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}\right)
+L(\theta) &amp;= \Pr(\left. \vec{y} \right| X; \theta) \\\
+&amp;= \prod_{i=1}^n \Pr( \left. y^{(i)} \right| x^{(i)}; \theta ) \\\
+&amp;= \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}\right)
 \end{align}
 
 We need to pick the values of $\theta$ so to maximize the value of $L(\theta)$. We can also maximize any strictly increasing function of $L(\theta)$. So we can also use the log likelihood $\ell(\theta)$:
 
 \begin{align}
-\ell(\theta) &= \log L(\theta) \\\
-&= \log \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}\right) \\\
-&= \sum_{i=1}^n \log \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}\right) \\\
-&= n \log \frac{1}{\sigma\sqrt{2\pi}} - \frac{1}{2\sigma^2}\sum_{i=1}^n \left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2
+\ell(\theta) &amp;= \log L(\theta) \\\
+&amp;= \log \prod_{i=1}^n \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}\right) \\\
+&amp;= \sum_{i=1}^n \log \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{\left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2}{2\sigma^2}\right) \\\
+&amp;= n \log \frac{1}{\sigma\sqrt{2\pi}} - \frac{1}{2\sigma^2}\sum_{i=1}^n \left(y^{(i)} - \theta^\mathsf{T}x^{(i)}\right)^2
 \end{align}
 
 But maximizing $\ell(\theta)$ as you can see is just the same as finding a minimum $J(\theta)$.

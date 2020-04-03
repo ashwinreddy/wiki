@@ -1,7 +1,7 @@
 A Bernoulli distribution is a discrete probability distribution modeling a possibly biased coin flip (i.e. a coin flip where heads, associated with the value 1, has probability $p \in [0,1]$).
 
 \\[
-\Pr(X=x) = \begin{cases}\phi & x=1 \\\  1-\phi & x=0\end{cases}
+\Pr(X=x) = \begin{cases}\phi &amp; x=1 \\\  1-\phi &amp; x=0\end{cases}
 \\]
 
 This can be written in a single expression as

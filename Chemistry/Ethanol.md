@@ -28,7 +28,7 @@ Alcohol increases inhibition by facilitating [[GABA]] action at GABA receptors. 
 
 ## Health
 
-Less than 1-2 drinks per day can increase HDL & decrease LDL and atherosclerosis, perhaps decrease risk for heart attack.
+Less than 1-2 drinks per day can increase HDL &amp; decrease LDL and atherosclerosis, perhaps decrease risk for heart attack.
 
 Increases risk for female breast cancer, oral, and esophageal cancer.
 
@@ -48,7 +48,7 @@ Increases risk for female breast cancer, oral, and esophageal cancer.
 - Peripheral neuropathy, cerebral atrophy, cognitive impairment
 
 
-# Prevalence & Cost
+# Prevalence &amp; Cost
  
  For U.S. teenagers and older, 20% have never had alcohol, 66.3% have had it in the past year, and 52% have had it in the last month. At least 15% of current users (~20 million) have alcohol abuse problems.
  
@@ -59,7 +59,7 @@ Costs the US around 250 billion dollars each year.
 |Auto accident|50%|
 |Fatal auto accident|33%|
 |Violent crime|40%|
-|Suicide|>25%|
+|Suicide|&gt;25%|
 
 Around 100k die each year from alcohol.
 

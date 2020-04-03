@@ -10,8 +10,8 @@ $g(z)$ is called the logistic or [[sigmoid function]].
 Let's run [[maximum likelihood estimation]] again. We want our hypothesis to tell us the probability that the example belongs to the positive class. That is,
 
 \begin{align}
-\Pr(\left. y = 1 \right| x; \theta) &= h_\theta(x) \\\
-\Pr(\left. y = 0 \right| x; \theta) &= 1 - h_\theta(x)
+\Pr(\left. y = 1 \right| x; \theta) &amp;= h_\theta(x) \\\
+\Pr(\left. y = 0 \right| x; \theta) &amp;= 1 - h_\theta(x)
 \end{align}
 
 We're now going to take advantage of the fact that we're using 0 and 1 as our labels for $y$ to pull off a bit of a hacky trick:
@@ -25,12 +25,12 @@ Therefore the likelihood of getting the data that we did is the product of the p
 
 
 \begin{align}
-L(\theta) &= \Pr(\left. \vec{y} \right| X;\theta) \\\
-&= \prod_{i=1}^n \Pr(\left. y^{(i)} \right| x^{(i)}; \theta) \\\
-&= \prod_{i=1}^n \left(h_\theta({x}^{(i)})\right)^{{y}^{(i)}}\left(1-h_\theta({x}^{(i)})\right)^{1-{y}^{(i)}}
+L(\theta) &amp;= \Pr(\left. \vec{y} \right| X;\theta) \\\
+&amp;= \prod_{i=1}^n \Pr(\left. y^{(i)} \right| x^{(i)}; \theta) \\\
+&amp;= \prod_{i=1}^n \left(h_\theta({x}^{(i)})\right)^{{y}^{(i)}}\left(1-h_\theta({x}^{(i)})\right)^{1-{y}^{(i)}}
 \end{align}
 
 \begin{align}
-\ell(\theta) &= \log L(\theta) \\\
-&= \sum_{i=1}^n y^{(i)}\log h_\theta({x}^{(i)}) + \left(1- y^{(i)}\right)\log\left(1- h\left({x}^{(i)}\right)\right) 
+\ell(\theta) &amp;= \log L(\theta) \\\
+&amp;= \sum_{i=1}^n y^{(i)}\log h_\theta({x}^{(i)}) + \left(1- y^{(i)}\right)\log\left(1- h\left({x}^{(i)}\right)\right) 
 \end{align}

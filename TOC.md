@@ -1,1 +1,1 @@
-<<GlobalTOC()>>
+&lt;<globaltoc>&gt;</globaltoc>
