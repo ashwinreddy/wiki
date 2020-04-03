@@ -1,1 +1,0 @@
-One standard drink is 1 oz. of spirits, 12 oz. of beer (assuming around 5% ABV), or 4 oz. of wine. 

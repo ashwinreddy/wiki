@@ -1,1 +1,0 @@
-**Alcohol proof** is a measure of the content of ethanol in an alcoholic beverage. It is twice the [[alcohol by volume]]

@@ -1,1 +1,0 @@
-The grain bill is the set of carbohydrates used to produce alcohol. Malted barley is a primary ingredient. Its species is _Hordeum vulgare_.
