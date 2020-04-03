@@ -7,4 +7,4 @@ Invertibility
 : Every $A$ has a pair $A^{-1}$ so that $A^{-1}\cdot A = I$
 
 Associativity
-: $A \cdot (B \cdot C) = (A \cdot B) \cdot C$
+: $A \cdot (B \cdot C) = (A \cdot B) \cdot C$, which allows us to drop the $\cdot$ altogether unambiguously.
