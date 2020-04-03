@@ -1,1 +1,0 @@
-An open set for a [[topological space]] $(M, O)$ is a $U \in O$

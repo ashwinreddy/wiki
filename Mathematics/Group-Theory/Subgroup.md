@@ -1,1 +1,0 @@
-A subgroup of a [[group]] $G$ is $H \subset G$ with the same operation.

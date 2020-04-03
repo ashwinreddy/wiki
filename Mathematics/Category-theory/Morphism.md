@@ -1,1 +1,0 @@
-A morphism is a structure-preserving map.

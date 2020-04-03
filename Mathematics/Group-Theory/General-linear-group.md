@@ -1,1 +1,0 @@
-The general linear group $\text{GL}_n(\mathbb{R})$ of degree $n$ is the [[group]] consisting of every $n \times n$ invertible [[matrix]].

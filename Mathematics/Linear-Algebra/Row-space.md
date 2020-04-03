@@ -1,1 +1,0 @@
-The row space of a matrix is the span of its rows

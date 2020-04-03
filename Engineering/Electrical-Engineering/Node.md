@@ -1,1 +1,0 @@
-A **circuit node** is any point on a [[circuit]] where the terminals of two or more circuit elements meet.

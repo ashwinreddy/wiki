@@ -1,1 +1,0 @@
-An **azeotrope** (Greek: _a_/without, _zein_/boil, _tropos_/turn) is a mixture of at least two liquids whose proportions cannot be altered by distillation.
