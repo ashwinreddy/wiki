@@ -16,7 +16,7 @@ If our linear transformation in question is an $n \times n$ matrix $\mathbf{A}$,
 \left(\mathbf{A} - \lambda \mathbf{I} \right)\vec{v} = 0
 \end{gather\*}
 
-Luckily, we can ignore the $\vec{v}$ in the last equation above and recognize that we must have a singular matrix with
+Luckily, we can ignore the $\vec{v}$ in the last equation above and recognize that we must have a singular matrix, leaving us
 
 \begin{equation}
 \det(\mathbf{A} - \lambda \mathbf{I}) = 0
