@@ -1,1 +1,0 @@
-Glutamate is the primary excitatory neurotransmitter in the human brain. 
