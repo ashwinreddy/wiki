@@ -1,1 +1,1 @@
-The orthogonal group is a [[Group]]
+The orthogonal group is a [[group]]
