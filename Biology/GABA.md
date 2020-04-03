@@ -1,1 +1,0 @@
-gamma-amino-butyric acid is the primary inhibitory neurotransmitter in the human brain. 
