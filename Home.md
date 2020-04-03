@@ -1,7 +1,7 @@
 [Global Table of Contents](./TOC)
 
-|[Mathematics](./Mathematics/)|[Computer Science](./Computer Science/)|
-|[Physics](./Physics/)|[Chemistry](./Chemistry/)|
+|[Physics](./Physics/)|[Mathematics](./Mathematics/)|
+|[Chemistry](./Chemistry/)|[Computer Science](./Computer Science/)|
 |[Biology](./Biology/)|[Engineering](./Engineering/)|
 
 
