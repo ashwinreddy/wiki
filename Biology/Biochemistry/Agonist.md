@@ -1,1 +1,0 @@
-An agonist is a chemical that binds to a receptor and activates it to produce a biological response.
