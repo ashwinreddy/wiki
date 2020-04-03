@@ -1,4 +1,4 @@
-Any matrix $A \in \mathbb{R}^{m \times n}$ admits a decomposition
+Any matrix $A \in \mathbb{R}^{m \times n}$ of [[rank]] $r$ admits a decomposition
 
 \\[
 A = U\Sigma V^T
