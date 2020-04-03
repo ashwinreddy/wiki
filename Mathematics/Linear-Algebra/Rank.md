@@ -1,1 +1,1 @@
-The **rank** of a $n \times m$ matrix $A$ is $\dim R(A)$ where $R(A)$ is the [[range]] of $A$.
+The **rank** of a $n \times m$ matrix $A$ is $\dim \mathcal{R}(A)$ where $\mathcal{R}(A)$ is the [[range]] of $A$.
