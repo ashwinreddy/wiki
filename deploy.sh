@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gollum --mathjax --critic-markup --config config.rb --js config.js
+gollum --mathjax --critic-markup --config config.rb --js ./
