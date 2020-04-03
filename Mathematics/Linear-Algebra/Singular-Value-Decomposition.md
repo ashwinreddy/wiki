@@ -18,6 +18,11 @@ A^TA = V \Lambda V^T
 AA^T = U\Lambda U^T
 \\]
 
+
+\\[
+\Lambda = \Sigma^T\Sigma
+\\]
+
 \\[
 AV = U\Sigma
 \\]
