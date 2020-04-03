@@ -4,7 +4,7 @@ An **eigenpair** for a linear transformation $T$ for a vector space $V$ over a f
 T(\vec{v}) = \lambda \vec{v}.
 \end{equation}
 
-We call the $\lambda$ an **eigenvalue** and the $\vec{v}$ an eigenvector. Note that we typically exclude the zero vector for $\vec{v}$ because it is trivially true; however, a zero eigenvalue is interesting because it means a non-trivial nullspace.
+We call the $\lambda$ an **eigenvalue** and the $\vec{v}$ an **eigenvector**. Note that we typically exclude the zero vector for $\vec{v}$ because it is trivially true; however, a zero eigenvalue is interesting because it means a non-trivial nullspace. Additionally, eigenvectors are unique up to scalar multiplication, so any representative vector on the line spanned by one eigenvector will suffice.
 
 If our linear transformation in question is an $n \times n$ matrix $\mathbf{A}$, we can find the specific eigenpairs by first determining the eigenvalues.
 
@@ -22,4 +22,4 @@ Luckily, we can ignore the $\vec{v}$ in the last equation above and recognize th
 \det(\mathbf{A} - \lambda \mathbf{I}) = 0.
 \end{equation}
 
-The equation above is called the **characteristic polynomial** of $A$. It is a degree $n$ polynomial function of $\lambda$, so there are at most $n$ eigenvalues which can be found as roots.
+The equation above is called the **characteristic polynomial** of $A$. It is a degree $n$ polynomial function of $\lambda$, so there are at most $n$ eigenvalues which can be found as roots. 
