@@ -1,1 +1,5 @@
-The spectral theorem says if $\mathbf{A}$ is an $n\times n$ [[symmetric matrix]] with only real eigenvalues then there is an orthogonal basis for $\mathbb{R}^n$ with the eigenvectors of $\mathbf{A}$.
+The spectral theorem says if $\mathbf{A}$ is an $n\times n$ [[symmetric matrix]] in the reals, then A enjoys
+
+\\[
+A = V\Lambda V^T
+\\]
