@@ -1,1 +1,1 @@
-[Electromagnetism](./Electromagnetism/)
+<<Navigate()>>
