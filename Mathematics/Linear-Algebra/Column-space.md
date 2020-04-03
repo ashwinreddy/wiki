@@ -1,0 +1,1 @@
+The column space of a matrix is the span of its columns
