@@ -17,3 +17,7 @@ A^TA = V \Lambda V^T
 \\[
 AA^T = U\Lambda U^T
 \\]
+
+\\[
+AV = U\Sigma
+\\]
