@@ -27,7 +27,7 @@ The equation above is called the **characteristic polynomial** of $A$. It is a d
 # Properties
 
 \begin{equation}
-\operatorname{tr}(A) = \sum_{i=1}^n \lambda_i
+\operatorname{tr} A = \sum_{i=1}^n \lambda_i
 \end{equation}
 
 \begin{equation}
