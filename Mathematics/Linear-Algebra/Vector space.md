@@ -3,5 +3,6 @@ A **vector space** over a field $F$ is a [[set]] $V$ equipped with scalar multip
 Examples:
 
 * Any field $F$ on its own can be a vector space
-
-of vector spaces include functions, $\RR^n$, and matrices.
+* Functions
+* $\RR^n$
+* Matrices
