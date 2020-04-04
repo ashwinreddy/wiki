@@ -1,0 +1,1 @@
+The **symmetric group** $S_n$ is the group of permutations for $n$ symbols. The order of the group is $n!$ because that's how many ways there are to order $n$ objects if order matters.
