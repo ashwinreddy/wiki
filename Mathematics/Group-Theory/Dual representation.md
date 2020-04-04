@@ -6,8 +6,4 @@ $$
 \langle \rho^*(g)(v^*), \rho(g)(v) \rangle = c = v^*(v)
 $$
 
-$$
-\rho^*(g)(v^*) \big[ \rho(g)(v)\big] = 
-$$
-
-It turns out that we need $\rho^*(g)=\rho(g^{-1})^\top$.
+Now note that $\rho^*(g)$ and $\rho(g)$ gives us matrices.
