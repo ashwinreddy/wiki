@@ -4,5 +4,9 @@ $$
 A\times B=\{\,(a,b)\mid a\in A\ {\mbox{ and }}\ b\in B\,\}
 $$
 
+$$
+|A\times B| = |A||B|
+$$
+
 
 The Cartesian product is related to [[direct product]].
