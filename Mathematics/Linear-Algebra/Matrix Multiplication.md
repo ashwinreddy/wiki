@@ -8,7 +8,7 @@ Matrix multiplication defines a way to multiply an $m\times n$ matrix $A$ and an
 A = \begin{bmatrix}
     \vec{a}_1^\top \\\\\
     \vdots \\\\\
-    \vec{a}_n^\top \\\\\
+    \vec{a}_m^\top \\\\\
 \end{bmatrix} \\\\\
 B = \begin{bmatrix}
     \vert &  & \vert \\\\\
