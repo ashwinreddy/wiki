@@ -5,9 +5,9 @@ Matrix multiplication defines a way to multiply an $m\times n$ matrix $A$ and an
 \end{equation}
 
 \begin{equation}
-A = \begin{bmatrix}
+B = \begin{bmatrix}
     \vert & \vert \\\\\
-    v_1   & v_2   \\\\\
+    b_1   & b_2   \\\\\
     \vert & \vert
 \end{bmatrix}
 \end{equation}
