@@ -1,13 +1,13 @@
 A **group** is a set $G$ equipped with a closed binary composition operation $(\cdot): G \times G \to G$ that obeys
 
 Identity existence
-: There is an element $I \in G$ such that $\forall A \in G, I \cdot A = A$
+: There is an element $I \in G$ such that $\forall a \in G, I \cdot a=a$
 
 Invertibility
-: Every $A$ has a friend $A^{-1}$ so that $A^{-1}\cdot A = I$
+: Every $a$ has a friend $a^{-1}$ so that $a^{-1}\cdot a = I$
 
 Associativity
-: $A \cdot (B \cdot C) = (A \cdot B) \cdot C$, which allows us to drop the $\cdot$ altogether unambiguously.
+: $a \cdot (b \cdot c) = (a \cdot b) \cdot c$, which allows us to drop the $\cdot$ altogether unambiguously.
 
 An abelian group is one for which $ab=ba$.
 
