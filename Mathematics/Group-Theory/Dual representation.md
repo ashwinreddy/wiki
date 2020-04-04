@@ -18,7 +18,7 @@ We want to restrict ourselves to looking for $\rho^\*$ that respect the natural 
 Now note that $\rho^\*(g)$ and $\rho(g)$ gives us matrices, which clearly will be related if Equation \ref{eq:nat-pair} is to hold. Let's just call $\rho(g)=A$ and $\rho^\*(g)=f(A)$. Note also that dual vectors eat vectors as the inner product, so
 
 $$
-(f(A) v^*)^\top Av = (v^*)^\top v \implies f(A)^\top A = I
+(f(A) v^*)^\top Av = (v^*)^\top v \implies f(A)^\top A = I \implies f(A) = A^{-\top}
 $$
 
-Which means $f(A) = A^{-\top}$.
+
