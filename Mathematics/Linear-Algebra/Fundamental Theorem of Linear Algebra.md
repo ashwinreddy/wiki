@@ -7,5 +7,5 @@ The **fundamental theorem of linear algebra** is a set of results about the fund
 As a corollary, we have the rank-nullity theorem,
 
 \begin{equation}
-\operatorname{rank} A + \operatorname{nullity} A = \dim V
+\operatorname{rank} A + \dim \mathcal{N}( A ) = \dim V
 \end{equation}
