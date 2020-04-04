@@ -1,7 +1,7 @@
-Matrix multiplication defines a way to multiply an $m\times n$ matrix $A$ and an $n \times p$ matrix $B$.
+Matrix multiplication defines a way to multiply an $m\times n$ matrix $A$ and an $n \times p$ matrix $B$ to get an $m \times p$ matrix $C=AB$
 
 \begin{equation}
-(AB)\_{ij} = \sum_{k=1}^n A_{ik} B_{kj}
+C\_{ij} = \sum_{k=1}^n A_{ik} B_{kj}
 \end{equation}
 
 It might be easier to see if we list out $A$ and $B$.
@@ -22,5 +22,5 @@ B = \begin{bmatrix}
 The $(i,j)$th entry of the result is the inner product of the $i$th row of $A$ and the $j$th column of $B$.
 
 \begin{equation}
-(AB)\_{ij} =  \vec{a}_i^\top \vec{b}_j
+C\_{ij} =  \vec{a}_i^\top \vec{b}_j
 \end{equation}
