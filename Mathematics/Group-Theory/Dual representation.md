@@ -10,5 +10,5 @@ Consider elements $v \in V$ and $v^* \in V^\*$. They can be paired up so that $\
 Now note that $\rho^\*(g)$ and $\rho(g)$ gives us matrices, which clearly will be related if Equation \ref{eq:nat-pair} is to hold. Let's just call $\rho(g)=A$ and $\rho^\*(g)=f(A)$. Note also that dual vectors eat vectors as the inner product, so
 
 $$
-(f(A) v^*)^\top Av = (v^\*)^\top v
+(f(A) v^\*)^\top Av = (v^\*)^\top v
 $$
