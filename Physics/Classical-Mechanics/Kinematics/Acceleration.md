@@ -4,11 +4,6 @@ The acceleration is the [[derivative]] of [[velocity]].
 \vec{a} = \dv{\vec{v}}{t}
 \end{equation}
 
-\begin{equation}
-\vec{a} = \dv{\vec{v}}{x}\cdot\dv{\vec{r}}{t} = \dv{\vec{v}}{x}\cdot\vec{v}
-\end{equation}
-
-
 
 # Uniform Acceleration Motion
 
