@@ -11,7 +11,7 @@ A = \begin{bmatrix}
 \end{bmatrix} \\\\\
 B = \begin{bmatrix}
     \vert &  & \vert \\\\\
-    b_1   & \dots & b_p   \\\\\
+    \vec{b}_1   & \dots & \vec{b}_p   \\\\\
     \vert &  & \vert
 \end{bmatrix}
 \end{gather\*}
