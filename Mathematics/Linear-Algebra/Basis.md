@@ -1,1 +1,1 @@
-A basis for a [[vector space]] $V$ is a subset of linearly independent vectors that span $V$.
+A basis for a [[vector space]] $V$ is a set of linearly independent vectors that span $V$.
