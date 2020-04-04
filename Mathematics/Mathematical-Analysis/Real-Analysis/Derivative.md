@@ -4,6 +4,8 @@ The **derivative** of a single-variable function $f: \mathbb{R} \to \mathbb{R}$ 
 \dv{f}{x} \triangleq \lim_{\epsilon \to 0} \frac{f(x + \epsilon) - f(x)}{\epsilon}.
 \end{equation}
 
+The derivative can be numerically approximated by picking small $\epsilon$ such as 0.01 .
+
 
 
 # Derivative Rules
