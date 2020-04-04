@@ -1,1 +1,1 @@
-A **dual representation** for a [[group]] $G$ and its [[representation]] $\rho$ on a [[vector space]] $V$
+A **dual representation** for a [[group]] $G$ and its [[group representation]] $\rho$ on a [[vector space]] $V$
