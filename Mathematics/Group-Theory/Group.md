@@ -4,7 +4,7 @@ Identity existence
 : There is an element $I \in G$ such that $\forall a \in G, I \cdot a= a \cdot I = a$
 
 Invertibility
-: Every $a$ has a friend $a^{-1}$ so that $a^{-1}\cdot a = I$
+: Every $a$ has a friend $a^{-1}$ so that $a^{-1}\cdot a = a \cdot a^{-1} = I$
 
 Associativity
 : $a \cdot (b \cdot c) = (a \cdot b) \cdot c$, which allows us to drop the $\cdot$ altogether unambiguously.
