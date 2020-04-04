@@ -8,4 +8,4 @@ $$
 \varphi(g_1g_2) = \varphi(g_1) \circ \varphi(g_2)
 \end{equation}
 
-With some hand waving, we can say that if $A \in G$, the representation $\vec{r}$ transforms like $A\vec{r}$.
+Let's say we're working with the [[general linear group]]
