@@ -5,5 +5,5 @@ Every [[vector space]] $V$ has a **dual (vector) space** $V^*$ which is simply t
 We may well ask for a basis for $V^\*$. As a matter of economy, we allow the choice of basis vectors $\vec{e}\_1, \ldots, \vec{e}\_n$ for $V$ to determine the basis for $V^\*$. 
 
 \begin{equation}
-\epsilon^a(\vec{e}_b) = \delta^{a}_b
+\epsilon^i(\vec{e}_j) = \delta^{i}_j
 \end{equation}
