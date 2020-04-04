@@ -1,3 +1,3 @@
-A **homomorphism** is a map $f: G \to G'$ for groups $G$ and $G'$ if $f(g_1)f(g_2)=f(g_1g_2)$. If the map is one-to-one and onto, it is an isomorphism.
+A **homomorphism** is a map $f: G \to G'$ for groups $G$ and $G'$ if $f(g_1)f(g_2)=f(g_1g_2)$. If the map is injective and onto, it is an isomorphism.
 
 For [[vector space]]s $V$ and $W$, $\operatorname{Hom}(V, W)$ is the set of all [[linear map]]s from $V$ to $W$. $\operatorname{Hom}(V, W)$ can then itself be equipped into a vector space.
