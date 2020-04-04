@@ -8,3 +8,6 @@ Compatability
 
 The comptability condition intuitively says that the map needs to respect the group action. 
 
+# Examples
+
+A trivial example is $\varphi(g, x) = x$.
