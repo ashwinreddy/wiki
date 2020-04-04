@@ -1,0 +1,1 @@
+A group isomorphism between groups $(G, \diamondsuit)$ and $(H, \heartsuit)$ is a bijective [[homomorphism]]
