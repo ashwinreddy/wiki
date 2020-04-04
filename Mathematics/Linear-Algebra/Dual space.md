@@ -1,7 +1,4 @@
-Every [[vector space]] $V$ has a **dual (vector) space** $V^*$ which can be contained by considering all [[linear functional]]s
-
-
-[[homomorphism]] $\operatorname{Hom}(V, \mathbb{R})$, the set of linear maps from $V$ to $\RR$. Its elements are variously called **covectors** or **dual vectors**.
+Every [[vector space]] $V$ has a **dual (vector) space** $V^*$ which can be contained by considering all [[linear functional]]s and equipping them with a vector space structure. More formally, it is the [[homomorphism]] $\operatorname{Hom}(V, \mathbb{R})$, the set of linear maps from $V$ to $\RR$. Its elements are variously called **covectors** or **dual vectors**.
 
 We may well ask for a basis for $V^\*$. As a matter of economy, we allow the choice of basis vectors $\vec{e}\_1, \ldots, \vec{e}\_n$ for $V$ to determine the basis for $V^\*$.
 
