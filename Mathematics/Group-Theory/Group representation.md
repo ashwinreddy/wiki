@@ -1,1 +1,1 @@
-A **group representation** for a group $G$ and vector space $V$ is a [[homomorphism]] $\varphi: G \to \operatorname{GL}(V)$
+A **group representation** for a group $G$ and vector space $V$ is a [[homomorphism]] $\varphi: G \to \operatorname{GL}(V)$ for the [[general linear group]]
