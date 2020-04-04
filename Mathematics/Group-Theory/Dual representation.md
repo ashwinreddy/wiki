@@ -8,9 +8,7 @@ $$
 
 # Derivation
 
-We want to restrict ourselves to looking for $\rho^\*$ that respect the natural pairing between $V$ and $V^\*$.
-
-Consider elements $v \in V$ and $v^* \in V^\*$. They can be paired up so that $\langle v^\*, v\rangle = c$. All we're saying is that don't want our representation to mess this up:
+We want to restrict ourselves to looking for $\rho^\*$ that respect the natural pairing between $V$ and $V^\*$. Consider elements $v \in V$ and $v^* \in V^\*$. They can be paired up so that $\langle v^\*, v\rangle = c$. All we're saying is that don't want our representation to mess this up:
 
 \begin{equation}
 \label{eq:nat-pair}
