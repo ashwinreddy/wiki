@@ -1,1 +1,1 @@
-A **group representation** is a [[homomorphism]]
+A **group representation** is a [[homomorphism]] 
