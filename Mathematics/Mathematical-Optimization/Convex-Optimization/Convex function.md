@@ -1,0 +1,1 @@
+A **convex function** is one whose epigraph is a convex set.
