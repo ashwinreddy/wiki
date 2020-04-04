@@ -9,5 +9,5 @@ $$
 The instantaneous velocity would require us to look at an infinitesimal amount of time, $\vec{v}$
 
 $$
-\vec{v} = \lim_{\Delta t \to 0}\frac{\Delta \vec{r}}{\Delta t} = \dv{\vec{r}(t)}{t}
+\vec{v} = \lim_{\Delta t \to 0}\frac{\Delta \vec{r}}{\Delta t} = \dv{}{t}\vec{r}(t)
 $$
