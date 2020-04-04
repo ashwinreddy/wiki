@@ -5,7 +5,7 @@ $$
 \rho^*(g) = \rho(g^{-1})^\top
 $$
 
-Less formally, we can pretend that every element $A \in G$ can just be written as a matrix, also called $A$, if we're looking to play around with a vector space $V$. If we need to tap into $V^*$, we can make our group do double duty for us by representing the same elements $A$ using now $A^{-\top}$.
+Less formally, let's imagine we want to play around with transormations of a vector space $V$. If our transformations are restricted to being matrices $A$, we can link up matrix $A$ with a group element $A$. If we need to tap into $V^*$, we can make our group do double duty for us by representing the same elements $A$ using now $A^{-\top}$.
 
 
 # Derivation
