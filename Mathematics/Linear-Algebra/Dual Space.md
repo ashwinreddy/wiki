@@ -8,4 +8,4 @@ We may well ask for a basis for $V^\*$. As a matter of economy, we allow the cho
 
 # Double dual
 
-Consider $V^{**}=(V^\*)^\*$
+Consider $V^{**}=(V^\*)^\*$. An element $\Phi$
