@@ -2,7 +2,7 @@ The direct product of [[group]]s $(G,\diamondsuit)$ and $(H, \heartsuit)$ is den
 
 # Examples
 
-Consider the group of real numbers over addition, $\RR$. The direct product of $\RR$ with itself is isomorphic to $\RR^2$.
+Consider the group of real numbers over addition, $\RR$. The direct product of $\RR$ with itself is [[isomorphic]] to $\RR^2$.
 
 $$
 \RR \times \RR \cong \RR^2
