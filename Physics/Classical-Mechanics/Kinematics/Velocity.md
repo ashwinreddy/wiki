@@ -3,5 +3,5 @@ For a point with position $\vec{r}(t)$, the **velocity** describes the rate of c
 The average velocity $\vec{\bar{v}}$ is given by
 
 $$
-\vec{\bar{v}} = \frac{\Delta \vec{R}}{\Delta t}
+\vec{\bar{v}} = \frac{\Delta \vec{r}}{\Delta t}
 $$
