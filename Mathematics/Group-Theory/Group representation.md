@@ -1,1 +1,1 @@
-A group representation is [[group action]] on a [[vector space]]?
+A group representation is [[group action]] on a [[vector space]]. 
