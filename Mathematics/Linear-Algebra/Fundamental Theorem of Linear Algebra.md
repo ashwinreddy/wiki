@@ -3,9 +3,3 @@ The **fundamental theorem of linear algebra** is a set of results about the fund
 \begin{equation}
 \mathcal{N}(A) \oplus \mathcal{R}(A^\top) = \mathbb{R}^n.
 \end{equation}
-
-As a nice corollary, we have the rank-nullity theorem by taking dimensions of both sides of the equation.
-
-\begin{equation}
-\operatorname{rank} A + \operatorname{nullity} A = \dim V.
-\end{equation}
