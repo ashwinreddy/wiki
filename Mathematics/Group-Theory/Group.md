@@ -15,4 +15,4 @@ Examples:
 - Rotations in 3D space
 - Addition of real numbers
 
-A **subgroup** for $G$ is a subset $H$ that satisfies the above given the same operation $(\cdot)$.
+A **subgroup** for $G$ is a [[subset]] $H$ that satisfies the above given the same operation $(\cdot)$.
