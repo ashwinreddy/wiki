@@ -1,0 +1,1 @@
+A symmetric matrix is a [[matrix]] whose [[transpose]] is itself.
