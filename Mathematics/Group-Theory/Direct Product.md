@@ -1,0 +1,1 @@
+The direct product of [[group]]s $G$ and $H$
