@@ -12,3 +12,9 @@ Now note that $\rho^\*(g)$ and $\rho(g)$ gives us matrices, which clearly will b
 $$
 (f(A) v^*)^\top Av = (v^*)^\top v \implies f(A)^\top A = I
 $$
+
+Which means $f(A) = A^{-\top}$. The upshot is that
+
+$$
+\rho^*(g) = \rho(g^{-1})^\top
+$$
