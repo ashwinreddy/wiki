@@ -10,5 +10,5 @@ Consider elements $v \in V$ and $v^* \in V^\*$. They can be paired up so that $\
 Now note that $\rho^\*(g)$ and $\rho(g)$ gives us matrices, which clearly will be related if Equation \ref{eq:nat-pair} is to hold. Let's just call $\rho(g)=A$ and $\rho^\*(g)=f(A)$.
 
 \begin{equation}
-\left(f(A)v^*\right) Av = v^*v
+\left(f(A)v^\*\right) Av = v^\*v
 \end{equation}
