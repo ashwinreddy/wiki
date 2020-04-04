@@ -1,0 +1,1 @@
+The **tensor product** is a way of creating [[tensor]]s from other tensors
