@@ -5,5 +5,5 @@ Example:
 Consider the group of real numbers over addition, $\RR$.
 
 $$
-\mathbb{R}\times{R} \cong \mathbb{R}^2
+\RR \times \RR \cong \RR^2
 $$
