@@ -14,4 +14,4 @@ A trivial example is for any $x \in X$, $\varphi(g, x) = x$. Clearly, identity h
 
 If the set happens to be $G$ itself, we could do $\varphi(g, x) = gx$.
 
-If $X = \RR^n$, then pick $G=\operatorname{GL}_n(\RR)$ with $\varphi(A, \vec{x}) = A\vec{x}$.
+If $X = \RR^n$, then pick $G=\operatorname{GL}_n(\RR)$ with $\varphi(A, \vec{x}) = A\vec{x}$. This is an example of a [[group representation]].
