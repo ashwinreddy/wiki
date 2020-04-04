@@ -1,0 +1,1 @@
+Every [[vector space]] $V$ has a **dual (vector) space** $V^*$ which is simply the [[homomorphism]] $\operatorname{Hom}(V, \mathbb{R})$.
