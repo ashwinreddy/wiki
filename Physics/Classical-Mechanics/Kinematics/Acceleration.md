@@ -9,5 +9,9 @@ The acceleration is the [[derivative]] of [[velocity]].
 A handy special case is when the acceleration is a constant vector. 
 
 \begin{equation}
+\vec{v}(t) = \vec{v}_0(t) + t\vec{a}
+\end{equation}
+
+\begin{equation}
 \vec{r}(t) = \frac{t^2}{2}\vec{a} + t\vec{v}_0 + \vec{r}_0
 \end{equation}
