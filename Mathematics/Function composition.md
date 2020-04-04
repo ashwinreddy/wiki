@@ -2,5 +2,5 @@
 
 \begin{align\*}
 g\circ f: X &\to Z \\\\\
-x &\mapsto 
+x &\mapsto g(f(x))
 \end{align\*}
