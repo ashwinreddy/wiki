@@ -3,5 +3,5 @@ The **determinant** of a [[square matrix]] is the signed volume spanned by the c
 # Properties
 
 $$
-\det AB = \det A \det B
+\det AB = \det A \cdot \det B
 $$
