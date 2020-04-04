@@ -1,1 +1,1 @@
-A **matrix** is a rectangular grid or array of values.
+A **matrix** is a rectangular grid or array of values. An $m \times n$ matrix has $m$ rows and $n$ columns.
