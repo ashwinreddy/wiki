@@ -7,6 +7,6 @@ $$
 $$
 
 $$
-\rho^*(g, v^*) \big[ \rho(g, v)\big] = v^*(v)
+\rho^*(g)(v^*) \big[ \rho(g)(v)\big] = v^*(v)
 $$
 
