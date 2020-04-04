@@ -9,10 +9,9 @@ Identity existence
 Invertibility
 : Every $a$ has a friend $a^{-1}$ so that $a^{-1}\cdot a = a \cdot a^{-1} = I$
 
-An **abelian group** is one for which $ab=ba$.
+An **abelian group** is one for which $ab=ba$. A **subgroup** for $G$ is a [[subset]] $H$ that satisfies the above given the same operation $(\cdot)$.
 
-Examples:
+
+# Examples
 - Rotations in 3D space
 - Addition of real numbers
-
-A **subgroup** for $G$ is a [[subset]] $H$ that satisfies the above given the same operation $(\cdot)$.
