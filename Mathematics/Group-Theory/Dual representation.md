@@ -7,6 +7,6 @@ $$
 $$
 
 $$
-\langle \rho^*(g, v^*), \rho(g, v) \rangle = v^*(v)
+\rho^*(g, v^*) \big( \rho(g, v)\big) = v^*(v)
 $$
 
