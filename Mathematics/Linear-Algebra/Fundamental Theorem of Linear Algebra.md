@@ -4,4 +4,4 @@ The **fundamental theorem of linear algebra** says that for $A \in \RR^{m \times
 \mathcal{N}(A) \oplus \mathcal{R}(A^\top) = \mathbb{R}^n.
 \end{equation}
 
-In other words, any vector from the input space can be built using the nullspace of $A$ and the range of $A$ transpose
+In other words, any vector from the input space can be built using the nullspace of $A$ and the range of $A$ transpose.
