@@ -5,6 +5,8 @@ $$
 \rho^*(g) = \rho(g^{-1})^\top
 $$
 
+Less formally, we can pretend that every element $A \in G$ can just be written as a matrix, also called $A$, if we're looking to play around with a vector space $V$. 
+
 
 # Derivation
 
