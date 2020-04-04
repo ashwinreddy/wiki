@@ -11,6 +11,8 @@ Invertibility
 
 An **abelian group** is one for which $ab=ba$. A **subgroup** for $G$ is a [[subset]] $H$ that satisfies the above given the same operation $(\cdot)$.
 
+The order of a group is just the size of its underlying set.
+
 
 # Examples
 - Rotations in 3D space
