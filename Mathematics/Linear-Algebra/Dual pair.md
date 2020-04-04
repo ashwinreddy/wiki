@@ -6,3 +6,9 @@ We can easily put $V$ and its [[dual space]] $V^*$ into duality with a natural p
 \langle \cdot, \cdot \rangle: V^* \times V &\to F \\\\\
 (\varphi, \vec{x}) &\mapsto \varphi(\vec{x})
 \end{align\*}
+
+If we pick a specific basis to work in, 
+
+$$
+\varphi(\vec{x}) = \sum_{i=1}^{\dim V} \varphi_i x^i
+$$
