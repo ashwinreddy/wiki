@@ -1,7 +1,8 @@
-The **fundamental theorem of calculus** connects derivatives and integrals in the following ways:
+The **fundamental theorem of calculus** describes the connection between derivatives and integrals.
 
+For a function $f: \RR \to \RR$
 \begin{equation}
-\int_a^b f'(x) \,\dd{x} = f(b) - f(a)
+\int_a^b f(x) \,\dd{x} = F(b) - F(a)
 \end{equation}
 
 \begin{equation}
