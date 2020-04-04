@@ -5,3 +5,6 @@ Identity
 
 Compatability
 : $\varphi(g, \varphi(h, x)) = \varphi(gh, x)$
+
+The comptability condition intuitively says that the map needs to respect the group action. 
+
