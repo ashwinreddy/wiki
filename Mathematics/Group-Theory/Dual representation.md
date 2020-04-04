@@ -1,1 +1,1 @@
-A **dual representation** for a [[group]] $G$ and its [[group representation]] $\rho$ on a [[vector space]] $V$ is a $\rho^\*$ defined for the [[dual space]] $V^*$ such that
+A **dual representation** for a [[group]] $G$ and its [[group representation]] $\rho$ on a [[vector space]] $V$ is a $\rho^\*$ defined for the [[dual space]] $V^\*$ that respects the natural pairing. In other words, $\rho^\*: G \to \operatorname{GL}(V^\*)$
