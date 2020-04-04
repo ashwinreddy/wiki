@@ -1,3 +1,3 @@
 \begin{gather}
-\vec\nabla \cdot \vec{E} = \rho/\epsilon_0
+\vec\nabla \cdot \vec{E} = \rho/\varepsilon_0
 \end{gather}
