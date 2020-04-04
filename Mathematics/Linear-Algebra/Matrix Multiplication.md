@@ -20,5 +20,5 @@ B = \begin{bmatrix}
 \end{gather\*}
 
 \begin{equation}
-(AB)\_{ij} = \sum_{k=1}^n \vec{a}_i^\top \vec{b}_j
+(AB)\_{ij} =  \vec{a}_i^\top \vec{b}_j
 \end{equation}
