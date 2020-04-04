@@ -1,0 +1,1 @@
+A **square matrix** is a [[matrix]] with an equal number of rows and columns (i.e. an $n\times n$ matrix).
