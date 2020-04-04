@@ -5,7 +5,7 @@ $$
 \rho^*(g) = \rho(g^{-1})^\top
 $$
 
-Less formally, let's imagine we want to play around with transormations of a vector space $V$. If our transformations are restricted to being matrices $A$, we can link up matrix $A$ with a group element $A$. If we need to tap into $V^*$, we can make our group do double duty for us by representing the same elements $A$ using now $A^{-\top}$.
+Less formally, let's imagine we want to play around with transormations of a vector space $V$. If our transformations are restricted to being matrices $A$, we can link up matrix $A$ with a group element $A$. If we need to tap into $V^*$, we can make our group do double duty for us by representing the same group elements $A$ using matrix $A^{-\top}$.
 
 
 # Derivation
