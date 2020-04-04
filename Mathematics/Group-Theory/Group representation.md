@@ -1,1 +1,1 @@
-A **group representation** is a [[homomorphism]] 
+A **group representation** is a group [[homomorphism]] $\varphi: G \to \operatorname{GL}(V)$.
