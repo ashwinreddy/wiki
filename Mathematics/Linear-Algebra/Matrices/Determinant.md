@@ -1,1 +1,1 @@
-The **determinant** is the signed volume spanned by the columns/rows of a [[square matrix]].
+The **determinant** of a [[square matrix]] is the signed volume spanned by the columns/rows.
