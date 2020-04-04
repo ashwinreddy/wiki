@@ -1,1 +1,1 @@
-A basis for a [[vector space]] $V$ is a $B \subset V$ if every element of $V$ can be written as a unique linear combination of elements of $B$.
+A basis for a [[vector space]] $V$ is a subset of linearly independent vectors that span $V$.
