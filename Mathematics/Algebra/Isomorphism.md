@@ -1,0 +1,1 @@
+An isomorphism is a bijective [[homormorphism]].
