@@ -1,0 +1,1 @@
+A vector space is a set $V$ equipped with scalar multiplication $(\cdot): F \times V \to v$ for a field $F$ and vector addition $+: V \times V \to V$ that obey some nice properties.
