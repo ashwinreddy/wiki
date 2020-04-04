@@ -21,4 +21,4 @@ $$
 (f(A) v^*)^\top Av = (v^*)^\top v \implies f(A)^\top A = I
 $$
 
-Which means $f(A) = A^{-\top}$. The upshot is that
+Which means $f(A) = A^{-\top}$.
