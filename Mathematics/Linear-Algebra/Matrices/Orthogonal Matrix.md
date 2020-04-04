@@ -9,7 +9,7 @@ Intuitively, the rows/columns are orthonormal to each other.
 # Properties
 
 $$
-(\det Q)^2 = 1 \implies \det Q = \pm 1
+(\det Q)^2 = \det I = 1 \implies \det Q = \pm 1
 $$
 
 The norm of a vector is invariant to an orthonormal transformation. Basically, all orthogonal matrices can do is rotate.
