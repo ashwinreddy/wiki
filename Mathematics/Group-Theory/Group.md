@@ -1,5 +1,8 @@
 A **group** is a set $G$ equipped with a associative binary composition operation $(\cdot): G \times G \to G$ that obeys
 
+Closure
+: $\forall a, b \in G, ab \in G$
+
 Identity existence
 : There is an element $I \in G$ such that $\forall a \in G, I \cdot a= a \cdot I = a$
 
