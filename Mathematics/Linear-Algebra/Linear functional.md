@@ -1,0 +1,1 @@
+A **linear functional** is a [[linear map]]
