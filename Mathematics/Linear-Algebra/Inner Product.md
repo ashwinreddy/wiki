@@ -5,3 +5,6 @@ Linearity in the first argument
 
 Symmetry
 : $\langle \vec{v}, \vec{w}\rangle =\langle \vec{w}, \vec{v}\rangle$
+
+Positive-definiteness
+: $\langle \vec{v}, \vec{v} \rangle \geq 0$ with equality iff $\vec{v} = \vec{0}$.
