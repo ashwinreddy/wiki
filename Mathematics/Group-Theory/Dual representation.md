@@ -7,4 +7,4 @@ Consider elements $v \in V$ and $v^* \in V^\*$. They can be paired up so that $\
 \langle \rho^\*(g)(v^\*), \rho(g)(v) \rangle = c = v^*(v)
 \end{equation}
 
-Now note that $\rho^*(g)$ and $\rho(g)$ gives us matrices, which clearly will be related if Equation \ref{eq:nat-pair} is to hold.
+Now note that $\rho^\*(g)$ and $\rho(g)$ gives us matrices, which clearly will be related if Equation \ref{eq:nat-pair} is to hold. Let's just call $\rho(g)=A$ and $\rho^\*(g)=f(A)$
