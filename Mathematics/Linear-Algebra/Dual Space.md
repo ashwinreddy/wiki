@@ -11,5 +11,5 @@ We may well ask for a basis for $V^\*$. As a matter of economy, we allow the cho
 Consider $V^{**}=(V^\*)^\*$. An element $\Phi$ of $V^{\*\*}$ will take in a function $f: V \to \mathbb{R}$ and produce a number. How do we do this? Simply feed in an element $\vec{v} \in V$. So,
 
 $$
-\Phi_v(f) = f(v)
+\Phi_\vec{v}(f) = f(\vec{v})
 $$
