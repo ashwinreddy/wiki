@@ -10,4 +10,4 @@ The comptability condition intuitively says that the map needs to respect the gr
 
 # Examples
 
-A trivial example is $\varphi(g, x) = x$. Clearly, identity holds and it's easy to check compatability .
+A trivial example is $\varphi(g, x) = x$. Clearly, identity holds and it's easy to check compatability.
