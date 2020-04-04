@@ -13,3 +13,5 @@ Consider $V^{**}=(V^\*)^\*$. An element $\Phi$ of $V^{\*\*}$ will take in a func
 $$
 \Phi_\vec{v}(f) = f(\vec{v})
 $$
+
+**Fact**. If $\dim V < \infty$, then $V^{**} \cong V$ because the above is an isomorphism.
