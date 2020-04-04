@@ -10,8 +10,8 @@ A = \begin{bmatrix}
     \text{-} & \vec{a}_2^\top & \text{-} \\\\\
 \end{bmatrix} \\\\\
 B = \begin{bmatrix}
-    \vert & \dots & \vert \\\\\
-    b_1   & \dots & b_2   \\\\\
-    \vert & \dots & \vert
+    \vert &  & \vert \\\\\
+    b_1   & \dots & b_p   \\\\\
+    \vert &  & \vert
 \end{bmatrix}
 \end{gather\*}
