@@ -8,4 +8,4 @@ $$
 \varphi(g_1g_2) = \varphi(g_1) \circ \varphi(g_2)
 \end{equation}
 
-Let's say we're $G$ is the [[general linear group]] $\operatorname{GL}_n(\RR)$
+Let's say that $G$ is the [[general linear group]] $\operatorname{GL}_n(\RR)$ and our vector space is $\RR^n$.
