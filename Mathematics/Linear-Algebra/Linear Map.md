@@ -7,3 +7,4 @@ f(\vec{v}_1 + \vec{v}_2) = f(\vec{v}_1) + f(\vec{v}_2)
 \begin{equation}
 f(\lambda \vec{v}) = \lambda f(\vec{w})
 \end{equation}
+
