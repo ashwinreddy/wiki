@@ -7,3 +7,5 @@ $$
 \begin{equation}
 \varphi(g_1g_2) = \varphi(g_1) \circ \varphi(g_2)
 \end{equation}
+
+Effectively, this means that if $A \in G$, the representation $r$ transforms like $Ar$?
