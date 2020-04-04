@@ -1,1 +1,1 @@
-The direct product of [[group]]s $G$ and $H$
+The direct product of [[group]]s $G$ and $H$ is denoted $G \times H$ and consists of $(g,h)$ with the product given by $(g,h)\cdot(g',h')=(g \cdot g', h \cdot h')$
