@@ -11,4 +11,8 @@ Invertibility
 
 An **abelian group** is one for which $ab=ba$.
 
+Examples:
+- Rotations in 3D space
+- Addition of real numbers
+
 A **subgroup** for $G$ is a subset $H$ that satisfies the above given the same operation $(\cdot)$.
