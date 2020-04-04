@@ -5,3 +5,8 @@ Consider elements $v \in V$ and $v^* \in V^\*$. They can be paired up so that $\
 $$
 \langle \rho^*(g, v^*), \rho(g, v) \rangle = c
 $$
+
+$$
+\langle \rho^*(g, v^*), \rho(g, v) \rangle = v^*(v)
+$$
+
