@@ -6,8 +6,8 @@ Matrix multiplication defines a way to multiply an $m\times n$ matrix $A$ and an
 
 \begin{gather\*}
 A = \begin{bmatrix}
-    \text{-\-} & \vec{a}_1^\top & \text{-\-} \\\\\
-    \text{-\-} & \vec{a}_2^\top & \text{-\-} \\\\\
+    \text{-\--} & \vec{a}_1^\top & \text{-\--} \\\\\
+    \text{-\--} & \vec{a}_2^\top & \text{-\--} \\\\\
 \end{bmatrix} \\\\\
 B = \begin{bmatrix}
     \vert &  & \vert \\\\\
