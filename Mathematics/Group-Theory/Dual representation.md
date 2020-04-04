@@ -9,3 +9,5 @@ $$
 $$
 \rho^*(g)(v^*) \big[ \rho(g)(v)\big] = v^*(v)
 $$
+
+It turns out that we need $\rho^\star(g)=\rho(g^{-1})^\top$.
