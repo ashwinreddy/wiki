@@ -1,6 +1,7 @@
 The **fundamental theorem of calculus** describes the connection between derivatives and integrals.
 
-For a function $f: \RR \to \RR$
+For an integrable function $f: \RR \to \RR$, the definite integral can be computed using the antiderivative $F$ as
+
 \begin{equation}
 \int_a^b f(x) \,\dd{x} = F(b) - F(a)
 \end{equation}
