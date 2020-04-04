@@ -1,4 +1,4 @@
-A **group** is a set $G$ equipped with a associative binary composition operation $(\cdot): G \times G \to G$ that obeys
+A **group** is a [[set]] $G$ equipped with a associative binary composition operation $(\cdot): G \times G \to G$ that obeys
 
 Closure
 : $ a, b \in G \implies a\cdot b \in G$
