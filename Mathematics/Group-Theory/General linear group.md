@@ -1,1 +1,1 @@
-The **general linear group** of degree _n_ is the group of $n \times n$ invertible matrices with [[matrix multiplication]].
+The **general linear group** of degree _n_ is the [[group]] of $n \times n$ invertible matrices with [[matrix multiplication]].
