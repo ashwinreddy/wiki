@@ -1,0 +1,1 @@
+A **dual pair** is a $(X, Y, \langle \cdot, \cdot \rangle)$ for [[vector space]]s $X$ and $Y$ over the same field $F$ with $\langle \cdot, \cdot \rangle: X \times Y \to F$.
