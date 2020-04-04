@@ -1,0 +1,1 @@
+The acceleration is the [[derivative]] of [[velocity]].
