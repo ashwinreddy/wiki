@@ -10,3 +10,8 @@ $$
 \rho^*(g)(v^*) \big[ \rho(g)(v)\big] = v^*(v)
 $$
 
+We're going to lose some of the power of abstraction now, but let's assume that we can just represent elements of the general linear group with a matrix to get:
+
+$$
+A(v^*) \big[ B(v)\big] = v^*(v)
+$$
