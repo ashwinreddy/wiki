@@ -8,3 +8,4 @@ $$
 
 - For $V=\RR^n$, $f(\vec{v}) = \vec{a}^\top \vec{v}$.
 - Over a vector space of functions, an integral from $[0,1]$ would be a linear functional
+- Over a vector space of polynomials, evaluation at a point
