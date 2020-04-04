@@ -3,11 +3,11 @@ A **dual representation** for a [[group]] $G$ and its [[group representation]] $
 Consider elements $v \in V$ and $v^* \in V^\*$. They can be paired up so that $\langle v^\*, v\rangle = c$. All we're saying is that don't want our representation to mess this up:
 
 $$
-\langle \rho^*(g)(v^*), \rho(g)(v) \rangle = c
+\langle \rho^*(g)(v^*), \rho(g)(v) \rangle = c = v^*(v)
 $$
 
 $$
-\rho^*(g)(v^*) \big[ \rho(g)(v)\big] = v^*(v)
+\rho^*(g)(v^*) \big[ \rho(g)(v)\big] = 
 $$
 
 It turns out that we need $\rho^*(g)=\rho(g^{-1})^\top$.
