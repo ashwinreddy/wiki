@@ -1,0 +1,1 @@
+For vector spaces $V$ and $W$, $\operatorname{Hom}(V, W)$ is the set of all [[linear map]]s from $V$ to $W$.
