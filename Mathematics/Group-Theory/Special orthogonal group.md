@@ -1,1 +1,1 @@
-The special orthogonal group SO_n(q) is the subgroup of the elements of general orthogonal group GO_n(q) with determinant 1. SO_3 (often written SO(3)) is the rotation group for three-dimensional space.
+The **special orthogonal group** $\operatorname{SO}(n)$ is the [[subgroup]] of the elements of the general [[orthogonal group]] $O(n)$ with determinant 1. SO_3 (often written SO(3)) is the rotation group for three-dimensional space.
