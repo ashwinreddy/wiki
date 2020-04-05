@@ -7,3 +7,9 @@ $$
 $$
 \lVert \vec{v} \rVert_2 = \sqrt{\sum_{i} v_i^2 }
 $$
+
+Conveniently, the 2-norm has the property that
+
+$$
+\lVert \vec{v} \rVert_2^2 = \sum_{i} v_i^2 = \vec{v}^\top\vec{v}
+$$
