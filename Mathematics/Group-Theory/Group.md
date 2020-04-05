@@ -19,5 +19,6 @@ The order of a group is just the size of its underlying set.
 - $(\mathbb{Z}, +)$
 - $(\mathbb{Q}\setminus \\{0\\}, \times)$
 - Rotations in 3D space
+- Complex numbers $z$ with $|z|=1$ with multiplication
 - Addition of real numbers
 - Addition of even integers (odd integers would not work)
