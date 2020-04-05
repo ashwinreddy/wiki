@@ -1,5 +1,5 @@
 The **wedge product**  
 
 $$
-v \wedge v = 0
+v \wedge \land v = 0
 $$
