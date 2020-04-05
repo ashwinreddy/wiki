@@ -1,5 +1,9 @@
 The **wedge product**  
 
 $$
-v \wedge \land v = 0
+v \wedge v = 0
+$$
+
+$$
+v \wedge w = - w \wedge v
 $$
