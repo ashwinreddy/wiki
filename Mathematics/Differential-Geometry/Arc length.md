@@ -11,6 +11,7 @@ $$
 $$
 
 Using the [[metric tensor]], we find that 
+
 $$
-\lVert \dv{\vec\alpha(t)}{t} \rVert = {g_{ij}\dv{x^i}{t}\dv{x^j}{t}
+\lVert \dv{\vec\alpha(t)}{t} \rVert = g_{ij}\dv{x^i}{t}\dv{x^j}{t}
 $$
