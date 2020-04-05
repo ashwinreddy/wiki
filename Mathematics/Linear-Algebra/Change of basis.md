@@ -1,1 +1,1 @@
-Generate distinct [[basis]] $B$ and $B'$
+Generate distinct [[basis]] $B$ and $B'$ for a vector space $V$.
