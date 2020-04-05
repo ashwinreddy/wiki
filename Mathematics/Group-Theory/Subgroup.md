@@ -1,1 +1,1 @@
-A **subgroup** for 𝐺 is a [[subset]] 𝐻 that satisfies the above given the same operation
+A **subgroup** for a group $(G,\cdot)$ is a $(H, \cdot)$ where $H$ is a [[subset]] of $G$ that satisfies the group properties with $\cdot$.
