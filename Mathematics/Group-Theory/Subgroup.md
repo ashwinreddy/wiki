@@ -1,0 +1,1 @@
+A **subgroup** for 𝐺 is a [[subset]] 𝐻 that satisfies the above given the same operation
