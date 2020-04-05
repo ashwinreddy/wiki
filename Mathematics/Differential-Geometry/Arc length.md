@@ -1,5 +1,5 @@
-For a curve $\alpha: I \to \RR^n$,
+For a curve $\vec\alpha: I \to \RR^n$, we can find arc length by adding up the infinitesimal distances travelled. Remember that distance is the integral of speed, so
 
 $$
-s = \int_a^b \lVert \alpha(t) \rVert \dd{t}
+s = \int_a^b \lVert \vec\alpha(t) \rVert \dd{t}
 $$
