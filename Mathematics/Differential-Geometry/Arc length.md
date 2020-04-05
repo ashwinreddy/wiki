@@ -6,5 +6,5 @@ $$
 
 
 $$
-\dv{\vec\alpha(t)}{t} = \dv{x^i}{t}\pdv{\vec\alpha}{x^i}
+\dv{\vec\alpha(t)}{t} = \pdv{\vec\alpha}{x^i}\dv{x^i}{t}
 $$
