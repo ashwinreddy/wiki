@@ -5,3 +5,6 @@ A coordinate chart is an injective map $\phi: U \to V$ where $U$ is an open set 
 An atlas on $M$ is $\\{(U_\alpha, \phi_\alpha)\\}$ with
 
 * $\bigcup_{\alpha} U_\alpha = M$
+* The charts are sewn together with transition functions
+
+Consider an element of $P \in U_\alpha \cap U_\beta$.
