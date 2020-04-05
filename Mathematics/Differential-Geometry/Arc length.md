@@ -7,10 +7,5 @@ $$
 The differential form tells us
 
 $$
-\vec\alpha(t) = \pdv{\vec\alpha}{x^i}\dd{x^i}
-$$
-
-
-$$
-\dv{\vec\alpha(t)}{t} = \pdv{\vec\alpha}{x^i}\dv{x^i}{t}
+\vec\alpha(t) = \pdv{\vec\alpha}{x^i}\dd{x^i} \implies \dv{\vec\alpha(t)}{t} = \pdv{\vec\alpha}{x^i}\dv{x^i}{t}
 $$
