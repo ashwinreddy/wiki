@@ -13,6 +13,11 @@ An **abelian group** is one for which $ab=ba$. A **subgroup** for $G$ is a [[sub
 
 The order of a group is just the size of its underlying set.
 
+# Properties
+
+$$
+(ab)^{-1}=b^{-1}a^{-1}
+$$
 
 # Examples
 
