@@ -4,7 +4,13 @@ $$
 s = \int_a^b \left\lVert \dv{\vec\alpha(t)}{t} \right\rVert \dd{t}
 $$
 
+The differential form tells us
 
 $$
 \vec\alpha(t) = \pdv{\vec\alpha}{x^i}\dd{x^i}
+$$
+
+
+$$
+\dv{\vec\alpha(t)}{t} = \pdv{\vec\alpha}{x^i}\dv{x^i}{t}
 $$
