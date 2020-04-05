@@ -17,6 +17,7 @@ The order of a group is just the size of its underlying set.
 # Examples
 
 - $(\mathbb{Z}, +)$
+- $(\mathbb{Q}\setminus \\{0\\}, \times)
 - Rotations in 3D space
 - Addition of real numbers
 - Addition of even integers (odd integers would not work)
