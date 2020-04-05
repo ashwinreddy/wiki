@@ -1,3 +1,3 @@
 $$
-\choose{n}
+\choose{nk}
 $$
