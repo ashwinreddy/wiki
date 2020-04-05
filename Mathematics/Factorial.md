@@ -4,4 +4,4 @@ $$
 n! = n\times (n-1)\times\dots 2 \times 1
 $$
 
-$0!=1$
+By extension of the pattern, $0!=1$.
