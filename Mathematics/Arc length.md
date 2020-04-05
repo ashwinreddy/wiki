@@ -1,3 +1,3 @@
 $$
-s = \int_a^b ds
+s = \int_a^b \dd{s}
 $$
