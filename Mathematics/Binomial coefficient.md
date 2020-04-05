@@ -1,3 +1,3 @@
 $$
-\choose{n}{k}
+\choose[k]{n}{k}
 $$
