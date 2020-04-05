@@ -6,4 +6,8 @@ $$
 
 By extension of the pattern, $0!=1$.
 
-Factorial is extended by gamma function.
+# Stirling's approximation
+
+$$
+n! \approx \sqrt{2\pi n}(n/e)^n
+$$
