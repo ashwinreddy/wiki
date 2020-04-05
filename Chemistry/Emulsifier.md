@@ -1,0 +1,1 @@
+An **emulsifier** allows immiscible liquids to mix. An example would be lecithin (in egg yolk) because it lets water and oil mix.
