@@ -1,1 +1,1 @@
-[[basis]]
+Generate distinct [[basis]] $B$ and $B'$
