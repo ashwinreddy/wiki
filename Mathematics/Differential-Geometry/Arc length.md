@@ -13,5 +13,5 @@ $$
 Using the [[metric tensor]], we find that 
 
 $$
-\lVert \dv{\vec\alpha(t)}{t} \rVert = g_{ij}\dv{x^i}{t}\dv{x^j}{t}
+\left\lVert \dv{\vec\alpha(t)}{t} \right\rVert = \sqrt{g_{ij}\dv{x^i}{t}\dv{x^j}{t}}
 $$
