@@ -1,1 +1,1 @@
-A **subgroup** for a group $(G,\cdot)$ is a $(H, \cdot)$ where $H$ is a [[subset]] of $G$ that satisfies the group properties with $(\cdot)$.
+A **subgroup** for a [[group]] $(G,\cdot)$ is a $(H, \cdot)$ where $H$ is a [[subset]] of $G$ that satisfies the group properties with $(\cdot)$.
