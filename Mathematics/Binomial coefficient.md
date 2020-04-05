@@ -1,3 +1,3 @@
 $$
-\{n \choose k \} \triangleq \frac{n!}{(n-k)!k!}
+\binom \triangleq \frac{n!}{(n-k)!k!}
 $$
