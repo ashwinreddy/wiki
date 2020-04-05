@@ -4,4 +4,4 @@ A coordinate chart is an injective map $\phi: U \to V$ where $U$ is an open set 
 
 An atlas on $M$ is $\\{(U_\alpha, \phi_\alpha)\\}$ with
 
-* $\bigcap_{\alpha} U_\alpha = M$
+* $\bigcup_{\alpha} U_\alpha = M$
