@@ -5,5 +5,5 @@ s = \int_a^b \left\lVert \dv{\vec\alpha(t)}{t} \right\rVert \dd{t}
 $$
 
 $$
-\lVert \vec\alpha(t) \rVert 
+\dv{\vec{\alpha}(t)}{t}
 $$
