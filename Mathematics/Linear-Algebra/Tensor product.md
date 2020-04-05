@@ -4,3 +4,4 @@ $$
 T = V \otimes W
 $$
 
+will be a $(m_1 + m_2, n_1 + n_2)$ tensor.
