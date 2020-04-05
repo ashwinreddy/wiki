@@ -1,0 +1,1 @@
+For a [[manifold]], the tangent space $T_pM$ is a copy of $\RR^n$ tangential to $M$ at $p$.
