@@ -1,3 +1,3 @@
 $$
-\choose{n}{k}
+\choose{n}
 $$
