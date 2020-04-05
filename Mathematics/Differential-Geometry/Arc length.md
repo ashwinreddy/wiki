@@ -3,7 +3,3 @@ For a curve $\vec\alpha: I \to \RR^n$, we can find arc length by adding up the i
 $$
 s = \int_a^b \left\lVert \dv{\vec\alpha(t)}{t} \right\rVert \dd{t}
 $$
-
-$$
-\dv{\vec{\alpha}(t)}{t}
-$$
