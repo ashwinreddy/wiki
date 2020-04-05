@@ -10,5 +10,5 @@ An atlas on $M$ is $\\{(U_\alpha, \phi_\alpha)\\}$ with
 Consider an element of $P \in U_\alpha \cap U_\beta$ with a representation $P_\alpha$ in $U_\alpha$ and $P_\beta$ in $U_\beta$.
 
 $$
-P_{\alpha} = \phi_\alpha(P) = \phi_\alpha \circ \phi_\beta^{-1}(P_2)
+P_{\alpha} = \phi_\alpha(P) = \overbrace{\phi_\alpha \circ \phi_\beta^{-1}}^{\text{transition function}}(P_2)
 $$
