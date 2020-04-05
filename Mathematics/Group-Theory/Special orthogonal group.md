@@ -1,1 +1,1 @@
-The **special orthogonal group** $\operatorname{SO}(n)$ is the [[subgroup]] of the elements of the general [[orthogonal group]] $O(n)$ with determinant 1. SO_3 (often written SO(3)) is the rotation group for three-dimensional space.
+The **special orthogonal group** $\operatorname{SO}(n)$ is the [[subgroup]] of the elements of the general [[orthogonal group]] $\operatorname{O}(n)$ with determinant 1. SO(3) is the rotation group for three-dimensional space.
