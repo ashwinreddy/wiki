@@ -1,1 +1,1 @@
-A symmetric matrix is a [[matrix]] whose [[transpose]] is itself.
+A symmetric matrix is a [[square matrix]] whose [[transpose]] is itself.
