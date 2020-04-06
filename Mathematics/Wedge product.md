@@ -11,5 +11,5 @@ $$
 For a $p$-[[differential form]] $A$ and $q$-form $B$, $A \wedge B$ is a $p+q$ form
 
 $$
-\left(A \wedge B\right)_{i_1\dots i_{p+q}} = {p + q \choose p}
+\left(A \wedge B\right)_{i_1\dots i_{p+q}} = {p + q \choose p} A_{[i_1 \dots i_p}B_{i_{p+1}\dots i_{p+q}]}
 $$
