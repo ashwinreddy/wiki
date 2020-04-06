@@ -12,7 +12,8 @@ $$
 $$
 
 Nilpotency
-
-$$
+: $$
 \dd{(\dd{A})} = 0
 $$
+
+Which is sometimes just written as $d^2 = 0$
