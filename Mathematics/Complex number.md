@@ -1,0 +1,1 @@
+A **complex number** is a $z = a + b \iota$ for $a, b \in \RR$ and $\iota$ the imaginary uint.
