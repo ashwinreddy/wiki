@@ -3,5 +3,5 @@ A **complex number** is a $z = a + b \iota$ for $a, b \in \RR$ and $\iota$ the [
 One way to represent a complex number is with a matrix. 
 
 $$
-\varphi(a + b\iota) = \begin{bmatrix} a & -b \\ b & a \end{bmatrix}
+\begin{bmatrix} a & -b \\ b & a \end{bmatrix}
 $$
