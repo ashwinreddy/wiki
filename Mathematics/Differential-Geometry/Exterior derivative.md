@@ -11,6 +11,8 @@ $$
 \dd{(A \wedge B)} = \dd{A} \wedge B + (-1)^p A \wedge \dd{B}
 $$
 
+Nilpotency
+
 $$
 \dd{(\dd{A})} = 0
 $$
