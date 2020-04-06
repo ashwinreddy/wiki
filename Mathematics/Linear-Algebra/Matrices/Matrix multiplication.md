@@ -24,3 +24,9 @@ The $(i,j)$th entry of the result is the inner product of the $i$th row of $A$ a
 \begin{equation}
 C\_{ij} =  \vec{a}_i^\top \vec{b}_j
 \end{equation}
+
+Matrix multiplication is generically not commutative. Apart from that, however, matrices operate as we might normally think they would so that
+
+$$
+(A+B)(A+B) = A^2 + AB + BA + B^2
+$$
