@@ -18,7 +18,7 @@ Define a polynomial $Q(x) = P(x)E(x)$. $Q(x)$ is a degree $n+k-1$ polynomial. It
 Q(i) = r_i E(i), \qquad i = 1, \dots, n + 2k
 \end{equation}
 
-We know that $Q(x)$ could be described as
+We know that $Q(x)$ could be described with _n+k_ unknown coefficients
 
 $$
 Q(x) = \sum_{i=1}^{n+k} a_i x^i
