@@ -2,5 +2,5 @@ The number of permutations for choosing $k$ from $n$ is given by the falling fac
 
 Falling factorial
 : $$
-x^{\bar{n}} = \prod_{k=0}^{n-1} (x-k)
+x^{\underbar{n}} = \prod_{k=0}^{n-1} (x-k)
 $$
