@@ -1,3 +1,5 @@
+**Polynomial**
+
 # Properties
 
 * A non-zero polynomial of degree _d_ has at most _d_ roots
