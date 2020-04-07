@@ -18,8 +18,6 @@ Define a polynomial $Q(x) = P(x)E(x)$. $Q(x)$ is a degree $n+k-1$ polynomial. It
 Q(i) = r_i E(i), \qquad i = 1, \dots, n + 2k
 \end{equation}
 
-Equation \ref{eq:berlekamp-welch} is true for _n+2k_ values but trivially so for the corrupted messages. So we actually have _n+k_ useful equations.
-
 We know that $Q(x)$ could be described with _n+k_ unknown coefficients
 
 $$
