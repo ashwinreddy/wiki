@@ -6,3 +6,5 @@
 $$
 \text{degree } d \text{ polynomial} \iff d+1 \text{ points}
 $$
+
+[[Lagrange interpolation]] is an algorithm that constructs such a polynomial from the points.
