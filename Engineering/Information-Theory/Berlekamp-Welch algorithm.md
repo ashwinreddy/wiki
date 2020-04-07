@@ -13,12 +13,19 @@ $$
 
 Define a polynomial $Q(x) = P(x)E(x)$. $Q(x)$ is a degree $n+k-1$ polynomial. It holds that
 
-$$
+\begin{equation}
+\label{eq:berlekamp-welch}
 Q(i) = r_i E(i), \qquad i = 1, \dots, n + 2k
-$$
+\end{equation}
 
 We know that $Q(x)$ could be described as
 
 $$
 Q(x) = \sum_{i=1}^{n+k-1} a_i x^i
+$$
+
+So if we group together the unknown coefficients $a_i$ and $b_i$ we have $n+2k$ values. Yet Equation \ref{eq:berlekamp-welch} provides a linear system with $n+2k$ equations and known values. So simply use Gaussian elimination to recover $E$ and $Q$ and realize
+
+$$
+P(x) = \frac{Q(x)}{E(x)} = \frac{\sum_{i=1}^{n+k-1} a_i x^i}{x^k + \sum_{i=1}^{k-1} b_{i} x^{i}}
 $$
