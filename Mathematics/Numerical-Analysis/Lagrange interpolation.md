@@ -13,5 +13,5 @@ $$
 Then,
 
 $$
-p(x) = \sum_{i=1}^d y_i \Delta_i(x)
+p(x) = \sum_{i=1}^{d+1} y_i \Delta_i(x)
 $$
