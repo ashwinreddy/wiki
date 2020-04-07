@@ -4,8 +4,8 @@ $$
 (n-1) \choose (k-1)
 $$
 
-If a bin can be empty,
+If a bin can be empty, then the value is
 
 $$
-\left(\!\!{n \choose k}\!\!\right) \triangleq {n+k-1 \choose k}
+\triangleq {n+k-1 \choose k-1}
 $$
