@@ -8,7 +8,7 @@ Error-locator polynomial
 Knowing the error-locator polynomial means knowing where the errors are. We'll notice that an expansion of $E(x)$ would have $k-1$ unknown coefficients $b_i$:
 
 $$
-E(x) = x^k + \sum_{i=1}^{k-1} b_{i} x^{i}
+E(x) = x^k + \sum_{i=1}^{k} b_{i} x^{i}
 $$
 
 Define a polynomial $Q(x) = P(x)E(x)$. $Q(x)$ is a degree $n+k-1$ polynomial. It holds that
@@ -21,7 +21,7 @@ Q(i) = r_i E(i), \qquad i = 1, \dots, n + 2k
 We know that $Q(x)$ could be described as
 
 $$
-Q(x) = \sum_{i=1}^{n+k-1} a_i x^i
+Q(x) = \sum_{i=1}^{n+k} a_i x^i
 $$
 
 So if we group together the unknown coefficients $a_i$ and $b_i$ we have $n+2k$ values. Yet Equation \ref{eq:berlekamp-welch} provides a linear system with $n+2k$ equations and known values. So simply use Gaussian elimination to recover $E$ and $Q$ and realize
