@@ -8,7 +8,7 @@ Error-locator polynomial
 Knowing the error-locator polynomial means knowing where the errors are. We'll notice that an expansion of $E(x)$ would have $k-1$ unknown coefficients $b_i$:
 
 $$
-E(x) = x^k + \sum_{i=1}^{k} b_{i} x^{i}
+E(x) = x^k + \sum_{i=1}^{k-1} b_{i} x^{i}
 $$
 
 Define a polynomial $Q(x) = P(x)E(x)$. $Q(x)$ is a degree $n+k-1$ polynomial. It holds that
