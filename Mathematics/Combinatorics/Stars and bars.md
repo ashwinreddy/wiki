@@ -7,5 +7,5 @@ $$
 If a bin can be empty, then the value is
 
 $$
-\triangleq {n+k-1 \choose k-1}
+n+k-1 \choose k-1
 $$
