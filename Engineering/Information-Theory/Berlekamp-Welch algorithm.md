@@ -7,8 +7,10 @@ Error-locator polynomial
 E(x) = \prod_{i=1}^k (x - e_i)
 $$
 
-It holds that
+Define a polynomial $Q(x) = P(x)E(x)$. It holds that
 
 $$
-P(i) E(i) = r_i E(i), \qquad i = 1, \dots, n + 2k
+Q(i) = r_i E(i), \qquad i = 1, \dots, n + 2k
 $$
+
+Bob
