@@ -4,3 +4,7 @@ Falling factorial
 : $$
 x^{\underline{n}} = \prod_{k=0}^{n-1} (x-k)
 $$
+
+$$
+P(n, k) = \frac{n!}{(n-k)!} = 
+$$
