@@ -7,5 +7,5 @@ $$
 If a bin can be empty,
 
 $$
-\left(\!\!{n \choose k}\!\!\right)={n+k-1 \choose k}={\frac {(n+k-1)!}{k!\,(n-1)!}}={n(n+1)(n+2)\cdots (n+k-1) \over k!},
+\left(\!\!{n \choose k}\!\!\right)={n+k-1 \choose k}
 $$
