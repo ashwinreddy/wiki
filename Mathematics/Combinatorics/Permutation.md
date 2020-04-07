@@ -1,5 +1,5 @@
-The number of permutations for choosing $k$ from $n$ is
+The number of permutations for choosing $k$ from $n$ is given by the [[falling factorial]].
 
 $$
-P(n, k) = \frac{n!}{(n-k)!} = n \times (n-1)\times\dots \times(n-k+2) \times(n-k+1)
+x^{\bar{n}} = \prod_{k=0}^{n-1} (x-k)
 $$
