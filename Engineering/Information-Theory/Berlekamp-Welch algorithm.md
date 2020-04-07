@@ -3,11 +3,11 @@ The Berlekamp-Welch algorithm protects against general errors in transmissions. 
 _k_ of those will be corrupted and Bob gets $r_i$'s instead. Let $e_1, \dots, e_k$ represent the locations of the errors. 
 
 Error-locator polynomial
-: $$
+: A degree _k_ polynomial defined as $$
 E(x) = \prod_{i=1}^k (x - e_i)
 $$
 
-Define a polynomial $Q(x) = P(x)E(x)$. It holds that
+Define a polynomial $Q(x) = P(x)E(x)$. $Q(x)$ is a degree $n+k-1$ polynomial. It holds that
 
 $$
 Q(i) = r_i E(i), \qquad i = 1, \dots, n + 2k
