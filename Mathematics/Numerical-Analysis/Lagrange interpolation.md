@@ -7,11 +7,11 @@ $$
 This polynomial has the following property where $\delta$ is the [[Kronecker delta]]
 
 $$
-Ddelta_i(x_j) = \delta_{ij}
+\Delta_i(x_j) = \delta_{ij}
 $$
 
 Then,
 
 $$
-p(x) = \sum_i y_i \Delta_i
+p(x) = \sum_{i=1}^d y_i \Delta_i
 $$
