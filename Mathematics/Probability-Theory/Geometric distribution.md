@@ -1,3 +1,3 @@
 $$
-X \sim \operatorname{Geometric}(p)
+X \sim \operatorname{Geometric}(p) \implies \Pr(X = k) = (1-p)^{k-1} p
 $$
