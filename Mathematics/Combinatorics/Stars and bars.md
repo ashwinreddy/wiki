@@ -7,5 +7,5 @@ $$
 If a bin can be empty,
 
 $$
-\left(\!\!{n \choose k}\!\!\right)={n+k-1 \choose k}
+\left(\!\!{n \choose k}\!\!\right) \triangleq {n+k-1 \choose k}
 $$
