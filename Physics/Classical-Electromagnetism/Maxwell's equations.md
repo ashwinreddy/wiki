@@ -3,6 +3,7 @@ Maxwell's equations describe how to create electric field $\vec{E}$ and magnetic
 |Name|Differential Form|Integral Form|
 |-----|-----------------|-------------|
 |Gauss's law|$\vec\nabla \cdot \vec{E} = \rho/\varepsilon_0$|$\oint_S \vec{E}\cdot\dd{\vec{A}} = Q/\varepsilon_0$|
+|No monopole|$\vec\nabla \cdot \vec{B} = 0$|$\oint_S \vec{B}\cdot\dd{\vec{A}} = 0$|
 
 \begin{gather}
 \vec\nabla \cdot \vec{E} = \rho/\varepsilon_0 \\\\\
