@@ -1,0 +1,1 @@
+The **halting problem** is the problem of determining whether a program and input will halt or not. Alan Turing proved that no general algorithm exists to solve the halting problem.
