@@ -1,7 +1,1 @@
-$$
-\frac{\dd{}^2 x }{\dd{t^2}} = -\omega^2x^2
-$$
-
-$$
-
-$$
+Simple harmonic motion is the periodic motion when restoring force is directly proportional to displacement.
