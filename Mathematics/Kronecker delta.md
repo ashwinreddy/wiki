@@ -1,5 +1,5 @@
-The **Kronecker delta** is just a shorthand symbol
+The **Kronecker delta** is just a shorthand symbol given below (using [[Iverson bracket]])
 
 $$
-\delta_{ij} \triangleq \begin{cases} 1 & i = j \\ 0 & i \neq j \end{cases}
+\delta_{ij} \triangleq [i=j]
 $$
