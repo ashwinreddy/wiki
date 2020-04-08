@@ -1,1 +1,0 @@
-Atoms are the smallest discrete unit of matter. An atom has a nucleus with protons and neutrons and electrons.
