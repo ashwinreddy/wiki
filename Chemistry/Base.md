@@ -1,0 +1,1 @@
+A base is a proton acceptor.
