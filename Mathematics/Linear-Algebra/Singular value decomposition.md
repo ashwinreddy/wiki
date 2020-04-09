@@ -4,6 +4,8 @@ $$
 A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
 $$
 
+The [[range]] of $A$
+
 # Intuition
 
 The key equations here are
