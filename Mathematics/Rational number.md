@@ -1,1 +1,1 @@
-A rational number is one that can be expressed as $p \over q$
+A rational number is one that can be expressed as $p \over q$ for integers $p$ and nonzero $q$.
