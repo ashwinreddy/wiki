@@ -14,5 +14,5 @@ Equilibrium point
 : A state $\vec{x}$ for a constant input $\vec{u}$ is an $\vec{x}$ such that $f(\vec{x}, \vec{u})=0$.
 
 $$
-\tilde{\vec{x}}(t) = \vec{x}(t)-\vec{x}^\star
+\tilde{\vec{x}}(t) = \vec{x}(t)-\vec{x}^\star,\quad \tilde{\vec{u}}(t) = \vec{u}(t)-\vec{u}^\star,
 $$
