@@ -6,4 +6,4 @@ $$
 
 # Computation
 
-You can choose to use either $A^\top A$ or $AA^\top$ to find the SVD.
+You may choose to use either $A^\top A$ or $AA^\top$ to find the SVD. In either case, the first step is to find its eigenvalues (they will be equal)
