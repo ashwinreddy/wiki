@@ -4,8 +4,12 @@ $$
 \operatorname{rank}(A) \triangleq \dim \mathcal{R}(A)
 $$
 
-A handy observation is that if $A$ is $m \times n$, then
+# Properties
 
 $$
 0 \leq \operatorname{rank}(A) \leq \min (m, n)
+$$
+
+$$
+\operatorname{rank} AB \leq \min(\operatorname{rank} A, \operatorname{rank} B)
 $$
