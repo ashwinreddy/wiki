@@ -5,7 +5,7 @@
 A = U\Sigma V^\top
 \end{equation}
 
-Every variant, however, of SVD is just a description
+Every variant, however, of SVD is just a description of
 
 $$
 A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
