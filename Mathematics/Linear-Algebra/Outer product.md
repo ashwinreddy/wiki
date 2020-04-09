@@ -5,4 +5,8 @@ A = \vec{u}\vec{v}^\top \implies A_{ij} = u_i v_j
 $$
 
 
-**Fun fact**. If $m=n$, then the [[trace]] of the outer product is an [[inner product]].
+# Properties
+
+If $m=n$, then the [[trace]] of the outer product is an [[inner product]].
+
+* An outer product has rank 0 or 1.
