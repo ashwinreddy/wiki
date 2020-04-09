@@ -4,6 +4,8 @@ $$
 A = U\Sigma V^\top
 $$
 
+# Variants
+
 The dimensions of these matrices depend on the variant.
 
 |Type|$U$|$\Sigma$|$V$|
