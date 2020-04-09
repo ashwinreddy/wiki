@@ -1,0 +1,1 @@
+A **linear differential equation** is one that is a linear polynomial in the unknown function and its derivatives.
