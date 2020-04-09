@@ -4,4 +4,8 @@ $$
 A = PDP^{-1} \iff AP = PD
 $$
 
-You might notice that the $AP=PD$ condition is actually a way of simultaneously satisfying all the [[eigenpairs]] equations
+You might notice that the $AP=PD$ condition is actually a way of simultaneously satisfying all the [[eigenpairs]] equations to realize
+
+$$
+AV = V \Lambda
+$$
