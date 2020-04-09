@@ -14,6 +14,13 @@ $$
 A^\top A \vec{v}_i = \lambda_i \vec{v}_i,\quad i=1, \dots, n.
 $$
 
+Let's verify this:
+
+$$
+A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
+$$
+
+
 $$
 \sigma_i = \sqrt{\lambda_i},\quad i = 1, \dots, r
 $$
