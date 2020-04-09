@@ -6,6 +6,9 @@ $$
 \mathscr{C} = \begin{bmatrix} B & AB & \dots & A^{n-2}B & A^{n-1}B \end{bmatrix}
 $$
 
+Controllable
+: A system is controllable if for every $x_{\text{target}} \in \RR^n$, there exists a sequence of inputs $\vec{u}$ from any initial state $\vec{x}(0)$ to get to $\vec{x}_{\text{target}}$.
+
 
 If $\mathscr{C}$ is full rank, (i.e. $\operatorname{rank} \mathscr{C} = n$) [^rank] the system is controllable.
 
