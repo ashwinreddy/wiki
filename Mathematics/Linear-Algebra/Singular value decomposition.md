@@ -12,7 +12,5 @@ You may choose to use either $A^\top A$ or $AA^\top$ to find the SVD. In either 
 |Step|$A^\top A$|$AA^\top$|
 |----|-----------|--------|
 |1. Find eigenvalues|||
-
-$\vec{v}_i$|
-$\vec{u}_i$|
+|2. Find one set of eigenvectors|$\vec{v}_i$|$\vec{u}_i$|
 
