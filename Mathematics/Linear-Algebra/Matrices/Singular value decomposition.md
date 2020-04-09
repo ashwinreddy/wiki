@@ -5,6 +5,12 @@
 A = U\Sigma V^\top
 \end{equation}
 
+Every variant, however, of SVD is just a description
+
+$$
+A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
+$$
+
 $$
 A^\top A = V\Sigma U^\top U \Sigma V^\top = V \Sigma^2 V^\top
 $$
