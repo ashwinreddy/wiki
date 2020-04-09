@@ -1,4 +1,4 @@
-**Singular value decomposition (SVD)** is a [[matrix decomposition]] that can be applied to any $m \times n$ matrix $A$ of rank $r$. For matrices $U$ and $V$ and matrix $\Sigma$, every matrix admits:
+**Singular value decomposition (SVD)** is a [[matrix decomposition]] that can be applied to any $m \times n$ matrix $A$ of rank $r$. SVD comes in many variants. The full SVD decomposes $A$ into two rotations represented by [[orthogonal matrices|orthogonal matrix]] $U$ and $V$ and a stretching by [[diagonal matrix]] $\Sigma$:
 
 $$
 A = U\Sigma V^\top
