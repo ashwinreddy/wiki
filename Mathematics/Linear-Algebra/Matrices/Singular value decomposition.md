@@ -8,6 +8,10 @@ $$
 A^\top A = V\Sigma U^\top U \Sigma V^\top = V \Sigma^2 V^\top
 $$
 
+$$
+AA^\top = U\Sigma V^\top = V \Sigma U^\top
+$$
+
 # Variants
 
 The dimensions of these matrices depend on the variant.
