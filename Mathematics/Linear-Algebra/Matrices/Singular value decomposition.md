@@ -1,6 +1,7 @@
 **Singular value decomposition (SVD)** is a [[matrix decomposition]] that can be applied to any $m \times n$ matrix $A$ of rank $r$. SVD comes in many variants. The full SVD decomposes $A$ into two rotations represented by [[orthogonal matrices|orthogonal matrix]] $U$ and $V$ and a stretching by [[diagonal matrix]] $\Sigma$:
 
 $$
+\label{eq:full-svd}
 A = U\Sigma V^\top
 $$
 
@@ -10,6 +11,14 @@ $$
 
 $$
 AA^\top = U\Sigma V^\top V \Sigma U^\top = U\Sigma^2 U^\top
+$$
+
+# Connection to Eigenpairs
+
+Notice an alternate way of writing Equation \ref{eq:full-svd}
+
+$$
+AV = U \Sigma
 $$
 
 # Variants
