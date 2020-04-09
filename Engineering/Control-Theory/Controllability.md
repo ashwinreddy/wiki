@@ -7,6 +7,6 @@ $$
 $$
 
 
-If $C$ is full rank, (i.e. $\operatorname{rank} C = n$) [^rank] the system is controllable.
+If $\mathscr{C}$ is full rank, (i.e. $\operatorname{rank} \mathscr{C} = n$) [^rank] the system is controllable.
 
-[^rank]: Full means $\operatorname{rank}(C) = \min(n, mn) = n$.
+[^rank]: Full means $\operatorname{rank}(\mathscr{C}) = \min(n, mn) = n$.
