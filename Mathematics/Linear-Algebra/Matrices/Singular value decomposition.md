@@ -14,7 +14,7 @@ There are $\operatorname{rank} A$ singular values $\sigma_i > 0$.
 $V$ represents the eigenvectors of $A^\top A$.
 
 $$
-A^\top A = V\Sigma U^\top U \Sigma V^\top = V \Sigma^2 V^\top
+A^\top A = V\Sigma^\top U^\top U \Sigma V^\top = V \Sigma^top \Sigma V^\top
 $$
 
 $U$ represents the eigenvectors of $AA^\top$.
