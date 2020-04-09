@@ -1,0 +1,1 @@
+The **null space** of a matrix $A$ is the set of vectors $\vec{x}$ such that $A\vec{x}=\vec{0}$.
