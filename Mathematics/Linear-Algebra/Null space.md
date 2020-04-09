@@ -1,5 +1,5 @@
-The **null space** of a matrix $A$ is given by
+The **null space** of a matrix $A \in \RR^{m \times n}$ is given by
 
 $$
-\mathscr{N}(A)
+\mathcal{N}(A) \triangleq \\{ \vec{x} \in \RR^ | \\}
 $$
