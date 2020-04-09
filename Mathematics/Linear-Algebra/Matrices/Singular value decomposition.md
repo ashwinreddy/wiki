@@ -25,7 +25,7 @@ $$
 
 |Space|Matrix|Elements|Intuition|
 |-----|------|--------|----------|
-|Column space|$U$|First $r$ columns|$A\vec{x} = \sum\_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top\vec{x} = \sum_{i=1}^r   \langle \sigma_i\vec{v}_i, \vec{x} \rangle \vec{u}_i$|
+|Column space|$U$|First $r$ columns|$A\vec{x} = \sum\_{i=1}^r \sigma\_i \vec{u}\_i \vec{v}\_i^\top\vec{x} = \sum\_{i=1}^r   \langle \sigma\_i\vec{v}\_i, \vec{x} \rangle \vec{u}_i$|
 |Null space|$V$|Last $n-r$ columns|
 |Row space|$V$|First $r$ columns|
 
