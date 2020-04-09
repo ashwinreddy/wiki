@@ -1,4 +1,4 @@
-A system is controllable if we can go from any initial state to any final state. Consider a linear time invariant [[state space representation]]. 
+A system is controllable if we can go from any initial state to any final state. Consider a linear time invariant [[state space representation]]. The state space is dimension $n$ and the action space is dimension $m$. So $A$ is $n \times n$ and $B$ is $n \times m$
 
 Construct a matrix
 
