@@ -25,7 +25,7 @@ $$
 
 
 
-The [[range]] of $A$ is the span of the first $r$ vectors $\vec{u}_i$ (which agrees with the [[rank]]). We can see this more concretely:
+The column space of $A$ comes from the first $r$ columns of $U$ (i.e. $\vec{u}_1,\dots,\vec{u}_r$). As a quick proof,
 
 $$
 A\vec{x} = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top\vec{x} = \sum_{i=1}^r   \langle \sigma_i\vec{v}_i, \vec{x} \rangle \vec{u}_i
