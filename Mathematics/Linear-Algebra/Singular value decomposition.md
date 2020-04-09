@@ -10,7 +10,7 @@ $$
 A\vec{x} = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top\vec{x} = \sum_{i=1}^r   \langle \sigma_i\vec{v}_i, \vec{x} \rangle \vec{u}_i
 $$
 
-By the [[fundamental theorem of linear algebra]], the null space of $A$ comes from the $\vec{v}_i$ with singular values.
+By the [[fundamental theorem of linear algebra]], the null space of $A$ comes from the $\vec{v}_i$ with singular values, the orthogonal complement to the columns of $V$.
 
 # Intuition
 
