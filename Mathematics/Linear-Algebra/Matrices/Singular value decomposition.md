@@ -1,4 +1,4 @@
-**Singular value decomposition (SVD)** is a [[matrix decomposition]] that can be applied to any $m \times n$ matrix $A$ of rank $r$. SVD comes in many variants. The full SVD decomposes $A$ using an $m\times m$ matrix $U$, $n\times n$ matrix $V$, $m \times n$ matrix $\Sigma$ with $U$ and $V$ [[orthogonal|orthogonal matrix]].
+**Singular value decomposition (SVD)** is a [[matrix decomposition]] that can be applied to any $m \times n$ matrix $A$ of rank $r$. SVD comes in many variants. The full SVD decomposes $A$ using an $m\times m$ matrix $U$, $n\times n$ matrix $V$, $m \times n$ [[diagonal matrix]] $\Sigma$ with $U$ and $V$ [[orthogonal|orthogonal matrix]].
 
 \begin{equation}
 \label{eq:full-svd}
