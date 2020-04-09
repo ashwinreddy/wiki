@@ -1,0 +1,1 @@
+In a formal/abstract mathematical sense, a vector on its own doesn't really make any sense. However, for physics, we can use vectors as independent entitites.
