@@ -5,7 +5,7 @@ A = U\Sigma V^\top
 $$
 
 $$
-A^\top A = V\Sigma U^\top U \Sigma V^\top
+A^\top A = V\Sigma U^\top U \Sigma V^\top = V \Sigma^2 V^\top
 $$
 
 # Variants
