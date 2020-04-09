@@ -4,6 +4,10 @@ $$
 A = U\Sigma V^\top
 $$
 
+$$
+A^\top A = V\Sigma U^\top U \Sigma V^\top
+$$
+
 # Variants
 
 The dimensions of these matrices depend on the variant.
