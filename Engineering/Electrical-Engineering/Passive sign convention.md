@@ -1,1 +1,1 @@
-**Passive sign convention** designates current as flowing from high [[voltage]] to low [[voltage]].
+**Passive sign convention** designates [[current]] as flowing from high [[voltage]] to low [[voltage]].
