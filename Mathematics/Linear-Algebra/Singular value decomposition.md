@@ -5,7 +5,7 @@ A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
 $$
 
 $$
-A = U\Sigma V^\top
+A_{m \times n} = U_{m \times r} \Sigma_{r \times r} V^\top_{r \times n}
 $$
 
 # Computation
