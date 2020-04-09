@@ -1,0 +1,1 @@
+A **matrix norm** is just a [[norm]] over the [[vector space]] of [[matrix]]s.
