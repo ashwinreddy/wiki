@@ -8,10 +8,10 @@ $$
 
 You may choose to use either $A^\top A$ or $AA^\top$ to find the SVD. In either case, the first step is to find the eigenvalues of your chosen square matrix. Next, you need to find the eigenvectors $\lambda_i$. Collect the non-negative eigenvalues (if you find any negative $\lambda$, you messed up). 
 
-|Matrix|Eigenvector|
-|------|-----------|
-||$A^\top A$|$AA^\top$|
-|-|-----------|--------|
+
+|Step||$A^\top A$|$AA^\top$|
+|----|-|-----------|--------|
+|
 
 $\vec{v}_i$|
 $\vec{u}_i$|
