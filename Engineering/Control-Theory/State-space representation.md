@@ -10,3 +10,5 @@ A **state-space representation** models a physical system using input, output, a
 
 Equilibrium point
 : A state $\vec{x}$ for a constant input $\vec{u}$ is an $\vec{x}$ such that $f(\vec{x}, \vec{u})=0$.
+
+We can linearize a model around an equilibrium point.
