@@ -1,1 +1,0 @@
-**Low-rank approximation** is the problem of finding a rank $r$ matrix $A_r$ that is as close as possible to a given rank $n > r$ matrix $A$ as determined by a [[matrix norm]].
