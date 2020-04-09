@@ -6,4 +6,6 @@ $$
 C = \begin{bmatrix} B & AB & \dots & A^{n-2}B & A^{n-1}B \end{bmatrix}
 $$
 
-If $C$ is full rank, (i.e. $\operatorname{rank} C = n$) the system is controllable.
+If $C$ is full rank, (i.e. $\operatorname{rank} C = n$) [^rank] the system is controllable.
+
+[rank]: ell
