@@ -4,4 +4,4 @@ $$
 A = A^\top
 $$
 
-A symmetric matrix has [[eigenpairs]] that 
+A symmetric matrix has [[eigenpairs]] that are real.
