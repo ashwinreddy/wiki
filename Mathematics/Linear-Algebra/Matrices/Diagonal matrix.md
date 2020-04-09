@@ -1,0 +1,1 @@
+A **diagonal matrix** is one with elements only on the diagonal.
