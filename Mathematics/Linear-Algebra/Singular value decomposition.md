@@ -4,6 +4,11 @@ $$
 \boxed{A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top}
 $$
 
+|Type|$U$|$\Sigma$|$V$|
+|----|---|--------|----|
+|Full|$m \times m$|$m \times n$|$n \times n$|
+
+
 The [[range]] of $A$ is the span of the first $r$ vectors $\vec{u}_i$ (which agrees with the [[rank]]). We can see this more concretely:
 
 $$
