@@ -6,8 +6,6 @@ $$
 
 # Intuition
 
-Think of $A$ as a map from $\RR^n \to \RR^m$.
-
 The key equations here are
 
 $$
