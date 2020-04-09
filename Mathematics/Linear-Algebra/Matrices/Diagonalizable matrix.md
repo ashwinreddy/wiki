@@ -3,3 +3,5 @@ A **diagonalizable matrix** is a [[square matrix]] $A$ that can be decomposed wi
 $$
 A = PDP^{-1} \iff AP = PD
 $$
+
+You might notice that the $AP=PD$ condition is actually a way of simultaneously satisfying all the [[eigenpairs]] equations
