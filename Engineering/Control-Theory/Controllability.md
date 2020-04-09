@@ -4,6 +4,8 @@ $$
 \vec{x}(t) = A^t\vec{x}(0) + \begin{bmatrix} B & AB & \dots & A^{t-2}B & A^{t-1}B \end{bmatrix} \cdot \begin{bmatrix} \vec{u}(t-1) \\ \vec{u}(t-2) \\ \vdots \\ \vec{u}(1) \\ \vec{u}(0)\end{bmatrix}
 $$
 
+Since we can choose the 
+
 Construct a $n \times nm$ matrix.
 
 $$
