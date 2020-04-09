@@ -31,7 +31,7 @@ $$
 A\vec{x} = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top\vec{x} = \sum_{i=1}^r   \langle \sigma_i\vec{v}_i, \vec{x} \rangle \vec{u}_i
 $$
 
-By the [[fundamental theorem of linear algebra]], the null space of $A$ comes from the last right singular vectors $\vec{v}_{r+1}, \dots, \vec{v}_n$.
+By the [[fundamental theorem of linear algebra]], the null space of $A$ comes from the last columns of $V$ (i.e. right singular vectors $\vec{v}_{r+1}, \dots, \vec{v}_n$).
 
 # Connection to Eigenpairs
 
