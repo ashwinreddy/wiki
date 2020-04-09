@@ -7,6 +7,7 @@ $$
 |Type|$U$|$\Sigma$|$V$|
 |----|---|--------|----|
 |Full|$m \times m$|$m \times n$|$n \times n$|
+|Compact|$m \times r$|$r \times r$|$n \times r$|
 
 
 The [[range]] of $A$ is the span of the first $r$ vectors $\vec{u}_i$ (which agrees with the [[rank]]). We can see this more concretely:
