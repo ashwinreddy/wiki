@@ -26,8 +26,8 @@ $$
 |Space|Matrix|Elements|Intuition|
 |-----|------|--------|----------|
 |Column space|$U$|First $r$ columns|$A\vec{x} = \sum\_{i=1}^r \sigma\_i \vec{u}\_i \vec{v}\_i^\top\vec{x} = \sum\_{i=1}^r   \langle \sigma\_i\vec{v}\_i, \vec{x} \rangle \vec{u}_i$|
-|Null space|$V$|Last $n-r$ columns|
 |Row space|$V$|First $r$ columns|$A^\top\vec{x} = \sum\_{i=1}^r \sigma\_i \vec{v}\_i \vec{u}\_i^\top\vec{x} = \sum\_{i=1}^r   \langle \sigma\_i\vec{u}\_i, \vec{x} \rangle \vec{v}_i$|
+|Null space|$V$|Last $n-r$ columns|[[FTLA|Fundamental theorem of linear algebra]]|
 
 The column space of $A$ comes from the first $r$ columns of $U$ (i.e. $\vec{u}_1,\dots,\vec{u}_r$). As a quick proof,
 
