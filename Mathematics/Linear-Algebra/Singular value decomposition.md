@@ -7,7 +7,11 @@ $$
 The key equations here are
 
 $$
-AA^\top \vec{u}_i = \lambda_i \vec{u}_i
+AA^\top \vec{u}_i = \lambda_i \vec{u}_i, \quad i =1, \dots, m
+$$
+
+$$
+A^\top A \vec{v}_i = \lambda_i \vec{v}_i,\quad i=1, \dots, n
 $$
 
 The straightforward decomposition, known as the **compact SVD**, is
