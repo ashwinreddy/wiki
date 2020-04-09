@@ -1,4 +1,4 @@
-A system is controllable if we can go from any initial state to any final state. Consider a linear time invariant system. 
+A system is controllable if we can go from any initial state to any final state. Consider a linear time invariant [[state space representation]]. 
 
 Construct a matrix
 
