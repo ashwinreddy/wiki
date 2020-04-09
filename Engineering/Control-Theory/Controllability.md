@@ -8,4 +8,4 @@ $$
 
 If $C$ is full rank, (i.e. $\operatorname{rank} C = n$) [^rank] the system is controllable.
 
-^[rank]: ell
+[^rank]: ell
