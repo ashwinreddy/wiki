@@ -4,7 +4,7 @@ $$
 A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
 $$
 
-The [[range]] of $A$ is the span of the first $r$ vectors $\vec{u}_i$.
+The [[range]] of $A$ is the span of the first $r$ vectors $\vec{u}_i$ (which explains the [[rank]]). 
 
 # Intuition
 
