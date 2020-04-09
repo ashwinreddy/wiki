@@ -9,7 +9,7 @@ A^\top A = V\Sigma U^\top U \Sigma V^\top = V \Sigma^2 V^\top
 $$
 
 $$
-AA^\top = U\Sigma V^\top = V \Sigma U^\top
+AA^\top = U\Sigma V^\top V \Sigma U^\top = U\Sigma^2 U^\top
 $$
 
 # Variants
