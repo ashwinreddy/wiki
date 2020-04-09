@@ -21,6 +21,18 @@ $$
 AA^\top = U\Sigma V^\top V \Sigma U^\top = U\Sigma^2 U^\top
 $$
 
+## Range and Null Space
+
+
+
+The [[range]] of $A$ is the span of the first $r$ vectors $\vec{u}_i$ (which agrees with the [[rank]]). We can see this more concretely:
+
+$$
+A\vec{x} = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top\vec{x} = \sum_{i=1}^r   \langle \sigma_i\vec{v}_i, \vec{x} \rangle \vec{u}_i
+$$
+
+By the [[fundamental theorem of linear algebra]], the null space of $A$ comes from the $\vec{v}_i$ with singular values, the orthogonal complement to the columns of $V$.
+
 # Connection to Eigenpairs
 
 Notice an alternate way of writing Equation \ref{eq:full-svd} is similar to [[diagonalizable matrix]]
@@ -38,14 +50,6 @@ The dimensions of these matrices depend on the variant.
 |Full|orthogonal, $m \times m$|$m \times n$|orthogonal, $n \times n$|
 |Compact|$m \times r$|$r \times r$|$n \times r$|
 
-
-The [[range]] of $A$ is the span of the first $r$ vectors $\vec{u}_i$ (which agrees with the [[rank]]). We can see this more concretely:
-
-$$
-A\vec{x} = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top\vec{x} = \sum_{i=1}^r   \langle \sigma_i\vec{v}_i, \vec{x} \rangle \vec{u}_i
-$$
-
-By the [[fundamental theorem of linear algebra]], the null space of $A$ comes from the $\vec{v}_i$ with singular values, the orthogonal complement to the columns of $V$.
 
 # Intuition
 
