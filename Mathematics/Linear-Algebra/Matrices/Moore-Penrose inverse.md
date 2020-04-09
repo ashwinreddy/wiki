@@ -1,4 +1,4 @@
-The **Moore-Penrose** inverse generalizes the notion of a matrix inverse.
+The **Moore-Penrose** inverse.
 
 If $A$ has linearly independent columns,
 
