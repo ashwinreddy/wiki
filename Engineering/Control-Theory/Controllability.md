@@ -7,5 +7,3 @@ C = \begin{bmatrix} B & AB & \dots & A^{n-2}B & A^{n-1}B \end{bmatrix}
 $$
 
 If $C$ is full rank, (i.e. $\operatorname{rank} C = n$) the system is controllable.
-
-A linear-time invariant system is invariant to a change of basis.
