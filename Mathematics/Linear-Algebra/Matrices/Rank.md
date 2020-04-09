@@ -1,5 +1,5 @@
-The **rank** of a [[matrix]] is the [[dimension]] of the [[range]] of $A$.
+The **rank** of a [[matrix]] is the [[dimension]] of the [[range]] of $A$. 
 
 $$
-rank(A) \leq \min (m, n)
+\operatorname{rank}(A) \leq \min (m, n)
 $$
