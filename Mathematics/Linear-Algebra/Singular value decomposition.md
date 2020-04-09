@@ -14,6 +14,10 @@ $$
 A^\top A \vec{v}_i = \lambda_i \vec{v}_i,\quad i=1, \dots, n.
 $$
 
+$$
+\sigma_i = \sqrt{\lambda_i}
+$$
+
 The straightforward decomposition, known as the **compact SVD**, is
 
 $$
