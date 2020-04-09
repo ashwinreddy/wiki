@@ -13,6 +13,9 @@ If our model has a complicated form for $f$, we can use a linear approximation.
 Equilibrium point
 : A state $\vec{x}^\star$ for a constant input $\vec{u}^\star$ such that $f(\vec{x}^\star, \vec{u}^\star)=0$.
 
+$$
+A = \left[\nabla_\vec{x} f(\vec{x}, \vec{u})\right]_{\vec{x}^\star, \vec{u}^\star}
+$$
 
 $$
 \tilde{\vec{x}}(t) = \vec{x}(t)-\vec{x}^\star,\quad \tilde{\vec{u}}(t) = \vec{u}(t)-\vec{u}^\star,
