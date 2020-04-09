@@ -14,7 +14,7 @@ Equilibrium point
 : A state $\vec{x}^\star$ for a constant input $\vec{u}^\star$ such that $f(\vec{x}^\star, \vec{u}^\star)=0$.
 
 $$
-A = \left[\nabla_\vec{x} f(\vec{x}, \vec{u})\right]_{\vec{x}^\star, \vec{u}^\star}
+A = \left[\nabla_\vec{x} f(\vec{x}, \vec{u})\right]_{\vec{x}^\star, \vec{u}^\star},\quad B = \left[\nabla_\vec{u} f(\vec{x}, \vec{u})\right]_{\vec{x}^\star, \vec{u}^\star}
 $$
 
 $$
