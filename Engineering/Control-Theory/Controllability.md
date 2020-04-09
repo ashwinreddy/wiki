@@ -1,7 +1,7 @@
 A system is controllable if we can go from any initial state to any final state. Formally,
 
 Controllable
-: A system is controllable if for every $x\_{\text{target}} \in \RR^n$, there exists a sequence of inputs $\vec{u}_1, \dots, \vec{u}_{t-1}$ from any initial state $\vec{x}(0)$ to get to $\vec{x}\_{\text{target}}$.
+: A system is controllable if for every $x\_{\text{target}} \in \RR^n$, there exists a sequence of inputs $\vec{u}\_1, \dots, \vec{u}\_{t-1}$ from any initial state $\vec{x}(0)$ to get to $\vec{x}\_{\text{target}}$.
 
 
 Consider a linear time invariant [[state space representation]]. The state space is dimension $n$ and the action space is dimension $m$. So $A$ is $n \times n$ and $B$ is $n \times m$. With a little algebra, you'll find that
