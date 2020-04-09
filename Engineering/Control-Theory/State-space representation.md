@@ -5,7 +5,7 @@ A **state-space representation** models a physical system using input, output, a
 
 |Type|Continuous|Discrete|
 |-----|----------|--------|
-|Generic|$\dv{}{t}f(\vec{x}(t), \vec{u}(t))$|$f(\vec{x}[t], \vec{u}[t])$|
+|Generic|$\dv{}{t}\vec{x}(t)=f(\vec{x}(t), \vec{u}(t))$|$f(\vec{x}[t], \vec{u}[t])$|
 |LTI|$\dv{}{t}\vec{x}(t) = A\vec{x}(t) + B\vec{u}(t)$|$\vec{x}[t+1]=A\vec{x}[t]+B\vec{u}[t]$|
 
 If our model has a complicated form for $f$, we can use a linear approximation.
