@@ -7,20 +7,17 @@ A = U\Sigma V^\top
 
 # Singular Value
 
-There are $\operatorname{rank} A$ singular values $\sigma_i > 0$. No vector can be stretched by more than $\sigma$.
-
-\begin{align\*}
-\lVert A\vec{x} \rVert^2 &= (A\vec{x})^\top (A\vec{x}) \\\\\
-&= \vec{x}^\top A^\top A \vec{x} \\\\\
-&= \vec{x}^\top V \Sigma \Sigma V^\top \vec{x} \\\\\
-&= (\Sigma V x)^\top (\Sigma V^\top \vec{x})
-\end{align\*}
+There are $\operatorname{rank} A$ singular values $\sigma_i > 0$.
 
 # Singular Vectors
+
+$V$ represents the eigenvectors of $A^\top A$.
 
 $$
 A^\top A = V\Sigma U^\top U \Sigma V^\top = V \Sigma^2 V^\top
 $$
+
+$U$ represents the eigenvectors of $AA^\top$.
 
 $$
 AA^\top = U\Sigma V^\top V \Sigma U^\top = U\Sigma^2 U^\top
