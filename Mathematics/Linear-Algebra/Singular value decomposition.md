@@ -4,6 +4,10 @@ $$
 A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
 $$
 
+$$
+A = U\Sigma V^\top
+$$
+
 # Computation
 
 You may choose to use either $A^\top A$ or $AA^\top$ to find the SVD. In either case, the first step is to find the eigenvalues of your chosen square matrix. Next, you need to find the eigenvectors $\lambda_i$. Collect the non-negative eigenvalues (if you find any negative $\lambda$, you messed up). 
