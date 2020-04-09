@@ -7,5 +7,5 @@ $$
 We can then do a first-order approximation with a [[Taylor series]]
 
 $$
-f(\vec{x} + \delta\vec{x}) \approx f(\vec{x}) + \mathbf{J}(\vec{x}) \delta{\vec{x}}
+f(\vec{x} + \delta\vec{x}) \approx f(\vec{x}) + \mathbf{J}_f(\vec{x}) \delta{\vec{x}}
 $$
