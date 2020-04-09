@@ -13,4 +13,5 @@ You may choose to use either $A^\top A$ or $AA^\top$ to find the SVD. In either 
 |----|-----------|--------|
 |1. Find eigenvalues|||
 |2. Find one set of eigenvectors|$\vec{v}_i$|$\vec{u}_i$|
+|3. Obtain the other set by computation|$\vec{u}_i = \frac{1}{\sigma_i}A\vec{v})i$|$\vec{v}_i = \frac{1}{\sigma_i}A^\top \vec{u}_i$|
 
