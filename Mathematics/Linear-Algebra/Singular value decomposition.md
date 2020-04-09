@@ -4,6 +4,10 @@ $$
 A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
 $$
 
+# Intuition
+
+Think of $A$ as a map from $\RR^n \to \RR^m$
+
 The key equations here are
 
 $$
