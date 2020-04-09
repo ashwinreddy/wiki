@@ -12,7 +12,9 @@ $$
 \mathscr{C} = \begin{bmatrix} B & AB & \dots & A^{n-2}B & A^{n-1}B \end{bmatrix}
 $$
 
-
+$$
+A \text{ controllable} \iff \operatorname{rank} \mathscr{C} = n
+$$
 
 If $\mathscr{C}$ is full rank, (i.e. $\operatorname{rank} \mathscr{C} = n$) [^rank] the system is controllable.
 
