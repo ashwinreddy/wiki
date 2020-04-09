@@ -4,6 +4,12 @@ $$
 A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
 $$
 
+The key equations here are
+
+$$
+AA^\top \vec{u}_i = \lambda_i \vec{u}_i
+$$
+
 The straightforward decomposition, known as the **compact SVD**, is
 
 $$
