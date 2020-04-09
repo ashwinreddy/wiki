@@ -17,7 +17,7 @@ $$
 Let's verify this:
 
 $$
-A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
+A = \sum_{i=1}^r \sqrt{\lambda_i} \frac{1}{\lambda_i}AA^\top \vec{u}_i \vec{v}_i^\top
 $$
 
 
