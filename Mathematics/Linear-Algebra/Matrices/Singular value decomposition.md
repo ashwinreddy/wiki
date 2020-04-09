@@ -15,7 +15,7 @@ $$
 
 # Connection to Eigenpairs
 
-Notice an alternate way of writing Equation \ref{eq:full-svd}
+Notice an alternate way of writing Equation \ref{eq:full-svd} is similar to [[diagonalizable matrix]]
 
 $$
 AV = U \Sigma
