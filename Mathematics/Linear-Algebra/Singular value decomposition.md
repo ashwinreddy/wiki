@@ -10,4 +10,5 @@ You may choose to use either $A^\top A$ or $AA^\top$ to find the SVD. In either 
 
 |Matrix|Eigenvector|
 |------|-----------|
-|$A^\top A$|$\vec{v}$|
+|$A^\top A$|$\vec{v}_i$|
+|$AA^\top$|$\vec{u}_i$|
