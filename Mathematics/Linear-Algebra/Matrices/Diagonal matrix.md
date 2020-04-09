@@ -1,1 +1,5 @@
-A **diagonal matrix** is one with elements only on the diagonal.
+A **diagonal matrix** is a [[matrix]] $A$ such that
+
+$$
+i \neq j \implies d_{i,j} = 0
+$$
