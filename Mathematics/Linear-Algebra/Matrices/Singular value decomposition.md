@@ -8,7 +8,7 @@ The dimensions of these matrices depend on the variant.
 
 |Type|$U$|$\Sigma$|$V$|
 |----|---|--------|----|
-|Full|$m \times m$|$m \times n$|$n \times n$|
+|Full|orthogonal, $m \times m$|$m \times n$|orthogonal, $n \times n$|
 |Compact|$m \times r$|$r \times r$|$n \times r$|
 
 
