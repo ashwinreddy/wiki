@@ -20,7 +20,7 @@ $$
 $U$ represents the eigenvectors of $AA^\top$.
 
 $$
-AA^\top = U\Sigma V^\top V \Sigma U^\top = U\Sigma^2 U^\top
+AA^\top = U\Sigma V^\top V \Sigma^\top U^\top = U\Sigma \Sigma^\top U^\top
 $$
 
 # Range and Null Space
