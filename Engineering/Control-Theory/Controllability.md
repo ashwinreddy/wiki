@@ -8,4 +8,4 @@ $$
 C = \begin{bmatrix} B & AB & \dots & A^{n-2}B & A^{n-1}B \end{bmatrix}
 $$
 
-If $\rank C$ is rank $n$, the system is controllable.
+If $\operatorname{rank} C = n$, the system is controllable.
