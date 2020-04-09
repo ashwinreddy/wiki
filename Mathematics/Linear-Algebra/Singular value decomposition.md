@@ -6,4 +6,8 @@ $$
 
 # Computation
 
-You may choose to use either $A^\top A$ or $AA^\top$ to find the SVD. In either case, the first step is to find its eigenvalues (they will be equal)
+You may choose to use either $A^\top A$ or $AA^\top$ to find the SVD. In either case, the first step is to find the eigenvalues of your chosen square matrix. Next, you need to find eigenvectors.
+
+|Matrix|Eigenvector|
+|------|-----------|
+|$A^\top A$|$\vec{v}$|
