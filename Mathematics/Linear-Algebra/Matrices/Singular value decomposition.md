@@ -47,6 +47,7 @@ $$
 A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
 $$
 
+
 The dimensions of these matrices depend on the variant.
 
 |Type|$U$|$\Sigma$|$V$|
@@ -73,17 +74,6 @@ $$
 \sigma_i = \sqrt{\lambda_i},\quad i = 1, \dots, r
 $$
 
-The straightforward decomposition, known as the **compact SVD**, is
-
-$$
-A_{m \times n} = U_{m \times r} \Sigma_{r \times r} V^\top_{r \times n}
-$$
-
-The full SVD is
-
-$$
-A_{m \times n} = U_{m \times m} \Sigma_{m \times n} V^\top_{n \times n}
-$$
 
 # Computation
 
