@@ -5,11 +5,6 @@
 A = U\Sigma V^\top
 \end{equation}
 
-Every variant, however, of SVD is just a description of
-
-$$
-A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
-$$
 
 # Interpretation
 
@@ -44,6 +39,13 @@ AV = U \Sigma
 $$
 
 # Variants
+
+
+Every variant, however, of SVD is just a description of
+
+$$
+A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
+$$
 
 The dimensions of these matrices depend on the variant.
 
