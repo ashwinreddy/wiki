@@ -1,1 +1,1 @@
-The **range** of a matrix is the [[span]] of its columns.
+The **range** of a [[matrix]] is the [[span]] of its columns.
