@@ -10,7 +10,7 @@ A = U\Sigma V^\top
 There are $\operatorname{rank} A$ singular values $\sigma_i > 0$. No vector can be stretched by more than $\sigma$.
 
 $$
-\lVert A\vec{x} \rVert = (A\vec{x})^\top (A\vec{x})
+\lVert A\vec{x} \rVert^2 = (A\vec{x})^\top (A\vec{x}) = \vec{x}^\top A^\top A \vec{x}
 $$
 
 # Singular Vectors
