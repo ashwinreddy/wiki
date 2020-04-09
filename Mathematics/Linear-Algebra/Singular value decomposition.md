@@ -5,3 +5,5 @@ A = \sum_{i=1}^r \sigma_i \vec{u}_i \vec{v}_i^\top
 $$
 
 # Computation
+
+You can choose to use either $A^\top A$ or $AA^\top$ to find the SVD.
