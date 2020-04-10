@@ -1,1 +1,1 @@
-A function is a relation $f: A \to B$ between [[sets]] $A$ and $B$ such that $f(A)$ has exactly one value $b \in B$.
+A **function** is a relation $f: A \to B$ between [[sets|set]] $A$ and $B$ such that $f(A)$ has exactly one value $b \in B$.
