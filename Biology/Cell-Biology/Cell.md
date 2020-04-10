@@ -1,0 +1,1 @@
+A **cell** is considered the smallest unit of life.
