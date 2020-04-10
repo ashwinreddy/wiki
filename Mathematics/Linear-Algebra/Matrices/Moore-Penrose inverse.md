@@ -6,4 +6,4 @@ $$
 A^\dagger = (A^\top A)^{-1}A^\top
 $$
 
-If $A$ is rank, then $A^\dagger \equiv A^{-1}$
+If $A$ is full rank, then $A^\dagger \equiv A^{-1}$.
