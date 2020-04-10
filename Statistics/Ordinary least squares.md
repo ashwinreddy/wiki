@@ -6,4 +6,4 @@ $$
 $$
 
 
-[[Moore-Penrose inverse]]
+The dagger ($\dagger$) represents the [[Moore-Penrose inverse]].
