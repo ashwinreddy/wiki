@@ -1,0 +1,1 @@
+A function is a mapping $f: A \to B$ between sets $A$ and $B$ such that $f(A)$ has exactly one value $b \in B$.
