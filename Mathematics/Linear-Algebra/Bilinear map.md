@@ -9,5 +9,5 @@ f(\alpha\vec{u}, \vec{v}) = \alpha f(\vec{u}, \vec{v}) = f(\vec{v}, \alpha \vec{
 Examples of bilinear maps include:
 
 * [[Matrix multiplication]]
-* Inner products
+* [[Inner product]]
 * Cross product
