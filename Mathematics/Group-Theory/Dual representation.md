@@ -24,6 +24,6 @@ $$
 (f(A) v^*)^\top Av = (v^*)^\top v \implies f(A)^\top A = I \implies f(A) = A^{-\top}
 $$
 
-<<Warn("We're treating dual vectors as also column vectors here!")>>
+<<Warn("We're treating both vectors and dual vectors as column vectors here!")>>
 
 
