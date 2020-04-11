@@ -10,4 +10,4 @@ $$
 
 # Group representation
 
-If we have a [[group representation]]
+If we have a [[group representation]] of $G$, then vectors will transform as $\vec{r} \to A\vec{r}$ under the group while dual vectors $\tilde{r}$
