@@ -11,3 +11,7 @@ $$
 \partial_\mu F^{\mu\nu} = J^\nu
 $$
 
+$$
+\partial_{[\mu}F_{\nu\lambda]} = 0
+$$
+
