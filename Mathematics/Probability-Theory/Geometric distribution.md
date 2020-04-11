@@ -3,3 +3,4 @@ A **geometric distribution** represents the number of flips of a biased coin wit
 $$
 X \sim \operatorname{Geometric}(p) \implies \Pr(X = k) = (1-p)^{k-1} p
 $$
+
