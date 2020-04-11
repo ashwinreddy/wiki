@@ -1,4 +1,4 @@
-A **dual representation** for a [[group]] $G$ and its [[group representation]] $\rho$ on a [[vector space]] $V$ is a $\rho^\*: G \to \operatorname{GL}(V^\*)$ or, if we like, $G \times V^\* \to V^\*$ that respects the natural pairing. As such, it must obey the following condition,
+A **dual representation** for a [[group]] $G$ and its [[group representation]] $\rho$ on a [[vector space]] $V$ is a $\rho^\*: G \to \operatorname{GL}(V^\*)$ or, if we like, $G \times V^\* \to V^\*$ that respects the [[natural pairing]]. As such, it must obey the following condition,
 
 
 $$
