@@ -1,3 +1,5 @@
+We can notice that if $\vec\nabla \cdot \vec{B}=0$, then
+
 $$
 \vec\nabla \times \vec{A} = \vec{B}
 $$
