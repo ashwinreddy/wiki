@@ -4,8 +4,10 @@ $$
 \vec\nabla \times \vec{A} = \vec{B}
 $$
 
-We can make an arbitrary choice for $\vec\nabla\cdot\vec{A}$. The Lorenz gauge is the choice
+We can make an arbitrary choice for $\vec\nabla\cdot\vec{A}$. 
+
+# Lorenz gauge
 
 $$
-\vec\nabla \cdot \vec{A} + \frac{1}{c^2}{\partial \varphi \over \partial t}
+\vec\nabla \cdot \vec{A} + \frac{1}{c^2}{\partial \varphi \over \partial t} = 0
 $$
