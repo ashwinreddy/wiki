@@ -1,0 +1,1 @@
+The **expected value** of a [[random variable]]
