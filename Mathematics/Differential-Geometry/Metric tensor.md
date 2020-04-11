@@ -18,4 +18,6 @@ $$
 A^\top g A = g
 $$
 
+Thus, a $g$ generates a group, and a group generates a $g$.
+
 <<Warn("We need to untangle whether $\tilde{r}$ is column or row.")>>
