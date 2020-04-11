@@ -9,7 +9,11 @@ Maxwell's equations describe how to create electric field $\vec{E}$ and magnetic
 
 # Potential Equations
 
-Using the [[magnetic vector potential#lorenz gauge]]
+Using the [[Lorenz gauge|magnetic vector potential#lorenz gauge]],
+
+$$
+\nabla^2 \varphi - \frac{1}{c^2} {\partial^2 \varphi \over \partial t^2} = -\frac{\varrho}{\epsilon_0}
+$$
 
 # Tensor Equations
 
