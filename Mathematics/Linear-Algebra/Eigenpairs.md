@@ -26,6 +26,8 @@ The equation above is called the **characteristic polynomial** of $A$. It is a d
 
 # Properties
 
+The determinant of a triangular matrix is the product of diagonals.
+
 \begin{equation}
 \operatorname{tr} A = \sum_{i=1}^n \lambda_i
 \end{equation}
