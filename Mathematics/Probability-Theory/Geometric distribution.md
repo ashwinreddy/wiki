@@ -4,3 +4,4 @@ $$
 X \sim \operatorname{Geometric}(p) \implies \Pr(X = k) = (1-p)^{k-1} p
 $$
 
+We can use the [[Expected value#Tail Sum Formula]]
