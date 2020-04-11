@@ -10,6 +10,7 @@ For a discrete random variable $X$ with $k$ values $x_1, \dots, x_k$ and $k$ res
 
 If $X$ takes on values in $\mathbb{N}_{\geq 0}$, then we have
 
-$$
-\mathbb{E}[X] = \sum_{j=1}^\infty j \mathbb{P}[X=j]
-$$
+\begin{align*}
+\mathbb{E}[X] &= \sum_{j=1}^\infty j \times \mathbb{P}[X=j] \\\\\
+&= \sum_{j=1}^\infty \sum_{i=1}^j \mathbb{P}[X=j]
+\end{align*}
