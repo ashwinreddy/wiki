@@ -12,7 +12,11 @@ Maxwell's equations describe how to create electric field $\vec{E}$ and magnetic
 Using the [[Lorenz gauge|magnetic vector potential#lorenz gauge]],
 
 $$
-\nabla^2 \varphi - \frac{1}{c^2} {\partial^2 \varphi \over \partial t^2} = -\frac{\rho}{\epsilon_0}
+\nabla^2 \varphi - \frac{1}{c^2} {\partial^2 \varphi \over \partial t^2} = -\frac{\rho}{\varepsilon_0}
+$$
+
+$$
+\nabla^2 \vec{A} - \frac{1}{c^2} {\partial^2 \vec{A} \over \partial t^2} = -\mu_0 \vec{\jmath}
 $$
 
 # Tensor Equations
