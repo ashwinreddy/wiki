@@ -20,4 +20,6 @@ $$
 
 Thus, a $g$ generates a group, and a group generates a $g$.
 
+In fact, if we let $g$ be identity, then $A$ is an [[orthogonal matrix]], and the group is the [[orthogonal group]].
+
 <<Warn("We need to untangle whether $\tilde{r}$ is column or row.")>>
