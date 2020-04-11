@@ -1,4 +1,4 @@
-An $(r, s)$ tensor $T$ over a vector space $V$ is a multilinear map
+An $(r, s)$ **tensor** $T$ over a [[vector space]] $V$ is a multilinear map
 
 \begin{equation}
 T: \underbrace{V^\* \times \dots \times V^\*}\_{r \text{ copies}} \times \underbrace{V \times \dots \times V}_{s\text{ copies}} \to \mathbb{R}
@@ -11,3 +11,9 @@ If we wanted to write out the components of a tensor, we would have $(r+s)^{\dim
 $$
 T^{i_1\dots i_r}_{j_1 \dots j_s} = T(\epsilon_{i_1}, \dots, \epsilon_{i_r}, \vec{e}_{j_1}, \dots, \vec{e}_{j_s})
 $$
+
+# Transformation
+
+> A tensor is anything that transforms like a tensor
+
+Which is to say, only through transformation tensors.
