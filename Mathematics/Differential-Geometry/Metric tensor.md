@@ -8,3 +8,6 @@ $$
 g_{ij} = \vec{e}_i \cdot \vec{e}_j
 $$
 
+# Group representation
+
+If we have a [[group representation]]
