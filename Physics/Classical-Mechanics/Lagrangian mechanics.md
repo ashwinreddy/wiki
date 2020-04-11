@@ -1,5 +1,4 @@
 
-
 $$
-\mathscr{L} = K - U
+L = K - U
 $$
