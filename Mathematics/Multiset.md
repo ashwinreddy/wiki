@@ -1,0 +1,1 @@
+A **multiset** is a modification on [[sets|set]] that supports repeated elements.
