@@ -1,0 +1,1 @@
+A hypergeometric describes getting $k$ successes in $n$ draws without replacement.
