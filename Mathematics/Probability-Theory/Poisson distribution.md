@@ -6,8 +6,8 @@ $$
 
 |Quantity|Value|
 |--------|-----|
-|$\mathbb{E}$|$\lambda$|
-|$\mathbb{V}$|$\lambda$|
+|[[Expected value]]|$\lambda$|
+|[[Variance]]|$\lambda$|
 
 # Limit of Binomial
 
