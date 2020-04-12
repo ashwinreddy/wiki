@@ -4,4 +4,4 @@ $$
 \pi = \frac{C}{d}
 $$
 
-[formula](https://www.rochester.edu/newscenter/discovery-of-classic-pi-formula-a-cunning-piece-of-magic-128002/)
+[article on physics formula for pi](https://www.rochester.edu/newscenter/discovery-of-classic-pi-formula-a-cunning-piece-of-magic-128002/)
