@@ -4,6 +4,11 @@ $$
 X \sim \operatorname{Poisson}(\lambda) \iff \mathbb{P}(X = i) = \frac{\lambda^i}{i!}e^{-\lambda}
 $$
 
+|Quantity|Value|
+|--------|-----|
+|$\mathbb{E}$|$\lambda$|
+|$\mathbb{V}$|$\lambda$|
+
 # Limit of Binomial
 
 
