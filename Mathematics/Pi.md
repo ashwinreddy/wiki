@@ -1,5 +1,5 @@
-The number **$pi$** is defined as the ratio of a circle's circumference to its diameter.
+The number **$\pi$** is a constant value, around 3.14 .
 
 $$
-\pi \triangleq \frac{C}{d} \approx 3.14
+\pi = \frac{C}{d}
 $$
