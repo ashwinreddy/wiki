@@ -1,0 +1,1 @@
+**Bernoulli distribution** represents a single coin flip.
