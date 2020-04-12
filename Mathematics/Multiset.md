@@ -1,1 +1,3 @@
-A **multiset** is a modification on [[sets|set]] that supports repeated elements.
+A **multiset** is a modification on [[sets|set]] that allows for repeated elements. 
+
+Multisets can be counted by [[stars and bars]]
