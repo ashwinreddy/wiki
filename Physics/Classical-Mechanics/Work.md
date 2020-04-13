@@ -4,3 +4,8 @@ $$
 W = \int_L \vec{F} \cdot \dd{\vec{r}}
 $$
 
+Finding the work done by a [[conservative force]] is much easier:
+
+$$
+W = - \Delta U
+$$
