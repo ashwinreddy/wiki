@@ -9,3 +9,7 @@ Finding the work done by a [[conservative force]] is much easier:
 $$
 W = - \Delta U
 $$
+
+$$
+W = \Delta{K} + \Delta{U}
+$$
