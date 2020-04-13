@@ -14,5 +14,5 @@ $$
 A = U \Sigma V^T
 $$
 
-3. Pick off the first $d$ columns of $V$. Call this $n \times d$ $B$ for basis.
+3. Pick off the first $d$ columns of $V$. Call this $n \times d$ matrix $B$ for basis.
 4. Project $A$ into the lower space by $AB$.
