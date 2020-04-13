@@ -8,7 +8,7 @@ mean_vec = np.mean(A, axis=0)
 demeaned_A = A - mean_vec
 ```
 
-3. Compute any [[SVD|singular value decomposition]] of $A$ to get
+3. Compute the $V$ from the [[SVD|singular value decomposition]] of $A$ to get
 
 $$
 A = U \Sigma V^T
