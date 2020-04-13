@@ -1,1 +1,1 @@
-Normalize the batch and then scale and shift
+Batch normalization is a layer with two parameters $\beta$ and $\gamma$
