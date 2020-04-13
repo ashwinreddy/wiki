@@ -1,0 +1,1 @@
+A **conservative force** is a force that can be written as the gradient of a scalar field $\Phi$
