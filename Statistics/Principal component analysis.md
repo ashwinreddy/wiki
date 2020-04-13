@@ -3,7 +3,7 @@
 1. Decide on a dimension $d \ll n$ to project into.
 2. De-mean the $A$ vector:
 
-```
+```py
 mean_vec = np.mean(A, axis=0)
 demeaned_A = A - mean_vec
 ```
