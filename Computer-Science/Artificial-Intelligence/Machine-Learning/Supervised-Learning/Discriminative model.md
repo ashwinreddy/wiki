@@ -1,1 +1,1 @@
-A discriminative model tries to learn $p(Y \| X=x)$
+A discriminative model tries to learn $\Pr(Y \| X=x)$
