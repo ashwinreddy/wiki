@@ -7,3 +7,4 @@ $$
 A = U \Sigma V^T
 $$
 
+3. Pick off the first $d$ columns of $V$
