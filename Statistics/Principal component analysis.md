@@ -8,10 +8,6 @@ mean_vec = np.mean(A, axis=0)
 demeaned_A = A - mean_vec
 ```
 
-~~~~
-kramdown fencing
-~~~~
-
 3. Compute any [[SVD|singular value decomposition]] of $A$ to get
 
 $$
