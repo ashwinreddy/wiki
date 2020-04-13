@@ -1,1 +1,1 @@
-A discriminative model tries to learn $p(\text{class} \| \text{data})$
+A discriminative model tries to learn $p(Y \| X=x)$
