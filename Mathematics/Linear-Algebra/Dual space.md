@@ -14,4 +14,4 @@ $$
 \Phi_\vec{v}(f) = f(\vec{v})
 $$
 
-**Fact**. If $\dim V < \infty$, then $V^{**} \cong V$ because the above is an isomorphism.
+**Fact**. If $\dim V < \infty$, then ${V^{\vee}}^\vee \cong V$ because the above is an isomorphism.
