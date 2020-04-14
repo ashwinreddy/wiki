@@ -26,5 +26,5 @@ v(t)^2 = v_0^2 + a^2t^2
 From there, we can get an equation for the position $\vec{r}$,
 
 \begin{equation}
-\vec{r}(t) = \frac{t^2}{2}\vec{a} + t\vec{v}_0 + \vec{r}_0
+\Delta\vec{r}(t) = \frac{t^2}{2}\vec{a} + t\vec{v}_0 \implies \vec{r}(t) = \frac{t^2}{2}\vec{a} + t\vec{v}_0 + \vec{r}_0
 \end{equation}
