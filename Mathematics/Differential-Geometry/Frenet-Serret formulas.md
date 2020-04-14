@@ -3,5 +3,5 @@ $$
 $$
 
 $$
-\vec{N}(t) = { \over }
+\vec{N}(t) = {\vec{T}'{t} \over \lVert \vec{T}'(t) \rVert}
 $$
