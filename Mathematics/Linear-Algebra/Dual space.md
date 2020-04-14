@@ -8,7 +8,7 @@ We may well ask for a basis for $V^\vee$. As a matter of economy, we allow the c
 
 # Double dual
 
-Consider ${V^{\vee}}^\vee=(V^\vee)^\vee$. An element $\Phi$ of $V^{\*\*}$ will take in a function $f: V \to \mathbb{R}$ and produce a number. How do we do this? Simply feed in an element $\vec{v} \in V$. So,
+Consider ${V^{\vee}}^\vee=(V^\vee)^\vee$. An element $\Phi$ of ${V^{\vee}}^\vee$ will take in a function $f: V \to \mathbb{R}$ and produce a number. How do we do this? Simply feed in an element $\vec{v} \in V$. So,
 
 $$
 \Phi_\vec{v}(f) = f(\vec{v})
