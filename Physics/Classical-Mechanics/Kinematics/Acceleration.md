@@ -31,5 +31,5 @@ From there, we can get an equation for the position $\vec{r}$,
 
 
 $$
-\Delta{r}(t) = \frac{t^2}{2}\vec{a} + t\vec{v}_0
+\Delta{r}(t) = (\frac{t^2}{2}\vec{a} + t\vec{v}_0)^T(\frac{t^2}{2}\vec{a} + t\vec{v}_0)
 $$
