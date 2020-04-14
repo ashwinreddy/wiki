@@ -28,5 +28,5 @@ From there, we can get an equation for the position $\vec{r}$,
 \end{equation}
 
 $$
-r(t)^2 = (\frac{t^2}{2}\vec{a} + t\vec{v}_0 + \vec{r}_0)^T\frac{t^2}{2}\vec{a} + t\vec{v}_0 + \vec{r}_0
+r(t)^2 = (\frac{t^2}{2}\vec{a} + t\vec{v}_0 + \vec{r}_0)^T(\frac{t^2}{2}\vec{a} + t\vec{v}_0 + \vec{r}_0)
 $$
