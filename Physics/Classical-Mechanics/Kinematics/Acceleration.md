@@ -5,7 +5,7 @@ The acceleration is the [[derivative]] of [[velocity]].
 \end{equation}
 
 $$
-\vec{a}(t) = a_T \vec{T}(t) + a_N \vec{N}(t)
+\vec{a}(t) = v' \vec{T}(t) + \kappa v^2 \vec{N}(t)
 $$
 
 
