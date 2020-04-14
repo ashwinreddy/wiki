@@ -14,7 +14,7 @@ $$
 A handy special case is when the acceleration is a constant vector $\vec{a}$. This yields a simple velocity formula,
 
 \begin{equation}
-\vec{v}(t) = \vec{v}_0 + t\vec{a}
+\Delta\vec{v}(t) =  t\vec{a}
 \end{equation}
 
 Take the squared L2 norm to get
