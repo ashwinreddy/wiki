@@ -2,7 +2,7 @@ An **orthogonal matrix** is a matrix $Q$ whose rows/columns are orthonormal to e
 
 \begin{equation}
 \label{eq:orth-def}
-Q^\top Q = I \iff Q^\top = Q^{-1}
+Q^\top Q = QQ^\top = I \iff Q^\top = Q^{-1}
 \end{equation}
 
 
