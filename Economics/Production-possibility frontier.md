@@ -1,0 +1,1 @@
+A **production-possibility frontier** is a curve that shows the combinations of two goods which can be made.
