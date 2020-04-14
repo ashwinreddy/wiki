@@ -1,3 +1,3 @@
 $$
-\kappa = \lVert \dv{\vec{T}}{s} \rVert
+\kappa = \left\lVert \dv{\vec{T}}{s} \right\rVert
 $$
