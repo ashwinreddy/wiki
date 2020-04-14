@@ -11,11 +11,9 @@ Intuitively, the rows/columns are orthonormal to each other.
 
 * If we take the determinant of both sides of Equation \ref{eq:orth-def},
 
-\begin{gather\*}
-\det(Q^\top Q) = \det I \\\\\
-(\det Q)^2 = 1 \\\\\
-\det Q = \pm 1
-\end{gather\*}
+$$
+\det(Q^\top Q) = (\det Q)^2 = \det I = 1 \implies \det Q = \pm 1
+$$
 
 * The norm of a vector is invariant to an orthonormal transformation. Basically, all orthogonal matrices can do is rotate.
 
