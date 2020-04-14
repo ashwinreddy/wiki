@@ -4,6 +4,10 @@ The acceleration is the [[derivative]] of [[velocity]].
 \vec{a} = \dv{\vec{v}}{t}
 \end{equation}
 
+$$
+\vec{a}(t) = a_T \vec{T}(t) + a_N \vec{N}(t)
+$$
+
 
 # Uniform Acceleration Motion
 
