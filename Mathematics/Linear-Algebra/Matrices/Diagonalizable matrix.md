@@ -1,10 +1,10 @@
-A **diagonalizable matrix** is a [[square matrix]] $A$ that can be decomposed with a [[diagonal matrix]] $D$ and invertible matrix $P$.
+A **diagonalizable matrix** is a [[square matrix]] $A$ that can be decomposed with a [[diagonal matrix]] $D$ and invertible matrix $V$.
 
 $$
-A = PDP^{-1} \iff AP = PD
+A = VDV^{-1} \iff AV = VD
 $$
 
-You might notice that the $AP=PD$ condition is actually a way of simultaneously satisfying all the [[eigenpairs]] equations to realize
+You might notice that $AV=VD$ is automatically satisfied with $V$ and $D$ are the [[eigenpairs]] represented as matrices.
 
 $$
 AV = V \Lambda
