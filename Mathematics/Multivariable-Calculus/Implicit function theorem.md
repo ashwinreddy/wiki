@@ -1,5 +1,4 @@
-
-If $R(x,y)=0$,
+If $R(x,y)=k$,
 
 $$
 \dv{}{x}R(x,y) = \pdv{R}{x}\cancelto{1}{\dv{x}{x}} + \pdv{R}{y}\dv{y}{x} = 0
