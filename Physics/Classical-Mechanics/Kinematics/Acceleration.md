@@ -28,8 +28,3 @@ From there, we can get an equation for the position $\vec{r}$,
 \begin{equation}
 \Delta\vec{r}(t) = \frac{t^2}{2}\vec{a} + t\vec{v}_0 \implies \vec{r}(t) = \frac{t^2}{2}\vec{a} + t\vec{v}_0 + \vec{r}_0
 \end{equation}
-
-
-$$
-\Delta{r}(t) = (\frac{t^2}{2}\vec{a} + t\vec{v}_0)^T(\frac{t^2}{2}\vec{a} + t\vec{v}_0) = \frac{(at)^2}{2} + t^3\vec{v}_0\cdot\vec{a} + t^2v_0^2
-$$
