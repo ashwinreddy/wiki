@@ -18,7 +18,7 @@ A handy special case is when the acceleration is a constant vector $\vec{a}$. Th
 \end{equation}
 
 \begin{equation}
-v(t) = v_0^2 + a^2t^2
+v(t)^2 = v_0^2 + a^2t^2
 \end{equation}
 
 From there, we can get an equation for the position $\vec{r}$,
