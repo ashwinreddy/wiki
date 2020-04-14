@@ -5,7 +5,3 @@ A = VDV^{-1} \iff AV = VD
 $$
 
 You might notice that $AV=VD$ is automatically satisfied with $V$ and $D$ are the [[eigenpairs]] represented as matrices.
-
-$$
-AV = V \Lambda
-$$
