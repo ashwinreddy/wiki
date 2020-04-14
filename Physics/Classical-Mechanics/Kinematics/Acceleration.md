@@ -28,5 +28,5 @@ From there, we can get an equation for the position $\vec{r}$,
 \end{equation}
 
 $$
-r(t) = 
+r(t) = (at^2/2)^2
 $$
