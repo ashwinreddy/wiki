@@ -1,4 +1,4 @@
-**Principal component analysis** is a technique for dimensionality reduction of an $m \times n$ data matrix $A$.
+**Principal component analysis (PCA)** is a technique for dimensionality reduction of an $m \times n$ data matrix $A$.
 
 1. Decide on a dimension $d \ll n$ to project into.
 2. De-mean the $A$ vector:
