@@ -1,13 +1,16 @@
-An **orthogonal matrix** is a matrix $Q$ that satisfies
+An **orthogonal matrix** is a matrix $Q$ whose rows/columns are orthonormal to each other. Equivalently, 
 
 \begin{equation}
 \label{eq:orth-def}
 Q^\top Q = I \iff Q^\top = Q^{-1}
 \end{equation}
 
-Intuitively, the rows/columns are orthonormal to each other.
+
+
 
 # Properties
+
+* $Q \in O(n) \iff Q^\top \in O(n)$
 
 * If we take the determinant of both sides of Equation \ref{eq:orth-def},
 
