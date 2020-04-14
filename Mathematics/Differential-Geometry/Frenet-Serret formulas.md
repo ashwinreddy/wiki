@@ -1,3 +1,7 @@
 $$
-\vec{T}(t) = \frac{\vec{r}'(t)}{\lVert \vec{r}'(t) \rVert}
+\vec{T}(t) = \dv{\vec{r}}{s}
+$$
+
+$$
+\vec{N}(t) = { \over }
 $$
