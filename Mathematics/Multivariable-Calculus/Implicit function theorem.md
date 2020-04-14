@@ -1,6 +1,3 @@
-$$
-\require{cancel}
-$$
 
 If $R(x,y)=0$,
 
