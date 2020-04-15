@@ -7,5 +7,5 @@
 Classical mechanics follows the principle of relativity: Newton's laws are invariant to
 
 $$
-\vec{v}(t) \tp \vec{v}'(t) = \vec{v}(t) - \vec{V}
+\vec{v}(t) \to \vec{v}'(t) = \vec{v}(t) - \vec{V}
 $$
