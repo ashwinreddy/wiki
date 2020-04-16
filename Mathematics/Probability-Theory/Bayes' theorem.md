@@ -4,4 +4,4 @@ $$
 \overbrace{\Pr (A | B)}^{\text{posterior}} = {\overbrace{\Pr(B|A)}^{\text{likelihood}} \over \Pr(B)}\overbrace{\Pr(A)}^\text{prior}
 $$
 
-[[https://www.youtube.com/watch?v=HZGCoVF3YvM]]
+3Blue1Brown [video](https://www.youtube.com/watch?v=HZGCoVF3YvM)
