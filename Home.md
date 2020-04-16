@@ -5,4 +5,4 @@ The philosophy behind this repository is to hold a set of detailed reference not
 |[Engineering](./Engineering/)|[Biology](./Biology/)|[Computer Science](./Computer-Science/)|
 |[Statistics](./Statistics/)|[Economics](./Economics/)|
 
-[[include:Guideliens]]
+[[include:Guidelines]]
