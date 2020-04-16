@@ -9,3 +9,4 @@ A cute, compact way of writing the above (in a way that highlights similarity to
 $$
 \mathbb{P}(X=k) = p^k(1-p)^{1-k}
 $$
+
