@@ -14,7 +14,7 @@ $$
 
 
 |Quantity|Value|
-|--------|-----|
+|--------|:-----:|
 |[[Expected value]]|$p$|
 |[[Variance]]|$pq$|
 |[[Entropy]]|$-q \lg q - p \lg p$|
