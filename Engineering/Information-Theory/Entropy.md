@@ -7,5 +7,3 @@ $$
 $$
 H(X) = -\sum_i p_i \lg p_i
 $$
-
-[paper](https://link.springer.com/content/pdf/10.1007/s12064-020-00313-7.pdf)
