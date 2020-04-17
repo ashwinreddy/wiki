@@ -1,0 +1,1 @@
+$A=QR$ where $Q$ [[orthogonal matrix]] and $R$ [[triangular matrix]].
