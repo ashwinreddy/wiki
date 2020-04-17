@@ -1,0 +1,1 @@
+The **Gram-Schmidt process** is an algorithm for orthonormalizing a basis.
