@@ -1,5 +1,5 @@
-For a function $f(x)$,
+For a function $f(x)$, a polynomial
 
 $$
-\sum_{n=0}^\infty \frac{f^{(n)}(a)}{n!}(x-a)^n
+\sum_{n=0}^\infty a_n (x-x_0)^n; \quad a_n = \frac{D^n f(x_0)}{n!}
 $$
