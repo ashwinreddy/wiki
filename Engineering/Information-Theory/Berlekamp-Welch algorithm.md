@@ -29,3 +29,10 @@ So if we group together the unknown coefficients $a_i$ and $b_i$ we have $n+2k$ 
 $$
 P(x) = \frac{Q(x)}{E(x)} = \frac{\sum_{i=1}^{n+k-1} a_i x^i}{x^k + \sum_{i=1}^{k-1} b_{i} x^{i}}
 $$
+
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+@enduml
