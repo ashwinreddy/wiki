@@ -6,3 +6,5 @@ The **spectral norm** is a [[matrix norm]]
 &= \sqrt{\max_i \lambda_i (A^\top A) } \\\\\
 &= \max_i \sigma_i (A)
 \end{align}
+
+> The most a matrix can stretch a vector is by its maximum singular value.
