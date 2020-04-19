@@ -7,4 +7,6 @@ The **spectral norm** is a [[matrix norm]]
 &= \max_i \sigma_i (A)
 \end{align}
 
+Using [[Rayleigh quotient]]
+
 > The most a matrix can stretch a vector is by its maximum singular value.
