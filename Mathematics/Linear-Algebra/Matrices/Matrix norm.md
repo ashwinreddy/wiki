@@ -3,7 +3,7 @@ A **matrix norm** is just a [[norm]] over the [[vector space]] of [[matrices|mat
 # Frobenius Norm
 
 $$
-\lVert A \rVert_F = \sqrt{\sum_{ij} A_ij}
+\lVert A \rVert_F = \sqrt{\sum_{ij} A_{ij}}
 $$
 
 # Spectral Norm
