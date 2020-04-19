@@ -1,7 +1,7 @@
 The **Rayleigh quotient** for a matrix $M$ and vector $\vec{v}$ is
 
 $$
-R(M, \vec{x}) = {\vec{x}^\top M \vec{x} \over \vec{x}^\top \vec{x} }
+R(M, \vec{x}) \triangleq {\vec{x}^\top M \vec{x} \over \vec{x}^\top \vec{x} }
 $$
 
 Notice that $R(M, c\vec{x}) = R(M, \vec{x})$.
