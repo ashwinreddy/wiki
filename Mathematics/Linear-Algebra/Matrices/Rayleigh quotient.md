@@ -1,8 +1,10 @@
-The **Rayleigh quotient** for a matrix $M$ and vector $\vec{v}$ describes how much $\vec{v}$ stretches under $M$
+The **Rayleigh quotient** for a matrix $M$ and vector $\vec{v}$ describes how much $\vec{v}$ stretches under $M$.
 
 $$
 R(M, \vec{x}) = {\vec{x}^\top M \vec{x} \over \vec{x}^\top \vec{x} }
 $$
+
+Notice that $R(M, c\vec{x}) = R(M, \vec{x})$.
 
 If the maximum and minimum [[eigenpairs]] are $(\lambda\_\min, \vec{v}\_\min)$ and $(\lambda_{\max}, \vec{v}_{\max})$, then
 
