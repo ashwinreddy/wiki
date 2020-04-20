@@ -6,3 +6,5 @@ The philosophy behind this repository is to hold a set of detailed reference not
 |[Statistics](./Statistics/)|[Economics](./Economics/)|[Philosophy](./Philosophy/)|
 
 [[include:Guidelines]]
+
+[[Miscellaneous]]
