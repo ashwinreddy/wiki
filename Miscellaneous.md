@@ -1,6 +1,5 @@
 Removing a conda env:
 
 ```
-conda remove --name myenv --all
-
+conda remove --name [name] --all
 ```
