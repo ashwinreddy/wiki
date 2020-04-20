@@ -16,3 +16,7 @@ $$
 $$
 \mathbb{V}[X+Y]= \mathbb{V}[X] + \mathbb{V}[Y]
 $$
+
+$$
+\mathbb{V}[cX] = c^2 \mathbb{V}[X]
+$$
