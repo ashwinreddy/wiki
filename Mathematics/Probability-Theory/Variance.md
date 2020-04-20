@@ -8,3 +8,7 @@ $$
 &= \mathbb{E}[X^2] - 2\mu\mathbb{E}[X] + \mu^2 \\\\\
 &= \mathbb{E}[X^2] - \mu^2
 \end{align}
+
+\begin{equation}
+\mathbb{V}[X] = \mathbb{E}[X^2] - \mathbb{E}[X]^2
+\end{equation}
