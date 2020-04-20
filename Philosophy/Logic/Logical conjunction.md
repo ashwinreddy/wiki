@@ -1,1 +1,1 @@
-Logical and $land$.
+Logical and $\land$.
