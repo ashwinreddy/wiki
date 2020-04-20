@@ -12,3 +12,7 @@ $$
 \begin{equation}
 \mathbb{V}[X] = \mathbb{E}[X^2] - \mathbb{E}[X]^2
 \end{equation}
+
+$$
+\mathbb{V}[X+Y]= \mathbb{V}[X] + \mathbb{V}[Y]
+$$
