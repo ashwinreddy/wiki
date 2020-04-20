@@ -1,0 +1,1 @@
+Actor-Critic algorithms fit a value function from data and use the value function to inform updates to the policy.
