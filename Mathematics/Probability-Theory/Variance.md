@@ -1,5 +1,5 @@
 $$
-\mathbb{V}[X] = \mathbb{E}[(X - \mu)^2]
+\mathbb{V}[X] \triangleq \mathbb{E}[(X - \mu)^2]
 $$
 
 $$
