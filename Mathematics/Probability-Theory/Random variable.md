@@ -1,0 +1,1 @@
+A **random variable** is a measurable function $X: \Omega \to E$ for [[sample space]] $\Omega$ to measurable space $E$.
