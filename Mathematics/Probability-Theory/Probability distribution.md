@@ -1,4 +1,0 @@
-The **distribution** of a [[random variable]] $X$ is a table of values of $X$ and their probabilities. Examples:
-
-* [[Bernoulli distribution]]
-* [[Binomial distribution]]
