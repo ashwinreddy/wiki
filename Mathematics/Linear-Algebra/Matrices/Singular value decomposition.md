@@ -5,7 +5,7 @@
 A = U\Sigma V^\top
 \end{equation}
 
-# Singular Value
+# Singular Values
 
 There are $\operatorname{rank} A$ singular values $\sigma_i > 0$.
 
