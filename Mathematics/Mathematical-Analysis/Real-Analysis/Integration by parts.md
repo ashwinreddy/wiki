@@ -1,3 +1,3 @@
 $$
-uv = \int v \dd{u}
+uv = \int v \dd{u} + \int u \dd{v}
 $$
