@@ -1,3 +1,7 @@
+Random bits of information I access often
+
+# Conda
+
 Removing a conda env:
 
 ```
@@ -9,3 +13,7 @@ Making one;
 ```
 conda create -n [name]
 ```
+
+# Vim 
+
+Set line numbers: `:set number`
