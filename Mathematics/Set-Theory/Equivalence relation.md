@@ -1,1 +1,1 @@
-An **equivalence relation** is a [[relation]] that is symmetric, reflexive, and transitive.
+An **equivalence relation** is a [[binary relation]] that is symmetric, reflexive, and transitive.
