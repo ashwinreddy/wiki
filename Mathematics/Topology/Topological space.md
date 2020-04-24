@@ -1,0 +1,1 @@
+A topological space is a set of points with their neighborhoods.
