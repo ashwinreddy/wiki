@@ -1,0 +1,1 @@
+The **unitary group** $U(n)$ of degree $n$ is the group of $n \times n$ [[unitary matrices|unitary matrix]].
