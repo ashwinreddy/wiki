@@ -1,1 +1,1 @@
-The **special unitary group** is a [[subgroup]] of the [[unitary group]] with determinant 1, analogous to the [[special orthogonal group]]'s relationship to the [[orthogonal group]].
+The **special unitary group** is a [[subgroup]] of the [[unitary group]] with [[determinant]] 1, analogous to the [[special orthogonal group]]'s relationship to the [[orthogonal group]].
