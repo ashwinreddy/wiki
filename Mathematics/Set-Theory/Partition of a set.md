@@ -1,0 +1,1 @@
+A **partition of a set** is a grouping of a set with each element in exactly one subset.
