@@ -1,5 +1,5 @@
-For a random variable $X$ with support $\Chi$
+For a random variable $X$ with support $\chi$
 
 $$
-h(X) = - \int_{\Chi} f(x) \log f(x) \dd{x}
+h(X) = - \int_{\chi} f(x) \log f(x) \dd{x}
 $$
