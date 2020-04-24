@@ -6,6 +6,7 @@ $$
 
 Just as [[complex number]]s can be represented using matrices, we can extend by defining
 
-$$
-j = \begin{bmatrix}0 & \iota \\ \iota & 0\end{bmatrix}
-$$
+\begin{gather\*}
+j = \begin{bmatrix}0 & \iota \\ \iota & 0\end{bmatrix} \\
+k = \begin{bmatrix}\iota & 0\\ 0 & -\iota\end{bmatrix} \\
+\end{gather\*}
