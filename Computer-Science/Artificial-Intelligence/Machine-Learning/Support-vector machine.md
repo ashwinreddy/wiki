@@ -16,6 +16,10 @@ $$
 Margin
 : The distance between closest point to the hyperplane and the hyperplane
 
-Consider an arbitrary $\vec{x}_{\mathrm{test}}$.
+We prefer a larger margin
 
-So we want a classifier that maximizes the margin.
+Consider an arbitrary $\vec{x}_{\mathrm{test}}$. What is its distance to the hyperplane? The projection is given by
+
+$$
+{\vec{w}^\top (\vec{x}_{\mathrm{test}} - \vec{x}) \over \lVert \vec{w} \rVert^2}
+$$
