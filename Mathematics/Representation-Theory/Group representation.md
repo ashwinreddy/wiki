@@ -17,3 +17,8 @@ $$
 \end{equation}
 
 Let's say that $G$ is the [[general linear group]] $\operatorname{GL}_n(\RR)$ and our vector space is $\RR^n$. Our representation $\varphi$ could be $\varphi(A, \vec{r}) = A\vec{r}$.
+
+# Special cases
+
+* The trivial representation is assigning every group element the identity matrix.
+* [[Dual representation]]
