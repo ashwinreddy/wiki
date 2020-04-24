@@ -21,5 +21,5 @@ We prefer a larger margin
 Consider an arbitrary $\vec{x}_{\mathrm{test}}$. What is its distance to the hyperplane? The projection is given by
 
 $$
-{\vec{w}^\top (\vec{x}_{\mathrm{test}} - \vec{x}) \over \lVert \vec{w} \rVert^2}
+\frac{\vec{w}^\top (\vec{x}_{\mathrm{test}} - \vec{x})}{ \lVert \vec{w} \rVert^2}
 $$
