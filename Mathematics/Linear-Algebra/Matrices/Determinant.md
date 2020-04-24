@@ -5,5 +5,4 @@ The **determinant** of a [[square matrix]] is the signed volume spanned by the c
 * $\det I = 1$
 * $\det AB = \det A \cdot \det B$
 * $\det A^{-1} = \frac{1}{\det A}$
-
-If 
+* If $A$ is triangular, $\det A = \prod_i A_{ii}$
