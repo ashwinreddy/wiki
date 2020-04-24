@@ -7,5 +7,5 @@ $$
 # Solving Differential Equations
 
 $$
-\mathcal{L}\left\{\right\}
+\mathcal{L}\left\{f^{(n)}(t)\right\} = s^n \mathcal{L}\{f(t)\} - s^{n-1}f(0) - \dots - f^{(n-1)}(0)
 $$
