@@ -19,5 +19,7 @@ $$
 Applying Equation,
 
 $$
-\dv{}{x} {y' \over \sqrt{1+ y'^2} } = 0 \implies \frac{y'^2}{1+y'^2} = C
+\dv{}{x} {y' \over \sqrt{1+ y'^2} } = 0 \implies \frac{y'^2}{1+y'^2} = C \implies y' = k
 $$
+
+So we have a straight linee
