@@ -18,8 +18,10 @@ Margin
 
 We prefer a larger margin
 
-Consider an arbitrary $\vec{x}_{\mathrm{test}}$. What is its distance to the hyperplane? The projection is given by
+# Hard-Margin SVM
+
+The hard margin SVM assumes that the data is linearly separable. We want 
 
 $$
-\frac{\vec{w}^\top (\vec{x}_{i} - \vec{x})}{ \lVert \vec{w} \rVert^2} \geq m
+\frac{}{\lVert \vec{w} \rVert_2 }
 $$
