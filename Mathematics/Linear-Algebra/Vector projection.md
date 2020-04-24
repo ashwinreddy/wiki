@@ -10,4 +10,4 @@ We start by using the scalar projection $\lVert \vec{a} \rVert \cos\theta$
 
 # Least Squares
 
-[[Least squares]]
+Recall the [[least squares|Ordinary least squares]] formula
