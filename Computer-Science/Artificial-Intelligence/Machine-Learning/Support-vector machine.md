@@ -30,6 +30,11 @@ $$
 
 The decision boundary is not affected by the norm of $\vec{w}$, so we just pick it to be $1/m$ and then we can say
 
-$$
+\begin{equation}
+\label{eq:soft-svm}
 y_i\left(\vec{w}^\top \vec{x}_i - b  \right) \geq 1
-$$
+\end{equation}
+
+# Soft-Margin SVM
+
+We relax the constraint in Equation \ref{eq:soft-svm}
