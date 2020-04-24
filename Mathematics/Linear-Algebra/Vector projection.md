@@ -10,4 +10,8 @@ We start by using the scalar projection $\lVert \vec{a} \rVert \cos\theta$
 
 # Least Squares
 
-Recall the [[least squares|Ordinary least squares]] formula
+Recall the [[least squares|Ordinary least squares]] formula and demote matrix $A$ to a column vector $\vec{a}$
+
+$$
+\left(\vec{a}^\top \vec{a} \right)^{-1} \vec{a}^\top \vec{b}
+$$
