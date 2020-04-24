@@ -4,7 +4,7 @@ $$
 x_{n+1} = x_{n} - \frac{f(x_n)}{f'(x_n)}
 $$
 
-
+# Derivation
 
 $$
 f(x) \approx f'(x_0)(x-x_0) + f(x_0)
