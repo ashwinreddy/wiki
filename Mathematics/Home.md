@@ -4,5 +4,5 @@ Some useful math resources include:
 * Evan Chen's [Napkin](https://web.evanchen.cc/napkin.html)
 
 |Character|Represents|
-|---------|----------|
+|:-------:|----------|
 |$\epsilon$|Infinitesimal|
