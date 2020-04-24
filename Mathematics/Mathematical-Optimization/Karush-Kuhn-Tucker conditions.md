@@ -2,4 +2,4 @@ The **Karush-Kuhn-Tucker (KKT) conditions** are a neccessary condition for stron
 
 |Condition|Variables|Requires|
 |---------|---------|--------|
-|$f_i(x^\star)\leq 0$|||
+|$f_i(x^\star)\leq 0$|$i=1,\dots,m$||
