@@ -1,4 +1,4 @@
-**Quaternions** are an extension of [[complex number]]s.
+**Quaternions** are an extension of [[complex number]]s used for describing rotations in 3D (i.e. [[special orthogonal group]] ).
 
 $$
 i^2 = j^2 = k^2 = ijk = -1
@@ -11,4 +11,4 @@ j = \begin{bmatrix}0 & \iota \\\\\ \iota & 0\end{bmatrix} \\\\\
 k = \begin{bmatrix}\iota & 0\\\\\ 0 & -\iota\end{bmatrix} \\\\\
 \end{gather\*}
 
-In essence, we've shown that quaternions are isomorphic to [[special unitary group]] $SU(2)$
+In essence, we've shown that quaternions are isomorphic to [[special unitary group]] $SU(2)$.
