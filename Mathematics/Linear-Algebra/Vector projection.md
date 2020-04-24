@@ -12,6 +12,12 @@ $$
 \lVert \vec{a} \rVert \cos\theta = \frac{\vec{a} \cdot \vec{b}}{\lVert \vec{b} \rVert}
 $$
 
+The vector projection is just the scalar projection in the direction $\vec{b}$:
+
+$$
+\lVert \vec{a} \rVert \cos\theta \frac{\vec{b}}{\lVert \vec{b} \rVert} = \frac{\vec{a} \cdot \vec{b}}{\lVert \vec{b} \rVert}\frac{\vec{b}}{\lVert \vec{b} \rVert}
+$$
+
 # Least Squares
 
 Recall the [[least squares|Ordinary least squares]] formula and demote matrix $A$ to a column vector $\vec{a}$. If we want to find $x$ so that $\vec{a}x=\vec{b}$, then
