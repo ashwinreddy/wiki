@@ -1,7 +1,7 @@
 The **Karush-Kuhn-Tucker (KKT) conditions** are a neccessary condition for strong duality. 
 
 |Condition|Variables|Requires|
-|---------|---------|--------|
+|:---------:|---------|--------|
 |$f_i(x^\star)\leq 0$|$i=1,\dots,m$|Primal feasible|
 |$h_i(x^\star)= 0$|$i=1,\dots,p$|Primal feasible|
 |$\lambda_i^\star \geq 0$|$i=1, \dots, m$|Dual feasible|
