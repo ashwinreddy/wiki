@@ -6,4 +6,4 @@ $$
 
 Of course, in the absence of any constraints we can just set the gradient equal to 0. If we have **only** equality constraints, we can turn it into an unconstrained quadratic program!
 
-The feasible set will be those $\vec{x} = \vec{x}_0 + N\vec{z}$ for $\vec{x}_0$ a solution to $A\vec{x}=\vec{b}$ and $N$ the [[nullspace]] of $A$
+The feasible set will be those $\vec{x} = \vec{x}_0 + N\vec{z}$ for $\vec{x}_0$ a solution to $A\vec{x}=\vec{b}$ and $N$ the [[null space]] of $A$
