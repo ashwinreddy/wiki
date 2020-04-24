@@ -4,4 +4,10 @@ $$
 \operatorname{proj} \vec{a} \text{ onto } \vec{b} = { \vec{a}\cdot\vec{b} \over \vec{b}\cdot\vec{b}}\vec{b}
 $$
 
+# Scalar Projection
+
 We start by using the scalar projection $\lVert \vec{a} \rVert \cos\theta$
+
+# Least Squares
+
+[[Least squares]]
