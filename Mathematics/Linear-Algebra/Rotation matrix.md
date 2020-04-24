@@ -1,0 +1,1 @@
+A rotation matrix is a member of the [[special orthogonal group]]
