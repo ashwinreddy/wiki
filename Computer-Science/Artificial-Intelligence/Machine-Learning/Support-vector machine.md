@@ -15,3 +15,5 @@ $$
 
 Margin
 : The distance between closest point to the hyperplane and the hyperplane
+
+So we want a classifier that maximizes the margin.
