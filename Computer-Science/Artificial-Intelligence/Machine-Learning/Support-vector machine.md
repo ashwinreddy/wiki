@@ -3,12 +3,3 @@ A **support-vector machine** is a binary classifier with a linear decision bound
 $$
 f(\vec{x}) = \vec{w}^\top \vec{x} - b
 $$
-
-such that 
-
-$$
-f(\vec{x}_i) = \begin{cases}
- \vec{w}^\top \vec{x}_i - b > 0 & y_i = +1 \\
-\vec{w}^\top \vec{x}_i - b > 0 & y_i = +1
-\end{cases}
-$$
