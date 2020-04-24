@@ -6,4 +6,4 @@ The **Karush-Kuhn-Tucker (KKT) conditions** are a neccessary condition for stron
 |$h_i(x^\star)= 0$|$i=1,\dots,p$|Primal feasible|
 |$\lambda_i^\star \geq 0$|$i=1, \dots, m$|Dual feasible|
 |$\lambda_i^\star f_i(x^\star)=0$|$i=1,\dots,m$|Complementary slackness|
-|$\mathscr{L} = 0$|||
+|$\mathcal{L} = 0$|||
