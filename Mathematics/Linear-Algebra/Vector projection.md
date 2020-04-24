@@ -1,0 +1,1 @@
+The **vector projection** of $\vec{a}$ onto $\vec{b}$ finds the closest representation of $\vec{a}$ as $k\vec{b}$.
