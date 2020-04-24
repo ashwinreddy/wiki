@@ -12,3 +12,6 @@ f(\vec{x}_i) > 0 & y_i =+1\\
 f(\vec{x}_i) < 0 & y_i = -1
 \end{cases}
 $$
+
+Margin
+: The distance between closest point to the hyperplane and the hyperplane
