@@ -7,5 +7,5 @@ $$
 Take the RHS and see what $x$ is the root for it.
 
 $$
--f(x_0) = f'(x_0)(x-x_0)
+-\frac{f(x_0)}{f'(x_0)} = (x-x_0)
 $$
