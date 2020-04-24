@@ -4,7 +4,7 @@ One way to represent a complex number is with a matrix. We let
 
 \begin{gather\*}
 1 = I \\\\\
-\iota = \begin{bmatrix}0 & -1 \\ 1 & 0\end{bmatrix}
+\iota = \begin{bmatrix}0 & -1 \\\\ 1 & 0\end{bmatrix}
 \end{gather\*}
 
 $$
