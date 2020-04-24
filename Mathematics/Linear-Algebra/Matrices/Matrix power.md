@@ -11,3 +11,5 @@ Then,
 $$
 A^n = (VDV^{-1})^n = VD^nV^{-1}
 $$
+
+Of course, it is simple to take the matrix power of a diagonal matrix: just raise the diagonals to the power.
