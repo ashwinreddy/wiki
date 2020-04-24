@@ -6,7 +6,6 @@ $$
 
 # Examples
 
-
 $$
 \vec\nabla (\langle \vec{x}, \vec{a} \rangle) =  \vec{a}
 $$
