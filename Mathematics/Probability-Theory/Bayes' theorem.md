@@ -4,4 +4,8 @@ $$
 \overbrace{\Pr (A | B)}^{\text{posterior}} = {\overbrace{\Pr(B|A)}^{\text{likelihood}} \over \Pr(B)}\overbrace{\Pr(A)}^\text{prior}
 $$
 
-3Blue1Brown [video](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+
+# Resources
+
+* 3Blue1Brown [video](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+* [Article](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/)
