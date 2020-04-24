@@ -1,0 +1,1 @@
+A **meromorphic function** is [[holomorphic|holomorphic function]] everywhere except at its poles. It's a rational function of holomorphic functions.
