@@ -1,0 +1,1 @@
+A manifold that is locally similar enough to a linear space to do calculus.
