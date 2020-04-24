@@ -4,6 +4,8 @@ $$
 f(\vec{x}) = \vec{w}^\top \vec{x} - b
 $$
 
+The decision boundary is given by $f(\vec{x})=0$.
+
 A correct classifier would have
 
 $$
@@ -23,5 +25,5 @@ We prefer a larger margin
 The hard margin SVM assumes that the data is linearly separable. We want 
 
 $$
-\frac{}{\lVert \vec{w} \rVert_2 }
+\frac{y_i\left(\vec{w}^\top \vec{x}_i - b  \right)}{\lVert \vec{w} \rVert_2 }
 $$
