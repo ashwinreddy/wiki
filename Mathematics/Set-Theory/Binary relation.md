@@ -1,0 +1,1 @@
+A binary relation on set $X$ and $Y$ is a subset of the [[Cartesian product]] $X \times Y$.
