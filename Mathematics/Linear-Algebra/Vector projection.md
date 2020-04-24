@@ -25,3 +25,5 @@ Recall the [[least squares|Ordinary least squares]] formula and demote matrix $A
 $$
 x=\left(\vec{a}^\top \vec{a} \right)^{-1} \vec{a}^\top \vec{b}
 $$
+
+<<Warn("$\vec{a}$ and $\vec{b}$ have switched places in this section!")>>
