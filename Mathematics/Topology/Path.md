@@ -1,0 +1,1 @@
+A **path** in a [[topological space]] $X$ is a continuous function $f: I \to X$ where $I$ is the unit interval.
