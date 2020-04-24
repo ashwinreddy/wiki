@@ -1,0 +1,1 @@
+The **Karush-Kuhn-Tucker (KKT) conditions** are a neccessary condition for strong duality.
