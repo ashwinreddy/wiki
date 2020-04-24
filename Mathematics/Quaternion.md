@@ -1,1 +1,1 @@
-**Quaternions** are an extension of [[complex number]]
+**Quaternions** are an extension of [[complex number]]s
