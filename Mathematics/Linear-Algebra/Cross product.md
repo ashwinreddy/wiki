@@ -1,7 +1,7 @@
 The **cross product** is a binary operation $\times$ on two vectors in $\RR^3$.
 
 $$
-(\vec{a}\times\vec{b})_i = \epsilon_{ijk} a_j b_k
+(\vec{a}\times\vec{b})^i = \epsilon_{ijk} a^j b^k
 $$
 
 $$
