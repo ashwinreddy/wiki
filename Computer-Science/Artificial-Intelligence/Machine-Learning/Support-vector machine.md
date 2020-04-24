@@ -7,8 +7,8 @@ $$
 such that 
 
 $$
-\begin{cases}
-f(\vec{x}_i) = \vec{w}^\top \vec{x}_i - b > 0 & y_i = +1 \\
-f(\vec{x}_i) = \vec{w}^\top \vec{x}_i - b > 0 & y_i = +1
+f(\vec{x}_i) = \begin{cases}
+ \vec{w}^\top \vec{x}_i - b > 0 & y_i = +1 \\
+\vec{w}^\top \vec{x}_i - b > 0 & y_i = +1
 \end{cases}
 $$
