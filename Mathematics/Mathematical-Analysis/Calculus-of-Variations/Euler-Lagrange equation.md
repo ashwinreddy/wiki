@@ -15,3 +15,9 @@ The arc length functional is given by
 $$
 s = \int_a^b \sqrt{1 + y'^2}\dd{x}
 $$
+
+Applying Equation,
+
+$$
+\dv{}{x} {y' \over \sqrt{1+ y'^2} } = 0
+$$
