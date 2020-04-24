@@ -27,3 +27,9 @@ The hard margin SVM assumes that the data is linearly separable. We want
 $$
 \frac{y_i\left(\vec{w}^\top \vec{x}_i - b  \right)}{\lVert \vec{w} \rVert_2 } \geq m
 $$
+
+The decision boundary is not affected by the norm of $\vec{w}$, so we just pick it to be $1/m$ and then we can say
+
+$$
+y_i\left(\vec{w}^\top \vec{x}_i - b  \right) \geq 1
+$$
