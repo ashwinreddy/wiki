@@ -7,3 +7,11 @@ $$
 $$
 L_x(t, q, \dot{q}) - \dv{}{t}L_v(t, q, \dot{q}) = 0
 $$
+
+# Example
+
+The arc length functional is given by
+
+$$
+s = \int_a^b \sqrt{1 + y'^2}\dd{x}
+$$
