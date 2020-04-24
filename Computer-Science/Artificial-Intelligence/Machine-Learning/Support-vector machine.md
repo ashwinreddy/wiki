@@ -1,1 +1,1 @@
-A **support-vector machine** is a binary classifier with a linear decision boundary. The data is given by $(\vec{x}_1, y_1), \dots, (\vec{x}_n, y_n)$
+A **support-vector machine** is a binary classifier with a linear decision boundary. The data is given by $(\vec{x}_1, y_1), \dots, (\vec{x}_n, y_n)$ with $y_i \in \\{+1,-1\\}$.
