@@ -40,5 +40,5 @@ y_i\left(\vec{w}^\top \vec{x}_i - b  \right) \geq 1
 We relax the constraint in Equation \ref{eq:soft-svm} by introducing slack variables
 
 $$
-y_i\left(\vec{w}^\top \vec{x}_i - b  \right) \geq 1 - \xi_i
+y_i\left(\vec{w}^\top \vec{x}_i - b  \right) \geq 1 - \xi_i, \quad \xi_i \geq 0 
 $$
