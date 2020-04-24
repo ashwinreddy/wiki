@@ -1,0 +1,1 @@
+**Potential energy** is the energy based on the configuration of the system. 
