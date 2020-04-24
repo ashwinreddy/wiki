@@ -1,0 +1,1 @@
+The **law of excluded middle** says for a proposition $P$ that either $P$ is true or $\neg P$ is true.
