@@ -6,6 +6,8 @@ $$
 
 # Derivation
 
+To first order, we can say that
+
 $$
 f(x) \approx f'(x_0)(x-x_0) + f(x_0)
 $$
