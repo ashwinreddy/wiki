@@ -10,5 +10,5 @@ One way to represent a complex number is with a matrix. We let
 This gives us
 
 $$
-a + b \iota &= \begin{bmatrix} a & -b \\\\\ b & a \end{bmatrix}
+a + b \iota = \begin{bmatrix} a & -b \\\\\ b & a \end{bmatrix}
 $$
