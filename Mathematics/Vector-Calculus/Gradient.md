@@ -1,4 +1,8 @@
-The **gradient** of a function $f: \mathbb{R}^n \to \mathbb{R}$
+The **gradient** of a function $f: \mathbb{R}^n \to \mathbb{R}$ is given by
+
+$$
+(\vec\nabla f)_{i} = {\partial f \over \partial x_i }
+$$
 
 $$
 \vec\nabla \left( \vec{x}^\top A \vec{x} \right) = (A+A^\top)\vec{x}
