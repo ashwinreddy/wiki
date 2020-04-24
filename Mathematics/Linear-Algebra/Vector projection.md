@@ -10,8 +10,8 @@ We start by using the scalar projection $\lVert \vec{a} \rVert \cos\theta$
 
 # Least Squares
 
-Recall the [[least squares|Ordinary least squares]] formula and demote matrix $A$ to a column vector $\vec{a}$
+Recall the [[least squares|Ordinary least squares]] formula and demote matrix $A$ to a column vector $\vec{a}$. If we want to find $x$ so that $\vec{a}x=\vec{b}$, then
 
 $$
-\left(\vec{a}^\top \vec{a} \right)^{-1} \vec{a}^\top \vec{b}
+x=\left(\vec{a}^\top \vec{a} \right)^{-1} \vec{a}^\top \vec{b}
 $$
