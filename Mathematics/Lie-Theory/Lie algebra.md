@@ -8,3 +8,7 @@ Anticommutative
 
 Jacobi identity
 : $[X, [Y,Z]] + [Z,[X,Y]] + [Y,[Z,X]]=0$
+
+# Examples
+
+* The [[cross product]]
