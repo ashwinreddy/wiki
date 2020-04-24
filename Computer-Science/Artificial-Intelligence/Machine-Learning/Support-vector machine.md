@@ -16,4 +16,6 @@ $$
 Margin
 : The distance between closest point to the hyperplane and the hyperplane
 
+Consider an arbitrary $\vec{x}_{\mathrm{test}}$.
+
 So we want a classifier that maximizes the margin.
