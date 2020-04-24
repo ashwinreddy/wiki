@@ -1,5 +1,5 @@
-The odds of an event $E$ is given by
+The odds of an event with probability $p$ is
 
 $$
-o = \frac{\Pr(E)}{\Pr(\neg E)}
+o = \frac{p}{1-p}
 $$
