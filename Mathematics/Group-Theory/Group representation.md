@@ -2,7 +2,7 @@ A **group representation** is a way of describing the way a group transforms obj
 
 * The group identity maps to matrix identity: $R(e) = I$
 * $R(g^{-1}) = (R(g))^{-1}$
-* $R(g)\circ R(h) R(gh)$.
+* $R(g)\circ R(h)= R(gh)$.
 
 
 
