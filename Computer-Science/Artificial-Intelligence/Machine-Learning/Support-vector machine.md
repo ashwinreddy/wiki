@@ -37,4 +37,9 @@ y_i\left(\vec{w}^\top \vec{x}_i - b  \right) \geq 1
 
 # Soft-Margin SVM
 
-We relax the constraint in Equation \ref{eq:soft-svm}
+We relax the constraint in Equation \ref{eq:soft-svm} by introducing slack variables
+
+\begin{equation}
+\label{eq:soft-svm}
+y_i\left(\vec{w}^\top \vec{x}_i - b  \right) \geq 1 - \xi_i
+\end{equation}
