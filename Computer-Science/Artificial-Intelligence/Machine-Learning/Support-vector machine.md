@@ -10,7 +10,7 @@ $$
 \begin{cases}
 f(\vec{x}_i) > 0 & y_i =+1\\
 f(\vec{x}_i) < 0 & y_i = -1
-\end{cases}
+\end{cases} \implies y_i\left( \vec{w}^\top \vec{x}_i  - b \right) \geq 0
 $$
 
 Margin
