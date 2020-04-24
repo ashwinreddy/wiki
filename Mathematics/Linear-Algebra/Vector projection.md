@@ -6,7 +6,11 @@ $$
 
 # Scalar Projection
 
-We start by using the scalar projection $\lVert \vec{a} \rVert \cos\theta$
+We start by considering the scalar projection $\lVert \vec{a} \rVert \cos\theta$. We can compute this by
+
+$$
+\lVert \vec{a} \rVert \cos\theta = \frac{\vec{a} \cdot \vec{b}}{\lVert \vec{b} \rVert}
+$$
 
 # Least Squares
 
