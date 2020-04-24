@@ -3,3 +3,5 @@ A **rotation matrix** is just another name for an [[orthogonal matrix]], usually
 $$
 R(\theta) = \begin{pmatrix}\cos\theta & -\sin\theta \\ \sin\theta & \cos\theta\end{pmatrix}
 $$
+
+* $R(-\theta) = R(\theta)^\top$.
