@@ -5,3 +5,6 @@ Bilinearity
 
 Anticommutative
 : $[X,Y] = -[Y,X]$
+
+Jacobi identity
+: $[X, [Y,Z]] + [Z,[X,Y]] + [Y,[Z,X]]=0$
