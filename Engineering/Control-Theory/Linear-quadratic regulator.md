@@ -1,0 +1,1 @@
+A **linear-quadratic regulator (LQR)** where we assume linear dynamics and a quadratic cost.
