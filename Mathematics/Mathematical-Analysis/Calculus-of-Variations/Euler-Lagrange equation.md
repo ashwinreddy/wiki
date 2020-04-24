@@ -4,6 +4,8 @@ $$
 S(q) = \int_a^b L(t, q, \dot{q}) \dd{t}
 $$
 
+The Euler-Lagrange equation 
+
 $$
 L_x(t, q, \dot{q}) - \dv{}{t}L_v(t, q, \dot{q}) = 0
 $$
