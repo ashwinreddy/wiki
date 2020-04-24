@@ -1,0 +1,1 @@
+A **subrepresentation** of a [[group representation]] is a vector subspace of the representation (which is invariant under group action).
