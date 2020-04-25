@@ -8,5 +8,5 @@ Where $\gamma: \RR \to M$, $\gamma(\lambda_0) = p$ and $\vartheta$ is a linear m
 
 \begin{align}
 \vartheta_{\gamma, p}: C^\infty(M) &\to \RR \\\\\
-f &\mapsto
+f &\mapsto (f \circ \gamma)'(p)
 \end{align}
