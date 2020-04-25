@@ -4,3 +4,9 @@ A **topological space** is a [[set]] of points $X$ along with a $\tau \subseteq 
 3. $U_\alpha \in \tau \implies \bigcup_{\alpha} U_\alpha \in \tau$
 
 Any $X$ admits the chaotic topology $\tau=\\{\emptyset, M\\}$ and the discrete topology $\mathscr{P}(M)$.
+
+For $\RR^d$, the standard topology contains every set $U$ for which
+
+$$
+\forall p \in U: \exists r \in \RR^+: B_r(p) \subseteq U
+$$
