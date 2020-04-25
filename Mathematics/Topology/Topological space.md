@@ -8,3 +8,4 @@ A **topological space** is a [[set]] of points $X$ along with chosen neighborhoo
 Formally, a **topology** on $X$ is $\tau \subseteq \mathscr{P}(X)$ with
 1. $\emptyset \in \tau, X \in \tau$
 2. $U, V \in \tau \implies U \cap V \in \tau$
+3. $U_\alpha \in \tau \implies \bigcup_{\alpha \in A} U_\alpha \in \tau$
