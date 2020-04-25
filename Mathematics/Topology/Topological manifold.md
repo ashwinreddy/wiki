@@ -5,5 +5,5 @@ Chart map
 
 The chart is recorded as $(U, x)$.
 
-Coordinate maps
-: For a chart map $x$, we can split it into $d$ functions $x^i: U \to \RR$
+Coordinate map
+: An $x^i: U \to RR$ for a chart map $x$
