@@ -1,4 +1,4 @@
-A **Lie group** is a group $G$ that is also a manifold.
+A **Lie group** is a group $G$ that is also a smooth [[manifold]].
 
 # Examples
 
