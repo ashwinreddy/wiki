@@ -1,0 +1,1 @@
+On a [[topological space]] $(X, \tau)$, an **open set** is a $U \in \tau$.
