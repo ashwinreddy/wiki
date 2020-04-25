@@ -14,3 +14,5 @@ $$
 $$
 
 where $B_r(p)$ is the [[open ball]] of radius $r$ at $p$.
+
+[[Subset topology]]
