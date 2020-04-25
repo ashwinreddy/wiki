@@ -1,0 +1,1 @@
+On a [[topological space]] $(X, \tau)$, a **closed set** is an $A$ for which $X \setminus A \in \tau$.
