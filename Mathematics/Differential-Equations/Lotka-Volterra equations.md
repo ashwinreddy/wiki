@@ -5,5 +5,5 @@ The **Lotka-Volterra equations** describe predator-prey dynamics.
 \end{align}
 
 $$
-x+ :\heart:
+x+ :heart\:
 $$
