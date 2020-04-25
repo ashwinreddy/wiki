@@ -1,1 +1,1 @@
-A **homeomorphism** is a [[continuous function]] between [[topological space]]s
+A **homeomorphism** is a [[continuous function]] between [[topological space]]s whose inverse is also continuous.
