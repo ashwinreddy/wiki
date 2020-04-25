@@ -1,4 +1,4 @@
-A **topological manifold** is a topological space $(X, \tau)$ if every point is charted.
+A **topological manifold** is a [[topological space]] $(X, \tau)$ if every point is charted.
 
 Chart map
 : A [[homeomorphism]] between an [[open set]] on the manifold and an open subset of $\RR^d$.
