@@ -1,0 +1,1 @@
+A **group homomorphism** is a map $f: G\to H$ for groups $G$ and $H$ such that $f(g_1g_2)=f(g_1)f(g_2)$
