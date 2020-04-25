@@ -4,7 +4,7 @@ $$
 T_p M = \{\vartheta_{\gamma , p} | \gamma \text{ smooth curve} \}
 $$
 
-Where $\gamma: \RR \to M$, $\gamma(\lambda_0) = p$ and $\vartheta$ is a linear map
+Where $\gamma: \RR \to M$, $\gamma(\lambda_0) = p$ and $\vartheta$ is a "velocity" linear map (i.e. directional derivative)
 
 \begin{align}
 \vartheta_{\gamma, p}: C^\infty(M) &\to \RR \\\\\
