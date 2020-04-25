@@ -1,0 +1,1 @@
+A **subset topology** for a [[topological space]] $X$ is an $S \subseteq X$ whose topology is inherited from $X$.
