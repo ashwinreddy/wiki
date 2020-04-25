@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-Y \in \mathscr{P}(S) \iff Y \in S
+Y \in \mathscr{P}(S) \iff Y \subseteq S
 $$
