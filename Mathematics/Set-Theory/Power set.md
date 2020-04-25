@@ -1,1 +1,1 @@
-The **power set** of a [[set]] $S$ is the [[set]] of all [[subsets|subset]] of $S$
+The **power set** of a [[set]] $S$ is the [[set]] of all [[subsets|subset]] of $S$.
