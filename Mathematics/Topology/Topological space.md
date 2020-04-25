@@ -10,3 +10,5 @@ For $\RR^d$, the standard topology contains every set $U$ for which
 $$
 \forall p \in U: \exists r \in \RR^+: B_r(p) \subseteq U
 $$
+
+where $B_r(p)$ is the [[open ball]] of radius $r$ at $p$.
