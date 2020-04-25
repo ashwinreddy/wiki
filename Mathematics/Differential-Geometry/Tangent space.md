@@ -4,8 +4,8 @@ $$
 T_p M = \{\vartheta_{\gamma , p} | \gamma \text{ smooth curve} \}
 $$
 
-Where $\gamma$ is a velocity
+Where $\gamma: \RR \to M$, $\gamma(\lambda_0) = p$ and $\vartheta$ is a linear map
 
 $$
-
+\vartheta_{\gamma, p}: C^\infty(M) \to \RR
 $$
