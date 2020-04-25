@@ -1,0 +1,1 @@
+A **differentiable manifold** is a special [[topological manifold]].
