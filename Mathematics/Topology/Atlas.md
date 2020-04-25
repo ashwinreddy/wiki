@@ -1,0 +1,1 @@
+An **atlas** is a collection of charts which map the whole [[topological manifold]]
