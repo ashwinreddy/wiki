@@ -5,4 +5,4 @@ A **Lie group** is a group $G$ that is also a smooth [[manifold]] with a map $\m
 * $(\RR^n, +)$
 * [[special unitary group]] $SU(2)$
 * [[unitary group]] $U(1)$
-* $\operatorname{GL}(n, \RR)$
+* [[general linear group]] $\operatorname{GL}(n, \RR)$
