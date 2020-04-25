@@ -4,4 +4,4 @@ $$
 B_r(x) = \{y: | y - x | < r \}
 $$
 
-<<Warn("what notion of distance?")>>
+<<Warn("which notion of distance do we use?")>>
