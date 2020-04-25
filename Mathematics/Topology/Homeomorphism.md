@@ -1,0 +1,1 @@
+A **homeomorphism** is a [[continuous function]] between [[topological space]]s
