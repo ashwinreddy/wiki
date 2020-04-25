@@ -6,6 +6,7 @@ $$
 
 Where $\gamma: \RR \to M$, $\gamma(\lambda_0) = p$ and $\vartheta$ is a linear map
 
-$$
-\vartheta_{\gamma, p}: C^\infty(M) \to \RR
-$$
+\begin{align}
+\vartheta_{\gamma, p}: C^\infty(M) &\to \RR \\
+f &\mapsto
+\end{align}
