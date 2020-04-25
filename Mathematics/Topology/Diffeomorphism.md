@@ -1,0 +1,1 @@
+A **diffeomorphism** between two [[differentiable manifolds]] is a [[bijection]] differentiable in both directionss.
