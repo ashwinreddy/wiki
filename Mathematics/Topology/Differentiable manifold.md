@@ -1,1 +1,1 @@
-A **differentiable manifold** is a special [[topological manifold]].
+A **differentiable manifold** is a [[topological manifold]] with an appropriate compatible [[atlas]].
