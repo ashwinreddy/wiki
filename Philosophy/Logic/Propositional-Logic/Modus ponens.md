@@ -1,1 +1,1 @@
-Modus ponens says that $\left(P \implies Q \land P\right) \implies Q$.
+Modus ponens says that $\left(\left(P \implies Q\right) \land P\right) \implies Q$.
