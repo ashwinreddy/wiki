@@ -4,3 +4,4 @@ A **Lie group** is a group $G$ that is also a smooth [[manifold]] with a map $\m
 
 * $(\RR^n, +)$
 * [[special unitary group]] $SU(2)$
+* $U(1)$
