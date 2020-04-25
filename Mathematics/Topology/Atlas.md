@@ -4,4 +4,4 @@ An **atlas** is a collection of charts which map the whole [[topological manifol
 
 The maximal atlas contains all possible charts.
 
-An atlas can be $\FiveFlowerPetal$
+An atlas can be $\diamondsuit$-compatible
