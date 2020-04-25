@@ -1,1 +1,1 @@
-An **atlas** is a collection of charts which map the whole [[topological manifold]]. 
+An **atlas** is a collection of charts which map the whole [[topological manifold]]. The maximal atlas contains all possible charts.
