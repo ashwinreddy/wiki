@@ -1,0 +1,1 @@
+An **algebra over a field** is a [[vector space]] with a bilinear product.
