@@ -1,0 +1,1 @@
+The **complement** of a [[set]] $A$ is every set that is not $A$ in a universe.
