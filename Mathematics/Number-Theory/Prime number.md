@@ -4,4 +4,4 @@ Primes are useful because of the [[fundamental theorem of arithmetic]] which ena
 
 # Checking
 
-There is in general no efficient way to check if a number $n$ is prime other than to check that no number below it divides it. However, we only have to check from 2 to $\lfloor \sqrt{n} \rfloor$
+There is in general no efficient way to check if a number $n$ is prime other than to check that no number below it divides it. However, we only have to check from 2 to $\lfloor \sqrt{n} \rfloor$. See [[composite number]].
