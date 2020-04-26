@@ -1,0 +1,1 @@
+A **composite** number is one that is not a [[prime number]]
