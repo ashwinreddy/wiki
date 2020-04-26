@@ -1,1 +1,3 @@
 A prime number is a natural number greater than 1 whose only divisors are 1 and itself. There are an infinite number of primes by [[Euclid's theorem]].
+
+Primes are useful because of the [[fundamental theorem of arithmetic]] which enables [[integer factorization]].
