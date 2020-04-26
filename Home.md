@@ -8,3 +8,4 @@ The philosophy behind this repository is to hold a set of detailed reference not
 
 [[include:Guidelines]]
 
+Global [[table of contents]]
