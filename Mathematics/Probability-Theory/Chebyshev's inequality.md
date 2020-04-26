@@ -3,3 +3,9 @@
 \begin{equation}
 \mathbb{P}[ |X - \mu| \geq c] \leq \frac{\mathbb{V}[X]}{c^2}
 \end{equation}
+
+As a corollary, if we let the standard deviation be $\sigma$,
+
+\begin{equation}
+\mathbb{P}[ |X - \mu| \geq k\sigma] \leq \frac{1}{k^2}
+\end{equation}
