@@ -12,6 +12,7 @@ A more computationally practical form is given by
 &= \mathbb{E}[X^2] - \mu^2
 \end{align\*}
 
+If $X$ and $Y$ are independent,
 
 $$
 \mathbb{V}[X+Y]= \mathbb{V}[X] + \mathbb{V}[Y]
