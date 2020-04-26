@@ -1,4 +1,4 @@
-**Markov's inequality** says that for a random variable $X$ with $X(\omega) \geq 0$ for every $\omega \in \Omega$,
+**Markov's inequality** upper bounds the probability that a non-negative random variable $X$ (i.e. $X(\omega) \geq 0$ for every $\omega \in \Omega$) is bigger than a positive constant $a$.
 
 $$
 \Pr\big(a \leq X \big) \leq \frac{\mathbb{E}[X]}{a}
