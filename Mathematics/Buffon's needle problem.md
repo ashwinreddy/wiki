@@ -9,5 +9,5 @@ $$
 $$
 
 \begin{align\*}
-\mathbb{P}[E] = \int^{\pi/2}_{-\pi/2}\int_0^{\ell\cos\theta/2} \frac{2}{\pi\ell}\dd{y}\dd{\theta}
+\mathbb{P}[E] = \int\limits^{\pi/2}_{-\pi/2}\int_0^{\ell\cos\theta/2} \frac{2}{\pi\ell}\dd{y}\dd{\theta}
 \end{align\*}
