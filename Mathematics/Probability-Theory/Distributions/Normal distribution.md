@@ -1,7 +1,5 @@
-# Standard normal distribution
-
-Special case $\mu = 0$, $\sigma = 1$.
+A **normal distribution**
 
 $$
-\varphi(x) = {\exp(-x^2/2) \over \sqrt{2\pi}}
+{\displaystyle f(x)={\frac {1}{\sigma {\sqrt {2\pi }}}}e^{-{\frac {1}{2}}\left({\frac {x-\mu }{\sigma }}\right)^{2}}}
 $$
