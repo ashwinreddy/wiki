@@ -1,0 +1,1 @@
+The **sample space** of a experiment is the set $\Omega$ of all possible outcomes.
