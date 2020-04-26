@@ -10,5 +10,6 @@ $$
 
 \begin{align\*}
 \mathbb{P}[E] &= \int\limits^{\pi/2}\_{-\pi/2}\int\limits_0^{\ell\cos\theta/2} \frac{2}{\pi\ell}\dd{y}\dd{\theta} \\\\\
-&= \int\limits^{\pi/2}\_{-\pi/2}\frac{\cancel{2}}{\pi\cancel\ell}\frac{\cancel\ell\cos\theta}{\cancel{2}}\dd{\theta}
+&= \int\limits^{\pi/2}\_{-\pi/2}\frac{\cancel{2}}{\pi\cancel\ell}\frac{\cancel\ell\cos\theta}{\cancel{2}}\dd{\theta} \\\\
+&= \frac{2}{\pi}
 \end{align\*}
