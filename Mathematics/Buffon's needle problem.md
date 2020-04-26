@@ -7,3 +7,7 @@ $$
 $$
 \mathbb{P}[E] = \mathbb{P}\left[Y \leq \frac{\ell}{2} \cos\Theta\right] = \int^{\pi/2}_{-\pi/2}\int_0^{\ell\cos\theta/2} f(y,\theta)\dd{y}\dd{\theta}
 $$
+
+\begin{align\*}
+\mathbb{P}[E] = \int^{\pi/2}_{-\pi/2}\int_0^{\ell\cos\theta/2} \frac{2}{\pi\ell}\dd{y}\dd{\theta}
+\end{align\*}
