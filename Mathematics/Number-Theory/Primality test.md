@@ -1,0 +1,1 @@
+A **primality test** is an algorithm for testing whether an input is prime.
