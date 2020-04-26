@@ -1,4 +1,4 @@
-The philosophy behind this repository is to hold a set of detailed reference notes on technical subjects.
+The philosophy behind this repository is to hold a set of detailed reference notes on technical subjects. There is a global [[table of contents]] for easy lookup (or use the search bar).
 
 
 |[Mathematics](./Mathematics/)|[Physics](./Physics/)|[Chemistry](./Chemistry/)|
@@ -7,5 +7,3 @@ The philosophy behind this repository is to hold a set of detailed reference not
 |[[Miscellaneous]]|
 
 [[include:Guidelines]]
-
-There is a global [[table of contents]] for easy lookup (or use the search bar).
