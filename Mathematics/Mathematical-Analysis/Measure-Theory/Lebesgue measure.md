@@ -1,0 +1,1 @@
+The **Lebesgue measure** is a [[measure]] for $\RR^n$.
