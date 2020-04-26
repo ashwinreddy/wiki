@@ -5,5 +5,5 @@ f(y, \theta) = \begin{cases} \frac{2}{\pi \ell} & (y,\theta)\in [0, \ell/2]\time
 $$
 
 $$
-\mathbb{P}[E] = \mathbb{P}\left[Y \leq \frac{\ell}{2} \cos\Theta\right]
+\mathbb{P}[E] = \mathbb{P}\left[Y \leq \frac{\ell}{2} \cos\Theta\right] = \int^{\pi/2}_{-\pi/2}\int_0^{\ell\cos\theta/2} f(y,\theta)\dd{y}\dd{\theta}
 $$
