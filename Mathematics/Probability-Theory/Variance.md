@@ -1,8 +1,10 @@
-The **variance** of a [[random variable]] is the 2nd moment
+The **variance** of a [[random variable]] is the 2nd moment.
 
 $$
 \mathbb{V}[X] \triangleq \mathbb{E}[(X - \mu)^2]
 $$
+
+A more computationally practical form is
 
 \begin{align\*}
 \mathbb{V}[X] &= \mathbb{E}[(X - \mu)^2] \\\\\
