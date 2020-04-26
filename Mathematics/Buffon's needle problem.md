@@ -1,0 +1,1 @@
+**Buffon's needle problem** asks what the probability of a needle randomly thrown on the ground will lie across two wooden boards.
