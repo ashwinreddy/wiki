@@ -1,1 +1,1 @@
-A **random variable** is a measurable function $X: \Omega \to E$ for [[sample space]] $\Omega$ to measurable space $E$. In essence, a random variable maps every outcome $\omega$ to some number.
+A **random variable** is a measurable function $X: \Omega \to E$ for [[sample space]] $\Omega$ to measurable space $E$. In essence, a random variable maps every outcome $\omega$ to some number by means of some rule (e.g. number of heads in a sequence of coin flips).
