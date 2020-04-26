@@ -11,4 +11,4 @@ $$
 |Quantity|Value|
 |--------|:-----:|
 |[[Expected value]]|$1/lambda$|
-|[[Variance]]|$1\lambda^2$|
+|[[Variance]]|$1/lambda^2$|
