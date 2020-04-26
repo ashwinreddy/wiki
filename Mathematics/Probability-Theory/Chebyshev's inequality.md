@@ -1,4 +1,6 @@
-**Chebyshev's inequality** puts an upper bound on the probability that a random variable $X$ is $c$ away from its mean $\mu = \mathbb{E}[X]$ as a function of its non-zero variance $\mathbb{V}[X}$.
+**Chebyshev's inequality** puts an upper bound on the probability that a random variable $X$ is $c$ away from its mean $\mu = \mathbb{E}[X]$.
+
+This only works if the variance is nonzero.
 
 \begin{equation}
 \mathbb{P}[ |X - \mu| \geq c] \leq \frac{\mathbb{V}[X]}{c^2}
