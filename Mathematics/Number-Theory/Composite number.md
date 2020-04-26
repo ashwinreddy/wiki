@@ -1,1 +1,1 @@
-A **composite** number is one that is not a [[prime number]]
+A **composite** number is one that is not a [[prime number]]. The first composite number is 4.
