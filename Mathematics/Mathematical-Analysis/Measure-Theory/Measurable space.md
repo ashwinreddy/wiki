@@ -1,0 +1,1 @@
+A **measurable space** is a set and a $sigma$-algebra
