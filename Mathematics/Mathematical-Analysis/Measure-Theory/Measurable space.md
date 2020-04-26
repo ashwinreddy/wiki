@@ -1,1 +1,1 @@
-A **measurable space** is a $(X, \mathcal{A})$ set and a $\sigma$-algebra
+A **measurable space** is a $(X, \mathcal{A})$ for a set $X$ and a $\sigma$-algebra $\mathcal{A}$.
