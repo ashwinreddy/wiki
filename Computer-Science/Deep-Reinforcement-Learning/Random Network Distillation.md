@@ -1,4 +1,4 @@
-**[Random network distillation](https://arxiv.org/pdf/1810.12894.pdf)** introduces an exploration bonus for deep reinforcement learning methods. It adds an intrinsic reward $i_t$ along with the usual extrinsic reward $e_t$:
+**[Random network distillation](https://arxiv.org/pdf/1810.12894.pdf)** (RND) introduces an exploration bonus for deep reinforcement learning methods. It adds an intrinsic reward $i_t$ along with the usual extrinsic reward $e_t$:
 
 $$
 r_t = i_t + e_t
