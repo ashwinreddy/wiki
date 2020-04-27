@@ -6,4 +6,4 @@ $$
 \vec{x}[t+1] = A\vec{x}[t] + B\vec{u}[t]
 $$
 
-is stable if $|\lambda_i| < 1$ for all its eigenvalues $\lambda_i$.
+is stable if $\vert\lambda\_i\vert < 1$ for all its eigenvalues $\lambda\_i$.
