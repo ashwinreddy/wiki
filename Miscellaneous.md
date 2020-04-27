@@ -17,3 +17,9 @@ conda create -n [name]
 # Vim 
 
 Set line numbers: `:set number`
+
+# Etc.
+
+```
+grep -r [search term] ./
+```
