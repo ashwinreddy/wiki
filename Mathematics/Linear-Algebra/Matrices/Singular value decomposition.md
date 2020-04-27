@@ -65,7 +65,10 @@ The dimensions of these matrices depend on the variant.
 
 # Computation
 
-You may choose to use either $A^\top A$ or $AA^\top$ to find the SVD. In either case, the first step is to find the eigenvalues of your chosen square matrix. Next, you need to find the eigenvectors $\lambda_i$. Collect the non-negative eigenvalues (if you find any negative $\lambda$, you messed up). 
+1. Read in $A \in \RR^{m \times n}$. If $m < n$, compute $AA^\top$, else compute $A^\top A$. Use symmetry to reduce number of computations.
+2. Find the eigenvalues $\lambda_i$ of the matrix. Rank order them, and assign $\sigma_i = \sqrt{\lambda_i}$.
+3. Compute the eigenvectors.
+4. Use the table below to find the other set.
 
 
 |Step|$A^\top A$|$AA^\top$|
