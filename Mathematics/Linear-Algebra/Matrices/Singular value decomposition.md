@@ -71,9 +71,6 @@ The dimensions of these matrices depend on the variant.
 4. Use the table below to find the other set.
 
 
-|Step|$A^\top A$|$AA^\top$|
-|----|-----------|--------|
-|1. Find eigenvalues|||
-|2. Find one set of eigenvectors|$\vec{v}_i$|$\vec{u}_i$|
-|3. Obtain the other set by computation|$\vec{u}_i = \frac{1}{\sigma_i}A\vec{v}_i$|$\vec{v}_i = \frac{1}{\sigma_i}A^\top \vec{u}_i$|
+|$A^\top A$|$AA^\top$|
+|$\vec{u}_i = \frac{1}{\sigma_i}A\vec{v}_i$|$\vec{v}_i = \frac{1}{\sigma_i}A^\top \vec{u}_i$|
 
