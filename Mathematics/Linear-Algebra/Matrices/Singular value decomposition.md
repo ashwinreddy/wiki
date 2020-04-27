@@ -67,7 +67,7 @@ The dimensions of these matrices depend on the variant.
 
 1. Read in $A \in \RR^{m \times n}$. If $m < n$, compute $AA^\top$, else compute $A^\top A$. Use symmetry to reduce number of computations.
 2. Find the eigenvalues $\lambda_i$ of the matrix. Rank order them, and assign $\sigma_i = \sqrt{\lambda_i}$.
-3. Compute the eigenvectors. [[Orthonormalize|Gram-Schmidt]] them
+3. Compute the eigenvectors. [[Orthonormalize|Gram-Schmidt process]] them
 4. Use the table below to find the other set.
 
 
