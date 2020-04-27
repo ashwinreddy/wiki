@@ -7,3 +7,10 @@ $$
 $$
 
 is stable if $\vert\lambda\_i\vert < 1$ for all its eigenvalues $\lambda\_i$.
+
+
+A continuous time system is stable if
+
+$$
+\forall \lambda_i : \Re \{\lambda_i\} < 0
+$$
