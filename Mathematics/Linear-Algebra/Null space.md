@@ -4,8 +4,3 @@ $$
 \mathcal{N}(A) \triangleq \{ \vec{x} \in \RR^n | A\vec{x} = \vec{0}\}
 $$
 
-Often, we like to organize $\mathcal{N}(A)$ as the [[range]] of a matrix $X$ with
-
-$$
-AX = 0
-$$
