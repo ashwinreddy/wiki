@@ -30,4 +30,5 @@ We also want to normalize on the output side, so each dimension of the observati
 
 1. Sample a trajectory of length $M$ by picking uniformly over actions.
 2. Use each state to update the observation normalization parameters
-3. For each step in a rollout, compute $i_t$ using Equation \ref{eq:intrinsic-reward}.
+3. For each step in a rollout, compute $i_t$ using Equation \ref{eq:intrinsic-reward}. Also, update the reward normalization.
+4. Between rollouts, update observation normalization parameters. When optimizing the policy, also optimize the distillation loss.
