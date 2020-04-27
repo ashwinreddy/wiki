@@ -10,3 +10,9 @@ The predictor is trained to minimize
 $$
 \mathbb{E}_{x}\left[ \lVert \hat{f}(x; \theta) - f(x) \rVert^2 \right]
 $$
+
+# Reward and Observation Normalization
+
+One issue is that the reward scales vary over environments/time. To remedy this, divide the intrinsic reward by running standard deviation of the intrinsic return.
+
+We also want to normalize on the output side, so each dimension of the observation is whitened by subtracting the mean and dividing by the standard deviation. The output is also clipped from -5 to 5.
