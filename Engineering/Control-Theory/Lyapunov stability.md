@@ -1,4 +1,4 @@
-A system is stable if the state remains bounded for any initial condition and any bounded input sequence.
+Lyapunov stability. A system is stable if the state remains bounded for any initial condition and any bounded input sequence.
 
 A discrete-time linear sytem
 
