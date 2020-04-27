@@ -7,3 +7,9 @@ $$
 $$
 \det e^A = e^{\operatorname{tr} A}
 $$
+
+If $D$ is a [[diagonal matrix]], then 
+
+$$
+(e^D)_{ii} = e^{D_{ii}}
+$$
