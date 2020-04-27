@@ -6,7 +6,11 @@ $$
 \vec{x}[t+1] = A\vec{x}[t] + B\vec{u}[t]
 $$
 
-is stable if $\vert\lambda\_i\vert < 1$ for all its eigenvalues $\lambda\_i$.
+is stable if 
+
+$$
+\forall \lambda_i : \vert \lambda_i \vert < 1
+$$
 
 
 A continuous time system is stable if
