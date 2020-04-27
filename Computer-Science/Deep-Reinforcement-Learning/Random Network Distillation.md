@@ -15,9 +15,10 @@ $$
 \mathbb{E}_{x}\left[ \lVert \hat{f}(x; \theta) - f(x) \rVert^2 \right]
 $$
 
-$$
-i_t = \lVert \hat{f}(s_{t+1}) - f(s_{t+1}) \rVert^2
-$$
+\begin{equation}
+\label{eq:intrinsic-reward}
+\boxed{i_t = \lVert \hat{f}(s_{t+1}) - f(s_{t+1}) \rVert^2}
+\end{equation}
 
 # Reward and Observation Normalization
 
@@ -29,4 +30,4 @@ We also want to normalize on the output side, so each dimension of the observati
 
 1. Sample a trajectory of length $M$ by picking uniformly over actions.
 2. Use each state to update the observation normalization parameters
-3. For each rollout, 
+3. For each step in a rollout, compute $i_t$ using \ref{eq:intrinisc-reward}.
