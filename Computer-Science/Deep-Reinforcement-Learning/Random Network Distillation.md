@@ -8,5 +8,5 @@ Random network distillation introduces an exploration bonus for deep reinforceme
 The predictor is trained to minimize
 
 $$
-\mathbb{E}_{x}[ \lVert \hat{f}(x; \theta) - f(x) \rVert^2 ]
+\mathbb{E}_{x}\left[ \lVert \hat{f}(x; \theta) - f(x) \rVert^2 \right]
 $$
