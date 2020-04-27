@@ -4,8 +4,8 @@ $$
 Z = \frac{\tilde{V}}{\tilde{I}}
 $$
 
-|Component|Impedance|
-|---------|---------|
-|Resistor|$Z_R = R$|
+|Component|Impedance|Angle|Magnitude|
+|---------|---------|-----|----------|
+|Resistor|$Z_R = R$|$0$|$R$|
 |Capacitor|$Z_C = \frac{1}{j \omega C}$|
 |Inductor|$Z_L = j \omega L$|
