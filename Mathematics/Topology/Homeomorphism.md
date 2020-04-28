@@ -1,1 +1,1 @@
-A **homeomorphism** is a [[bijection]] between manifolds that is [[continuous|continuous function]] in both directions.
+A **homeomorphism** is essentially a topological [[isomorphism]]. It is a [[bijection]] between manifolds that is [[continuous|continuous function]] in both directions.
