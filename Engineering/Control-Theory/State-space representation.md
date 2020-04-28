@@ -25,5 +25,5 @@ $$
 \dv{}{t} \tilde{\vec{x}}(t) = \dv{}{t} \vec{x}(t) = A\tilde{\vec{x}}(t) + B\tilde{\vec{u}}(t)
 $$
 
-# Discretization
+# Controllable Canonical FOrm
 
