@@ -10,9 +10,6 @@ A **state-space representation** models a physical system using input, output, a
 
 If our model has a complicated form for $f$, we can use a linear approximation.
 
-Equilibrium point
-: A state $\vec{x}^\star$ for a constant input $\vec{u}^\star$ such that $f(\vec{x}^\star, \vec{u}^\star)=0$.
-
 $$
 A = \left[\nabla_\vec{x} f(\vec{x}, \vec{u})\right]_{\vec{x}^\star, \vec{u}^\star},\quad B = \left[\nabla_\vec{u} f(\vec{x}, \vec{u})\right]_{\vec{x}^\star, \vec{u}^\star}
 $$
