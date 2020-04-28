@@ -1,5 +1,5 @@
 An **equilibrium point** for 
 
 $$
-{\frac {d\mathbf {x} }{dt}}=\mathbf {f} (t,\mathbf {x} )
+\dv{\vec{x}}{t} =\mathbf {f} (t,\mathbf {x} )
 $$
