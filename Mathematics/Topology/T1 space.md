@@ -1,0 +1,1 @@
+A **$T_1$ space** is a [[topological space]] where distinct points have neighborhoods that don't include each other.
