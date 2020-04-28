@@ -5,3 +5,5 @@ The change in [[current|electric current]] across an inductor is proportional to
 $$
 V_L = L \dv{i_L}{t}
 $$
+
+Inductors in series add because the number of coils is effectively increased.
