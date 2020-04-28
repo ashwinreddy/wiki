@@ -1,1 +1,1 @@
-A **bundle** of [[topological manifold]]s is a triple $(E, \pi, M)$ where $E$ and $M$ are the **total space** and **base space** and a **projection map** $\pi$, continuous and surjective.
+A **bundle** of [[topological manifold]]s is a triple $(E, \pi, M)$ where $E$ and $M$ are the **total space** and **base space** and a **projection map** $\pi: E \to M$, continuous and surjective.
