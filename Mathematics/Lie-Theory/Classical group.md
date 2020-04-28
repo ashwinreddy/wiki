@@ -1,6 +1,6 @@
 Examples of classical group include: 
 
-* $SO(3)$
-* $GL(n, \RR)$
-* $SL(n, \RR)$
-* $O(n)$
+* $\mathrm{SO}(3)$
+* $\mathrm{GL}(n, \RR)$
+* $\mathrm{SL}(n, \RR)$
+* $\mathrm{O}(n)$
