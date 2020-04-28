@@ -1,7 +1,7 @@
 The factorial $n!$ for a non-negative integer $n$ is the number of permutations of $n$ objects:
 
 $$
-n! = n\times (n-1)\cdot\dots \cdot 2 \cdot 1
+n! = n\cdot (n-1)\cdot\dots \cdot 2 \cdot 1
 $$
 
 By extension of the pattern, $0!=1$.
