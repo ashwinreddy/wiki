@@ -11,7 +11,7 @@ $$
 $$
 
 $$
-\vec\nabla (\langle \vec{x}, \vec{x} \rangle) =  2\vec{x}
+\vec\nabla\lVert \vec{x} \rVert^2 = \vec\nabla (\langle \vec{x}, \vec{x} \rangle) =  2\vec{x}
 $$
 
 
