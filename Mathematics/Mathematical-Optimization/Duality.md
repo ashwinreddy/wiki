@@ -7,7 +7,7 @@ with the solution to a dual problem, usually the [[Lagrange dual problem|Lagrang
 Duality gap
 : $p^* - d^* \geq 0$
 
-If the duality gap is zero, we say **strong duality** holds. Otherwise, we can only rely on weak duality. 
+If the duality gap is zero, we say **strong duality** holds. Otherwise, we can only rely on weak duality. Strong duality conditions come from
 
 * [[Slater's condition]]
 * [[KKT | Karush-Kuhn-Tucker conditions]]
