@@ -15,7 +15,7 @@ $$
 $$
 
 $$
-\vec\nabla \lVert A \vec{x} \rVert^2_2 = \vec\nabla\left[ \left(A\vec{x}\right)^\top A\vec{x} \right]
+\vec\nabla \left[ \lVert A \vec{x} \rVert^2_2 \right] = \vec\nabla\left[ \left(A\vec{x}\right)^\top A\vec{x} \right]
 $$
 
 $$
