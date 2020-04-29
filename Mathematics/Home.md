@@ -1,6 +1,7 @@
 # Overview
 
 * [Optimization](./Mathematical-Optimization/)
+* [Linear Algebra](./Linear-Algebra/)
 
 # Resources
 
