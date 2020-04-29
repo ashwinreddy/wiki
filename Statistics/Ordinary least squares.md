@@ -7,9 +7,3 @@ $$
 
 
 The dagger ($\dagger$) represents the [[Moore-Penrose inverse]].
-
-# Interpretation
-
-$$
-\vec{x} = (A^\top A)^{-1}A^\top \vec{b}
-$$
