@@ -1,4 +1,4 @@
-For a [[differentiable manifold]] $M$, the tangent space $T_pM$ is a [[vector space]] equipped over
+A **tangent space** $T_pM$ for a [[differentiable manifold]] $M$ is a [[vector space]].
 
 $$
 T_p M = \{X_{\gamma , p} | \gamma \text{ smooth curve through } p \}
