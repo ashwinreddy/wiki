@@ -1,6 +1,6 @@
 # Overview
 
-* [Optimization](./Mathematical-Optimization)
+* [Optimization](./Mathematical-Optimization/)
 
 # Resources
 
