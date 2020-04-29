@@ -1,0 +1,1 @@
+**Convex optimization** refers to minimization problems with convex functions and [[convex set]]s.
