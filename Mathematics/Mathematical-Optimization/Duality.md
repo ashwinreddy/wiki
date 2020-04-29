@@ -1,1 +1,1 @@
-**Duality** refers to the ability to lower bound a minimization problem with [[Lagrange multiplier]]s
+**Duality** refers to the ability to lower bound a minimization problem with [[Lagrange multiplier]]s.
