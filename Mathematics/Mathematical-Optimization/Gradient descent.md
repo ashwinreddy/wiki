@@ -3,4 +3,4 @@ Gradient descent is an algorithm for finding the minimum of an unconstrained pro
 
 # Newton's Method
 
-Can use the [[Hessian matrix]]
+Can use the [[Hessian]]
