@@ -14,6 +14,9 @@ $$
 \vec\nabla\lVert \vec{x} \rVert^2 = \vec\nabla (\langle \vec{x}, \vec{x} \rangle) =  2\vec{x}
 $$
 
+$$
+\vec\nabla \lVert A \vec{x} \rVert^2 = 
+$$
 
 $$
 \vec\nabla \left( \vec{x}^\top A \vec{x} \right) = (A+A^\top)\vec{x}
