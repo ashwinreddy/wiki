@@ -1,4 +1,4 @@
-In general, mathematical optimization is NP-hard, so we restrict ourselves to convex problems. A key tool here is [[duality]]. When the [[KKT]]
+In general, mathematical optimization is NP-hard, so we restrict ourselves to convex problems. A key tool here is [[duality]]. When the [[KKT|Karush-Kahn-Tucker conditions]]
 
 * [[Linear program]]
 * [[Quadratic program]]
