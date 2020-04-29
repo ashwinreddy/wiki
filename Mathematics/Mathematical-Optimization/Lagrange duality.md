@@ -1,7 +1,7 @@
 **Lagrange duality** is a kind of [[duality]] where 
 
 $$
-\mathscr{L}(\vec{x}, \vec\lambda, \vec\nu) = f(x) + \sum_{i} \lambda_i f_i(\vec{x}) + \sum_i \nu_i h(x)
+\mathscr{L}(\vec{x}, \vec\lambda, \vec\nu) = f(x) + \sum_{i=1}^{} \lambda_i f_i(\vec{x}) + \sum_{i=1}^{} \nu_i h(x)
 $$
 
 \begin{align\*}
