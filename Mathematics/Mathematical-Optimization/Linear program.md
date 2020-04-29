@@ -13,8 +13,7 @@ Standard Form
 
 Note the differences:
 
-* Strict equality with the affine constraint
-* Non-negative variable
-
-1. Introduce slack variables $\vec{s}\succcurlyeq 0$ to say $A\vec{x} + \vec{s} = \vec{b}$.
-2. Rewrite $\vec{x} = \vec{x}^+ - \vec{x}^-$ for $\vec{x}^+\succcurlyeq 0$, $\vec{x}^- \succcurlyeq 0$.
+|Difference|Fix|
+|----------|----|
+|Strict equality with the affine constraint|Introduce slack variables $\vec{s}\succcurlyeq 0$ to say $A\vec{x} + \vec{s} = \vec{b}$|
+|Non-negative variable|Rewrite $\vec{x} = \vec{x}^+ - \vec{x}^-$ for $\vec{x}^+\succcurlyeq 0$, $\vec{x}^- \succcurlyeq 0$|
