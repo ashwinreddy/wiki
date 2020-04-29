@@ -13,4 +13,4 @@ d^* = \max_{\vec\nu, \vec{\lambda} \succcurlyeq 0}  g(\vec{\lambda}, \vec\nu)
 # Duality gap
 
 Duality gap
-: $p^* - d^* > 0$
+: $p^* - d^* \geq 0$
