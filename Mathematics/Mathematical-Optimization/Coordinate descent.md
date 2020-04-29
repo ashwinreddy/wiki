@@ -1,0 +1,1 @@
+**Coordinate descent** tries to find a minimum by minimizing each coordinate one by one.
