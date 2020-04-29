@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-L = \lVert A\vec{w} - \vec{b} \rVert^2_2 + \lambda \lVert \vec{w} \rVert^2_2
+L = \lVert A\vec{w} - \vec{y} \rVert^2_2 + \lambda \lVert \vec{w} \rVert^2_2
 $$
