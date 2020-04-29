@@ -8,3 +8,9 @@ $$
 d^* &= \max_{\vec\nu, \vec{\lambda} \succcurlyeq 0}  g(\vec{\lambda}, \vec\nu) \\\\\
 g(\vec\lambda, \vec\nu) &= \min_{\vec{x}} \mathscr{L}(\vec{x}, \vec\lambda, \vec\nu)
 \end{align\*}
+
+# Algorithm
+
+1. Write down the Lagrange function.
+2. Minimize over the Lagrangian w.r.t. the primal variable to get the dual function.
+3. 
