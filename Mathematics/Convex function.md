@@ -15,6 +15,10 @@ What makes convex functions useful is that any point with gradient 0 is guarante
 
 The second-order condition says that a twice differentiable $f$ will be convex if its domain is convex and its [[Hessian]] is [[PSD|Definiteness of a matrix]].
 
+# Examples
+
+* [[Norm]]
+
 # Properties
 
 * Let $f: \RR \to \RR$ is convex and non-decreasing and $g: \RR^n \to \RR$ is convex, $f \circ g$ is convex.
