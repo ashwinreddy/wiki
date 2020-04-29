@@ -12,5 +12,5 @@ g(\vec\lambda, \vec\nu) &= \min_{\vec{x}} \mathscr{L}(\vec{x}, \vec\lambda, \vec
 # Algorithm
 
 1. Write down the Lagrange function.
-2. Minimize over the Lagrangian w.r.t. the primal variable to get the dual function.
-3. 
+2. Minimize over the Lagrangian w.r.t. the primal variable to get the dual function $g$.
+3. Maximize over 
