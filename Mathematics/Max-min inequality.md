@@ -1,0 +1,1 @@
+The **max-min inequality** says that {\displaystyle f:Z\times W\to \mathbb {R} },
