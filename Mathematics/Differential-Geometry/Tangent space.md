@@ -4,6 +4,11 @@ $$
 T_p M = \{X_{\gamma , p} | \gamma \text{ smooth curve through } p \}
 $$
 
+
+$$
+\dim T_p M = \dim M
+$$
+
 Let $\gamma(0)=p$.
 
 \begin{align\*}
