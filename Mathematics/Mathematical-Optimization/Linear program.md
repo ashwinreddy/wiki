@@ -11,7 +11,6 @@ Standard Form
 &\min_{\vec{x}} \vec{c}^\top \vec{x} \\\\\ &\text{ s.t. } A\vec{x} = \vec{b}, \vec{x} \succcurlyeq 0
 \end{align}
 
-Note the differences:
 
 |Difference|Fix|
 |----------|----|
