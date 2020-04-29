@@ -19,3 +19,4 @@ The second-order condition says that a twice differentiable $f$ will be convex i
 
 * Let $f: \RR \to \RR$ is convex and non-decreasing and $g: \RR^n \to \RR$ is convex, $f \circ g$ is convex.
 * The pointwise maximum of convex functions is convex.
+* Every norm is convex.
