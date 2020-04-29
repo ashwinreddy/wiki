@@ -5,5 +5,5 @@ Primal problem
 
 
 \begin{equation}
-d^* = \max_{\vec\nu, \vec{\lambda} \succcurlyeq 0} g(\vec{\lambda}, \vec\nu)}
+d^* = \max g(\vec{\lambda}, \vec\nu)}
 \end{equation}
