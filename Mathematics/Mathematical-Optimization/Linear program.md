@@ -25,3 +25,9 @@ We construct the Lagrangian,
 \mathscr{L}(\vec{x}, \vec\lambda) &=  \vec{c}^\top \vec{x} + \vec\lambda^\top(A\vec{x}-\vec{b}) \\\\\
 &= (A^\top \vec\lambda + \vec{c})^\top \vec{x} - \vec\lambda^\top\vec{b}
 \end{align\*}
+
+Then,
+
+$$
+g(\lambda) = \min_\vec{x} \mathscr{L}(\vec{x}, \vec\lambda) = \begin{cases}-\infty & A^\top\vec\lambda + \vec{c} \neq \vec{0} \\ -\vec{b}^\top \vec\lambda & A^\top\vec\lambda + c = \vec{0} \end{cases}
+$$
