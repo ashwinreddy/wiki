@@ -9,3 +9,8 @@ Dual Problem
 : \begin{equation}
 d^* = \max_{\vec\nu, \vec{\lambda} \succcurlyeq 0}  g(\vec{\lambda}, \vec\nu)
 \end{equation}
+
+# Duality gap
+
+Duality gap
+: $p^* - d^*$
