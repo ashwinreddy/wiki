@@ -15,4 +15,3 @@ g(\vec\lambda, \vec\nu) &= \min_{\vec{x}} \mathscr{L}(\vec{x}, \vec\lambda, \vec
 2. Minimize over the Lagrangian $\mathscr{L}$ w.r.t. the primal variable to get the dual function $g$.
 3. Find the arg max for $g$ over the dual variables. 
 4. Compute the max $d^*$ of $g$ using the arg max.
-5. 
