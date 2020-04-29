@@ -1,1 +1,1 @@
-<<Navigation()>>
+In general, mathematical optimization is NP-hard, so we restrict ourselves to convex problems. A key tool is [[duality]]
