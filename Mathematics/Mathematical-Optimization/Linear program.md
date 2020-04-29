@@ -31,3 +31,9 @@ Then,
 $$
 g(\lambda) = \min_\vec{x} \mathscr{L}(\vec{x}, \vec\lambda) = \begin{cases}-\infty & A^\top\vec\lambda + \vec{c} \neq \vec{0} \\ -\vec{b}^\top \vec\lambda & A^\top\vec\lambda + c = \vec{0} \end{cases}
 $$
+
+Yields the dual problem
+
+$$
+\max_{\vec\lambda \geq 0} g(\lambda) = \max_{\vec\lambda\geq 0} -\vec{b}^\top \vec\lambda \text{ s.t. } A^\top\vec\lambda + c = \vec{0}
+$$
