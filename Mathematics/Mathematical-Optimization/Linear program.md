@@ -21,7 +21,7 @@ Standard Form
 
 We construct the Lagrangian,
 
-\begin{align*}
+\begin{align\*}
 \mathscr{L}(\vec{x}, \vec\lambda) &=  \vec{c}^\top \vec{x} + \vec\lambda^\top(A\vec{x}-\vec{b}) \\\\\
 &= (A^\top \vec\lambda + \vec{c})^\top \vec{x} - \vec\lambda^\top\vec{b}
-\end{align*}
+\end{align\*}
