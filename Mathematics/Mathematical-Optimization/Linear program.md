@@ -16,3 +16,4 @@ Note the differences:
 * Strict equality with the affine constraint
 * Non-negative variable
 
+1. Introduce slack variables $\vec{s}\succcurlyeq 0$ to say $A\vec{x} + \vec{s} = \vec{b}$.
