@@ -1,5 +1,5 @@
 For a [[differentiable manifold]] $M$, the tangent space $T_pM$ is a [[vector space]] equipped over
 
 $$
-T_p M = \{\vartheta_{\gamma , p} | \gamma \text{ smooth curve through } p \}
+T_p M = \{X{\gamma , p} | \gamma \text{ smooth curve through } p \}
 $$
