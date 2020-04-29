@@ -16,3 +16,11 @@ Standard Form
 |----------|----|
 |Strict equality with the affine constraint|Introduce slack variables $\vec{s}\succcurlyeq 0$ to say $A\vec{x} + \vec{s} = \vec{b}$|
 |Non-negative variable|Rewrite $\vec{x} = \vec{x}^+ - \vec{x}^-$ for $\vec{x}^+\succcurlyeq 0$, $\vec{x}^- \succcurlyeq 0$|
+
+# Dual problem
+
+We construct the Lagrangian,
+
+$$
+\mathscr{L}(\vec{x}, \vec\lambda) =  \vec{c}^\top \vec{x} + \vec\lambda^\top(A\vec{x}-\vec{b})
+$$
