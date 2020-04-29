@@ -9,7 +9,7 @@ d^* &= \max_{\vec\nu, \vec{\lambda} \succcurlyeq 0}  g(\vec{\lambda}, \vec\nu) \
 g(\vec\lambda, \vec\nu) &= \min_{\vec{x}} \mathscr{L}(\vec{x}, \vec\lambda, \vec\nu)
 \end{align\*}
 
-This problem is guaranteed convex
+This problem is guaranteed convex as we're maximizing a concave function.
 
 # Algorithm
 
