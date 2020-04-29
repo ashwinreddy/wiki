@@ -17,7 +17,7 @@ The second-order condition says that a twice differentiable $f$ will be convex i
 
 # Examples
 
-* [[Norm]]
+* Any [[norm]] is convex by triangle inequality.
 
 # Properties
 
