@@ -6,5 +6,5 @@ A **linear program** is a program of the form
 
 Standard Form
 : \begin{align}
-&\min_{\vec{x}} \vec{c}^\top \vec{x} \\\\\ &\text{ s.t. } A\vec{x} = \vec{b}, \vec{x} \preccurlyeq 0
+&\min_{\vec{x}} \vec{c}^\top \vec{x} \\\\\ &\text{ s.t. } A\vec{x} = \vec{b}, \vec{x} \succccurlyeq 0
 \end{align}
