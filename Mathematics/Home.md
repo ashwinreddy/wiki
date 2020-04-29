@@ -1,3 +1,9 @@
+# Overview
+
+* [[Mathematical Optimization]]
+
+# Resources
+
 Some useful math resources include:
 
 * [MathWorld](https://mathworld.wolfram.com/)
