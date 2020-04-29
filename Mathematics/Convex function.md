@@ -17,8 +17,11 @@ The second-order condition says that a twice differentiable $f$ will be convex i
 
 # Examples
 
-* Any [[norm]] is convex by triangle inequality.
+The following are convex:
+
+* Any [[norm]], by triangle inequality.
 * Any [[affine transformation]]
+* A pointwise maximum of convex functions
 
 # Properties
 
