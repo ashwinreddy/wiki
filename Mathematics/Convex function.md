@@ -13,3 +13,8 @@ $$
 What makes convex functions useful is that any point with gradient 0 is guaranteed to be a global minimum.
 
 The second-order condition says that a twice differentiable $f$ will be convex if its domain is convex and its Hessian is PSD.
+
+# Properties
+
+Let $f: \RR \to \RR$ and $g: \RR^n \to \RR$ and $h = f \circ g$. If $f$ is convex and non-decreasing and $g$ is convex, $h$ is convex.
+
