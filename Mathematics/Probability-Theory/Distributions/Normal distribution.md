@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-F(x) = \frac{1}{2}\left[1+\erf\right]
+F(x) = \frac{1}{2}\left[1+\operatorname{erf}\left(\frac{x-\mu}{\sigma\sqrt{2}}\right)\right]
 $$
