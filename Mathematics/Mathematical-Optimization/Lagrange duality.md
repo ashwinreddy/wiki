@@ -27,3 +27,5 @@ We can use the dual function to lower bound (over all its values) the solution t
 $$
 p^* \geq g(\lambda, \nu) \implies f_0(x_1) - p^* \leq f_0(x_1) - g(\lambda, \nu)
 $$
+
+Therefore, if you're $\epsilon$ away from the dual optimal, you're $\epsilon$ or less away from the primal feasible!
