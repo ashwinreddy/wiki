@@ -1,1 +1,1 @@
-The **central limit theorem** says the sum of iid variables approaches Gaussian.
+The **central limit theorem (CLT)** says the sum of [[iid|independent and identically distributed]] variables approaches Gaussian.
