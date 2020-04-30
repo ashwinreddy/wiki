@@ -2,6 +2,7 @@
 
 * [Optimization](./Mathematical-Optimization/)
 * [Linear Algebra](./Linear-Algebra/)
+* [Probability Theory](./Probability-Theory/)
 
 # Resources
 
