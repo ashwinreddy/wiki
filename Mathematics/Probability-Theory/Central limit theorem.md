@@ -1,0 +1,1 @@
+The **central limit theorem** says the sum of iid variables approaches Gaussian.
