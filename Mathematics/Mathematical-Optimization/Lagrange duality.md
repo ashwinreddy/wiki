@@ -25,5 +25,5 @@ This problem is guaranteed convex as we're maximizing a concave function.
 We can say that
 
 $$
-p^* \geq d^*
+p^* \geq g(\lambda, \nu)
 $$
