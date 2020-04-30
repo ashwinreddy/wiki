@@ -3,7 +3,7 @@
 This only works if the variance is nonzero.
 
 \begin{equation}
-\mathbb{P}[ |X - \mu| \geq c] \leq \frac{\mathbb{V}[X]}{c^2}
+\boxed{\mathbb{P}[ |X - \mu| \geq c] \leq \frac{\mathbb{V}[X]}{c^2}}
 \end{equation}
 
 As a corollary, if we let the standard deviation be $\sigma$,
