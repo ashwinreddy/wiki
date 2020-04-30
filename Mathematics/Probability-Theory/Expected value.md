@@ -1,7 +1,7 @@
 The **expected value** of a [[random variable]]
 
 |Discrete|Continuous|
-|$$\mathbb{E}[X] = \sum_{i=1}^k x_i p_i$$|\begin{equation}\mathbb{E}[X] = \int_\RR x f(x) \dd{x}\end{equation}|
+|$$\mathbb{E}[X] = \sum_{i=1}^k x_i p_i$$|$$\mathbb{E}[X] = \int_\RR x f(x) \dd{x}$$|
 
 # Properties
 
