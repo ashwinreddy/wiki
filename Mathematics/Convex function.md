@@ -18,7 +18,7 @@ What makes convex functions useful is that any point with gradient 0 is guarante
 If $f$ is twice differentiable, then $f$ is convex iff its domain is convex and
 
 \begin{equation}
-\nabla^2 f(x) \preccurlyeq 0
+\nabla^2 f(x) \succcurlyeq 0
 \end{equation}
 
 # Examples
