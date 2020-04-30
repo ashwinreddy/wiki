@@ -22,8 +22,8 @@ This problem is guaranteed convex as we're maximizing a concave function.
 
 **N.B.** this may apply to other forms of dual problems, but I'm not sure
 
-We can say that
+We can use the dual function to lower bound (over all its values) the solution to the primal:
 
 $$
-p^* \geq g(\lambda, \nu)
+p^* \geq g(\lambda, \nu) \implies f_0(x_1) - p^* \leq f_0(x_1) - g(\lambda, \nu)
 $$
