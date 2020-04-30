@@ -13,7 +13,13 @@ $$
 
 What makes convex functions useful is that any point with gradient 0 is guaranteed to be a global minimum.
 
-The second-order condition says that a twice differentiable $f$ will be convex if its domain is convex and its [[Hessian]] is [[PSD|Definiteness of a matrix]].
+## Second-order condition
+
+If $f$ is twice differentiable, then $f$ is convex iff its domain is convex and
+
+\begin{equation}
+\nabla^2 f(x) \curlyeq
+\end{equation}
 
 # Examples
 
