@@ -1,4 +1,4 @@
-A **second-order cone program** is of the form
+A **second-order cone program (SOCP)** is of the form
 
 \begin{align\*}
 \min\; &\vec{c}^\top \vec{x} \\\\\
