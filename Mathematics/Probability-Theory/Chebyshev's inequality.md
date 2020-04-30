@@ -1,7 +1,7 @@
 **Chebyshev's inequality** puts an upper bound on the probability that a random variable with nonzero variance $X$ is $c$ away from its mean $\mu = \mathbb{E}[X]$.
 
 \begin{equation}
-\boxed{\mathbb{P}[ |X - \mu| \geq c] \leq \frac{\mathbb{V}[X]}{c^2}}
+\boxed{\mathbb{P}\left[ |X - \mu| \geq c\right] \leq \frac{\mathbb{V}[X]}{c^2}}
 \end{equation}
 
 As a corollary, if we let the standard deviation be $\sigma$,
