@@ -12,6 +12,5 @@ Of course, [[Bernoulli distribution]] is just the special case of $n=1$.
 
 |Quantity|Value|
 |--------|:-----:|
-|[[Expected value]]|$p$|
-|[[Variance]]|$pq$|
-|[[Entropy]]|$-q \lg q - p \lg p$|
+|[[Expected value]]|$np$|
+|[[Variance]]|$npq$|
