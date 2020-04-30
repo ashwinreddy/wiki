@@ -7,5 +7,5 @@ $$
 Let $Y$ be an arbitrary r.v. with finite mean, for positive $c$ and $r$
 
 $$
-\mathbb{P}[ |Y| \geq c ] \leq \frac{\mathbb{E}[|Y|^r]}{c}
+\mathbb{P}[ |Y| \geq c ] \leq \frac{\mathbb{E}\left[|Y|^r\right]}{c}
 $$
