@@ -1,4 +1,8 @@
-The **Karush-Kuhn-Tucker (KKT) conditions** are a neccessary condition for strong duality. 
+The **Karush-Kuhn-Tucker (KKT) conditions** are a neccessary condition for strong duality. They are sufficient if
+
+* problem is convex
+* equality constraints are affine
+* Slater's condition holds
 
 |Condition|Variables|Requires|
 |:---------:|---------|--------|
