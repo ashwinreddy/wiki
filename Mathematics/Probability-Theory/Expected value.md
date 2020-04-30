@@ -5,6 +5,12 @@ The **expected value** of a [[random variable]]
 
 # Properties
 
+* $$\mathbb{E}[a X] = a \mathbb{E}[X]$$
+
+$$
+\mathbb{E}[X + Y] = \mathbb{E}[X] + \mathbb{E}[Y]
+$$
+
 
 # Tail Sum Formula
 
