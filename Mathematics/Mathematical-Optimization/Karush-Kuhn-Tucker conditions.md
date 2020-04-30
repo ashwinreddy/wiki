@@ -15,3 +15,7 @@ The **Karush-Kuhn-Tucker (KKT) conditions** are a neccessary condition for stron
 $$
 \mathcal{L} = \nabla f_0(x^\star) + \sum_{i=1}^m \lambda_i^\star \nabla f_i(x^\star) + \sum_{i=1}^p \nu_i^\star \nabla h_i(x^\star)
 $$
+
+# See Also
+
+* [[Lagrange multiplier]]
