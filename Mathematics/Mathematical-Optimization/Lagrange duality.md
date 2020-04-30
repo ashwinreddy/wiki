@@ -22,3 +22,8 @@ This problem is guaranteed convex as we're maximizing a concave function.
 
 **N.B.** this may apply to other forms of dual problems, but I'm not sure
 
+We can say that
+
+$$
+p^* \geq d^*
+$$
