@@ -17,3 +17,8 @@ This problem is guaranteed convex as we're maximizing a concave function.
 2. Minimize over the Lagrangian $\mathscr{L}$ w.r.t. the primal variable to get the dual function $g$.
 3. Find the arg max for $g$ over the dual variables. 
 4. Compute the max $d^*$ of $g$ using the arg max.
+
+# Certificate
+
+**N.B.** this may apply to other forms of dual problems, but I'm not sure
+
