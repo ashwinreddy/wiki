@@ -4,7 +4,9 @@ A **linear program** is a [[second-order cone program]] of the form
 &\min_{\vec{x}} \vec{c}^\top \vec{x} \\\\\ &\text{ s.t. } A\vec{x} \preccurlyeq \vec{b}
 \end{align}
 
-For computational convenience, we like to put our linear programs in standard form. We are always guaranteed to be able to translate to standard form.
+For computational convenience, we like to put our linear programs in standard form. We are always guaranteed to be able to translate to standard form. The trick is usually to introduce slack variables for things like maxs, mins, and absolute values.
+
+# Standard Form
 
 Standard Form
 : \begin{align}
