@@ -19,7 +19,7 @@ B = \begin{bmatrix}
 \end{bmatrix}
 \end{gather\*}
 
-The $(i,j)$th entry of the result is the inner product of the $i$th row of $A$ and the $j$th column of $B$.
+> The $(i,j)$th entry of the result is the inner product of the $i$th row of $A$ and the $j$th column of $B$.
 
 \begin{equation}
 C\_{ij} =  \vec{a}_i^\top \vec{b}_j
