@@ -1,4 +1,4 @@
-[[_TOC_]]
+
 
 **Singular value decomposition (SVD)** is a [[matrix decomposition]] that can be applied to any $m \times n$ matrix $A$ of rank $r$ and can be thought of inuitively as an extension of [[eigendecomposition]]. SVD comes in many variants. The full SVD decomposes $A$ using an $m\times m$ matrix $U$, $n\times n$ matrix $V$, $m \times n$ [[diagonal matrix]] $\Sigma$ with $U$ and $V$ [[orthogonal|orthogonal matrix]].
 
@@ -6,6 +6,8 @@
 \label{eq:full-svd}
 A = U\Sigma V^\top
 \end{equation}
+
+[[_TOC_]]
 
 # Singular Values
 
