@@ -3,6 +3,7 @@
 * [Optimization](./Mathematical-Optimization/)
 * [Linear Algebra](./Linear-Algebra/)
 * [Probability Theory](./Probability-Theory/)
+* [Differential Geometry](./Differential-Geometry/)
 
 # Resources
 
