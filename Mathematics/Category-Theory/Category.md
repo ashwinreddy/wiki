@@ -1,0 +1,1 @@
+A **category** is a collection of objects with arrows/morphisms between two objects and a composition on morphisms.
