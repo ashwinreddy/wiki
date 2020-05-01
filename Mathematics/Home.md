@@ -6,11 +6,11 @@
 * [Differential Geometry](./Differential-Geometry/)
 * [Group Theory](./Group-Theory/)
 
+For a more detailed breakdown, check the [Navigation](./Navigation) page.
+
 # Resources
 
 Some useful math resources include:
 
 * [MathWorld](https://mathworld.wolfram.com/)
 * Evan Chen's [Napkin](https://web.evanchen.cc/napkin.html)
-
-<<Navigation()>>
