@@ -1,0 +1,1 @@
+The **exponential map** is a map from a [[Lie algebra]] to its [[Lie group]].
