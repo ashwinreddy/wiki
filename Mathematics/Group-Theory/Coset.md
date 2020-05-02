@@ -4,8 +4,8 @@ $$
 gH = \{gh : h \in H \},\quad Hg = \{hg: h \in H\}
 $$
 
-Why is a coset useful? Every element $x \in gH$ is such that
+Why is a coset useful? 
 
 $$
-xH = gH
+x \in gH \implies \exists h: x = gh
 $$
