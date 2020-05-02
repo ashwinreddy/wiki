@@ -1,0 +1,1 @@
+The **special linear group** is the subset of the [[general linear group]] with [[determinant]] 1.
