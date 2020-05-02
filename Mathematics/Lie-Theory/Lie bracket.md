@@ -1,1 +1,1 @@
-A **Lie bracket** is a [[bilinear]] skew-symmetric $[\cdot,\cdot]: \fraktur{g \times g}$
+A **Lie bracket** is a [[bilinear]] skew-symmetric $[\cdot,\cdot]: \mathfrak{g \times g}$
