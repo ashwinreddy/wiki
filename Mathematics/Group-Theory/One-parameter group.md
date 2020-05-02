@@ -3,3 +3,4 @@ A **one-parameter group** is a [[continuous|continuous function]] [[group homomo
 $$
 \varphi(t+s) = \varphi(t)\varphi(s)
 $$
+
