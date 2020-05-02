@@ -1,0 +1,1 @@
+A **one-parameter group** is a [[continuous|continuous function]] [[group homomorphism]] for the [[real line]]
