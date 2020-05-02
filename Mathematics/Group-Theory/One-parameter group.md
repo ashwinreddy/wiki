@@ -1,2 +1,5 @@
-A **one-parameter group** is a [[continuous|continuous function]] [[group homomorphism]] $\varphi: \RR \to G$ for [[topological group]] $G$, treating $\RR$ as an additive group.
+A **one-parameter group** is a [[continuous|continuous function]] [[group homomorphism]] $\varphi: \RR \to G$ for [[topological group]] $G$, treating $\RR$ as an additive group. Concretely,
 
+$$
+\varphi(t+s) = \varphi(t)\varphi(s)
+$$
