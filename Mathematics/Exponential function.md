@@ -1,3 +1,5 @@
+The **exponential function** is most naturally defined as
+
 $$
-\exp(x) = \sum_{k=0}^\infty \frac{x^k}{k!}
+\boxed{\exp(x) \triangleq \sum_{k=0}^\infty \frac{x^k}{k!}}
 $$
