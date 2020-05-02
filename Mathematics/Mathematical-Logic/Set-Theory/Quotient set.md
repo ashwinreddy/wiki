@@ -1,0 +1,1 @@
+A **quotient set** for a [[set]] $S$ and an [[equivalence relation]] $~$ is $S/~$
