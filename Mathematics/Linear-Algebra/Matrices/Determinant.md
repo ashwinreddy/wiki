@@ -1,4 +1,4 @@
-The **determinant** of a [[square matrix]] is the signed volume spanned by the columns/rows.
+The **determinant** is a [[group homomorphism]] on the group of real and complex matrices $G$
 
 # Properties
 
