@@ -1,0 +1,1 @@
+A **matrix Lie group** is a set of $n \times n$ matrices that is closed under products, inverses, and nonsingular limits.
