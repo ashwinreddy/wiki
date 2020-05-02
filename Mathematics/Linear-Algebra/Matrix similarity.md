@@ -1,0 +1,1 @@
+Two matrices are **similar** if there's an [[invertible matrix]]
