@@ -1,0 +1,1 @@
+He accepts Cartesian metaphysics but rejects its epistemology.
