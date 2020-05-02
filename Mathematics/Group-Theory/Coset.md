@@ -1,0 +1,1 @@
+A (left/right) **coset** for an element $g$ in [[group]] $G$ and a [[subgroup]] $H$ is the (left/right) application of $g$ to each $h \in H$.
