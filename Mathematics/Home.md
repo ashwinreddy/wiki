@@ -5,6 +5,7 @@
 * [Probability Theory](./Probability-Theory/)
 * [Differential Geometry](./Differential-Geometry/)
 * [Group Theory](./Group-Theory/)
+* [Mathematical Analysis](./Mathematical-Analysis/)
 
 For a more detailed breakdown, check the [Navigation](./Navigation) page.
 
