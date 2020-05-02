@@ -3,3 +3,9 @@ A (left/right) **coset** for an element $g$ in [[group]] $G$ and a [[subgroup]] 
 $$
 gH = \{gh : h \in H \},\quad Hg = \{hg: h \in H\}
 $$
+
+Why is a coset useful? Every element $x \in gH$ is such that
+
+$$
+xH = gH
+$$
