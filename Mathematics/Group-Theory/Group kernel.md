@@ -1,5 +1,8 @@
-The **kernel** of a [[group homomorphism]] is
+The **kernel** of a [[group homomorphism]] $f: G \to G'$ is
 
 $$
-\ker \varphi = \{g \in G: \varphi(g) = 1\}
+\boxed{\ker \varphi \triangleq \{g \in G: \varphi(g) = 1\}}
 $$
+
+
+
