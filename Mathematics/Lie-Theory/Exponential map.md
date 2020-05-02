@@ -1,1 +1,1 @@
-The **exponential map** is a map from a [[Lie algebra]] to its [[Lie group]].
+The **exponential map** is a map from a [[Lie algebra]] to its [[Lie group]]. For a [[matrix Lie group]], it's just the [[matrix exponential]].
