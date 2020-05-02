@@ -1,0 +1,1 @@
+Descartes believes there are only two kinds of things.
