@@ -1,0 +1,1 @@
+An **endomorphism** is a [[morphism]] $f: X \to X$.
