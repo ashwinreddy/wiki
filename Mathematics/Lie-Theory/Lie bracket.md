@@ -1,0 +1,1 @@
+A **Lie bracket** is a [[bilinear]] skew-symmetric $[-,-]$
