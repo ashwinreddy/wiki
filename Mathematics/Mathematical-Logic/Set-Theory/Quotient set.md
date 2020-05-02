@@ -1,1 +1,1 @@
-A **quotient set** for a [[set]] $S$ and an [[equivalence relation]] $\sim$ is $S/\sim$, the set of all equivalence classes in $S$.
+A **quotient set** for a [[set]] $S$ and an [[equivalence relation]] $\sim$ is $S/\sim$, the set of all [[equivalence class]]es in $S$.
