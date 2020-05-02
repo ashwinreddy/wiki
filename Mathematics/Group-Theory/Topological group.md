@@ -1,1 +1,1 @@
-A **topological group**
+A **topological group** is a [[group]] with a [[topology]].
