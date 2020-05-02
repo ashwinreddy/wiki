@@ -1,0 +1,1 @@
+**Representationalism** is the idea that we're perceiving representations of things rather than things themselves.
