@@ -1,0 +1,1 @@
+A **morphism** is a map between objects.
