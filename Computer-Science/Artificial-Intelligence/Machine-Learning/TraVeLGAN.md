@@ -30,6 +30,6 @@ $$
 Then, the objectives to minimize are for $S$ and $G$:
 
 \begin{align\*}
-\mathcal{L}_S &= \mathcal{L}\_{S_c} + \mathcal{L}_{\text{TraVeL}} \\\\\
-\mathcal{L}_G &= \mathcal{L}\_{\text{adv}} + \mathcal{L}_{\text{TraVeL}}
+\mathcal{L}\_S &= \mathcal{L}\_{S_c} + \mathcal{L}\_{\text{TraVeL}} \\\\\
+\mathcal{L}\_G &= \mathcal{L}\_{\text{adv}} + \mathcal{L}_{\text{TraVeL}}
 \end{align\*}
