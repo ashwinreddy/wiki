@@ -1,0 +1,3 @@
+A **[GAN](https://arxiv.org/pdf/1406.2661.pdf)** consists of a generative model pitted against an adversary
+
+
