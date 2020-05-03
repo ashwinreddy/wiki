@@ -6,4 +6,4 @@ $$
 \mathcal{L}_{\text{GAN}}(G, D_Y, X, Y) = \mathbb{E}_{y \sim p_{\text{data}}(y)}\left[\log D_Y(y)\right] + \mathbb{E}_{x \sim p_{\text{data}}(x)}\left[\log\left( 1 - (D_Y\circ G)(x) \right)\right]
 $$
 
-If the discriminator can actually tell whether the input comes from $Y$ or $F(X)$, then $\log D_Y(y) = 0$ and $\log(1-(D_Y \circ G)(x)) = 0$.
+The idea here is that $D_Y$ learns to behave as $D_Y(y)=1$ and $D_Y(G(x))=0$.
