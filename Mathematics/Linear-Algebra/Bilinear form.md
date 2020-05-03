@@ -1,1 +1,1 @@
-A **bilinear form** is a bilinear map of the form $f: V \times V \to K$ for [[vector space]] $V$ over the [[field]] $K$.
+A **bilinear form** is a [[bilinear map]] of the form $f: V \times V \to K$ for [[vector space]] $V$ over the [[field]] $K$.
