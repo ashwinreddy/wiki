@@ -1,0 +1,1 @@
+A [[subset]] $S$ of a [[topological space]] $X$ is **dense** if every ball in $X$ contains an element in $S$.
