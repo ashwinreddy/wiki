@@ -1,4 +1,4 @@
-A **tangent space** $T_pM$ for a [[differentiable manifold]] $M$ is a [[vector space]].
+A **tangent space** $T_pM$ for a [[differentiable manifold]] $M$ is a [[vector space]] over functions.
 
 First, consider all the curves that go through $p$ at time 0.
 
