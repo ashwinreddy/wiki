@@ -21,9 +21,6 @@ $$
 T_p M \triangleq  S / \sim
 $$
 
-We consider all the curves that go through $p$ at time 0.
-
-
 
 # [[Basis]]
 
