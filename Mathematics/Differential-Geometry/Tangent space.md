@@ -18,7 +18,7 @@ $$
 T_p M = S / \sim
 $$
 
-# Basis
+# [[Basis]]
 
 $$
 \mathcal{B} = \left\{\left(\frac{\partial}{\partial x^a}\right)_p \in T_p M | 1 \leq a \leq \dim M \right\}
