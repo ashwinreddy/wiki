@@ -6,7 +6,7 @@ $$
 \mathcal{L}_{\text{adv}} = \mathbb{E}_X\left[ D_Y(G_{XY}(X)) \right]
 $$
 
-To get semantically meaningful images, they use transformation vector instead of cycle consistency.
+If we just use the adversarial loss, then the $G$ mapping will learn to produce an arbitrary an image in its target output domain. To get semantically meaningful images, they use transformation vector instead of cycle consistency.
 
 Transformation vector
 : For vectors $x_i$ and $x_j$, the transformation vector is given by $\nu(x_i, x_j) = S(x_j) - S(x_i)$ for some latent space representation $S$.
