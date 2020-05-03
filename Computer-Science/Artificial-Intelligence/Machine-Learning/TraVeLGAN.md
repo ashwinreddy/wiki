@@ -10,3 +10,5 @@ To get semantically meaningful images, they use transformation vector instead of
 
 Transformation vector
 : For vectors $x_i$ and $x_j$, the transformation vector is given by $\nu(x_i, x_j) = x_j - x_i$
+
+We then require that $\vu(x_i , x_j) = \nu(G_{XY}(x_i), G_{XY}(x_j))$.
