@@ -6,3 +6,7 @@ Examples:
 * Functions
 * $\RR^n$
 * Matrices
+
+# Consequences
+
+* All vector spaces of dimension $n$ are isomorphic to one another.
