@@ -1,7 +1,7 @@
 A **tangent space** $T_pM$ for a [[differentiable manifold]] $M$ is a [[vector space]].
 
 $$
-\boxed{T_p M \triangleq \{\gamma: I\to M | \gamma(0) = p\} / \sim,\quad \gamma \sim \delta \iff (x \circ \gamma)'(0) = (x \circ} \delta)'(0)
+\boxed{T_p M \triangleq \{\gamma: I\to M | \gamma(0) = p\} / \sim,\quad \gamma \sim \delta \iff (x \circ \gamma)'(0) = (x \circ \delta)'(0)}
 $$
 
 
