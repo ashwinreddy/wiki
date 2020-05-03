@@ -1,1 +1,1 @@
-A [[subset]] $S$ of a [[topological space]] $X$ is **dense** if every ball in $X$ contains an element in $S$.
+A [[subset]] $S$ of a [[topological space]] $X$ is **dense** if every ball in $X$ contains an element in $S$. In other words, a subset is dense in a topological space if you're never too far away from one or always in the neighborhood of one.
