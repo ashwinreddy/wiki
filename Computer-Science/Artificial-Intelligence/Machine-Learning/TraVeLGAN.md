@@ -11,7 +11,9 @@ If we just use the adversarial loss, then the $G$ mapping will learn to produce 
 Transformation vector
 : For vectors $x_i$ and $x_j$, the transformation vector is given by $\nu(x_i, x_j) = S(x_j) - S(x_i)$ for some latent space representation $S$.
 
-We then require that $\nu(x_i , x_j) = \nu(G_{XY}(x_i), G_{XY}(x_j))$. The TraVeL loss is given by a distance metric
+We then require that $\nu(x_i , x_j) = \nu(G_{XY}(x_i), G_{XY}(x_j))$. That is, the difference between two horses is maintained by the mappings into the difference between two zebras. The idea is that this should learn "analogies" since this technique has worked in NLP. We add the latent representation so we can learn complex transformations.
+
+The TraVeL loss is given by a distance metric
 
 \begin{align}
 \mathcal{L}\_{\text{TraVeL}} &= \sum_{i \neq j} \operatorname{dist}(\nu_{ij}, \nu_{ij}') \\\\\
