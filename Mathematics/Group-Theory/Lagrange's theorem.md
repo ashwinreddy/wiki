@@ -1,1 +1,1 @@
-**Lagrange's theorem** says that the order of a [[subgroup]] divides the order of the [[group]].
+**Lagrange's theorem** says that the order of a [[subgroup]] divides the order of the [[group]] (for a finite group).
