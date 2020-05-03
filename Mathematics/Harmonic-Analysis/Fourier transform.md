@@ -1,7 +1,7 @@
 The **Fourier transform** extends the [[Fourier series]]
 
 $$
-\hat{f}(\xi)
+\hat{f}(\xi) = \int_\RR f(x) e^{-\iota k x}\dd{x}
 $$
 
 $$
