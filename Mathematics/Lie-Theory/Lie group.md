@@ -1,4 +1,4 @@
-A **Lie group** is a group $G$ that is also a smooth [[manifold]] with a map $\mu: G \times G$ s.t. $\mu(x,y)=xy$ and its inverse are smooth maps.
+A **Lie group** is a group $(G, \cdot)$ that is also a smooth [[manifold]] with the multiplication map and inverse map (from the group) smooth.
 
 # Examples
 
