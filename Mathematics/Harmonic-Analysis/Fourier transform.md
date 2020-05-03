@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-f = \int \hat{f}(k) e^{\iota kx} \dd{x}
+f = \int_\RR \hat{f}(k) e^{\iota kx} \dd{x}
 $$
