@@ -21,6 +21,8 @@ $$
 T_p M \triangleq  S / \sim
 $$
 
+Each element of $T_pM$ is a tangent vector.
+
 
 # [[Basis]]
 
