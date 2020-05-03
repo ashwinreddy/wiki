@@ -1,1 +1,1 @@
-The **pushforward** of a smooth map between manifolds at a point is just the differential of the map at the point.
+The **pushforward** of a [[smooth map]] between manifolds at a point is just the differential of the map at the point.
