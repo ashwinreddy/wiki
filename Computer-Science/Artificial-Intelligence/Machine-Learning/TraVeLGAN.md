@@ -9,5 +9,5 @@ $$
 To get semantically meaningful images, they use transformation vector instead of cycle consistency. Define
 
 $$
-\nu(x_i, x_j) = x_i - x_j
+\nu(x_i, x_j) = x_j - x_i
 $$
