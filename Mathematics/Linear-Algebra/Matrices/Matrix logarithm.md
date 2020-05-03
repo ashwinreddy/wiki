@@ -1,0 +1,1 @@
+The **matrix logarithm** arises naturally once the [[matrix exponential]] is defined.
