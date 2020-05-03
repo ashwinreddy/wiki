@@ -6,8 +6,7 @@ $$
 \mathcal{L}_{\text{adv}} = \mathbb{E}_X\left[ D_Y(G_{XY}(X)) \right]
 $$
 
-To get semantically meaningful images, they use transformation vector instead of cycle consistency. Define
+To get semantically meaningful images, they use transformation vector instead of cycle consistency.
 
-$$
-\nu(x_i, x_j) = x_j - x_i
-$$
+Transformation vector
+: For vectors $x_i$ and $x_j$, the transformation vector is given by $\nu(x_i, x_j) = x_j - x_i$
