@@ -4,3 +4,4 @@ The **pullback** of a smooth map $\phi: M \to N$ at a point $p$ for smooth manif
 (\phi^\star)\_p: T^\star_{\phi(p)}N &\to T_p^\star M \\\\\
 \omega &\mapsto (\phi^*)_p(\omega)
 \end{align}
+
