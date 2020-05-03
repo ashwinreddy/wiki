@@ -1,7 +1,7 @@
-A **tangent space** $T_pM$ for a [[differentiable manifold]] $M$ is a [[vector space]].
+A **tangent space** $T_pM$ for a [[differentiable manifold]] $M$ is a [[vector space]]. Consider a coordinate chart $\varphi: U \to \RR^n$.
 
 $$
-T_p M \triangleq \{\gamma: I\to M | \gamma(0) = p\} / \sim,\quad \gamma \sim \delta \iff (x \circ \gamma)'(0) = (x \circ \delta)'(0)
+T_p M \triangleq \{\gamma: I\to M | \gamma(0) = p\} / \sim,\quad \gamma \sim \delta \iff (\varphi \circ \gamma)'(0) = (\varphi \circ \delta)'(0)
 $$
 
 We consider all the curves that go through $p$ at time 0.
