@@ -3,4 +3,4 @@ A **rational number** is one that can be expressed as $p \over q$ for integers $
 
 # Density
 
-The rationals are dense in the [[real number]]s.
+The rationals are [[dense]] in the [[real number]]s.
