@@ -6,6 +6,7 @@
 * [Differential Geometry](./Differential-Geometry/)
 * [Group Theory](./Group-Theory/)
 * [Mathematical Analysis](./Mathematical-Analysis/)
+* [Harmonic Analysis](./Harmonic-Analysis/)
 
 For a more detailed breakdown, check the [Navigation](./Navigation) page.
 
