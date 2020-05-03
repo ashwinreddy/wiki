@@ -4,4 +4,4 @@ $$
 [x,[y,z]]+[z,[x,y]]+[y,[z,x]] = 0\tag{Jacobi}
 $$
 
-$\mathfrak{abcdefghijklmnopqrstuvwxyz}$, $\mathfrak{ABCDEFGHIJKLMNOPQRSTUVWXYZ}$
+$\mathfrak{chicago}$
