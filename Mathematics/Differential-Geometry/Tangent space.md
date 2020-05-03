@@ -17,3 +17,9 @@ Then,
 $$
 T_p M = S / \sim
 $$
+
+# Basis
+
+$$
+\mathcal{B} = 
+$$
