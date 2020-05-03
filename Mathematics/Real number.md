@@ -1,0 +1,1 @@
+A **real number**. The [[set]] is denoted $\RR$.
