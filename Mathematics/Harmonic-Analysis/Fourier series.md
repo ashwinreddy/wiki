@@ -6,4 +6,7 @@ $$
 
  
 
- 
+$$
+
+{\displaystyle {\begin{aligned}s_{N}(x)={\frac {a_{0}}{2}}+\sum _{n=1}^{N}\left(a_{n}\cos \left({\tfrac {2\pi nx}{P}}\right)+b_{n}\sin \left({\tfrac {2\pi nx}{P}}\right)\right).\end{aligned}}}{\displaystyle {\begin{aligned}s_{N}(x)={\frac {a_{0}}{2}}+\sum _{n=1}^{N}\left(a_{n}\cos \left({\tfrac {2\pi nx}{P}}\right)+b_{n}\sin \left({\tfrac {2\pi nx}{P}}\right)\right).\end{aligned}}}
+$$
