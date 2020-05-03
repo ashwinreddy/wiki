@@ -1,1 +1,1 @@
-**[CycleGAN](https://junyanz.github.io/CycleGAN/)** is an algorithm that performs image-to-image translation from domain $X$ to $Y$ without explicit pairings. For example, $X$ could be any set of horse pictures and $Y$ could be any set of zebra pictures.
+**[CycleGAN](https://junyanz.github.io/CycleGAN/)** is an algorithm that performs image-to-image translation, that is a mapping $G: X \to Y$ from domain $X$ to $Y$ _without explicit pairings_. For example, $X$ could be any set of horse pictures and $Y$ could be any set of zebra pictures.
