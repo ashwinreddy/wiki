@@ -1,1 +1,3 @@
-**[CycleGAN](https://junyanz.github.io/CycleGAN/)** is an algorithm that performs image-to-image translation, that is a mapping $G: X \to Y$ from domain $X$ to $Y$ _without explicit pairings_. For example, $X$ could be any set of horse pictures and $Y$ could be any set of zebra pictures.
+**[CycleGAN](https://junyanz.github.io/CycleGAN/)** is an algorithm that performs image-to-image translation, that is learns mappings $G: X \to Y$ as well as $F: Y \to X$ from domain $X$ to $Y$ _without explicit pairings_. For example, $X$ could be any set of horse pictures and $Y$ could be any set of zebra pictures. 
+
+To do this, introduce adversarial discriminators $D_X$ and $D_Y$. Their jobs are to distinguish between $\{x\}$ and $\{F(y)\}$ and $\{y\}$ and $\{G(x)\}$, respectively.
