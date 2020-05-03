@@ -4,7 +4,7 @@ $$
 T_p M \triangleq \{\gamma: I\to M | \gamma(0) = p\} / \sim,\quad \gamma \sim \delta \iff (x \circ \gamma)'(0) = (x \circ \delta)'(0)
 $$
 
-We consider all the curves that go through $p$ at time 0 and get all the curves with distinct.
+We consider all the curves that go through $p$ at time 0.
 
 
 
