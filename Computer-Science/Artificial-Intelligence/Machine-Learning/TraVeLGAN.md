@@ -9,6 +9,6 @@ $$
 To get semantically meaningful images, they use transformation vector instead of cycle consistency.
 
 Transformation vector
-: For vectors $x_i$ and $x_j$, the transformation vector is given by $\nu(x_i, x_j) = x_j - x_i$
+: For vectors $x_i$ and $x_j$, the transformation vector is given by $\nu(x_i, x_j) = S(x_j) - S(x_i)$ for some latent space representation $S$.
 
 We then require that $\nu(x_i , x_j) = \nu(G_{XY}(x_i), G_{XY}(x_j))$.
