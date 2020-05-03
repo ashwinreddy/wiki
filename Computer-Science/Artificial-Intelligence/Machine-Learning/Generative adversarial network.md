@@ -2,6 +2,8 @@ A **[GAN](https://arxiv.org/pdf/1406.2661.pdf)** consists of a generative model 
 
 
 $$
-\mathbb{E}_{y \sim p_{\text{data}}(y)}\left[\log D_Y(y)\right] + \mathbb{E}_{x \sim p_{\text{data}}(x)}\left[\log\left( 1 - (D_Y\circ G)(x) \right)\right]
+\mathbb{E}_{x \sim p_{\text{data}}(x)}\left[\log D_Y(y)\right] + \mathbb{E}_{z \sim p_{z}(x)}\left[\log\left( 1 - (D_Y\circ G)(x) \right)\right]
 $$
+
+
 
