@@ -23,3 +23,9 @@ $$
 $$
 \mathcal{B} = \left\{\left(\frac{\partial}{\partial x^a}\right)_p \in T_p M | 1 \leq a \leq \dim M \right\}
 $$
+
+That means we can write a tangent vector as 
+
+$$
+X = X^a \left(\frac{\partial}{\partial x^a}\right)_p
+$$
