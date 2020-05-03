@@ -1,0 +1,1 @@
+A **group generator** is a set of group elements that is capable of producing all the elements in a group, similar to [[basis]].
