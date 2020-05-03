@@ -15,8 +15,10 @@ $$
 \gamma \sim \delta \iff (\varphi \circ \gamma)'(0) = (\varphi \circ \delta)'(0)
 $$
 
+Then,
+
 $$
-T_p M \triangleq  / \sim,\quad 
+T_p M \triangleq 
 $$
 
 We consider all the curves that go through $p$ at time 0.
