@@ -22,3 +22,9 @@ Backward cycle consistency
 $$
 \mathcal{L}_{\text{cyc}} = \mathbb{E}_{x \sim p_{\text{data}}(x)}\left[ \lVert F(G(x)) - x \rVert_1 \right] + \mathbb{E}_{y \sim p_{\text{data}}(y)}\left[ \lVert G(F(y)) - y \rVert_1 \right]
 $$
+
+The overall loss is
+
+$$
+\mathcal{L}(G, F, D_X, D_Y) = \mathcal{L}_{\text{GAN}}(G, D_Y, X, Y) + \mathcal{L}_{\text{GAN}}(F, D_X, Y, X) + \lambda \mathcal{L}_{\text{cyc}}(G,F)
+$$
