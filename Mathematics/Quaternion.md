@@ -15,6 +15,8 @@ k = \begin{bmatrix}\iota & 0\\\\\ 0 & -\iota\end{bmatrix} \\\\\
 
 In essence, we've shown that quaternions are isomorphic to [[special unitary group]] $SU(2)$.
 
+<<Warn("huh? how?")>>
+
 # As Matrices
 
 We can represent a quaternion $q$ as
