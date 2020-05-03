@@ -5,7 +5,7 @@
 
 # Addition
 
-\begin{align}
+\begin{gather}
 a + 0 = a \\\\\
 a + S(b) = S(a + b)
-\end{align}
+\end{gather}
