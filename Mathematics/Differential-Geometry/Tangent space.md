@@ -15,7 +15,7 @@ $$
 Then,
 
 $$
-T_p M = S / \sim
+\boxed{T_p M \triangleq \{\gamma: I\to M | \gamma(0) = p\} / \sim}
 $$
 
 # [[Basis]]
