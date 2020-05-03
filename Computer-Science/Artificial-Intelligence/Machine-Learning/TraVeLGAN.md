@@ -14,7 +14,7 @@ Transformation vector
 We then require that $\nu(x_i , x_j) = \nu(G_{XY}(x_i), G_{XY}(x_j))$.
 
 \begin{align}
-\mathcal{L}_{\text{TraVeL}} = \sum_{i \neq j} \operatorname{dist}(\nu_{ij}, \nu_{ij}') \\\\\
+\mathcal{L}\_{\text{TraVeL}} = \sum_{i \neq j} \operatorname{dist}(\nu_{ij}, \nu_{ij}') \\\\\
 \nu_{ij} = S(x_i) - S(x_j) \\\\\
 \nu_{ij}' = S(G_{XY}(x_i)) - S(G_{XY}(x_j))
 \end{align}
