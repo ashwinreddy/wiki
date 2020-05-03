@@ -1,0 +1,1 @@
+A **matrix group** is a [[group]] of [[invertible matrices|invertible matrix]]
