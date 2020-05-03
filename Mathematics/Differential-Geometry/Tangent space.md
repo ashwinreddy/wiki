@@ -21,5 +21,5 @@ $$
 # Basis
 
 $$
-\mathcal{B} = \{\left(\frac{\partial}{\partial x^a}\right)_p \in T_p M \}
+\mathcal{B} = \left\{\left(\frac{\partial}{\partial x^a}\right)_p \in T_p M \right\}
 $$
