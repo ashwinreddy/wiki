@@ -9,10 +9,14 @@ $$
 S = \{\gamma: I\to M | \gamma(0) = p\}
 $$
 
-Consider a coordinate chart $\varphi: U \to \RR^n$.
+Next, pick a coordinate chart $\varphi: U \to \RR^n$. We want to consider different vectors, so we define an [[equivalence relation]]
 
 $$
-T_p M \triangleq  / \sim,\quad \gamma \sim \delta \iff (\varphi \circ \gamma)'(0) = (\varphi \circ \delta)'(0)
+v
+$$
+
+$$
+T_p M \triangleq  / \sim,\quad 
 $$
 
 We consider all the curves that go through $p$ at time 0.
