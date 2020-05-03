@@ -27,5 +27,5 @@ $$
 That means we can write a tangent vector as 
 
 $$
-X = X^a \left(\frac{\partial}{\partial x^a}\right)_p
+X = \overbrace{X^a}^{\text{components}} \left(\frac{\partial}{\partial x^a}\right)_p
 $$
