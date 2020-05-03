@@ -1,4 +1,4 @@
-The **Fourier series** decomposes a signal into a superposition of sines and cosines and represents a way of converting from time domain to frequency domain.
+The **Fourier series** decomposes a signal into a superposition of sines and cosines.
 
 # Sine-Cosine Form
 
