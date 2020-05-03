@@ -1,6 +1,6 @@
 The **pullback** of a smooth map $\phi: M \to N$ at a point $p$ for smooth manifolds $M$ and $N$ is the linear map
 
 \begin{align}
-(\phi^\star)\_p: T^\_{\phi(p)}\star N &\to T\_p^\star M \\\\\
+(\phi)_p: T_{\phi(p)}\star N &\to T_{p}^\star M \\\\\
 \omega &\mapsto (\phi^*)_p(\omega)
 \end{align}
