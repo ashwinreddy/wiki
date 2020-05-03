@@ -18,3 +18,7 @@ Forward cycle consistency
 
 Backward cycle consistency
 : The criteria that $G(F(y)) \approx y$.
+
+$$
+\mathcal{L}_{\text{cyc}} = \mathbb{E}_{x \sim p_{\text{data}}(x)}\left[ \lVert F(G(x)) - x \rVert_1 \right] + \mathbb{E}_{y \sim p_{\text{data}}(y)}\left[ \lVert G(F(y)) - y \rVert_1 \right]
+$$
