@@ -20,3 +20,9 @@ The TraVeL loss is given by a distance metric
 \nu_{ij} &= S(x_i) - S(x_j) \\\\\
 \nu_{ij}' &= S(G_{XY}(x_i)) - S(G_{XY}(x_j))
 \end{align}
+
+We need to add one last fix to make sure that $S$ doesn't collapse to something trivial like outputting a constant.
+
+$$
+\mathcal{L}_{S_c} = \sum_{i \neq j} \max(0, \delta - \lVert \nu_ij \rVert_2 )
+$$
