@@ -1,1 +1,1 @@
-A **vector field** on a [[manifold]] is an assignment of a [[tangent vector|tangent space]] to each point in the manifold.
+A **vector field** on a [[manifold]] is a section of the [[tangent bundle]].
