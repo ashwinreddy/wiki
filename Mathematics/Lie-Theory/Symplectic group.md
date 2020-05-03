@@ -1,1 +1,1 @@
-The **symplectic group** is the orthogonal group for [[quaternions]].
+The **symplectic group** is the orthogonal group for [[quaternion]]s.
