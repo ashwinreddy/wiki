@@ -12,7 +12,7 @@ $$
 Next, pick a coordinate chart $\varphi: U \to \RR^n$. We want to consider different vectors, so we define an [[equivalence relation]]
 
 $$
-v
+\gamma \sim \delta \iff (\varphi \circ \gamma)'(0) = (\varphi \circ \delta)'(0)
 $$
 
 $$
