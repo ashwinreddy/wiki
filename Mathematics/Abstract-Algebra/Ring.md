@@ -1,1 +1,0 @@
-Ring consists of a set equipped with two binary operations that generalize the arithmetic operations of addition and multiplication.
