@@ -1,1 +1,1 @@
-**[TraVeLGAN](https://arxiv.org/pdf/1902.09631.pdf)** is an algorithm that uses [[GAN|generative adversarial network]]s similar to [[CycleGAN]] to do image-to-image translation without [[cycle consistency|CycleGAN#cycle consistency]].
+**[TraVeLGAN](https://arxiv.org/pdf/1902.09631.pdf)** is an algorithm that uses [[GAN|generative adversarial network]]s similar to [[CycleGAN]] to do image-to-image translation without [[cycle consistency|CycleGAN#cycle-consistency]].
