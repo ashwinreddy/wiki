@@ -5,3 +5,9 @@ The adversarial loss is
 $$
 \mathcal{L}_{\text{adv}} = \mathbb{E}_X\left[ D_Y(G_{XY}(X)) \right]
 $$
+
+To get semantically meaningful images, they use transformation vector instead of cycle consistency. Define
+
+$$
+\nu(x_i, x_j) = x_i - x_j
+$$
