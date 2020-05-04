@@ -1,4 +1,4 @@
-The **ideal gas law** says that a gas under pressure $P$ with volume $V$ at temperature $T$ with $n$ moles obeys
+The **ideal gas law** says that an ideal gas under pressure $P$ with volume $V$ at temperature $T$ with $n$ moles obeys
 
 \begin{equation}
 \boxed{PV = nRT} \tag{Ideal Gas}
