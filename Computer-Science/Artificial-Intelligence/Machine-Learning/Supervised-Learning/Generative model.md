@@ -1,1 +1,0 @@
-A generative model tries to learn $\Pr(X \| Y=y)$
