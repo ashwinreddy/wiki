@@ -1,4 +1,4 @@
-Maxwell's equations describe how to create electric field $\vec{E}$ and magnetic field $\vec{B}$ using an electric charge density $\rho$ and current vector $\vec{\jmath}$.
+**Maxwell's equations** describe how to create [[electric field]] $\vec{E}$ and magnetic field $\vec{B}$ using an electric charge density $\rho$ and current vector $\vec{\jmath}$.
 
 |Name|Differential Form|Integral Form|
 |-----|-----------------|-------------|
