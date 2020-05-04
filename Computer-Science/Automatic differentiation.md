@@ -1,1 +1,0 @@
-[[http://www.philipzucker.com/a-little-automatic-differentiation-in-python/]]
