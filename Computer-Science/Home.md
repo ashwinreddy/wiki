@@ -1,3 +1,1 @@
-
-
-<<Navigation()>>
+[[Machine Learning]]
