@@ -1,0 +1,1 @@
+**Supervised learning** is the problem of learning a mapping $f: X \to Y$ given examples $\vec{x}$ and outputs $y$.
