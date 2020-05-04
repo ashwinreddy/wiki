@@ -1,1 +1,1 @@
-**Supervised learning** is the problem of learning a mapping $f: X \to Y$ given examples $\vec{x}$ and outputs $y$.
+**Supervised learning** is the problem of learning a mapping $f: X \to Y$ given examples $\vec{x}$ and outputs $y$. If $Y$ is a set of finite, discrete values the problem is called **classification**; if it is a continuous value it is **regression**.
