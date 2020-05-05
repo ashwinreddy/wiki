@@ -1,0 +1,1 @@
+**[Reinforcement Learning with Augmented Data (RAD)](https://arxiv.org/pdf/2004.14990.pdf)** is an algorithm for enhancing RL algorithms with data augmentation.
