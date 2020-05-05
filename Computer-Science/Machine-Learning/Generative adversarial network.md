@@ -9,7 +9,7 @@ $$x = G(z; \theta_g)$$
 But how do we train this network? We pit it against a discriminator network $D(x; \theta_d)$ that tells the probability the data is legit.
 
 $$
-\min_G \max_D \mathbb{E}_{x \sim p_{\text{data}}(x)}\left[\log D(x)\right] + \mathbb{E}_{z \sim p_{z}(x)}\left[\log  1 - D(G(z)) \right)\right]
+\min_G \max_D \mathbb{E}_{x \sim p_{\text{data}}(x)}\left[\log D(x)\right] + \mathbb{E}_{z \sim p_{z}(x)}\left[\log  1 - D(G(z)) \right]
 $$
 
 
