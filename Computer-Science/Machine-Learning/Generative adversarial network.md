@@ -19,7 +19,7 @@ $$
     1. For k steps
         1. Sample $m$ noise samples
         3. Sample $m$ samples of real data
-        4. Update the discriminator by seeing how well it performs on these two sets
+        4. Update the discriminator by seeing how well it performs on these two sets (Equation \ref{eq:disc})
     2. Sample $m$ noise samples
     3. Update the generator by descending its stochastic decent.
 
