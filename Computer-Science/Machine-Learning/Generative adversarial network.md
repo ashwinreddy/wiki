@@ -21,7 +21,7 @@ $$
         3. Sample $m$ samples of real data
         4. Update the discriminator by seeing how well it performs on these two sets (Equation \ref{eq:disc})
     2. Sample $m$ noise samples
-    3. Update the generator by descending its stochastic decent.
+    3. Update the generator by descending its stochastic decent (Equation \ref{eq:gen}).
 
 \begin{equation}
 \label{eq:disc}
@@ -29,5 +29,6 @@ $$
 \end{equation}
 
 \begin{equation}
-\theta_g \leftarrow \theta_g - \nabla_{\theta_g} \frac{1}{m} \sum_{i=1}^m \log\left( 1 - D\left(G\left(z^{(i)}\right)\right) \right)
+\label{eq:gen}
+\theta_g \leftarrow \theta_g - \nabla_{\theta_g} \frac{1}{m} \sum_{i=1}^m \log\left( 1 - D\left(G\left(z^{(i)}\right)\right) \right) \tag{Generator Update}
 \end{equation}
