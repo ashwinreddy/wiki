@@ -24,5 +24,5 @@ $$
     3. Update the generator by descending its stochastic decent.
 
 \begin{equation}
-\theta_d \leftarrow \theta_d \frac{1}{m} \sum_{i=1}^m \left[ \log D( x^{(i)} ) + \log \left( 1 - D\left(G\left(z^{(i)}\right)\right) \right \right]
+\theta_d \leftarrow \theta_d \frac{1}{m} \sum_{i=1}^m \left[ \log D( x^{(i)} ) + \log \left( 1 - D\left(G\left(z^{(i)}\right)\right) \right) \right]
 \end{equation}
