@@ -6,11 +6,7 @@ In our ideal model of an op amp, the following rules hold.
 
 1.  \begin{equation}i_+ = i_- = 0 \tag{No current}\end{equation}
 
-2. In negative feedback, 
-
-\begin{equation}
-u_+ = u_- \tag{Negative feedback}
-\end{equation}
+2. In negative feedback,  \begin{equation}u_+ = u_- \tag{Negative feedback}\end{equation}
 
 # Negative feedback
 
