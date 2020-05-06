@@ -1,4 +1,7 @@
-The philosophy behind this [gollum](https://github.com/gollum/gollum)-powered repository is to hold a set of reference notes on technical subjects as well as other areas of personal interest. There is a global [[table of contents]] for easy lookup (or use the search bar). Notes are also separated by category as in the table below. The mathematics section is probably the most well-organized.
+The philosophy behind this [gollum](https://github.com/gollum/gollum)-powered repository is to hold a set of reference notes on technical subjects as well as other areas of personal interest. There is a global [[table of contents]] for easy lookup (or use the search bar). 
+
+
+Notes are separated by category as in the table below. The mathematics section is probably the most well-organized.
 
 
 |[Mathematics](./Mathematics/)|[Physics](./Physics/)|[Chemistry](./Chemistry/)|
