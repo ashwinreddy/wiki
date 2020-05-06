@@ -6,7 +6,7 @@ A **[GAN](https://arxiv.org/pdf/1406.2661.pdf)** is a machine learning algorithm
 
 The goal of a GAN is to learn a mapping via a network $G$ that produces output `fake_image` looking like it came from $X$. So $G$ has to depend on some noise $z$ and the parameters to the network $\theta_g$:
 
-$$\text{fake image} = G(z; \theta_g)$$
+$$\text{fake image} = \text{generator}(\text{noise}; \text{weights}_g)$$
 
 But how do we train this network? We pit it against a discriminator network $D(x; \theta_d)$ that tells the probability the data is legit. The discriminator wants to be right on average, based on where the sample is coming from. The generator wants the discriminator to be wrong:
 
