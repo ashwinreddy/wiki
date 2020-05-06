@@ -4,6 +4,6 @@ The philosophy behind this [gollum](https://github.com/gollum/gollum)-powered re
 |[Mathematics](./Mathematics/)|[Physics](./Physics/)|[Chemistry](./Chemistry/)|
 |[Engineering](./Engineering/)|[Biology](./Biology/)|[Computer Science](./Computer-Science/)|
 |[Statistics](./Statistics/)|[Economics](./Economics/)|[Philosophy](./Philosophy/)|
-|[[Miscellaneous]]|
+|[Psychology](./Psychology/)||[[Miscellaneous]]|
 
 [[include:Guidelines]]
