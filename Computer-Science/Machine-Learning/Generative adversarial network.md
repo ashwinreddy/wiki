@@ -1,4 +1,4 @@
-A **[GAN](https://arxiv.org/pdf/1406.2661.pdf)** is a machine learning algorithm capable of synthetically generating new examples from a dataset. 
+A **[GAN](https://arxiv.org/pdf/1406.2661.pdf)** is a machine learning algorithm capable of synthetically generating new examples from a dataset. Here is a helpful overview in a diagram:
 
 [[https://miro.medium.com/max/1400/1*UMg_hfitiq_XlMJUn_fzFw.jpeg|height=200px,align=center]]
 
