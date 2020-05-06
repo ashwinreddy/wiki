@@ -1,4 +1,4 @@
-**[TraVeLGAN](https://arxiv.org/pdf/1902.09631.pdf)** is an algorithm that uses [[GAN|generative adversarial network]]s similar to [[CycleGAN]] to do image-to-image translation from domain $X$ to $Y$ but does so without [[cycle consistency|CycleGAN#cycle-consistency]], which uses pixel per pixel differences (which aren't as meaningful). To get semantically meaningful images, they use transformation vector instead of cycle consistency.
+**[TraVeLGAN](https://arxiv.org/pdf/1902.09631.pdf)** is an algorithm that uses [[GAN|generative adversarial network]]s similar to [[CycleGAN]] to do image-to-image translation from domain $X$ to $Y$ but does so without [[cycle consistency|CycleGAN#cycle-consistency]], which uses pixel per pixel differences (which aren't as meaningful). To get semantically meaningful images, they use a transformation vector instead of cycle consistency.
 
 Transformation vector
 : For vectors $x_i$ and $x_j$, the transformation vector is given by $\nu(x_i, x_j) = S(x_j) - S(x_i)$ for some latent space representation $S$.
