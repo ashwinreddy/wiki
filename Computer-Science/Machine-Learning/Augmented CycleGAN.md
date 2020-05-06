@@ -15,3 +15,4 @@ There are four components:
 |Encoder|$E_A$|$A \times B \to Z_a$|
 |Encoder|$E_B$|$A \times B \to Z_b$|
 
+The idea is to learn a mapping $(a, z_b) \to (\tilde{b}, \tilde{z}_a)$
