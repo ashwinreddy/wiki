@@ -9,3 +9,5 @@ Let $f$ be the network and $x_1$ and $x_2$ be the two inputs. Let $D_w$ be the d
 $$
 (1-Y)\cdot\frac{D_W^2}{2} + Y\cdot\frac{\left(\max(0, m - D_W)\right)^2}{2}
 $$
+
+where $Y$ is 0 if they are from the same class and 1 otherwise and $m$ is the margin.
