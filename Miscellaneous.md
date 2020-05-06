@@ -1,5 +1,13 @@
 Random bits of information I access often
 
+# Remote Dev
+
+* Use tmux
+* `from IPython import embed; embed()`
+* Use `tqdm` to gauge progress in terminal
+* Cyberduck and VSCode have remote support
+* Use python line profiler if code is slow
+
 # Conda
 
 Removing a conda env:
