@@ -4,7 +4,7 @@ A **[GAN](https://arxiv.org/pdf/1406.2661.pdf)** is a machine learning algorithm
 
 # Formalism
 
-The goal of a GAN is to learn a mapping via a network $G$ that produces output `fake_image` looking like it came from $X$. So $G$ has to depend on some noise $z$ and the parameters to the network $\theta_g$:
+The goal of a GAN is to learn a mapping via a network $G$ that produces output $x$ which should look like it came from the input data distribution over $X$. So $G$ has to depend on some noise $z$ and the parameters to the network $\theta_g$:
 
 $$x = G(z; \theta_g)$$
 
