@@ -5,7 +5,7 @@
 There are four components:
 
 
-|Mapping|$G_{AB}: A \times Z_b \to B$|
-|Mapping|$G_{BA}: B \times Z_a \to A$|
-|Encoder|$E_A: A \times B \to Z_a$|
-|Encoder|$E_B: A \times B \to Z_b$|
+|Mapping|$G_{AB}$|$A \times Z_b \to B$|
+|Mapping|$G_{BA}$|$B \times Z_a \to A$|
+|Encoder|$E_A$|$A \times B \to Z_a$|
+|Encoder|$E_B$|$A \times B \to Z_b$|
