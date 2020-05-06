@@ -6,7 +6,7 @@ We'll have to start with $\vec{x}=0$ and then pick one of the columns. Naturally
 
 # Algorithm
 
-1. $\vec{e} \leftarrow \vec{b}$
-2. For $i = 1, \dots, k$ for sparsity $k$
-    1. Find $i$ such that $\vert\langle \vec{m}_i, \vec{e} \rangle\vert$ is maximum
-    2. Update $\vec{x}_i = \vec{x}_i + \langle \vec{e}, \vec{m}_i \rangle$.
+1. Look for the column that has the highest magnitude inner product with the residual.
+2. Include that column in a matrix $A$
+3. Do a least squares to find the best linear combination of columns of $A$ that gets you to $b$
+4. Update the residual by removing your least squares estimate.
