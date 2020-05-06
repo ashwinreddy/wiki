@@ -3,6 +3,8 @@
 Transformation vector
 : For vectors $x_i$ and $x_j$, the transformation vector is given by $\nu(x_i, x_j) = S(x_j) - S(x_i)$ for some latent space representation $S$.
 
+The representation $S$ is learned by a [[siamese neural network]].
+
 # Formalism
 
 We want to learn $G_{XY}: X \to Y$ and $G_{YX}: Y \to X$. 
