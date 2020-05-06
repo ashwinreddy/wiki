@@ -1,4 +1,4 @@
-1. This is first and foremost a reference wiki. The point is not to store interesting articles, essays, op-eds, etc. Those should be stored somewhere else.
+1. This is first and foremost a fairly objective reference wiki. The point is not to store interesting articles, essays, op-eds, etc. Those should be stored somewhere else.
 2. Everything here is a work in progress. This wiki is a reflection of what you understand. Sometimes, you understand false things. Sometimes you understand special cases. Having your ideas recorded and annotated with what you think is false is better than just going around with false ideas.
 3. Sprinkle links liberally. Other people have interesting perspectives, reference them!
 4. Bold new words in the article. Use definition = class + differentiation format.
