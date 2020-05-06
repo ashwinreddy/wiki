@@ -1,0 +1,1 @@
+**Orthogonal matching pursuit (OMP)** is an algorithm for finding a sparse vector $\vec{x}$ such that $M\vec{x} = b$.
