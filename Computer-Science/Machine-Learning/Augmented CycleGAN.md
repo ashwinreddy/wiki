@@ -1,1 +1,1 @@
-**[Augmented CycleGAN](https://arxiv.org/pdf/1802.10151.pdf)** is an extension to [[CycleGAN]] that can do many-to-many mappings for image-to-image translation.
+**[Augmented CycleGAN](https://arxiv.org/pdf/1802.10151.pdf)** is an extension to [[CycleGAN]] that can do many-to-many mappings for image-to-image translation by equipping a latent space to each GAN.
