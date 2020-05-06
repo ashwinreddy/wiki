@@ -1,1 +1,1 @@
-A **Siamese neural network** takes two inputs and pushes them in parallel with the same weights to a latent space.
+A **Siamese neural network** takes two inputs and pushes them in parallel with the same weights to a latent space. It is trained to put inputs in the same class together and inputs of different classes far apart.
