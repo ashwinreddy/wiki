@@ -4,11 +4,7 @@ An **operational amplifier** or **op amp** can be used as a comparator or in neg
 
 In our ideal model of an op amp, the following rules hold.
 
-1. 
-
-\begin{equation}
-i_+ = i_- = 0 \tag{No current}
-\end{equation}
+1.  \begin{equation}i_+ = i_- = 0 \tag{No current}\end{equation}
 
 2. In negative feedback, 
 
