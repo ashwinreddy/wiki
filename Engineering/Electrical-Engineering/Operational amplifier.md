@@ -1,0 +1,1 @@
+An **operational amplifier** or **op amp** can be used as a comparator or in negative feedback.
