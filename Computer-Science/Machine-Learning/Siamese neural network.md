@@ -1,1 +1,1 @@
-A **Siamese neural network**
+A **Siamese neural network** takes two inputs and pushes them in parallel with the same weights to a latent space.
