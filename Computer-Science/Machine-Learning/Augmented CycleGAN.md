@@ -4,7 +4,7 @@
 
 There are four components:
 
-
+|Type|Name|Space|
 |Mapping|$G_{AB}$|$A \times Z_b \to B$|
 |Mapping|$G_{BA}$|$B \times Z_a \to A$|
 |Encoder|$E_A$|$A \times B \to Z_a$|
