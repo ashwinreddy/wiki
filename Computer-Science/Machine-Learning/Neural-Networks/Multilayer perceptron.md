@@ -12,3 +12,9 @@ Let's say the weights $v_{jk}$ and biases $b_k$ have zero mean and standard devi
 $$
 \mathbb{E}[v_{jk}h_j(x^{(1)})] \stackrel{\text{ind. r.v.}}{=} \mathbb{E}[v_{jk}]\cdot\mathbb{E}[h_j(x^{(1)})] = 0
 $$
+
+The hidden unit's variance contribution is
+
+$$
+\mathbb{V} x^{(1)} = \mathbb{E}[h_j(x^{(1)})^2]
+$$
