@@ -1,4 +1,4 @@
-A **support-vector machine** is a binary classifier with a linear decision boundary called the maximum margin hyperplane. The decision boundary is given by
+A **support-vector machine** is a binary classifier with a linear decision boundary called the maximum margin hyperplane for $(\vec{x}_1, y_1), \dots, (\vec{x}_n, y_n)$ with $y_i \in \\{+1,-1\\}$. The decision boundary is given by
 
 \begin{equation}
 \vec{w}\cdot\vec{x} + w_0 = 0\tag{Decision boundary}
@@ -17,7 +17,7 @@ Then the predictions are given
 In the case that data really are linearly separable, 
 
 
-The data is given by $(\vec{x}_1, y_1), \dots, (\vec{x}_n, y_n)$ with $y_i \in \\{+1,-1\\}$. A linear model gives us
+The data is given by $. A linear model gives us
 
 $$
 f(\vec{x}) = \vec{w}^\top \vec{x} - b
