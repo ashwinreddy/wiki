@@ -12,5 +12,5 @@ Functional margin
 \end{equation}
 
 Geometrical margin
-: \begin{equation}\gamma_i = {\tilde{\gamma_i} \over \lvert\vec{w}\rvert}\end{equation}
+: \begin{equation}\gamma_i = {\tilde{\gamma_i} \over \lVert\vec{w}\rVert}\end{equation}
 
