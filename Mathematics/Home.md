@@ -5,10 +5,11 @@
 |[Optimization](./Mathematical-Optimization/)|[Group Theory](./Group-Theory/)|[Differential Geometry](./Differential-Geometry/)|
 |[Linear Algebra](./Linear-Algebra/)|
 |[Probability Theory](./Probability-Theory/)|
+|[Harmonic Analysis](./Harmonic-Analysis/)|
 
 
 * [Mathematical Analysis](./Mathematical-Analysis/)
-* [Harmonic Analysis](./Harmonic-Analysis/)
+
 
 For a more detailed breakdown, check the [Navigation](./Navigation) page.
 
