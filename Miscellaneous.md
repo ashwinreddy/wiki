@@ -31,3 +31,7 @@ Set line numbers: `:set number`
 ```
 grep -r [search term] ./
 ```
+
+Transfer Files between machines:
+
+* rsync > scp > magic-wormhole
