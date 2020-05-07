@@ -16,6 +16,8 @@ Functional margin
 Geometrical margin
 : \begin{equation}\gamma_i = {\tilde{\gamma_i} \over \lVert\vec{w}\rVert}\end{equation}
 
+[[_TOC_]]
+
 # Formulation
 
 ## Hard-Margin SVM
