@@ -5,3 +5,4 @@ A **Gaussian process**
 In supervised learning, we can make the leap from data to model in one of two ways:
 
 * assume a [[hypothesis class]] of functions
+* put a prior on all functions
