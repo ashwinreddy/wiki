@@ -1,8 +1,9 @@
 # Overview
 
-* [Optimization](./Mathematical-Optimization/)
-* [Linear Algebra](./Linear-Algebra/)
-* [Probability Theory](./Probability-Theory/)
+|Applied|Abstract|Mathematical|
+|[Optimization](./Mathematical-Optimization/)|
+|[Linear Algebra](./Linear-Algebra/)|
+|[Probability Theory](./Probability-Theory/)|
 * [Differential Geometry](./Differential-Geometry/)
 * [Group Theory](./Group-Theory/)
 * [Mathematical Analysis](./Mathematical-Analysis/)
