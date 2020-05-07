@@ -21,3 +21,4 @@ Some useful math resources include:
 * Evan Chen's [Napkin](https://web.evanchen.cc/napkin.html)
 * [[http://realnotcomplex.com/]]
 * [nLab](https://ncatlab.org/nlab/show/HomePage)
+* Maybe [this](https://github.com/rossant/awesome-math), haven't actually looked at it much
