@@ -14,3 +14,10 @@ Functional margin
 Geometrical margin
 : \begin{equation}\gamma_i = {\tilde{\gamma_i} \over \lVert\vec{w}\rVert}\end{equation}
 
+# Hard-Margin SVM
+
+The hard-margin SVM can only be used if the data really are linearly separable.
+
+\begin{equation}
+\min \frac{1}{2} \lVert \vec{w}\rVert^2
+\end{equation}
