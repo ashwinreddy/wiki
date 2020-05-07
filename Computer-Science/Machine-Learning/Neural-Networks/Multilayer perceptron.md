@@ -13,8 +13,4 @@ $$
 \mathbb{E}[v_{jk}h_j(x^{(1)})] \stackrel{\text{ind. r.v.}}{=} \mathbb{E}[v_{jk}]\cdot\mathbb{E}[h_j(x^{(1)})] = 0
 $$
 
-The hidden unit's variance contribution is
-
-$$
-\mathbb{V} x^{(1)} = \mathbb{E}[h_j(x^{(1)})^2]
-$$
+[Read more](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.446.9306&rep=rep1&type=pdf)
