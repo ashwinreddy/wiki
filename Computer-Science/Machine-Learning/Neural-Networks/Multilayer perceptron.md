@@ -1,1 +1,1 @@
-A **multilayer perceptron (MLP)**
+A **multilayer perceptron (MLP)** is basically a vanilla neural network.
