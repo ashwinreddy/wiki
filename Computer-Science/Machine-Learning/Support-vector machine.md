@@ -33,3 +33,5 @@ The hard-margin SVM can only be used if the data really are linearly separable.
 If the data are not linearly separable, we can allow misclassification with a penalty.
 
 # Comparison to Gaussian Process Classifier
+
+There is a close correspondence between the MAP of GP classifier and SVM.
