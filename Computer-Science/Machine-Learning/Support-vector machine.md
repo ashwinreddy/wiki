@@ -10,6 +10,8 @@ Then the predictions are given
 \tilde{\gamma}_i := y_i(\vec{w}\cdot\vec{x} + w_0) \tag{Functional margin}
 \end{equation}
 
+
+
 # Hard-Margin SVM
 
 In the case that data really are linearly separable, 
