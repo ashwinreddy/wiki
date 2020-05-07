@@ -1,7 +1,7 @@
 A **support-vector machine** is a binary classifier with a linear decision boundary called the maximum margin hyperplane. The decision boundary is given by
 
 \begin{equation}
-vec{w}\cdot\vec{x} + w_0 = 0\tag{Decision boundary}
+\vec{w}\cdot\vec{x} + w_0 = 0\tag{Decision boundary}
 \end{equation}
 
 # Hard-Margin SVM
