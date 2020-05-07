@@ -4,6 +4,12 @@ A **support-vector machine** is a binary classifier with a linear decision bound
 \vec{w}\cdot\vec{x} + w_0 = 0\tag{Decision boundary}
 \end{equation}
 
+Then the predictions are given
+
+\begin{equation}
+\tilde{\gamma}_i := y_i(\vec{w}\cdot\vec{x} + w_0) \tag{Functional margin}
+\end{equation}
+
 # Hard-Margin SVM
 
 In the case that data really are linearly separable, 
