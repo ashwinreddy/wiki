@@ -1,4 +1,9 @@
-A **support-vector machine** is a binary classifier with a linear decision boundary. The data is given by $(\vec{x}_1, y_1), \dots, (\vec{x}_n, y_n)$ with $y_i \in \\{+1,-1\\}$. A linear model gives us
+A **support-vector machine** is a binary classifier with a linear decision boundary called the maximum margin hyperplane.
+
+
+
+
+The data is given by $(\vec{x}_1, y_1), \dots, (\vec{x}_n, y_n)$ with $y_i \in \\{+1,-1\\}$. A linear model gives us
 
 $$
 f(\vec{x}) = \vec{w}^\top \vec{x} - b
