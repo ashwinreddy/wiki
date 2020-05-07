@@ -1,4 +1,4 @@
-A **support-vector machine** is a binary classifier with a linear decision boundary called the maximum margin hyperplane for $(\vec{x}_1, y_1), \dots, (\vec{x}_n, y_n)$ with $y_i \in \\{+1,-1\\}$. The decision boundary is given by the following equation for an arbitrary choice of $c > 0$.
+A **support-vector machine** is a binary classifier with a linear decision boundary called the maximum margin hyperplane for $(\vec{x}_1, y_1), \dots, (\vec{x}_n, y_n)$ with $y_i \in \\{+1,-1\\}$. The decision boundary is given by the following equation for an arbitrary choice of $c \neq 0$.
 
 \begin{equation}
 c \left[ \vec{w}\cdot\vec{x} + w_0 \right] = 0\tag{Decision boundary}
