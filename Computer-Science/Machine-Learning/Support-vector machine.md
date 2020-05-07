@@ -16,10 +16,18 @@ Functional margin
 Geometrical margin
 : \begin{equation}\gamma_i = {\tilde{\gamma_i} \over \lVert\vec{w}\rVert}\end{equation}
 
-# Hard-Margin SVM
+# Formulation
+
+## Hard-Margin SVM
 
 The hard-margin SVM can only be used if the data really are linearly separable.
 
 \begin{equation}
 \min \frac{1}{2} \lVert \vec{w}\rVert^2 \text{ subject to } y_i \left( \vec{w}\cdot\vec{x}_i + w_0 \right) \geq 1
 \end{equation}
+
+## Soft-Margin SVM
+
+If the data are not linearly separable, we can allow misclassification with a penalty.
+
+# Comparison to Gaussian Process Classifier
