@@ -11,3 +11,6 @@ Functional margin
 \tilde{\gamma}_i := y_i(\vec{w}\cdot\vec{x} + w_0) \tag{Functional margin}
 \end{equation}
 
+Geometrical margin
+: \begin{equation}\gamma_i = \tilde{\gamma_i} / |\vec{w}|\end{equation}
+
