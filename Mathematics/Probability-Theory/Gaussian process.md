@@ -2,3 +2,6 @@ A **Gaussian process**
 
 # [Machine Learning](http://www.gaussianprocess.org/gpml/chapters/RW1.pdf)
 
+In supervised learning, we can make the leap from data to model in one of two ways:
+
+* assume a [[hypothesis class]] of functions
