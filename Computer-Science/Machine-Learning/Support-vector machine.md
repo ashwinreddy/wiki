@@ -19,5 +19,5 @@ Geometrical margin
 The hard-margin SVM can only be used if the data really are linearly separable.
 
 \begin{equation}
-\min \frac{1}{2} \lVert \vec{w}\rVert^2
+\min \frac{1}{2} \lVert \vec{w}\rVert^2 \text{ subject to } y_i \left( \vec{w}\cdot\vec{x}_i + w_0 \right) \geq 1
 \end{equation}
