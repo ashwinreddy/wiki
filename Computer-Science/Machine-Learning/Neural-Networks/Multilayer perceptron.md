@@ -7,7 +7,7 @@ h_j(x) =\tanh(a_j + \sum_{i=1}^I u_{ij}x_i)
 
 # Limits for Gaussian prior
 
-Let's say the weights $v_{jk}$ and biases $b_k$ have zero mean and standard deviation $\sigma_v$ and $\sigma_b$ and similarly for $u_{ij}$ and $a_j$.
+Let's say the weights $v_{jk}$ and biases $b_k$ have zero mean and standard deviation $\sigma_v$ and $\sigma_b$ and similarly for $u_{ij}$ and $a_j$. Each hidden unit contributes nil to the expectation:
 
 $$
 \mathbb{E}[v_{jk}h_j(x^{(1)})] = \mathbb{E}[v_{jk}]\cdot\mathbb{E}[h_j(x^{(1)})] = 0
