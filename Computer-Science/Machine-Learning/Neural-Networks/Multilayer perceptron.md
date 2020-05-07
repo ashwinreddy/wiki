@@ -10,5 +10,5 @@ h_j(x) =\tanh(a_j + \sum_{i=1}^I u_{ij}x_i)
 Let's say the weights $v_{jk}$ and biases $b_k$ have zero mean and standard deviation $\sigma_v$ and $\sigma_b$ and similarly for $u_{ij}$ and $a_j$.
 
 $$
-\mathbb{E}[v_{jk}h_j(x^{(1)})] = \mathbb{E}[v_{jk}]\mathbb{E}[h_j(x^{(1)})] = 0
+\mathbb{E}[v_{jk}h_j(x^{(1)})] = \mathbb{E}[v_{jk}]\cdot\mathbb{E}[h_j(x^{(1)})] = 0
 $$
