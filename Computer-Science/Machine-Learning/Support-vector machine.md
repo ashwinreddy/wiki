@@ -4,6 +4,8 @@ A **support-vector machine** is a binary classifier with a linear decision bound
 c\left[\vec{w}\cdot\vec{x} + w_0\right] = 0\tag{Decision boundary}
 \end{equation}
 
+If we pick $\vec{c} = \lVert \vec{w} \rVert^-1$.
+
 Then the predictions are given by computing the sign of the functional margin.
 
 Functional margin
