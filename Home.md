@@ -4,8 +4,8 @@ The philosophy behind this [gollum](https://github.com/gollum/gollum)-powered re
 Notes are separated by category as in the table below. The mathematics section is probably the most well-organized.
 
 
-|[Mathematics](./Mathematics/)|[Physics](./Physics/)|[Chemistry](./Chemistry/)|
-|[Engineering](./Engineering/)|[Biology](./Biology/)|[Computer Science](./Computer-Science/)|
+|[Mathematics](./Mathematics/)|[Engineering](./Engineering/)|[Physics](./Physics/)|
+|[Chemistry](./Chemistry/)|[Biology](./Biology/)|[Computer Science](./Computer-Science/)|
 |[Statistics](./Statistics/)|[Economics](./Economics/)|[Philosophy](./Philosophy/)|
 |[Psychology](./Psychology/)||[[Miscellaneous]]|
 
