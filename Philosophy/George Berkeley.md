@@ -1,1 +1,0 @@
-He agrees with Locke's empiricist epistemology, but rejects Locke's/Descarte's metaphysics.
