@@ -1,8 +1,9 @@
-**Distribution Correction ([DisCor](https://arxiv.org/pdf/2003.07305.pdf))**
+**Distribution Correction ([DisCor](https://arxiv.org/pdf/2003.07305.pdf))** is an algorithm for improving performance on approximate dynamic programming.
 
 One main reason that deep RL algorithms might not work is that the ones based on dynamic programing suffer from disjunction between the data dstribution and the learned model.
 
-Def. Approximate Dynamic Programming = Dynamic Programming with function approximation
+Approximate Dynamic Programming
+: [[dynamic programming]] with function approximation
 
 Examples:
 
