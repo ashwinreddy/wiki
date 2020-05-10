@@ -24,6 +24,16 @@ A simple example would be a one-step RL contextual bandit. Tries to hard mine fo
 
 BUT if you start using previous Q functions, you won't get corrective feedback. Errors in $\bar{Q}$ at the next state result in incorrect Q-value targets at the current state.
 
+# Experiments
+
+The authors tried it on
+
+1. Hammer
+2. Push with stick
+3. Push with wall
+4. Pull with stick
+5. Turn dial
+6. Insert peg side
 
 # References
 
