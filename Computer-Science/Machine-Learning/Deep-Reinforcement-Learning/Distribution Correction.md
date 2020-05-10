@@ -1,4 +1,4 @@
-**Distribution Correction (DisCor)** is an algorithm for 
+**Distribution Correction ([DisCor](https://arxiv.org/pdf/2003.07305.pdf))**
 
 One main reason that deep RL algorithms might not work is that the ones based on dynamic programing suffer from disjunction between the data dstribution and the learned model.
 
@@ -27,4 +27,3 @@ BUT if you start using previous Q functions, you won't get corrective feedback. 
 # References
 
 * [blog](https://bair.berkeley.edu/blog/2020/03/16/discor/)
-* [paper](https://arxiv.org/pdf/2003.07305.pdf)
