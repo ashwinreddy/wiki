@@ -1,0 +1,1 @@
+Sine is opposite over hypotenuse
