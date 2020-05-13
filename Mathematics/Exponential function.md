@@ -6,4 +6,4 @@ The **exponential function** is most naturally defined by its Maclaurin series.
 
 It is generalized to the [[matrix exponential]]
 
-https://setosa.io/ev/exponentiation/
+[[https://setosa.io/ev/exponentiation/]]
