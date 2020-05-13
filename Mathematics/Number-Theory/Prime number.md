@@ -5,4 +5,4 @@ A [[primality test]]
 
 # Infinitude
 
-There are an infinite number of primes by [[Euclid's theorem]]. But there are more [proofs](https://medium.com/cantors-paradise/six-proofs-that-there-are-infinitely-many-primes-33037bc2c54e).
+There are an infinite number of primes by [[Euclid's theorem]]. But there are [more](https://fermatslibrary.com/s/on-the-infinitude-of-primes) [proofs](https://medium.com/cantors-paradise/six-proofs-that-there-are-infinitely-many-primes-33037bc2c54e)
