@@ -7,3 +7,5 @@ $$
 
 
 The dagger ($\dagger$) represents the [[Moore-Penrose inverse]].
+
+[[https://setosa.io/ev/ordinary-least-squares-regression/]]
