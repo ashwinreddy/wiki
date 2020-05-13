@@ -1,0 +1,1 @@
+[[https://deaddaysliving.blogspot.com/2020/05/a-simple-guide-to-thermodynamics.html]]
