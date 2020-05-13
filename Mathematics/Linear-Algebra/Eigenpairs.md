@@ -35,3 +35,5 @@ The determinant of a triangular matrix is the product of diagonals.
 \begin{equation}
 \det A = \prod_{i=1}^n \lambda_i
 \end{equation}
+
+[[https://setosa.io/ev/eigenvectors-and-eigenvalues/]]
