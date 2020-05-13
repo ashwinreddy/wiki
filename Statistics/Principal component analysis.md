@@ -16,3 +16,5 @@ $$
 
 3. Pick off the first $d$ columns of $V$, assuming singular value ordered. Call this $n \times d$ matrix $B$ for basis.
 4. Project $A$ into the lower space by $AB$ to get an $m \times d$ matrix.
+
+[[https://setosa.io/ev/principal-component-analysis/]]
