@@ -24,3 +24,4 @@ Some useful math resources include:
 * Maybe [this](https://github.com/rossant/awesome-math), haven't actually looked at it much
 
 * [Tips for mathematical handwriting](https://johnkerl.org/doc/ortho/ortho.html)
+* [[https://www.neilwithdata.com/mathematics-self-learner]]
