@@ -1,0 +1,1 @@
+The **Legendre transformation** takes functions on a vector space to functions on the dual space.
