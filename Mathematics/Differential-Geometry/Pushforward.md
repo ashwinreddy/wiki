@@ -3,3 +3,7 @@ The **pushforward** or total derivative of a [[smooth map]] $\phi: M \to N$ betw
 $$
 \dd{\varphi_x}: T_x M \to T_{\varphi(x)}N
 $$
+
+$$
+\varphi
+$$
