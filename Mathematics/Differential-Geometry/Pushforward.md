@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-\varphi
+d\varphi_x = \dv{}{t}\bigg|_{t=0} \varphi(f(t))
 $$
