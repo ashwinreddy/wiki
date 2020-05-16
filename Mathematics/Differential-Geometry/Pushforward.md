@@ -7,5 +7,5 @@ $$
 Consider a curve $\varphi: \RR \to M$ with $\varphi(0)=x$ and velocity $v = \dv{\varphi}{t}\vert_{t=0}$
 
 $$
-\mathrm{d} f_x(v)
+\mathrm{d} f_x(v) = \dv{}{t}\bigg\vert_{t=0} f(\varphi(t))
 $$
