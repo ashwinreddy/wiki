@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-{\displaystyle {\mathrm {d} {\varphi }_{x}}(\gamma '(0))~{\stackrel {\text{df}}{=}}~(\varphi \circ \gamma )'(0).}
+{\displaystyle {\mathrm {d} {f }_{x}}(\gamma '(0))~{\stackrel {\text{df}}{=}}~(f \circ \gamma )'(0).}
 $$
