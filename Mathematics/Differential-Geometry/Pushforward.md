@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-{\displaystyle {\mathrm {d} {f }_{x}}(\gamma '(0))~{\stackrel {\text{df}}{=}}~(f \circ \gamma )'(0).}
+\mathrm{d} f_x
 $$
