@@ -18,9 +18,12 @@ $$
 
 This is because
 
-$$
-\dot{C} = \dot{p}\dv{q}{s} + p \dv{\dot{q}}{s} = \pdv{L}{q}\dv{q}{s} + \pdv{L}{\dot{q}} \dv{\dot{q}}{s} = \dv{}{s}L(q(s), \dot{q}(s)) = 0
-$$
+\begin{align}
+\dot{C} &= \dot{p}\dv{q}{s} + p \dv{\dot{q}}{s} \\\\\
+&= \pdv{L}{q}\dv{q}{s} + \pdv{L}{\dot{q}} \dv{\dot{q}}{s} \\\\\
+&= \dv{}{s}L(q(s), \dot{q}(s)) \\\\\
+&= 0
+\end{align}
 
 # References
 
