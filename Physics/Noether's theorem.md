@@ -16,7 +16,11 @@ $$
 C = p\cdot\dv{q}{s}
 $$
 
-In other words, $\dot{C} = 0$.
+This is because
+
+$$
+\dot{C} = \dot{p}\cdot\dv{q}{s} + p \dv{}{t}\dv{q}{s}
+$$
 
 # References
 
