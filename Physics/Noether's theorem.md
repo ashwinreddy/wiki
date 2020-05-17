@@ -17,3 +17,7 @@ C = p\cdot\dv{q}{s}
 $$
 
 In other words, $\dot{C} = 0$.
+
+# References
+
+[[http://math.ucr.edu/home/baez/noether.html]]
