@@ -19,7 +19,7 @@ $$
 This is because
 
 $$
-\dot{C} = \dot{p}\cdot\dv{q}{s} + p \dv{}{t}\dv{q}{s}
+\dot{C} = \dot{p}\cdot\dv{q}{s} + p \dv{\dot{q}}{s}
 $$
 
 # References
