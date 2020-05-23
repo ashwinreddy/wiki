@@ -11,9 +11,11 @@ It is generalized to the [[matrix exponential]]
 # Differential Equation
 
 $$
-\dv{y}{t} + \alpha y = 0 \implies y = y_0 \exp(-\alpha t)
+\dv{}{x} y(x) = y(x) \implies y(x) = \exp(x)
 $$
 
 # Growth
+
+
 
 [[https://setosa.io/ev/exponentiation/]]
