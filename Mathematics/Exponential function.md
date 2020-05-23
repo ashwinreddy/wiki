@@ -6,10 +6,14 @@ The **exponential function** is most naturally defined by its Maclaurin series.
 
 It is generalized to the [[matrix exponential]]
 
+[[_TOC_]]
+
 # Differential Equation
 
 $$
 \dv{y}{t} + \alpha y = 0 \implies y = y_0 \exp(-\alpha t)
 $$
+
+# Growth
 
 [[https://setosa.io/ev/exponentiation/]]
