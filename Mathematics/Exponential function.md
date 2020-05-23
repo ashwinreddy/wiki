@@ -2,7 +2,7 @@ The **exponential function** is most naturally defined by its Maclaurin series.
 
 \begin{equation}
 \boxed{
-\exp(x) \triangleq \sum_{k=0}^\infty \frac{x^k}{k!}
+\exp(x) \triangleq \sum_{k=0}^\infty \frac{x^k}{k!} = \left(\sum_{k=0}^\infty \frac{1}{k!}\right)^n
 }
 \end{equation}
 
