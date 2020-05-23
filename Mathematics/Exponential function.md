@@ -9,7 +9,7 @@ It is generalized to the [[matrix exponential]]
 # Differential Equation
 
 $$
-\dv{y}{t} + \alpha y \implies y = y_0 \exp(\alpha t)
+\dv{y}{t} + \alpha y = 0 \implies y = y_0 \exp(-\alpha t)
 $$
 
 [[https://setosa.io/ev/exponentiation/]]
