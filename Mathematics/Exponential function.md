@@ -10,9 +10,7 @@ It is generalized to the [[matrix exponential]]
 
 # Differential Equation
 
-$$
-\dv{}{x} y(x) = y(x) \implies y(x) = \exp(x)
-$$
+The exponential function has the unique property of being its own derivative.
 
 # Growth
 
