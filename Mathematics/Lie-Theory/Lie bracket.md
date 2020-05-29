@@ -4,3 +4,4 @@ A **Lie bracket** for a [[Lie algebra]] $\mathfrak{g}$ is a $[\cdot,\cdot]: \mat
 [a, a] = 0
 \end{equation}
 
+[[include:Jacobi identity]]
