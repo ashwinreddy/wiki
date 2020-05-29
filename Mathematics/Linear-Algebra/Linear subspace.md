@@ -1,0 +1,1 @@
+A **linear subspace** of a [[vector space]] $V$ is a a [[subset]] $W \subset V$ treated as a vector space.
