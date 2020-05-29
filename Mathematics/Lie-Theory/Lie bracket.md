@@ -4,6 +4,3 @@ A **Lie bracket** for a [[Lie algebra]] $\mathfrak{g}$ is a $[\cdot,\cdot]: \mat
 [a, a] = 0
 \end{equation}
 
-\begin{equation}
-[x,[y,z]]+[z,[x,y]]+[y,[z,x]] = 0\tag{Jacobi}
-\end{equation}
