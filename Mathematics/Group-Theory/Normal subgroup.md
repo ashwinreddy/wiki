@@ -10,6 +10,8 @@ $$
 
 # Properties
 
+Not sure why, but 
+
 $$
 g_1 H \cdot g_2 H = g_1 g_2 H
 $$
