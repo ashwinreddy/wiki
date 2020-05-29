@@ -1,2 +1,1 @@
-Ado's theorem states that every finite-dimensional Lie algebra L over a field K of characteristic zero can be viewed as a Lie algebra of square matrices under the commutator bracket. More precisely, the theorem states that L has a linear representation ρ over K, on a finite-dimensional vector space V, that is a faithful representation, making L isomorphic to a subalgebra of the endomorphisms of V.
-
+**Ado's theorem** says that every Lie algebra is isomorphic to a matrix Lie algebra.
