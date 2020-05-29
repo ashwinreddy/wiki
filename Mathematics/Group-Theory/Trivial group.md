@@ -1,0 +1,1 @@
+The **trivial group** is a [[group]] that consists solely of the identity element.
