@@ -7,3 +7,9 @@ $$
 $$
 H = g^{-1}Hg
 $$
+
+# Properties
+
+$$
+g_1 H \cdot g_2 H = g_1 g_2 H
+$$
