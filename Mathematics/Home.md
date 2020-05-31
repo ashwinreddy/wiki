@@ -25,3 +25,4 @@ Some useful math resources include:
 
 * [Tips for mathematical handwriting](https://johnkerl.org/doc/ortho/ortho.html)
 * [[https://www.neilwithdata.com/mathematics-self-learner]]
+* [[https://mathvault.ca/math-glossary/]]
