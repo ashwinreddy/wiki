@@ -1,4 +1,4 @@
-A **normal subgroup** $H \triangleleft G$ for a [[subgroup]] $H$ of [[group]] $G$ if for all $g \in G$, the left and right [[cosets]] are equal.
+A **normal subgroup** $H \triangleleft G$ for a [[subgroup]] $H$ of [[group]] $G$ if for all $g \in G$, the left and right [[coset]]s are equal.
 
 \begin{gather}
 gH = Hg \\\\\
