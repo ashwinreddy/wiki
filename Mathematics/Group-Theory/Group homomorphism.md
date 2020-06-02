@@ -1,1 +1,1 @@
-A **group homomorphism** is a map $f: G\to H$ for [[group]]s $G$ and $H$ such that $f(g_1g_2)=f(g_1)f(g_2)$. The simplest and most degenerate case is $f(G)=1$.
+A **group homomorphism** is a map $f: G\to H$ for [[group]]s $G$ and $H$ such that $f(g_1g_2)=f(g_1)f(g_2)$. The trivial homomorphism is a map that sends everything to the identity element in $H$.
