@@ -3,6 +3,3 @@ The **kernel** of a [[group homomorphism]] $f: G \to G'$ is the [[subgroup]] ove
 $$
 \boxed{\ker \varphi \triangleq \{g \in G: \varphi(g) = 1_H \}}
 $$
-
-The kernel is a [[normal subgroup]] of $G$.
-
