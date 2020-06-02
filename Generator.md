@@ -1,0 +1,1 @@
+A **generator** for a [[group]] $G$ is [[subset]] $S$ that generates $G$ where generate means a finite product of elements of $S$ as well as their inverses.
