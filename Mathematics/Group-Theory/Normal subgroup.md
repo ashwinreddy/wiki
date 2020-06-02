@@ -1,7 +1,7 @@
-A **normal subgroup** $H \triangleleft G$ for a [[subgroup]] $H$ of [[group]] $G$ if
+A **normal subgroup** $H \triangleleft G$ for a [[subgroup]] $H$ of [[group]] $G$ if for all $g \in G$,
 
 $$
-gH = Hg,\quad \forall g \in G
+gH = Hg
 $$
 
 $$
