@@ -1,4 +1,4 @@
-The **determinant** 
+The **determinant** is a [[group homomorphism]] for a matrix group $G$
 
 $$
 \det: G \to \mathbb{C}^{\times}
