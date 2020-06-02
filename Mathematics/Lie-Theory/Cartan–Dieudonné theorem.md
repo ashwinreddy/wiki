@@ -1,0 +1,1 @@
+Any isometry of Rn that fixes O is the product of at most n reflections in hyperplanes through O.
