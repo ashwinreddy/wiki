@@ -6,3 +6,6 @@ g^{-1}gH = g^{-1}Hg \\\\\
 H = g^{-1}Hg
 \end{gather}
 
+# Properties
+
+Consider the cosets of $H$
