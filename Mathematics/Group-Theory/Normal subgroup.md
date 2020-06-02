@@ -1,1 +1,1 @@
-A **subgroup** $N$ of a group $G$ is **normal** if the conjugation $n \mapsto g^{-1} n g$ by any element $g \in G$ leaves $N$ invariant.
+A **subgroup** $N$ of a [[group]] $G$ is **normal** if the conjugation $n \mapsto g^{-1} n g$ by any element $g \in G$ leaves $N$ invariant.
