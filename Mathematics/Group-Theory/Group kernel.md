@@ -4,4 +4,4 @@ $$
 \ker \varphi \triangleq \{g \in G: f(g) = 1_H \}
 $$
 
-The kernel is a [[normal subgroup]]. Since $f$ 
+The kernel is a [[normal subgroup]]. 
