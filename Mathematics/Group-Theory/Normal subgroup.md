@@ -8,4 +8,3 @@ H = g^{-1}Hg
 
 # Properties
 
-Consider the cosets of $H$
