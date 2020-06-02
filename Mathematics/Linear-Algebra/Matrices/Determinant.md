@@ -1,4 +1,8 @@
-The **determinant** is a [[group homomorphism]] on the group of real and complex matrices $G$. 
+The **determinant** 
+
+$$
+\det: G \to \mathbb{C}^{\times}
+$$
 
 # Properties
 
