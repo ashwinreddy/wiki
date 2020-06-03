@@ -4,6 +4,7 @@ The **Lie algebra** $\mathfrak{g}$ of a [[matrix Lie group]] $G$ is given by tho
 
 Let's find the Lie algebra of the [[3D rotation group]] $SO(3)$. An infinitesimal transformation is given by $O = I + \epsilon J$, and we need to find $J$. But since $O$ is an [[orthogonal matrix]], we must have
 
-$$
-(I + \epsilon J)^\mathsf{T} ( I + \epsilon J) = I
-$$
+\begin{gather}
+(I + \epsilon J)^\mathsf{T} ( I + \epsilon J) = I \\\\\
+I + \epsilon J^T + \epsilon J + \epsilon^2 J^\mathsf{T} J = I
+\end{gather}
