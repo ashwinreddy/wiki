@@ -1,4 +1,4 @@
-The Peano axioms describe natural number arithmetic.
+The Peano axioms describe natural number arithmetic with successor function $S$.
 
 1. 0 is a natural number
 2. The natural numbers are closed under $S(n)$
