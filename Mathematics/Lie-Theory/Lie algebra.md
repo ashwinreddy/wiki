@@ -8,3 +8,5 @@ Let's find the Lie algebra of the [[3D rotation group]] $SO(3)$. An infinitesima
 (I + \epsilon J)^\mathsf{T} ( I + \epsilon J) = I \\\\\
 I + \epsilon J^T + \epsilon J + \epsilon^2 J^\mathsf{T} J = I
 \end{gather}
+
+The above derivation came from [here](http://jakobschwichtenberg.com/naive-introduction-lie-theory/)
