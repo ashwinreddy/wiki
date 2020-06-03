@@ -3,3 +3,5 @@ The **Baker–Campbell–Hausdorff formula** describes how to combine elements o
 \begin{equation}
 gh = e^X \circ e^Y = e^{X + Y + \frac{1}{2}[X, Y] + \frac{1}{12} [X, [X, Y]] - \frac{1}{12} [Y, [X, Y]] + \dots }
 \end{equation}
+
+where the $[,]$ represents the [[Lie bracket]].
