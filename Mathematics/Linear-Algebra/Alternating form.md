@@ -1,0 +1,1 @@
+An **alternating form** is a [[multilinear form]] where swapping consecutive vectors introduces a change of sign.
