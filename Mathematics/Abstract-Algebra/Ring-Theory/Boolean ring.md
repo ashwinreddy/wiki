@@ -1,1 +1,0 @@
-A **Boolean ring** is a ring with a unit in which every element is idempotent
