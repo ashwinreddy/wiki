@@ -1,5 +1,9 @@
 A **group** is a [[set]] $G$ equipped with an invertible, associative binary operation $(\cdot): G \times G \to G$. The operation can be treated as addition or multiplication based on context.
 
+# Properties
+
+* The map $x \mapsto gx$ for $g \in G$ is a bijection.
+
 # Operation
 
 Explicitly, the operation needs to satisfy
