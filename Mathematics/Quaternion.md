@@ -19,7 +19,7 @@ $$
 The product of a quaternion with its conjugate gives us the norm
 
 $$
-q\bar{q} = a^2 + b^2 + c^2 + d^2
+q\bar{q} = \bar{q}q = a^2 + b^2 + c^2 + d^2
 $$
 
 # Unit quaternion
