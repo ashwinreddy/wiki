@@ -1,1 +1,1 @@
-An **equivalence class** of an element $a \in S$ and [[equivalence relation]] $\sim$ is the subset of $S$ that's equivalent to $a$. We denote the class of $a$ as $[a]$.
+An **equivalence class** of an element $a \in S$ and [[equivalence relation]] $\sim$ is the [[subset]] of $S$ that's equivalent to $a$. We denote the class of $a$ as $[a]$.
