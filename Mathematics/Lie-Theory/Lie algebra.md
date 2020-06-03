@@ -2,4 +2,4 @@ The **Lie algebra** $\mathfrak{g}$ of a [[matrix Lie group]] $G$ is given by tho
 
 # Examples
 
-We can find the Lie algebra of the [[rotation group]] $SO(3)$
+We can find the Lie algebra of the [[3D rotation group]] $SO(3)$
