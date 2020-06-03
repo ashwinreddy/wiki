@@ -1,1 +1,1 @@
-An **inner product** is a [[symmetric bilinear form]] that is positive definite.
+An **inner product space** is a vector space $V$ with an inner product, which is a [[symmetric bilinear form]] that is positive definite.
