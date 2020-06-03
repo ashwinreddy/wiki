@@ -9,5 +9,5 @@ The **exponential function** is naturally defined by its Maclaurin series in Equ
 
 
 \begin{equation}
-exp x = \lim_{n \to \infty} \left(1 + \frac{1}{x}\right)^n
+\exp x = \lim_{n \to \infty} \left(1 + \frac{1}{x}\right)^n
 \end{equation}
