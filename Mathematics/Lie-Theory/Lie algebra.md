@@ -2,4 +2,4 @@ The **Lie algebra** $\mathfrak{g}$ of a [[matrix Lie group]] $G$ is given by tho
 
 # Examples
 
-Let's find the Lie algebra of the [[3D rotation group]] $SO(3)$. An infinitesimal transformation is given by $O = I + \epsilon J$, and we need to find $J$>
+Let's find the Lie algebra of the [[3D rotation group]] $SO(3)$. An infinitesimal transformation is given by $O = I + \epsilon J$, and we need to find $J$.
