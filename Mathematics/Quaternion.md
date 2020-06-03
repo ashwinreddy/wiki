@@ -38,4 +38,4 @@ A unit quaternion is one with norm unity. Unit quaternions belong to the [[speci
 
 # Rotations
 
-We start with a vector $v$ in the [[subspace]] $\RR i + \RR j + \RR k$
+We start with a vector $v$ in the [[vector subspace]] $\RR i + \RR j + \RR k$
