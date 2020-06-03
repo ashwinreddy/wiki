@@ -1,0 +1,1 @@
+A **Lie algebra representation** is a way of writing a [[Lie algebra]] as a set of [[matrices|matrix]].
