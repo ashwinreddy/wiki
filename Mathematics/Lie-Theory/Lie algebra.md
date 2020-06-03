@@ -2,4 +2,4 @@ The **Lie algebra** $\mathfrak{g}$ of a [[matrix Lie group]] $G$ is given by tho
 
 # Examples
 
-## $SO(3)#
+## $SO(3)$
