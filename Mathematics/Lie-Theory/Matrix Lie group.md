@@ -1,1 +1,5 @@
-A **matrix Lie group** is the [[group]] of $n \times n$ [[square matrices|square matrix]] closed under products, inverses, and nonsingular limits under the operation of ordinary [[matrix multiplication]].
+A **matrix Lie group** is the [[group]] of $n \times n$ [[square matrices|square matrix]] closed under products, inverses, and nonsingular limits under the operation of ordinary [[matrix multiplication]]. The [[Lie bracket]] is 
+
+$$
+[X, Y] = XY - YX
+$$
