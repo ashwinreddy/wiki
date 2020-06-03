@@ -1,4 +1,4 @@
-**Quaternions** are an extension of [[complex number]]s used for describing rotations in 3D.
+**Quaternions** are an extension of [[complex number]]s, useful for describing rotations in 3D. The set of quaternions is denoted $\mathbb{H}$ for William Rowan Hamilton. The two key insights are that 
 
 $$
 i^2 = j^2 = k^2 = ijk = -1
