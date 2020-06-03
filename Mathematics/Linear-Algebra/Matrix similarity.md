@@ -1,4 +1,4 @@
-Two matrices $A$ and $B$ are **similar** if they represent the same linear map in two (possibly different) bases. That is, there exists invertible $P$ such that
+Two matrices $A$ and $B$ are **similar** if they represent the same linear map in two (possibly different) bases. That is, there exists a [[change of basis]] $P$ such that
 
 $$
 B = P^{-1}AP
