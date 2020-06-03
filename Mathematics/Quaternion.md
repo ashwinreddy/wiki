@@ -1,4 +1,4 @@
-**Quaternions** are an extension of [[complex number]]s, useful for describing rotations in 3D. They can be thought of as a [[vector space]] over $\RR^4$. A quaternion is a 
+**Quaternions** are an extension of [[complex number]]s, useful for describing rotations in 3D. They can be thought of as a [[vector space]] over $\RR^4$ where the elements are given by
 
 $$
 q = a + b i + c j + dk
