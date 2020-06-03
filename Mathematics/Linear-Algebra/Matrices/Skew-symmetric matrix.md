@@ -6,4 +6,4 @@ A **skew-symmetric matrix** is a [[square matrix]] $A$ such that
 
 # Properties
 
-* A skew-symmetric matrix has a diagonal of zeros. Therefore, its [[trace]] of zero.
+* A skew-symmetric matrix has a diagonal of zeros. Therefore, its [[trace]] is zero.
