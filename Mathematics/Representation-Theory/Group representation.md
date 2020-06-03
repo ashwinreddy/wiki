@@ -1,4 +1,25 @@
-A **group representation** is a way of describing the way a group transforms objects abstractly using a matrix. While the representation is technically a mapping, people also use it to refer to the vector space it acts over too.
+A **group representation** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+is a way of describing the way a group transforms objects abstractly using a matrix. While the representation is technically a mapping, people also use it to refer to the vector space it acts over too.
 
 * The group identity maps to matrix identity: $R(e) = I$
 * $R(g^{-1}) = (R(g))^{-1}$
