@@ -1,1 +1,1 @@
-The **Lie algebra** of a [[matrix lie group]]
+The **Lie algebra** $\mathfrak{g}$ of a [[matrix Lie group]] $G$ is given by those $n \times n$ matrices $X$ such that $e^{tX} \in G$ for $t \in \RR$.
