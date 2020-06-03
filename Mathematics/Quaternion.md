@@ -35,3 +35,7 @@ $$.
 # Unit quaternion
 
 A unit quaternion is one with norm unity. Unit quaternions belong to the [[special unitary group]] $SU(2)$.
+
+# Rotations
+
+We start with a vector $v$ in the [[subspace]] $\RR i + \RR j + \RR k$
