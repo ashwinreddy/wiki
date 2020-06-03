@@ -1,5 +1,5 @@
-The **Frechet derivative** of $f$ at $x \in U$ for an open subset $U \subset V$ with $V$ and $W$ normed vector spaces is a [[linear map]] $L: V \to W$ such that
+The **Frechet derivative** allows us to take derivatives for $f: \RR^n \to \RR^m$. The derivative $D f(a)$ is given by the [[linear transformation]] $T_a$ such that
 
 $$
-f(x + h) - f(x) = L(h) + r(h), \text{ where } \lim_{h \to 0}\frac{r(h)}{\lVert h \rVert} = 0
+\lim_{ \lVert h \rVert \to 0 } \frac{\lVert f(a + h) - f(a) - T_a(h) \rVert}{ \lVert h \rVert } = 0
 $$
