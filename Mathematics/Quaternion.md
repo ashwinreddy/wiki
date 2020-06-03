@@ -38,8 +38,9 @@ A unit quaternion is one with norm unity. Unit quaternions belong to the [[speci
 
 # Rotations
 
-We start with a vector $v$ in the [[subspace]] $\RR i + \RR j + \RR k$. The rotation is given by
+A rotation in 3D requires an axis and an angle. Let $u$ be a purely imaginary quaternion with norm 1 and $\alpha$ be the angle of rotation. The quaternion
 
 $$
-v' = qvq^{-1}
+t = \cos(\alpha / 2) + \sin(\alpha / 2) u
 $$
+
