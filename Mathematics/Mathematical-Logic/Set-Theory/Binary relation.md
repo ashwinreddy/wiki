@@ -1,1 +1,1 @@
-A **binary relation** on sets $X$ and $Y$ is a [[subset]] of the [[Cartesian product]] $X \times Y$.
+A **binary relation** on sets $X$ and $Y$ is a [[subset]] of the [[Cartesian product]] $X \times Y$. In other words, it pairs up some of the $x$ and $y$.
