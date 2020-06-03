@@ -3,5 +3,5 @@
 For a finite group $G$, 
 
 $$
-x^{|G|} = 1_G
+\forall x \in G, x^{|G|} = 1_G
 $$
