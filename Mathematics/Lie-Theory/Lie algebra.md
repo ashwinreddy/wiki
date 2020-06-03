@@ -1,4 +1,4 @@
-The **Lie algebra** $\mathfrak{g}$ is the [[tangent space]] $T_eG$ at the identity of a [[Lie group]] $G$.
+The **Lie algebra** $\mathfrak{g}$ for a [[Lie group]] $G$ is the [[tangent space]] $T_eG$.
 
 
 of a [[matrix Lie group]] $G$ is given by those $n \times n$ matrices $X$ such that the [[matrix exponential]] $e^{tX} \in G$ for $t \in \RR$. 
