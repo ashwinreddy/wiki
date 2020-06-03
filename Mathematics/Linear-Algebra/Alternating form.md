@@ -1,1 +1,1 @@
-An **alternating form** is a [[multilinear form]] where swapping consecutive vectors introduces a change of sign.
+An **alternating form** is a [[multilinear form]] where swapping consecutive vectors introduces a change of sign. The set $\Lambda_k(V)$ of all alternating $k$-forms on $V$ is a [[vector space]].
