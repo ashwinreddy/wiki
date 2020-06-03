@@ -2,5 +2,5 @@ A **differential ring** is a [[ring]] equipped with an _derivation_ operator $\p
 
 \begin{gather}
 \partial(x+y) = \partial(x) + \partial(y) \\\\\
-\partial(xy) = x\partial(y) + y \partial(x)
+\partial(xy) = x\cdot\partial(y) + y\cdot\partial(x)
 \end{gather}
