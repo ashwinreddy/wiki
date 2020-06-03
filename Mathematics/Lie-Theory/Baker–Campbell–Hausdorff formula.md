@@ -1,0 +1,1 @@
+The **Baker–Campbell–Hausdorff formula** describes how to combine elements of a [[Lie algebra]]
