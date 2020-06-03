@@ -1,4 +1,4 @@
-**Quaternions** are an extension of [[complex number]]s used for describing rotations in 3D (i.e. the [[special orthogonal group]] $SO(3)$). 
+**Quaternions** are an extension of [[complex number]]s used for describing rotations in 3D.
 
 $$
 i^2 = j^2 = k^2 = ijk = -1
