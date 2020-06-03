@@ -1,0 +1,1 @@
+An **ideal** is a [[subset]] of a [[ring]]
