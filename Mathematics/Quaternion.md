@@ -18,8 +18,4 @@ $$
 
 # Unit quaternion
 
-A unit quaternion is one with norm unity. A unit quaternion belongs to the sphere.
-
-$$
-a^2 + b^2 + c^2 + d^2 = 1
-$$
+A unit quaternion is one with norm unity. 
