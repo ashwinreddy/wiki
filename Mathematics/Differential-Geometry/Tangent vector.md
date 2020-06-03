@@ -2,7 +2,7 @@ A **tangent vector**
 
 # High school / geometric definition
 
-Consider all the smooth curves $c: I \to \RR^n$ that goes through $p$. For each of those curves, calculate the derivative. Collect all these derivatives. These are all the tangent vectors.
+Consider all the smooth curves that go through a point $p$. For each of those curves, calculate the derivative. Collect all these derivatives. These are all the tangent vectors.
 
 
 # University / analytic definition
