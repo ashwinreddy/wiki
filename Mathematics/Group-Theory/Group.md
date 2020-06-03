@@ -1,4 +1,4 @@
-A **group** is a [[set]] $G$ equipped with an invertible, associative binary operation $(\cdot): G \times G \to G$.
+A **group** is a [[set]] $G$ equipped with an invertible, associative binary operation $(\cdot): G \times G \to G$. The operation can be treated as addition or multiplication based on context.
 
 # Operation
 
@@ -19,12 +19,6 @@ Associativity
 An **abelian group** is one for which $ab=ba$. A **subgroup** for $G$ is a [[subset]] $H$ that satisfies the above given the same operation $(\cdot)$.
 
 The order of a group is just the size of its underlying set.
-
-# Properties
-
-$$
-(ab)^{-1}=b^{-1}a^{-1}
-$$
 
 # Examples
 
