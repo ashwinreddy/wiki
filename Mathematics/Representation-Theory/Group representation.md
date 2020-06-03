@@ -1,4 +1,4 @@
-A **group representation** is a [[group homomorphism]] $\rho: G \to operatorname{GL}(V)$.
+A **group representation** is a [[group homomorphism]] $\rho: G \to \operatorname{GL}(V)$.
 
 
 ----
