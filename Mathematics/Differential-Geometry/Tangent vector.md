@@ -1,1 +1,1 @@
-A **tangent vector** is a linear functional that obeys product rule.
+A **tangent vector** is a linear functional that obeys product rule. The prototypical example is the partial derivative evaluated at a point.
