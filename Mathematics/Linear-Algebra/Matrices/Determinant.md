@@ -1,4 +1,4 @@
-The **determinant** is a [[group homomorphism]] for a matrix group $G$
+The **determinant** is a [[group homomorphism]] [[alternating form]] for a matrix group $G$
 
 $$
 \det: G \to \mathbb{C}^{\times}
