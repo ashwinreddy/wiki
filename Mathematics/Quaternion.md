@@ -5,8 +5,6 @@ q = a + b i + c j + dk
 $$
 
 
-
-
 \begin{equation}
 i^2 = j^2 = k^2 = ijk = -1
 \end{equation}
