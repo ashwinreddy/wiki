@@ -6,7 +6,8 @@ Let's find the Lie algebra of the [[3D rotation group]] $SO(3)$. An infinitesima
 
 \begin{gather}
 (I + \epsilon J)^\mathsf{T} ( I + \epsilon J) = I \\\\\
-I + \epsilon J^T + \epsilon J + \cancelto{0}{\epsilon^2 J^\mathsf{T} J} = I
+I + \epsilon J^\mathsf{T} + \epsilon J + \cancelto{0}{\epsilon^2 J^\mathsf{T} J} = I \\\\\
+J^\mathsf{T} + J = 0
 \end{gather}
 
 The above derivation came from [here](http://jakobschwichtenberg.com/naive-introduction-lie-theory/).
