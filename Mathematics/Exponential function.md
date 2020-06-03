@@ -8,3 +8,6 @@ The **exponential function** is naturally defined by its Maclaurin series in Equ
 \end{equation}
 
 
+\begin{equation}
+exp x = \lim_{n \to \infty} (1 + \frac{1}{x})^n
+\end{equation}
