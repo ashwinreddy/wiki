@@ -2,7 +2,7 @@
 
 |Applied|Abstract|Mathematical|
 |------|---------|-------------|
-|[Optimization](./Mathematical-Optimization/)|[Group Theory](./Group-Theory/)|[Differential Geometry](./Differential-Geometry/)|
+|[Optimization](./Mathematical-Optimization/)|[Group Theory](./Abstract-Algebra/Group-Theory/)|[Differential Geometry](./Differential-Geometry/)|
 |[Linear Algebra](./Linear-Algebra/)|[Mathematical Analysis](./Mathematical-Analysis/)||
 |[Probability Theory](./Probability-Theory/)|
 |[Harmonic Analysis](./Harmonic-Analysis/)|
