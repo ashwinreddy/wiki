@@ -1,3 +1,2 @@
-$$
-\nabla_{\vec{v}} f(\vec{x}) = \lim_{h \to 0} \frac{ f(\vec{x} + h \vec{v}) - f(\vec{x}) }{h}
-$$
+The **directional derivative** of a function $f: \RR^n \to \RR$ at $\vec{x}$ in direction $\vec{v}$ tells us the rate of change at $\vec{x}$ moving with velocity $\vec{v}$.
+
