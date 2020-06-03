@@ -1,1 +1,1 @@
-A **symmetric bilinear form** on a [[vector space]] is a [[bilinear map]]
+A **symmetric bilinear form** on a $k$ [[vector space]] $V$ is a [[bilinear map]] $B: V \times V \to k$ that is symmetric
