@@ -1,1 +1,1 @@
-An **ideal** is a [[subset]] of a [[ring]] if it is an additive [[subgroup]]
+An **ideal** is a [[subset]] of a [[ring]] $R$ if it is an additive [[subgroup]] that absorbs multiplication by elements of $R$.
