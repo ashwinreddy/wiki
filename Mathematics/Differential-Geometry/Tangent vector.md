@@ -11,7 +11,7 @@ Consider all the smooth curves that go through a point $p$. For each of those cu
 A tangent vector at $p$ is a [[derivation]]
 
 $$
-
+v_p: C^\infty_p(\RR^n) \to \RR
 $$
 
 # Precise definition
