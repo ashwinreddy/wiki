@@ -1,7 +1,7 @@
 The **Lie algebra** $\mathfrak{g}$ for a [[Lie group]] $G$ is the [[tangent space]] at the identity $T_eG$.
 
 
-of a [[matrix Lie group]] $G$ is given by those $n \times n$ matrices $X$ such that the [[matrix exponential]] $e^{tX} \in G$ for $t \in \RR$. 
+For a [[matrix Lie group]], the algebra is given by those $n \times n$ matrices $X$ such that the [[matrix exponential]] $e^{tX} \in G$ for $t \in \RR$. 
 
 # Examples
 
