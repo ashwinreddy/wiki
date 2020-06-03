@@ -7,3 +7,5 @@ $$
 # Correspondences
 
 * The Frechet derivative of a function $\RR \to \RR$ is $A_x(h) = f'(x)\cdot h$.
+* The Frechet derivative of a vector-valued function is the gradient, similar to above.
+* The Frechet derivative of a multivariable function is the [[directional derivative]]
