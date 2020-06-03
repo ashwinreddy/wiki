@@ -4,8 +4,8 @@ The **directional derivative** is a generalization of the [[partial derivative]]
 D_{\vec{v}} f(\vec{x}) = \lim_{t \to 0}\frac{f(\vec{x} + t\vec{v}) - f(\vec{x})}{t}
 \end{equation}
 
-But we should also be able to find this by using a parameterization curve $c: I \to \RR^n$ and computing
+But we should also be able to find this by using a parameterization curve $c: I \to \RR^n$ with $c(0) = p$ and computing
 
 $$
-\dv{}{t} f(c(t))
+\dv{}{t} f(c(t))\vert_{t= 0}
 $$
