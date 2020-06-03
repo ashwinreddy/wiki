@@ -27,8 +27,8 @@ $$
 A quaternion can also be written using a complex $2 \times 2$ matrix where 1 and $i$ are the same as with the matrix form for a [[complex number#as-a-matrix]].
 
 \begin{gather}
-j = \begin{bmatrix}0 & i \\\\\ i & 0\end{bmatrix} \\\\\
-k = \begin{bmatrix} i & 0 \\\\\ 0 & -i\end{bmatrix}
+j = \begin{bmatrix}0 & \iota \\\\\ \iota & 0\end{bmatrix} \\\\\
+k = \begin{bmatrix} \iota & 0 \\\\\ 0 & -\iota\end{bmatrix}
 \end{gather}
 
 
