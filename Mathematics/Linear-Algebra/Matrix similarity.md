@@ -1,5 +1,1 @@
-Two matrices $A$ and $B$ are **similar** if there's an [[invertible matrix]] $P$ such that
-
-$$
-B = P^{-1}AP
-$$
+Two matrices $A$ and $B$ are **similar** if they represent the same linear map.
