@@ -4,3 +4,8 @@
 i^2 = j^2 = k^2 = ijk = -1
 \end{equation}
 
+Like complex numbers, quaternions have conjugates.
+
+$$
+\bar{q} = a - bi - cj - dk
+$$
