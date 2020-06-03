@@ -1,5 +1,5 @@
-The **Frechet derivative** allows us to take derivatives for $f: \RR^n \to \RR^m$. The derivative $D f(a)$ is given by the [[linear map]] $T_a$ such that
+The **Frechet derivative** allows us to take derivatives for $f: \RR^n \to \RR^m$. 
 
 $$
-\lim_{ \lVert h \rVert \to 0 } \frac{\lVert f(a + h) - f(a) - T_a(h) \rVert}{ \lVert h \rVert } = 0
+\lim_{ \lVert h \rVert \to 0 } \frac{\lVert f(x + h) - f(x) - A_x(h) \rVert}{ \lVert h \rVert } = 0
 $$
