@@ -34,4 +34,4 @@ $$
 j = \begin{bmatrix}0 & i \\ i & 0\end{bmatrix}, k = \begin{bmatrix} i & 0 \\ 0 & -i\end{bmatrix}
 $$.
 
-In other words, quaternions belong to the [[special unitary group]] $SU(2)$
+In other words, quaternions belong to the [[special unitary group]] $SU(2)$.
