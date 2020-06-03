@@ -6,4 +6,4 @@ A **skew-symmetric matrix** is a [[square matrix]] $A$ such that
 
 # Properties
 
-* A skew-symmetric matrix has [[trace]] $0$.
+* A skew-symmetric matrix has a [[trace]] of zero.
