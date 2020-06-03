@@ -1,4 +1,4 @@
-**Quaternions** are an extension of [[complex number]]s, useful for describing rotations in 3D. The set of quaternions is denoted $\mathbb{H}$ for William Rowan Hamilton. A quaternion $q$ is an element of $\RR + \RR i + \RR j + \RR k$
+**Quaternions** are an extension of [[complex number]]s, useful for describing rotations in 3D. The set of quaternions is denoted $\mathbb{H}$ for William Rowan Hamilton. A quaternion $q$ is an element of $\RR + \RR i + \RR j + \RR k$ where
 
 
 \begin{equation}
