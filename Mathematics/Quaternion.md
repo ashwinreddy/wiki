@@ -1,5 +1,6 @@
-**Quaternions** are an extension of [[complex number]]s, useful for describing rotations in 3D. The set of quaternions is denoted $\mathbb{H}$ for William Rowan Hamilton. A quaternion $q$ is an element of $\RR + \RR i + \RR j + \RR k$ where
+**Quaternions** are an extension of [[complex number]]s, useful for describing rotations in 3D. 
 
+Quaternion multiplication is defined by the following equation, discovered by William Rowan Hamilton. The set of quaternions is denoted $\mathbb{H}$ for him.
 
 \begin{equation}
 i^2 = j^2 = k^2 = ijk = -1
