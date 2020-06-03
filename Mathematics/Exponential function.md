@@ -1,4 +1,4 @@
-The **exponential function** is most naturally defined by its Maclaurin series.
+The **exponential function** is naturally defined by its Maclaurin series. [This website](https://setosa.io/ev/exponentiation/) gives a good sense for exponential growth. It is generalized to the [[matrix exponential]]
 
 \begin{equation}
 \boxed{
@@ -6,16 +6,4 @@ The **exponential function** is most naturally defined by its Maclaurin series.
 }
 \end{equation}
 
-It is generalized to the [[matrix exponential]]
 
-[[_TOC_]]
-
-# Differential Equation
-
-The exponential function has the unique property of being its own derivative.
-
-# Growth
-
-
-
-[[https://setosa.io/ev/exponentiation/]]
