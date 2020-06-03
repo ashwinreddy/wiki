@@ -1,1 +1,1 @@
-An **ideal** is a [[subset]] of a [[ring]]
+An **ideal** is a [[subset]] of a [[ring]] if it is an additive [[subgroup]]
