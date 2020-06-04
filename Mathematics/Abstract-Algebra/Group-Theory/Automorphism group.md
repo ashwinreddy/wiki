@@ -1,0 +1,1 @@
+An **automorphism group** of an object $X$ is the [[group]] of [[automorphism]]s of $X$.
