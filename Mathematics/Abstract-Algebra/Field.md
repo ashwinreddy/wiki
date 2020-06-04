@@ -1,0 +1,1 @@
+A **field** is a [[set]] with addition, subtraction, multiplication, and division. Key examples of fields are the [[real numbers]]
