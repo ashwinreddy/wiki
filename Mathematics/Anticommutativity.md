@@ -1,0 +1,1 @@
+An operator is **anticommutative** if swapping the order of arguments negates the result.
