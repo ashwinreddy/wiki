@@ -1,1 +1,1 @@
-A **bijection** is an surjective injection.
+A **bijection** is a [[function]] that is both [[injective]] and [[surjective]].
