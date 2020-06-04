@@ -7,9 +7,8 @@
 
 # Proof
 
-For a light clock with distance $L$, an observer seeing the light clock move with velocity $v$ will measure length $L'$ in duration $\Delta t_s$ given by [[Pythagorean theorem]]
+A light clock of height $h$ moving at constant velocity $v$ will be seen as having travelled distance $L$ on a "tick" of the clock. Clearly, the observer at rest measures the height as
 
-\begin{equation}
-L^2 + \left(v \Delta t_s\right)^2 = {L'}^2
-\end{equation}
-
+$$
+h = c \Delta t_0
+$$
