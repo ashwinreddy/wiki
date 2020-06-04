@@ -1,4 +1,4 @@
-The **expected value** or **expectation** of a [[random variable]]
+The **expected value** or **expectation** of a [[random variable]] represents the average, computed by the weighted sum of values by probabilities.
 
 |Discrete|Continuous|
 |$$\mathbb{E}[X] = \sum_{i=1}^k x_i p_i$$|$$\mathbb{E}[X] = \int_\RR x f(x) \dd{x}$$|
