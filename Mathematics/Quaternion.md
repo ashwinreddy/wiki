@@ -32,6 +32,10 @@ ij = a + b i + c j \\\\\
 (ac - b) + (ab - c)i + (v^2 + 1)j = 0
 \end{gather}
 
+<<Warn("needs work")>>
+
+But there's no coefficient $v \in \RR$ such that $v^2 + 1 \neq 0$
+
 # Matrix form
 
 A quaternion can also be written using a complex $2 \times 2$ matrix where 1 and $i$ are the same as with the matrix form for a [[complex number#as-a-matrix]].
