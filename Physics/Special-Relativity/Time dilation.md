@@ -16,5 +16,5 @@ $$
 But the observer at rest will see that
 
 $$
-L = c \ Delta t
+L = c \Delta t
 $$
