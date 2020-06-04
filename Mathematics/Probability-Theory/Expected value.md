@@ -1,4 +1,4 @@
-The **expected value** of a [[random variable]]
+The **expected value** or **expectation** of a [[random variable]]
 
 |Discrete|Continuous|
 |$$\mathbb{E}[X] = \sum_{i=1}^k x_i p_i$$|$$\mathbb{E}[X] = \int_\RR x f(x) \dd{x}$$|
