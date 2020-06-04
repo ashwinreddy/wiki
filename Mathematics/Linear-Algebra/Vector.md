@@ -1,1 +1,1 @@
-A **vector** is a 1-dimensional [[linear subspace]] of a [[vector space]]
+A **vector** is a 1-dimensional [[linear subspace]] of a [[vector space]].
