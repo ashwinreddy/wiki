@@ -7,8 +7,14 @@
 
 # Proof
 
-A light clock of height $h$ moving at constant velocity $v$ will be seen as having travelled distance $L$ on a "tick" of the clock. Clearly, the observer at rest measures the height as
+A light clock of height $h$ moving at constant velocity $v$ will be seen as having travelled distance $L$ on a "tick" of the clock. Clearly, the observer moving with the light clock measures the height as
 
 $$
 h = c \Delta t_0
+$$
+
+But the observer at rest will see that
+
+$$
+L = c \ Delta t
 $$
