@@ -18,3 +18,9 @@ But the observer at rest will see that
 $$
 L = c \Delta t
 $$
+
+This tells us that
+
+$$
+\frac{\Delta t}{\Delta t_0}
+$$
