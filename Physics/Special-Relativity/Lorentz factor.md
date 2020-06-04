@@ -10,4 +10,4 @@ The postulates of special relativity tell us that the speed parameter $0 \leq s 
 \gamma \triangleq {1 \over \sqrt{1 -\beta^2}}\tag{Lorentz factor}
 \end{equation}
 
-Clearly, $\gamma \geq 1$.
+As a result, $\gamma \geq 1$.
