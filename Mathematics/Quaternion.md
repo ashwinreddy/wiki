@@ -22,6 +22,10 @@ $$
 q\bar{q} = \bar{q}q = a^2 + b^2 + c^2 + d^2
 $$
 
+# Extension of complex numbers
+
+
+
 # Matrix form
 
 A quaternion can also be written using a complex $2 \times 2$ matrix where 1 and $i$ are the same as with the matrix form for a [[complex number#as-a-matrix]].
