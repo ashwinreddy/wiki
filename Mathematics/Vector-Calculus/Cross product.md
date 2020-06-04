@@ -1,5 +1,11 @@
 The **cross product** is an operation $\times: \RR^3 \times \RR^3 \to \RR^3$ that takes two [[vectors|vector]] $\vec{a}$ and $\vec{b}$ and generates a vector that is [[orthogonal]] to them and has length equal to the area spanned by them.
 
+# Computations
+
+\begin{equation}
+\vec{a} \times \vec{b} = \begin{vmatrix} \ihat \end{vmatrix}
+\end{equation}
+
 \begin{equation}
 (\vec{a} \times \vec{b})^i = \epsilon_{ijk}a^j b^k
 \end{equation}
