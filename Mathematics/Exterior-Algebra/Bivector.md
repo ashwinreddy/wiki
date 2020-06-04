@@ -1,1 +1,1 @@
-A **bivector** is a 2-dimensional subspace
+A **bivector** is a 2-dimensional subspace formed by taking the [[wedge product]] of two [[vectors|vector]]
