@@ -1,4 +1,4 @@
-An **algebra over a field** $A$ for field $F$ is a [[vector space]] $V$ with a [[bilinear map]] product.
+An **algebra over a field** $A$ for [[field]] $F$ is a [[vector space]] $V$ with a [[bilinear map]] product.
 
 # Examples
 
