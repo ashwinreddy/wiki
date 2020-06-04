@@ -3,7 +3,8 @@ An **ideal** is a [[subset]] of a [[ring]] $R$ if it is an additive [[subgroup]]
 Two-sided ideal
 : An ideal that works for both left and right multiplication.
 
-The zero ideal is the ideal consisting of just the additive identity.
+Zero ideal
+: The ideal consisting of just the additive identity.
 
 # Examples
 
