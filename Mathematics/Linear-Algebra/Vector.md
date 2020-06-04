@@ -1,0 +1,1 @@
+A **vector** is a 1-dimensional [[subspace]]
