@@ -1,4 +1,4 @@
-**Time dilation** is the idea that moving fast slows time. Alice, moving at speed $v$ relative to Bob, will measure a time $\Delta t$ that is larger than Bob's time $\Delta t_0$ by the [[Lorentz factor]]
+**Time dilation** is the idea that moving fast slows time. Alice, moving at speed $v$ relative to Bob, will measure a time $\Delta t$ that is larger than Bob's time $\Delta t_0$ by the [[Lorentz factor]] (always > 1)
 
 \begin{equation}
 \Delta t = \gamma \Delta t_0 \tag{Time Dilation}
