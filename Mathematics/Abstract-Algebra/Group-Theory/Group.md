@@ -2,7 +2,7 @@ A **group** is a [[set]] $G$ equipped with an invertible, associative binary ope
 
 # Properties
 
-* The map $x \mapsto gx$ for $g \in G$ is a bijection.
+* The map $x \mapsto gx$ for $g \in G$ is a [[bijection]].
 
 # Operation
 
