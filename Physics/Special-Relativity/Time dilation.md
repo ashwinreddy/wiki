@@ -22,5 +22,5 @@ $$
 This tells us that
 
 $$
-\frac{\Delta t}{\Delta t_0}
+\frac{\Delta t}{\Delta t_0} = \frac{L}{h}
 $$
