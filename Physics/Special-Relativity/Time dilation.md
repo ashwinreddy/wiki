@@ -22,5 +22,5 @@ $$
 This tells us that
 
 $$
-\frac{\Delta t}{\Delta t_0} = \frac{L}{h}
+\frac{\Delta t}{\Delta t_0} = \frac{L}{h} = \frac{h^2 + (v \Delta t)^2}{h}
 $$
