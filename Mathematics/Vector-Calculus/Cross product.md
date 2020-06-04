@@ -1,0 +1,1 @@
+The **cross product** is an operation $\times: \RR^3 \times \RR^3 \to \RR^3$
