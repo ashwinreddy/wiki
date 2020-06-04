@@ -27,7 +27,7 @@ $$
 A natural question to ask is whether we can extend $\mathbb{C}$ with another dimension. We'll introduce a new basis $j$ to get $\{1, i, j\}$. However, it's not clear what $ij$ means. We know that it must be of the form $\mathbb{R} + \mathbb{R} i + \mathbb{R}j$, so
 
 \begin{gather}
-ij = a + b i + c j \\\\
+ij = a + b i + c j \\\\\
 iij = -j = ai - b + c ij
 \end{gather}
 
