@@ -1,8 +1,8 @@
 **Time dilation** is the idea that moving fast slows time. Somebody moving at speed $v$ will measure a time $\Delta t$ that is larger than the resting time $\Delta t_0$ by the [[Lorentz factor]]
 
-$$
-\Delta t = \gamma \Delta t_0
-$$
+\begin{equation}
+\Delta t = \gamma \Delta t_0 \tag{time dilation}
+\end{equation}
 
 
 
