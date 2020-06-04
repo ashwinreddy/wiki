@@ -2,9 +2,13 @@ The **cross product** is an operation $\times: \RR^3 \times \RR^3 \to \RR^3$ tha
 
 # Computations
 
+A fairly compact notation for the computation is using a formal determinant
+
 \begin{equation}
 \vec{a} \times \vec{b} = \begin{vmatrix} \hat{i} & \hat{j} & \hat{k} \\\\\ a_1 & a_2 & a_3 \\\\\ b_1 & b_2 & b_3 \end{vmatrix}
 \end{equation}
+
+Of course, this means we can use the [[Levi-Civita symbol]]
 
 \begin{equation}
 (\vec{a} \times \vec{b})^i = \epsilon_{ijk}a^j b^k
