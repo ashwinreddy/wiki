@@ -19,8 +19,9 @@ $$
 L = c \Delta t
 $$
 
-This tells us that
+Consider the right triangle with hypotenuse $L$ and sides $h$ and $v\Delta t$. By the [[Pythagorean theorem]],
 
-$$
-\frac{\Delta t}{\Delta t_0} = \frac{L}{h} = \frac{h^2 + (v \Delta t)^2}{h}
-$$
+\begin{gather}
+L^2 = h^2 + v^2 \Delta t^2 \\\\\
+c^2 \Delta t^2 = v^2 \Delta t^2 + c^2 \Delta t_0^2
+\end{gather}
