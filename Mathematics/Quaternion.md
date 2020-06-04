@@ -28,7 +28,7 @@ A natural question to ask is whether we can extend $\mathbb{C}$ with another dim
 
 \begin{gather}
 ij = a + b i + c j \\\\\
-iij = -j = ai - b + c ij
+-j = ai - b + c ij \tag{multiply by i}
 \end{gather}
 
 # Matrix form
