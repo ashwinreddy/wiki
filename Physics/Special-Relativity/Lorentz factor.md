@@ -3,10 +3,11 @@ The **Lorentz factor** is a mathematical expression that describes how much [[ti
 Speed parameter
 : The speed written as a percent of speed of light: $\beta = \frac{s}{c}$
 
-The postulates of special relativity tell us that the speed parameter $0 \leq s \leq 1$.
+The postulates of special relativity tell us that the speed parameter $0 \leq s \leq 1$. 
 
 
 \begin{equation}
-\gamma \triangleq {1 \over \sqrt{1 -\beta^2}}
+\gamma \triangleq {1 \over \sqrt{1 -\beta^2}}\tag{Lorentz factor}
 \end{equation}
 
+Clearly, $\gamma \geq 1$.
