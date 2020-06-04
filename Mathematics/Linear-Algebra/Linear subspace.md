@@ -1,1 +1,1 @@
-A **linear subspace** of a [[vector space]] $V$ is a a [[subset]] $W \subset V$ treated as a vector space under the same operations, if possible.
+A **linear subspace** of a [[vector space]] $V$ is a a [[subset]] $W \subset V$ that can be treated as a vector space under the same operations.
