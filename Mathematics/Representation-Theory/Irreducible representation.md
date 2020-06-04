@@ -1,0 +1,1 @@
+An **irreducible representation** is a [[group representation]] that cannot be broken down.
