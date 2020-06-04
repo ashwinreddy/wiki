@@ -25,5 +25,6 @@ Consider the right triangle with hypotenuse $L$ and sides $h$ and $v\Delta t$. B
 L^2 = h^2 + v^2 \Delta t^2 \\\\\
 c^2 \Delta t^2 = v^2 \Delta t^2 + c^2 \Delta t_0^2 \\\\\
 \Delta t^2 = \frac{v^2}{c^2} \Delta t^2 + \Delta t_0^2 \\\\\
-\Delta t^2 \left(1 - \frac{v^2}{c^2}\right) = \Delta t_0^2 
+\Delta t^2 \left(1 - \frac{v^2}{c^2}\right) = \Delta t_0^2 \\\\\
+\Delta t \sqrt{1 - v^2 / c^2} = \Delta t_0
 \end{gather\*}
