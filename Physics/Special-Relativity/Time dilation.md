@@ -5,8 +5,7 @@
 \end{equation}
 
 
-
-
+# Proof
 
 For a light clock with distance $L$, an observer seeing the light clock move with velocity $v$ will measure length $L'$ in duration $\Delta t_s$ given by [[Pythagorean theorem]]
 
