@@ -1,0 +1,1 @@
+A **bivector** is a 2-dimensional subspace
