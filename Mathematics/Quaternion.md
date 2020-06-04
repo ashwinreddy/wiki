@@ -34,7 +34,7 @@ ij = a + b i + c j \\\\\
 
 <<Warn("needs work")>>
 
-But there's no coefficient $v \in \RR$ such that $v^2 + 1 \neq 0$
+But there's no coefficient $v \in \RR$ such that $v^2 + 1 \neq 0$. So we need 4-dimensional numbers.
 
 # Matrix form
 
