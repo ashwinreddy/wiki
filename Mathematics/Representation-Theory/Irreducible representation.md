@@ -1,1 +1,1 @@
-An **irreducible representation** is a [[group representation]] that cannot be broken down.
+An **irreducible representation** is a [[group representation]] that cannot be broken down. This requires that the only vector spaces that get mapped to themselves for all $g \in G$ are the zero subspace and $V$ itself.
