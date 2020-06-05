@@ -1,4 +1,4 @@
-An **orthogonal matrix** is a matrix $Q$ whose rows/columns are orthonormal to each other. Equivalently, 
+An **orthogonal matrix** is a matrix $Q$ whose rows/columns are orthonormal to each other. The set of orthogonal matrices is the [[orthogonal group]]. Equivalently, 
 
 \begin{equation}
 \label{eq:orth-def}
