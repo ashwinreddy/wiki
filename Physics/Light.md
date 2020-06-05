@@ -1,0 +1,1 @@
+**Visible light** is [[electromagnetic radiation]] that we can see.
