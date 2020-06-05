@@ -3,3 +3,7 @@ The **symplectic group** $\operatorname{Sp}(n)$ is the orthogonal group for $n$ 
 $$
 \operatorname{Sp}(1) = SU(2)
 $$
+
+# [[Lie algebra]]
+
+The Lie algebra consists of [[square matrices|square matrix]] of [[quaternions|quaternion]] that are [[skew-Hermitian matrix]].
