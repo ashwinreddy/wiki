@@ -2,4 +2,11 @@ The **special unitary group** $SU(n)$ with degree $n$ is a [[subgroup]] of the [
 
 # SU(2)
 
-$SU(2)$ is a double cover for [[3D rotation group]] $SO(3)$
+$SU(2)$ consists of 
+
+$$
+{\displaystyle \operatorname {SU} (2)=\left\{{\begin{pmatrix}\alpha &-{\overline {\beta }}\\\beta &{\overline {\alpha }}\end{pmatrix}}:\ \ \alpha ,\beta \in \mathbb {C} ,|\alpha |^{2}+|\beta |^{2}=1\right\}~,}
+$$
+
+
+is a double cover for [[3D rotation group]] $SO(3)$
