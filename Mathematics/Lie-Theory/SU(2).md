@@ -9,4 +9,4 @@ $SU(2)$ can represent [[quaternions|quaternion]] and is a double cover for [[3D 
 
 # [[Lie algebra]]
 
-The Lie algebra on $SU(2)$ is the [[cross product]] on $\RR^3$.
+The Lie algebra on $SU(2)$ is (basically) the [[cross product]] on $\RR^3$.
