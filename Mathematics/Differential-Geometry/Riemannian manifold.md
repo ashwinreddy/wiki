@@ -1,1 +1,1 @@
-A **Riemannian manifold** is a [[smooth manifold]]
+A **Riemannian manifold** is a kind of [[manifold]].
