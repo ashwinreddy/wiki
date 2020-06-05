@@ -34,6 +34,12 @@ $$
 q\bar{q} = \bar{q}q = a^2 + b^2 + c^2 + d^2
 $$
 
+The inverse of a quaternion is
+
+$$
+q^{-1} = \frac{1}{|q|^2}\bar{q}
+$$
+
 # Extension of complex numbers
 
 A natural question to ask is whether we can extend $\mathbb{C}$ with another dimension. We'll introduce a new basis $j$ to get $\{1, i, j\}$. However, it's not clear what $ij$ means. We know that it must be of the form $\mathbb{R} + \mathbb{R} i + \mathbb{R}j$, so
