@@ -1,1 +1,1 @@
-**Conjugation** for a [[group]] $G$ is a [[map]] $x \mapsto axa^{-1}$ for an element $a \in G$.
+**Conjugation** for a [[group]] $G$ is a [[function]] $x \mapsto axa^{-1}$ for an element $a \in G$.
