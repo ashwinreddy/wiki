@@ -6,4 +6,4 @@ The main operation on sets is a membership check: asking whether $x$ belongs to 
 
 How can we build sets? One way is to explicitly list what a set contains. Sets are allowed to contain sets. Another way is by using [[set-builder notation]].
 
-We can also consider all the [[subset]]s of a given set.
+We can also consider all the [[subsets|subset]] of a given set.
