@@ -2,4 +2,8 @@
 
 # Spacetime/Lorentz Interval
 
-The [[special relativity#postulates]]
+The [[postulates|special relativity#postulates]] of special relativity tell us that $c$ is constant. So if we have two events: light being emitted (event A) and light being received (event B), everybody will agree that
+
+$$
+\text{distance light covered} = \text{speed of light}\cdot\text{time taken}
+$$
