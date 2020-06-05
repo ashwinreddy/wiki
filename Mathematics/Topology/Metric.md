@@ -6,4 +6,4 @@ A **metric** on a [[set]] $X$ is a [[function]] $d: X \times X \to \[0, \infty\)
 Symmetry
 : $d(x,y) = d(y,x)$
 
-* $d(x,y) \leq d(x, z) + d(z,y)$
+Triangle inequality: $d(x,y) \leq d(x, z) + d(z,y)$
