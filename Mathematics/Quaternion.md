@@ -37,7 +37,7 @@ $$
 The inverse of a quaternion is
 
 $$
-q^{-1} = \frac{1}{|q|^2}\bar{q}
+q^{-1} = \frac{\bar{q}}{|q|^2}
 $$
 
 # Extension of complex numbers
