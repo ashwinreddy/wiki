@@ -1,4 +1,8 @@
-The **determinant** assigns every [[square matrix]] a scalar.
+The **determinant** assigns every [[square matrix]] a scalar with the special property that
+
+\begin{equation}
+\det(AB) \equiv \det(A)\det(B)
+\end{equation}
 
 # Properties
 
