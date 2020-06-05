@@ -1,11 +1,11 @@
-An **orthogonal matrix** is a matrix $Q$ whose rows/columns are orthonormal to each other. The set of orthogonal matrices is the [[orthogonal group]]. Equivalently, 
+An **orthogonal matrix** is a matrix $Q$ whose rows/columns are orthonormal to each other. Equivalently, 
 
 \begin{equation}
 \label{eq:orth-def}
 Q^\top Q = QQ^\top = I \iff Q^\top = Q^{-1}
 \end{equation}
 
-
+The set of orthogonal matrices is the [[orthogonal group]]. 
 
 
 # Properties
