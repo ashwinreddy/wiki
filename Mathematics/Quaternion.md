@@ -18,7 +18,7 @@ For notational simplicity, we can therefore also represent $q$ as a pair $(a, \l
 We can multiply two quaternions using Equation \ref{eq:hamilton}.
 
 $$
-
+pq = p_0 q_0 - \vec{p}\cdot\vec{q} + p_0 \vec{q} + q_0 \vec{p} + \vec{p}\times\vec{q}
 $$
 
 
