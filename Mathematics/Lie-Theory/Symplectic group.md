@@ -1,1 +1,1 @@
-The **symplectic group** $\operatorname{Sp}(n)$
+The **symplectic group** $\operatorname{Sp}(n)$ is the orthogonal group for $n$ copies of the [[quaternions]] $\mathbb{H}^n$.
