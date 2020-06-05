@@ -1,0 +1,1 @@
+A **linear combination** of objects is a weighted sum of elements.
