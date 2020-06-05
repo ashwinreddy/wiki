@@ -1,1 +1,1 @@
-The **Rubik's Cube group** is the [[group]] of cube moves with [[composition]] as the operation.
+The **Rubik's Cube group** is the [[group]] of cube moves with [[function composition]] as the operation.
