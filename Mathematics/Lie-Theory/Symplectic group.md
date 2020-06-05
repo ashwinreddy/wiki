@@ -6,4 +6,4 @@ $$
 
 # [[Lie algebra]]
 
-The Lie algebra consists of [[square matrices|square matrix]] of [[quaternions|quaternion]] that are [[skew-Hermitian matrix]].
+The Lie algebra consists of [[square matrices|square matrix]] of [[quaternions|quaternion]] that are [[skew-Hermitian|skew-Hermitian matrix]].
