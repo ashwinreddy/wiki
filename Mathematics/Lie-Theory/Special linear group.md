@@ -1,1 +1,1 @@
-The **special linear group** $SL(n)$ is the [[subset]] of the [[general linear group]] with [[determinant]] 1. It is a [[normal subgroup]].
+The **special linear group** $SL(n)$ is a [[normal subgroup]] of the [[general linear group]] with [[determinant]] 1.
