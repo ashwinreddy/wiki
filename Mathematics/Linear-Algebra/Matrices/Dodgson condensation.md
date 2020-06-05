@@ -1,1 +1,1 @@
-**Dodgson condensation** is a recursive method for computing [[determinants]]
+**Dodgson condensation** is a recursive method for computing a [[determinant]] of an $n \times n$ matrix. 
