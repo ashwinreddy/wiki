@@ -1,4 +1,6 @@
-The **unitary group** $U(n)$ of degree $n$ is the group of $n \times n$ [[unitary matrices|unitary matrix]]. Consider that $U(1)$ is simply a [[complex number]]. $U(1)$ is [[isomorphic|isomorphism]] to $SO(2)$.
+The **unitary group** $U(n)$ of degree $n$ is the group of $n \times n$ [[unitary matrices|unitary matrix]]. 
+
+$U(1)$ is the [[circle group]]
 
 # [[Lie algebra]]
 
