@@ -1,17 +1,5 @@
 A **sphere** is the surface of a ball.
 
-# $S^3$
+# $\mathbb{S}^1$
 
-$$
-V = \frac{4}{3}\pi r^3
-$$
-
-you might notice that
-
-$$
-V = \int_0^r A(r) \dd{r}
-$$
-
-$$
-A = 4\pi r^2
-$$
+$S^1$ is a disk.
