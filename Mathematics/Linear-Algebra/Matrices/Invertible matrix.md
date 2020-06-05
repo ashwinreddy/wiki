@@ -7,7 +7,7 @@ $$
 # Tests
 
 * An invertible matrix will have a nonzero [[determinant]]
-* An invertible matrix will not have zero as an [[eigenvalue|eigenpair]].
+* An invertible matrix will not have zero as an [[eigenvalue|eigenpairs]].
 
 # Properties
 
