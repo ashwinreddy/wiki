@@ -1,1 +1,1 @@
-The **semidirect product** associates a [[group]] $G$ with a [[subgroup]] $H$ and a [[normal subgroup]] $N \triangleleft G$
+The **semidirect product** associates a [[group]] $G$ with a [[subgroup]] $H$ and a [[normal subgroup]] $N \triangleleft G$ where for every $g \in G$, there are unique $n \in N$ and $h \in H$ such that $g=nh$.
