@@ -1,0 +1,1 @@
+The second law of thermodynamics says that the total entropy of an isolated system can never decrease.
