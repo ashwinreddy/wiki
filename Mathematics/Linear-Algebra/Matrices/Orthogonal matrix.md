@@ -5,9 +5,6 @@ An **orthogonal matrix** is a matrix $Q$ whose rows/columns are [[orthonormal]] 
 Q^\top Q = QQ^\top = I \iff Q^\top = Q^{-1}
 \end{equation}
 
-The [[set]] of orthogonal matrices is the [[orthogonal group]]. 
-
-
 # Properties
 
 * $Q \in O(n) \iff Q^\top \in O(n)$
