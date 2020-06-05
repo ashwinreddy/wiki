@@ -4,4 +4,4 @@ The **3D rotation group** $SO(3)$ is a special case of the [[special orthogonal 
 \text{3D Rotation}: \RR^3 \times \mathbb{H} \to \RR^3
 \end{equation}
 
-The isomorphism between $SO(3) \iso$
+The isomorphism between $SO(3) \cong SU(2)$
