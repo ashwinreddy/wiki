@@ -11,7 +11,7 @@ $$
 q = \overbrace{a}^{\text{real/scalar part}} + \overbrace{b i + c j + dk}^{\text{imaginary/vector part}}
 $$
 
-For notational simplicity, we can therefore also represent $q$ as a pair $(a, \langle b, c, d\rangle)$
+For notational simplicity, we can therefore also represent $q$ as a pair $(a, \langle b, c, d\rangle)$ or by writing $q = q_0 + \vec{q}$.
 
 # Methods
 
