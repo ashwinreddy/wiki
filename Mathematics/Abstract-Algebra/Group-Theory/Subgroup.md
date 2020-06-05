@@ -1,1 +1,1 @@
-A **subgroup** for a [[group]] $(G,\cdot)$ is a group $(H, \cdot)$ where $H$ is a [[subset]] of $G$ that satisfies the group properties with $(\cdot)$.
+A **subgroup** for a [[group]] $G$ is a [[subset]] $H$ that satisfies the group axioms for the same operation $(\cdot)$.
