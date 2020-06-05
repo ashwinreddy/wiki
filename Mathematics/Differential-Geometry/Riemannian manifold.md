@@ -1,1 +1,1 @@
-A **Riemannian manifold** is a kind of [[manifold]].
+A **Riemannian manifold** is a [[manifold]] with a positive-definite inner product.
