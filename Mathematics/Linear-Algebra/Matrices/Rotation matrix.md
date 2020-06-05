@@ -1,4 +1,4 @@
-A **rotation matrix** is just another name for an [[orthogonal matrix]], usually in the context of computing the components of a vector after rotation. 
+A **rotation matrix** is another name for an [[orthogonal matrix]], usually in the context of computing the components of a vector after rotation. 
 
 # 2D
 
