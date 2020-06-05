@@ -6,3 +6,9 @@ y' &= y \\\\\
 z' &= z \\\\\
 t' &= t
 \end{align}
+
+More compactly,
+
+$$
+\begin{bmatrix}x' \\ t' \end{bmatrix} = \begin{bmatrix} 1 & -v \\ 0 & 1 \end{bmatrix}\begin{bmatrix} x \\ t \end{bmatrix}
+$$
