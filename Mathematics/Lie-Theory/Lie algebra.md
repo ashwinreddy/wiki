@@ -3,7 +3,7 @@ A **Lie algebra** helps us solve problems relating to a [[Lie group]]. In terms 
 The Lie algebra does not always entirely capture the group because different groups can have the same algebra.
 
 Ideal
-: An ideal $\mathfrak{h}$ is a subspace of $\mathfrak{g}$ closed under [[Lie bracket]] with every member of $\mathfrak{g}$.
+: An ideal $\mathfrak{h}$ is a subspace of $\mathfrak{g}$ [[closure|closed]] under [[Lie bracket]] with every member of $\mathfrak{g}$.
 
 # Matrix Lie algebra
 
