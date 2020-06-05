@@ -21,7 +21,8 @@ $$
 
 The actions allowed are any combination of the following:
 
-* Rotate in space
-* Translate in space
-* Translate in time
-* Uniform motion
+|Action|Dimensions|
+|Rotate in space|3 dimensions|
+|Translate in space|3 dimensions|
+|Translate in time|1 dimension|
+* Uniform motion ()
