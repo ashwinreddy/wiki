@@ -1,1 +1,1 @@
-**Spacetime** is a 4-dimensional manifold
+**Spacetime** welds  4-dimensional manifold
