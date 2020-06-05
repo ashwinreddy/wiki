@@ -1,4 +1,4 @@
-The **Lorentz factor** is a mathematical expression that describes how much [[time dilates|time dilation]] for somebody moving at a speed $s$. In fact, what matters is the ratio of speed to speed of light, known as speed parameter.
+The **Lorentz factor** tells you how much longer a second will feel if you're moving at speed $v$. In fact, what matters is the ratio of speed to speed of light, known as speed parameter.
 
 Speed parameter
 : The speed written as a percent of speed of light: $\beta = \frac{s}{c}$
