@@ -29,7 +29,7 @@ A natural question to ask is whether we can extend $\mathbb{C}$ with another dim
 \begin{gather}
 ij = a + b i + c j \\\\\
 -j = ai - b + c ij \tag{multiply by $i$} \\\\\
-(ac - b) + (ab - c)i + (v^2 + 1)j = 0
+(ac - b) + (ab - c)i + (c^2 + 1)j = 0
 \end{gather}
 
 <<Warn("needs work")>>
