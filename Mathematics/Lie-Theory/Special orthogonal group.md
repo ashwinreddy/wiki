@@ -1,1 +1,1 @@
-The **special orthogonal group** $\operatorname{SO}(n)$ is the [[normal subgroup]] of the elements of the general [[orthogonal group]] $\operatorname{O}(n)$ with [[determinant]] 1. $SO(3)$ is the [[3D rotation group]].
+The **special orthogonal group** $\operatorname{SO}(n)$ is the [[subgroup]] of the elements of the general [[orthogonal group]] $\operatorname{O}(n)$ with [[determinant]] 1. It is a [[normal subgroup]] of the [[general linear group]]. $SO(3)$ is the [[3D rotation group]].
