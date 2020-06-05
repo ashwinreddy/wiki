@@ -11,4 +11,4 @@ For a [[matrix Lie group]], the matrix Lie algebra is given by those $n \times n
 
 # Properties
 
-* A [[Lie algebra]] is not neccessarily associative.
+* A [[Lie algebra]] is not necessarily associative.
