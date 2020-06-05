@@ -1,0 +1,1 @@
+A **frame of reference** is a coordinate system for an observer.
