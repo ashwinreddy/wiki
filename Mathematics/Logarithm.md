@@ -1,0 +1,1 @@
+A **logarithm** inverts an [[exponential]]
