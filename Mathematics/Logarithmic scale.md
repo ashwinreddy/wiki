@@ -4,4 +4,4 @@ $$
 \frac{f(x+1)}{f(x)} = k \implies f(x)=k^x
 $$
 
-In other words, if you take the [[log|logarithm]] of the line
+In other words, if you take the [[log|logarithm]] of the line, you get back a regular number line.
