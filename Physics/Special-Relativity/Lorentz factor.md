@@ -1,4 +1,4 @@
-The **Lorentz factor** tells you how much longer a second will feel if you're moving at speed $v$. 
+The **Lorentz factor** $\gamma$ tells you how much longer a second will feel if you're moving at speed $v$. The factor $\gamma \geq 1$ with equality when $v=0$ since you should agree on time if you're not moving.
 
 
 \begin{equation}
@@ -11,7 +11,3 @@ Speed parameter
 : The speed written as a percent of speed of light: $\beta = \frac{s}{c}$
 
 The [[postulates|special relativity#postulates]] of special relativity tell us that the speed parameter $s$ must be in the [[unit interval]].
-
-
-
-As a result, $\gamma \geq 1$ with equality when the speed is zero.
