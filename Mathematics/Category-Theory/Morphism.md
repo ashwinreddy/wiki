@@ -1,1 +1,1 @@
-A **morphism** is a structure preserving map between objects. Every morphism has a source and a a target.
+A **morphism** is a structure preserving map between objects. Every morphism has a source and a target.
