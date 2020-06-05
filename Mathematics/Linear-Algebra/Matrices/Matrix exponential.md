@@ -7,5 +7,5 @@ $$
 For any square complex matrix,
 
 \begin{equation}
-\det e^A = e^{\operatorname{trace} A}
+\det e^A = e^{\operatorname{tr} A}
 \end{equation}
