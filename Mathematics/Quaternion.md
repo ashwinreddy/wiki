@@ -13,6 +13,9 @@ $$
 
 For notational simplicity, we can therefore also represent $q$ as a pair $(a, \langle b, c, d\rangle)$ or by writing $q = q_0 + \vec{q}$.
 
+
+[[_TOC_]]
+
 # Methods
 
 ## Multiplication
