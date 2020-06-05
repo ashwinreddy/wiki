@@ -1,1 +1,1 @@
-The **special linear group** $SL(n)$ is a [[normal subgroup]] of the [[general linear group]] $GL(n)$ with [[determinant]] 1.
+The **special linear group** $SL(n)$ is the [[group kernel]] a [[normal subgroup]] of the [[general linear group]] $GL(n)$ with [[determinant]] 1.
