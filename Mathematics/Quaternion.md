@@ -10,7 +10,7 @@ $$
 q = a + b i + c j + dk
 $$
 
-
+# Methods
 
 Like complex numbers, quaternions have conjugates.
 
