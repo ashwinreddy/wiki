@@ -54,23 +54,3 @@ A quaternion can also be written using a complex $2 \times 2$ matrix where 1 and
 j = \begin{bmatrix}0 & \iota \\\\\ \iota & 0\end{bmatrix} \\\\\
 k = \begin{bmatrix} \iota & 0 \\\\\ 0 & -\iota\end{bmatrix}
 \end{gather}
-
-
-
-# Unit quaternion
-
-A unit quaternion is one with norm unity. Unit quaternions belong to the [[special unitary group]] $SU(2)$.
-
-# Rotations
-
-A rotation in 3D requires an axis and an angle. Let $u$ be a purely imaginary quaternion with norm 1 and $\alpha$ be the angle of rotation. The quaternion to execute the rotation is given by
-
-$$
-t = \cos(\alpha / 2) + \sin(\alpha / 2) u.
-$$
-
-To find the actual rotation of a vector $v$, we compute
-
-$$
-v' = qvq^{-1}
-$$
