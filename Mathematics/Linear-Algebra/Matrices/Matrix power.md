@@ -2,7 +2,7 @@ The **matrix power** $A^n$ for a [[matrix]] $A$ is the matrix product of $n$ cop
 
 # Computation
 
-Practically, $A^n$ can be infeasible to compute for large $n$. We can employ a [[diagonalization]]
+Practically, $A^n$ can be infeasible to compute for large $n$. We can employ a [[diagonalization|diagonalizable matrix]]
 
 $$
 A = VDV^{-1}
