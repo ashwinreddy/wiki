@@ -1,0 +1,1 @@
+The **principle of relativity** says that physics has to work in all reference frames.
