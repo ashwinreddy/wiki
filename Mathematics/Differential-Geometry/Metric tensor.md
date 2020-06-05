@@ -1,4 +1,4 @@
-The **metric tensor** is a very fancy [[dot product]].
+The **metric tensor** is a very fancy [[inner product]].
 
 $$
 g: T_p M 
