@@ -1,1 +1,1 @@
-A **quadratic form** is a [[polynomial]] with only terms of degree two.
+A **quadratic form** is a [[polynomial]] with only terms of degree two over any number of variables.
