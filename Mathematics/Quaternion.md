@@ -71,3 +71,7 @@ The matrix representation of quaternions using a complex $2\times 2$ matrix was 
 j = \begin{bmatrix}0 & \iota \\\\\ \iota & 0\end{bmatrix} \\\\\
 k = \begin{bmatrix} \iota & 0 \\\\\ 0 & -\iota\end{bmatrix}
 \end{gather}
+
+# Rotation
+
+[[include: Quaternions and spatial rotation]]
