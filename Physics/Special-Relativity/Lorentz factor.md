@@ -8,4 +8,4 @@ The **Lorentz factor** $\gamma$ tells you how much longer a second will feel if 
 In the equation above, $\beta$ is the speed parameter.
 
 Speed parameter
-: The speed written as a percent of speed of light: $\beta = \frac{s}{c}$, which by the [[postulates|special relativity#postulates]] of special relativity must be in the [[unit interval]].
+: Speed written as percent of speed of light (i.e. $\beta = \frac{v}{c}$), which by the [[postulates|special relativity#postulates]] of special relativity must be in the [[unit interval]].
