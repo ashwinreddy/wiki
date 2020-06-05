@@ -1,1 +1,1 @@
-The **semidirect product** associates a [[group]] $G$ with a [[subgroup]] $H$ and a [[normal subgroup]] $N <| G$
+The **semidirect product** associates a [[group]] $G$ with a [[subgroup]] $H$ and a [[normal subgroup]] $N \triangleleft G$
