@@ -2,4 +2,4 @@ A **binary relation** on [[sets|set]] $X$ and $Y$ is a [[subset]] of the [[Carte
 
 # Special types
 
-[[https://en.wikipedia.org/wiki/Binary_relation#Special_types_of_binary_relations]
+[[https://en.wikipedia.org/wiki/Binary_relation#Special_types_of_binary_relations]]
