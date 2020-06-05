@@ -1,1 +1,1 @@
-A **Galilean transformation** between two [[reference frames|reference frame]] translates between their coordinate systems in Newtonian mechanics.
+A **Galilean transformation** between two [[reference frames|frame of reference]] translates between their coordinate systems in Newtonian mechanics.
