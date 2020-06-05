@@ -16,3 +16,12 @@ More compactly,
 $$
 \begin{bmatrix}x' \\ t' \end{bmatrix} = \begin{bmatrix} 1 & -v \\ 0 & 1 \end{bmatrix}\begin{bmatrix} x \\ t \end{bmatrix}
 $$
+
+# Formal construction
+
+The actions allowed are any combination of the following:
+
+* Rotate in space
+* Translate in space
+* Translate in time
+* Uniform motion
