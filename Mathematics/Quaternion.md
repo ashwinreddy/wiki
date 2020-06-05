@@ -48,7 +48,7 @@ But there's no coefficient $v \in \RR$ such that $v^2 + 1 \neq 0$. So we need 4-
 
 # Matrix form
 
-A quaternion can also be written using a complex $2 \times 2$ matrix where 1 and $i$ are the same as with the matrix form for a [[complex number#as-a-matrix]].
+The matrix representation of quaternions using a complex $2\times 2$ matrix was discovered by Cayley in 1858. The matrices for 1 and $i$ are the same as with the matrix form for a [[complex number#as-a-matrix]].
 
 \begin{gather}
 j = \begin{bmatrix}0 & \iota \\\\\ \iota & 0\end{bmatrix} \\\\\
