@@ -1,5 +1,11 @@
 A **complex number** is a $z = a + b \iota$ for $a, b \in \RR$ and $\iota$ the [[imaginary unit]].
 
+# Methods
+
+$$
+\bar{a + b \iota} = a - b \iota
+$$
+
 # As a Matrix
 
 One way to represent a complex number is with a matrix. We let
