@@ -1,8 +1,4 @@
-The **determinant** is a [[group homomorphism]] [[alternating form]] for a matrix group $G$
-
-$$
-\det: G \to \mathbb{C}^{\times}
-$$
+The **determinant** assigns a number to a [[matrix]]
 
 # Properties
 
