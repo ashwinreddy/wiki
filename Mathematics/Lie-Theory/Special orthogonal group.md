@@ -3,4 +3,4 @@ The **special orthogonal group** $\operatorname{SO}(n)$ is the [[subgroup]] of t
 
 $SO(3)$ is the [[3D rotation group]].
 
-There is a 2-to-1 [[homomorphism]] from $SU(2)\times SU(2) \to SO(4)$
+There is a 2-to-1 [[homomorphism]] from [[SU(2)]] $SU(2)\times SU(2) \to SO(4)$
