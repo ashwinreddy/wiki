@@ -1,1 +1,1 @@
-A **simple Lie algebra** is a [[Lie algebra]]
+A **simple Lie algebra** is a [[Lie algebra]] with no nontrivial ideals.
