@@ -1,4 +1,1 @@
 A **subgroup** for a [[group]] $(G,\cdot)$ is a group $(H, \cdot)$ where $H$ is a [[subset]] of $G$ that satisfies the group properties with $(\cdot)$.
-
-Trivial subgroup
-: The subgroup [[singleton]] unit element 
