@@ -3,3 +3,5 @@ A **Lie algebra** helps us solve problems relating to a [[Lie group]]. In terms 
 # Matrix Lie algebra
 
 For a [[matrix Lie group]], the matrix Lie algebra is given by those $n \times n$ [[square matrices|square matrix]] $X$ such that the [[matrix exponential]] $e^{tX} \in G$ for $t \in \RR$ with the [[Lie bracket]] $[X,Y]=XY-YX$. 
+
+[[Ado's theorem]]
