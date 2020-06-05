@@ -1,0 +1,1 @@
+A **Riemannian manifold** is a [[smooth manifold]]
