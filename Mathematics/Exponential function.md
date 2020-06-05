@@ -1,5 +1,4 @@
-The **exponential function** is naturally defined by its [[Maclaurin series]] in Equation \ref{eq:defn}. 
-
+The **exponential function** is naturally defined by its [[Maclaurin series]].
 
 \begin{equation}
 \label{eq:defn}
@@ -8,10 +7,9 @@ The **exponential function** is naturally defined by its [[Maclaurin series]] in
 }
 \end{equation}
 
-
-
-
+Equation \ref{eq:defn} sensibly holds for [[real numbers|real number]], [[complex numbers|complex number]], and 
 
 \begin{equation}
 \exp x = \lim_{n \to \infty} \left(1 + \frac{x}{n}\right)^n
 \end{equation}
+
