@@ -34,5 +34,5 @@ $$
 Take two arbitrary points $v$ and $w$. Their distance after multiplication by a complex number $u$ with absolute value 1 is preserved. 
 
 $$
-|uv - uw| = |u| |v-w| = |v-w|
+|uv - uw| = |u| \cdot |v-w| = |v-w|
 $$
