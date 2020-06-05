@@ -1,0 +1,1 @@
+The **signature** of a [[metric tensor]] consist of the number of signs of its eigenvalues.
