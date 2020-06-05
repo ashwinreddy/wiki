@@ -1,5 +1,7 @@
 **Special relativity** is based on two postulates:
 
+# Postulates
+
 * _[[Principle of relativity]]_ (Galileo): The laws of physics are invariant in all inertial frames of reference. No one frame is preferred over any other.
 * _Universal speed of light_ (Einstein): Two unaccelerated observers measuring the same photon would find it's speed to be $c$ regardless of their state of motion relative to each other. The speed of light in a vacuum has the same value $c$ in all directions and in all inertial reference frames.
 
