@@ -8,3 +8,5 @@ $$
 $SU(2)$ can represent [[quaternions|quaternion]] and is a double cover for [[3D rotation group]] $SO(3)$
 
 # [[Lie algebra]]
+
+The Lie algebra on $SU(2)$ is the [[cross product]] on $\RR^3$.
