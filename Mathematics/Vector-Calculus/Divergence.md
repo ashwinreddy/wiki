@@ -1,0 +1,1 @@
+The **divergence** of a [[vector field]] is the net flow of stuff at each point.
