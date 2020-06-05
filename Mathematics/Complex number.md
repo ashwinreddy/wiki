@@ -3,7 +3,7 @@ A **complex number** is a $z = a + b \iota$ for $a, b \in \RR$ and $\iota$ the [
 # Methods
 
 $$
-\bar{a + b \iota} = a - b \iota
+\overline{a + b \iota} = a - b \iota
 $$
 
 # As a Matrix
