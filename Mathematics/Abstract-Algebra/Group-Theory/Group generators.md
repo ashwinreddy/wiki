@@ -1,4 +1,4 @@
-A **group generator** is a set of group elements that is capable of producing all the elements in a group, similar to [[basis]].
+A **group generator** is a [[set]] of group elements that is capable of producing all the elements in a group, similar to [[basis]].
 
 Formally, consider a group $G$ and some elements $a_i$. The elements $a_i$ generate $G'$, the intersection of all [[subgroup]]s of $G$ that contain all the elements $a_i$.
 
