@@ -27,3 +27,5 @@ The actions allowed are any combination of the following:
 |Translate in space|3 dimensions|
 |Translate in time|1 dimension|
 |Uniform motion|3 dimensions|
+
+To describe all possible transformations, one needs 10 dimensions.
