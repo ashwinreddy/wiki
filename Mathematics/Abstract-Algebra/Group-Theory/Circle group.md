@@ -1,6 +1,6 @@
 The **circle group** $\mathbb{T}$ is [[unitary group]] $U(1)$, the multiplicative [[subgroup]] of [[complex numbers|complex number]] $\mathbb{C}$ with absolute value 1, the [[unit circle]] in the [[complex plane]].
 
-# Lie algebra
+# [[Lie algebra]]
 
 The [[exponential map]] is 
 
