@@ -2,4 +2,4 @@ The **unitary group** $U(n)$ of degree $n$ is the group of $n \times n$ [[unitar
 
 # [[Lie algebra]]
 
-The Lie algebra consists of [[skew-Hermitian matrix]]
+The Lie algebra consists of [[skew-Hermitian matrices|skew-Hermitian matrix]].
