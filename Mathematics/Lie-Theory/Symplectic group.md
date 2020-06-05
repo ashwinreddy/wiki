@@ -1,1 +1,1 @@
-The **symplectic group** is the orthogonal group for [[quaternion]]s.
+The **symplectic group** $Sp(n)$
