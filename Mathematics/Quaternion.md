@@ -13,7 +13,11 @@ $$
 
 # Methods
 
-We can multiply two quaternions using Equation \ref{eq:hamilton}
+We can multiply two quaternions using Equation \ref{eq:hamilton}.
+
+$$
+
+$$
 
 
 Like complex numbers, quaternions have conjugates.
