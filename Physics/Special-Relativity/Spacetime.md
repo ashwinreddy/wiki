@@ -6,5 +6,5 @@ The [[postulates|special relativity#postulates]] of special relativity tell us t
 
 \begin{gather}
 \text{distance light covered} = c\Delta t \\\\\
-\left(\Delta x\right)^2 + \left(\Delta y\right)^2 + \left(\Delta z\right)^2 = c^2 \left( \Delta t\right)^2
+\left(\Delta x\right)^2 + \left(\Delta y\right)^2 + \left(\Delta z\right)^2 = \left( \Delta ct\right)^2
 \end{gather}
