@@ -7,7 +7,7 @@ The **exponential function** is naturally defined by its [[Maclaurin series]].
 }
 \end{equation}
 
-Equation \ref{eq:defn} sensibly holds for [[real numbers|real number]], [[complex numbers|complex number]], and 
+Equation \ref{eq:defn} sensibly holds for [[real numbers|real number]], [[complex numbers|complex number]], and [[quaternions|quaternion]]
 
 \begin{equation}
 \exp x = \lim_{n \to \infty} \left(1 + \frac{x}{n}\right)^n
