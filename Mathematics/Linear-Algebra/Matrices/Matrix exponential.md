@@ -3,9 +3,3 @@ The **matrix exponential** is a generalization of [[exponential function]] to [[
 $$
 e^X \triangleq \sum_{k=0}^\infty \frac{1}{k!} X^k
 $$
-
-For any square complex matrix,
-
-\begin{equation}
-\det e^A = e^{\operatorname{tr} A}
-\end{equation}
