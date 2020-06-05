@@ -3,3 +3,6 @@
 $$
 \vec{v}' = q \vec{v} q^{-1}, \qquad q = \cos \frac{\alpha}{2} + \vec{n} \sin \frac{\alpha}{2}
 $$
+
+# Proof
+
