@@ -15,6 +15,8 @@ For notational simplicity, we can therefore also represent $q$ as a pair $(a, \l
 
 # Methods
 
+## Multiplication
+
 We can multiply two quaternions using Equation \ref{eq:hamilton}.
 
 \begin{equation}
@@ -22,17 +24,23 @@ pq = p_0 q_0 - \vec{p}\cdot\vec{q} + p_0 \vec{q} + q_0 \vec{p} + \vec{p}\times\v
 \end{equation}
 
 
+## Conjugation
+
 Like complex numbers, quaternions have conjugates.
 
 $$
 \bar{q} = a - bi - cj - dk
 $$
 
+## Norm
+
 The product of a quaternion with its conjugate gives us the norm
 
 $$
 q\bar{q} = \bar{q}q = a^2 + b^2 + c^2 + d^2
 $$
+
+## Inverse
 
 The inverse of a quaternion is
 
