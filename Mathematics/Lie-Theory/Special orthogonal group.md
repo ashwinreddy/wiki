@@ -1,11 +1,10 @@
-The **special orthogonal group** $\operatorname{SO}(n)$ is the [[group]] of [[$n \times n$ matrices|square matrix]] with unit [[determinant]].
+The **special orthogonal group** $\operatorname{SO}(n)$ is the [[group]] of [[$n \times n$ matrices|square matrix]] with unit [[determinant]]. It is a [[subgroup]] of the [[orthogonal group]].
 
 \begin{equation}
 SO(n) \subset O(n) \subset GL(n)
 \end{equation}
 
-
-[[subgroup]] of the elements of the general [[orthogonal group]] $\operatorname{O}(n)$ with [[determinant]] 1. Elements of $SO(n)$ are path-connected while elements of $O(n)$ are not. 
+Elements of $SO(n)$ are path-connected while elements of $O(n)$ are not. 
 
 |$n$|Name|
 |:--:|:----:|
