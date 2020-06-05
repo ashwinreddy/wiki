@@ -7,4 +7,4 @@ $$
 # Properties
 
 Submultiplicative
-: $\|AB\|_F \leq |A|_F |B|_F$
+: $\|AB\|_F \leq \|A\|_F \|B\|_F$
