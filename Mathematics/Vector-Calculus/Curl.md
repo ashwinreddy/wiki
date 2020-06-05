@@ -1,0 +1,1 @@
+The **curl** of a [[vector field]] is the rotation at each point.
