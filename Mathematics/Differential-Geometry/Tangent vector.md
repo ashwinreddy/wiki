@@ -1,1 +1,1 @@
-A **tangent vector** is a linear functional that obeys product rule. The prototypical example is the partial derivative evaluated at a point.
+A **tangent vector** at a point $p$ for a manifold $M$ is an element of the [[tangent space]] $T_p M$.
