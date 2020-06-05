@@ -1,17 +1,16 @@
-**Quaternions** are an extension of [[complex numbers | complex number]] to 4 dimensions.
+**Quaternions** are an extension of [[complex numbers | complex number]] to 4 dimensions, hence the prefix "quat". The discovery of quaternions was enabled by Sir William Rowan Hamilton, who developed the multiplication rules in a eureka moment.
 
+\begin{equation}
+i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
+\end{equation}
 
-, useful for describing rotations in 3D. They can be thought of as a [[vector space]] over $\RR^4$ where the elements are given by
+The set of quaternions is denoted $\mathbb{H}$ after him. Each quaternion is of the form
 
 $$
 q = a + b i + c j + dk
 $$
 
-Quaternion multiplication is defined by the following equation, discovered by William Rowan Hamilton. The set of quaternions is denoted $\mathbb{H}$ after him.
 
-\begin{equation}
-i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
-\end{equation}
 
 Like complex numbers, quaternions have conjugates.
 
