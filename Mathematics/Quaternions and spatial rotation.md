@@ -4,7 +4,7 @@ $$
 \vec{v}' = q \vec{v} q^{-1}, \qquad q = \cos \frac{\alpha}{2} + \vec{n} \sin \frac{\alpha}{2}
 $$
 
-[[Antipodal points]]
+Both $q$ and its [[antipode|Antipodal points]] $-q$ will execute the same rotation under this conjugation application.
 
 ## Proof
 
