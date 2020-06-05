@@ -4,6 +4,7 @@ The **circle group** $\mathbb{T}$ is a [[group]] over [[unit circles|unit circle
 {\mathbb  T}\cong {\mbox{U}}(1)\cong {\mathbb  R}/{\mathbb  Z}\cong {\mbox{SO}}(2)
 \end{equation}
 
+* $U(1)$ is a [[unitary group]]
 
 [[unitary group]] $U(1)$, the multiplicative [[subgroup]] of [[complex numbers|complex number]] $\mathbb{C}$ with absolute value 1, the [[unit circle]] in the [[complex plane]].
 
