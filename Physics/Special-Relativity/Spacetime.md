@@ -2,3 +2,4 @@
 
 # Spacetime/Lorentz Interval
 
+The [[special relativity]]
