@@ -7,7 +7,7 @@ $$
 Quaternion multiplication is defined by the following equation, discovered by William Rowan Hamilton. The set of quaternions is denoted $\mathbb{H}$ after him.
 
 \begin{equation}
-i^2 = j^2 = k^2 = ijk = -1
+i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
 \end{equation}
 
 Like complex numbers, quaternions have conjugates.
