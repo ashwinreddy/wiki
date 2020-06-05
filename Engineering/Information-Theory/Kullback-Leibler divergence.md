@@ -3,3 +3,7 @@ The **Kullback-Leibler (KL) divergence** measures the difference between two dis
 $$
 D_{KL}(P \parallel Q) = H(P,Q) - H(P)
 $$
+
+# Properties
+
+* The divergence is non-negative.
