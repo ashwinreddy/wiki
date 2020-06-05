@@ -1,0 +1,1 @@
+**Dodgson condensation** is a recursive method for computing [[determinants]]
