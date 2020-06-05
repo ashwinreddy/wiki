@@ -3,12 +3,4 @@ A **Lie algebra** helps us solve problems relating to a [[Lie group]]. In terms 
 
 # Examples
 
-Let's find the Lie algebra of the [[3D rotation group]] $SO(3)$. An infinitesimal transformation is given by $O = I + \epsilon J$, and we need to find $J$. But since $O$ is an [[orthogonal matrix]], we must have
-
-\begin{gather}
-(I + \epsilon J)^\mathsf{T} ( I + \epsilon J) = I \\\\\
-I + \epsilon J^\mathsf{T} + \epsilon J + \cancelto{0}{\epsilon^2 J^\mathsf{T} J} = I \\\\\
-J^\mathsf{T} + J = 0
-\end{gather}
-
-The above derivation came from [here](http://jakobschwichtenberg.com/naive-introduction-lie-theory/).
+Let's find the Lie algebra of the [[3D rotation group]] $SO(3)$. 
