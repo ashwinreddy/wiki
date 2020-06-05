@@ -4,10 +4,7 @@ $$
 \vec{v}' = q \vec{v} q^{-1}, \qquad q = \cos \frac{\alpha}{2} + \vec{n} \sin \frac{\alpha}{2}
 $$
 
-Both $q$ and its [[antipode|Antipodal points]] $-q$ will execute the same rotation under this conjugation application.
-
-
-Quaternions provide the connection for the statement.
+Both $q$ and its [[antipode|Antipodal points]] $-q$ will execute the same rotation under this conjugation application. This makes the quaternions a double cover for the rotations. Since [[unit quaternion]]
 
 \begin{equation}
 SU(2) /\mathbb{Z}_2 \cong SO(3)
