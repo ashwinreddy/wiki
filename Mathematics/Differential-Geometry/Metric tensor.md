@@ -4,6 +4,8 @@ $$
 g: T_p M \times T_p M \to \RR
 $$
 
+Since the [[tangent space]] is a 
+
 
 
 
