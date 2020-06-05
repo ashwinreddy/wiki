@@ -1,7 +1,7 @@
-The **metric tensor** is a very fancy [[inner product]].
+The **metric tensor** is a very fancy dot product for [[tangent vectors|tangent vector]].
 
 $$
-g: T_p M 
+g: T_p M \times T_p M
 $$
 
 
