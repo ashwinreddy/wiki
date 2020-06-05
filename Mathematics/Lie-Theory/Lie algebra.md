@@ -9,3 +9,6 @@ Ideal
 
 For a [[matrix Lie group]], the matrix Lie algebra is given by those $n \times n$ [[square matrices|square matrix]] $X$ such that the [[matrix exponential]] $e^{tX} \in G$ for $t \in \RR$ with the [[Lie bracket]] $[X,Y]=XY-YX$. 
 
+# Properties
+
+* A [[Lie algebra]] is not neccessarily associative.
