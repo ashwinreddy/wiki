@@ -1,4 +1,4 @@
-The **determinant** assigns a number to a [[matrix]]
+The **determinant** assigns every [[square matrix]] a scalar.
 
 # Properties
 
