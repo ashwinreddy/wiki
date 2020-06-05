@@ -1,6 +1,8 @@
 The **matrix power** $A^n$ for a [[matrix]] $A$ is the matrix product of $n$ copies of $A$.
 
-Practically, $A^n$ can be infeasible to compute for large $n$. We can employ a diagonalization
+# Computation
+
+Practically, $A^n$ can be infeasible to compute for large $n$. We can employ a [[diagonalization]]
 
 $$
 A = VDV^{-1}
