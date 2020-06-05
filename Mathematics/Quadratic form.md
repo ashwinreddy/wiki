@@ -1,0 +1,1 @@
+A **quadratic form** is a [[polynomial]] with only terms of degree two.
