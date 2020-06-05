@@ -1,0 +1,1 @@
+An **inclusion map** is a [[function]] that casts an element of a [[subset]] as an element of the [[set]].
