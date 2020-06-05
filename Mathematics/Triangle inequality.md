@@ -1,1 +1,1 @@
-The **triangle inequality** says that the sum of two sides of a triangle must be greater than or equal to the other side.
+The **triangle inequality** says that the sum of two sides of a triangle must be greater than or equal to the other side. It is an example of subadditivity.
