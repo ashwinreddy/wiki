@@ -2,6 +2,8 @@ A **complex number** is a $z = a + b \iota$ for $a, b \in \RR$ and $\iota$ the [
 
 # Methods
 
+The conjugate of a complex number is
+
 \begin{equation}
 \overline{a + b \iota} \equiv a - b \iota
 \end{equation}
@@ -26,3 +28,4 @@ $$
 $$
 \det(a + b \iota) = a^2 + b^2
 $$
+
