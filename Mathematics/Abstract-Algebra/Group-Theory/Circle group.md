@@ -5,7 +5,8 @@ The **circle group** $\mathbb{T}$ is a [[group]] over [[unit circles|unit circle
 \end{equation}
 
 * [[unitary group]] $U(1)$, the multiplicative [[subgroup]] of [[complex numbers|complex number]] $\mathbb{C}$ with absolute value 1, the [[unit circle]] in the [[complex plane]].
-* [[special orthogonal group]]
+* $\mathbb{R}/\mathbb{Z}$ to describe an angle after [[quotienting|quotient group]] the multiple of $2\pi$.
+* [[special orthogonal group]] $SO(2)$
 
 # [[Lie algebra]]
 
