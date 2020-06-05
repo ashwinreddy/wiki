@@ -11,3 +11,5 @@ The fact that complex numbers can be [[represented as a matrix|complex number#as
 $$
 \exp \left({\begin{bmatrix}0 & -x \\ x & 0\end{bmatrix}}\right) = \begin{bmatrix}\cos x & -\sin x \\ \sin x & \cos x\end{bmatrix}
 $$
+
+Which is actually true for a [[matrix exponential]].
