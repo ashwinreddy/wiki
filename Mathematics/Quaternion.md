@@ -8,7 +8,7 @@ i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
 The set of quaternions is denoted $\mathbb{H}$ after him. Each quaternion is of the form
 
 $$
-q = a + b i + c j + dk
+q = \overbrace{a}^{\text{real/scalar part}} + \overbrace{b i + c j + dk}^{\text{imaginary/vector part}}
 $$
 
 # Methods
