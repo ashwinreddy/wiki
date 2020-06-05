@@ -2,9 +2,9 @@ A **complex number** is a $z = a + b \iota$ for $a, b \in \RR$ and $\iota$ the [
 
 # Methods
 
-$$
-\overline{a + b \iota} = a - b \iota
-$$
+\begin{equation}
+\overline{a + b \iota} \equals a - b \iota
+\end{equation}
 
 # As a Matrix
 
