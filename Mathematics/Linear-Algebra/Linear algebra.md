@@ -1,0 +1,1 @@
+**Linear algebra** is the study of [[vector spaces|vector space]].
