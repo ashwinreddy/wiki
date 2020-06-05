@@ -1,0 +1,1 @@
+**Recursion** is a method of solving a problem where the solution depends on solving a similar problem at a smaller scale first.
