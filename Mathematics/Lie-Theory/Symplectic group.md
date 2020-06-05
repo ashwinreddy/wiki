@@ -1,1 +1,1 @@
-The **symplectic group** $Sp(n)$
+The **symplectic group** $\operatorname{Sp}(n)$
