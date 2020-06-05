@@ -1,0 +1,1 @@
+**Hamiltonian mechanics** is a reformulation of Newtonian mechanics.
