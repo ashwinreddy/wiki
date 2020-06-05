@@ -1,4 +1,4 @@
-The **matrix power** $A^n$ for a [[square matrix]] $A$ is the matrix product of $n$ copies of $A$.
+The **matrix power** $A^n$ for a [[square matrix]] $A$ is the [[matrix product|matrix multiplication]] of $n$ copies of $A$.
 
 # Computation
 
