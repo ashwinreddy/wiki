@@ -1,1 +1,1 @@
-The **Rubik's Cube group** is the [[non-abelian]] [[subgroup]] of the [[symmetric group]] $S_{48}$ of cube moves with [[function composition]] as the operation.
+The **Rubik's Cube group** is the non-abelian [[subgroup]] of the [[symmetric group]] $S_{48}$ of cube moves with [[function composition]] as the operation.
