@@ -31,7 +31,7 @@ $$
 
 # Rotation
 
-Take two arbitrary points $v$ and $w$. Their distance after multiplication by a complex number $u$ with absolute value 1 is preserved. 
+Take two arbitrary points $v$ and $w$. Their distance after multiplication by a complex number $u$ with absolute value 1 is preserved. In more technical terms, multiplication by $u$ is an [[isometry]]
 
 $$
 |uv - uw| = |u| \cdot |v-w| = |v-w|
