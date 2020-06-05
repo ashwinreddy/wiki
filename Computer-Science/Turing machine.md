@@ -1,0 +1,1 @@
+A **Turing machine** is an abstraction of a computer as a state machine.
