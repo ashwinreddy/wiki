@@ -36,9 +36,9 @@ $$
 
 The inverse of a quaternion is
 
-$$
+\begin{equation}
 q^{-1} = \frac{\bar{q}}{|q|^2}
-$$
+\end{equation}
 
 # Extension of complex numbers
 
