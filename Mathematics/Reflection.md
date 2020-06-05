@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-\operatorname{Ref}(\theta)\operatorname{Ref}(\phi) \equiv \operatorname{Rot}(2 \left[\theta-\phi\right])
+\operatorname{Ref}(\theta)\operatorname{Ref}(\phi) \equiv \operatorname{Rot}\left(2 \left[\theta-\phi\right]\right)
 $$
