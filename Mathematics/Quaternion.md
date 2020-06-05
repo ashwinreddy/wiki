@@ -74,4 +74,4 @@ k = \begin{bmatrix} \iota & 0 \\\\\ 0 & -\iota\end{bmatrix}
 
 # Rotation
 
-[[include: Quaternions and spatial rotation]]
+[[include:Quaternions and spatial rotation]]
