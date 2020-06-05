@@ -1,0 +1,1 @@
+The **unit circle** is a circle of radius 1 centered at the origin of a coordinate system.
