@@ -4,6 +4,8 @@ The **determinant** assigns every [[square matrix]] a scalar with the special pr
 \det(AB) \equiv \det(A)\det(B)
 \end{equation}
 
+This makes the determinant a [[group homomorphism]] for the [[general linear group]].
+
 # Properties
 
 * $\det I = 1$
