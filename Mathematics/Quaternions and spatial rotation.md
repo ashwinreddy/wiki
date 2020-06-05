@@ -6,5 +6,9 @@ $$
 
 Both $q$ and its [[antipode|Antipodal points]] $-q$ will execute the same rotation under this conjugation application.
 
-## Proof
 
+Quaternions provide the connection for the statement.
+
+\begin{equation}
+SU(2) /\mathbb{Z}_2 \cong SO(3)
+\end{equation}
