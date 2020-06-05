@@ -1,6 +1,7 @@
 **Quaternions** are an extension of [[complex numbers | complex number]] to 4 dimensions, hence the prefix "quat". The discovery of quaternions was enabled by Sir William Rowan Hamilton, who developed the multiplication rules in a eureka moment.
 
 \begin{equation}
+\label{eq:hamilton}
 i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
 \end{equation}
 
@@ -11,6 +12,9 @@ q = a + b i + c j + dk
 $$
 
 # Methods
+
+We can multiply two quaternions using Equation \ref{eq:hamilton}
+
 
 Like complex numbers, quaternions have conjugates.
 
