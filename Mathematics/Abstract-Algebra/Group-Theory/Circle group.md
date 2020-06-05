@@ -4,7 +4,7 @@ The **circle group** $\mathbb{T}$ is [[unitary group]] $U(1)$, the multiplicativ
 
 The [[exponential map]] is 
 
-\begin{align*}
+\begin{align\*}
 \exp: \RR &\to \mathbb{T} \\\\\
 \theta &\mapsto e^{i\theta}
-\end{align*}
+\end{align\*}
