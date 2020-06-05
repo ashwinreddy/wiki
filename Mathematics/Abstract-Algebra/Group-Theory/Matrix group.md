@@ -1,4 +1,6 @@
-A **matrix group** is a [[group]] of [[invertible matrices|invertible matrix]]. Basically, if you want to put in $A$ and $B$, you must also put in $AB$, $A^{-1}$, and $B^{-1}$.
+A **matrix group** is a [[group]] of [[invertible matrices|invertible matrix]] [^intuition]
+
+[^intuition]: if you want to put in $A$ and $B$, you must also put in $AB$, $A^{-1}$, and $B^{-1}$.
 
 The **tangent space** to a matrix group at the identity is a subspace of the vector space of matrices. It has dimension $\dim G$.
 
