@@ -1,0 +1,1 @@
+The **affine group** is a [[group]] of invertible [[affine transformations]] from an [[affine space]] to itself.
