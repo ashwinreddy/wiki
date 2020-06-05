@@ -1,1 +1,1 @@
-The **affine group** is a [[group]] of invertible [[affine transformations|affine transformation]] from an [[affine space]] to itself.
+The **affine group** over a $k$ [[field]] is a [[group]] of invertible [[affine transformations|affine transformation]] from an [[affine space]] to itself.
