@@ -5,7 +5,7 @@ The **Lorentz factor** $\gamma$ tells you how much longer a second will feel if 
 \gamma \triangleq {1 \over \sqrt{1 -\beta^2}}\tag{Lorentz factor}
 \end{equation}
 
-In fact, what matters is the ratio of speed to speed of light, known as speed parameter.
+In the equation above, $\beta$ is the speed parameter.
 
 Speed parameter
 : The speed written as a percent of speed of light: $\beta = \frac{s}{c}$
