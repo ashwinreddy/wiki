@@ -1,4 +1,4 @@
-A **set** is a collection or bag of objects $S$. Sets have no notion of order or repetition. 
+A **set** is a collection or bag of objects. Sets have no notion of order or repetition. 
 
 # Methods
 
