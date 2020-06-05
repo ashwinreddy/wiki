@@ -1,0 +1,1 @@
+A **simple Lie algebra** is a [[Lie algebra]]
