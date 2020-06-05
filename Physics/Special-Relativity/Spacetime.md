@@ -2,4 +2,4 @@
 
 # Spacetime/Lorentz Interval
 
-The [[special relativity]]
+The [[special relativity#postulates]]
