@@ -1,4 +1,4 @@
-The **metric tensor** is a very fancy dot product for [[tangent vectors|tangent vector]].
+The **metric tensor** is a very fancy dot product for [[tangent vectors|tangent vector]] on a [[manifold]].
 
 $$
 g: T_p M \times T_p M \to \RR
