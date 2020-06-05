@@ -1,0 +1,1 @@
+[This website](https://setosa.io/ev/exponentiation/) gives a good sense for exponential growth. 
