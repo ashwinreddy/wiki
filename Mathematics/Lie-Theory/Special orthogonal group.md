@@ -2,6 +2,7 @@ The **special orthogonal group** $\operatorname{SO}(n)$ is the [[subgroup]] of t
 
 |$n$|Name|
 |:--:|:----:|
+|1|Trivial group|
 |2|[[Circle group]]|
 |3|[[3D rotation group]]|
 
