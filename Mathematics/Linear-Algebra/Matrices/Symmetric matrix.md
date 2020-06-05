@@ -6,4 +6,4 @@ $$
 
 # Properties
 
-* If $A$ is a symmetric matrix and $S$ is an invertible matrix, then $B=SAS^\mathsf{T}$ is also symmetric.
+* If $A$ is a symmetric matrix and $B$ is [[congruent|matrix congruence]] to $A$, then $B$ is also symmetric.
