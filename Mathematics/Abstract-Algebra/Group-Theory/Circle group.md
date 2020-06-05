@@ -6,5 +6,5 @@ The [[exponential map]] is
 
 \begin{align\*}
 \exp: \RR &\to \mathbb{T} \\\\\
-\theta &\mapsto e^{i\theta}
+\theta &\mapsto e^{i\theta} = \cos\theta + i \sin\theta
 \end{align\*}
