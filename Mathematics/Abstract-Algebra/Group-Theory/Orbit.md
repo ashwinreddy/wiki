@@ -1,1 +1,1 @@
-The **orbit** of a [[group action]]
+The **orbit** of a [[group action]] $\varphi: G \times X \to X$.
