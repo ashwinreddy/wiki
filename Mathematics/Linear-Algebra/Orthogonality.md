@@ -1,1 +1,1 @@
-Orthogonality means perpendicular
+Orthogonality means perpendicular. It typically means the [[dot product]] is 0.
