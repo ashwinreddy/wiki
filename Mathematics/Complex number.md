@@ -16,3 +16,7 @@ This gives us
 $$
 a + b \iota = \begin{bmatrix} a & -b \\ b & a \end{bmatrix}
 $$
+
+$$
+\det(a + b \iota) = a^2 + b^2
+$$
