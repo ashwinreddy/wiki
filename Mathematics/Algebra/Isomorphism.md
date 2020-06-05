@@ -1,1 +1,1 @@
-An isomorphism is a bijective [[homomorphism]].
+An **isomorphism** is a [[bijective|bijection]] [[homomorphism]].
