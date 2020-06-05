@@ -3,7 +3,7 @@ The **Lorentz factor** tells you how much longer a second will feel if you're mo
 Speed parameter
 : The speed written as a percent of speed of light: $\beta = \frac{s}{c}$
 
-The [[postulates|special relativity#postulates]] of special relativity tell us that the speed parameter $0 \leq s \leq 1$. 
+The [[postulates|special relativity#postulates]] of special relativity tell us that the speed parameter $s$ must be in the [[unit interval]].
 
 
 \begin{equation}
