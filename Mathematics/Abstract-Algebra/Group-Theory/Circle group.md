@@ -1,0 +1,1 @@
+The **circle group** $\mathbb{T}$ is the multiplicative [[group]] of [[complex numbers|complex number]] $\mathbb{C}$ with absolute value, the [[unit circle]] in the [[complex plane]].
