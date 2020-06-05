@@ -1,1 +1,1 @@
-[[Quaternions|quaternion]] can be used to describe [[3D rotations|3D rotation group]] $SO(3)$
+[[Quaternions|quaternion]] can be used to describe [[3D rotations|3D rotation group]]
