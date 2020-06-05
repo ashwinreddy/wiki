@@ -1,6 +1,6 @@
 A **sphere** is the surface of a ball.
 
-# 3D Sphere
+# $S^3$
 
 $$
 V = \frac{4}{3}\pi r^3
