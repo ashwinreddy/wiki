@@ -1,4 +1,4 @@
-The **matrix exponential** is a generalization of [[exponential function]] using [[matrix power]].
+The **matrix exponential** is a generalization of [[exponential function]] to [[square matrices|square matrix]] using [[matrix power]].
 
 $$
 e^X \triangleq \sum_{k=0}^\infty \frac{1}{k!} X^k
