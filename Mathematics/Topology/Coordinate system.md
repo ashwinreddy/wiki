@@ -1,4 +1,4 @@
-A **coordinate system** or **chart** for a [[manifold]] $X$ is a [[homeomorphism]] from [[Cartesian space]] to the manifold.
+A **coordinate system** or **chart** for a [[manifold]] $X$ is a [[homeomorphism]] between [[Cartesian space]] and the manifold. Since the inverse of a homeomorphism is itself a homeomorphism, the domain and codomain can be swapped at will.
 
 $$
 \phi: \RR^n \to X
