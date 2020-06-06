@@ -1,0 +1,1 @@
+A **reflexive relation** is a [[binary relation]] that relates every element to itself.
