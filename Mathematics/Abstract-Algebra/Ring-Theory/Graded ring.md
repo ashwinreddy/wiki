@@ -1,1 +1,1 @@
-A **graded ring** is a [[ring]] $R$ that is decomposed into a direct sum of additive [[groups|group]] such that $R_m R_n \subseteq R_{m+n}$.
+A **graded ring** is a [[ring]] $R$ that is decomposed into a direct sum of [[additive groups|additive group]] such that $R_m R_n \subseteq R_{m+n}$.
