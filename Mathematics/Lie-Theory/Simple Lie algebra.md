@@ -1,1 +1,1 @@
-A **simple Lie algebra** is a [[Lie algebra]] with no nontrivial ideals.
+A **simple Lie algebra** is a non-abelian [[Lie algebra]] $\mathfrak{g}$ with no nonzero proper [[ideals|ideal]].
