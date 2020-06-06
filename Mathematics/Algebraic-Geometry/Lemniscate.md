@@ -1,0 +1,1 @@
+A **lemniscate** is a figure-eight / $\infty$ shaped curve.
