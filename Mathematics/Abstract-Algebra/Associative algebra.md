@@ -1,1 +1,1 @@
-An **associative algebra**
+An **associative algebra** $A$ that has an [[associative|associative property]] multiplication.
