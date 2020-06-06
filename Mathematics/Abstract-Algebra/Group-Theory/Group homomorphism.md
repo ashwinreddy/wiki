@@ -6,5 +6,5 @@ Trivial homomorphism
 A homomorphism can be shown diagramatically with a [[short exact sequence]]
 
 \begin{equation}
-0 \to \operatorname{ker}f \to A \to \operatorname{im}f \to 0
+0 \to \operatorname{ker}f \to G \to \operatorname{im}f \to 0
 \end{equation}
