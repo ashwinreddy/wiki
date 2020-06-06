@@ -1,5 +1,1 @@
-An $n$-dimensional **torus**
-
-\begin{equation}
-T^n = \prod_{i=1}^n S^i
-\end{equation}
+An $n$-dimensional **torus** $T^n$ is the product of $n$ circles.
