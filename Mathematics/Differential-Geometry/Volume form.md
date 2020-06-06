@@ -1,0 +1,1 @@
+The **volume form** of a [[differentiable manifold]] is a top-dimensional [[differential form]] measuring the volume.
