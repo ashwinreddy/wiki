@@ -1,1 +1,1 @@
-A **neighborhood** of a point $x$ in a [[topological space]] $X$ is a set $U$ such that there is enough room around $x$ in $U$ to move in any direction (but perhaps not very far). Formally, there is an open subset $O \subset X$ such that $x \in O$ and $O \subset U$
+A **neighborhood** of a point $x$ in a [[topological space]] $X$ is a set $U$ such that there is enough room around $x$ in $U$ to move in any direction (but perhaps not very far). Formally, there is an open subset $O \subset X$ such that $x \in O$ and $O \subset U$.
