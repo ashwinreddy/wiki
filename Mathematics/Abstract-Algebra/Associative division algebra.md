@@ -1,1 +1,1 @@
-**Associative division algebra** is an [[associative algebra]] and a [[division algebra]].
+An **associative division algebra** is an [[associative algebra]] and a [[division algebra]].
