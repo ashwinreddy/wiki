@@ -1,1 +1,1 @@
-The **magnetic field** $\vec{B}$
+The **magnetic field** $\vec{B}$ affects a charged body moving through the field with some velocity.
