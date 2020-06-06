@@ -1,1 +1,1 @@
-**Cartesian space** is [[Euclidean space]] described with coordinates in $\mathbb{R}^n$.
+**Cartesian space** is [[Euclidean space]] described as $\mathbb{R}^n$.
