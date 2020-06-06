@@ -1,1 +1,1 @@
-A **bit** is a unit of information representing a [[Bernoulli random variable]]
+A **bit** is a unit of information representing a [[Bernoulli distribution]]
