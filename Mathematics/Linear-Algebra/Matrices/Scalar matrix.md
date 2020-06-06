@@ -1,2 +1,1 @@
-A **scalar matrix** is a [[diagonal matrix]] of the form $\lambda I$ where $I$ is the [[identity matrix]].
-
+A **scalar matrix** is a [[diagonal matrix]] of the form $\lambda I$ where $I$ is the [[identity matrix]]. The set of scalar matrices forms a [[subgroup]] to the [[general linear group]] $\operatorname{GL}$ isomorphic to the [[field]].
