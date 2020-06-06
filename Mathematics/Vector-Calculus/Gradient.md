@@ -1,4 +1,4 @@
-The **gradient** of a [[function]] $f: \mathbb{R}^n \to \mathbb{R}$ is given by collecting all the [[partial derivative]]s.
+The **gradient** of a [[function]] $f: \mathbb{R}^n \to \mathbb{R}$ is given by collecting all the [[partial derivatives|partial derivative]] into a [[vector]].
 
 $$
 \left(\vec\nabla f\right)_{i} = {\partial f \over \partial x_i }
