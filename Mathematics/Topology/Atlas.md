@@ -1,1 +1,1 @@
-An **atlas** collects [[charts|coordinate system]]
+An **atlas** collects [[charts|coordinate system]] into a complete map for a [[manifold]].
