@@ -8,3 +8,4 @@ The [[postulates|special relativity#postulates]] of special relativity tell us t
 \text{distance light covered} = \Delta ct \\\\\
 \left(\Delta x\right)^2 + \left(\Delta y\right)^2 + \left(\Delta z\right)^2 = \left( \Delta ct\right)^2
 \end{gather}
+
