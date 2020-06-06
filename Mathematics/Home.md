@@ -1,6 +1,6 @@
 # Overview
 
-|Applied|Abstract|Mathematical|
+|Applications|Abstract|Mathematical|
 |------|---------|-------------|
 |[Optimization](./Mathematical-Optimization/)|[Group Theory](./Abstract-Algebra/Group-Theory/)|[Differential Geometry](./Differential-Geometry/)|
 |[Linear Algebra](./Linear-Algebra/)|[Mathematical Analysis](./Mathematical-Analysis/)||
