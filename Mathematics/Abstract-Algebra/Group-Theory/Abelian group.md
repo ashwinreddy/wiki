@@ -1,1 +1,1 @@
-An **abelian group** is a [[group]] with a [[commutative operator|commutative]].
+An **abelian group** is a [[group]] with a [[commutative operator|commutative property]].
