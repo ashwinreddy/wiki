@@ -1,1 +1,1 @@
-**Vec** is the [[category]] of [[vector spaces|vector space]] with [[linear transformations|linear map]] as [[morphisms|morphism]].
+**Vect** is the [[category]] of [[vector spaces|vector space]] with [[linear transformations|linear map]] as [[morphisms|morphism]].
