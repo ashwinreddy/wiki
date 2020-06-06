@@ -1,0 +1,1 @@
+An **integral curve** is the solution to a system of differential equations. It is tangent to the vector field representing the differential equation at each point.
