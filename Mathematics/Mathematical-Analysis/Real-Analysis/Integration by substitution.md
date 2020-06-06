@@ -15,3 +15,9 @@ This allows you to write the integral purely in terms of $u$:
 \begin{equation}
 \int f'(u) \dd{u} = f(u)
 \end{equation}
+
+In particular, with limits,
+
+\begin{equation}
+\int_a^b f'(u) \dd{u} = f(u)
+\end{equation}
