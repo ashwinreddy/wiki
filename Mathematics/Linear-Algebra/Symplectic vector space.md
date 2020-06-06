@@ -1,0 +1,1 @@
+A **symplectic vector space** is a [[vector space]] with an [[exterior form]]
