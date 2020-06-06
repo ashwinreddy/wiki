@@ -1,0 +1,1 @@
+An **embedding** is when you show, using a structure-preserving map, that a superset contains a subset.
