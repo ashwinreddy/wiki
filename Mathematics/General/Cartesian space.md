@@ -1,0 +1,1 @@
+**Cartesian space** is $\mathbb{R}^n$
