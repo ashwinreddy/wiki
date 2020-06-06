@@ -4,4 +4,4 @@ The **eigenfunction** for a [[linear operator|linear map]] $D$ for a [[function 
 Df = \lambda f
 \end{equation}
 
-The classic example is the [[derivative]]
+The classic example is the [[derivative]] and the eigenfunction is the [[exponential function]].
