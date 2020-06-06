@@ -1,1 +1,5 @@
 The **electromagnetic tensor** combines the [[magnetic field]] and [[electric field]] into a [[differential form]].
+
+\begin{equation}
+F \triangleq \dd{A}
+\end{equation}
