@@ -1,0 +1,1 @@
+The **hom-set** between $X$ and $Y$ is the collection of all [[morphisms|morphism]] between them.
