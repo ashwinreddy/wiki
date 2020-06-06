@@ -5,5 +5,5 @@ The **special linear group** $\operatorname{SL}(n)$ is the [[group kernel]] of t
 The special linear group participates in a [[short exact sequence]]:
 
 \begin{equation}
-0 \rightarrow \operatorname{SL}(n) \rightarrow \operatorname{GL}(n) \rightarrow F^\times \rightarrow 0
+0 \rightarrow \operatorname{SL}(n) \rightarrow \operatorname{GL}(n) \xrightarrow{\det} F^\times \rightarrow 0
 \end{equation}
