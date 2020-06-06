@@ -5,6 +5,5 @@ A **short exact sequence** is an [[exact sequence]] of the form
 \end{equation}
 
 \begin{gather}
-\operatorname{im}f  = \operatorname{ker}g  \\\\\
-\\{ f(a) | a \in A\\} = \\{ b \in B: g(b) = e  \\}
+\operatorname{im}f  = \operatorname{ker}g  \\\\
 \end{gather}
