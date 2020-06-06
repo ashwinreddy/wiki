@@ -1,0 +1,1 @@
+The **tensor algebra** of a [[vector space]] $V$, denoted $T(V)$ is the algebra of [[tensors|tensor]] on $V$ with [[tensor product]] as product.
