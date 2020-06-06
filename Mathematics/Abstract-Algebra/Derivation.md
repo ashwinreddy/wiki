@@ -1,5 +1,5 @@
 A **derivation** is a function on an algebra that shares properties with the derivative, namely:
 
 \begin{equation}
-d(ab) = d(a)b + ad(b) \tag{Leibniz Rule}
+d(fg) = d(f)g + d(g)f\tag{Leibniz Rule}
 \end{equation}
