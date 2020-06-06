@@ -1,1 +1,1 @@
-The **symmetric group** over a set is a [[group]] whose elements are [[bijections|bijection]] of the set.
+The **symmetric group** over a [[set]] is a [[group]] whose elements are [[bijections|bijection]] of the set.
