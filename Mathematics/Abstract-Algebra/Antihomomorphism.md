@@ -1,1 +1,1 @@
-An **antihomomorphism** reverses the order of multiplication.
+An **antihomomorphism** preserves structure like [[homomorphism]] but its epithet "anti" comes from its reversal of the order of multiplication.
