@@ -1,1 +1,1 @@
-A **bit** is a unit of information representing a fair coin flip.
+A **bit** is a unit of information representing a fair coin flip. Thus, $n$ bits allows for an encoding of $2^n$ distinct values.
