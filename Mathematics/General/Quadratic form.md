@@ -9,5 +9,5 @@ $$
 A quadratic form over a [[field]] $k$ is a map $q: V \to k$ for finite dimensional [[vector space]] $V$ over $k$ such that
 
 $$
-q(x) = \langle x | A | x \rangle
+q(x) = x^\mathsf{T} A x
 $$
