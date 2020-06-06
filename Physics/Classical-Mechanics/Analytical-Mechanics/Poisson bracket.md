@@ -1,7 +1,7 @@
 The **Poisson bracket** for a [[smooth manifold]] $M$
 
 \begin{equation}
-\{\cdot, \cdot\}: C^\infty(M) \times C^\infty(M) \to C^\infty(M)
+\\{\cdot, \cdot\\}: C^\infty(M) \times C^\infty(M) \to C^\infty(M)
 \end{equation}
 
 \begin{equation}
