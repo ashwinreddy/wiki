@@ -2,3 +2,9 @@ A **group homomorphism** is a [[function]] between [[groups|group]] that preserv
 
 Trivial homomorphism
 : The homomorphism that sends everything to the identity element in $H$.
+
+A homomorphism can be shown diagramatically with a [[short exact sequence]]
+
+\begin{equation}
+0 \to \operatorname{ker}f \to A \to \operatorname{im}f \to 0
+\end{equation}
