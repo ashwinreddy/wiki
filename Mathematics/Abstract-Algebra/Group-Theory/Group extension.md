@@ -1,0 +1,1 @@
+A **group extension** describes a [[group]] in terms of a [[normal subgroup]] and a [[quotient group]].
