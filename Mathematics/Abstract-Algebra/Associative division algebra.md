@@ -1,0 +1,1 @@
+**Associative division algebra** is an [[associative algebra]]
