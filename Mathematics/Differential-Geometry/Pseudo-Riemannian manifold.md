@@ -1,0 +1,1 @@
+A **pseudo-Riemannian manifold** is a [[differentiable manifold]] with a nondegenerate [[metric tensor]].
