@@ -2,4 +2,4 @@
 
 # Examples
 
-[[http://bjlkeng.github.io/images/manifold_circle.png]]
+[[http://bjlkeng.github.io/images/manifold_circle.png|align=center]]
