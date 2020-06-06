@@ -3,3 +3,5 @@ A **coordinate system** or **chart** for a [[manifold]] $X$ is a [[homeomorphism
 $$
 \phi: \RR^n \to X
 $$
+
+A chart need not cover the whole manifold, in which case the coordinates only make sense locally.
