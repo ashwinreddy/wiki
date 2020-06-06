@@ -1,1 +1,1 @@
-A **normed division algebra** is a [[division algebra]]
+A **normed division algebra** is an algebra with division and a submultiplicative norm
