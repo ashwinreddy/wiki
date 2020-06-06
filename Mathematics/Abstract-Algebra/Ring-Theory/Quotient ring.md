@@ -1,0 +1,1 @@
+A **quotient ring** $R/I$ for [[ring]] $R$ and [[two-sided ideal|ideal]].
