@@ -1,0 +1,1 @@
+A **preorder** is a [[binary relation]] that is [[reflexive|reflexive relation]] and [[transitive]]
