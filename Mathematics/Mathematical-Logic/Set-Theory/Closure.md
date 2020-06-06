@@ -1,1 +1,1 @@
-**Closure** is the property of an [[operation]] that its domain and codomain are the same.
+**Closure** is the property of an [[function]] that its domain and codomain are the same.
