@@ -4,4 +4,4 @@ $$
 \phi: \RR^n \to X
 $$
 
-A chart need not be surjective (i.e. cover the whole manifold), in which case the coordinates only make sense locally.
+A chart need not be [[surjective|surjection]] (i.e. cover the whole manifold), in which case the coordinates only make sense locally.
