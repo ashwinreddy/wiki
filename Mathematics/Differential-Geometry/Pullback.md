@@ -1,7 +1,1 @@
-The **pullback** of a smooth map $\phi: M \to N$ at a point $p$ for smooth manifolds $M$ and $N$ is the linear map
-
-\begin{align}
-(\phi^\star)\_p: T^\star_{\phi(p)}N &\to T_p^\star M \\\\\
-\omega &\mapsto (\phi^*)_p(\omega)
-\end{align}
-
+The **pullback** for a smooth map $f: X \to Y$ between manifolds and [[differential $n$-form|differential form]]
