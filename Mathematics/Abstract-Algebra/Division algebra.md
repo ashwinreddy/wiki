@@ -1,1 +1,1 @@
-A **division algebra** is an algebra with division.
+A **division algebra** is an algebra where division is possible.
