@@ -5,3 +5,5 @@ Closed
 
 Exact
 : A differential form $\omega$ is exact if $\omega = d\alpha$.
+
+An exact form is perforce closed.
