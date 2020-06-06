@@ -1,4 +1,4 @@
-The **special linear group** $SL(n)$ is the [[group kernel]] of the [[determinant]] for the [[general linear group]] $GL(n)$ (i.e. the matrices with determinant 1).[^nsg]
+The **special linear group** $\operatorname{SL}(n)$ is the [[group kernel]] of the [[determinant]] for the [[general linear group]] (i.e. the matrices with determinant 1).[^nsg]
 
 [^nsg]: That makes $SL(n)$ a [[normal subgroup]].
 
