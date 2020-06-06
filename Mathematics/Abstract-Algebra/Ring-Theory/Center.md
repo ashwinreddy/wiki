@@ -1,0 +1,1 @@
+The **center** of a [[ring]] consists of elements $x$ such that $xy=yx$ for all $y \in R$.
