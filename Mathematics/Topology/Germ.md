@@ -1,0 +1,1 @@
+A **germ** on a [[topological space]] is a generalization of [[Taylor series]].
