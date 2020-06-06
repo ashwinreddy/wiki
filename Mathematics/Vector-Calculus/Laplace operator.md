@@ -1,5 +1,5 @@
 The **Laplace operator** of a function $f$ is the [[divergence]] of the [[gradient]]
 
 $$
-\nabla^2 f = \vec\nabla \cdot \vec\nabla
+\nabla^2 = \vec\nabla \cdot \vec\nabla
 $$
