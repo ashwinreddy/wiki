@@ -1,0 +1,1 @@
+A **polynomial ring** is a [[ring]] formed by [[polynomials|polynomial]].
