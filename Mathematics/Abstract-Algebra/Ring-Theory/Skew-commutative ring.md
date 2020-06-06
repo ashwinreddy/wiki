@@ -1,0 +1,1 @@
+A **skew-commutative ring** is a [[graded algebra]]
