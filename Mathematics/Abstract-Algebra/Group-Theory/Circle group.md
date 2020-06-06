@@ -1,5 +1,7 @@
 The **circle group** $\mathbb{T}$ is a [[group]] over [[unit circles|unit circle]] with operation rotation.
 
+# Equivalences
+
 \begin{equation}
 {\mathbb  T}\cong {\mbox{U}}(1)\cong {\mathbb  R}/{\mathbb  Z}\cong {\mbox{SO}}(2)
 \end{equation}
