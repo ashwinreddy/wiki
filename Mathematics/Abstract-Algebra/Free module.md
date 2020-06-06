@@ -1,0 +1,1 @@
+A **free module** is a [[module]] with a [[basis]].
