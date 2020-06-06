@@ -1,1 +1,1 @@
-A **monoidal category** is a [[category]] with a notion of [[tensor product]]. [[Vect|Category of vector space]]
+A **monoidal category** is a [[category]] with a notion of [[tensor product]]. [[Vect|Category of vector spaces]]
