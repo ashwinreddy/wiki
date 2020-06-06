@@ -1,4 +1,4 @@
-The **circle group** $\mathbb{T}$ is a [[group]] over [[unit circles|unit circle]] with operation rotation.
+The **circle group** $\mathbb{T}$ is a [[group]] over [[unit circles|unit circle]] with rotation as the operation.
 
 # Equivalences
 
