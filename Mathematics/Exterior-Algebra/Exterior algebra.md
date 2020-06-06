@@ -1,1 +1,1 @@
-The **exterior algebra** $\Lambda V$ of a [[vector space]] $V$ is an [[associative algebra]] generated using the [[wedge product]].
+The **exterior algebra** $\Lambda(V)$ of a [[vector space]] $V$ is an [[associative algebra]] generated using the [[wedge product]].
