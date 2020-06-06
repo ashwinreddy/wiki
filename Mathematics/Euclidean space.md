@@ -1,0 +1,1 @@
+**Euclidean space** is geometry in flat space.
