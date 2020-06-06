@@ -1,1 +1,3 @@
-A **vector field** on a [[manifold]] is a [[section]] of the [[tangent bundle]].
+A **vector field** on a [[manifold]] assigns a [[vector]]
+
+is a [[section]] of the [[tangent bundle]].
