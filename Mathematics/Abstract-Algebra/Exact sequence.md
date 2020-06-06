@@ -1,1 +1,1 @@
-An **exact sequence** is a pipeline of maps. Formally, it is a sequence $\alpha_i: A_i \to A_{i+1}$ for [[spaces|space]] $A_i$ such that the image of $\alpha_i$ is the kernel of $\alpha_{i+1}$.
+An **exact sequence** is a pipeline of maps. Formally, it is a sequence $\alpha_i: A_i \to A_{i+1}$ for [[spaces|space]] $A_i$ such that the image of $\alpha_i$ is the [[group kernel]] of $\alpha_{i+1}$.
