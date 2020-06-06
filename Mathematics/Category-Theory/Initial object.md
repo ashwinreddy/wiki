@@ -1,0 +1,1 @@
+An **initial object** for a [[category]] $C$ is an object $I \in C$ such that for all $X$ \in C$, there is a unique [[morphism]] $I \to X$.
