@@ -1,4 +1,4 @@
-A **coordinate system** or **chart** for a [[manifold]] $X$ helps map out part of the manifold (possibly all of it) using [[Cartesian space]]. The chart is a [[homomorphism]] between [[open subsets|open subset]] of the space.[^order]
+A **coordinate system** or **chart** for a [[manifold]] $X$ helps map out part of the manifold (possibly all of it) using [[Cartesian space]]. The chart is a [[homomorphism]] between [[open subsets|open set]] of the space.[^order]
 
 
 
