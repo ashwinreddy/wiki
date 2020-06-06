@@ -1,1 +1,1 @@
-The **tensor product** combines [[vector spaces|vector space]] $V$ and $W$ into $V \otimes W$.
+The **tensor product** 
