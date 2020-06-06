@@ -1,4 +1,4 @@
-An **eigenpair** for a [[linear map]] $T$ for a [[vector space]] $V$ over a [[field]] $F$ is a $(\lambda \in F, \vec{v} \in V)$ satisfying
+An **eigenpair** for a [[linear map]] $T$ for a [[vector space]] $V$ over a [[field]] $k$ is a $(\lambda \in k, \vec{v} \in V)$ satisfying
 
 \begin{equation}
 T(\vec{v}) = \lambda \vec{v} \tag{Eigenequation}
