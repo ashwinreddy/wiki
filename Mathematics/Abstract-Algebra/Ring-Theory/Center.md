@@ -1,1 +1,1 @@
-The **center** of a [[ring]] consists of elements $x$ such that $xy=yx$ for all $y \in R$. The center is a [[subring]] and [[commutative ring]] denoted $Z(R)$
+The **center** of a [[ring]] $R$ is a [[subring]] denoted $Z(R)$ of those $x \in R$ such that $xy=yx$ for all $y \in R$. The center is a [[subring]] and [[commutative ring]] 
