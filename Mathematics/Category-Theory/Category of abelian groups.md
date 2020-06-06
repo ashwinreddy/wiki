@@ -1,1 +1,1 @@
-**Ab** is the [[category]] of [[abelian groups|abelian group]]
+**Ab** is the [[concrete category]] of [[abelian groups|abelian group]]
