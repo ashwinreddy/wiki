@@ -1,1 +1,5 @@
 A **central simple algebra (CSA)** over a [[field]] $k$ is a finite-dimensional [[associative algebra]] with a [[simple ring]] whose [center](./Ring-Theory/Center) is $k$.
+
+# Examples
+
+* [[$\mathbb{C}$|complex number]] forms a CSA over itself.
