@@ -11,4 +11,4 @@
 
 
 
-For a more detailed breakdown, check the [Navigation](./Navigation) page. You can also find [Resources](./Resources)
+For a more detailed breakdown, check the [Navigation](./Navigation) page. You can also look at some [resources](./Resources).
