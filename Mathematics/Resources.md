@@ -1,9 +1,12 @@
-Some useful math resources include:
+This page includes links to a number of helpful math resources.
 
-* [MathWorld](https://mathworld.wolfram.com/)
+
+* If Wikipedia is being too long-winded, try [MathWorld](https://mathworld.wolfram.com/)
+* If you want a technical but readable explanation that taps into category theory, try [nLab](https://ncatlab.org/nlab/show/HomePage)
+
 * Evan Chen's [Napkin](https://web.evanchen.cc/napkin.html)
 * [[http://realnotcomplex.com/]]
-* [nLab](https://ncatlab.org/nlab/show/HomePage)
+
 * Maybe [this](https://github.com/rossant/awesome-math), haven't actually looked at it much
 
 * [Tips for mathematical handwriting](https://johnkerl.org/doc/ortho/ortho.html)
