@@ -1,1 +1,1 @@
-An **atlas** collects [[charts|coordinate system]] into a complete map, known as an [[open cover]], for a [[manifold]].
+An **atlas** $\mathscr{A}$ collects [[charts|coordinate system]] into a complete map, known as an [[open cover]], for a [[manifold]].
