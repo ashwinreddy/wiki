@@ -1,1 +1,1 @@
-A **central simple algebra (CSA)** over a [[field]] $k$ is a finite-dimensional [[associative algebra]]
+A **central simple algebra (CSA)** over a [[field]] $k$ is a finite-dimensional [[associative algebra]] with a [[simple ring]]
