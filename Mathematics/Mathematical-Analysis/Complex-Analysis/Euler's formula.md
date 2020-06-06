@@ -1,7 +1,7 @@
 **Euler's formula**
 
 \begin{equation}
-e^{ix} = \cos x + \iota \sin x
+e^{ix} = \cos x + \iota \sin x \tag{Euler}
 \end{equation}
 
 Euler's original proof simply showed this using [[Maclaurin series]] for [[sine]] and [[cosine]].
