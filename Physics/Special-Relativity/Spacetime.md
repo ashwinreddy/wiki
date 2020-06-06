@@ -1,4 +1,4 @@
-**Spacetime** welds 3-dimensional space and one-dimensional time into a (3, 1)-dimensional Lorentzian [[manifold]].
+**Spacetime** welds 3-dimensional space and 1-dimensional time into a (3, 1)-dimensional Lorentzian [[manifold]].
 
 # Spacetime/Lorentz Interval
 
