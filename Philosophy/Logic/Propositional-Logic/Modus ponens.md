@@ -1,1 +1,0 @@
-Modus ponens says that $\left(\left(P \implies Q\right) \land P\right) \implies Q$.
