@@ -1,1 +1,1 @@
-A **\*-algebra** is an 
+A **\*-algebra** is an [[associative algebra]]
