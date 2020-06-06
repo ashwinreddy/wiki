@@ -1,0 +1,1 @@
+A **division ring** is a [[ring]] with division.
