@@ -1,1 +1,1 @@
-A **bifunctor** is a [[functor]] whose [[domain]]
+A **bifunctor** is a [[functor]] whose [[domain]] is a [[product category]].
