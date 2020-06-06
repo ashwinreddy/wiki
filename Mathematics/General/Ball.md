@@ -2,7 +2,7 @@ A **ball** in mathematics is the volume inside a sphere. A closed ball includes 
 
 # Open Ball
 
-The open $n$-ball is [[diffeomorphic|diffeomorphism]] to [[Euclidean space]].
+The open $n$-ball is [[diffeomorphic|diffeomorphism]] to [[Cartesian space]].
 
 \begin{equation}
 B^n \cong \RR^n
