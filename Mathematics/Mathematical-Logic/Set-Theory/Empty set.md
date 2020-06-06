@@ -1,0 +1,1 @@
+The **empty set** is a [[set]] with no elements.
