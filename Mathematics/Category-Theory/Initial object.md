@@ -1,1 +1,5 @@
-An **initial object** for a [[category]] $C$ is an object $I \in C$ such that for all $X$ \in C$, there is a unique [[morphism]] $I \to X$.
+An **initial object** for a [[category]] $C$ is a special object.
+
+# Examples
+
+* [[Empty set]] is the initial object for [[Set|Category of sets]]
