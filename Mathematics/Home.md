@@ -1,4 +1,3 @@
-# Overview
 
 |Applications|Abstract|Mathematical|
 |------|---------|-------------|
