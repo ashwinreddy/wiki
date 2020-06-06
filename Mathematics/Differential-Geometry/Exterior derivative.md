@@ -1,4 +1,4 @@
-The **exterior derivative** of a $p$-form $A$ is a $p+1$-form $\dd{A}$.
+The **exterior derivative** of is an operator $\mathbb{d}: \Omega^p(X) \to \Omega^{p+1}(X)$ for a manifold $X$ where $\Omega$ is the set of [[differential forms|differential form]].
 
 
 $$
