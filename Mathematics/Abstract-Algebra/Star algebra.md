@@ -1,1 +1,1 @@
-A **\*-algebra** is an [[associative algebra]]
+A **\*-algebra** is an [[associative algebra]] with a map $*: A \to A$
