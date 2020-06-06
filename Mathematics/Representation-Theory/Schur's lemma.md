@@ -1,0 +1,1 @@
+**Schur's lemma** says that if $M$ and $N$ are [[irreps|irreducible representations]] of $G$ and $\phi: M \to N$ is a [[linear map]] that commutes with the [[group action]], $\phi$ is either invertible or zero.
