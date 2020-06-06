@@ -1,0 +1,1 @@
+A **magma** is a [[set]] with a [[binary operation]]
