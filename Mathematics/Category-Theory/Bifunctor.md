@@ -1,0 +1,1 @@
+A **bifunctor** is a [[functor]] whose [[domain]]
