@@ -2,4 +2,5 @@ A **central simple algebra (CSA)** over a [[field]] $k$ is a finite-dimensional 
 
 # Examples
 
-* [[$\mathbb{C}$|complex number]] forms a CSA over itself.
+* The [[complex numbers|complex number]] $\mathbb{C}$ forms a CSA over itself.
+* The [[quaternions|quaternion]] $\mathbb{H}$ form a 4-dimensional CSA over [[reals|real number]] $\mathbb{R}$.
