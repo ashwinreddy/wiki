@@ -1,1 +1,1 @@
-A **quotient ring** $R/I$ for [[ring]] $R$ and [[two-sided ideal|ideal]].
+A **quotient ring** $R/I$ for [[ring]] $R$ and [[two-sided ideal|ideal]] $I$ is a ring whose elements are the [[cosets|coset]] of $I$.
