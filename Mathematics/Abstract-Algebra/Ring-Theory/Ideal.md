@@ -4,7 +4,7 @@ Two-sided ideal
 : An ideal that works for both left and right multiplication.
 
 Zero ideal
-: The ideal consisting of just the additive identity.
+: The ideal consisting of just the additive identity. Every ideal contains it.
 
 # Examples
 
