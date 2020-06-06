@@ -1,0 +1,1 @@
+A **surjective function** is a right-total [[function]].
