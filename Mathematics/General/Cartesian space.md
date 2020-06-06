@@ -1,1 +1,1 @@
-**Cartesian space** is our good old friend $\mathbb{R}^n$.
+**Cartesian space** is our the [[vector space]] $\mathbb{R}^n$.
