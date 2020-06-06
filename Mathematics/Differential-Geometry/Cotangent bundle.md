@@ -1,1 +1,1 @@
-The **cotangent bundle** $T^* M$ for a [[manifold]] $M$ houses [[differential forms|differential form]]
+The **cotangent bundle** $T^* M$ for a [[manifold]] $M$ houses [[differential forms|differential form]].
