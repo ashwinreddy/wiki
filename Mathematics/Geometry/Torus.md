@@ -1,1 +1,1 @@
-An $n$-dimensional **torus** $T^n$ is the product of $n$ circles.
+A **torus** is a donut. Topologically, it's the product of [[circles|circle group]]
