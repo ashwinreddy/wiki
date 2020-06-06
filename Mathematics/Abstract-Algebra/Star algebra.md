@@ -1,0 +1,1 @@
+A **\*-algebra** is an 
