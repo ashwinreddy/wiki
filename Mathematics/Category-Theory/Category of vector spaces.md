@@ -1,1 +1,1 @@
-**Vec** is the [[category]] of [[vector spaces|vector space]].
+**Vec** is the [[category]] of [[vector spaces|vector space]] with [[linear transformation]]
