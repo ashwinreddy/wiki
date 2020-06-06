@@ -1,1 +1,1 @@
-A **module** 
+A **module** over a [[ring]] is like a [[vector space]] over a [[field]]. 
