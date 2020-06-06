@@ -1,4 +1,4 @@
-The healthy way to think about the **exponential function** is by its [[Maclaurin series]],
+The healthy way to think about the **exponential function** is by its [[Maclaurin series|Taylor series]],
 
 \begin{equation}
 \label{eq:defn}
