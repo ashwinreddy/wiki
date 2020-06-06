@@ -1,0 +1,1 @@
+The **Laplace operator** of a function $f$ is the [[divergence]] of the [[gradient]]
