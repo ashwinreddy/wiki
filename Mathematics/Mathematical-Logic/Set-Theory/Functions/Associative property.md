@@ -1,5 +1,5 @@
-A [[binary operation]] $f$ has the **associative property** if
+A [[binary operation]] $\cdot$ has the **associative property** if
 
 $$
-f(a, f(b, c)) \equiv f(f(a, b), c)
+a\cdot (b\cdot c) = (a \cdot b) \cdot c
 $$
