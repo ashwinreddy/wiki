@@ -1,1 +1,1 @@
-A **concrete category** is a [[category]] $C$ with a [[faithful functor]] $U: C \to \text{Set}$ to the [[Set|category of sets]]
+A **concrete category** is a [[category]] $C$ with a [[faithful functor]] to [[Set|category of sets]]
