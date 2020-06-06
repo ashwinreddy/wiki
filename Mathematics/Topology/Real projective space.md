@@ -1,1 +1,1 @@
-The **real projective space** RP$^n$
+The **real projective space** is the [[topological space]] of lines passing through the origin in [[Cartesian space]] $\RR^{n+1}$.
