@@ -1,1 +1,1 @@
-A **metric space** is [[set]] with a metric.
+A **metric space** is [[set]] with a [[metric]].
