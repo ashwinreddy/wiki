@@ -1,1 +1,0 @@
-**Ado's theorem** says that every Lie algebra is isomorphic to a matrix Lie algebra.
