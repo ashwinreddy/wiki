@@ -1,4 +1,1 @@
-**Manifolds** help us plot out a [[topological space]] using familiar [[Cartesian space]]. First, we need charts.
-
-Chart
-: 
+**Manifolds** help us plot out a [[topological space]] using familiar [[Cartesian space]]. First, we need [[charts|coordinate system]].
