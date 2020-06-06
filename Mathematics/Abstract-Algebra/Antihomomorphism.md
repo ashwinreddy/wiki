@@ -1,0 +1,1 @@
+An **antihomomorphism** reverses the order of multiplication.
