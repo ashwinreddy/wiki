@@ -1,1 +1,1 @@
-A **surjective function** is a right-total [[function]]. In other words, a surjective function fills out its codomain.
+A **surjection** is a right-total [[function]]. In other words, a surjective function fills out its codomain.
