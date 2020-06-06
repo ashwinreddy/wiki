@@ -1,12 +1,5 @@
 A **complex number** is a $z = a + b \iota$ for $a, b \in \RR$ and $\iota$ the [[imaginary unit]].
 
-# Methods
-
-The conjugate of a complex number is
-
-\begin{equation}
-\overline{a + b \iota} \equiv a - b \iota
-\end{equation}
 
 # As a Matrix
 
