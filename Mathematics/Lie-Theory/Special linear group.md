@@ -5,5 +5,5 @@ The **special linear group** $SL(n)$ is the [[group kernel]] of the [[determinan
 The special linear group participates in a [[short exact sequence]]:
 
 \begin{equation}
-0 \rightarrow SL_F(n) \rightarrow GL_F(n) \rightarrow F^\times \rightarrow 0
+0 \rightarrow \operatorname{SL}(n) \rightarrow \operatorname{GL}(n) \rightarrow F^\times \rightarrow 0
 \end{equation}
