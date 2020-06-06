@@ -1,0 +1,1 @@
+The **restriction** of a [[function]] is a copy of the function on a [[subset]] of its [[domain]].
