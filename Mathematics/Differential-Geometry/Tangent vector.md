@@ -1,1 +1,1 @@
-A **tangent vector** at a point $p$ for a [[manifold]] $M$ is an element of the [[tangent space]] $T_p M$.
+A **tangent vector** at a point $p$ for a [[manifold]] $M$ is an [[vector]] in the [[tangent space]] $T_p M$.
