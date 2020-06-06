@@ -1,0 +1,1 @@
+A **presheaf** on a [[category]] is a [[functor]] $F: C^{op} \to \text{Set}$.
