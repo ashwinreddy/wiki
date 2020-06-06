@@ -1,1 +1,1 @@
-**Cartesian space** is $\mathbb{R}^n$
+**Cartesian space** is our good old friend $\mathbb{R}^n$.
