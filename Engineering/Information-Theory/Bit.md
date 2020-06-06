@@ -1,1 +1,1 @@
-A **bit** is a unit of information representing a [[Bernoulli distribution]] with $p=0.5$.
+A **bit** is a unit of information representing a fair coin flip.
