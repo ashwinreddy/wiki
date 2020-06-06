@@ -1,1 +1,1 @@
-A **homeomorphism** is a topological [[isomorphism]] in [[Top|Category of topological spaces]]. It is a [[bijection]] between [[manifold]] that is [[continuous|continuous function]] in both directions.
+A **homeomorphism** is a topological [[isomorphism]] in [[Top|Category of topological spaces]]. It is a [[bijection]] between [[manifolds|manifold]] that is [[continuous|continuous function]] in both directions.
