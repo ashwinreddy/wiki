@@ -1,4 +1,4 @@
 A **group homomorphism** is a [[function]] between [[groups|group]] that preserves structure. It is a $f: G\to H$ for [[group]]s $G$ and $H$ such that $f(g_1g_2)=f(g_1)f(g_2)$. 
 
 Trivial homomorphism
-: The map that sends everything to the identity element in $H$.
+: The homomorphism that sends everything to the identity element in $H$.
