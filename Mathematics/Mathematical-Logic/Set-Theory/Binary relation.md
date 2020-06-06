@@ -2,4 +2,9 @@ A **binary relation** on [[sets|set]] $X$ and $Y$ is a [[subset]] of the [[Carte
 
 # Special types
 
+Injective / Left-unique
+: $xRy$ and $zRy$ means $x=z$
+
+
+
 [[https://en.wikipedia.org/wiki/Binary_relation#Special_types_of_binary_relations]]
