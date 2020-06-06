@@ -1,0 +1,1 @@
+A **class** is a collection of sets.
