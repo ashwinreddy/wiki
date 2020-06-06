@@ -2,4 +2,4 @@ A **ball** in mathematics is the volume inside a sphere. A closed ball includes 
 
 # Open Ball
 
-The open $n$-ball is [[diffeomorphic]] to [[Euclidean space]].
+The open $n$-ball is [[diffeomorphism]] to [[Euclidean space]].
