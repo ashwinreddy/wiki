@@ -1,0 +1,1 @@
+An **exact sequence** is a [[sequence]] of maps between [[spaces|space]] $A_i$ $\alpha_i$
