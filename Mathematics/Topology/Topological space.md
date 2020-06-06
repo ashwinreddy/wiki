@@ -1,1 +1,1 @@
-A **topological space** is a [[set]] of points along with [[open set]]
+A **topological space** is a [[set]] of points along with [[open sets]]
