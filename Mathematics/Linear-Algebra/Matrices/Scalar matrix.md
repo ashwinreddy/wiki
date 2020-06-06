@@ -1,0 +1,1 @@
+A **scalar matrix** is a matrix of the form $\lambda I$ where $I$ is the [[identity matrix]]
