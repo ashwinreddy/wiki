@@ -1,1 +1,1 @@
-A **module** is an object with an action by a [[monoid]].
+A **module** 
