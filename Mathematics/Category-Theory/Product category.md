@@ -1,1 +1,1 @@
-The **product category** categorifies [[Cartesian product]] of [[categories|category]].
+The **product category** "categorifies" the [[Cartesian product]] of [[categories|category]].
