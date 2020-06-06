@@ -1,0 +1,1 @@
+The **exterior algebra** $\Lambda V$ of a [[vector space]] $V$ is generated using the [[wedge product]].
