@@ -15,11 +15,11 @@ $$
 \exp \left({\begin{bmatrix}0 & -x \\ x & 0\end{bmatrix}}\right) = \begin{bmatrix}\cos x & -\sin x \\ \sin x & \cos x\end{bmatrix}
 $$
 
-[[https://upload.wikimedia.org/wikipedia/en/d/d0/Euler%27s_formula_commutative_diagram.png|align=center]]
+[[https://i0.wp.com/peterjamesthomas.com/wp-content/uploads/2017/03/s1-tangent-space.png|align=center]]
 
 # Topological meaning
 
-[[https://i0.wp.com/peterjamesthomas.com/wp-content/uploads/2017/03/s1-tangent-space.png|align=center]]
+[[https://upload.wikimedia.org/wikipedia/en/d/d0/Euler%27s_formula_commutative_diagram.png|align=center]]
 
 
 # Proof
