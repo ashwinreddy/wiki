@@ -1,1 +1,1 @@
-A **differential** is an infinitesimal change in a variable $x$ denoted $\dd{x}$.
+A **differential** is an infinitesimal change in a variable $x$ denoted $\dd{x}$. A differential can be more precisely formulated using [[differential forms|differential form]].
