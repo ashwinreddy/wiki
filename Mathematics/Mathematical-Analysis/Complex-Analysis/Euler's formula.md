@@ -6,8 +6,6 @@ e^{ix} = \overbrace{\cos x + \iota \sin x}^{\text{unit circle}} \tag{Euler}
 
 This idea can be more dramatically explained with a graph, by showing the left hand side as a vertical line and the right hand side as the [[circle group]]
 
-[[https://i0.wp.com/peterjamesthomas.com/wp-content/uploads/2017/03/s1-tangent-space.png|align=center]]
-
 
 The fact that complex numbers can be [[represented as a matrix|complex number#as-a-matrix]] suggests that we can also write Euler's formula as relating a [[matrix exponential]] of a [[skew-symmetric matrix]] and a [[rotation matrix]].
 
@@ -16,6 +14,11 @@ $$
 $$
 
 [[https://upload.wikimedia.org/wikipedia/en/d/d0/Euler%27s_formula_commutative_diagram.png|align=center]]
+
+# Topological meaning
+
+[[https://i0.wp.com/peterjamesthomas.com/wp-content/uploads/2017/03/s1-tangent-space.png|align=center]]
+
 
 # Proof
 
