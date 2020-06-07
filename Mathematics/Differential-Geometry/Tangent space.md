@@ -1,1 +1,1 @@
-A **tangent space** of a [[manifold]] at a point is a local copy of $\RR^n$.
+A **tangent space** of a [[manifold]] at a point is a local copy of $\RR^n$ that can house [[tangent vectors|tangent vector]].
