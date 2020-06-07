@@ -4,7 +4,7 @@ A **skew-symmetric matrix** is a [[square matrix]] $A$ such that
 \boxed{A^\top = - A}
 \end{equation}
 
-Skew-symmetric matrices make up the [[Lie algebra]] $\mathfrak{so}(n)$ for the [[special orthogonal group]].
+Skew-symmetric matrices make up the [[Lie algebra]] $\mathfrak{so}(n)$ for the [[special orthogonal group]] $SO(n)$.
 
 # Properties
 
