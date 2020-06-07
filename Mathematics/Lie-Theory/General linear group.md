@@ -5,5 +5,5 @@ We can also construct a general linear group from a [[vector space]] $V$ by coll
 For finite-dimensions, it is the [[automorphism group]] for the vector space.
 
 \begin{equation}
-\dim \operatorname{GL}_\RR(n)
+\dim \operatorname{GL}_\RR(n) = n^2
 \end{equation}
