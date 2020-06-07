@@ -1,7 +1,7 @@
 The **special orthogonal group** $\operatorname{SO}(n)$ is the [[group]] of [[$n \times n$ matrices|square matrix]] with unit [[determinant]]. It is a [[subgroup]] of the [[orthogonal group]].
 
 \begin{equation}
-\operatorname{SL}(n) \supset \operatorname{SO}(n) \subset O(n) \subset GL(n)
+\operatorname{SL}(n) \supset \operatorname{SO}(n) \subset O(n)
 \end{equation}
 
 Elements of $SO(n)$ are path-connected while elements of $O(n)$ are not. 
