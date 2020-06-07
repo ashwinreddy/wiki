@@ -4,7 +4,7 @@ The **directional derivative** is a generalization of the [[partial derivative]]
 D_{\vec{v}} f(\vec{x}) = \lim_{t \to 0}\frac{f(\vec{x} + t\vec{v}) - f(\vec{x})}{t}
 \end{equation}
 
-As a concrete example, imagine the function $f$ is a scalar field with the temperature at each point. The directional derivative tells you how much hotter/cooler it's getting if you run in a certain direction. Therefore, one way to compute the directional derivative is to ask a friend $\gamma$ to run through the point $p=\gamma(0)$ at that speed and ask them how much hotter it's getting.
+As a concrete example, imagine the function $f$ is a scalar field with the temperature at each point. The directional derivative tells you how much hotter/cooler it's getting if you run in a certain direction. Therefore, one way to compute the directional derivative is to ask a friend $\gamma$ to run through the point $p=\gamma(0)$ at that speed $X=\gamma'(0)$ and ask them how much hotter it's getting.
 
 \begin{equation}
 \nabla_X f(x) = \left[\dv{}{t} f(\gamma(t))\right]_{t=0}
