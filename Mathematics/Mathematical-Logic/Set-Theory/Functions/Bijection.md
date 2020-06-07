@@ -1,1 +1,1 @@
-A **bijection** is a [[function]] that is both [[injective]] and [[surjective]]. It is an [[isomorphism]] in [[Set|category of sets]]
+A **bijection** is a [[function]] that is both [[injection]] and [[surjective]]. It is an [[isomorphism]] in [[Set|category of sets]]
