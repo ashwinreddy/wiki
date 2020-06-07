@@ -7,5 +7,5 @@ Q_8 = \langle \bar{e}, i, j, k | \bar{e}^2 = e, i^2 = j^2 = k^2 = ijk = \bar{e} 
 The group has a [[group representation]]
 
 \begin{equation}
-\rho : Q_8 \to \operatorname{GL}_2(\mathbb{C})
+\rho : Q_8 \to \operatorname{GL}(2; \mathbb{C})
 \end{equation}
