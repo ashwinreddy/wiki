@@ -15,6 +15,8 @@ $$
 \det(Q^\top Q) = (\det Q)^2 = \det I = 1 \implies \det Q = \pm 1
 $$
 
+However, having a $\pm 1$ determinant does not guarantee orthonormality.
+
 * The norm of a vector is invariant to an orthonormal transformation. Basically, all orthogonal matrices can do is rotate.
 
 \begin{align\*}
