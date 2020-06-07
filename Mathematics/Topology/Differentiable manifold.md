@@ -1,1 +1,0 @@
-A **differentiable manifold** is a [[manifold]] with an appropriate compatible [[atlas]].
