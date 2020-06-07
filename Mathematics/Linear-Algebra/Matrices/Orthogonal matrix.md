@@ -2,10 +2,12 @@ An **orthogonal matrix** is a [[square matrix]] $Q$ whose rows/columns are [[ort
 
 \begin{equation}
 \label{eq:orth-def}
-Q^\top Q = QQ^\top = I \iff Q^\top = Q^{-1}
+Q^\top Q = QQ^\top = I
 \end{equation}
 
 # Properties
+
+* $Q$ is orthogonal iff its transpose is its inverse.
 
 * $Q$ is orthogonal if and only if its transpose is as well.
 
