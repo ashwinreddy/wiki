@@ -1,4 +1,4 @@
-**SU(2)** is the [[group]] of [[unit quaternions|quaternion]].  It belongs to the [[special unitary group]] family.
+**SU(2)** is a [[subgroup]] of [[quaternion group]] with only [[unit quaternions|quaternion]]. It belongs to the [[special unitary group]] family.
 
 $$
 {\displaystyle \operatorname {SU} (2)=\left\{{\begin{pmatrix}\alpha &-{\overline {\beta }}\\\beta &{\overline {\alpha }}\end{pmatrix}}:\ \ \alpha ,\beta \in \mathbb {C} ,|\alpha |^{2}+|\beta |^{2}=1\right\}~,}
