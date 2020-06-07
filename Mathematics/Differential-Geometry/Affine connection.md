@@ -2,5 +2,5 @@ An **affine connection** on a [[smooth manifold|differentiable manifold]] connec
 
 \begin{align}
 \Gamma(TM) \times \Gamma(TM) &\rightarrow \Gamma(TM) \\\\\
-(X, Y) &\mapsto 
+(X, Y) &\mapsto \nabla_X Y
 \end{align}
