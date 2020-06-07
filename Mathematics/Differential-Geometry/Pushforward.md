@@ -4,3 +4,4 @@ The **pushforward** is the idea of a [[derivative]] at a point in the differenti
 \dd{\varphi_x}: T_x M \to T_{\varphi(x)} N
 \end{equation}
 
+This map is to give us the best linear approximation to $\varphi$ near $x$.
