@@ -2,7 +2,7 @@ A **group representation** describes a [[group]] $G$ using matrices.
 
 \begin{align\*}
 \rho: G &\to \operatorname{GL}(V) \\\\\
-h=g_1g_2 &\mapsto \rho(g_1)\rho(g_2)
+g_1g_2 &\mapsto \rho(g_1)\rho(g_2)
 \end{align\*}
 
 
