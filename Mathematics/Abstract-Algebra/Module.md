@@ -1,1 +1,1 @@
-A **module** over a [[ring]] is a generalization of the idea of a [[vector space]] over a [[field]].
+A **module** over a [[ring]] is a generalization of the idea of a [[vector space]] over a [[field]]. It consists of an [[abelian group]] with an operator with some properties.
