@@ -2,6 +2,6 @@ A **group representation** describes a [[group]] $G$ using matrices. Formally, t
 
 \begin{align\*}
 \rho: G &\longrightarrow \operatorname{GL}(V) \\\\\
-g_1g_2 &\mapsto \rho(g_1)\rho(g_2)
+g_1g_2 &\longmapsto \rho(g_1)\rho(g_2)
 \end{align\*}
 
