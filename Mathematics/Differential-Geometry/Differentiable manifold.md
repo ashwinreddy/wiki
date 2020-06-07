@@ -1,1 +1,1 @@
-A **differentiable manifold** is a [[manifold]] with enough structure to do calculus. Practically, this requires that the manifold is locally similar enough to a linear space.
+A **differentiable manifold** is a [[manifold]] with enough structure to do calculus. Geometrically, this means the manifold is locally similar enough to a linear space.
