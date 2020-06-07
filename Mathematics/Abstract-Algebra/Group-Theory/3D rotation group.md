@@ -1,4 +1,4 @@
-The **3D rotation group** $SO(3)$ is a special case of the [[special orthogonal group]] of order $3$.
+The **3D rotation group** $SO(3)$ is the [[special orthogonal group]] of order $3$. It is a [[simple Lie group]].
 
 # [[Lie algebra]]
 
