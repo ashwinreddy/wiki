@@ -4,3 +4,6 @@
 \epsilon = \begin{bmatrix} 0 & 1 \\\\\ 0 & 0 \end{bmatrix}
 \end{equation}
 
+# Abstract construction
+
+We can also describe dual numbers as the [[quotient ring]] of the [[polynomial ring]] $R[X]$ divided by the ideal $X^2$.
