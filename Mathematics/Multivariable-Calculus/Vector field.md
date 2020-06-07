@@ -6,6 +6,6 @@ F: M \to TM
 
 But we also need to ensure that $F(p)$ for a point $p \in M$ belongs to its tangent space. Consider $p$ a [[projection]] from $TM$ to $M$ that takes a tangent vector to its point. $F$ must also satisfy
 
-$$
+\begin{equation}
 p \circ F = \operatorname{id}
-$$
+\end{equation}
