@@ -5,5 +5,5 @@
 \end{equation}
 
 \begin{equation}
-\oint
+\oiint
 \end{equation}
