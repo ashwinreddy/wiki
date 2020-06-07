@@ -4,3 +4,5 @@ An **affine connection** on a [[smooth manifold|differentiable manifold]] connec
 \Gamma(TM) \times \Gamma(TM) &\rightarrow \Gamma(TM) \\\\\
 (X, Y) &\mapsto \nabla_X Y
 \end{align}
+
+<<Warning("Lots of confusion here")>>
