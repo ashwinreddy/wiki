@@ -9,3 +9,6 @@ A **Lie bracket** for a [[Lie algebra]] $\mathfrak{g}$ is a [[binary operation]]
 * [[include:Jacobi identity]]
 
 * These properties do _not_ imply [[associativity|associative property]].
+
+Trivial bracket
+: The bracket $[v, w]=0$ satisfies all these properties.
