@@ -1,1 +1,1 @@
-A **discrete space** is the most trivial example of a [[topological space]] because it can be applied to any set. Every [[subset]] of the set is open.
+A **discrete space** is the most trivial example of a [[topological space]] because it can be applied to any [[set]]. Every [[subset]] of the set is open.
