@@ -1,4 +1,6 @@
-**Quaternions** are an extension of [[complex numbers | complex number]] to 4 dimensions, hence the prefix "quat". The discovery of quaternions was enabled by Sir William Rowan Hamilton, who developed the multiplication rules in a eureka moment.
+**Quaternions** are an extension of [[complex numbers | complex number]] to 4 dimensions.[^pref] The discovery of quaternions was enabled by Sir William Rowan Hamilton, who developed the multiplication rules in a eureka moment.
+
+[^pref]: Hence the prefix "quat."
 
 \begin{equation}
 \label{eq:hamilton}
