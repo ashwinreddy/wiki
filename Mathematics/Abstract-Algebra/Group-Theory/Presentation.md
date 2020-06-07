@@ -1,1 +1,1 @@
-A **presentation** is a description of a [[group]] using [[generator]]
+A **presentation** is a description of a [[group]] using a [[generator]] and any additional relations.
