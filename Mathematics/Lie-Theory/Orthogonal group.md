@@ -6,4 +6,4 @@ The **orthogonal group** $O(n)$ is the [[group]] of [[$n\times n$ matrices|squar
 
 # [[Lie algebra]]
 
-The Lie algebra consists of [[skew-symmetric matrices|skew-symmetric matrix]]. First, we look at the [[tangent space]] $T_e O(n)$ where $e$ is the [[identity matrix]]. Let $A(t)$ be a smooth path going through the identity.
+The Lie algebra consists of [[skew-symmetric matrices|skew-symmetric matrix]]. First, we look at the [[tangent space]] $T_e O(n)$ where $e$ is the [[identity matrix]]. 
