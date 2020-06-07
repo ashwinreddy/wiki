@@ -6,6 +6,12 @@ The **directional derivative** gives the rate of increase of a scalar function i
 
 # In Coordinates
 
+For quick and dirty calculations, we can use the formula
+
+\begin{equation}
+\nabla_X f = X \cdot \vec\nabla f
+\end{equation}
+
 
 The directional derivative can be built up using [[partial derivative]]. Where a partial derivative measures the local rate of change for a single variable assuming unit speed, the directional derivative tells us the rate of change while moving with any velocity $\vec{v}$.
 
