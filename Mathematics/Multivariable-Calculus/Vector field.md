@@ -11,3 +11,7 @@ p \circ F = \operatorname{id}
 \end{equation}
 
 Shortcircuiting the mathematical construction, a vector field maps open subsets of $\RR^n$ to $\RR^n$ once a choice of coordinates has been imposed.
+
+# [[Lie algebra]]
+
+The vector fields in $\Gamma(TM)$ constitute a 
