@@ -4,4 +4,4 @@ A **derivation** is a [[linear map]] on an [[algebra over a field]] that shares 
 d(ab) = d(a)b + ad(b) \tag{Leibniz Rule}
 \end{equation}
 
-The [[commutator]] of derivations is itself a derivation.
+The [[commutator]] of derivations is itself a derivation, which means a
