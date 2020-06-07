@@ -1,1 +1,5 @@
-In a formal/abstract mathematical sense, a vector on its own doesn't really make any sense. However, for physics, we can use vectors as independent entitites.
+A **vector** in physics is slightly different to the notion of a vector in mathematics.
+
+\begin{equation}
+V_i' = \sum_{j=1}^n \pdv{y_i}{x_j} V_j
+\end{equation}
