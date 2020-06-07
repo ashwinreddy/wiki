@@ -1,0 +1,1 @@
+A **split-complex number** or **motor variable** is a number of the form $z = x + jy$ where $j^2 = 1$.
