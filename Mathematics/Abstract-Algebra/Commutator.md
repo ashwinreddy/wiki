@@ -1,0 +1,1 @@
+The **commutator** is an operation that measures failure of [[commutativity|commutative property]].
