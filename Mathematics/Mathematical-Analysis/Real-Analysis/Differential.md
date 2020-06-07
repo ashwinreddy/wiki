@@ -1,0 +1,1 @@
+A **differential** is an infinitesimal change in a variable $x$ denoted $\dd{x}$.
