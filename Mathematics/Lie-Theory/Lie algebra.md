@@ -1,6 +1,7 @@
-A **Lie algebra** is a [[vector space]] with a [[Lie bracket]] operation. For a [[Lie group]] $G$, the algebra $\mathfrak{g}$ is the [[tangent space]] $T_eG$ where $e$ is the identity on $G$. 
+A **Lie algebra** is a [[vector space]] with a [[Lie bracket]] operation. 
 
-The Lie algebra does not always entirely capture the group because different groups can have the same algebra.
+
+For a [[Lie group]] $G$, the algebra $\mathfrak{g}$ is the [[tangent space]] $T_eG$ where $e$ is the identity on $G$. The Lie algebra does not always entirely capture the group because different groups can have the same algebra.
 
 Ideal
 : An ideal $\mathfrak{h}$ is a subspace of $\mathfrak{g}$ [[closed|closure]] under [[Lie bracket]] with every member of $\mathfrak{g}$.
