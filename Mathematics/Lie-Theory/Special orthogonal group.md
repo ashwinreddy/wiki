@@ -14,3 +14,4 @@ Elements of $SO(n)$ are path-connected while elements of $O(n)$ are not.
 
 
 There is a 2-to-1 [[homomorphism]] from $SU(2)\times SU(2) \to SO(4)$
+
