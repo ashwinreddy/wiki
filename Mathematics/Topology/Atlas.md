@@ -8,3 +8,9 @@ Transition maps are wrapped inside the abstraction of an atlas and hopefully do 
 \begin{equation}
 U_{ij} = U_i \cap U_j
 \end{equation}
+
+The transition map is a coordinate transformation from $U_i$ to $U_j$:
+
+\begin{equation}
+\RR^n \supset \phi_i^{-1}(U_{ij}) \xrightarrow{\phi_i} U_{ij} \xrightarrow{\phi_j^{-1}} \phi_j^{-1}(U_{ij}) \subset \RR^n
+\end{equation}
