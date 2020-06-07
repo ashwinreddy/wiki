@@ -1,4 +1,4 @@
-A **Lie group** is a [[topological group]] $(G, \cdot)$ where the topology is a [[smooth manifold|differentiable manifold]] and multiplication and inversion are smooth functions. A Lie group can be [[well understood|Lie group–Lie algebra correspondence]] by a [[Lie algebra]].
+A **Lie group** is a [[topological group]] $(G, \cdot)$ where the topology is a [[smooth manifold|differentiable manifold]] and multiplication and inversion are smooth. A Lie group can be [[well understood|Lie group–Lie algebra correspondence]] by a [[Lie algebra]].
 
 A locally Lie group (i.e. group operations are smooth near the origin) is necessary and sufficient to be a Lie group.[^tao]
 
