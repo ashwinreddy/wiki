@@ -2,7 +2,7 @@
 
 # Forward mode
 
-# Dual numbers
+## Dual numbers
 
 For an analytic function $f$, 
 
