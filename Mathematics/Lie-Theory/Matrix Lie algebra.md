@@ -2,4 +2,3 @@ For a [[matrix Lie group]], the **matrix Lie algebra** is given by those $n \tim
 
 Informally, an element $x$ of the algebra is associated with a perturbation $1 + \epsilon x + O(\epsilon^2)$ on the group.
 
-[Tao](https://terrytao.wordpress.com/2011/05/10/ados-theorem/) defines a concrete Lie algebra as a $\mathfrak{g} \subset \operatorname{End}V$, which is slightly broader than the notion of a matrix.
