@@ -7,4 +7,4 @@ A **Lie bracket** for a [[Lie algebra]] $\mathfrak{g}$ is a [[binary operation]]
 
 * [[include:Jacobi identity]]
 
-These properties do _not_ imply [[associativity|associative property]].
+* These properties do _not_ imply [[associativity|associative property]].
