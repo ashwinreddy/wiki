@@ -4,7 +4,7 @@ The **special orthogonal group** $\operatorname{SO}(n)$ is the [[matrix Lie grou
 \operatorname{SO}(n) \subset O(n) 
 \end{equation}
 
-Elements of $SO(n)$ are path-connected while elements of $O(n)$ are not. 
+Elements of $SO(n)$ are path-connected while elements of [[orthogonal group]] $O(n)$ are not. 
 
 |$n$|Name|
 |:--:|:----:|
