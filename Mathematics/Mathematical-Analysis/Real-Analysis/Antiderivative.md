@@ -1,0 +1,1 @@
+The **antiderivative** is the opposite of a [[derivative]]. The antiderivative of a [[function]] $f$ is the function $F$ whose derivative is $f$.
