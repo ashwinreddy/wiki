@@ -1,4 +1,4 @@
-**Quaternions** are an extension of [[complex numbers | complex number]] to 4 dimensions.[^pref] The discovery of quaternions was enabled by Sir William Rowan Hamilton, who developed the multiplication rules in a eureka moment.
+**Quaternions** are an extension of [[complex numbers | complex number]] to 4 dimensions.[^pref] The discovery of quaternions was enabled by Sir William Rowan Hamilton, who developed the multiplication rules in a eureka moment. Practically, they are used in [[quaternions and spatial rotation]].
 
 [^pref]: Hence the prefix "quat."
 
@@ -73,7 +73,3 @@ The matrix representation of quaternions using a complex $2\times 2$ matrix was 
 j = \begin{bmatrix}0 & \iota \\\\\ \iota & 0\end{bmatrix} \\\\\
 k = \begin{bmatrix} \iota & 0 \\\\\ 0 & -\iota\end{bmatrix}
 \end{gather}
-
-# Rotation
-
-[[include:Quaternions and spatial rotation]]
