@@ -5,6 +5,6 @@ A **Lie bracket** for a [[Lie algebra]] $\mathfrak{g}$ is a [[binary operation]]
 [a, a] = 0 \tag{Alternativity}
 \end{equation}
 
-[[include:Jacobi identity]]
+* [[include:Jacobi identity]]
 
 These properties do _not_ imply [[associativity|associative property]].
