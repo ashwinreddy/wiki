@@ -1,0 +1,1 @@
+**Dual numbers** are an extension of the [[real numbers|real number]] with a unit $\epsilon$ such that $\epsilon^2 = 0$
