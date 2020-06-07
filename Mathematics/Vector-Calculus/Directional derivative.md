@@ -9,7 +9,7 @@ The **directional derivative** gives the rate of increase of a scalar function i
 For quick and dirty calculations, we can use the formula
 
 \begin{equation}
-\nabla_X f = X \cdot \vec\nabla f
+\nabla_{\vec{X}} f = \vec{X} \cdot \vec\nabla f
 \end{equation}
 
 
