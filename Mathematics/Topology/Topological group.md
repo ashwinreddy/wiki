@@ -1,1 +1,1 @@
-A **topological group** is a [[topological space]] and a [[group]]. The compatability is enforced by ensuring that group product and inverse are [[continuous function|continuous functions]].
+A **topological group** is a [[topological space]] and a [[group]]. The compatability is enforced by ensuring that group product and inverse are [[continuous functions|continuous function]].
