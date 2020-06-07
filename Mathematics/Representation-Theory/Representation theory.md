@@ -1,1 +1,1 @@
-**Representation theory** is about porting [[groups|group]], [[associative algebra]], and [[Lie algebra]] into [[linear algebra]].
+**Representation theory** is about porting [[groups|group]], [[associative algebra]], and [[Lie algebra]] into [[linear algebra]]. This is done through [[group representation]].
