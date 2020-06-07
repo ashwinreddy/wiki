@@ -4,6 +4,8 @@
 e^{ix} = \overbrace{\cos x + \iota \sin x}^{\text{unit circle}} \tag{Euler}
 \end{equation}
 
+[[_TOC_]]
+
 This idea can be more dramatically explained with a graph, by showing the left hand side as a vertical line and the right hand side as the [[circle group]]
 
 
