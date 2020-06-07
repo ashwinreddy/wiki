@@ -1,0 +1,1 @@
+A **nilpotent** for a [[ring]] is an element $x$ such that for some $n > 0$, $x^n=0$.
