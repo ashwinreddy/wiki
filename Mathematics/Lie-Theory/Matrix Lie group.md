@@ -1,1 +1,1 @@
-A **matrix Lie group** is a [[Lie group]]
+A **matrix Lie group** is a [[Lie group]] of matrices. This means it's a [[subgroup]] of the [[general linear group]].
