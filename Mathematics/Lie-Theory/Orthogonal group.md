@@ -6,4 +6,4 @@ The **orthogonal group** $O(n)$ is the [[group]] of [[$n\times n$ matrices|squar
 
 # [[Lie algebra]]
 
-The Lie algebra consists of [[skew-symmetric matrices|skew-symmetric matrix]].
+The Lie algebra consists of [[skew-symmetric matrices|skew-symmetric matrix]]. First, we look at $T_e O(n)$
