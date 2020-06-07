@@ -1,0 +1,1 @@
+The **smoothness** of a function is a property measured by the number of continuous [[derivatives|derivative]] it has over a domain.
