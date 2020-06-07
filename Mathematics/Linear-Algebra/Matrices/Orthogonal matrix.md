@@ -7,7 +7,7 @@ Q^\top Q = QQ^\top = I \iff Q^\top = Q^{-1}
 
 # Properties
 
-* $Q \in O(n) \iff Q^\top \in O(n)$
+* $Q$ is orthogonal if and only if its transpose is as well.
 
 * If we take the determinant of both sides of Equation \ref{eq:orth-def},
 
