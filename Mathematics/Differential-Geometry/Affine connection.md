@@ -1,1 +1,1 @@
-An **affine connection** on a [[smooth manifold|differentiable manifold]]
+An **affine connection** on a [[smooth manifold|differentiable manifold]] connects nearby [[tangent spaces|tangent space]].
