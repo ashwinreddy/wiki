@@ -1,0 +1,1 @@
+A **Lie group–Lie algebra correspondence** allows one to study [[Lie groups|Lie group]] in terms of [[Lie algebras|lie algebra]]
