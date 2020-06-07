@@ -1,1 +1,5 @@
-A **vector field** on a [[manifold]] assigns a [[vector]] to each point on the manifold. It is a section of the [[vector bundle]]
+A **vector field** $F$ on a [[manifold]] $M assigns a [[vector]] to each point on $M$. This defines the signature:
+
+\begin{equation}
+F: M \to TM
+\end{equation}
