@@ -1,1 +1,1 @@
-An **affine connection** on a [[smooth manifold|differentiable manifold]] connects nearby [[tangent spaces|tangent space]].
+An **affine connection** on a [[smooth manifold|differentiable manifold]] connects nearby [[tangent spaces|tangent space]] to allow differentiation as if they belonged on the same [[vector space]].
