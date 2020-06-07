@@ -1,0 +1,1 @@
+**Automatic differentiation** is a method of computing [[derivatives|derivative]] exactly without using symbolic differentiation.
