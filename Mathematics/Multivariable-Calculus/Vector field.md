@@ -9,3 +9,5 @@ But we also need to ensure that $F(p)$ for a point $p \in M$ belongs to its tang
 \begin{equation}
 p \circ F = \operatorname{id}
 \end{equation}
+
+The set of vector fields on a manifold $M$ is denoted $\Gamma(TM)$.
