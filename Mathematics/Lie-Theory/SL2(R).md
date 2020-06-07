@@ -1,1 +1,1 @@
-**SL<sub>2<sub>(R)**
+**SL<sub>2</sub>(R)**
