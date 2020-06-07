@@ -9,3 +9,5 @@ But we also need to ensure that $F(p)$ for a point $p \in M$ belongs to its tang
 \begin{equation}
 p \circ F = \operatorname{id}
 \end{equation}
+
+Shortcircuiting the mathematical construction, a vector field maps open subsets of [[Cartesian space]]
