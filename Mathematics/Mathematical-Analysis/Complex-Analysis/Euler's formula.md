@@ -4,6 +4,11 @@
 e^{ix} = \overbrace{\cos x + \iota \sin x}^{\text{unit circle}} \tag{Euler}
 \end{equation}
 
+This idea can be more dramatically explained with a graph
+
+[[https://i0.wp.com/peterjamesthomas.com/wp-content/uploads/2017/03/s1-tangent-space.png?resize=416%2C400&ssl=1]]
+
+
 The fact that complex numbers can be [[represented as a matrix|complex number#as-a-matrix]] suggests that we can also write Euler's formula as relating a [[matrix exponential]] of a [[skew-symmetric matrix]] and a [[rotation matrix]].
 
 $$
