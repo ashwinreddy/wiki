@@ -7,7 +7,11 @@ Q^\top Q = QQ^\top = I
 
 # Properties
 
-* $Q$ is orthogonal iff its transpose is its inverse.
+* $Q$ is orthogonal if and only if its transpose is its inverse.
+
+\begin{equation}
+Q^\mathsf{T} = Q^{-1}
+\end{equation}
 
 * $Q$ is orthogonal if and only if its transpose is as well.
 
