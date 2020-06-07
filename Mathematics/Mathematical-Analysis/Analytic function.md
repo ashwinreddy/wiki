@@ -1,1 +1,1 @@
-An **analytic function** is a [[function]] that is locally given by a convergent [[power series]].
+An **analytic function** is a [[function]] that is locally given by a convergent [[power series|formal power series]].
