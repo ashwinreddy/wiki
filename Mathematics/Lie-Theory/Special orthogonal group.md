@@ -1,4 +1,4 @@
-The **special orthogonal group** $\operatorname{SO}(n)$ is the [[matrixgroup]] of [[$n \times n$ matrices|square matrix]] with unit [[determinant]]. 
+The **special orthogonal group** $\operatorname{SO}(n)$ is the [[matrix Lie group]] of [[$n \times n$ matrices|square matrix]] with unit [[determinant]]. 
 
 \begin{equation}
 \operatorname{SO}(n) \subset O(n) 
