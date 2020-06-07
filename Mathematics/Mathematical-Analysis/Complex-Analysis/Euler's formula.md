@@ -1,4 +1,4 @@
-**Euler's formula**
+**Euler's formula** relates trigonometric functions and the exponential function.
 
 \begin{equation}
 e^{ix} = \cos x + \iota \sin x \tag{Euler}
