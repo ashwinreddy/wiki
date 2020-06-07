@@ -4,5 +4,7 @@ The **exponential map** is a [[function]] from a [[Lie algebra]] $\mathfrak{g}$ 
 \exp: \mathfrak{g} &\to G
 \end{align}
 
+Consider a [[one-parameter group]] $\gamma$
+
 
 For a [[matrix Lie group]], it's just the [[matrix exponential]].
