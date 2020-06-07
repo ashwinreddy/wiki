@@ -1,4 +1,4 @@
-The **special orthogonal group** $\operatorname{SO}(n)$ is the [[group]] of [[$n \times n$ matrices|square matrix]] with unit [[determinant]]. It is a [[subgroup]] of the [[orthogonal group]].
+The **special orthogonal group** $\operatorname{SO}(n)$ is the [[group]] of [[$n \times n$ matrices|square matrix]] with unit [[determinant]]. 
 
 \begin{equation}
 \operatorname{SL}(n) \supset \operatorname{SO}(n) \subset O(n)
