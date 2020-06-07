@@ -12,7 +12,7 @@ Q^\top Q = QQ^\top = I \iff Q^\top = Q^{-1}
 * If we take the determinant of both sides of Equation \ref{eq:orth-def},
 
 $$
-\det(Q^\top Q) = (\det Q)^2 = \det I = 1 \implies \det Q = \pm 1
+\det(Q^\top Q) = \det I \implies (\det Q)^2 = 1 \implies \det Q = \pm 1
 $$
 
 However, having a $\pm 1$ determinant does not guarantee orthonormality.
