@@ -1,1 +1,1 @@
-A **topological group** is a [[group]] $(G, \times)$ with a topology. The group operation $\times$ and its inverse must be [[continuous functions|continuous function]].
+A **topological group** is a [[group]] $(G, \times)$ with a topology. The group operation $\times$ and its inverse must be [[continuous functions|continuous function]]. Any group is a topological group as a [[discrete space]].
