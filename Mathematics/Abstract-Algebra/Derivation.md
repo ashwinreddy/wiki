@@ -4,4 +4,4 @@ A **derivation** is a [[function]] on an [[algebra over a field]] that shares pr
 d(ab) = d(a)b + ad(b) \tag{Leibniz Rule}
 \end{equation}
 
-[[commutator]]
+The [[commutator]] of derivations is itself a derivation.
