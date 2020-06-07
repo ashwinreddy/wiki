@@ -1,0 +1,1 @@
+An **affine connection** on a [[smooth manifold|differentiable manifold]]
