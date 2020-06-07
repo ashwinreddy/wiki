@@ -1,9 +1,9 @@
-An **atlas** $\mathscr{A}$ collects [[charts|coordinate system]] into a complete map, known as an [[open cover]], for a [[manifold]]. When we're interested in a [[differentiable manifold]], we have to check the transition maps.
+An **atlas** $\mathscr{A}$ collects [[charts|coordinate system]] into a complete map, known as an [[open cover]], for a [[manifold]]. When we're interested in a [[differentiable manifold]], we have to check the transition maps. This seems to be mostly a technicality, but an example of a manifold that cannot be made smooth is one called E8.
 
 
 # Transition Maps
 
-Transition maps are wrapped inside the abstraction of an atlas and hopefully do not become leaky. The idea is that you have two charts $U_i$ and $U_j$ that overlap somewhere (e.g. maybe helpful to think of a chart for two countries):
+The idea is that you have two charts $U_i$ and $U_j$ that overlap somewhere (e.g. maybe helpful to think of a chart for two countries):
 
 \begin{equation}
 U_{ij} = U_i \cap U_j
