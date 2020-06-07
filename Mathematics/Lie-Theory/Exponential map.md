@@ -1,8 +1,9 @@
 The **exponential map** is a [[function]] from a [[Lie algebra]] $\mathfrak{g}$ to its [[Lie group]] $G$. 
 
-\begin{equation}
-\exp: \mathfrak{g} \to G
-\end{equation}
+\begin{align}
+\exp: \mathfrak{g} &\to G \\\\\
+X &\mapsto \gamma(1)
+\end{align}
 
 
 For a [[matrix Lie group]], it's just the [[matrix exponential]].
