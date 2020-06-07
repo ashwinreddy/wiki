@@ -1,0 +1,1 @@
+An **injection** is a left-unique [[binary relation]].
