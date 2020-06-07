@@ -1,4 +1,4 @@
-A bilinear map is a function $f: U \times V \to W$ for [[vector space]]s $U$, $V$, and $W$ such that 
+A **bilinear map** is a function $f: U \times V \to W$ for [[vector space]]s $U$, $V$, and $W$ that is linear in both arguments. 
 
 \begin{gather\*}
 f(\vec{u}_1 + \vec{u}_2, \vec{v}) = f(\vec{u}_1, \vec{v}) + f(\vec{u}_2, \vec{v}) \\\\\
