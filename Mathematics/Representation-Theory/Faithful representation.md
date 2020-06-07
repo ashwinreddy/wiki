@@ -1,1 +1,1 @@
-A **faithful representation** $\rho$ is an injective $\rho : G \to GL(V)$ for [[group]] $G$ and [[vector space]] $V$.
+A **faithful representation** $\rho$ is a [[representation]]
