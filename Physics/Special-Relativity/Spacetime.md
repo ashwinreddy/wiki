@@ -1,4 +1,4 @@
-**Spacetime** is a mathematical model which welds 3-dimensional space and 1-dimensional time together.
+**Spacetime** is a mathematical model which inextricably welds 3-dimensional space and 1-dimensional time together.
 
 # Spacetime/Lorentz Interval
 
