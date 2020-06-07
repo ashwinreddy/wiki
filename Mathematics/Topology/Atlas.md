@@ -15,3 +15,4 @@ The transition map is a coordinate transformation from $U_i$ to $U_j$ and by the
 \RR^n \supset \phi_i^{-1}(U_{ij}) \xrightarrow{\phi_i} U_{ij} \xrightarrow{\phi_j^{-1}} \phi_j^{-1}(U_{ij}) \subset \RR^n
 \end{equation}
 
+If you want a certain level of differentiability, you need to have the transition maps that support that.
