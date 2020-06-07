@@ -1,1 +1,1 @@
-**Glucose** is $\ce{}$
+**Glucose** is $\ce{C6H12}$
