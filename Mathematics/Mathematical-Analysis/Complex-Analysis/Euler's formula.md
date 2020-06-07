@@ -10,7 +10,7 @@ $$
 \exp \left({\begin{bmatrix}0 & -x \\ x & 0\end{bmatrix}}\right) = \begin{bmatrix}\cos x & -\sin x \\ \sin x & \cos x\end{bmatrix}
 $$
 
-[[https://upload.wikimedia.org/wikipedia/en/d/d0/Euler%27s_formula_commutative_diagram.png]]
+[[https://upload.wikimedia.org/wikipedia/en/d/d0/Euler%27s_formula_commutative_diagram.png|align=center]]
 
 # Proof
 
