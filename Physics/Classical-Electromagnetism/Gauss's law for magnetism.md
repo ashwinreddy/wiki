@@ -4,6 +4,3 @@
 \operatorname{div} \vec{B} = 0
 \end{equation}
 
-\begin{equation}
-\oiint
-\end{equation}
