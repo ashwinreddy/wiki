@@ -3,3 +3,7 @@ The **general linear group** of degree _n_ is the [[group]] $\operatorname{GL}$ 
 We can also construct a general linear group from a [[vector space]] $V$ by collecting all bijective linear transformations $V \to V$ and equipping the operation of [[function composition]].
 
 For finite-dimensions, it is the [[automorphism group]] for the vector space.
+
+\begin{equation}
+\dim \operatorname{GL}_\RR(n)
+\end{equation}
