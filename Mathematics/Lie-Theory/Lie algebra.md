@@ -1,6 +1,5 @@
 A **Lie algebra** is a [[vector space]] with a [[Lie bracket]] operation. 
 
-
 For a [[Lie group]] $G$, the algebra $\mathfrak{g}$ is the [[tangent space]] $T_eG$ where $e$ is the identity on $G$. The Lie algebra does not always entirely capture the group because different groups can have the same algebra.
 
 Ideal
