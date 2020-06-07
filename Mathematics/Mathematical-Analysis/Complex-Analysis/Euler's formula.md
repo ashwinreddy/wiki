@@ -1,7 +1,7 @@
 **Euler's formula** relates trigonometric functions and the exponential function.
 
 \begin{equation}
-e^{ix} = \overbrace{\cos x + \iota \sin x \tag{Euler}}^{\text{unit circle}}
+e^{ix} = \overbrace{\cos x + \iota \sin x}^{\text{unit circle}} \tag{Euler}
 \end{equation}
 
 The fact that complex numbers can be [[represented as a matrix|complex number#as-a-matrix]] suggests that we can also write Euler's formula as relating a [[matrix exponential]] of a [[skew-symmetric matrix]] and a [[rotation matrix]].
