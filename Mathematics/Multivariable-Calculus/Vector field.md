@@ -10,4 +10,4 @@ But we also need to ensure that $F(p)$ for a point $p \in M$ belongs to its tang
 p \circ F = \operatorname{id}
 \end{equation}
 
-Shortcircuiting the mathematical construction, a vector field maps open subsets of [[Cartesian space]]
+Shortcircuiting the mathematical construction, a vector field maps open subsets of $\RR^n$ to $\RR^n$ once a choice of coordinates has been imposed.
