@@ -5,4 +5,4 @@ An **affine connection** on a [[smooth manifold|differentiable manifold]] connec
 (X, Y) &\mapsto \nabla_X Y
 \end{align}
 
-<<Warning("Lots of confusion here")>>
+<<Warn("Lots of confusion here")>>
