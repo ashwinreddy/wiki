@@ -6,5 +6,5 @@ An **atlas** $\mathscr{A}$ collects [[charts|coordinate system]] into a complete
 Transition maps are wrapped inside the abstraction of an atlas and hopefully do not become leaky. The idea is that you have two charts that overlap somewhere:
 
 $$
-U_{ij} = U_i \cup Uj
+U_{ij} = U_i \cap U_j
 $$
