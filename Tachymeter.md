@@ -3,3 +3,7 @@ A **tachymeter** on a watch is a frequency scale/measure. At each time $t \in [0
 \begin{equation}
 T = \frac{3600}{t}
 \end{equation}
+
+If you start an event at the 0 mark and you look at the value after the event, the tachymeter basically tells you how many times that event will happen in an hour.
+
+You can use a tachymeter to measure speeds and distances! To measure speed, move a fixed distance, say, 1 mile and read off the 
