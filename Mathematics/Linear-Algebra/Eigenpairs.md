@@ -10,7 +10,7 @@ If our linear transformation in question is an $n \times n$ matrix $\mathbf{A}$,
 
 
 \begin{gather}
-\mathbf{A}\vec{v} = \lambda I\vec{v} \\\\\
+\mathbf{A}\vec{v} = \lambda \mathbf{I}\vec{v} \\\\\
 \left(\mathbf{A} - \lambda \mathbf{I} \right)\vec{v} = 0
 \end{gather}
 
