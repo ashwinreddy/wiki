@@ -4,6 +4,12 @@
 e^{ix} = \overbrace{\cos x + \iota \sin x}^{\text{unit circle}} \tag{Euler}
 \end{equation}
 
+This sets up a correspondence
+
+\begin{equation}
+re^{i\theta} \leftrightarrow a + b i
+\end{equation}
+
 This idea can be more dramatically explained with a graph, by showing the left hand side as a vertical line and the right hand side as a circle.
 
 
