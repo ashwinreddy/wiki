@@ -1,0 +1,1 @@
+**Horology** is the study of the measurement of time.
