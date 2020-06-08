@@ -1,0 +1,1 @@
+[**Semantic versioning**](https://semver.org/) is a software versioning specification where version are given as MAJOR.MINOR.PATCH
