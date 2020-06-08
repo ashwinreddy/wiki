@@ -1,1 +1,1 @@
-The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation from calculus.
+The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation from calculus. If $f$ is a function, then $\dd{f}$ is the linear functional given by the directional derivative of $f$ (in the direction given by its input).
