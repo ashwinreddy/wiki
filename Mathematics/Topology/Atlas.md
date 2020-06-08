@@ -1,4 +1,4 @@
-An **atlas** $\mathscr{A}$ collects [[charts|coordinate system]] into a complete map, known as an [[open cover]], for a [[manifold]]. When we're interested in a [[differentiable manifold]], we have to check the transition maps. This seems to be mostly a technicality, but an example of a manifold that cannot be made smooth is one called E8.
+An **atlas** $\mathscr{A}$ collects [[charts|coordinate system]] into a complete map, known as an open cover, for a [[manifold]]. When we're interested in a differentiable manifold, we have to check the transition maps. This seems to be mostly a technicality, but an example of a manifold that cannot be made smooth is one called E8.
 
 
 # Transition Maps
