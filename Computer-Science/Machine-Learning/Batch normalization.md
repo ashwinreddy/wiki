@@ -1,1 +1,0 @@
-Batch normalization is a layer that takes in with two parameters $\beta$ and $\gamma$. The layer takes in a mini-batch
