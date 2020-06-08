@@ -12,6 +12,8 @@ A quaternion can be used to compute a rotation in 3D, although it is a little wo
 \operatorname{Rotation in 3D}: \overbrace{\RR^3}^{\text{vec}} \times \overbrace{\underbrace{\RR^3}\_{\text{axis}} \times \underbrace{\RR}_{\text{angle}}}^{\mathbb{H}} \to \overbrace{\RR^3}^{\text{rotated vec}}
 \end{equation}
 
+In pseudocode, we'd have something like the following
+
 ```
 def rotate_vector(vector, axis, angle):
     quaternion = cos(angle / 2) + axis * sin(angle / 2)
