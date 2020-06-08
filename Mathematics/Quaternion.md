@@ -9,7 +9,7 @@ i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
 A quaternion can be used to compute a rotation in 3D, although it is a little wonky.
 
 \begin{equation}
-\operatorname{Rotation in 3D}: \overbrace{\RR^3}^{\text{vec}} \times \overbrace{\underbrace{\RR^3}\_{\text{axis}} \times \underbrace{\RR}_{\text{angle}}}^{\mathbb{H}} \to \RR^3
+\operatorname{Rotation in 3D}: \overbrace{\RR^3}^{\text{vec}} \times \overbrace{\underbrace{\RR^3}\_{\text{axis}} \times \underbrace{\RR}_{\text{angle}}}^{\mathbb{H}} \to \overbrace{\RR^3}^{\text{rotated vec}}
 \end{equation}
 
 If one wants to rotate vector $q$ by quaternion $u$, one has to compute
