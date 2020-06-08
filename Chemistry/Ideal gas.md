@@ -1,1 +1,0 @@
-An **ideal gas** is a simplified model of [[gas]].

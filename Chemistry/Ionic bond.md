@@ -1,1 +1,0 @@
-An **ionic bond** is an electromagnetic attraction between a positively and negatively charged ion.

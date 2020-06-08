@@ -1,1 +1,0 @@
-A **cell** is considered the smallest unit of life. There are two kinds of cells: prokaryotic and eukaryotic.

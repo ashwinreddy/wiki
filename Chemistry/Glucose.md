@@ -1,1 +1,0 @@
-**Glucose** is $\ce{C6H12O6}$

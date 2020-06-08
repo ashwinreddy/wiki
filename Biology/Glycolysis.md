@@ -1,1 +1,0 @@
-**Glycolysis** (sugar breaking) is a metabolic pathway converting glucose into pyruvate.

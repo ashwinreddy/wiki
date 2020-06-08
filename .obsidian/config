@@ -21,7 +21,7 @@
     "direction": "vertical",
     "children": [
       {
-        "id": "9fd357f0d3e51e47",
+        "id": "4155e549ec9b8254",
         "type": "leaf",
         "dimension": null,
         "active": true,
@@ -36,5 +36,12 @@
   "sideDockWidth": {
     "left": 300,
     "right": 40
-  }
+  },
+  "lastOpenFiles": [
+    "Mathematics/Linear-Algebra/Matrices/Skew-symmetric matrix.md",
+    "Mathematics/Complex-Analysis/Complex number.md",
+    "Psychology/Home.md",
+    "hypothesis class.md",
+    "Mathematics/Probability-Theory/Gaussian process.md"
+  ]
 }
