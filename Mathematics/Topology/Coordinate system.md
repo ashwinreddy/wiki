@@ -1,8 +1,9 @@
 A **coordinate system** or **chart** for a [[manifold]] $X$ helps map out part of the manifold (or possibly even all of it) using Cartesian space. The chart is a homomorphism between open subsets of the two spaces.[^order]
 
-$$
-\varphi: X \supset U \to V \subset \RR^n
-$$
+\begin{align}
+\varphi: X \supset U &\to V \subset \RR^n \\\\\
+x &\mapsto \langle \varphi_1(x), \dots, \varphi_n(x) \rangle
+\end{align}
 
 For example, if $X$ is the earth, then $\varphi(\text{Paris})$ could be the latitude and longitude of Paris. Each of these is a coordinate.
 
