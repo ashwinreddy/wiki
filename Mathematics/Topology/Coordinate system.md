@@ -4,7 +4,10 @@ $$
 \varphi: X \supset U \to V \subset \RR^n
 $$
 
-For example, if $X$ is the earth, then $\varphi(\text{Paris})$ could be the latitude and longitude of Paris.
+For example, if $X$ is the earth, then $\varphi(\text{Paris})$ could be the latitude and longitude of Paris. Each of these is a coordinate.
+
+Coordinate
+: The $k$th coordinate of $\varphi$ is the function $\varphi_k$ that gives the $k$th value of $\varphi(x)$. 
 
 
 [^order]: Since the inverse of a homeomorphism is itself a homeomorphism, the domain and codomain don't matter so long as the choice is fixed. But when we consult a map we typically ask, "where is $x\in X$ located?"
