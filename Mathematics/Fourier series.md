@@ -1,1 +1,1 @@
-The **Fourier series** of a periodic function decomposes it into its constituent sine waves. 
+The **Fourier series** of a periodic function decomposes it into its constituent harmonics (i.e. sine and cosine waves). 
