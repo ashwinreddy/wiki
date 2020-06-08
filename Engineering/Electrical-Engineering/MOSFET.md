@@ -1,1 +1,0 @@
-A **MOSFET (metal oxide semiconductor field-effect transistor)** has a source (S), drain (D), and gate (G).
