@@ -1,0 +1,1 @@
+1. Every entry must either tell a story or provide me with information I need to solve a problem.
