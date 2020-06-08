@@ -11,5 +11,5 @@ One question that comes up is the importance of the $\dd{x}$. In the language of
 The Riemann sum is one formulation for an integral
 
 \begin{equation}
-\int_a^b f(x)\,\dd{x} = \lim_{n\to\infty}\frac{b-a}{n}\sum_{k=1}^n f(x + \frac{b-a}{n}k)
+\int_a^b f(x)\,\dd{x} = \lim_{n\to\infty} \sum_{k=1}^n f(x + k\Delta x)\cdot\Delta x,\quad \Delta x := \frac{b-a}{n}
 \end{equation}
