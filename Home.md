@@ -1,1 +1,0 @@
-This wiki is an attempt to help consolidate my understanding using the Feynman technique, which asks that you be able to explain ideas in simple terms.
