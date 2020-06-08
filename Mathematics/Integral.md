@@ -3,3 +3,5 @@ An **integral** represents the sum of a continuous quantity. It is typically rep
 \begin{equation}
 \int_a^b f(x)\,\dd{x}
 \end{equation}
+
+One question that comes up is the importance of the $\dd{x}$. In the language of differential forms, this notation is given more concrete meaning.
