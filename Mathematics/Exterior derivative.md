@@ -1,0 +1,1 @@
+The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation from calculus.
