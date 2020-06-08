@@ -1,1 +1,14 @@
-A **group** is an abstraction in mathematics that applies to many objects. Proofs about groups are powerful, therefore, because they apply to lots of objects. A group is just a set $(G, \box)$ with an operation $\cdot$ that obeys a few properties.
+A **group** is an abstraction in mathematics that applies to many objects. Proofs about groups are powerful, therefore, because they apply to lots of objects. A group is just a set $(G, \star)$ with a binary operation $\star$ that obeys a few properties.
+
+Closure
+: The $\star$ of two elements needs to belong to the group
+
+Associativity
+: Order of operation should not matter
+
+Identity element
+: There must be an element that does nothing when applied from either side
+
+Inverse element
+: Every element needs a friend such that their multiplication from either side is the identity
+
