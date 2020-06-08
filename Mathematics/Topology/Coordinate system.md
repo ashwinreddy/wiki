@@ -5,7 +5,7 @@ A **coordinate system** or **chart** for a [[manifold]] $X$ helps map out part o
 x &\mapsto \langle \varphi_1(x), \dots, \varphi_n(x) \rangle
 \end{align}
 
-For example, if $X$ is the earth, then $\varphi(\text{Paris})$ could be the latitude and longitude of Paris. Each of these is a coordinate.
+For example, if $X$ is the earth, then $\varphi(\text{Paris}) = \langle \text{Latitude}(\text{Paris}), \text{Longitude}(\text{Pair})\rangle$ could be the latitude and longitude of Paris. Each of these is a coordinate.
 
 Coordinate
 : The $k$th coordinate of $\varphi$ is $\varphi_k$.
