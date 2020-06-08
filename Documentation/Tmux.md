@@ -6,6 +6,8 @@ The default is `Ctrl-B`, but I've remapped this in my [dotfiles](https://github.
 
 Use `"` for horizontal and `%` for vertical.
 
+To kill a pane, use `x`
+
 # Clearing
 
 By default, tmux is kinda fucky when you use command k. For something more sensible, check out [this](https://superuser.com/questions/611373/with-tmux-on-osx-how-can-i-make-commandk-clear-more-gracefully)
