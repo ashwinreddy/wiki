@@ -1,4 +1,4 @@
-**Euler's formula** expands the domain of the exponential function to complex numbers, by relating it to trigonometric functions.
+**Euler's formula** expands the domain of the [[exponential function]] to [[complex numbers|complex number]], by relating it to trigonometric functions.
 
 \begin{equation}
 e^{ix} = \overbrace{\cos x + \iota \sin x}^{\text{unit circle}} \tag{Euler}
