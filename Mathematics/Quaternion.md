@@ -15,5 +15,5 @@ A quaternion can be used to compute a rotation in 3D, although it is a little wo
 If one wants to rotate vector $q$ by quaternion $u$, one has to compute
 
 \begin{equation}
-v' = q^{-1} v q \tag{Rotation by Conjugation}
+v' = q v q^{-1} \tag{Rotation by Conjugation}
 \end{equation}
