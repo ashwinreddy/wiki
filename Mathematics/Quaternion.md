@@ -14,7 +14,7 @@ A quaternion can be used to compute a rotation in 3D, although it is a little wo
 
 In pseudocode, we'd have something like the following
 
-```
+```python
 def rotate_vector(vector, axis, angle):
     quaternion = cos(angle / 2) + axis * sin(angle / 2)
     return quaternion * vector * inverse(quaternion)
