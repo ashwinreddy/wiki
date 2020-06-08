@@ -1,1 +1,0 @@
-[[http://fabiensanglard.net/floating_point_visually_explained/index.html]]
