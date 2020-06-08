@@ -1,1 +1,0 @@
-[[https://www.internalpointers.com/post/introduction-virtual-memory]]
