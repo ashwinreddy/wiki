@@ -5,7 +5,7 @@ Notes are separated by category as in the table below. The mathematics section i
 
 
 |[Mathematics](./Mathematics/)|[Engineering](./Engineering/)|[Physics](./Physics/)|
-|[Computer Science](./Computer-Science/)|[Chemistry](./Chemistry/)|[Biology](./Biology/)|
+|[Computer Science](./Computer-Science/)|||
 |[Statistics](./Statistics/)|[Economics](./Economics/)|[Philosophy](./Philosophy/)|
 |[Psychology](./Psychology/)||[[Miscellaneous]]|
 
