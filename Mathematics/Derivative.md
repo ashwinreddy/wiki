@@ -1,5 +1,5 @@
-The **derivative** is a measure of local rate of change for a function.
+The **derivative** is a measure of local (around a point $a$) rate of change for a function. This can be computed by letting a little bit of "time" pass at $a$ and measuring the change over that interval:
 
 \begin{equation}
-f'(x) = \dv{f}{x} \triangleq \lim_{h \to 0}\frac{f(x+h) - f(x)}{h}
+f'(a) = \triangleq \lim_{h \to 0}\frac{f(a+h) - f(a)}{h}
 \end{equation}
