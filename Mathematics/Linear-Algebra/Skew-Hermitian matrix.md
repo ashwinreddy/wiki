@@ -1,1 +1,0 @@
-A **skew-Hermitian matrix** is one where the conjugate transpose is equal to the negative of the matrix.

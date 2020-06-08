@@ -1,1 +1,0 @@
-The **direct sum** is an operation that uniquely joins two subsets of an $R$-module.

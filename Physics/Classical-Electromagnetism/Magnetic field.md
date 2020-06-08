@@ -1,1 +1,0 @@
-The **magnetic field** $\vec{B}$ is a [[vector field]] that affects a charged body moving through the field with some velocity.

@@ -1,1 +1,0 @@
-The **dimension** of a [[vector space]] is the number of vectors in a [[basis]].

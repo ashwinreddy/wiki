@@ -1,1 +1,0 @@
-A **word** is a written product of [[group]] elements and inverses.

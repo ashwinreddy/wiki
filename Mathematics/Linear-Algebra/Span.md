@@ -1,1 +1,0 @@
-The span of a set of vectors is the set of all linear combinations of those vectors.

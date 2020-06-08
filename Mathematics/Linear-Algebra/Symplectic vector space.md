@@ -1,1 +1,0 @@
-A **symplectic vector space** is a kind of [[vector space]].

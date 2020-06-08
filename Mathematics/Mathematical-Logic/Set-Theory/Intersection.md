@@ -1,1 +1,0 @@
-The **intersection** of [[sets|set]] is a [[subset]] of each with only elements contained in both.

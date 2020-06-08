@@ -1,1 +1,0 @@
-**Helmholtz's theorem** says that (insert qualifications here) [[vector fields|vector field]] in 3D can be decomposed into an [[irrotational vector field]] and a [[solenoidal vector field]].

@@ -1,1 +1,0 @@
-An **open set** is a generalization of an open interval on the real line.

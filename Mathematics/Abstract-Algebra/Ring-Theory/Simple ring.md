@@ -1,1 +1,0 @@
-A **simple ring** is a non-zero ring that has no trivial [[two-sided ideals|ideal]].

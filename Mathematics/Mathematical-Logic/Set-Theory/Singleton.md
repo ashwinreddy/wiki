@@ -1,1 +1,0 @@
-A **singleton** is a [[set]] with exactly one element.

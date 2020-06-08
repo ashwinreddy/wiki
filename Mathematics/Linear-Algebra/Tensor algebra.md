@@ -1,1 +1,0 @@
-The **tensor algebra** of a [[vector space]] $V$, denoted $T(V)$, is a [[differential graded algebra]] of [[tensors|tensor]] on $V$ with [[tensor product]] as product.

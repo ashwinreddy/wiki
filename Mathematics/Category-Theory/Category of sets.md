@@ -1,1 +1,0 @@
-**Set** is the [[category]] of [[sets|set]] with [[functions|function]] as [[morphisms|morphism]].

@@ -1,1 +1,0 @@
-**Three-dimensional space**

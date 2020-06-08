@@ -1,1 +1,0 @@
-A **loop** is a [[continuous function]] from the [[unit interval]] to a [[topological space]] that starts where it ends.

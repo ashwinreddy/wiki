@@ -1,1 +1,0 @@
-**Lie's third theorem** says every finite-dimensional [[Lie algebra]] $\mathfrak{g}$ over the reals has a [[Lie group]] $G$.

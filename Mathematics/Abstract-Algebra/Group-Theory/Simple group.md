@@ -1,1 +1,0 @@
-A **simple group** is a nontrivial [[group]] whose only [[normal subgroups|normal subgroup]] are the [[trivial group]] and itself.

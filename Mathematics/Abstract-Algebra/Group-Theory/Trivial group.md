@@ -1,1 +1,0 @@
-A **trivial group** is a [[group]] that consists solely of an identity element. All trivial groups are isomorphic.

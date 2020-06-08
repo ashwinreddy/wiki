@@ -1,1 +1,0 @@
-A **differential equation** is an [[equation]] that relates one or more [[function]]s and their [[derivative]]s.

@@ -1,1 +1,0 @@
-Simple harmonic motion is the periodic motion when restoring force is directly proportional to displacement.

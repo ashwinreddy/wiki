@@ -1,1 +1,0 @@
-A **diffeomorphism** between two [[differentiable manifold]]s is a [[homeomorphism]] differentiable in both directionss.

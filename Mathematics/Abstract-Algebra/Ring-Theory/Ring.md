@@ -1,1 +1,0 @@
-A **ring** consists of a [[set]] $R$ with addition and multiplication.

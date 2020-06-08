@@ -1,5 +1,0 @@
-The **antiderivative** is the opposite of a [[derivative]]. The antiderivative of a [[function]] $f$ is the function $F$ whose derivative is $f$.
-
-\begin{equation}
-F'(x) = f(x)
-\end{equation}

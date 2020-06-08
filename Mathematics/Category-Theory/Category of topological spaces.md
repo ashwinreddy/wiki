@@ -1,1 +1,0 @@
-**Top** is the [[concrete category]] of [[topological spaces|topological space]] with [[continuous function]] as [[morphisms|morphism]]

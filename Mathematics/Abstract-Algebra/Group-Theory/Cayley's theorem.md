@@ -1,1 +1,0 @@
-**Cayley's theorem** says every [[group]] is [[isomorphic|isomorphism]] to the [[subgroup]] of the [[symmetric group]] acting on it.

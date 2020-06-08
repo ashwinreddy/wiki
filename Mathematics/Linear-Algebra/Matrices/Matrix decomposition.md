@@ -1,1 +1,0 @@
-A matrix decomposition gives us a matrix in a form which might be easier to work with

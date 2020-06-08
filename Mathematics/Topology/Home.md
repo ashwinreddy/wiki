@@ -1,1 +1,0 @@
-Topology is the study of geometric deformations.

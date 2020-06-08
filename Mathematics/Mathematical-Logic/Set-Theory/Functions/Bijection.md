@@ -1,1 +1,0 @@
-A **bijection** is a [[function]] that is both [[injection]] and [[surjection]]. It is an [[isomorphism]] in [[Set|category of sets]]

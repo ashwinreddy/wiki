@@ -1,1 +1,0 @@
-A **concrete category** is a [[category]] $C$ with a [[faithful functor]] to [[Set|category of sets]]

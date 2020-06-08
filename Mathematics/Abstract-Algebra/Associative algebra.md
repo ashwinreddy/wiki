@@ -1,1 +1,0 @@
-An **associative algebra** $A$ that has an [[associative|associative property]] multiplication. It can be made into a [[Lie algebra]] by picking the commutator $[x,y]=xy-yx$.

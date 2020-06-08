@@ -1,1 +1,0 @@
-A **faithful representation** $\rho$ is a [[group representation]] that maps different elements of the group to different matrices. In other words, it's the additional stipulation that $\rho$ is [[injective|injection]].

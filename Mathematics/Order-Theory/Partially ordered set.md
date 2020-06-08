@@ -1,1 +1,0 @@
-A **partially ordered set** or **poset** is a [[set]] with a [[binary relation]] $\leq$ that is reflexive, transitive, and antisymmetric.

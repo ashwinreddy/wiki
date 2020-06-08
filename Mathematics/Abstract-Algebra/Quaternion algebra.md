@@ -1,1 +1,0 @@
-A **quaternion algebra** is a [[central simple algebra]] $A$ over a field $F$ that has dimension 4 over $F$.

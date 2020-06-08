@@ -1,1 +1,0 @@
-**Independent and identically distributed** means a set of random variables all take on the same distribution but have no correlation with one another.

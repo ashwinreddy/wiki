@@ -1,1 +1,0 @@
-A **Clifford algebra** is an [[associative algebra]].

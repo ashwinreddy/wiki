@@ -1,1 +1,0 @@
-The **unit interval** is $[0,1]$.

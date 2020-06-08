@@ -1,1 +1,0 @@
-An **affine transformation** is a linear transformation along with a translation of origin.

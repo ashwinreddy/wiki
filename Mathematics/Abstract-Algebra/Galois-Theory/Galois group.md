@@ -1,1 +1,0 @@
-The Galois group of a general polynomial equation is a group that permutes the roots, leaving the equation invariant.

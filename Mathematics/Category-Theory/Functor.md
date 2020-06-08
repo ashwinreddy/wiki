@@ -1,1 +1,0 @@
-A **functor** is a map between [[categories|category]].

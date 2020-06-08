@@ -1,1 +1,0 @@
-**Grp** is the [[category]] of [[groups|group]] with [[group homomorphisms|group homomorphism]] as [[morphisms|morphism]].

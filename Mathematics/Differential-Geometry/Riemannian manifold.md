@@ -1,1 +1,0 @@
-A **Riemannian manifold** is a [[pseudo-Riemannian manifold]] with a positive-definite inner product.

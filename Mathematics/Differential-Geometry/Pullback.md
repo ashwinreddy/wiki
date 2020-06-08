@@ -1,1 +1,0 @@
-The **pullback** for a smooth map $f: X \to Y$ between manifolds and [[differential $n$-form|differential form]] $\omega$ is an $n$-form $f^* \omega$

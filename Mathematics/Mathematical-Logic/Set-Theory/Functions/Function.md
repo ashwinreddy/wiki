@@ -1,1 +1,0 @@
-A **function** is a [[binary relation]] $f: A \to B$ between [[sets|set]] $A$ and $B$ that is left-total and right-definite.

@@ -1,1 +1,0 @@
-The **fundamental theorem of arithmetic** says that every $n \in N_{\geq 1}$ is a prime number or the unique product of primes.

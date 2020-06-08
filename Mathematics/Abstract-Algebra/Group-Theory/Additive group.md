@@ -1,1 +1,0 @@
-An **additive group** is a [[group]] where the operation is addition in some sense, usually [[abelian|abelian group]] for that reason.

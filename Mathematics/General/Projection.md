@@ -1,1 +1,0 @@
-A **projection** is an idempotent [[function]] whose codomain is a [[subset]] of the domain

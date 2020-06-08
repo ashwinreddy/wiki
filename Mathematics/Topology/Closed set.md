@@ -1,1 +1,0 @@
-On a [[topological space]] $(X, \tau)$, a **closed set** is a [[set]] $A$ for which $X \setminus A \in \tau$ (i.e. whose [[complement]] is an [[open set]]).

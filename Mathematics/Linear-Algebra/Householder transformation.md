@@ -1,1 +1,0 @@
-**Householder transformation** is a [[linear map]] describing a [[reflection]].

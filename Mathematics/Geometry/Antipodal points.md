@@ -1,1 +1,0 @@
-Two points on a [[sphere]] are **antipodal** if they are diametrically opposed.

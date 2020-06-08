@@ -1,1 +1,0 @@
-Linear algebra is about linear systems.

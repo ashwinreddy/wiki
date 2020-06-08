@@ -1,1 +1,0 @@
-A **division ring** is a [[ring]] with division: every element has a multiplicative inverse.

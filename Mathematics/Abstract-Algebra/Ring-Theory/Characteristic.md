@@ -1,1 +1,0 @@
-The **characteristic** of a ring is the smallest number of times one must add 1 to get 0 and zero if this condition is not met.

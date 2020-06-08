@@ -1,1 +1,0 @@
-A **commutative ring** is a [[ring]] where multiplication is [[commutative]]

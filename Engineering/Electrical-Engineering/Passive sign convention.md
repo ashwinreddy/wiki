@@ -1,1 +1,0 @@
-**Passive sign convention** designates [[electric current]] as flowing from high [[voltage]] to low [[voltage]].

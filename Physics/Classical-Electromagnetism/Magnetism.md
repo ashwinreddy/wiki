@@ -1,1 +1,0 @@
-The source of magnetism is moving charge.

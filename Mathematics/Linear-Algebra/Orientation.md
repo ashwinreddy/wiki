@@ -1,1 +1,0 @@
-The **orientation** of a [[vector space]] is a choice from one of two [[equivalence classes|equivalence class]] of bases where the [[relation|equivalence relation]] is that the [[linear map]] between the bases has a positive [[determinant]].

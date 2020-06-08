@@ -1,1 +1,0 @@
-The **Standard Model** of particle physics includes the four fundamental forces and elementary particles.

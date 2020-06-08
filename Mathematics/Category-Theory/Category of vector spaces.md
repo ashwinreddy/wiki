@@ -1,1 +1,0 @@
-**Vect**$_k$ is the [[category]] of $k$ [[vector spaces|vector space]] with [[linear transformations|linear map]] as [[morphisms|morphism]].

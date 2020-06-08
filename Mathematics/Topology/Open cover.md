@@ -1,1 +1,0 @@
-An **open cover** of a [[topological space]] is a collection of open subsets whose [[union]] is the space.

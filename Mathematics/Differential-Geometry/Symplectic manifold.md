@@ -1,1 +1,0 @@
-A **symplectic manifold** is a smooth [[manifold]] with a [[closed differential 2-form|differential form]] nondegenerate $\omega$.

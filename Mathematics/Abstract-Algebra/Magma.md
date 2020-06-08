@@ -1,1 +1,0 @@
-A **magma** is a [[set]] with a binary operation that is [[closed|closure]].

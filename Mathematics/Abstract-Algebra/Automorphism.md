@@ -1,1 +1,0 @@
-An **automorphism** is an [[bijection]] for an object to itself.

@@ -1,1 +1,0 @@
-A **finite group** is a [[group]] whose underlying set is finite.

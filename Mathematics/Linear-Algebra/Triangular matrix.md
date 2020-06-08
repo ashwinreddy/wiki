@@ -1,1 +1,0 @@
-A **triangular matrix** is a [[square matrix]] that is either upper triangular or lower triangular.

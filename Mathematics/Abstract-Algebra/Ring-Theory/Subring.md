@@ -1,1 +1,0 @@
-A **subring** of a [[ring]] $R$ is a [[subset]] of the elements that is itself a ring under the same operations.

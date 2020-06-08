@@ -1,1 +1,0 @@
-An electronic circuit can be mathematically modeled as a collection of nodes joined by branch elements. Every node has a current and every pair of adjacent nodes has a voltage.

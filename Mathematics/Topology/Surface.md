@@ -1,1 +1,0 @@
-A **surface** is a two-[[dimensional|dimension]] [[manifold]].

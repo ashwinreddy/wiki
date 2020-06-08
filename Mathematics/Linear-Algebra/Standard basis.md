@@ -1,1 +1,0 @@
-The standard basis for [[Euclidean space]] consists of linearly independent one-hot vectors.

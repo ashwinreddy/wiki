@@ -1,1 +1,0 @@
-A resistor. Resistors in series add.

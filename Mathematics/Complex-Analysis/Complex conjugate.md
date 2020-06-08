@@ -1,1 +1,0 @@
-The **complex conjugate** keeps the real part and flips the imaginary part.

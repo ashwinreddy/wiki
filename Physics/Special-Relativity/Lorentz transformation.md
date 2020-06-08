@@ -1,1 +1,0 @@
-A **Lorentz transformation** translates between [[reference frames|frame of reference]].

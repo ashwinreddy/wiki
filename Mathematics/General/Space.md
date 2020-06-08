@@ -1,1 +1,0 @@
-A **space** is a [[set]] with some added structure. 

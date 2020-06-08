@@ -1,1 +1,0 @@
-The **octonions** $\mathbb{O}$ are 8-dimensional [[complex numbers|complex number]] as a [[normed division algebra]].

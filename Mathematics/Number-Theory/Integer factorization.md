@@ -1,1 +1,0 @@
-**Integer factorization** is the decomposition of a [[composite number]] into smaller numbers. If those numbers are all prime, then the integer factorization is called a **prime factorization**.

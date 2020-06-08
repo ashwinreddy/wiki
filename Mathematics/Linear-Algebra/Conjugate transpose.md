@@ -1,1 +1,0 @@
-The **conjugate transpose** of a matrix is the [[transpose]] of the [[conjugate]] of the matrix.

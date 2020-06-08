@@ -1,1 +1,0 @@
-A **glome** or 3-sphere $\mathbb{S}^3$ is a hypersphere in 4D Euclidean space. It is a [[group]] under [[quaternion#multiplication]] since unit quaternions live on the 3 sphere.

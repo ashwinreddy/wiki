@@ -1,1 +1,0 @@
-A **bit** is a unit of information representing either a 0 or 1. Thus, $n$ bits allows for an encoding of $2^n$ distinct values.

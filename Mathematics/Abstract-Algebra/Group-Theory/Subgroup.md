@@ -1,1 +1,0 @@
-A **subgroup** for a [[group]] $G$ is a [[subset]] $H$ that satisfies the group axioms for the same operation.

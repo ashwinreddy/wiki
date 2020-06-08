@@ -1,1 +1,0 @@
-A **connected space** is a [[topological space]] that cannot be split into two independent parts.

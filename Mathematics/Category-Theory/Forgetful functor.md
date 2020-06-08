@@ -1,1 +1,0 @@
-A **forgetful functor** is a [[functor]] which is defined by forgetting something.

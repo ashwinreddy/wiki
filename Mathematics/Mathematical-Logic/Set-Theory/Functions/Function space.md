@@ -1,1 +1,0 @@
-A **function space** is a [[set]] of [[functions|function]] with fixed input/output sets.

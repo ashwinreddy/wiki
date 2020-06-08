@@ -1,1 +1,0 @@
-A **sequence** is a possibly infinite list of objects.
