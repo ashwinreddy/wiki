@@ -1,0 +1,1 @@
+A **group** is an abstraction in mathematics that applies to many objects. Proofs about groups are powerful, therefore, because they apply to lots of objects. A group is just a set $(G, \box)$ with an operation $\cdot$ that obeys a few properties.
