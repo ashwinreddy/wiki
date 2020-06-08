@@ -4,4 +4,4 @@ This is the home page of my wiki!
 
 ---
 
-[[include: Philosophy]]
+[[include:Philosophy]]
