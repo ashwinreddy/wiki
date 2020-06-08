@@ -9,6 +9,6 @@ conda env create -f environment.yml
 
 To remove the environment `myenv`, execute
 
-```
+```sh
 conda remove --name myenv --all
 ```
