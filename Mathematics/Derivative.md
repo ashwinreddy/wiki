@@ -3,3 +3,9 @@ The **derivative** is a measure of local (around a point $a$) rate of change for
 \begin{equation}
 f'(a) = \lim_{h \to 0}\frac{f(a+h) - f(a)}{h}
 \end{equation}
+
+These values can then be collected over the entire function, giving us a new function
+
+\begin{equation}
+\dv{f}{x} = f'(x)
+\end{equation}
