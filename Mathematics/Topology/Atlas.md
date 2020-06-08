@@ -3,7 +3,7 @@ An **atlas** $\mathscr{A}$ collects [[charts|coordinate system]] into a complete
 
 # Transition Maps
 
-The idea is that you have two charts $U_i$ and $U_j$ that overlap somewhere (e.g. maybe helpful to think of a chart for two countries):
+The idea is that you have two charts $U_i$ and $U_j$ that overlap somewhere (e.g. it may be helpful to think of a chart for two countries):
 
 \begin{equation}
 U_{ij} = U_i \cap U_j
