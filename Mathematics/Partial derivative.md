@@ -1,0 +1,1 @@
+The **partial derivative** of a function tells you the derivative when you nudge an input _ceteris paribus_.
