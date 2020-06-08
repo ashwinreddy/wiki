@@ -1,0 +1,1 @@
+A **real number** is, herustically, a number that a measurement tool will reasonably give you.
