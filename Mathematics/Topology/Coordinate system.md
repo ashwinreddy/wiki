@@ -6,6 +6,6 @@ $$
 \phi: X \supset U \to V \subset \RR^n
 $$
 
-
+For example, if $X$ is the earth, then $\phi(\text{Paris})$ could be the latitude and longitude
 
 [^order]: Since the inverse of a homeomorphism is itself a homeomorphism, the domain and codomain don't matter so long as the choice is fixed. But when we consult a map we typically ask, "where is $x\in X$ located?"
