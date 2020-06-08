@@ -1,1 +1,1 @@
-Physics is, reductively, the study of motion.
+Physics is, perhaps reductively, the study of motion.
