@@ -1,1 +1,0 @@
-A **stagflation** is both inflation and stagnation.
