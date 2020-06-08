@@ -3,7 +3,7 @@
 
 To create an environment from a file, execute
 
-```
+```sh
 conda env create -f environment.yml
 ```
 
