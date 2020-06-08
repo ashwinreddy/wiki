@@ -1,1 +1,0 @@
-The [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/) is a good resource.
