@@ -4,7 +4,7 @@
 e^{ix} = \overbrace{\cos x + \iota \sin x}^{\text{unit circle}} \tag{Euler}
 \end{equation}
 
-This sets up a correspondence
+This sets up a correspondence that works in both directions
 
 \begin{equation}
 re^{i\theta} \leftrightarrow a + b i
