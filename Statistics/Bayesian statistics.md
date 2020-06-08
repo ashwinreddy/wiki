@@ -1,1 +1,0 @@
-[[https://github.com/Kodemannen/Bayesian-Inference-and-Machine-Learning/blob/master/Bayesian_machine_learning.ipynb]]
