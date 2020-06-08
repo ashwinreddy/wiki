@@ -5,3 +5,7 @@ x \equiv a_i \mod n_i
 \end{equation}
 
 The condition is that we have $k$ pairwise coprime integers; then, we will know $x$ up to modulo the product of those integers.
+
+# Linear Algebra analogy
+
+One way to think about the Chinese remainder theorem is that it provides a basis with which to describe numbers up to $N$.
