@@ -4,8 +4,8 @@ The **derivative** is a measure of local (around a point $a$) rate of change for
 v(t) = \lim_{\Delta t \to 0}\frac{x(t+ \Delta t) - x(t)}{\Delta t}
 \end{equation}
 
-These values can then be collected over the entire function, giving us a new function
+From this formula, Leibniz came up with the notation
 
 \begin{equation}
-\dv{f}{x} = f'(x)
+v = \dv{x}{t}
 \end{equation}
