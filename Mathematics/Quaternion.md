@@ -4,3 +4,10 @@
 i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
 \end{equation}
 
+# Rotations
+
+A quaternion can be used to compute a rotation in 3D.
+
+\begin{equation}
+\operatorname{Rotation in 3D}
+\end{equation}
