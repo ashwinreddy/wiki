@@ -6,6 +6,8 @@ T(\vec{v}) = \lambda \vec{v} \tag{Eigenequation}
 
 We call the $\lambda$ an **eigenvalue** and the $\vec{v}$ an **eigenvector**. Note that we typically exclude the zero vector for $\vec{v}$ because it is trivially true; however, a zero eigenvalue is interesting because it means a non-trivial nullspace. Additionally, eigenvectors are unique up to scalar multiplication, so any representative vector on the line spanned by one eigenvector will suffice.
 
+# Computation
+
 If our linear transformation in question is an $n \times n$ matrix $\mathbf{A}$, we can find the specific eigenpairs by first determining the eigenvalues. The trick is to recognize the asymmetry of the eigenequation (matrix-vector product vs scalar multiplication) and correct this by inserting a dummy identity matrix.
 
 
