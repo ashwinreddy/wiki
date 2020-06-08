@@ -1,4 +1,4 @@
-**([DisCor](https://arxiv.org/pdf/2003.07305.pdf))** is a "distribution correction" algorithm for improving performance on approximate dynamic programming.
+**[DisCor](https://arxiv.org/pdf/2003.07305.pdf)** is a "distribution correction" algorithm for improving performance on approximate dynamic programming.
 
 One main reason that deep RL algorithms might not work is that the ones based on dynamic programing suffer from disjunction between the data dstribution and the learned model.
 
