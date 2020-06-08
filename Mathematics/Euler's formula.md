@@ -10,7 +10,7 @@ This sets up a correspondence that works in both directions
 re^{i\theta} \leftrightarrow a + b i
 \end{equation}
 
-This idea can be more dramatically explained with a graph, by showing the left hand side as a vertical line and the right hand side as a circle.
+The formula can be more dramatically explained with a graph, by showing the left hand side as a vertical line and the right hand side as a circle.
 
 
 
