@@ -1,0 +1,1 @@
+A **complex number** is a number of the form $a+ b \iota$ where $\iota = \sqrt{-1}$.
