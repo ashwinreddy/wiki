@@ -4,9 +4,7 @@ The **Chinese remainder theorem** is a very useful result in number theory that 
 x \equiv a_i \mod n_i,
 \end{equation}
 
-the CRT tells us we can know $x$ up to modulus $N = \prod_i n_i$.
-
-The condition is that we have $k$ pairwise coprime integers; then, we will know $x$ up to modulo the product of those integers.
+the CRT tells us we can know $x$ up to modulus $N = \prod_i n_i$ if the $n_i$ are pairwise coprime integers.
 
 # Linear Algebra analogy
 
