@@ -17,3 +17,9 @@ If one wants to rotate vector $q$ by quaternion $u$, one has to compute
 \begin{equation}
 v' = q v q^{-1} \tag{Rotation by Conjugation}
 \end{equation}
+
+The other caveat is that the angle is off by a factor of two:
+
+\begin{equation}
+q = \cos \frac{\theta}{2} + u \sin \frac{\theta}{2}
+\end{equation}
