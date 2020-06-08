@@ -1,0 +1,1 @@
+The **Fourier series** of a periodic function decomposes it into its constituent sine waves. 
