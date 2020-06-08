@@ -31,3 +31,4 @@ The other caveat is that the angle is off by a factor of two:
 \begin{equation}
 q = \cos \frac{\theta}{2} + u \sin \frac{\theta}{2}
 \end{equation}
+
