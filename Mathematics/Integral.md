@@ -1,1 +1,1 @@
-An **integral** represents the sum of a continuous quantity.
+An **integral** represents the sum of a continuous quantity. 
