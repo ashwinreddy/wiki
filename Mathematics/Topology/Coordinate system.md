@@ -6,7 +6,7 @@ x &\mapsto \begin{bmatrix} \varphi_1(x) & \dots & \varphi_n(x) \end{bmatrix}^\ma
 \end{align}
 
 
-Coordinate
+Coordinate (function)
 : The $k$th coordinate of $\varphi$ is $\varphi_k$.
 
 For example, if $X$ is the earth, then 
