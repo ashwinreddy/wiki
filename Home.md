@@ -1,6 +1,6 @@
 This is the home page of my wiki!
 
-|[Math](./Math/)|[Documentation](./Documentation/)|
+|[Math](./Mathematics/)|[Documentation](./Documentation/)|
 
 * [[Table of Contents]]
 
