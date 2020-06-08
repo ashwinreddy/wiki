@@ -1,4 +1,4 @@
-An **integral** represents the sum of a continuous quantity. It is typically represented by the notation
+An **integral** represents a number of different ideas. The simplest of these is the definite integral, the sum of a continuous quantity. It is typically represented by the notation
 
 \begin{equation}
 \int_a^b f(x)\,\dd{x}
