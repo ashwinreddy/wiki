@@ -1,1 +1,1 @@
-[Dsuite](https://github.com/justinvyu/dsuite)
+[Dsuite](https://github.com/justinvyu/dsuite) has dextrous robotic environments.
