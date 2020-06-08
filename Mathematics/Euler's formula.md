@@ -9,12 +9,3 @@ This idea can be more dramatically explained with a graph, by showing the left h
 
 
 [[https://i0.wp.com/peterjamesthomas.com/wp-content/uploads/2017/03/s1-tangent-space.png|align=center]]
-
-# Topological meaning
-
-[[https://upload.wikimedia.org/wikipedia/en/d/d0/Euler%27s_formula_commutative_diagram.png|align=center]]
-
-
-# Proof
-
-Euler's original proof simply showed this using [[Maclaurin series|Taylor series#Maclaurin-series]] for [[sine]] and [[cosine]].
