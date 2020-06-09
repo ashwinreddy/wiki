@@ -1,4 +1,4 @@
-In higher dimensions, a "small step" requires a direction: the **directional derivative** is a derivative that handles this.
+In higher dimensions, a "small step" requires a direction: the **directional derivative** is an expansion to the derivative that handles this.
 
 \begin{equation}
 D_\vec{v} f(\vec{x}) = \lim_{t \to 0}\frac{f(\vec{x} + t\vec{v}) - f(\vec{x})}{t}
