@@ -1,5 +1,5 @@
 There are two parts to the **fundamental theorem of calculus**
 
 \begin{gather}
-\dv{}{x}\int_c^x f(x) \dd{x}
+\dv{}{x}\int_c^x f(x) \dd{x} = f(x)
 \end{gather}
