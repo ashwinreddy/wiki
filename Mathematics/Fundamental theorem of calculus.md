@@ -8,7 +8,7 @@ There are two parts to the **fundamental theorem of calculus**
 \int_a^b f(x) \,\dd{x} = F(b) - F(a)
 \end{equation}
 
-Notice that the second part suggests that
+Notice that the second part suggests that we can say something like
 
 \begin{equation}
 \int_a^b \dd{F} = F(b) - F(a)
