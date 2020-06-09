@@ -16,4 +16,4 @@ Notice that the second part suggests that we can say something like
 \int_a^b \dd{F} = F(b) - F(a)
 \end{equation}
 
-So perhaps the way to understand a $\dd{f}$ is that it is a function!
+So perhaps the way to understand a differential $\dd{f}$ is that it is a function!
