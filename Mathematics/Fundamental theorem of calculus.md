@@ -11,5 +11,5 @@ There are two parts to the **fundamental theorem of calculus**
 Notice that the second part suggests that
 
 \begin{equation}
-\int_a^b \dd{f} = f(b) - f(a)
+\int_a^b \dd{F} = F(b) - F(a)
 \end{equation}
