@@ -5,5 +5,11 @@ There are two parts to the **fundamental theorem of calculus**
 \end{equation}
 
 \begin{equation}
-\int_a^b \dv{f}{x} \,\dd{x} = f(b) - f(a)
+\int_a^b f(x) \,\dd{x} = F(b) - F(a)
+\end{equation}
+
+Notice that the second part suggests that
+
+\begin{equation}
+\int_a^b \dd{f} = f(b) - f(a)
 \end{equation}
