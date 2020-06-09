@@ -13,5 +13,5 @@ A [[partial derivative]] is given by having $\vec{v}$ purely in the direction of
 Imagining how you would naturally try to compute a directional derivative. Imagine the function $f$ is the temperature at every point in space. To see how it changes in a given direction, you would move in that direction and measure the change in temperature.
 
 \begin{equation}
-(\partial_\vec{v} f)(p) = \dv{}{t}f(p + t\vec{v})
+(\partial_{v} f)(p) = \dv{}{t}f(p + t\vec{v})
 \end{equation}
