@@ -12,17 +12,17 @@ A quaternion can be used to compute a rotation in 3D, although it is a little wo
 \operatorname{Rotation in 3D}: \overbrace{\RR^3}^{\text{vec}} \times \overbrace{\underbrace{\RR^3}\_{\text{axis}} \times \underbrace{\RR}_{\text{angle}}}^{\mathbb{H}} \to \overbrace{\RR^3}^{\text{rotated vec}} \tag{Rotation Signature}
 \end{equation}
 
+So the quaternion encodes the axis $u$ and angle $\theta$ into one package.
 
-If one wants to rotate vector $q$ by quaternion $u$, one has to compute
-
-\begin{equation}
-v' = q v q^{-1} \tag{Rotation by Conjugation}
-\end{equation}
-
-The other caveat is that the angle is off by a factor of two:
 
 \begin{equation}
 q = \cos \frac{\theta}{2} + u \sin \frac{\theta}{2}
+\end{equation}
+
+If one wants to rotate vector $v$ by quaternion $q$, one has to compute
+
+\begin{equation}
+v' = q v q^{-1} \tag{Rotation by Conjugation}
 \end{equation}
 
 
