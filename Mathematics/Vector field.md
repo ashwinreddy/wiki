@@ -1,4 +1,4 @@
-A **vector field** $F$ on a [[manifold]] $M$ assigns a tangent vector to each point on $M$. This defines the signature as manifold to tangent bundle.
+A **vector field** $F$ on a [[manifold]] $M$ assigns a [[tangent vector]] to each point on $M$. This defines the signature as manifold to tangent bundle.
 
 \begin{equation}
 \Gamma(TM) \supset F: M \to TM
