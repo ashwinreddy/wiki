@@ -3,3 +3,7 @@ In higher dimensions, a "small step" requires a direction: the **directional der
 \begin{equation}
 D_\vec{v} f(\vec{x}) = \lim_{t \to 0}\frac{f(\vec{x} + t\vec{v}) - f(\vec{x})}{t}
 \end{equation}
+
+\begin{equation}
+D_\vec{v} f(\vec{x}) = \vec\nabla f(x) \cdot \vec{v}
+\end{equation}
