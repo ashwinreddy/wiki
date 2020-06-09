@@ -10,6 +10,8 @@ To kill a pane, use `x`
 
 To resize a pane, use leader and then `:resize-pane -{L,D,H,R} {n}` to move the pane in the appropriate direction _n_ cells.
 
+To swap panes, use prefix and then `{` or `}`
+
 # Clearing
 
 By default, tmux is kinda fucky when you use command k. For something more sensible, check out [this](https://superuser.com/questions/611373/with-tmux-on-osx-how-can-i-make-commandk-clear-more-gracefully)
