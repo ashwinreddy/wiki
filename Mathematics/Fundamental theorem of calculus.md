@@ -1,7 +1,7 @@
 There are two parts to the **fundamental theorem of calculus**
 
 \begin{equation}
-\dv{}{x}\int_c^x f(x) \,\dd{x} = f(x)
+\dv{}{x}\int_c^x f(x) \,\dd{x} = f(x) \tag{FTC 1}
 \end{equation}
 
 \begin{equation}
