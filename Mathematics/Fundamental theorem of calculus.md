@@ -1,5 +1,9 @@
 There are two parts to the **fundamental theorem of calculus**
 
-\begin{gather}
+\begin{equation}
 \dv{}{x}\int_c^x f(x) \dd{x} = f(x)
-\end{gather}
+\end{equation}
+
+\begin{equation}
+\int_a^b f(x) \dd{x} = F(b) - F(a)
+\end{equation}
