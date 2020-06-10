@@ -1,7 +1,7 @@
 This is the home page of my wiki!
 
 |[Math](./Mathematics/)|[Documentation](./Documentation/)|
-|[Physics](./Physics/)|
+|[Physics](./Physics/)|[Logic](./Logic/)|
 |[Horology](./Horology/)|
 
 * [[Table of Contents]]
