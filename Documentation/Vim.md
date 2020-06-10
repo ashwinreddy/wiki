@@ -2,6 +2,8 @@
 
 # Panes
 
+Horizontal split `:split`, vertical split `:split`
+
 To kill pane, `C-w q`
 
 # Search and Replace
