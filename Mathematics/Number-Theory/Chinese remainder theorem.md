@@ -8,4 +8,4 @@ the CRT tells us we can know $x$ up to modulus $N = \prod_i n_i$ if the $n_i$ ar
 
 # Linear Algebra analogy
 
-One way to think about the Chinese remainder theorem is that it provides a basis with which to describe numbers up to $N$.
+One way to think about the Chinese remainder theorem is that it provides a [[basis]] with which to describe numbers up to $N$.
