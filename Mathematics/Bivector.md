@@ -1,1 +1,1 @@
-A **bivector** is the [[wedge product]] of vectors or the sum of such bivectors. 
+A **bivector** is a 2-blade (a "simple" bivector) or the sum of 2-blades. A 2-blade is just the [[wedge product]] of vectors.
