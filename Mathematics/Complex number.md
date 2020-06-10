@@ -5,7 +5,7 @@ A **complex number** is a number of the form $z = a+ b \iota$ where $\iota$ is t
 It is useful to refer to the real and imaginary parts of a complex number without needing to label these explictly.
 
 \begin{equation}
-\Re {a + b\iota} = a
+\Re \{a + b\iota\} = a
 \end{equation}
 
 # Matrix Construction
