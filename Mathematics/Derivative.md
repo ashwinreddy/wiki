@@ -16,3 +16,9 @@ Equation \ref{eq:vel} is equivalently
 \begin{equation}
 \lim_{\Delta t \to 0}\frac{x(t+ \Delta t) - x(t) - v(t)\Delta t}{\Delta t} = 0
 \end{equation}
+
+This tells us that if we pick a small enough $\Delta t$, 
+
+\begin{equation}
+x(t + \Delta t)\approx x(t) + v(t)\Delta t
+\end{equation}
