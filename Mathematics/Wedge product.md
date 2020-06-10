@@ -1,1 +1,1 @@
-The **wedge product**
+The **wedge product** of two vectors generates a _bivector_
