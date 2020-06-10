@@ -1,0 +1,1 @@
+The **wedge product** takes a $k$-blade and produces a $k+1$-blade.
