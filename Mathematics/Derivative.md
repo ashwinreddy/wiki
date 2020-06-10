@@ -5,11 +5,6 @@ The **derivative** is a measure of local (around a point $a$) rate of change for
 v(t) = \lim_{\Delta t \to 0}\frac{x(t+ \Delta t) - x(t)}{\Delta t}
 \end{equation}
 
-From this formula, Leibniz came up with the notation
-
-\begin{equation}
-v = \dv{x}{t}
-\end{equation}
 
 Equation \ref{eq:vel} is equivalently
 
@@ -21,4 +16,12 @@ This tells us that if we pick a small enough $\Delta t$,
 
 \begin{equation}
 x(t + \Delta t)\approx x(t) + v(t)\Delta t
+\end{equation}
+
+# Notation
+
+From Equation \ref{eq:vel}, Leibniz came up with the notation
+
+\begin{equation}
+v = \dv{x}{t}
 \end{equation}
