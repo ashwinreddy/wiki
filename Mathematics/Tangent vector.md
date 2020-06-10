@@ -1,0 +1,1 @@
+A **tangent vector** is the "velocity you could be going at" for a point on a [[manifold]].
