@@ -1,1 +1,1 @@
-A **bivector** is the [[wedge product]] of vectors or the sum of such bivectors. The space of bivectors on a vector space $V$ is denoted $\bigwedge^2 V$.
+A **bivector** is the [[wedge product]] of vectors or the sum of such bivectors. 
