@@ -1,1 +1,1 @@
-The **wedge product** of two vectors generates a _bivector_
+The **wedge product** of two vectors generates a **bivector**, which is a signed area.
