@@ -5,3 +5,7 @@ The **cross product** is a binary operation that's only really available in $\RR
 \end{equation}
 
 There is some ambiguity here because there are two orthogonal versions, we pick the one based on the right-hand rule.
+
+# Pseudovector
+
+Under a reflection, the cross product gains a sign flip.
