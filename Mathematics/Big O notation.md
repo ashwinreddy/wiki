@@ -5,5 +5,5 @@
 $O(g(x))$ defines an equivalence class of functions $f(x)$ such that
 
 \begin{equation}
-\limsup_{x \to a} \lvert \frac{f(x)}{g(x)} \rvert  < \infty
+\limsup_{x \to a} \vert \frac{f(x)}{g(x)} \rvert  < \infty
 \end{equation}
