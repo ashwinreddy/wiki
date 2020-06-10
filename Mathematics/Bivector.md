@@ -1,0 +1,1 @@
+A **bivector** is the [[wedge product]] of vectors or the sum of such bivectors.
