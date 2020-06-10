@@ -2,7 +2,7 @@ A **complex number** is a number of the form $a+ b \iota$ where $\iota = \sqrt{-
 
 # Matrix Construction
 
-Since $a + b\iota$ is just a linear combination of two vectors, we should be able to represent it using an appropriate 2-dimensional vector space. 
+Since $a + b\iota$ is just a linear combination of two vectors, we should be able to represent it using an appropriate 2-dimensional vector space. Of course, we could just equip $\RR^2$ with the right multiplication structure, but we can also use a matrix so that matrix multiplication _is_ complex multiplication:
 
 \begin{equation}
 a + b \iota = \begin{bmatrix}a & -b \\\\\ b & a\end{bmatrix}
