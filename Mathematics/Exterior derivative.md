@@ -5,5 +5,5 @@ The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation fro
 \end{equation}
 
 \begin{equation}
-\dd{}^2  = 0
+\dd{}^2  \equiv 0
 \end{equation}
