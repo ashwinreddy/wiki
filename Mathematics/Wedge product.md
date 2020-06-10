@@ -1,1 +1,1 @@
-The **wedge product** of vectors is similar but distinct to the [[cross product]].
+The **wedge product** of vectors is similar to but distinct from the [[cross product]].
