@@ -2,7 +2,7 @@ A **complex number** is a number of the form $z = a+ b \iota$ where $\iota$ is t
 
 # Notation
 
-It is useful to refer to the real and imaginary parts of a complex number without needing to label these explictly.
+It is useful to refer to the real and imaginary parts of a complex number without needing to label these explictly. 
 
 \begin{equation}
 z \equiv \Re(z) + \iota \Im(z)
