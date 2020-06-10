@@ -1,1 +1,1 @@
-The **wedge product** of two vectors generates a **bivector**, which is a signed area.
+The **wedge product** of vectors is similar to the [[cross product]].
