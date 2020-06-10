@@ -1,1 +1,1 @@
-A **Riemann sum** is an implementation of the [[integral]].
+A **Riemann sum** is an implementation of the definite [[integral]].
