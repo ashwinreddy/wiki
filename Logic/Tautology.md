@@ -1,0 +1,1 @@
+A **tautology** is a statement which is guaranteed true.
