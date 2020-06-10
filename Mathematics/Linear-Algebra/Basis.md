@@ -1,0 +1,1 @@
+A **basis** for a [[vector space]] is a minimal set of elements needed to express the entirety of the space.
