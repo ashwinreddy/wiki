@@ -8,4 +8,4 @@ $O(g(x))$ defines an equivalence class of functions $f(x)$ such that
 \limsup_{x \to a} \left\vert \frac{f(x)}{g(x)} \right\vert  < \infty
 \end{equation}
 
-Basically $O(x^n)$ refers to anything that grows slower than $x^n$
+Basically $O(x^n)$ refers to anything that grows slower than $x^n$.
