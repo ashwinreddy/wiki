@@ -1,0 +1,1 @@
+A **differential $k$-form** is something you can integrate over a $k$-dimensional manifold.
