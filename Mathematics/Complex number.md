@@ -1,7 +1,7 @@
 A **complex number** is a number of the form $a+ b \iota$ where $\iota = \sqrt{-1}$. The complex numbers naturally describe the 2D plane as [[Euler's formula]] allows us to use them both for polar and Cartesian coordinates. In addition, their algebra means that a complex number "encodes" a rotation through multiplication.
 
 \begin{equation}
-\bar{a+b\iota} = a - b\iota
+\overline{a+b\iota} = a - b\iota
 \end{equation}
 
 # Matrix Construction
