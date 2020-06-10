@@ -1,0 +1,1 @@
+The **cross product** is a binary operation that's only really available in $\RR^3$.
