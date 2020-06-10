@@ -5,5 +5,5 @@ A **complex number** is a number of the form $a+ b \iota$ where $\iota = \sqrt{-
 ## Matrix
 
 \begin{equation}
-a + b \iota = \begin{bmatrix}a & -b \\ b & a\end{bmatrix}
+a + b \iota = \begin{bmatrix}a & -b \\\\\ b & a\end{bmatrix}
 \end{equation}
