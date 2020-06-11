@@ -1,5 +1,5 @@
 The **gradient** of a function is a vector that points in the direction of maximal ascent. Concretely, it is the collection of a functions [[partial derivatives|partial derivative]].
 
 \begin{equation}
-(\vec\nabla f)_i = \pdv{f}{x_i}
+\left(\vec\nabla f\right)_i = \pdv{f}{x_i}
 \end{equation}
