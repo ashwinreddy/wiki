@@ -1,0 +1,1 @@
+The **gradient** of a function is a vector that points in the direction of maximal ascent. Concretely, it is the collection of a functions [[partial derivatives|partial derivative]].
