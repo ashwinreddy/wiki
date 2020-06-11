@@ -1,1 +1,1 @@
-**Computer science** is the study of unambiguously describing and solving problems.
+**Computer science** is the study of unambiguously describing and solving problems. Thus, computer science is enmeshed with mathematics, which provides the concepts for formalizing problems.
