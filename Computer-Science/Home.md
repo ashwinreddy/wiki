@@ -1,0 +1,1 @@
+**Computer science** is the study of unambiguously describing and solving problems.
