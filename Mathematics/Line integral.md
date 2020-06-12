@@ -1,0 +1,1 @@
+A **line integral** is an [[integral]] over a curve in space.
