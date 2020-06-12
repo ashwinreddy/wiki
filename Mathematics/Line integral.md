@@ -1,1 +1,1 @@
-A **line integral** is an [[integral]] over a curve in space.
+A **line integral** is an [[integral]] of a scalar or vector field over a curve in space.
