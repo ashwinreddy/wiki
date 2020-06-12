@@ -1,6 +1,6 @@
 This is the home page of my wiki!
 
-|[Mathematics](./Mathematics)|
+|[Mathematics](./Mathematics/Home)|
 
 ---
 
