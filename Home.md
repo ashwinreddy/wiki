@@ -1,2 +1,1 @@
-
-[[include:Philosophy.md]]
+[[include:Philosophy]]
