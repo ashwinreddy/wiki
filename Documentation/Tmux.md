@@ -2,6 +2,10 @@
 
 The default prefix leader is `Ctrl-B`, but I've remapped this in my [dotfiles](https://github.com/ashwinreddy/dotfiles/blob/master/.tmux.conf#L1). To reload, use `:source-file ~/.tmux.conf`
 
+# Sessions
+
+Use prefix + s to switch between sessions.
+
 # Panes
 
 Use `"` for horizontal and `%` for vertical.
