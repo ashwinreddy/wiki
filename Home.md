@@ -1,6 +1,6 @@
 This is the home page of my wiki!
 
-|[Mathematics](./Mathematics/Home)|
+|[Physics](./Physics)|[Mathematics](./Mathematics/Home)|[Computer Science](./Computer-Science/)|
 
 ---
 
