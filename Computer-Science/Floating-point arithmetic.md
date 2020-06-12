@@ -1,0 +1,1 @@
+**Floating-point arithmetic** is the arithmetic that follows when storing numbers in essentially the same way that people write down numbers in scientific notation.
