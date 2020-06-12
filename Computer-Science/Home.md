@@ -2,4 +2,4 @@
 
 > Computer science is no more about computers than astronomy is about telescopes.
 
-Thus, computer science is enmeshed with mathematics, which provides the concepts for formalizing problems.
+Computer science is enmeshed with mathematics, which provides the concepts for formalizing problems.
