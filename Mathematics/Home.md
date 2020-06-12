@@ -13,7 +13,7 @@ Branches of math include
 
 Wikis
 
-* [[https://ncatlab.org/nlab/show/HomePage]]
+* [nLab](https://ncatlab.org/nlab/show/HomePage)
 * [MathWorld](https://mathworld.wolfram.com/)
 
 Textbooks
