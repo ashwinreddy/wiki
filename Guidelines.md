@@ -1,5 +1,5 @@
-1. Every entry must either tell a story or provide me with information I need to solve a problem.
-2. Use analogies/intuition whenever possible. 
-3. When a new term is introduced, bold it.
+1. The goal of an entry is to help explain a concept or provide me with information.
+2. Explanations should emphasize intuition. Simplicity is valued over technical accuracy.
+3. When a new or unfamiliar term is introduced, distinguish it from italics or bolds.
 4. No entry should simply parrot a Wikipedia article.
 5. Equations should be labeled, if possible. 
