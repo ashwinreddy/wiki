@@ -6,6 +6,12 @@ The **cross product** is a binary operation that's only really available in $\RR
 
 There is some ambiguity here because there are two orthogonal versions, we pick the one based on the right-hand rule.
 
+# Computation
+
+\begin{equation}
+\vec{a}\times\vec{b} = \begin{vmatrix}i & j & k \\\\\ a_1 & a_2 & a_3 \\\\\ b_1 & b_2 & b_3 \end{vmatrix}
+\end{equation}
+
 # Pseudovector
 
 Under a reflection, the cross product gains a sign flip.
