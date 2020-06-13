@@ -1,5 +1,5 @@
 An **infinitesimal transformation** is given by
 
 \begin{equation}
-T = I + \epsilon A
+T = I + \varepsilon A
 \end{equation}
