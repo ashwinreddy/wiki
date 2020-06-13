@@ -24,12 +24,13 @@ U(1) is given by unit complex numbers.
 
 # [[Lie algebra]]
 
-The Lie algebra is given by the one-dimensional vector space $\\{ \iota t: t \in \RR \\}$
+The Lie algebra is given by the one-dimensional vector space $\\{ \iota \theta: \theta \in \RR \\}$
 
 \begin{equation}
+\iota\theta\longleftrightarrow 
 \begin{bmatrix}
-0 & -1 \\\\\ 1 & 0
-\end{bmatrix} \longleftrightarrow \iota
+0 & -\theta \\\\\ \theta & 0
+\end{bmatrix} 
 \end{equation}
 
 The exponential function takes us from the algebra to the group, as [[Euler's formula]] tells us.
