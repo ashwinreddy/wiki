@@ -24,10 +24,11 @@ U(1) is given by unit complex numbers.
 
 # [[Lie algebra]]
 
-The Lie algebra is given by just one skew-symmetric matrix
+The Lie algebra is given by just one skew-symmetric matrix or complex number, based on which isomorphism you want to use.
 
 \begin{equation}
 \begin{bmatrix}
 0 & -1 \\\\\ 1 & 0
 \end{bmatrix} \longleftrightarrow \iota
 \end{equation}
+
