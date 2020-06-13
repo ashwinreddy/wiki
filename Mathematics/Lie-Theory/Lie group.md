@@ -2,4 +2,4 @@ A **Lie group** $(G, \cdot)$ is a differentiable [[manifold]] with [[group]] str
 
 The simplest interesting example of a Lie group is probably the [[circle group]].
 
-Every Lie group has a [[Lie algebra]] that we can use to help understand the group better.
+Every Lie group $G$ has a [[Lie algebra]] $\mathfrak{g}$ that we can use to help understand the group better.
