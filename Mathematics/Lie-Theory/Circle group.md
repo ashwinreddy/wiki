@@ -16,4 +16,4 @@ because $R(\alpha + \beta) = R(\alpha)R(\beta)$.
 
 # U(1)
 
-U(1) is given by $e^{\iota \theta}$ for $\theta \in [0, 2\pi]$.
+U(1) is given by unit complex numbers.
