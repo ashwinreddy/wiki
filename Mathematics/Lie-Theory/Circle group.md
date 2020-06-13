@@ -5,3 +5,7 @@ The **circle group** $\mathbb{T}$ is the set of points on a unit circle with gro
 \end{equation}
 
 # SO(2)
+
+\begin{equation}
+\begin{bmatrix} \cos\theta & -\sin\theta \\\\\ \sin\theta & \cos\theta \end{bmatrix}
+\end{equation}
