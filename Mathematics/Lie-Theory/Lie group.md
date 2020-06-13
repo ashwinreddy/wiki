@@ -1,1 +1,1 @@
-A **Lie group** $G$ is a [[group]]
+A **Lie group** $G$ is simultaneously a [[group]] and a differentiable [[manifold]].
