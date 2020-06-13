@@ -10,5 +10,5 @@ Clearly, there will be information loss for any matrix of rank greater than one,
 # Computation
 
 \begin{equation}
-\begin{vmatrix} a & b \\\\\ c & d\end{vmatrix} = ad-bc \tag{$2\times 2$ determinatn}
+\begin{vmatrix} a & b \\\\\ c & d\end{vmatrix} = ad-bc \tag{$2\times 2$ determinant}
 \end{equation}
