@@ -10,4 +10,4 @@ O^\mathsf{T}O = I \tag{Orthogonality}
 
 # [[Lie algebra]]
 
-The Lie algebra is $\RR^3$ with the [[cross product]].
+The Lie algebra is $\RR^3$ with the [[cross product]] as the bracket.
