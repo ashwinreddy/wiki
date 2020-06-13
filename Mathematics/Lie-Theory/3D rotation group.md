@@ -11,7 +11,7 @@ O^\mathsf{T}O = I \tag{Orthogonality Condition}
 # [[Lie algebra]]
 
 
-First, we need to determine $T_e \operatorname{SO}(3)$, which consists of all matrices $X$ such that $\exp(tX) \in \operatorname{SO}(3)$.
+First, we need to determine $T_e \operatorname{SO}(3)$, which consists of all matrices $X$ such that $\exp(tX) \in \operatorname{SO}(3)$. This happens to be skew-symmetric matrices.
 
 The Lie algebra $\mathfrak{so}(3)$ is isomorphic to $\RR^3$ with the [[cross product]] as the bracket.
 
