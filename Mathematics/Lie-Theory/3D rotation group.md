@@ -12,7 +12,7 @@ O^\mathsf{T}O = I \tag{Orthogonality Condition}
 
 # [[Infinitesimal transformation]]
 
-The infinitesimal transformation is given by
+First, we need to determine $T_e \operatorname{SO}(3)$, which consists of all matrices $X$ such that $\exp(tX) \in \operatorname{SO}(3)$. The infinitesimal transformation is given by
 
 \begin{gather}
 O = I + \varepsilon J
@@ -23,14 +23,13 @@ We then impose \ref{eq:orth} to determine that
 \begin{gather}
 (I + \varepsilon J)^\mathsf{T}(I + \varepsilon J) = I \\\\\
 I  + \varepsilon J + \varepsilon J^\mathsf{T} + \cancelto{0}{\varepsilon^2 J^\mathsf{T} J} = I \\\\\
-J + J^\mathsf{T} = 0 \tag{Antisymmetric}
+J + J^\mathsf{T} = 0 \tag{Skew-symmetric}
 \end{gather}
 
+This tells us that the Lie algebra consists of skew-symmetric matrices.
 
 # [[Lie algebra]]
 
-
-First, we need to determine $T_e \operatorname{SO}(3)$, which consists of all matrices $X$ such that $\exp(tX) \in \operatorname{SO}(3)$. This happens to be skew-symmetric matrices. 
 
 
 
