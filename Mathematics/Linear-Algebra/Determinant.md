@@ -9,6 +9,8 @@ Clearly, there will be information loss for any matrix of rank greater than one,
 
 # Computation
 
+The computation itself is probably the least interesting aspect of determinants, but it is important.
+
 \begin{equation}
 \begin{vmatrix} a & b \\\\\ c & d\end{vmatrix} = ad-bc \tag{$2\times 2$ determinant}
 \end{equation}
