@@ -1,0 +1,1 @@
+The **tangent space** for a manifold $M$ at a point $p$ consists of all the [[tangent vectors|tangent vector]] going through $p$.
