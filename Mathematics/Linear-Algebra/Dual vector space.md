@@ -1,1 +1,1 @@
-The **dual vector space** for a [[vector space]] $V$ is just Hom$_k$
+The **dual vector space** for a [[vector space]] $V$ is just $\operatorname{Hom}(V, k)$
