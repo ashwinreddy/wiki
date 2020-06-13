@@ -1,1 +1,1 @@
-A **Lie group** $G$ is simultaneously a [[group]] and a differentiable [[manifold]].
+A **Lie group** $(G, \cdot)$ is simultaneously a [[group]] and a differentiable [[manifold]]. The compatability between these two abstractions is enforced by demanding that group multiplication and inversion are smooth.
