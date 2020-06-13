@@ -1,1 +1,1 @@
-The **general linear group** $\operatorname{GL}_n(F)$ of order $n$ refers to $n \times n$ invertible matrices.
+The **general linear group** $\operatorname{GL}_n(F)$ of order $n$ refers to $n \times n$ invertible matrices over $F$.
