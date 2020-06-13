@@ -14,7 +14,7 @@ O^\mathsf{T}O = I \tag{Orthogonality Condition}
 First, we need to determine $T_e \operatorname{SO}(3)$, which consists of all matrices $X$ such that $\exp(tX) \in \operatorname{SO}(3)$. This happens to be skew-symmetric matrices. A common basis choice is
 
 \begin{equation}
-{\displaystyle L_{\mathbf {x} }=\left[{\begin{matrix}0&0&0\\0&0&-1\\0&1&0\end{matrix}}\right],\quad L_{\mathbf {y} }=\left[{\begin{matrix}0&0&1\\0&0&0\\-1&0&0\end{matrix}}\right],\quad L_{\mathbf {z} }=\left[{\begin{matrix}0&-1&0\\1&0&0\\0&0&0\end{matrix}}\right].}
+L_x = \begin{bmatrix}0 & 0 & 0 \\\\\ 0 & 0 & -1 \\\\\ 0 & 1 & 0 \end{bmatrix}
 \end{equation}
 
 The Lie algebra $\mathfrak{so}(3)$ is isomorphic to $\RR^3$ with the [[cross product]] as the bracket.
