@@ -6,8 +6,10 @@ The **circle group** $\mathbb{T}$ is the set of points on a unit circle with gro
 
 # SO(2)
 
-SO(2) is a [[one-parameter group]]
+SO(2) is a [[one-parameter group]] given by
 
 \begin{equation}
 R(\theta) = \begin{bmatrix} \cos\theta & -\sin\theta \\\\\ \sin\theta & \cos\theta \end{bmatrix}
 \end{equation}
+
+because $R(\alpha + \beta) = R(\alpha)R(\beta)$.
