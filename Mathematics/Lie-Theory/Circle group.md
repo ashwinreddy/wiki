@@ -32,7 +32,7 @@ The Lie algebra is given by just one skew-symmetric matrix or complex number, ba
 \end{bmatrix} \longleftrightarrow \iota
 \end{equation}
 
-The exponential function takes us from the algebra to the group:
+The exponential function takes us from the algebra to the group, as [[Euler's formula]] tells us.
 
 \begin{equation}
 e^{\iota \theta} = R(\theta)
