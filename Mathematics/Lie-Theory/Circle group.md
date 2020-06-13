@@ -4,6 +4,8 @@ The **circle group** $\mathbb{T}$ is the set of points on a unit circle with gro
 \mathbb{T} \cong \operatorname{SO}(2) \cong \operatorname{U}(1)
 \end{equation}
 
+In any case, the circle group is a [[Lie group]]!
+
 # SO(2)
 
 SO(2) is a [[one-parameter group]] given by
