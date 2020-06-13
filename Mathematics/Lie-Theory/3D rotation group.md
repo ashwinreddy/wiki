@@ -10,6 +10,8 @@ O^\mathsf{T}O = I \tag{Orthogonality Condition}
 
 # [[Lie algebra]]
 
+First, we need to determine $T_e \operatorname{SO}(3)$.
+
 The Lie algebra $\mathfrak{so}(3)$ is isomorphic to $\RR^3$ with the [[cross product]] as the bracket.
 
 \begin{equation}
