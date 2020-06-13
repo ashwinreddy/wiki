@@ -21,5 +21,3 @@ because $R(\alpha + \beta) = R(\alpha)R(\beta)$.
 ## U(1)
 
 U(1) is given by unit complex numbers.
-
-# Lie algebra
