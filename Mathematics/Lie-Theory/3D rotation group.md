@@ -2,4 +2,4 @@ The **3D rotation group** is the [[Lie group]] of rotations in three-dimensions,
 
 # [[Lie algebra]]
 
-The Lie algebra consists of skew-symmetric $3 \times 3$ matrices.
+The Lie algebra is $\RR^3$ with the [[cross product]].
