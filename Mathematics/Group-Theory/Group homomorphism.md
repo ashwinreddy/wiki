@@ -3,3 +3,8 @@ A **group homomorphism** is a function that "preserves" group multiplication. Gi
 \begin{equation}
 f( g_1 \diamondsuit g_2 ) = f(g_1) \heartsuit f(g_2)
 \end{equation}
+
+A homomorphism in and of itself is not that exciting: one can always generate the trivial homomorphism.
+
+Trivial homomorphism
+: A homomorphism $f(g) = e_H$ is trivially a homomorphism.
