@@ -24,7 +24,7 @@ U(1) is given by unit complex numbers.
 
 # [[Lie algebra]]
 
-The Lie algebra is given by the set $\{ \iota t: t \in \RR \}$
+The Lie algebra is given by the one-dimensional vector space $\\{ \iota t: t \in \RR \\}$
 
 \begin{equation}
 \begin{bmatrix}
