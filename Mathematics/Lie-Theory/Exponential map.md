@@ -1,4 +1,4 @@
-The **exponential map** is the portal from a [[Lie algebra]] to its [[Lie group]]:
+The **exponential map** is the "delinearization" portal from a [[Lie algebra]] to its [[Lie group]]:
 
 \begin{equation}
 \exp: \mathfrak{g} \to G
