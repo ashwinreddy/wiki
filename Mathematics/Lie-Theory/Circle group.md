@@ -28,6 +28,6 @@ The Lie algebra is given by skew-symmetric matrices
 
 \begin{equation}
 \begin{bmatrix}
-a & -b \\\\\ b & a
+0 & -b \\\\\ b & 0
 \end{bmatrix}
 \end{equation}
