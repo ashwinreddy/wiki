@@ -21,3 +21,13 @@ because $R(\alpha + \beta) = R(\alpha)R(\beta)$.
 ## U(1)
 
 U(1) is given by unit complex numbers.
+
+# [[Lie algebra]]
+
+The Lie algebra is given by skew-symmetric matrices
+
+\begin{equation}
+\begin{bmatrix}
+a & -b \\\\\ b & a
+\end{bmatrix}
+\end{equation}
