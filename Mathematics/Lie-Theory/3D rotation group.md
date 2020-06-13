@@ -5,7 +5,7 @@ O^\mathsf{T}O = I \tag{Orthogonality}
 \end{equation}
 
 \begin{equation}
-\det O = 1 \text{Special Condition}
+\det O = 1 \tag{Special Condition}
 \end{equation}
 
 # [[Lie algebra]]
