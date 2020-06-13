@@ -20,9 +20,10 @@ O = I + \varepsilon J
 
 We then impose \ref{eq:orth} to determine that
 
-\begin{equation}
-(I + \varepsilon J)^\mathsf{T}(I + \varepsilon J) = I
-\end{equation}
+\begin{gather}
+(I + \varepsilon J)^\mathsf{T}(I + \varepsilon J) = I \\\\\
+I + \varepsilon J^\mathsf{T} + \varepsilon J + \varepsilon^2 J^\mathsf{T} J = I
+\end{gather}
 
 
 # [[Lie algebra]]
