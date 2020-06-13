@@ -2,8 +2,10 @@ A **rotation matrix** is a matrix $A$ that represents a rotation in the sense th
 
 # 2D
 
+In 2D, a rotation matrix for angle $\theta$,
+
 \begin{equation}
-\begin{bmatrix}
+R(\theta) = \begin{bmatrix}
 \cos \theta & - \sin\theta \\\\\
 \sin\theta & \cos\theta
 \end{bmatrix}
