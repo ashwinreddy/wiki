@@ -36,5 +36,5 @@ The Lie algebra is given by the one-dimensional vector space $\\{ \iota \theta: 
 The exponential function takes us from the algebra to the group, as [[Euler's formula]] tells us.
 
 \begin{equation}
-e^{\iota \theta} = R(\theta)
+\exp {\iota \theta} = R(\theta)
 \end{equation}
