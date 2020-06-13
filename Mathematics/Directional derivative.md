@@ -1,4 +1,4 @@
-In higher dimensions, a "small step" requires a direction: the **directional derivative** is an expansion to the [[derivative]] that handles this.
+The **directional derivative** is an expansion to the [[derivative]] in higher dimensions that handles the "small step" in an arbitrary direction.
 
 \begin{equation}
 \partial_v f(x) = \lim_{t \to 0}\frac{f(x+tv) - f(x)}{t}
