@@ -4,7 +4,9 @@ The **circle group** $\mathbb{T}$ is a [[Lie group]]. Its elements are the set o
 \mathbb{T} \cong \operatorname{SO}(2) \cong \operatorname{U}(1)
 \end{equation}
 
-# SO(2)
+# Representations
+
+## SO(2)
 
 SO(2) is a [[one-parameter group]] given by
 
@@ -14,6 +16,8 @@ R(\theta) = \begin{bmatrix} \cos\theta & -\sin\theta \\\\\ \sin\theta & \cos\the
 
 because $R(\alpha + \beta) = R(\alpha)R(\beta)$.
 
-# U(1)
+## U(1)
 
 U(1) is given by unit complex numbers.
+
+# Lie algebra
