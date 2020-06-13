@@ -1,0 +1,1 @@
+The **dual vector space** for a [[vector space]] $V$ is just Hom$_k$
