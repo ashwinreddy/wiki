@@ -1,18 +1,29 @@
 The **3D rotation group** is the [[Lie group]] of rotations in three-dimensions, denoted $\operatorname{SO}(3)$. It consists of matrices $O$ such that 
 
 \begin{equation}
+\label{eq:orth}
 O^\mathsf{T}O = I \tag{Orthogonality Condition}
 \end{equation}
 
 \begin{equation}
+\label{eq:spec}
 \det O = 1 \tag{Special Condition}
 \end{equation}
 
 # [[Infinitesimal transformation]]
 
+The infinitesimal transformation is given by
+
 \begin{gather}
 O = I + \varepsilon J
 \end{gather}
+
+We then impose \ref{eq:orth} to determine that
+
+\begin{equation}
+(I + \varepsilon J)^\mathsf{T}(I + \varepsilon J) = I
+\end{equation}
+
 
 # [[Lie algebra]]
 
