@@ -29,5 +29,5 @@ The Lie algebra is given by skew-symmetric matrices
 \begin{equation}
 \begin{bmatrix}
 0 & -b \\\\\ b & 0
-\end{bmatrix}
+\end{bmatrix} \longleftrightarrow bi
 \end{equation}
