@@ -8,10 +8,16 @@ O^\mathsf{T}O = I \tag{Orthogonality Condition}
 \det O = 1 \tag{Special Condition}
 \end{equation}
 
+# [[Infinitesimal transformation]]
+
 # [[Lie algebra]]
 
 
-First, we need to determine $T_e \operatorname{SO}(3)$, which consists of all matrices $X$ such that $\exp(tX) \in \operatorname{SO}(3)$. This happens to be skew-symmetric matrices. A common basis choice is
+First, we need to determine $T_e \operatorname{SO}(3)$, which consists of all matrices $X$ such that $\exp(tX) \in \operatorname{SO}(3)$. This happens to be skew-symmetric matrices. 
+
+
+
+A common basis choice is
 
 \begin{equation}
 L_x = \begin{bmatrix}0 & 0 & 0 \\\\\ 0 & 0 & -1 \\\\\ 0 & 1 & 0 \end{bmatrix}, \quad L_y = \begin{bmatrix}0 & 0 & 1 \\\\\ 0 & 0 & 0 \\\\\ -1 & 0 & 0 \end{bmatrix}, \quad L_z = \begin{bmatrix}0 & -1 & 0 \\\\\ 1 & 0 & 0 \\\\\ 0 & 0 & 0 \end{bmatrix}
