@@ -7,7 +7,7 @@ e^{ix} = \overbrace{\cos x + \iota \sin x}^{\text{unit circle}} \tag{Euler}
 This sets up a correspondence that works in both directions
 
 \begin{equation}
-re^{i\theta} \leftrightarrow a + b i
+re^{i\theta} \longleftrightarrow a + b i
 \end{equation}
 
 The formula can be more dramatically explained with a graph, by showing the left hand side as a vertical line and the right hand side as a circle.
