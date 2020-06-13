@@ -9,7 +9,7 @@ There is some ambiguity here because there are two orthogonal versions, we pick 
 # Computation
 
 \begin{equation}
-\vec{a}\times\vec{b} = \begin{vmatrix} \hat{\imath} & \hat{\jmath} & \hat{k} \\\\\ a_1 & a_2 & a_3 \\\\\ b_1 & b_2 & b_3 \end{vmatrix}
+\vec{a}\times\vec{b} = \begin{vmatrix} \mathbf\hat{\imath} & \hat{\jmath} & \hat{k} \\\\\ a_1 & a_2 & a_3 \\\\\ b_1 & b_2 & b_3 \end{vmatrix}
 \end{equation}
 
 # Pseudovector
