@@ -1,1 +1,1 @@
-The **general linear group** GL(n)
+The **general linear group** $\operatorname{GL}(n)$ of order $n$ refers to $n \times n$ invertible matrices.
