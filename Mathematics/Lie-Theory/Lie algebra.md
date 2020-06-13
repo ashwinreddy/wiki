@@ -1,0 +1,1 @@
+A **Lie algebra** is a [[vector space]] with an alternating bilinear map satisfying the Jacobi identity called the Lie bracket.
