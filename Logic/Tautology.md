@@ -1,1 +1,1 @@
-A **tautology** is a statement which is guaranteed true, regardless of the actual propositional variables.
+A **tautology** is a statement which is guaranteed true, regardless of the actual propositional variables. For example, _x_ or not _x_ will always be true.
