@@ -10,7 +10,7 @@ O^\mathsf{T}O = I \tag{Orthogonality Condition}
 
 # [[Lie algebra]]
 
-The Lie algebra $\mathfrak{so}(3)$ is $\RR^3$ with the [[cross product]] as the bracket.
+The Lie algebra $\mathfrak{so}(3)$ is isomorphic to $\RR^3$ with the [[cross product]] as the bracket.
 
 \begin{equation}
 \exp: \mathfrak{so}(3) \to \operatorname{SO}(3)
