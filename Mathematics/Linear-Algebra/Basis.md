@@ -8,6 +8,6 @@ A **basis** $\mathcal{B}$ for a [[vector space]] is a minimal set of elements $\
 In other words, any $\vec{v} \in V$ can be written as
 
 \begin{equation}
-\vec{v} = \sum_{i=1}^{\dim V} a_i \mathcal{b}_i
+\vec{v} = \sum_{i=1}^{\dim V} a_i \mathbf{b}_i
 \end{equation}
 
