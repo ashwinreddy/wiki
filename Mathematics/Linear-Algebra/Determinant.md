@@ -6,3 +6,9 @@ The **determinant** of a square matrix compresses the information in a matrix to
 \end{equation}
 
 Clearly, there will be information loss for any matrix of rank greater than one, so what can the determinant really tell us? The sign of the scalar tells you whether the transformation flips the coordinate orientation, and the absolute value tells you the volume spanned by the vectors of the matrix. Critically, a matrix is singular if and only if its determinant is zero.
+
+# Computation
+
+\begin{equation}
+\begin{vmatrix} a & b \\\\\ c & d\end{vmatrix} = ad-bc
+\end{equation}
