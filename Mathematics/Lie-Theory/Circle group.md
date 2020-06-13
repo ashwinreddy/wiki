@@ -13,3 +13,7 @@ R(\theta) = \begin{bmatrix} \cos\theta & -\sin\theta \\\\\ \sin\theta & \cos\the
 \end{equation}
 
 because $R(\alpha + \beta) = R(\alpha)R(\beta)$.
+
+# U(1)
+
+U(1) is given by $e^{\iota \theta}$ for $\theta \in [0, 2\pi]$.
