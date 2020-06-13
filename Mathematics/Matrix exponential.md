@@ -5,5 +5,5 @@ e^X = \sum_{k=0}^\infty \frac{1}{k!}X^k
 \end{equation}
 
 \begin{equation}
-\det e^A = e^{\operatorname{tr}\trae A}
+\det e^A = e^{\operatorname{tr}\trace A}
 \end{equation}
