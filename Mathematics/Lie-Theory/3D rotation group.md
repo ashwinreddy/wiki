@@ -1,1 +1,1 @@
-The **3D rotation group** is the group of rotations in three-dimensions, denoted $\operatorname{SO}(3)$.
+The **3D rotation group** is the [[Lie group]] of rotations in three-dimensions, denoted $\operatorname{SO}(3)$.
