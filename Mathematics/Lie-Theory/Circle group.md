@@ -1,0 +1,1 @@
+The **circle group** is the set of points on a unit circle with group action as rotation.
