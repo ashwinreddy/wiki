@@ -10,6 +10,10 @@ O^\mathsf{T}O = I \tag{Orthogonality Condition}
 
 # [[Infinitesimal transformation]]
 
+\begin{gather}
+O = I + \varepsilon J
+\end{gather}
+
 # [[Lie algebra]]
 
 
