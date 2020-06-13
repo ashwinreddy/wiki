@@ -4,4 +4,4 @@
 x = m \times 10^n
 \end{equation}
 
-where $m$ is called the significand or mantissa.
+where $m$ is called the significand or mantissa and $n$ is an integer.
