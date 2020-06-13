@@ -4,6 +4,12 @@
 i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
 \end{equation}
 
+A generic quaternion looks like
+
+\begin{equation}
+q = a + bi + cj + dk
+\end{equation}
+
 # Rotations
 
 A quaternion can be used to compute a rotation in 3D, although it is a little wonky.
