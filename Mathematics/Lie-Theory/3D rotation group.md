@@ -22,7 +22,7 @@ We then impose \ref{eq:orth} to determine that
 
 \begin{gather}
 (I + \varepsilon J)^\mathsf{T}(I + \varepsilon J) = I \\\\\
-I  + \varepsilon J + \varepsilon J^\mathsf{T} + \varepsilon^2 J^\mathsf{T} J = I
+I  + \varepsilon J + \varepsilon J^\mathsf{T} + \cancelto{0}{\varepsilon^2 J^\mathsf{T} J} = I
 \end{gather}
 
 
