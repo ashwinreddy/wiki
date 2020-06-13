@@ -1,4 +1,4 @@
-A **Lie group** $(G, \cdot)$ is a differentiable [[manifold]] with [[group]] structure. The compatability between these two abstractions is enforced by demanding that group multiplication and inversion are smooth.
+A **Lie group** $(G, \cdot)$ is a differentiable [[manifold]] with [[group]] structure. The compatability between these two abstractions is enforced by demanding that group multiplication and inversion are smooth. Every group can be made into a Lie group by giving it the discrete topology, so we usually focus on connected groups.
 
 The simplest interesting example of a Lie group is probably the [[circle group]].
 
