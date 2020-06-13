@@ -4,6 +4,8 @@ The **circle group** $\mathbb{T}$ is a [[Lie group]]. Its elements are the set o
 \mathbb{T} \cong \operatorname{SO}(2) \cong \operatorname{U}(1)
 \end{equation}
 
+[[_TOC_]]
+
 # Representations
 
 ## SO(2)
