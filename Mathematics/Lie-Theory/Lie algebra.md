@@ -4,7 +4,7 @@ A **Lie algebra** is a [[vector space]] with an alternating bilinear operator $[
 
 Given a Lie group $G$, a useful Lie algebra for $G$ comes from equipping $T_e G$ with the right bracket.
 
-# Lie algebra homomorphism
+# Homomorphism
 
 A **Lie algebra homomorphism** is a linear map between Lie algebras that is compatible with the Lie bracket.
 
