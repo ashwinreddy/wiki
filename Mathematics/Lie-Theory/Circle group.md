@@ -35,5 +35,5 @@ The Lie algebra is given by just one skew-symmetric matrix or complex number, ba
 The exponential function takes us from the algebra to the group:
 
 \begin{equation}
-e^{\iota theta} = R(\theta)
+e^{\iota \theta} = R(\theta)
 \end{equation}
