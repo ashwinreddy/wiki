@@ -1,1 +1,1 @@
-A **Lie algebra** is a [[vector space]] with an alternating bilinear operator $[-,-]: V \times V \to V$ satisfying the Jacobi identity called the Lie bracket.
+A **Lie algebra** is a [[vector space]] with an alternating bilinear operator $[-,-]: V \times V \to V$ satisfying the Jacobi identity called the **Lie bracket**.
