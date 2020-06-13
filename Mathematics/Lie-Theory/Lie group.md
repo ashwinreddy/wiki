@@ -1,0 +1,1 @@
+A **Lie group** $G$ is a [[group]]
