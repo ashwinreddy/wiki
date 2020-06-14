@@ -7,5 +7,5 @@
 In multiple dimensions,
 
 \begin{equation}
-\int_U f(\vec{v}) \dd{\vec{v}}
+\int_U f(\vec{v}) \dd{\vec{v}} = \int_U f(\phi(\vec{v}))
 \end{equation}
