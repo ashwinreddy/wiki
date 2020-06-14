@@ -23,5 +23,5 @@ A useful mnemonic is
 \end{equation}
 
 \begin{equation}
-[\vec{a}]_{\times} = \begin{bmatrix}0 & -a_3 & a_2 \\ a_3 & 0 & -a_1 \\ -a_2 & a_1 & 0\end{bmatrix}
+[\vec{a}]_{\times} = \begin{bmatrix}0 & -a_3 & a_2 \\\\\ a_3 & 0 & -a_1 \\\\\ -a_2 & a_1 & 0\end{bmatrix}
 \end{equation}
