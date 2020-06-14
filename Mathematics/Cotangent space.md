@@ -1,0 +1,1 @@
+The **cotangent space** $T_p^* M$ is the [[dual vector space]]
