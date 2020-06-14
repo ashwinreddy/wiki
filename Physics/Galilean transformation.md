@@ -8,5 +8,5 @@ t' &= t
 \end{align}
 
 \begin{equation}
-\begin{bmatrix} x' \\\\\ y' \\\\\ z' \\\\\ t' \end{bmatrix} = \begin{bmatrix} 1 & 0 & 0 & 0 \\\\\ 0 & 1 & 0 & 0 \\\\\ 0 & 0 & 1 & 0 \\\\\ 0 & 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} x \\\\\ y \\\\\ z \\\\\ t \end{bmatrix}
+\begin{bmatrix} x' \\\\\ y' \\\\\ z' \\\\\ t' \end{bmatrix} = \begin{bmatrix} 1 & 0 & 0 & -v \\\\\ 0 & 1 & 0 & 0 \\\\\ 0 & 0 & 1 & 0 \\\\\ 0 & 0 & 0 & 1 \end{bmatrix} \begin{bmatrix} x \\\\\ y \\\\\ z \\\\\ t \end{bmatrix}
 \end{equation}
