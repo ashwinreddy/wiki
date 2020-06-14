@@ -1,1 +1,1 @@
-A **versor** is a [[quaternion]] of unit norm.
+A **versor** is a [[quaternion]] of unit norm, which nicely represents an axis-angle rotation.
