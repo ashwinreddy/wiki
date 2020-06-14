@@ -28,6 +28,12 @@ J + J^\mathsf{T} = 0 \tag{Skew-symmetric}
 
 This tells us that the Lie algebra consists of [[skew-symmetric matrices|skew-symmetric matrix]].
 
+A Surprising fact is that
+
+\begin{equation}
+\dv{}{\phi}\Bigg\vert_{t=0} R(\phi, \vec{n})\vec{x} = \vec{n}\times\vec{x}
+\end{equation}
+
 # [[Lie algebra]]
 
 
