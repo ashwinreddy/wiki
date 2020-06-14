@@ -1,5 +1,5 @@
 The **rank** of a matrix is the dimension of its [[range]].
 
 \begin{equation}
-\rank
+\operatorname{rank} A = \dim \mathcal{R}(A)
 \end{equation}
