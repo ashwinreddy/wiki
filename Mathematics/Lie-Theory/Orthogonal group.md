@@ -2,7 +2,7 @@ The **orthogonal group** $\operatorname{O}(n)$ is the [[Lie group]] consisting o
 
 # Tangent vectors
 
-An element of $T_I O(n)$
+An element of $T_I \operatorname{O}(n)$
 
 Consider a path $A(t)$ going through $I$ at time $t=0$.
 
