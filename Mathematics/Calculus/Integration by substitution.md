@@ -7,5 +7,5 @@
 In multiple dimensions,
 
 \begin{equation}
-\int_U f(\phi(\vec{u})) \vert \mathcal{J}_\phi(\vec{u}) \vert \dd{\vec{u}} = \int\_{\phi(U)} f(\vec{v}) \dd{\vec{v}}
+\int_U f(\phi(\vec{u})) \left\vert \mathcal{J}_\phi(\vec{u}) \right\vert \dd{\vec{u}} = \int\_{\phi(U)} f(\vec{v}) \dd{\vec{v}}
 \end{equation}
