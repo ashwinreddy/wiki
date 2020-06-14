@@ -1,1 +1,1 @@
-The **dual vector space** for a [[vector space]] $V$ over a field $k$ is just $\operatorname{Hom}(V, k)$ seen as a vector space. 
+The **dual vector space** for a [[vector space]] $V$ over a field $k$ is just $\operatorname{Hom}(V, k)$ seen as a vector space, denoted $V^*$. 
