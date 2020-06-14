@@ -1,0 +1,1 @@
+A **versor** is a [[quaternion]] of unit norm.
