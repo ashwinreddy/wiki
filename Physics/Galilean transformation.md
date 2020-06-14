@@ -1,1 +1,1 @@
-A **Galilean transformation** translates between a "stationary" reference frame and a moving reference frame.
+A **Galilean transformation** translates between a "stationary" reference frame and a "moving" reference frame.
