@@ -2,11 +2,7 @@ The **orthogonal group** $\operatorname{O}(n)$ is the [[Lie group]] consisting o
 
 # Tangent vectors
 
-The tangent vectors for $\operatorname{O}(n)$ are the skew-symmetric $n \times n$ matries
-
-## Proof
-
-Consider a path $A(t)$ going through $I$ at time $t=0$.
+The tangent vectors for $\operatorname{O}(n)$ are the skew-symmetric $n \times n$ matrices. To see this, consider a path $A(t)$ going through $I$ at time $t=0$.
 
 \begin{gather}
 A(t)A(t)^\mathsf{T} = 1 \\\\\
