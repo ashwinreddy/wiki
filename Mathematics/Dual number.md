@@ -1,0 +1,1 @@
+A **dual number** is a number of the form $a+\varepsilon b$ where $\varepsilon^2 = 0$.
