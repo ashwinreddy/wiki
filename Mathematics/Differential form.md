@@ -3,3 +3,5 @@ A **differential $k$-form** is something you can integrate over a $k$-dimensiona
 \begin{equation}
 f_1 \dd{x_1} + \dots + f_n \dd{x_n}
 \end{equation}
+
+The set of differential $k$-forms is denoted $\bigwedge^k (T_p^* M)$
