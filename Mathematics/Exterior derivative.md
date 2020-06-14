@@ -9,5 +9,5 @@ The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation fro
 \end{equation}
 
 \begin{equation}
-\dd: \Omega^k(U) \to \Omega^{k+1}(U)
+\dd{}: \Omega^k(U) \to \Omega^{k+1}(U)
 \end{equation}
