@@ -7,3 +7,7 @@ The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation fro
 \begin{equation}
 \dd{}^2  \equiv 0
 \end{equation}
+
+\begin{equation}
+\dd: \Omega^k(U) \to \Omega^{k+1}(U)
+\end{equation}
