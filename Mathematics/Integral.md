@@ -6,6 +6,4 @@ An **integral** represents a number of different ideas. The simplest of these is
 
 One question that comes up is the importance of the $\dd{x}$. In the language of differential forms, this notation is given more concrete meaning.
 
-# Riemann sum
-
-The Riemann sum is one formulation for an integral
+[[Riemann sum]] is one implementation.
