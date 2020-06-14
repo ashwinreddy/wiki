@@ -1,0 +1,1 @@
+The **orthogonal group** $\operatorname{O}(n)$ consists of $n \times n$ orthogonal matrices.
