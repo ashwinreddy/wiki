@@ -6,6 +6,8 @@ The **cross product** is a binary operation that's only really available in $\RR
 
 There is some ambiguity here because there are two orthogonal versions, we pick the one based on the right-hand rule.
 
+# [[Infinitesimal transformation]]
+
 # Computation
 
 A useful mnemonic is
