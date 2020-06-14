@@ -21,3 +21,7 @@ A useful mnemonic is
 \begin{equation}
 \vec{a}\times\vec{b} = \begin{vmatrix} {\hat{\imath}} & \hat{\jmath} & \hat{k} \\\\\ a_1 & a_2 & a_3 \\\\\ b_1 & b_2 & b_3 \end{vmatrix}
 \end{equation}
+
+\begin{equation}
+\vec{a} \times \vec{b} = [a]_{\times} \vec{b}
+\end{equation}
