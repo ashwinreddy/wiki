@@ -1,1 +1,1 @@
-The **cotangent space** $T_p^* M$ is the [[dual vector space]]
+The **cotangent space** $T_p^* M$ is the [[dual vector space]] to the [[tangent space]].
