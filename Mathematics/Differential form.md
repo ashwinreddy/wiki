@@ -7,5 +7,5 @@ f_1 \dd{x_1} + \dots + f_n \dd{x_n}
 The set of differential $k$-forms is denoted by $\bigwedge^k (T_p^* M)$, meaning exterior powers of the [[cotangent bundle]].
 
 \begin{equation}
-\dd{x}\_i \pdv{}{x_j} = \delta_{ij}
+\dd{x}\_i\left( \pdv{}{x_j} \right) = \delta_{ij}
 \end{equation}
