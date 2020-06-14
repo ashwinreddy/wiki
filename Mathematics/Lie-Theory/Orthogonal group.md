@@ -2,7 +2,9 @@ The **orthogonal group** $\operatorname{O}(n)$ is the [[Lie group]] consisting o
 
 # Tangent vectors
 
-Consider a path $A(t)$ where $A(0) = I$.
+An element of $T_I O(n)$
+
+Consider a path $A(t)$ going through $I$ at time $t=0$.
 
 \begin{gather}
 A(t)A(t)^\mathsf{T} = 1 \\\\\
