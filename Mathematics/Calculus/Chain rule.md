@@ -7,5 +7,5 @@ The **chain rule** is an important rule in calculus that tells you how to take d
 Heuristically,
 
 \begin{equation}
-\dv{y}{x} = \dv{y}{u} \dv{u}{x}
+\dv{y}{x} = \dv{y}{u}\cdot\dv{u}{x}
 \end{equation}
