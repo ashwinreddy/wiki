@@ -1,1 +1,1 @@
-The **metric tensor** $g$ is the ruler for a surface.
+The **metric tensor** $g$ is a generalized dot product.
