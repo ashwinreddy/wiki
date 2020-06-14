@@ -2,4 +2,4 @@ The **dual vector space** for a [[vector space]] $V$ over a field $k$ is just $\
 
 # Involution
 
-For a finite dimensional vector space, $V^** \cong V$.
+For a finite dimensional vector space, $V^{**} \cong V$.
