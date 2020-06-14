@@ -8,6 +8,12 @@ There is some ambiguity here because there are two orthogonal versions, we pick 
 
 # [[Infinitesimal transformation]]
 
+Surprising fact is that
+
+\begin{equation}
+\dv{}{\phi} R(\phi, \vec{n})\vec{x} = \vec{n}\times\vec{x}
+\end{equation}
+
 # Computation
 
 A useful mnemonic is
