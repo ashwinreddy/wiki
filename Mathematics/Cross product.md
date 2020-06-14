@@ -6,13 +6,6 @@ The **cross product** is a binary operation that's only really available in $\RR
 
 There is some ambiguity here because there are two orthogonal versions, we pick the one based on the right-hand rule.
 
-# [[Infinitesimal transformation]]
-
-Surprising fact is that
-
-\begin{equation}
-\dv{}{\phi}\Bigg\vert_{t=0} R(\phi, \vec{n})\vec{x} = \vec{n}\times\vec{x}
-\end{equation}
 
 # Computation
 
