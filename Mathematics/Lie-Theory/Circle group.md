@@ -24,7 +24,7 @@ U(1) is given by unit complex numbers.
 
 # [[Lie algebra]]
 
-The Lie algebra is given by the one-dimensional vector space $\\{ \iota \theta: \theta \in \RR \\}$
+The Lie algebra is given by the one-dimensional vector space $\\{ \iota \theta: \theta \in \RR \\}$ with trivial bracket because it is abelian.
 
 \begin{equation}
 \iota\theta\longleftrightarrow 
