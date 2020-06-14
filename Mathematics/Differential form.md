@@ -4,4 +4,4 @@ A **differential $k$-form** is something you can integrate over a $k$-dimensiona
 f_1 \dd{x_1} + \dots + f_n \dd{x_n}
 \end{equation}
 
-The set of differential $k$-forms is denoted by $\bigwedge^k (T_p^* M)$, meaning exterior powers of the [[contangent bundle]].
+The set of differential $k$-forms is denoted by $\bigwedge^k (T_p^* M)$, meaning exterior powers of the [[cntangent bundle]].
