@@ -1,1 +1,1 @@
-The **orthogonal group** $\operatorname{O}(n)$ consists of $n \times n$ orthogonal matrices.
+The **orthogonal group** $\operatorname{O}(n)$ is the [[Lie group]] consisting of $n \times n$ orthogonal matrices.
