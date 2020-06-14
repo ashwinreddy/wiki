@@ -1,0 +1,1 @@
+The **metric tensor** $g$ is the ruler for a surface.
