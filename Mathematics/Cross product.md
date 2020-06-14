@@ -15,6 +15,7 @@ A useful mnemonic is
 \vec{a}\times\vec{b} = \begin{vmatrix} {\hat{\imath}} & \hat{\jmath} & \hat{k} \\\\\ a_1 & a_2 & a_3 \\\\\ b_1 & b_2 & b_3 \end{vmatrix}
 \end{equation}
 
+
 \begin{equation}
 [\vec{a}]_{\times} = \begin{bmatrix}0 & -a_3 & a_2 \\\\\ a_3 & 0 & -a_1 \\\\\ -a_2 & a_1 & 0\end{bmatrix}
 \end{equation}
