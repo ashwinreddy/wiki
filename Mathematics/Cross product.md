@@ -11,7 +11,7 @@ There is some ambiguity here because there are two orthogonal versions, we pick 
 Surprising fact is that
 
 \begin{equation}
-\dv{}{\phi}\big\vert_{t=0} R(\phi, \vec{n})\vec{x} = \vec{n}\times\vec{x}
+\dv{}{\phi}\Bigg\vert_{t=0} R(\phi, \vec{n})\vec{x} = \vec{n}\times\vec{x}
 \end{equation}
 
 # Computation
