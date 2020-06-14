@@ -15,3 +15,7 @@ The formula can be more dramatically explained with a graph, by showing the left
 
 
 [[https://i0.wp.com/peterjamesthomas.com/wp-content/uploads/2017/03/s1-tangent-space.png|align=center]]
+
+# Proof
+
+Use the Taylor expansion.
