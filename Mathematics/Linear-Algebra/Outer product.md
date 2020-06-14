@@ -1,0 +1,1 @@
+The **outer product** of vectors $\vec{u}$ and $\vec{v}$ is a matrix given by $\vec{u}\vec{v}^\mathsf{T}$.
