@@ -1,1 +1,1 @@
-A **differential $k$-form** is something you can integrate over a $k$-dimensional manifold. The set of differential $k$-forms is denoted by $\bigwedge^k (T_p^* M)$, meaning exterior powers of the [[cotangent bundle]].
+A **differential $k$-form** is something you can integrate over a $k$-dimensional manifold. The set of differential $k$-forms is denoted by $\bigwedge^k (T_p^* M)$, meaning exterior powers of the [[cotangent space]].
