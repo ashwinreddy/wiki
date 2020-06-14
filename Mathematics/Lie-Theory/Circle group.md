@@ -24,7 +24,7 @@ U(1) is given by unit complex numbers.
 
 # [[Lie algebra]]
 
-The Lie algebra is given by the one-dimensional vector space $\\{ \iota \theta: \theta \in \RR \\}$ with trivial bracket because the group is abelian.
+The Lie algebra is given by the one-dimensional vector space $\\{ \iota \theta: \theta \in \RR \\}$ with trivial bracket because the group is abelian. This corresponds to a skew-symmetric matrix
 
 \begin{equation}
 \iota\theta\longleftrightarrow 
