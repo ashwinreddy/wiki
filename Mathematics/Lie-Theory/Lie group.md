@@ -6,4 +6,4 @@ Every Lie group $G$ has a [[Lie algebra]] $\mathfrak{g}$ that we can use to help
 
 # Matrix Lie groups
 
-A **matrix Lie group** is any closed subgroup of the general linear group. They form an important collection of Lie groups.
+A **matrix Lie group** is any closed subgroup of the general linear group. They form an important collection of Lie groups. The Lie algebra is given by computing the matrix exponential of $tX$ for every $X$ in the group.
