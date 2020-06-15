@@ -13,4 +13,3 @@ X + X^\mathsf{T} = 0
 
 # Properties
 
-* $\dim O(n) = n(n-1)$
