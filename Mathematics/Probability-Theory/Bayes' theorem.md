@@ -3,3 +3,7 @@
 \begin{equation}
 \Pr (A | B) = \frac{\Pr(B|A)}{\Pr(B)}\Pr(A)
 \end{equation}
+
+\begin{equation}
+\text{Posterior} \propto \text{Likelihood}\cdot\text{Prior}
+\end{equation}
