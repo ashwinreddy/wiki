@@ -1,4 +1,4 @@
-**Mathematics** is the study of simple problems that can be solved through measurement and their abstractions. 
+**Mathematics** is the study of simple problems that can be solved through measurement and their abstractions. In other words, mathematics broadly seeks to guarantee solutions to problems. Naturally, the basic problems in mathematics must be explainable in precise terms or the whole enterprise loses its meaning. Thus, rigorous mathematics is highly formal: terms are defined explicitly and rather abstractly.
 
 
 
