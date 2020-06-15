@@ -4,6 +4,10 @@ The simplest interesting example of a Lie group is probably the [[circle group]]
 
 Every Lie group $G$ has a [[Lie algebra]] $\mathfrak{g}$ that we can use to help understand the group better.
 
+# Tangent space
+
+The key idea of a [[Lie algebra]] is that knowing the tangent space gives you most of the information about the group.
+
 # Matrix Lie groups
 
 A **matrix Lie group** is any closed subgroup of the general linear group. They form an important collection of Lie groups. The Lie algebra is given by computing the matrix exponential of $tX$ for every $X$ in the group.
