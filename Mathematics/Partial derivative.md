@@ -2,3 +2,7 @@ The **partial derivative** of a function tells you the derivative when you nudge
 
 * a partial differential equation
 * a gradient
+
+\begin{equation}
+\pdv{f}{x_i} = \lim_{h \to 0} \frac{}{h}
+\end{equation}
