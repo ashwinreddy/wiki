@@ -9,3 +9,11 @@ Its elements are cotangent vectors, functions of the form
 \begin{equation}
 \alpha: T_p M \to F
 \end{equation}
+
+# Basis
+
+A choice of coordinate system $x^a$ induces a basis for the cotangent space
+
+\begin{equation}
+\omega^a = \dd{x^a}
+\end{equation}
