@@ -4,7 +4,7 @@ The **directional derivative** is an expansion to the [[derivative]] in higher d
 \partial_v f(x) = \lim_{t \to 0}\frac{f(x+tv) - f(x)}{t}
 \end{equation}
 
-A [[partial derivative]] is given by having $\vec{v}$ purely in the direction of one input variable.
+A [[partial derivative]] is given by having ${v}$ purely in the direction of one input variable.
 
 \begin{equation}
 \partial_{v} f(x) = \nabla f(x) \cdot v = \sum_i v_i \pdv{f}{x_i}
