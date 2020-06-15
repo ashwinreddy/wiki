@@ -8,4 +8,3 @@ In discrete settings, we could track the number of times we visit a state and gi
 
 # Implementation details
 
-Both the reward and observation have to be normalized.
