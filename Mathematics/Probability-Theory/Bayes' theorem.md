@@ -5,5 +5,5 @@
 \end{equation}
 
 \begin{equation}
-\text{Posterior} = \text{Likelihood}\cdot\text{Prior}
+\text{Posterior} \propto \text{Likelihood}\cdot\text{Prior}
 \end{equation}
