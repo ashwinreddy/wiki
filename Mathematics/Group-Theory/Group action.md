@@ -1,0 +1,1 @@
+**Group action** describes a [[group]] acting on a set.
