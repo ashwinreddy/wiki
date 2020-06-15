@@ -7,3 +7,6 @@
 
 Identity
 : The group action of identity on any set element is itself: $\varphi(e, x)=x$
+
+Compatability
+: $\varphi(gh, x)= \varphi(g, \varphi(h, x))$
