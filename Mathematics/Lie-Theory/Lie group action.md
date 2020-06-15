@@ -7,7 +7,7 @@ L_a(g) = ag \\\\\
 R_a(g) = ga
 \end{gather}
 
-By the principles of group theory, the actions are just cycling all the elements in the group. This means we can translate the tangent space at any point to the identity. 
+By the principles of group theory, the actions are just cycling all the elements in the group. This means we can translate the tangent space at any point to the identity. That is,
 
 \begin{equation}
 TG \cong G \times T_e G
