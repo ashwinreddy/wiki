@@ -6,4 +6,4 @@
 \end{align}
 
 Identity
-: $\varphi(e, x)=x$
+: The group action of identity on any set element is itself: $\varphi(e, x)=x$
