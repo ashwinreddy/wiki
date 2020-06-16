@@ -1,1 +1,1 @@
-The **metric tensor** $g$ is a generalized dot product.
+The **metric tensor** $g$ is a generalized dot product for a manifold, which may vary at each point. The tensor $g_p$ is bilinear, symmetric, and nondegenerate.
