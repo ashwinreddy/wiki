@@ -2,7 +2,5 @@ A **Galilean transformation** translates between a "stationary" reference frame 
 
 \begin{align}
 x' &= x - vt \\\\\
-y' &= y \\\\\
-z' &= z \\\\\
 t' &= t
 \end{align}
