@@ -1,0 +1,1 @@
+**Special relativity** has two postulates: all inertial frames are equal, and the speed of light is constant.
