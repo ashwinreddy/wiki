@@ -4,3 +4,9 @@ A **Galilean transformation** translates between a "stationary" reference frame 
 x' &= x - vt \\\\\
 t' &= t
 \end{align}
+
+This is a linear transformation!
+
+\begin{equation}
+\begin{bmatrix} x \\ t \end{bmatrix} = \begin{bmatrix} x \\ t \end{bmatrix}
+\end{equation}
