@@ -1,3 +1,3 @@
 \begin{equation}
-{ n \choose k }= \frac{n!}{k!(n-k)!}
+\binom{n}{k} = \frac{n!}{k!(n-k)!}
 \end{equation}
