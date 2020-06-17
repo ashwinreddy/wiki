@@ -1,1 +1,1 @@
-The **Lorentz transformation** tells you how to change your coordinate system to a friend's in a way that keeps the laws of physics invariant.
+The **Lorentz transformation** tells you how to change your coordinate system to a friend's (in a manner consistent with special relativity).
