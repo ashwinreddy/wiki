@@ -1,5 +1,5 @@
 Time dilation 
-: Moving fast slows time. 
+: Moving fast makes time go slower for you. 
 
 Alice, moving at speed $v$ relative to Bob, will measure a time $\Delta t > \Delta t_0$ if Bob measures time $\Delta t_0$. The proportionality constant is the Lorentz factor (always > 1)
 
