@@ -8,5 +8,5 @@ t' &= t
 This is a linear transformation!
 
 \begin{equation}
-\begin{bmatrix} x \\\\\ t \end{bmatrix} = \begin{bmatrix} 1 & -v \\\\\ 0 & 1 \end{bmatrix} \begin{bmatrix} x \\\\\ t \end{bmatrix}
+\begin{bmatrix} x' \\\\\ t' \end{bmatrix} = \begin{bmatrix} 1 & -v \\\\\ 0 & 1 \end{bmatrix} \begin{bmatrix} x \\\\\ t \end{bmatrix}
 \end{equation}
