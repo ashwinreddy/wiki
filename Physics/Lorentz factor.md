@@ -1,1 +1,1 @@
-The **Lorentz factor** tells you how much many seconds pass for a runner when his coach measures one second.
+The **Lorentz factor** tells you how much many seconds pass for a runner when his coach measures one second on his stopwatch.
