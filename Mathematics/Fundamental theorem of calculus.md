@@ -11,7 +11,7 @@ There are two parts to the **fundamental theorem of calculus**
 
 # Towards Differential Forms
 
-Notice that \ref{eq:ftc2}suggests that we can say something like
+Notice that \ref{eq:ftc2} suggests that we can say something like
 
 \begin{equation}
 \int_a^b \dd{F} = F(b) - F(a)
