@@ -5,12 +5,13 @@ There are two parts to the **fundamental theorem of calculus**
 \end{equation}
 
 \begin{equation}
+\label{eq:ftc2}
 \int_a^b f(x) \,\dd{x} = F(b) - F(a) \tag{FTC 2}
 \end{equation}
 
 # Towards Differential Forms
 
-Notice that the second part suggests that we can say something like
+Notice that \ref{eq:ftc2}suggests that we can say something like
 
 \begin{equation}
 \int_a^b \dd{F} = F(b) - F(a)
