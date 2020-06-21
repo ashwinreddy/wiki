@@ -1,4 +1,4 @@
-**Group action** describes a [[group]] $G$ acting on a set $X$.
+**Group action** describes a [[group]] $G$ acting on a [[set]] $X$.
 
 \begin{align}
 \varphi: G \times X &\to X \\\\\
