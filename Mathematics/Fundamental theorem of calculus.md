@@ -6,7 +6,7 @@ There are two parts to the **fundamental theorem of calculus**
 
 \begin{equation}
 \label{eq:ftc2}
-\int_a^b f(x) \,\dd{x} = F(b) - F(a) \tag{FTC 2}
+\int_a^b f(x) \,\dd{x} = F(b) - F(a) \tag{FTC 2}, \quad F'(x) = f(x)
 \end{equation}
 
 # Towards Differential Forms
