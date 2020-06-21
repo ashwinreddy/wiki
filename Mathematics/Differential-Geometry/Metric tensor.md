@@ -4,4 +4,4 @@ The **metric tensor** $g$ is a generalized dot product for a manifold, which may
 g: TM \times TM \to \RR
 \end{equation}
 
-The tensor $g_p$ is bilinear, symmetric, and nondegenerate.
+The metric is bilinear, symmetric, and nondegenerate.
