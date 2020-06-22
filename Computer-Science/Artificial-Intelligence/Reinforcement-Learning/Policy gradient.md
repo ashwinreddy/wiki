@@ -1,0 +1,1 @@
+A **policy gradient** method tries to directly optimize a parameterized policy $\pi_\theta$.
