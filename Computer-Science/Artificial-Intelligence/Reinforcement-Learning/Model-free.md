@@ -1,0 +1,1 @@
+A **model-free** algorithm makes no attempt to capture the environment dynamics.
