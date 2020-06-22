@@ -1,1 +1,1 @@
-**REINFORCE** is a [[policy gradient]] algorithm
+**REINFORCE** is a [[policy gradient]] algorithm.
