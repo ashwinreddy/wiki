@@ -1,0 +1,1 @@
+The **tensor product** of [[vector spaces|vector space]] is a composite vector space.
