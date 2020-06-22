@@ -1,0 +1,1 @@
+Reinforcement learning tries to get computers to find their own behaviors through the use of rewards.
