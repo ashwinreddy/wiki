@@ -1,0 +1,1 @@
+**Entropy** is a measure of surprise.
