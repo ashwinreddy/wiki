@@ -1,1 +1,0 @@
-**iTerm** is a shell for Mac.

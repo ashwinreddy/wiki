@@ -1,1 +1,0 @@
-**Htop** helps you see what's using your machine's compute resources.
