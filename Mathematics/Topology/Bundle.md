@@ -1,0 +1,1 @@
+A **bundle** projects the total space $E$ into the base space $M$ by means of a continuous surjection $\pi: E \to M$.
