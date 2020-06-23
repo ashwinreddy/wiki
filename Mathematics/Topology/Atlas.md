@@ -1,4 +1,4 @@
-An **atlas** $\mathscr{A}$ collects [[charts|coordinate system]] $U_\alpha$ in an index family $\mathcal{A}$ into a complete map, known as an open cover, for a [[manifold]] $M$. 
+An **atlas** $\mathscr{A}$ collects [[charts|coordinate system]] into a complete map, known as an open cover, for a [[manifold]] $M$. 
 
 \begin{equation}
 \bigcup_{\alpha \in \mathcal{A}} U_\alpha = M
