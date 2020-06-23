@@ -1,1 +1,1 @@
-The **special linear group** $\operatorname{SL}(n)$
+The **special linear group** $\operatorname{SL}(n)$ consists of matrices with determinant 1.
