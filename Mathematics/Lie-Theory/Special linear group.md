@@ -1,0 +1,1 @@
+The **special linear group** $\operatorname{SL}(n)$
