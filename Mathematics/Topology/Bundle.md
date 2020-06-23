@@ -1,1 +1,1 @@
-A **bundle** projects the **total space** [[manifold]] $E$ into the **base space** manifold $M$ by means of a continuous surjection $\pi: E \to M$, called the **projection map**.
+A **bundle** is a projection from a _total space_ into a _base space_.
