@@ -5,5 +5,5 @@ D_{KL} (P \parallel Q) = H(P, Q) - H(P)
 $$
 
 $$
-D_{KL}(P \parallel Q) = \mathbb{E}_{x \sim P}\left[\right]
+D_{KL}(P \parallel Q) = \mathbb{E}_{x \sim P}\left[\log \frac{P(X)}{Q(X)}\right]
 $$
