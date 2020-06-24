@@ -1,0 +1,1 @@
+The **sample space** is the [[set]] of outcomes in an [[experiment]].
