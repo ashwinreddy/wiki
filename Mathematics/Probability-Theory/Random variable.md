@@ -1,0 +1,1 @@
+**Random variables** are the building block of probability. 
