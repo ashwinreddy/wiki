@@ -1,0 +1,1 @@
+A **probability distribution** gives the probabilities of outcomes for an experiment.
