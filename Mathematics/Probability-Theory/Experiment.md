@@ -1,1 +1,1 @@
-An **experiment** is any setting in which we can begin to talk about probabilities. The experiment is a repeatable operation that results in a set of outcomes, called the [[sample space]].
+An **experiment** is any setting in which we can begin to talk about probabilities. The experiment is a repeatable operation that results in a set of outcomes, called the [[sample space]]. From there, the natural question is how likely different events are.
