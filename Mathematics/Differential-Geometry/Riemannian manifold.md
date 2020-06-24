@@ -1,0 +1,1 @@
+A **Riemannian manifold** is a convenient setting for a manifold with nice smoothness properties.
