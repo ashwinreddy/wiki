@@ -6,6 +6,8 @@ $$
 
 It operates in a manner similiar to a metric but it is not symmetric.
 
+# Computation
+
 $$
 D_{KL}(P \parallel Q) = \mathbb{E}_{x \sim P}\left[\log \frac{P(X)}{Q(X)}\right]
 $$
