@@ -13,3 +13,4 @@ The [[expectation]] of the score is 0.
 &= 0
 \end{align}
 
+The [[variance]] is [[Fisher information]].
