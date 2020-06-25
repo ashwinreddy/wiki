@@ -1,0 +1,1 @@
+A **statistical model** is captured by a function $f(x_i \mid \theta)$
