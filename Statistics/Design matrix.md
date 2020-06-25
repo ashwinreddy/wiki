@@ -1,0 +1,1 @@
+A **design matrix** is a table where every column is an explanatory variable and every row is an example.
