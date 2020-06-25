@@ -1,1 +1,1 @@
-**Fisher information**
+The idea of **Fisher information** is that when a [[score]] has high variance, it will be easier to determine the right parameters.
