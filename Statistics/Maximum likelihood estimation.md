@@ -9,3 +9,4 @@ It can be convenient to use a log likelihood replacement $\ell(\theta; y) = \log
 \begin{equation}
 \pdv{\ell}{\theta_i} = 0 \tag{Likelihood Equation}
 \end{equation}
+
