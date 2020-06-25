@@ -4,6 +4,10 @@ $$
 \otimes: V \times W \to V \otimes W
 $$
 
+\begin{equation}
+\dim( V \otimes W) = \dim V \dim W
+\end{equation}
+
 The basis for $V \otimes W$ if $V$ has basis $e_i$ and $W$ has basis $f_j$ is the set of $e_i \otimes f_j$.
 
 
