@@ -13,4 +13,4 @@ In other words, any $\vec{v} \in V$ can be written as
 
 # Change of basis
 
-One can choose to move to a different basis with total impunity because every basis has the same dimension and is invertible as a matrix.
+One can choose to move to a different basis with total impunity because every basis has the same dimension and is invertible as a matrix. 
