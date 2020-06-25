@@ -1,0 +1,1 @@
+The **likelihood function** measures how likely a set of parameters are to be "correct."
