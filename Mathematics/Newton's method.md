@@ -7,7 +7,7 @@ $$
 The root for a line can be computed by setting $y=0$.
 
 $$
-x_0-\frac{f(x_0)}{f'(x_0)} = x
+x = x_0-\frac{f(x_0)}{f'(x_0)}
 $$
 
 
