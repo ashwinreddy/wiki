@@ -1,0 +1,1 @@
+A **free vector space** $\mathscr{F}(x)$ over a set $X$ 
