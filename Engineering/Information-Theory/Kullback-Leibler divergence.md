@@ -16,3 +16,8 @@ $$
 
 # Relationship to Fisher Information
 
+Suppose we have a parametric family of distributions. A natural question is what the divergence between any two distributions is.
+
+$$
+D_{KL}( p(x | theta)  \parallel p(x | theta') )
+$$
