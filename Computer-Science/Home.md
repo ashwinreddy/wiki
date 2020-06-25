@@ -4,9 +4,9 @@ Problem
 : A problem contains some inputs and a precise description of an output that one wants from those inputs
 
 Algorithm
-: A proposed solution to a problem in the form of a sequence of steps one must take.
+: A proposed solution to a problem in the form of a sequence of steps one must take. The steps should be such that anyone can follow them correctly.
 
-The steps should be such that anyone can follow them correctly. When an unambiguous description is available, the process can be given to a "computer," which can produce the results exactly as specified. A computer used to refer to a person; today it refers to machines which can perform basic logic and arithmetic using electric circuits. Prior to the widespread use of electricity as the basis of compute, Charles Babbage and others worked on mechanical machines. Of course, for practical purposes one must be interested to a extent in the construction of computers, but as the quote goes,
+ When an unambiguous description is available, the process can be given to a "computer," which can produce the results exactly as specified. A computer used to refer to a person; today it refers to machines which can perform basic logic and arithmetic using electric circuits. Prior to the widespread use of electricity as the basis of compute, Charles Babbage and others worked on mechanical machines. Of course, for practical purposes one must be interested to a extent in the construction of computers, but as the quote goes,
 
 > Computer science is no more about computers than astronomy is about telescopes.
 
