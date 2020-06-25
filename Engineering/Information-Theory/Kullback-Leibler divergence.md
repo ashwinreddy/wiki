@@ -14,10 +14,3 @@ $$
 D_{KL}(P \parallel Q) = \mathbb{E}_{x \sim P}\left[\log \frac{P(X)}{Q(X)}\right]
 $$
 
-# Relationship to Fisher Information
-
-Suppose we have a parametric family of distributions. A natural question is what the divergence between any two distributions is.
-
-$$
-D_{KL}\left( p(x | \theta)  \parallel p(x | \theta') \right)
-$$
