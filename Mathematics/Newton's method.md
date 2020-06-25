@@ -10,8 +10,7 @@ $$
 x = x_0-\frac{f(x_0)}{f'(x_0)}
 $$
 
-
-The update rule is
+Now, we simply iteratively apply this rule, which more generally looks like
 
 $$
 x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}
