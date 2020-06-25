@@ -1,1 +1,1 @@
-The **Cayley–Hamilton theorem** says that every matrix satisfies its own [[characteristic equation]]
+The **Cayley–Hamilton theorem** says that every matrix satisfies its own [[characteristic polynomial]]
