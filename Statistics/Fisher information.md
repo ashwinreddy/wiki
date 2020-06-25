@@ -1,5 +1,5 @@
 **Fisher information** 
 
 $$
-\mathcal{I}(\theta) \triangleq \mathbb{E}[]
+\mathcal{I}_X(\theta) \triangleq \mathbb{E}_{p_\theta}[s(\theta)^2]
 $$
