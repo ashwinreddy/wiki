@@ -1,0 +1,1 @@
+The **score** is given by the gradient of the log of the likelihood.
