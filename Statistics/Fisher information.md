@@ -1,1 +1,5 @@
-**Fisher information** is a measure of how easy it is to determine the right parameters for a model. It is the [[expected|expectation]] [[variance]] of the [[score]].
+**Fisher information** 
+
+$$
+\mathcal{I}(\theta) \triangleq \mathbb{E}[]
+$$
