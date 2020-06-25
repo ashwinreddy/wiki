@@ -1,1 +1,1 @@
-The idea of **Fisher information** is that when a [[score]] has high variance, it will be easier to determine the right parameters.
+**Fisher information** is a measure of how easy it is to determine the right parameters for a model. It is the [[variance]] of the [[score]].
