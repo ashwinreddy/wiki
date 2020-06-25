@@ -4,5 +4,4 @@ $$
 p(\lambda) = \det(A - \lambda I)
 $$
 
-Characteristic equation
-: \begin{equation}p(\lambda) = 0\end{equation}
+The characteristic equation is simply $p(\lambda)=0$.
