@@ -13,3 +13,4 @@ A computationally convenient form for the KL divergence is given by
 $$
 D_{KL}(P \parallel Q) = \mathbb{E}_{x \sim P}\left[\log \frac{P(X)}{Q(X)}\right]
 $$
+
