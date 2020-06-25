@@ -3,3 +3,5 @@
 $$
 \hat\theta = \arg\max_{\theta \in \Theta} \hat{L}(\theta ; y)
 $$
+
+It can be convenient to use log likelihood.
