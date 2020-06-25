@@ -1,4 +1,4 @@
-The **tensor product** for [[vector spaces|vector space]] $V$ and $W$ is denoted $\otimes$ and returns outputs in a composite vector space.
+The **tensor product** for [[vector spaces|vector space]] $V$ and $W$ is denoted $\otimes$ and returns outputs in a new composite vector space.
 
 $$
 \otimes: V \times W \to V \otimes W
