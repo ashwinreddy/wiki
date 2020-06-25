@@ -7,7 +7,8 @@ $$
 The [[expectation]] of the score is 0.
 
 \begin{align}
-\mathbb{E}[s \mid \theta] = \int_{\mathcal{X}} f(x; \theta) s(\theta) \dd{x}
+\mathbb{E}[s \mid \theta] &= \int_{\mathcal{X}} f(x; \theta) s(\theta) \dd{x} \\\\\
+&= 
 \end{align}
 
 
