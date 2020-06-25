@@ -1,1 +1,1 @@
-A **free vector space** $\mathscr{F}(x)$ over a set $X$ is formed by treating the $X$ as a basis, letting the elements be formal sums. You can see that a free vector space can easily become quite large.
+A **free vector space** $\mathscr{F}(x)$ over a set $X$ is formed by treating the $X$ as a basis, letting the elements be formal sums. You can see that a free vector space can easily become quite large because $\mathscr{F}(\mathbb{R}$ has as many basis elements as there are real numbers.
