@@ -3,3 +3,9 @@ The **variance** of a [[random variable]] is a measure of spread by seeing on av
 $$
 \mathbb{V}[X] \triangleq \mathbb{E}\left[(X - \mu)^2\right]
 $$
+
+Computationally, it is more convenient to write
+
+$$
+\mathbb{V}[X] = \mathbb{E}\left[X^2\right] - \mu^2
+$$
