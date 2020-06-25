@@ -1,0 +1,1 @@
+A **Markov decision process** is a $(S, A, R, P, \rho_0)$
