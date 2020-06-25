@@ -1,1 +1,1 @@
-The **likelihood function** $L(\theta)$ measures how likely a set of parameters are to be "correct."
+The **likelihood function** $L(\theta)$ measures how likely a set of parameters $\theta$ are to be "correct."
