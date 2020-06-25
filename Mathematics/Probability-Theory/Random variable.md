@@ -1,1 +1,1 @@
-A **random variable** $X$ is a function $X: \Omega \to \RR$ for a [[sample space]] $\Omega$, but we don't actually evaluate $X$ like a function. Instead, we evaluate the probability of $X$ being an event. Random variables are the building block of probability. 
+A **random variable** $X$ is a function $X: \Omega \to \RR$ for a [[sample space]] $\Omega$, but we don't actually evaluate $X$ like a function. Instead, we evaluate the probability of $X$ being an [[event]]. Random variables are the building block of probability. 
