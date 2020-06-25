@@ -5,3 +5,7 @@ s(\theta) = \pdv{ }{\theta}\log\ell(\theta)
 $$
 
 The [[expectation]] of the score is 0.
+
+$$
+\mathbb{E}[s | theta] = \int_{\Chi}
+$$
