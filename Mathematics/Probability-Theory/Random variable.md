@@ -1,1 +1,1 @@
-**Random variables** are the building block of probability. 
+A **random variable** $X$ is a function $X: \Omega \to \RR$ for a [[sample space]] $\Omega$. Random variables are the building block of probability.
