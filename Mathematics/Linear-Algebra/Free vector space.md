@@ -1,1 +1,1 @@
-A **free vector space** $\mathscr{F}(x)$ over a set $X$ 
+A **free vector space** $\mathscr{F}(x)$ over a set $X$ is formed by treating the $X$ as a basis.
