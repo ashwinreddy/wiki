@@ -1,1 +1,1 @@
-A **multilinear map** is a function $V_1 \times \dots \times V_k \to W$ where the $V_i$ and $W$ are [[vector spaces|vector space]].
+A **multilinear map** is a function $V_1 \times \dots \times V_k \to W$ where the $V_i$ and $W$ are [[vector spaces|vector space]] that is linear in each of its $k$ variables.
