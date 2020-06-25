@@ -7,5 +7,5 @@ $$
 It can be convenient to use a log likelihood replacement $\ell(\theta; y) = \log L(\theta; y)$ and use the derivative to find the extremal.
 
 $$
-\pdv{\ell}{\theta} = 0
+\pdv{\ell}{\theta_i} = 0
 $$
