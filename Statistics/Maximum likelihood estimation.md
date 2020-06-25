@@ -4,4 +4,4 @@ $$
 \hat\theta = \arg\max_{\theta \in \Theta} \hat{L}(\theta ; y)
 $$
 
-It can be convenient to use log likelihood.
+It can be convenient to use a log likelihood replacement $\ell(\theta; y) = \log L(\theta; y)$.
