@@ -1,4 +1,4 @@
-The **score** is given by the gradient of the log of the likelihood.
+The **score** is given by the gradient of the log of the likelihood function $\ell$ crafted from density $f$.
 
 $$
 s(\theta) = \pdv{ }{\theta}\log\ell(\theta)
