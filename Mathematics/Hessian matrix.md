@@ -1,0 +1,1 @@
+The **Hessian matrix** is the matrix of second derivatives for a scalar-valued function.
