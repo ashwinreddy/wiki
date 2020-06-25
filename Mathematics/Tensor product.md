@@ -1,8 +1,10 @@
-The **tensor product** for [[vector spaces|vector space]] $V$ and $W$ is denoted $\otimes$
+The **tensor product** for [[vector spaces|vector space]] $V$ and $W$ is denoted $\otimes$ and returns outputs in a composite vector space.
 
 $$
 \otimes: V \times W \to V \otimes W
 $$
+
+The basis for $V \otimes W$ if $V$ has basis $e_i$ and $W$ has basis $f_j$ is the $e_i \otimes f_j$.
 
 
 
