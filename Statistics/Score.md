@@ -7,5 +7,5 @@ $$
 The [[expectation]] of the score is 0.
 
 $$
-\mathbb{E}[s | theta] = \int_{\Chi}
+\mathbb{E}[s | theta] = \int_{\chi}
 $$
