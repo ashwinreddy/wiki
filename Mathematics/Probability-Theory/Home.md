@@ -1,0 +1,1 @@
+**Probability theory** is the mathematics of quantified uncertainty.
