@@ -1,4 +1,4 @@
-The **tensor product**
+The **tensor product** for [[vector spaces|vector space]] $V$ and $W$
 
 $$
 \otimes: V \times W \to V \otimes W
