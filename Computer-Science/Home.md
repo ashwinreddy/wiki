@@ -1,6 +1,6 @@
 **Computer science** is the study of unambiguously describing and solving problems. A problem is specified by giving some inputs and describing precisely what kind of relevant output one wants from those inputs. Then, the problem is solved by specifying an algorithm, a sequence of steps to produce the desired output. 
 
-
+In general, a problem may be solved by a number of algorithms. The computer scientist is then interested in determining the properties of these algorithms.
 
 
 
