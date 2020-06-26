@@ -1,13 +1,13 @@
-A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. 
-
-
-# Construction
-
-The signature as manifold to [[tangent bundle]].
+A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. The signature is manifold to [[tangent bundle]].
 
 \begin{equation}
 F: M \to TM
 \end{equation}
+
+
+# Construction
+
+
 
 But we also need to ensure that $F(p)$ for a point $p \in M$ belongs to its tangent space. Consider $p$ a projection from $TM$ to $M$ that takes a tangent vector to its point. $F$ must also satisfy
 
