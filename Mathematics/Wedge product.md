@@ -1,4 +1,4 @@
-The **wedge product** is an operation that generates a volume element from spanning vectors. Supposing you have a vector space with basis elements $e_i$ it suffices to know the wedge products of the basis vectors.
+The **wedge product** is an operation that generates a volume element from spanning vectors. Supposing you have a vector space with basis elements $\left\\{e_i\right\\}$ it suffices to know the wedge products of the basis vectors.
 
 
 
