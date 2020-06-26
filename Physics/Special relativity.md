@@ -1,1 +1,1 @@
-**Special relativity** has two postulates: all inertial frames are equal, and the speed of light is constant.
+**Special relativity** has two postulates: all inertial frames are equal, and the speed of light is constant. By the second postulate, we can say that for observers $A$ and $B$ seeing events $E_1$ and $E_2$.
