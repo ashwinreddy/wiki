@@ -1,4 +1,11 @@
-The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation from calculus. If $f$ is a function, then $\dd{f}$ is the linear functional given by the [[directional derivative]] of $f$ (in the direction given by its input).
+The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation from calculus. 
+
+
+\begin{equation}
+\dd{}: \Omega^k(M) \to \Omega^{k+1}(M)
+\end{equation}
+
+If $f$ is a function, then $\dd{f}$ is the linear functional given by the [[directional derivative]] of $f$ (in the direction given by its input).
 
 \begin{equation}
 \dd{f}(x) = \partial_{x}f
@@ -8,6 +15,3 @@ The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation fro
 \dd{}^2  \equiv 0
 \end{equation}
 
-\begin{equation}
-\dd{}: \Omega^k(M) \to \Omega^{k+1}(M)
-\end{equation}
