@@ -1,0 +1,1 @@
+An **integral curve** is the solution to an ODE.
