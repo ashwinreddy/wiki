@@ -1,0 +1,1 @@
+A **topological space** is a [[set]] with a topology.
