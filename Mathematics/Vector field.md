@@ -4,6 +4,11 @@ A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[m
 F: M \to TM
 \end{equation}
 
+A vector field on $\RR^n$ can be written
+
+$$
+V = \sum_{i=1}^n v_i \pdv{}{x_i}
+$$
 
 # Construction
 
