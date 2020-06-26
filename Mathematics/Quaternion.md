@@ -10,11 +10,6 @@ This equation defines the basis elements for the quaternions, which we now defin
 \mathbb{H} = \mathbb{R} + \mathbb{R}i +\mathbb{R}j + \mathbb{R}k
 \end{equation}
 
-A generic quaternion looks like
-
-\begin{equation}
-q = a + bi + cj + dk
-\end{equation}
 
 # Rotations
 
