@@ -1,0 +1,1 @@
+A **diffeomorphism** is an [[isomorphism]] between [[differentiable manifolds|differentiable manifold]].
