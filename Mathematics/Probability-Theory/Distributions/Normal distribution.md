@@ -7,5 +7,5 @@ A **normal distribution** is a very common continuous distribution with paramete
 The general form is
 
 \begin{equation}
-\varphi(x; \mu, \sigma) = \frac{1}{\sigma\sqrt{2\pi}}\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)
+\varphi(x; \mu, \sigma) = \frac{\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)}{\sigma\sqrt{2\pi}}
 \end{equation}
