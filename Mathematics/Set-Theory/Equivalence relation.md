@@ -1,0 +1,1 @@
+An **equivalence relation** $\sim$ is a [[binary relation]] that formally defines equivalence. The relation needs to be reflexive, symmetric, and transitive.
