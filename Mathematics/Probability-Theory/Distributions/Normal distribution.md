@@ -3,3 +3,9 @@ A **normal distribution** is a very common continuous distribution with paramete
 \begin{equation}
 \varphi(x) = e^{-\pi x^2}
 \end{equation}
+
+The general form is
+
+\begin{equation}
+\varphi(x; \mu, \sigma) = \frac{1}{\sigma\sqrt{2\pi}}\exp(-\frac{}{})
+\end{equation}
