@@ -7,5 +7,5 @@
 In the simplest case, we notice that $H = K + U$, and the equations just say
 
 \begin{gather}
-
+\dv{}{t} mv = 
 \end{equation}
