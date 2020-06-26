@@ -1,7 +1,7 @@
-A **coordinate system** or **chart** for a [[manifold]] $X$ helps map out part of the manifold (or possibly even all of it) using Cartesian space. The chart is a homomorphism between open subsets of the two spaces.[^order]
+A **coordinate system** or **chart** for a [[manifold]] $M$ helps map out part of the manifold (or possibly even all of it) using Cartesian space. The chart is a homomorphism between open subsets of the two spaces.[^order]
 
 \begin{align}
-\varphi: X \supset U &\to V \subset \RR^n \\\\\
+\varphi: M \supset U &\to V \subset \RR^n \\\\\
 x &\mapsto \begin{bmatrix} \varphi_1(x) & \dots & \varphi_n(x) \end{bmatrix}^\mathsf{T}
 \end{align}
 
