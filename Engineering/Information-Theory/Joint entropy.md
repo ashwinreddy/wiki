@@ -1,1 +1,1 @@
-The **joint entropy** 
+The **joint entropy** of a set of random variables is the expected surprisal over all the possible outcomes.
