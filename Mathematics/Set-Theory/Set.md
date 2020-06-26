@@ -1,1 +1,1 @@
-A **set** is the simplest possible collection of objects with no notion of order or repetition.
+A **set** is the weakest way to group a bunch of objects, with no notion of order or repetition.
