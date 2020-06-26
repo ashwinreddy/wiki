@@ -5,6 +5,8 @@ A **Galilean transformation** describes how to switch between two reference fram
 |Velocity|$\vec{v}$|3|
 |Rotation|$(\vec{u}, \theta)$|3|
 |Origin|$(\Delta\vec{x}, \Delta t)$|4|
+|-------------------------------------|
+
 
 * One may be moving w.r.t. the other.
 * One may be rotated w.r.t. the other.
