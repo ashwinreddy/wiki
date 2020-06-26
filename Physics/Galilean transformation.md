@@ -1,10 +1,10 @@
 A **Galilean transformation** describes how to switch between two reference frames. In what ways can two reference frames differ?
 
-|Difference|
-|:--------|
-|Relative motion|
-|Rotation|
-|Translation (difference in origin)|
+|Difference|Parameter|
+|:--------|----------|
+|Velocity|$\vec{v}$|
+|Rotation|$\vec{u}, \theta$|
+|Origin|
 
 * One may be moving w.r.t. the other.
 * One may be rotated w.r.t. the other.
