@@ -13,6 +13,10 @@ The determinant is a [[group homomorphism]]:
 \det(AB) = \det(A)\det(B).
 \end{equation}
 
+# Properties
+
+* A single swap of columns or rows introduces a change of sign in the output.
+
 # Computation
 
 The computation itself is probably the least interesting aspect of determinants, but it is important.
