@@ -4,4 +4,4 @@ A **symmetric matrix** is a [[square matrix]] that is equal to its [[transpose]]
 A = A^\mathsf{T}
 \end{equation}
 
-A symmetric matrix has only real eigenvalues.
+A real symmetric matrix has only real eigenvalues.
