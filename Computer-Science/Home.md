@@ -1,4 +1,4 @@
-**Computer science** is the study of unambiguously describing and solving problems. 
+**Computer science** is the science of computation, the means by which we give incontrovertible answers to unambiguous problems.
 
 Problem
 : A problem contains some inputs and a precise description of an output that one wants from those inputs
