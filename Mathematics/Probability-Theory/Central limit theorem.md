@@ -1,0 +1,1 @@
+The **central limit theorem** roughly says that the sum of random variables tends to become normally distributed.
