@@ -1,4 +1,6 @@
-A **bivector** is an oriented segment of the plane, considered unchanged as long as the area is retained.
+A **bivector** is an oriented segment of the plane, considered unchanged as long as the area is retained.[^shape]
+
+[^shape]: That is, bivectors have no shape.
 
 
 
