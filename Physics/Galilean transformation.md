@@ -1,4 +1,13 @@
-A **Galilean transformation** describes how to switch between two reference frames.
+A **Galilean transformation** describes how to switch between two reference frames. In what ways can two reference frames differ?
+
+|Difference|
+|Relative motion|
+|Rotation|
+|Translation (difference in origin)|
+
+* One may be moving w.r.t. the other.
+* One may be rotated w.r.t. the other.
+* They may differ in their origins. 
 
 
 
