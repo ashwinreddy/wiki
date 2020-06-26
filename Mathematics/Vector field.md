@@ -1,4 +1,4 @@
-A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. The set of vector fields on a manifold is often denoted $\mathfrak{X}(M)$ or $\Gamma(TM)$.
+A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. 
 
 
 # Construction
