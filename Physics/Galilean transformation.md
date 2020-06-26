@@ -4,7 +4,7 @@ A **Galilean transformation** describes how to switch between two reference fram
 |:--------|----------|
 |Velocity|$\vec{v}$|
 |Rotation|$(\vec{u}, \theta)$|
-|Origin|$\Delta\vec{x}, \Delta t$|
+|Origin|$(\Delta\vec{x}, \Delta t)$|
 
 * One may be moving w.r.t. the other.
 * One may be rotated w.r.t. the other.
