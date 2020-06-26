@@ -1,0 +1,1 @@
+A **normal distribution** is a very common continuous distribution with parameters $\mu$ and $\sigma$ that control the mean and variance. 
