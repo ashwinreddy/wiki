@@ -1,7 +1,7 @@
 The **characteristic polynomial** of a [[square matrix]] matrix $A$ of order $n$ is an $n$-th degree polynomial of a parameter $\lambda$ given by
 
 \begin{equation}
-p(\lambda) = \det(A - \lambda I)
+p(\lambda) \triangleq \det(A - \lambda I).
 \end{equation}
 
 # Characteristic equation
