@@ -1,1 +1,1 @@
-The **spectral theorem** says a real $n\times n$ [[symmetric matrix]] has $n$ orthogonal eigenvectors with real eigenvalues.
+The **spectral theorem** says a real [[symmetric matrix]] of order $n$ has $n$ orthogonal eigenvectors with real eigenvalues.
