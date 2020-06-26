@@ -12,7 +12,7 @@ $$
 
 # Characteristics
 
-The signature of a symmetric matrix is the triple $(n_0, n_+, n_-)$
+The signature of a symmetric matrix is the triple $(n_0, n_+, n_-)$ of the count of zero, positive, and negative eigenvalues.
 
  
 # Properties
