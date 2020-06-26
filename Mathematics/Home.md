@@ -1,4 +1,4 @@
-**Mathematics** is the study of simple problems that can be solved through measurement and their abstractions. In other words, mathematics broadly seeks to guarantee solutions to problems. Naturally, the basic problems in mathematics must be explainable in precise terms or the whole enterprise loses its meaning. All the cards must be on the table.
+**Mathematics** is the study of simple problems and their abstractions. A simple problem is one that can be solved through measurement. In other words, mathematics broadly seeks to guarantee solutions to problems. Naturally, the basic problems in mathematics must be explainable in precise terms or the whole enterprise loses its meaning. All the cards must be on the table.
 
 Part of the challenge of mathematics is transmitting this precision, the persuasion of abstract ideas.
 
