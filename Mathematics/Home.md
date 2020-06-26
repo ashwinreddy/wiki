@@ -13,4 +13,5 @@ Branches of math include
 * [Topology](./Topology/)
 * [Linear Algebra](./Linear-Algebra/)
 * [Probability Theory](./Probability-Theory/)
+* [Category Theory](./Category-Theory)
 
