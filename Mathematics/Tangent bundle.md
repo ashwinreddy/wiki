@@ -10,5 +10,3 @@ The bundle naturally comes with a projection
 \pi : TM &\twoheadrightarrow M \\\\\
 (v,x) &\mapsto x
 \end{align}
-
-$$ with $\pi(v, x) = x$.
