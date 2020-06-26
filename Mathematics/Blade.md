@@ -1,1 +1,1 @@
-A **$k$-blade** is the result of the [[wedge product]] of $k-1$-blades.
+A **$k+1$-blade** is the result of the [[wedge product]] of $k$-blades.
