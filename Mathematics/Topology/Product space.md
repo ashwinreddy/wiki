@@ -1,1 +1,1 @@
-The **product space** of [[topological spaces]]
+The **product space** of [[topological spaces|topological space]]
