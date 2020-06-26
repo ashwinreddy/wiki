@@ -1,5 +1,7 @@
-The **wedge product** of vectors is similar to but distinct from the [[cross product]], but available for all dimensions. Computationally, we can say that
+The **wedge product** of vectors is similar to but distinct from the [[cross product]], but available for all dimensions. 
+
+# Algebraic rules
 
 $$
-a \wedge b = a \otimes b - b \otimes a
+a \wedge b + b\wedge a = 0
 $$
