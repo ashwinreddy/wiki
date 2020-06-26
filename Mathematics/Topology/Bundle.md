@@ -1,1 +1,0 @@
-A **bundle** is a projection from a _total space_ into a _base space_.
