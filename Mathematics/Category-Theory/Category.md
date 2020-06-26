@@ -1,0 +1,1 @@
+A **category** has objects and morphisms.
