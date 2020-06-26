@@ -1,1 +1,1 @@
-A **blade** of grade $k$, or compactly a $k$-blade, is the [[wedge product]] of $k$ blades of grade $k-1$. A 0-blade is defined to be a scalar.
+A **blade** of grade $k$, or compactly a $k$-blade, is the [[wedge product]] of $k$ blades of grade $k-1$. A 0-blade is defined to be a scalar, and a 1-blade is defined to be a vector.
