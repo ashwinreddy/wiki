@@ -1,0 +1,1 @@
+The **magnetic field** $\vec{B}$ describes the magnetic influence on electric charge.
