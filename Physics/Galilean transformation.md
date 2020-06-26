@@ -3,8 +3,8 @@ A **Galilean transformation** describes how to switch between two reference fram
 |Difference|Parameter|
 |:--------|----------|
 |Velocity|$\vec{v}$|
-|Rotation|$\vec{u}, \theta$|
-|Origin|
+|Rotation|$(\vec{u}, \theta)$|
+|Origin|$\Delta\vec{x}, \Delta t$|
 
 * One may be moving w.r.t. the other.
 * One may be rotated w.r.t. the other.
