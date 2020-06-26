@@ -21,4 +21,14 @@ window.MathJax = {
     tex: {packages: {'[+]': ['physics']}}
 };
 
+
+MathJax.Hub.Config({
+	TeX: {
+		Macros: {
+
+	    eqdef: '{\\doteq}'
+		}
+	}
+})
+
 console.log("loaded");
