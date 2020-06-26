@@ -1,0 +1,1 @@
+A **subgroup** for a [[group]] is a [[subset]] of the group (that can be) treated as a group in its own right under the same operation.
