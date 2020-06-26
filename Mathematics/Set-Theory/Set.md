@@ -1,0 +1,1 @@
+A **set** is the simplest possible collection of objects with no notion of order or repetition.
