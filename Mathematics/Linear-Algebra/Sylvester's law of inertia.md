@@ -1,1 +1,1 @@
-**Sylvester's law of inertia** says that a [[quadratic form]] $Q$ has a consistent signature.
+**Sylvester's law of inertia** says that [[symmetric matrices|symmetric matrix]] have the same signature if they are [[congruent|matrix congruence]]
