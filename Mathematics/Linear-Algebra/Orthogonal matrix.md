@@ -6,4 +6,4 @@ QQ^\mathsf{T} = Q^\mathsf{T}Q = I
 
 # Properties
 
-* Using the [[determinant]]
+* $\det Q = \pm 1$.
