@@ -1,0 +1,1 @@
+An **inverse element** is an undo operation for a given element in an algebraic structure, if one exists.
