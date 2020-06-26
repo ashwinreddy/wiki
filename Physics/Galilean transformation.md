@@ -1,6 +1,7 @@
 A **Galilean transformation** describes how to switch between two reference frames. In what ways can two reference frames differ?
 
 |Difference|
+|:--------:|
 |Relative motion|
 |Rotation|
 |Translation (difference in origin)|
