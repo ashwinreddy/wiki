@@ -7,5 +7,5 @@
 Similar matrices have the same eigenvalues, but generically different eigenvectors. Suppose $\lambda$ is an eigenvalue for $\bf A$, meaning $\mathbf{A}\vec{x} = \lambda \vec{x}$. Now we substitute $\bf{A \mapsto P^{-1}BP}$ and left-multiply by $\bf P$:
 
 $$
-P^{-1} B P x = \lambda x \implies B(Px) = \lambda (Px)
+\mathbf{P^{-1} B P} \vec{x} = \lambda x \implies \bf{B(P}x) = \lambda (Px)
 $$
