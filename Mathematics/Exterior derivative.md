@@ -1,4 +1,4 @@
-The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation from calculus. 
+The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation from calculus. It promotes a $k$-form on a manifold $M$ to a $k+1$-form.
 
 
 \begin{equation}
