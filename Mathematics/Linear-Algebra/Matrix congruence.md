@@ -3,3 +3,5 @@
 $$
 A = P^\mathsf{T} B P
 $$
+
+The [[rank]] of $A$ and $B$ are equal.
