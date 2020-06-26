@@ -6,4 +6,4 @@ p(\lambda) = \det(A - \lambda I)
 
 # Characteristic equation
 
-The characteristic equation is simply $p(\lambda)=0$.
+The characteristic equation is simply $p(\lambda)=0$, the roots of which indicate eigenvalues.
