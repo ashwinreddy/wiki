@@ -1,1 +1,1 @@
-A **$k+1$-blade** is the result of the [[wedge product]] of $k$-blades.
+A **blade** of grade $k$, or compactly a $k$-blade, is the [[wedge product]] of $(k-1)$-blades.
