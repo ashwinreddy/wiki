@@ -4,4 +4,6 @@ The **characteristic polynomial** of an [[$n \times n$|square matrix]] matrix $A
 p(\lambda) = \det(A - \lambda I)
 \end{equation}
 
+# Characteristic equation
+
 The characteristic equation is simply $p(\lambda)=0$.
