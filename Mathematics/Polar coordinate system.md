@@ -1,1 +1,0 @@
-The **polar coordinate system** describes points on a plane by their distance $r$ and angle $\theta$ from the pole and polar axis, respectively.
