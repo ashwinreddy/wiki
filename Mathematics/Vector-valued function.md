@@ -1,0 +1,1 @@
+A **vector-valued function** is a function whose output is a vector.
