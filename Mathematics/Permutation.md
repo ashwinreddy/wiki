@@ -1,0 +1,1 @@
+A **permutation** of set is any arrangement of its members into a sequence.
