@@ -1,0 +1,1 @@
+A **homomorphism** is a structure preserving map.
