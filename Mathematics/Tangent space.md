@@ -4,6 +4,11 @@ The **tangent space** $T_p M$ for a manifold $M$ at a point $p$ consists of all 
 T_pM {\eqdef} \big\\{\dot\gamma(0) \mid \gamma(0) = p\big\\}
 \end{equation}
 
+$$
+\usepackage{xspace}
+
+$$
+
 A choice of coordinate system $x^i$ induces a basis for the tangent space:
 
 \begin{equation}
