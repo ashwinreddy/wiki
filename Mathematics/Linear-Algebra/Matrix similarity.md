@@ -7,5 +7,5 @@ A=P^{-1}BP
 Similar matrices have the same eigenvalues. Suppose $\lambda$ is an eigenvalue for $A$, meaning $Ax = \lambda x$. Applying the similarity
 
 $$
-P^{-1} B P x = \lambda x \implies BPx = \lambda Px
+P^{-1} B P x = \lambda x \implies B(Px) = \lambda (Px)
 $$
