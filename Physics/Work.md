@@ -1,4 +1,4 @@
-**Work**
+**Work** is a change in energy.
 
 The work done by force $\vec{F}$ along path $C$ is given by
 
