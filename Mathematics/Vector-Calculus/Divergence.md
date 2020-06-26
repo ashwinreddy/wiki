@@ -8,5 +8,5 @@ The **divergence** measures the the attraction or repulsion of a point.
 For this reason, it is typical to write the divergence in a notationally attractive form.
 
 $$
-\nabla \cdot F = \operatorname{div} F
+\vec\nabla \cdot \vec{F} = \operatorname{div} \vec{F}
 $$
