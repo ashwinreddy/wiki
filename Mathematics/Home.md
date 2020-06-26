@@ -1,4 +1,4 @@
-**Mathematics** is the study of simple problems and their abstractions. A simple problem tends to be one that can be solved through measurement, though it does not have to be. The idea is that the problem is clearly defined, and one will know if they have arrived at a potential solution.
+**Mathematics** is the study of simple problems and their abstractions. A simple problem tends to be one that can be solved through measurement, though it does not have to be. The idea is that the problem is clearly defined, and one will know if they have arrived at a potential solution. The abstraction mechanism then asks how one might make the problem harder, more interesting, or more general. Simple problems may appear in very different places like geometry or algebra, but the mathematical machine has shown us that these are all very intimately and intricately woven.
 
 
 In other words, mathematics broadly seeks to guarantee solutions to problems. Naturally, the basic problems in mathematics must be explainable in precise terms or the whole enterprise loses its meaning. All the cards must be on the table.
