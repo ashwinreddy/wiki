@@ -1,0 +1,1 @@
+An **inner product** for a [[vector space]] $V$ is any symmetric, PSD, bilinear  $B: V \times V \to \RR$.
