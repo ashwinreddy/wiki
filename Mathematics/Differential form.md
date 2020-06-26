@@ -1,4 +1,12 @@
-A **differential $k$-form** is something you can integrate over a $k$-dimensional manifold. The set of differential $k$-forms is denoted by $\bigwedge^k (T_p^* M)$, meaning exterior powers of the [[cotangent space]].
+A **differential $k$-form** on $\RR^n$ is a function
+
+\begin{equation}
+\alpha : \RR^n \to \bigwedge^k (T \RR^n)
+\end{equation}
+
+
+
+The set of differential $k$-forms is denoted by $\bigwedge^k (T_p^* M)$, meaning exterior powers of the [[cotangent space]].
 
 # Differential one-form
 
