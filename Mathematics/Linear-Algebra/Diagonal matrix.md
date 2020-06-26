@@ -1,0 +1,1 @@
+A **diagonal matrix** has only nonzero elements on the diagonal.
