@@ -1,4 +1,4 @@
-The **characteristic polynomial** of a square matrix $A$ is 
+The **characteristic polynomial** of a square matrix $A$ is a function of a parameter $\lambda$
 
 \begin{equation}
 p(\lambda) = \det(A - \lambda I)
