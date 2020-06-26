@@ -6,6 +6,9 @@ A **Galilean transformation** describes how to switch between two reference fram
 |Rotation|$(\vec{u}, \theta)$|3|One may be rotated w.r.t. the other.|
 |Origin|$(\Delta\vec{x}, \Delta t)$|4|They may differ in their origins. |
 
+Now, we just collect these into one object.
+
+|Galilean Group|10||
 
 
 Typically, we consider a "stationary" reference frame and a "moving" reference frame (physics tells us that there is no such thing as a stationary reference frame, but intuitively we may spot or pick one). The moving frame has primed coordinates. We can always orient the coordinate systems so that the motion is one direction. Then, the only disagreement is in that first coordinate.
