@@ -1,0 +1,1 @@
+The **Cartesian coordinate system** describes points by their distance from the origin by orthogonal unit vectors.
