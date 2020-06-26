@@ -1,1 +1,1 @@
-A **square matrix** is an $n \times n$ matrix.
+A **square matrix** is an $n \times n$ matrix, which means the input and outputs are in the same space.
