@@ -11,7 +11,3 @@ However, it is most intuitively described by compound interest at infinite frequ
 \begin{equation}
 e^x = \lim_{n \to \infty} \left(1 + \frac{x}{n}\right)^n
 \end{equation}
-
-# Extensions
-
-The Maclaurin series is natural because it extends to [[complex numbers|Euler's formula]] and [[matrices|matrix exponential]].
