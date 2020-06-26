@@ -4,7 +4,7 @@ A **normal distribution** is a very common continuous distribution with paramete
 \varphi(x) = e^{-\pi x^2}
 \end{equation}
 
-The general form is
+The general form is a little more involved.
 
 \begin{equation}
 \varphi(x; \mu, \sigma) = \frac{\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)}{\sigma\sqrt{2\pi}}
