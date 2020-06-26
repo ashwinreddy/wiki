@@ -1,1 +1,1 @@
-A **diagonalizable matrix** is a matrix that is [[similar|matrix similarity]] to a [[diagonal matrix]].
+A **diagonalizable matrix** is a [[square matrix]] that is [[similar|matrix similarity]] to a [[diagonal matrix]].
