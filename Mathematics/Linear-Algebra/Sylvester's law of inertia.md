@@ -1,1 +1,1 @@
-**Sylvester's law of inertia** says that [[symmetric matrices|symmetric matrix]] have the same signature if they are [[congruent|matrix congruence]]
+**Sylvester's law of inertia** says that [[symmetric matrices|symmetric matrix]] have the same signature if and only if they are [[congruent|matrix congruence]].
