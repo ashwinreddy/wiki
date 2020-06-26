@@ -1,0 +1,1 @@
+**[Soft Actor-Critic](https://arxiv.org/pdf/1801.01290.pdf)** is an off-policy approach to optimizing a stochastic policy.
