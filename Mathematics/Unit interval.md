@@ -1,1 +1,1 @@
-The **unit interval** is the closed interval $[0,1]$
+The **unit interval** is the closed interval $[0,1]$.
