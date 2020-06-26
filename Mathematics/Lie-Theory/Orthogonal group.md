@@ -12,7 +12,7 @@ X + X^\mathsf{T} = 0
 \end{gather}
 
 $$
-\transpose{}
+\transpose{3}
 $$
 
 # Properties
