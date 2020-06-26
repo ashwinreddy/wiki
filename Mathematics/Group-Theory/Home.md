@@ -1,1 +1,1 @@
-**Group theory** is the study of [[groups|group]]
+**Group theory** is the study of [[groups|group]], which are an abstractly defined algebraic structure.
