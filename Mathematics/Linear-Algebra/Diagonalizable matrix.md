@@ -1,0 +1,1 @@
+A **diagonalizable matrix** is a matrix that is similar to a diagonal matrix.
