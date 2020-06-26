@@ -1,1 +1,1 @@
-The **wedge product** of vectors is similar to but distinct from the [[cross product]], but available for all dimensions. 
+The **wedge product** is an operation that generates a volume element from spanning vectors.
