@@ -5,7 +5,7 @@ The **exterior derivative** gives a concrete meaning to the $\dd{}$ notation fro
 \dd{}: \Omega^k(M) \to \Omega^{k+1}(M)
 \end{equation}
 
-If $f$ is a function, then $\dd{f}$ is the linear functional given by the [[directional derivative]] of $f$ (in the direction given by its input).
+For example, if $f$ is a 0-form, meaning a smooth function, then $\dd{f}$ is the linear functional given by the [[directional derivative]] of $f$ (in the direction given by its input).
 
 \begin{equation}
 \dd{f}(x) = \partial_{x}f
