@@ -6,7 +6,7 @@ A **differential $k$-form** on a manifold $M$ is a function
 
 
 
-The set of differential $k$-forms is denoted by $\bigwedge^k (T_p^* M)$, meaning exterior powers of the [[cotangent space]].
+
 
 # Differential one-form
 
