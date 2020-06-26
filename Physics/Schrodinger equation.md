@@ -4,4 +4,4 @@ The **Schrodinger equation** is the Newton's second law for quantum mechanics.
 i \hbar \pdv{\Psi}{t} = H \Psi
 \end{equation}
 
-<<Warning("this may be totally wrong")>>
+<<Warn("this may be totally wrong")>>
