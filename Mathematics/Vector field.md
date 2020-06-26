@@ -1,4 +1,4 @@
-A **vector field** assigns [[(tangent) vectors|tangent vector]] to points on a [[manifold]] $M$.
+A **vector field** assigns (tangent) [[vectors|tangent vector]] to points on a [[manifold]] $M$.
 
 # Formal construction
 
