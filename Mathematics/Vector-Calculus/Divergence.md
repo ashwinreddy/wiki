@@ -1,0 +1,1 @@
+The **divergence** measures the the attraction or repulsion of a point.
