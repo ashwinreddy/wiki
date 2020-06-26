@@ -3,7 +3,7 @@ A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[m
 
 # Construction
 
-Tthe signature as manifold to [[tangent bundle]].
+The signature as manifold to [[tangent bundle]].
 
 \begin{equation}
 F: M \to TM
