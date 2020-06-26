@@ -1,0 +1,1 @@
+A **binary operation** is a function $f: S \times S \to S$ for a [[set]] $S$.
