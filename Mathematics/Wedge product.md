@@ -1,5 +1,5 @@
-The **wedge product** of vectors is similar to but distinct from the [[cross product]], but available for all dimensions. The main rule is that the wedge product is antisymmetric.
+The **wedge product** of vectors is similar to but distinct from the [[cross product]], but available for all dimensions. Computationally, we can say that
 
 $$
-a \wedge b + b\wedge a = 0
+a \wedge b = a \otimes b - b \otimes a
 $$
