@@ -1,0 +1,1 @@
+An **integral transform** pushes functions in one space into a differently parameterized space.
