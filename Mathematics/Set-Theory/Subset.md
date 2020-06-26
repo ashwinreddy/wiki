@@ -1,0 +1,1 @@
+A **subset** of a [[set]] $S$ is a set wholly contained in $S$.
