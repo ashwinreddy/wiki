@@ -1,0 +1,1 @@
+**Curl** is a measure of local rotation in a [[vector field]]
