@@ -1,1 +1,1 @@
-A **path** in a [[topological space]] $X$ is a [[continuous function]]
+A **path** in a [[topological space]] $X$ is a [[continuous function|homeomorphism]]
