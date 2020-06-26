@@ -1,0 +1,1 @@
+A **logarithm** is the inverse of an [[exponential function]]
