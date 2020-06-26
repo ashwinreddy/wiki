@@ -2,13 +2,13 @@ A **Galilean transformation** describes how to switch between two reference fram
 
 |Difference|Parameter|Dimension|Description|
 |:--------|----------|---------||
-|Velocity|$\vec{v}$|3||
-|Rotation|$(\vec{u}, \theta)$|3||
-|Origin|$(\Delta\vec{x}, \Delta t)$|4||
+|Velocity|$\vec{v}$|3|One may be moving w.r.t. the other.|
+|Rotation|$(\vec{u}, \theta)$|3|One may be rotated w.r.t. the other.|
+|Origin|$(\Delta\vec{x}, \Delta t)$|4|They may differ in their origins. |
 
-* One may be moving w.r.t. the other.
-* One may be rotated w.r.t. the other.
-* They may differ in their origins. 
+* 
+* 
+* 
 
 
 
