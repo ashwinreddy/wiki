@@ -1,1 +1,1 @@
-The **pullback**
+The **pullback** is a [[linear map]] $\phi^*$ from 1-forms on $N$ to 1-forms on $M$ for a map $\phi : M \to N$.
