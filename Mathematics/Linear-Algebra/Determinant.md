@@ -7,7 +7,7 @@ The **determinant** of a square matrix compresses the information in a matrix to
 
 Clearly, there will be information loss for any matrix of rank greater than one, so what can the determinant really tell us? The sign of the scalar tells you whether the transformation flips the coordinate orientation, and the absolute value tells you the volume spanned by the vectors of the matrix. Critically, a matrix is singular if and only if its determinant is zero.
 
-The determinant is a [[homomorphism]]:
+The determinant is a [[group homomorphism]]:
 
 \begin{equation}
 \det(AB) = \det(A)\det(B).
