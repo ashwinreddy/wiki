@@ -10,6 +10,10 @@ $$
 x^\mathsf{T} A y = y^\mathsf{T} A x
 $$
 
+# Characteristics
+
+The signature of a symmetric matrix is the triple $(n_0, n_+, n_-)$
+
  
 # Properties
 
