@@ -1,0 +1,1 @@
+The healthy way to think about a **vector** is as a 1-dimensional (linear) subspace.
