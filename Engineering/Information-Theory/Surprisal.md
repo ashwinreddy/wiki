@@ -1,5 +1,7 @@
-The **surprisal** of an outcome $x$ is defined as the [[logarithm]] (with arbitrary fixed base) of the reciprocal of the probability of the outcome.
+The **surprisal** of an outcome $x$ is defined as the [[logarithm]] of the reciprocal of the probability of the outcome.
 
 $$
 I(x) = \log_b \frac{1}{p(x)}
 $$
+
+The base $b$ of the logarithm is arbitrary, but common choices are 2 and $e$.
