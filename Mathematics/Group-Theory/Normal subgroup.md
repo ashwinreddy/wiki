@@ -1,0 +1,1 @@
+A **normal subgroup** is a [[subgroup]] that is invariant under conjugation.
