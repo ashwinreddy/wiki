@@ -1,7 +1,7 @@
 A **differential $k$-form** on $\RR^n$ is a function
 
 \begin{equation}
-\alpha : \RR^n \to \bigwedge^k (T \RR^n)
+\alpha : \RR^n \to \bigwedge\nolimits^k (T \RR^n)
 \end{equation}
 
 
