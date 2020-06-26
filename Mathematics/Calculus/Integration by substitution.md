@@ -4,7 +4,7 @@
 \int_a^b \left[ f\left(\phi\left(x\right)\right)\dv{\phi}{x}\right] \dd{x} = \int_{\phi(a)}^{\phi(b)} f(u)\, \dd{u}
 \end{equation}
 
-In multiple dimensions,
+In multiple dimensions we need to use the [[Jacobian]]
 
 \begin{equation}
 \int_U f(\phi(\vec{u})) \left\vert \det \mathcal{J}_\phi(\vec{u}) \right\vert \dd{\vec{u}} = \int\_{\phi(U)} f(\vec{v})\, \dd{\vec{v}}
