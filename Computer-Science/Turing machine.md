@@ -1,0 +1,1 @@
+A **Turing machine** is a conception of (idealized) computer as a machine sitting above an infinite tape of memory divided into discrete cells. The machine has the ability to move to any cell, read the value at the cell, or write a new value to the cell.
