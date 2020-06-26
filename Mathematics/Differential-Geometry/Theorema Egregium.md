@@ -1,1 +1,1 @@
-Gauss's **_Theorema Egregium_** says that Gaussian curvature is constant.
+Gauss's **_Theorema Egregium_** says something important about Gaussian curvature.
