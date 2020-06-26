@@ -1,7 +1,13 @@
 The **wedge product** is an operation that generates an oriented volume element from spanning vectors. Changing the order of the vectors introduces a change of sign in the result. 
 
 \begin{equation}
-a \wedge b = - b \wedge a
+a \wedge b \equiv - b \wedge a
+\end{equation}
+
+We then conclude that a vector can't span a volume with itself.
+
+\begin{equation}
+a \wedge a \equiv 0
 \end{equation}
 
 
