@@ -1,7 +1,7 @@
 The **tangent space** $T_p M$ for a manifold $M$ at a point $p$ consists of all the [[tangent vectors|tangent vector]] going through $p$.  Compactly,
 
 \begin{equation}
-T_pM = \left\\{\dot\gamma(0) \mid \gamma(0) = p\right\\}
+T_pM = \big\\{\dot\gamma(0) \mid \gamma(0) = p\big\\}
 \end{equation}
 
 A choice of coordinate system $x^i$ induces a basis for the tangent space:
