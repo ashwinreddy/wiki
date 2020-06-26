@@ -1,1 +1,1 @@
-A **square matrix** is an $n \times n$ matrix, which means the input and outputs are in the same space. That makes it an [[endomorphism]]. Thus, some operations are available exclusively to square matrices. For example, [[eigenpair]]
+A **square matrix** is an $n \times n$ matrix, which means the input and outputs are in the same space. That makes it an [[endomorphism]]. Thus, some operations are available exclusively to square matrices. For example, [[eigenpairs]]
