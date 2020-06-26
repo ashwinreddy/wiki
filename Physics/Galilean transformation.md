@@ -8,7 +8,7 @@ A **Galilean transformation** describes how to switch between two reference fram
 
 Now, we just collect these into one object.
 
-|Galilean Group|(\vec{v}, \vec\theta, \Delta\vec{r}, \Delta t)|10|
+|Galilean Group|$(\vec{v}, \vec\theta, \Delta\vec{r}, \Delta t)$|10|
 
 
 Typically, we consider a "stationary" reference frame and a "moving" reference frame (physics tells us that there is no such thing as a stationary reference frame, but intuitively we may spot or pick one). The moving frame has primed coordinates. We can always orient the coordinate systems so that the motion is one direction. Then, the only disagreement is in that first coordinate.
