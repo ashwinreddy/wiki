@@ -6,7 +6,6 @@ T_pM {\eqdef} \big\\{\dot\gamma(0) \mid \gamma(0) = p\big\\}
 
 $$
 \usepackage{xspace}
-
 $$
 
 A choice of coordinate system $x^i$ induces a basis for the tangent space:
