@@ -1,7 +1,4 @@
-Time dilation 
-: Moving fast makes time go slower for you. 
-
-Alice, moving at speed $v$ relative to Bob, will measure a time $\Delta t > \Delta t_0$ if Bob measures time $\Delta t_0$. The proportionality constant is the Lorentz factor (always > 1)
+**Time dilation** is the phenomenon where moving fast makes time go slower for you. Alice, moving at speed $v$ relative to Bob, will measure a time $\Delta t > \Delta t_0$ if Bob measures time $\Delta t_0$. The proportionality constant is the Lorentz factor (always > 1)
 
 \begin{equation}
 \Delta t = \gamma \Delta t_0 \tag{Time Dilation}
