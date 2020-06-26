@@ -1,5 +1,5 @@
 The **singular value decomposition (SVD)** decomposes an $m \times n$ matrix.
 
 $$
-A = U\Sigma V^T \order{V}
+A = U\Sigma V^T
 $$
