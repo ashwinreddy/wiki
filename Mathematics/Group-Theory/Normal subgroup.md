@@ -1,1 +1,1 @@
-A **normal subgroup** is a [[subgroup]] that is invariant under conjugation.
+A **normal subgroup** is a [[subgroup]] $N$ that is invariant under conjugation by the group $G$, and we write $N \triangleleft G$.
