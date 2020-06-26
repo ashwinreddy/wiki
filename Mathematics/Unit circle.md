@@ -1,0 +1,1 @@
+A **unit circle** is a circle of unit radius.
