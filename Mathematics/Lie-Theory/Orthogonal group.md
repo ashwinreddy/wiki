@@ -11,9 +11,6 @@ A'(0) + A'(0)^\mathsf{T} = 0 \\\\\
 X + X^\mathsf{T} = 0
 \end{gather}
 
-$$
-\transpose{3}
-$$
 
 # Properties
 
