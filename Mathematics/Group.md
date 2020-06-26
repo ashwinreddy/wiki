@@ -1,4 +1,4 @@
-A **group** is any [[set]] with an associative, invertible binary operation.
+A **group** is a [[set]] with an associative, invertible binary operation.
 
 
 is an abstraction in mathematics that applies to many objects. Naturally, this makes it hard to describe without resorting to the formal definition. However, proofs about groups are powerful _because_ they apply to lots of objects. 
