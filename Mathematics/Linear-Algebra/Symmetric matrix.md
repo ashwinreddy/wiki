@@ -10,4 +10,7 @@ $$
 x^\mathsf{T} A y = y^\mathsf{T} A x
 $$
 
-A real symmetric matrix has only real eigenvalues.
+ 
+# Properties
+
+* A real symmetric matrix has only real eigenvalues.
