@@ -4,7 +4,11 @@
 i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
 \end{equation}
 
-This equation defines the basis elements for $\mathbb{H} = \mathbb{R} + \mathbb{R}i +\mathbb{R}j + \mathbb{R}k$.
+This equation defines the basis elements for the quaternions, which we now define by
+
+\begin{equation}
+\mathbb{H} = \mathbb{R} + \mathbb{R}i +\mathbb{R}j + \mathbb{R}k
+\end{equation}
 
 A generic quaternion looks like
 
