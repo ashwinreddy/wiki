@@ -3,3 +3,5 @@
 \begin{equation}
 D_{KL}(P \parallel Q) \geq 0
 \end{equation}
+
+Equality holds when $P=Q$.
