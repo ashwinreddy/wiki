@@ -5,5 +5,5 @@
 \end{equation}
 
 \begin{equation}
-\text{Posterior} \propto \text{Likelihood}\cdot\text{Prior}
+\text{Posterior} = \frac{\text{Likelihood}\cdot\text{Prior}}{\text{Evidence}}
 \end{equation}
