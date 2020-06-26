@@ -5,7 +5,7 @@ T_pM \eqdef \big\\{\dot\gamma(0) \mid \gamma(0) = p\big\\}
 \end{equation}
 
 \begin{equation}
-T_pM = \big\\{\dot\gamma(0) \mid \gamma(0) = p\big\\}
+T_pM \doteq \big\\{\dot\gamma(0) \mid \gamma(0) = p\big\\}
 \end{equation}
 
 A choice of coordinate system $x^i$ induces a basis for the tangent space:
