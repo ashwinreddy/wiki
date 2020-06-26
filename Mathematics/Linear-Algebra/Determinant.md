@@ -1,4 +1,4 @@
-The **determinant** of a square matrix compresses the information in a matrix to a scalar. 
+The **determinant** of a [[square matrix]] compresses the information in a matrix to a scalar. 
 
 
 \begin{equation}
