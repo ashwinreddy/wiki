@@ -4,4 +4,11 @@ The **tangent bundle** for a manifold is the collection of [[tangent spaces|tang
 TM \eqdef \bigsqcup_{p \in M} T_p M
 \end{equation}
 
-The bundle naturally comes with a projection $\pi : TM \twoheadrightarrow M$ with $\pi(v, x) = x$.
+The bundle naturally comes with a projection 
+
+\begin{align}
+\pi : TM &\twoheadrightarrow M \\\\\
+(v,x) &\mapsto x
+\end{align}
+
+$$ with $\pi(v, x) = x$.
