@@ -1,4 +1,4 @@
-**Entropy** is a measure of average surprise by [[expectation]] of [[information content]].
+**Entropy** is a measure of average [[surprisal]] by [[expectation]].
 
 $$
 H(X) = \mathbb{E}[I_X(x)]
