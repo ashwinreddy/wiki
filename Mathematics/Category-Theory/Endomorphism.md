@@ -1,1 +1,1 @@
-An **endomorphism** is a map from an object to itself, e.g. a [[linear map]] from a vector space to itself.
+An **endomorphism** is a map from an object to itself, e.g. a [[square matrix]], which represents a [[linear map]] from a vector space to itself.
