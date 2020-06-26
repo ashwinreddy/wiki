@@ -1,4 +1,4 @@
-The **characteristic polynomial** of an [[$n \times n$ matrix]] $A$ is a function of a parameter $\lambda$
+The **characteristic polynomial** of an [[$n \times n$ matrix|square matrix]] $A$ is a function of a parameter $\lambda$
 
 \begin{equation}
 p(\lambda) = \det(A - \lambda I)
