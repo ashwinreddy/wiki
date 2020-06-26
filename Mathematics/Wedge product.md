@@ -2,6 +2,6 @@ The **wedge product** of vectors is similar to but distinct from the [[cross pro
 
 # Algebraic rules
 
-$$
-a \wedge b + b\wedge a = 0
-$$
+\begin{equation}
+a \wedge a \equiv 0
+\end{equation}
