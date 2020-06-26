@@ -7,7 +7,7 @@ T_p M \triangleq \left\\{\dot\gamma(0) \mid \gamma(0) = p \right\\}
 A choice of coordinate system $x^a$ induces a basis for the tangent space:
 
 \begin{equation}
-e_a = \pdv{}{x^a}
+e_i = \pdv{}{x^i}
 \end{equation}
 
 # Formal construction
