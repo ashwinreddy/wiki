@@ -26,7 +26,7 @@ MathJax.Hub.Config({
 	TeX: {
 		Macros: {
 
-	    eqdef: '{\\doteq}'
+	    eqdef: '{\,\\doteq\,}'
 		}
 	}
 })
