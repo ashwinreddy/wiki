@@ -15,3 +15,13 @@ Now, we simply iteratively apply this rule, which more generally looks like
 $$
 x_{n+1} = x_n - \frac{f(x_n)}{f'(x_n)}
 $$
+
+# Optimization
+
+We can use Newton's method to minimize a function by iteratively converging onto the stationary points.
+
+$$
+x_{n+1} = x_n - \left[f''(x_n)\right]^{-1}f'(x_n)
+$$
+
+The equation readily generalizes to higher dimensions if we let $f''$ represent the [[Hessian matrix]].
