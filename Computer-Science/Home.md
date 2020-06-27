@@ -6,7 +6,7 @@ Problem
 Algorithm
 : A proposed solution to a problem in the form of a sequence of steps one must take. The steps should be such that anyone can follow them correctly.
 
-For example, each entry in a cookbook gives a high-level "algorithm" for creating a dish.
+As a rough example by analogy, each entry in a cookbook gives a high-level "algorithm" for creating a dish.
 
 Crucial to the practicable use of computer science is determining the language in which one wants to describe an algorithm, especially since this language must be clear enough to the reader that they can reproduce the results. Any system which can follow the procedure can be called a computer.
 
