@@ -1,0 +1,1 @@
+A **probability mass function (PMF)** assigns probability to a discrete random variable.
