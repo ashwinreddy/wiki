@@ -4,7 +4,7 @@ $$
 y = f'(x_0)(x-x_0) + f(x_0)
 $$
 
-The root for a line can be computed by setting $y=0$.
+The root for a line can be computed by setting $y=0$ and solving for $x$.
 
 $$
 x = x_0-\frac{f(x_0)}{f'(x_0)}
