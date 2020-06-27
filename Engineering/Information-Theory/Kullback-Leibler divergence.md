@@ -4,6 +4,7 @@ $$
 D_{KL} (P \parallel Q) \doteq H(P, Q) - H(P)
 $$
 
+Suppose $P$ and $Q$ are distributions from the same parameterized family and differ only slightly in those parameters. Since the KL divergence has a minimum at zero, the [[Taylor series]]
 
 
 # Computation
