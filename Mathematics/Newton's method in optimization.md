@@ -1,0 +1,1 @@
+**[[Newton's method]]** can be used to optimize a function.
