@@ -1,3 +1,3 @@
 Physics is, perhaps reductively, the study of motion. Motion occurs all around us, so by studying motion we get a sense for what makes the world tick. The general goal of physics seems to be fundamentally understanding the smallest moving parts of our universe.
 
-Physics is closely related with mathematics, and often developments in one area will lead to developments in the other. 
+Physics is closely related with mathematics, and often developments in one area will lead to developments in the other. As a science, physics demands that we make measurements and test hypotheses. The most natural, simple, and fundamental measurements relate to physical motion: measuring length and timing duration.
