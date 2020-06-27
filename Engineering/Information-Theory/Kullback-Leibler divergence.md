@@ -1,10 +1,10 @@
-The **Kullback-Leibler (KL) divergence** is a measure of relative entropy, the inefficiency in using a distribution $Q$ to model distribution $P$.
+The **Kullback-Leibler (KL) divergence** is a measure of relative entropy, the inefficiency in using a distribution $Q$ to model distribution $P$. It operates in a manner similiar to a metric but it is not symmetric.
 
 $$
-D_{KL} (P \parallel Q) = H(P, Q) - H(P)
+D_{KL} (P \parallel Q) \doteq H(P, Q) - H(P)
 $$
 
-It operates in a manner similiar to a metric but it is not symmetric.
+
 
 # Computation
 
