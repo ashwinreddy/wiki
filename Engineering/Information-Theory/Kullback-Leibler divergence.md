@@ -7,7 +7,7 @@ $$
 Suppose $P$ and $Q$ are distributions from the same parameterized family and differ only slightly in those parameters. Since the KL divergence has a minimum at zero, the [[Taylor series]] approximation kicks in with the quadratic
 
 $$
-f_{\theta_0}(\theta) = D_{KL}(P(\theta_0) \parallel Q(\theta))
+f_{\theta_0}(\theta) = D_{KL}\left(P(\theta_0) \parallel Q(\theta)\right)
 $$
 
 $$
