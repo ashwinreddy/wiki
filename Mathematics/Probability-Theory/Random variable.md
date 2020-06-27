@@ -1,1 +1,1 @@
-**Random variables** are the building block of probability. 
+**Random variables (RV)** are the building block of probability. An RV represents the the outcome of an experiment, with outcomes tagged with probabilities.
