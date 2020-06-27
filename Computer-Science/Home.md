@@ -6,7 +6,7 @@ Problem
 Algorithm
 : A proposed solution to a problem in the form of a sequence of steps one must take. The steps should be such that anyone can follow them correctly.
 
-Crucial to the practicable use of computer science is determining the language in which one wants to describe an algorithm, especially since this language must be clear enough to the reader that they can reproduce the results. 
+Crucial to the practicable use of computer science is determining the language in which one wants to describe an algorithm, especially since this language must be clear enough to the reader that they can reproduce the results. Any system which can follow the procedure can be called a computer.
 
 
 When such a language is chosen, the algorithm can be given to a "computer," which will produce the results exactly as specified. A computer used to refer to a person; today it refers to machines which can perform basic logic and arithmetic using electric circuits. Prior to the widespread use of electricity as the basis of compute, Charles Babbage and others worked on mechanical machines. Of course, for practical purposes one must be interested to a extent in the construction of computers, but as the quote goes,
