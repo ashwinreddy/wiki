@@ -1,1 +1,1 @@
-The **pushforward** is the [[Jacobian]].
+The **pushforward** 
