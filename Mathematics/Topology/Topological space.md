@@ -1,1 +1,1 @@
-A **topological space** is a [[set]] with a topology.
+A **topological space** is a [[set]] with a topology. A common example would be the real number line $\RR$.
