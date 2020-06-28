@@ -4,6 +4,12 @@ The **Kullback-Leibler (KL) divergence** is a measure of relative entropy, the i
 D_{KL}(P \parallel Q) \doteq \mathbb{E}_{x \sim P}\left[\log \frac{P(X)}{Q(X)}\right]
 \end{equation}
 
+We can also write
+
+\begin{equation}
+D_{KL}(P \| Q) = \mathbb{E}_{x \sim P}[-\log Q(X)] - \mathcal{H}(P(X))
+\end{equation}
+
 Suppose $P$ and $Q$ are distributions from the same parameterized family and differ only slightly in those parameters. For example, say $P$ is the true model for a phenomenon and has parameter $\theta_0$ and $Q$ is our current best guess with $\theta$. Our goal is to determine the value for
 
 $$
