@@ -7,3 +7,9 @@ The **gamma function** $\Gamma$ extends the domain of factorials.
 $$
 \Gamma(n) = (n-1)!
 $$
+
+The digamma function is 
+
+$$
+\digamma
+$$
