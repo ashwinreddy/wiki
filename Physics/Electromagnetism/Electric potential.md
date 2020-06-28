@@ -7,5 +7,5 @@ V = \frac{U_e}{q}
 Knowing how force and potential energy are related, it becomes clear that
 
 $$
-V = - \int \vec{E} \cdot \dd{\vec{\ell}}
+V = - \int_C \vec{E} \cdot \dd{\vec{\ell}}
 $$
