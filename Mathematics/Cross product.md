@@ -1,7 +1,7 @@
 The **cross product** is a [[binary operation]] that's only really available in $\RR^3$ that generates an orthogonal pseudovector whose length is the area spanned by its operands. It satisfies the Lie bracket conditions.
 
 \begin{equation}
-\vec{a}\times\vec{b} = (\lVert \vec{a} \rVert \lVert \vec{b} \rVert \sin\theta)\cdot\hat{n}
+\vec{a}\times\vec{b} = \hat{n} \lVert \vec{a} \rVert \lVert \vec{b} \rVert \sin\theta
 \end{equation}
 
 There is some ambiguity here because there are two orthogonal versions, we pick the one based on the right-hand rule.
