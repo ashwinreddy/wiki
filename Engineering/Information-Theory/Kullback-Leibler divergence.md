@@ -1,6 +1,6 @@
 ---
 title: "KL Divergence"
-bibliography: './bibliography.bib'
+bibliography: 'bibliography.bib'
 
 ---
 
