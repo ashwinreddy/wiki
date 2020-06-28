@@ -4,6 +4,7 @@ $$
 s(\theta) = \nabla_\theta \log\ell(\theta)
 $$
 
+
 The [[expectation]] of the score is 0.
 
 \begin{align}
