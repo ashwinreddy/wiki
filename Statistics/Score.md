@@ -1,4 +1,4 @@
-The **score** is given by the gradient of the log of the likelihood function $\ell$ crafted from density $f$.
+The **score** is given by the gradient of the log of the [[likelihood function]] $\ell$ crafted from density $f$.
 
 $$
 s(\theta) = \nabla_\theta \log\ell(\theta)
