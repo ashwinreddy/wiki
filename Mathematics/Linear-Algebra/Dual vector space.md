@@ -1,7 +1,7 @@
 The **dual vector space** for a [[vector space]] $V$ over a field $k$ is just $\operatorname{Hom}(V, k)$ seen as a vector space, denoted $V^\*$. The elements of the dual vector space are called **dual vectors**, **covectors**, or **one forms**. In standard linear algebra, such a dual vector could be compactly represented by a constant vector $\vec{a}$.
 
 $$
-f(\vec{x}) = \vec{a}^\intercal \vec{x}
+f(\vec{x}) = \vec{a}^T \vec{x}
 $$
 
 A choice of [[basis]] $\left\\{\vec{e}\_i\right\\}\_{i \in I}$ for $V$ induces a basis for $V^*$.
