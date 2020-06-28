@@ -1,6 +1,7 @@
 ---
 title: "KL Divergence"
 bibliography: 'bibliography.bib'
+link-citations: true
 
 ---
 
