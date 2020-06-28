@@ -1,8 +1,9 @@
 A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. The signature is manifold to [[tangent bundle]].
 
-\begin{equation}
-F: M \to TM
-\end{equation}
+\begin{align}
+F: M &\to TM \\
+p &\mapsto F(p) \in T_p M
+\end{align}
 
 A vector field on $\RR^n$ can be written
 
