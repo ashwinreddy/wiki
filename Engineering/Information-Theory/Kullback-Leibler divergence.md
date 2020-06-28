@@ -14,6 +14,10 @@ $$
 f_{\theta_0}(\theta) =  \frac{1}{2} \sum_{jk} \Delta \theta^j \Delta\theta^k f_{\theta_0}''(\theta_0) + \order{\Delta \theta ^ 3}
 $$
 
+# Properties
+
+* [[Gibbs' inequality]]
+
 
 # Computation
 
