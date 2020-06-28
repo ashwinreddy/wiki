@@ -1,1 +1,1 @@
-An **involution** is an operation whose square is the identity.
+An **involution** is an operation whose square is the identity. That is, a function $f: X \to X$ such that $f(f(x)) =x$.
