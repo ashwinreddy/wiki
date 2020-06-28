@@ -1,8 +1,7 @@
 **Entropy** is [[expected|expectation]] [[surprisal]].
 
 $$
-\mathcal{H
-(X) = \mathbb{E}[I_X(x)]
+\mathcal{H}(X) = \mathbb{E}[I_X(x)]
 $$
 
 # Computation
