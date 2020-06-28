@@ -4,6 +4,7 @@ $$
 s(\theta) = \nabla_\theta \log\ell(\theta)
 $$
 
+In other words, it tells you how to adjust the parameters $\theta$ to get a higher likelihood for the data.
 
 The [[expectation]] of the score is 0.
 
