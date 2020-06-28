@@ -1,7 +1,7 @@
 A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. The signature is manifold to [[tangent bundle]].
 
 \begin{align}
-F: M &\to TM \\
+F: M &\to TM \\\\\
 p &\mapsto F(p) \in T_p M
 \end{align}
 
