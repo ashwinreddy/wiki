@@ -2,4 +2,4 @@ The **dual vector space** for a [[vector space]] $V$ over a field $k$ is just $\
 
 A choice of [[basis]] $\left\\{\vec{e}\_i\right\\}\_{i \in I}$ for $V$ induces a basis for $V^*$.
 
-For a finite dimensional vector space, the operation of taking a dual vector is an [[involution]]. In other words, the claim is that the double dual $V^{\*\*}$ corresponds to $V$. An element of $V^{**}$ has to assign a scalar to a function $f: V \to \RR$.
+For a finite dimensional vector space, the operation of taking a dual vector is an [[involution]]. In other words, the claim is that the double dual $V^{\*\*}$ corresponds to $V$. 
