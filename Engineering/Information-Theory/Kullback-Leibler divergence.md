@@ -11,7 +11,7 @@ f_{\theta_0}(\theta) = D_{KL}\left(P(\theta_0) \parallel Q(\theta)\right)
 $$
 
 
-Since the KL divergence has a minimum at zero, the [[Maclaurin series|Taylor series]] approximation for the divergence kicks in with the quadratic.
+Since the KL divergence has a minimum at zero, the [[Taylor series]] approximation for the divergence kicks in with the quadratic.
 
 
 $$
