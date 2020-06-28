@@ -1,5 +1,5 @@
 ---
-title: "KL"
+title: "KL Divergence"
 bibliography: 'bibliography.bib'
 
 ---
