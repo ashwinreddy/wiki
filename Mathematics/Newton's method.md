@@ -18,7 +18,7 @@ $$
 
 # Optimization
 
-We can use Newton's method to minimize a function by iteratively converging onto the stationary points.
+A common use case for root-finding is in looking for the extremum of a function where we want to find $f'(x)=0$. We can use Newton's method to minimize a function by iteratively converging onto the stationary points.
 
 $$
 x_{n+1} = x_n - \left[f''(x_n)\right]^{-1}f'(x_n)
