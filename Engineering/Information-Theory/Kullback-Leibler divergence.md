@@ -1,5 +1,5 @@
 ---
-bibliography: 'zettel.bib'
+bibliography: 'bibliography.bib'
 
 ---
 
