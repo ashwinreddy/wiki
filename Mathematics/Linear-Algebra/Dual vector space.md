@@ -6,5 +6,5 @@ $$
 
 A choice of [[basis]] $\left\\{\vec{e}\_i\right\\}\_{i \in I}$ for $V$ induces a basis for $V^*$.
 
-For a finite dimensional vector space, the operation of taking a dual vector is an [[involution]]. In other words, the claim is that the double dual $V^{\*\*}$ corresponds to $V$. To see this, just consider the function
+For a finite dimensional vector space, the operation of taking a dual vector is an [[involution]]. In other words, the claim is that the double dual $V^{\*\*}$ corresponds to $V$. To see this, consider how you would map $f(\vec{x})$ to a number. You would simply feed it a vector!
 
