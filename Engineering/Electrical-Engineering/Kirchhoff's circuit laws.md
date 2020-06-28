@@ -1,7 +1,7 @@
 **Kirchhoff's circuit laws** refer to two laws for electric circuits.
 
 \begin{equation}
-\sum_{k =1}^n I_k = 0 \text{KCL}
+\sum_{k =1}^n I_k = 0 \tag{KCL}
 \end{equation}
 
 The voltages in a loop sum to nil.
