@@ -1,0 +1,1 @@
+An **involution** is an operation whose square is the identity.
