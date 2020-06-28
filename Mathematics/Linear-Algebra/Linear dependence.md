@@ -1,0 +1,1 @@
+Every set of vectors is either **linearly dependent** or **linearly independent**.
