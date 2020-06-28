@@ -1,7 +1,7 @@
 The **Kullback-Leibler (KL) divergence** is a measure of relative entropy, the inefficiency in using a distribution $Q$ to model distribution $P$. It operates in a manner similiar to a metric but it is not symmetric. 
 
 $$
-D_{KL}(P \parallel Q) = \mathbb{E}_{x \sim P}\left[\log \frac{P(X)}{Q(X)}\right]
+D_{KL}(P \parallel Q) \doteq \mathbb{E}_{x \sim P}\left[\log \frac{P(X)}{Q(X)}\right]
 $$
 
 Suppose $P$ and $Q$ are distributions from the same parameterized family and differ only slightly in those parameters. For example, say $P$ is the true model for a phenomenon and has parameter $\theta_0$ and $Q$ is our current best guess with $\theta$. Our goal is to determine the value for
