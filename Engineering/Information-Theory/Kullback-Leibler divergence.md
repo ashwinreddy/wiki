@@ -4,11 +4,15 @@ $$
 D_{KL} (P \parallel Q) \doteq H(P, Q) - H(P)
 $$
 
-Suppose $P$ and $Q$ are distributions from the same parameterized family and differ only slightly in those parameters. For example, say $P$ is the true model for a phenomenon and has parameter $\theta_0$ and $Q$ is our current best guess with $\theta$. Since the KL divergence has a minimum at zero, the [[Maclaurin series|Taylor series]] approximation for the divergence kicks in with the quadratic.
+Suppose $P$ and $Q$ are distributions from the same parameterized family and differ only slightly in those parameters. For example, say $P$ is the true model for a phenomenon and has parameter $\theta_0$ and $Q$ is our current best guess with $\theta$. Our goal is to determine the value for
 
 $$
 f_{\theta_0}(\theta) = D_{KL}\left(P(\theta_0) \parallel Q(\theta)\right)
 $$
+
+
+Since the KL divergence has a minimum at zero, the [[Maclaurin series|Taylor series]] approximation for the divergence kicks in with the quadratic.
+
 
 $$
 f_{\theta_0}(\theta) =  \frac{1}{2} \sum_{jk} \Delta \theta^j \Delta\theta^k f_{\theta_0}''(\theta_0) + \order{\Delta \theta ^ 3}
