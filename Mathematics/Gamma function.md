@@ -11,5 +11,5 @@ $$
 The digamma function is 
 
 $$
-\digamma
+\digamma(x) = \dv{}{x} \ln \Gamma(x)
 $$
