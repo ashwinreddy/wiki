@@ -1,4 +1,4 @@
-The **tangent bundle** for a manifold is the collection of [[tangent spaces|tangent space]].
+The **tangent bundle** for a manifold is the collection of [[tangent spaces|tangent space]] as a [[bundle]].
 
 \begin{equation}
 TM \eqdef \bigsqcup_{p \in M} T_p M
