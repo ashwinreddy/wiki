@@ -5,5 +5,5 @@
 \end{equation}
 
 \begin{equation}
-\sum_{}
+\sum_{k=1}^n V_k = 0
 \end{equation}
