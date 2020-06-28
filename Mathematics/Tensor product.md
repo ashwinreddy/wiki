@@ -1,20 +1,5 @@
-The **tensor product** for [[vector spaces|vector space]] $V$ and $W$ is denoted $\otimes$ and returns outputs in a new composite vector space.
+The simplest definition for a **tensor product** is that it combines [[tensors|tensor]] $f$ and $g$ into a new tensor $f \otimes g$ in the following way:
 
 $$
-\otimes: V \times W \to V \otimes W
-$$
-
-\begin{equation}
-\dim( V \otimes W) = \dim V \cdot \dim W
-\end{equation}
-
-The basis for $V \otimes W$ if $V$ has basis $e_i$ and $W$ has basis $f_j$ is the set of $e_i \otimes f_j$.
-
-
-
-
-The simple product of $v \otimes w$ is given by storing the multiplication of every element of $v$ with every element of $w$.
-
-$$
-v \otimes w = vw^\mathsf{T}
+(f \otimes g)(x) = f(x)g(x)
 $$
