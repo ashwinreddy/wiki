@@ -1,1 +1,1 @@
-The **pushforward**
+The **pushforward** is the [[Jacobian matrix]].
