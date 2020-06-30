@@ -3,3 +3,9 @@ The MSE of any unbiased estimator is lower bounded by the inverse Fisher informa
 \begin{equation}
 \mathbb{V} \left[ \hat\theta \right] \geq \frac{1}{I(\theta)}
 \end{equation}
+
+Another way of saying this is that efficiency is maxed at 1.
+
+\begin{equation}
+\frac{I(\theta)^{-1}}{\mathbb{V}\left[\hat\theta\right]}
+\end{equation}
