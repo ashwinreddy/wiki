@@ -15,4 +15,6 @@ When such a language is chosen, the algorithm can be given to a "computer," whic
 
 > Computer science is no more about computers than astronomy is about telescopes.
 
+The field of computer engineering is more interested in how to create the basis of general compute from electrical structures.
+
 In general, a problem may be solved by a number of algorithms. The computer scientist is then interested in determining the properties of these algorithms. Every algorithm demands a payment of time and space, and it is desirable to use as little of these as possible.
