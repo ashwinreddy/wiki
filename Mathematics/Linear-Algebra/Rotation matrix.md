@@ -6,7 +6,7 @@ In 2D, a rotation matrix for angle $\theta$,
 
 \\begin{equation}
 R(\theta) = \begin{bmatrix}
-\cos \theta & - \sin\theta \\\\\
+\cos \theta & - \sin\theta 
 \sin\theta & \cos\theta
 \end{bmatrix}
 \end{equation}
