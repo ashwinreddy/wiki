@@ -12,7 +12,7 @@ When we're interested in a differentiable manifold, we have to check the transit
 The idea is that you have two charts $U_i$ and $U_j$ that overlap somewhere (e.g. it may be helpful to think of a chart for two countries):
 
 \\begin{equation}
-U_{ij} = U_i \cap U_j
+U_{ij} = U_i \\cap U_j
 \end{equation}
 
 The transition map is a coordinate transformation from $U_i$ to $U_j$ and by the construction of a manifold is at least guaranteed to be continuous.
