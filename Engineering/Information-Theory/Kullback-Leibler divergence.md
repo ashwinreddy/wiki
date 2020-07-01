@@ -25,9 +25,7 @@ $$
 Since the KL divergence has a minimum at zero, the [[Taylor series]] approximation for the divergence kicks in with the quadratic.
 
 
-$$
-f_{\theta_0}(\theta) =  \frac{1}{2} \sum_{jk} \Delta \theta^j \Delta\theta^k f_{\theta_0}''(\theta_0) + \order{\Delta \theta ^ 3}
-$$
+$$f_{\theta_0}(\theta) =  \frac{1}{2} \sum_{jk} \Delta \theta^j \Delta\theta^k f_{\theta_0}''(\theta_0) + \order{\Delta \theta ^ 3}$$
 
 # Properties
 
