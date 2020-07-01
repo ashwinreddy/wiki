@@ -4,9 +4,9 @@ The **3D rotation group** is the [[Lie group]] of rotations in three-dimensions,
 
 First, we need to determine $T_e \operatorname{SO}(3)$, which consists of all matrices $X$ such that $\exp(tX) \in \operatorname{SO}(3)$. The infinitesimal transformation is given by
 
-\begin{gather}
+$$
 O = I + \varepsilon J
-\end{gather}
+$$
 
 We then impose \ref{eq:orth} to determine that
 
