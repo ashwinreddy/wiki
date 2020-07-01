@@ -5,10 +5,10 @@ $$
 O^\mathsf{T}O = I \tag{Orthogonality Condition}
 $$
 
-\begin{equation}
+$$
 \label{eq:spec}
 \det O = 1 \tag{Special Condition}
-\end{equation}
+$$
 
 # [[Infinitesimal transformation]]
 
