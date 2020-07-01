@@ -7,10 +7,10 @@ $$
 
 Blah blah
 
-$$
+$
 \label{eq:spec}
 \det O = 1 \tag{Special Condition}
-$$
+$
 
 # [[Infinitesimal transformation]]
 
