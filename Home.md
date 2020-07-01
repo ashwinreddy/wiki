@@ -4,7 +4,9 @@ This is the home page of my wiki!
 |[Logic](./Logic/)|[Engineering](./Engineering/)|[Statistics](./Statistics/)|
 |[Economics](./Economics/)|
 
-$$a+b=c$$
+$$
+a+b=c
+$$
 
 ---
 
