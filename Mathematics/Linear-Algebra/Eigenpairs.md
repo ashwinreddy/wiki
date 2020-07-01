@@ -1,6 +1,6 @@
 An **eigenpair** for a [[matrix]] consists of the lines which are invariant under multiplication and the scaling factors for those lines. Formally, it is the pair for a linear map $T$ on a vector space $V$ over a field $k$ is a $(\lambda \in k, \vec{v} \in V)$ satisfying
 
-\begin{equation}
+\\begin{equation}
 T\left(\vec{v}\right) = \lambda \vec{v} \tag{Eigenequation}
 \end{equation}
 
