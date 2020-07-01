@@ -13,6 +13,7 @@ One can do mathematics at varying levels of rigor and formality. Informal mathem
 Branches of math include
 
 * [Topology](./Topology/)
+* [Abstract Algebra](./Abstract-Algebra)
 * [Linear Algebra](./Linear-Algebra/)
 * [Probability Theory](./Probability-Theory/)
 * [Category Theory](./Category-Theory/)
