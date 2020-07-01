@@ -4,9 +4,6 @@ This is the home page of my wiki!
 |[Logic](./Logic/)|[Engineering](./Engineering/)|[Statistics](./Statistics/)|
 |[Economics](./Economics/)|
 
-\begin{equation}
-\int_a^b f(x) dx
-\end{equation}
 
 ---
 
