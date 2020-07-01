@@ -5,7 +5,7 @@ This is the home page of my wiki!
 |[Economics](./Economics/)|
 
 \\begin{equation}
-\int_a^b f(x) dx
+\\int_a^b f(x) dx
 \end{equation}
 
 ---
