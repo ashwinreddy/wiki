@@ -4,7 +4,9 @@ This is the home page of my wiki!
 |[Logic](./Logic/)|[Engineering](./Engineering/)|[Statistics](./Statistics/)|
 |[Economics](./Economics/)|
 
-$$\int_a^b f(x) dx$$
+\begin{equation}
+a+b=c
+\end{equation}
 
 ---
 
