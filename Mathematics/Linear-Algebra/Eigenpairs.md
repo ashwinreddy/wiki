@@ -32,7 +32,7 @@ If our linear transformation in question is an $n \times n$ matrix $\mathbf{A}$,
 
 Luckily, we can ignore the $v$ in the last equation above and recognize that we must have a singular matrix, leaving us
 
-\begin{equation}
+\\begin{equation}
 \det(\mathbf{A} - \lambda \mathbf{I}) = 0
 \end{equation}
 
