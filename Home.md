@@ -4,7 +4,7 @@ This is the home page of my wiki!
 |[Logic](./Logic/)|[Engineering](./Engineering/)|[Statistics](./Statistics/)|
 |[Economics](./Economics/)|
 
-$\det A = \pi$
+\det A = \pi
 
 ---
 
