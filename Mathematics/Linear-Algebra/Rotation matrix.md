@@ -3,7 +3,6 @@ A **rotation matrix** is a matrix $A$ that represents a rotation in the sense th
 # 2D
 
 In 2D, a rotation matrix for angle $\theta$,
-
 $$
 R(\theta) = \begin{bmatrix}
 \cos \theta & - \sin\theta \\
