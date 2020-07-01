@@ -1,26 +1,3 @@
----
-bibliography: zettel.bib
-csl: ieee.csl
-nocite: |
-    
----
-
-# WFDB Record
-
-> **Date:** Tue 10 Mar 2020 06:15:25 AM UTC
-> 
-> **Summary:** Overview of the Waveform Database (WFDB) record format
->
-> **Keywords:** ##summary #wfdb #dataformat #storage #healthcare #opensource #standard 
-
-## **Note Linked To:**
-
-### [The Technology Index](03162020223918-technology-index)
-- **Summary:** This index is a compilation of utilities and resources when working with any sort of technology.
-
----
-
-
 An **eigenpair** for a [[matrix]] consists of the lines which are invariant under multiplication and the scaling factors for those lines. Formally, it is the pair for a linear map $T$ on a vector space $V$ over a field $k$ is a $(\lambda \in k, \vec{v} \in V)$ satisfying
 
 \begin{equation}
