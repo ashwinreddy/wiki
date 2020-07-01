@@ -1,1 +1,1 @@
-Biology is the study of life.
+**Biology** is the study of life.
