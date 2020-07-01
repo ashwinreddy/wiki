@@ -12,7 +12,7 @@ The determinant of a triangular matrix is the product of diagonals.
 
 
 $$
-tr  A = \sum_{i=1}^n \lambda_i
+\operatorname{tr}  A = \sum_{i=1}^n \lambda_i
 $$
 
 \begin{equation}
