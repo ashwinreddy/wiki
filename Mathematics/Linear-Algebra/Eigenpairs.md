@@ -30,10 +30,6 @@ If our linear transformation in question is an $n \times n$ matrix $\mathbf{A}$,
 \left(\mathbf{A} - \lambda \mathbf{I} \right)\vec{v} = 0
 \end{gather}
 
-Luckily, we can ignore the $v$ in the last equation above and recognize that we must have a singular matrix, leaving us
-
-$$
-\det(\mathbf{A} - \lambda \mathbf{I}) = 0
-$$
+Luckily, we can ignore the $v$ in the last equation above and recognize that we must have a singular matrix, leaving us $\det(\mathbf{A} - \lambda \mathbf{I}) = 0$.
 
 The equation above is called the [[characteristic equation|characteristic polynomial]] of $A$. It is a degree $n$ polynomial function of $\lambda$, so there are at most $n$ eigenvalues which can be found as roots. Then, the eigenvector is any element of the nullspace of $\mathbf{A} - \lambda\mathbf{I}$.
