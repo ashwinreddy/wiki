@@ -7,7 +7,7 @@ The **Kullback-Leibler (KL) divergence** is a measure of relative entropy, the i
 
 \\begin{equation}
 D_{KL}(P \parallel Q) \doteq \mathbb{E}_{x \sim P}\left[\log \frac{P(X)}{Q(X)}\right]
-\end{equation}
+\\end{equation}
 
 We can also write [@dibya]
 
