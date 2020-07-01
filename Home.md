@@ -6,6 +6,8 @@ This is the home page of my wiki!
 
 
 |a|b|c|
+|-|-|-|
+|d|e|f|
 
 ---
 
