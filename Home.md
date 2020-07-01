@@ -6,6 +6,7 @@ This is the home page of my wiki!
 
 $1+2=3$
 
+1+2=3
 ---
 
 [[include:Philosophy]]
