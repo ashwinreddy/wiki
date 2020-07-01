@@ -7,5 +7,5 @@ The **Cramer-Rao inequality says** that the MSE of any unbiased estimator is at 
 Another way of saying this is that efficiency is maxed at 1.
 
 \begin{equation}
-\frac{I(\theta)^{-1}}{\mathbb{V}\left[\hat\theta\right]} \leq 1
+\frac{I(\theta)^{-1}}{\mathbb{V}\left[\hat\theta\right]} \equiv e \leq 1
 \end{equation}
