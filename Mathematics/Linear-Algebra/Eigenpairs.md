@@ -14,9 +14,9 @@ We call the $\lambda$ an **eigenvalue** and the $\vec{v}$ an **eigenvector**. No
 
 The determinant of a triangular matrix is the product of diagonals.
 
-\begin{equation}
+$$
 \operatorname{tr} A = \sum_{i=1}^n \lambda_i
-\end{equation}
+$$
 
 \begin{equation}
 \det A = \prod_{i=1}^n \lambda_i
