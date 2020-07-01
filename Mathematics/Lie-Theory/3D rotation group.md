@@ -8,7 +8,7 @@ We then impose \ref{eq:orth} to determine that
 
 \\begin{gather}
 (I + \varepsilon J)\^T (I + \varepsilon J) = I \\\\\
-I  + \varepsilon J + \varepsilon J^\mathsf{T} + \cancelto{0}{\varepsilon^2 J^\mathsf{T} J} = I \\\\\
+I  + \varepsilon J + \varepsilon J^T + \cancelto{0}{\varepsilon^2 J^\mathsf{T} J} = I \\\\\
 J + J^\mathsf{T} = 0 \tag{Skew-symmetric}
 \end{gather}
 
