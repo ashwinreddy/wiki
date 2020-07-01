@@ -6,7 +6,7 @@ First, we need to determine $T_e \operatorname{SO}(3)$, which consists of all ma
 
 We then impose \ref{eq:orth} to determine that
 
-\begin{gather}
+\\begin{gather}
 (I + \varepsilon J)^\mathsf{T}(I + \varepsilon J) = I \\\\\
 I  + \varepsilon J + \varepsilon J^\mathsf{T} + \cancelto{0}{\varepsilon^2 J^\mathsf{T} J} = I \\\\\
 J + J^\mathsf{T} = 0 \tag{Skew-symmetric}
