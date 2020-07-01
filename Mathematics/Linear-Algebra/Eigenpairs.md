@@ -8,11 +8,7 @@ We call the $\lambda$ an **eigenvalue** and the $\vec{v}$ an **eigenvector**. No
 
 # Properties
 
-The determinant of a triangular matrix is the product of diagonals.
-
-$$
-\operatorname{tr} A = \sum_{i=1}^n \lambda_i
-$$
+The determinant of a triangular matrix is the product of diagonals. $\operatorname{tr} A = \sum_{i=1}^n \lambda_i$
 
 \begin{equation}
 \det A = \prod_{i=1}^n \lambda_i
