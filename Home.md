@@ -5,10 +5,6 @@ This is the home page of my wiki!
 |[Economics](./Economics/)|
 
 
-|a|b|c|
-|-|-|-|
-|d|e|f|
-
 ---
 
 [[include:Philosophy]]
