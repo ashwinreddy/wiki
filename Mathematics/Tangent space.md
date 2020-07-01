@@ -12,4 +12,4 @@ e_i = \pdv{}{x^i}
 
 # Formal construction
 
-The tangent space is the set of derivations $X_p: C^\infty(M) \to \RR$.
+The tangent space is the set of derivations $X_p: C^\infty(M) \to \mathbb{R}$.
