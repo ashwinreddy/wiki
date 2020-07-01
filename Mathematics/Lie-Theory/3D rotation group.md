@@ -5,6 +5,8 @@ $$
 O^\mathsf{T}O = I \tag{Orthogonality Condition}
 $$
 
+Blah blah
+
 $$
 \label{eq:spec}
 \det O = 1 \tag{Special Condition}
