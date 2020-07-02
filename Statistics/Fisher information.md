@@ -7,5 +7,5 @@ $$
 Formally, it is computed using the [[score]].
 
 $$
-\mathcal{I}\_X(\theta) \triangleq \mathbb{E}_{p_\theta}[s(\theta)^2]
+\mathcal{I}\_X(\theta) \triangleq \mathbb{E}\_{p_\theta}[s(\theta)^2]
 $$
