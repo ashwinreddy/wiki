@@ -1,1 +1,5 @@
-**Mutual information** is given by $I(X ; Y ) \doteq H\left(X , Y \right) - H(X \mid Y) - H(Y \mid X)$.
+**Mutual information** is given by 
+
+$$
+I(X ; Y ) = D_{KL}( p_{(X, Y)} \parallel p_X p_Y )
+$$
