@@ -23,14 +23,12 @@ $$
 # Computation
 
 If our linear transformation in question is an $n \times n$ matrix $\mathbf{A}$, we can find the specific eigenpairs by first determining the eigenvalues. The trick is to recognize the asymmetry of the eigenequation (matrix-vector product vs scalar multiplication) and correct this by inserting a dummy identity matrix.
-
 $$
 \begin{gather}
 \mathbf{A}\vec{v} = \lambda \mathbf{I}\vec{v} \\\\\
 \left(\mathbf{A} - \lambda \mathbf{I} \right)\vec{v} = 0
 \end{gather}
 $$
-
 Luckily, we can ignore the $v$ in the last equation above and recognize that we must have a singular matrix, leaving us $\det(\mathbf{A} - \lambda \mathbf{I}) = 0$.
 
 The equation above is called the [[characteristic equation|characteristic polynomial]] of $A$. It is a degree $n$ polynomial function of $\lambda$, so there are at most $n$ eigenvalues which can be found as roots. Then, the eigenvector is any element of the nullspace of $\mathbf{A} - \lambda\mathbf{I}$.
