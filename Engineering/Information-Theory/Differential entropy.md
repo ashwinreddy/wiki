@@ -3,7 +3,3 @@ The **differential entropy** $h(X)$ for a continuous random variable is given by
 \begin{equation}
 g(X) \doteq \int_\mathcal{X} f(x) \log \frac{1}{f(x)} \mathrm{d}x
 \end{equation}
-
-\begin{equation}
-\mathfrak{yn}
-\end{equation}
