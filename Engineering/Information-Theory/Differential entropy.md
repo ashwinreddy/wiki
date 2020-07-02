@@ -1,0 +1,1 @@
+The **differential entropy** $h(X)$
