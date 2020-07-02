@@ -7,5 +7,5 @@ A **normal distribution** or **Gaussian distribution** is a very common continuo
 The general form is a little more involved.
 
 \begin{equation}
-\varphi(x; \mu, \sigma) = {\exp( - (x- \mu)^2 / 2\sigma^2) \over \sigma \sqrt{2\pi}}   
+\varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
 \end{equation}
