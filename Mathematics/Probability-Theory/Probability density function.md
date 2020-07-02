@@ -1,0 +1,1 @@
+A **probability density function (PDF)** captures the probability of a continuous [[random variable]].
