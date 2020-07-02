@@ -5,5 +5,5 @@ g(X) \doteq \int_\mathcal{X} f(x) \log \frac{1}{f(x)} \mathrm{d}x
 \end{equation}
 
 \begin{equation}
-\mathfrak{berkeley}
+\mathfrak{yn}
 \end{equation}
