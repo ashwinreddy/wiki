@@ -9,5 +9,5 @@ Thus, high Fisher information means the possibility of a lower variance estimato
 Another way of saying this is that efficiency is maxed at 1.
 
 \begin{equation}
-\frac{I(\theta)^{-1}}{\sigma^2\_\theta} \equiv e \leq 1
+\\frac{I(\theta)^{-1}}{\sigma^2_\theta} \equiv e \leq 1
 \end{equation}
