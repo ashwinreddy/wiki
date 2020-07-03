@@ -1,6 +1,6 @@
 **Mathematics** is the study of simple problems and their abstractions. 
 
-A simple problem tends to be one that can be solved through measurement, though it does not have to be. The defining characteristic is that the problem is clearly defined, and one will know if they have arrived at a potential solution. 
+The defining characteristic is that the problem is clearly defined, and one will know if they have arrived at a potential solution. As a result, a simple problem tends to be one that can be solved through measurement, though it does not have to be.
 
 The first step of the mathematician is to then extract the core players in a problem and contemplate the relationships between these players.
 
