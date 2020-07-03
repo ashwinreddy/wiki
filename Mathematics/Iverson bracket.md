@@ -1,0 +1,1 @@
+The **Iverson bracket** is a mathematical notation for casting a Boolean proposition to 0 if false and 1 if true by writing the proposition in brackets: $[p]$.
