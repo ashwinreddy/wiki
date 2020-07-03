@@ -1,1 +1,1 @@
-An agent is completely characterized by its **policy** $\pi$ which tells us how it behaves in all scenarios. In the deterministic case, we would write $\pi(a, s)$. However, if it were stochastic we would write $\pi(a \mid s)$.
+An agent is completely characterized by its **policy** $\pi$ which tells us how it behaves in all scenarios. In the deterministic case, we would write $\pi(a, s)$. However, if it were stochastic we would write $\pi\left(a \mid s\right)$.
