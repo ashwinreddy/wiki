@@ -31,3 +31,5 @@ Mathematics/Mathematical-Logic/Set-Theory/Functions/Surjective function.md: Math
 Mathematics/Linear-Algebra/Antisymmetric matrix.md: Mathematics/Linear-Algebra/Skew-symmetric
   matrix.md
 Mathematics/Topology/Fiber bundle.md: Mathematics/Topology/Bundle.md
+Mathematics/Probability-Theory/Expectation.md: Mathematics/Probability-Theory/Expected
+  value.md
