@@ -1,5 +1,8 @@
 A **probability density function (PDF)** captures the probability of a continuous [[random variable]].
 
-\\begin{equation}
-\\int_\\mathbb{R} \\varphi(x)\\,\\mathrm{d}{x} = 1
+\begin{equation}
+\int_\mathbb{R} \varphi(x)\,\mathrm{d}{x} = 1
+\end{equation}
+
+\begin{equation}
 \end{equation}
