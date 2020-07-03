@@ -1,0 +1,1 @@
+A **conservative vector field** is a [[vector field]] which can be written as the [[gradient]] of a scalar "potential" function.
