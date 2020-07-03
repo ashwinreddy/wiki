@@ -5,4 +5,5 @@ A **probability density function (PDF)** captures the probability of a continuou
 \end{equation}
 
 \begin{equation}
+\Pr(a \leq X \leq b) = \int_a^b \varphi(x) \dd{x}
 \end{equation}
