@@ -9,3 +9,5 @@ The Lorentz factor is given by the expression below, a derivation for which can 
 \begin{equation}
 \gamma = \frac{1}{\sqrt{1 - \beta^2}}
 \end{equation}
+
+When $v \ll c$, $\beta \approx 0 \implies \gamma \approx 1$
