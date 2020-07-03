@@ -2,7 +2,7 @@
 
 The defining characteristic is that the problem is clearly defined, and one will know if they have arrived at a potential solution. As a result, a simple problem tends to be one that can be solved through measurement, though it does not have to be.
 
-The first step of the mathematician is to then extract the core players in a problem and contemplate the relationships between these players.
+The first step of the mathematician is to extract the core players in a problem and contemplate the relationships between these players. This can be called **formulating the problem**.
 
 The abstraction mechanism then asks how one might make the problem harder, more interesting, or more general. Simple problems may appear in very different places like geometry or algebra, but the mathematical machine has shown us that these are all very intimately and intricately woven: the same ideas can be reused over and over in these abstractions.
 
