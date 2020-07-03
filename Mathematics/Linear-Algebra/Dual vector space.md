@@ -1,4 +1,4 @@
-The **dual vector space** for a [[vector space]] $V$ over a field $k$ is just $\operatorname{Hom}(V, k)$ seen as a vector space, denoted $V^\*$. The elements of the dual vector space are called **dual vectors**, **covectors**, or **one forms**. In standard linear algebra, such a dual vector could be compactly represented by a constant vector $\vec{a}$.
+The **dual vector space** for a [[vector space]] $V$ over a field $k$ is just $\hom(V, k)$ seen as a vector space, denoted $V^\*$. The elements of the dual vector space are called **dual vectors**, **covectors**, or **one forms**. In standard linear algebra, such a dual vector could be compactly represented by a constant vector $\vec{a}$.
 
 $$
 f(\vec{x}) = \vec{a}^\mathsf{T} \vec{x}
