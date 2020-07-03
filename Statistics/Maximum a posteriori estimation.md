@@ -1,0 +1,1 @@
+**Maximum a posteriori estimation** is [[maximum likelihood estimation]] with a prior.
