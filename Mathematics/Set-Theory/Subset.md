@@ -1,1 +1,1 @@
-A **subset** of a [[set]] $S$ is a set wholly contained in $S$. Often, we can describe a subset using a set and a predicate which tests whether an element should belong to the subset. 
+A **subset** of a [[set]] $S$ is a set wholly contained in $S$. Often, we can describe a subset using a set and a predicate which tests whether an element should belong to the subset, thereby filtering out the unwanted elements. 
