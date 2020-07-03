@@ -9,3 +9,5 @@ Computationally, it is more convenient to write
 $$
 \mathbb{V}[X] = \mathbb{E}\left[X^2\right] - \mu^2
 $$
+
+It is the [[covariance]] of a variable with itself.
