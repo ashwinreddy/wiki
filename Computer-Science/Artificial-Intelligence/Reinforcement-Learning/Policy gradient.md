@@ -33,4 +33,6 @@ This derivation comes from [@spinup].
 &= \mathbb{E}\_{\tau \sim \pi_\theta}\left[ \sum_{t=0}^T \nabla_\theta \log \pi_\theta(a_t \mid s_t) R(\tau) \right]
 \end{align}
 
+This final equation can be estimated with a Monte Carlo computation.
+
 --- 
