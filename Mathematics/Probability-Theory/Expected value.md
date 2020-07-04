@@ -4,6 +4,10 @@ The **expected value** or **expectation** of a [[random variable]] collapses a d
 \mathbb{E}\left[X\right] = \sum_{x \in X} xp(x)
 \end{equation}
 
+\begin{equation}
+\mathbb{E}\left[X\right] = \int x p(x) \dd{x}
+\end{equation}
+
 # Properties
 
 * Expectation is a linear operator.
