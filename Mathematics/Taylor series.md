@@ -4,6 +4,13 @@ The **Taylor series** of a function is a polynomial approximation to the functio
 f(x) \simeq \sum_{k=0}^\infty {f^{(k)}(x_0) \over k!}(x-x_0)^k
 \end{equation}
 
+The special case of a Taylor series around 0 is called a **Maclaurin series**, which simplifies the expressions a bit:
+
+\begin{equation}
+f(x) \simeq \sum_{k=0}^\infty {f^{(k)}(0) \over k!}(x)^k \tag{Maclaurin Series}
+\end{equation}
+
+
 In many applications, a quadratic approximation tends to be "good enough."
 
 \begin{equation}
