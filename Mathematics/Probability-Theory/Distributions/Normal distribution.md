@@ -1,4 +1,4 @@
-A **normal distribution** or **Gaussian distribution** is a very common continuous distribution with parameters $\mu$ and $\sigma$ that control the mean and standard deviation. Possibly the simplest normal distribution to write down is
+A **normal distribution** or **Gaussian distribution** is a very common continuous distribution with parameters $\mu$ and $\sigma$ that control the mean and standard deviation. Possibly the simplest normal distribution to write down is the one with 0 mean and variance $(2\pi)^{-1}$.
 
 \begin{equation}
 \varphi(x) = e^{-\pi x^2}
