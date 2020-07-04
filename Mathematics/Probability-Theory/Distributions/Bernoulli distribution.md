@@ -4,6 +4,8 @@ $$
 f(k) = \begin{cases} \mu & k = 1 \\\\ 1-\mu & k = 0\end{cases}
 $$
 
+Clearly, $\mathbb{E}[X] = \mu$.
+
 A cute way to compactly write this is
 
 \begin{equation}
