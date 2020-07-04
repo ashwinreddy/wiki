@@ -10,4 +10,4 @@ The general form is a little more involved.
 \varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
 \end{equation}
 
-The normal distribution has the highest entropy of all continuous probability distributions with given variance $\sigma^2$.
+The normal distribution has the highest [[entropy]] of all continuous probability distributions with given variance $\sigma^2$.
