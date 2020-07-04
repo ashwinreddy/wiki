@@ -15,5 +15,5 @@ e^x = \lim_{n \to \infty} \left(1 + \frac{x}{n}\right)^n
 # Properties
 
 \begin{equation}
-\exp {\sum_i x_i} = \prod_i \exp {x_i}
+\exp\left(\sum_i x_i\right) = \prod_i \exp {x_i}
 \end{equation}
