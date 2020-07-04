@@ -12,4 +12,4 @@ Common bases are 2, $e$, and 10. To write these succinctly, we use $\lg$, $\ln$,
 
 \begin{equation}
 log_b x = \frac{\ln x}{\ln b}
-\end{equtaion}
+\end{equation}
