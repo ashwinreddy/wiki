@@ -1,5 +1,5 @@
-**Markov's inequality**
+**Markov's inequality** says that for a non-negative [[random variable]] $X$ with mean $\mu$ and $a > 0$,
 
-\begin{equation}
-\frac{\mu}{a} \geq \Pr(X \geq a)
-\end{equation}
+$$
+p(X \geq a) \leq \frac{\mu}{a}
+$$
