@@ -4,7 +4,9 @@ An **eigenpair** for a [[matrix]] consists of the lines which are invariant unde
 T\left(\vec{v}\right) = \lambda \vec{v} \tag{Eigenequation}
 \end{equation}
 
-We call the $\lambda$ an **eigenvalue** and the $\vec{v}$ an **eigenvector**. Note that we typically exclude the zero vector for $v$ because it is trivially true; however, a zero eigenvalue is interesting because it means a non-trivial nullspace. Additionally, eigenvectors are unique up to scalar multiplication, so any representative vector on the line spanned by one eigenvector will suffice.
+We call the $\lambda$ an **eigenvalue** and the $\vec{v}$ an **eigenvector**. Note that we typically exclude the zero vector for $v$ because it is trivially true; however, a zero eigenvalue is interesting because it means a non-trivial nullspace. 
+
+Notice that if $(\lambda, \vec{v})$ is an eigenpair then $(\lambda, \alpha\vec{v})$ is also an eigenpair.
 
 [Here](https://setosa.io/ev/eigenvectors-and-eigenvalues/) is a good visualization.
 
