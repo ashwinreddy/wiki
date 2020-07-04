@@ -4,9 +4,7 @@ $$
 f(o) = \begin{cases} \mu & o = 1 \\\\ 1-\mu & o = 0\end{cases}
 $$
 
-
-
-A cute write is
+A cute way to compactly write this is
 
 \begin{equation}
 \Pr(X = o) = p^o (1-p)^{1-o}
