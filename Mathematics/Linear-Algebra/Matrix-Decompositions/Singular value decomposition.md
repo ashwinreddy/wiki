@@ -7,3 +7,7 @@ $$
 $$
 A^\mathsf{T}A = V\Sigma^2 V^\mathsf{T}
 $$
+
+$$
+AA^\mathsf{T} = U\Sigma^2 U^\mathsf{T}
+$$
