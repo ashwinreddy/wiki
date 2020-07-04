@@ -3,3 +3,5 @@ A **policy gradient** method tries to directly optimize a parameterized policy $
 \begin{equation}
 \theta^\star = \arg\max_\theta J(\theta)
 \end{equation}
+
+The obvious approach is to use [[gradient descent]].
