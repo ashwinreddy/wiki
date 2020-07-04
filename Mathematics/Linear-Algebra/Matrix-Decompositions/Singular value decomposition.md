@@ -4,7 +4,7 @@ $$
 A = U\Sigma V^\mathsf{T}
 $$
 
-In other words, every linear transformation breaks down into rotation, stretch, rotation.
+In other words, every linear transformation breaks down into rotation, stretch, rotation. Where does this come from, and why is it useful? We can reverse engineer it by considering the product of $A$ with itself. There are two plausible ways to do this:
 
 $$
 A^\mathsf{T}A = V\Sigma^2 V^\mathsf{T}
