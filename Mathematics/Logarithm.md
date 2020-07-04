@@ -19,5 +19,5 @@ Common bases are 2, $e$, and 10. To write these succinctly, we use $\lg$, $\ln$,
 Why does this work? 
 
 \begin{equation}
-\ln b \log_b x = \ln x
+b^{\ln b \log_b x} = b^{\ln x}
 \end{equation}
