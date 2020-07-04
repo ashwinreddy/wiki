@@ -16,4 +16,8 @@ Common bases are 2, $e$, and 10. To write these succinctly, we use $\lg$, $\ln$,
 \log_b x = \frac{\ln x}{\ln b} \tag{Change of Base}
 \end{equation}
 
-Why does this work? Consider that $\ln x = \ln b\log_b x$
+Why does this work? 
+
+\begin{equation}
+\ln b \log_b x = \ln x
+\end{equation}
