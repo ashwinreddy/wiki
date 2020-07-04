@@ -8,4 +8,8 @@ b^{\log_b a } \equiv a
 \log \prod_i x_i = \sum_i \log x_i
 \end{equation}
 
-Common bases are 2, $e$, and 10. To write these succinctly, we use $\lg$, $\ln$, and $\log$, respectively.
+Common bases are 2, $e$, and 10. To write these succinctly, we use $\lg$, $\ln$, and $\log$, respectively. However, all logarithms are equivalent up to a factor.
+
+\begin{equation}
+log_b x = \frac{\ln x}{\ln b}
+\end{equtaion}
