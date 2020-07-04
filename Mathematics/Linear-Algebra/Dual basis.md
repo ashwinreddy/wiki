@@ -1,0 +1,1 @@
+A **dual basis** for [[vector space]] $V$ is a [[basis]] for the [[dual vector space]] $V^*$.
