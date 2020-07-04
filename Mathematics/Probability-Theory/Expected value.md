@@ -1,7 +1,7 @@
 The **expected value** or **expectation** of a [[random variable]] collapses a distribution to a single representative, which we understand to be its mean.
 
 \begin{equation}
-\mathbb{E}\left[X\right] = \begin{cases} \sum_{x \in X} xp(x) \\\\\ \int x p(x) \dd{x} \end{cases}
+\mathbb{E}\left[X\right] = \begin{cases} \sum_{x \in X} xp(x) \\\\\ \int_{x \in X} x p(x) \dd{x} \end{cases}
 \end{equation}
 
 # Properties
