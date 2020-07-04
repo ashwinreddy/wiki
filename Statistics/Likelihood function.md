@@ -4,4 +4,8 @@ $$
 L(\theta) = p_\theta \left(\vec{y}\right)
 $$
 
-For example, if $p$ is the pdf for a Gaussian, the question is with what probability the Gaussian of mean $\theta$ would assign the data. We typically assume that the data is i.i.d. so 
+For example, if $p$ is the pdf for a Gaussian, the question is with what probability the Gaussian of mean $\theta$ would assign the data. We typically assume that the data is i.i.d. so that we can expand
+
+$$
+L(\theta) = \prod_i p_theta \left( y_i \right)
+$$
