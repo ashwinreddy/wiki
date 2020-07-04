@@ -1,1 +1,1 @@
-**Acceleration** in a Riemannian manifold is a more subtle than acceleration in physics.
+**Acceleration** in a Riemannian manifold is a more subtle than acceleration in physics. For a curve $\gamma: I \to M$, the acceleration is something like the covariant derivative with respect to the derivative of $\gamma$.
