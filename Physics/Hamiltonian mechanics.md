@@ -4,3 +4,4 @@
 \dot{\mathbf{p}} &=- \pdv{H}{\mathbf{q}} \\\\\ \dot{\mathbf{q}} &= +\pdv{H}{\mathbf{p}}
 \end{align}
 
+Equivalent to the [[Euler-Lagrange equation]].
