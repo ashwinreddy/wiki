@@ -3,3 +3,9 @@ The **gradient** of a scalar-valued function $f: \RR^n \to \RR$ is a vector that
 \begin{equation}
 \left(\vec\nabla f\right)_i = \pdv{f}{x_i}
 \end{equation}
+
+For a Riemannian manifold, we write
+
+$$
+\operatorname{grad} \grad
+$$
