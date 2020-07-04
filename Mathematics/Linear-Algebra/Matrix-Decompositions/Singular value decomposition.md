@@ -3,3 +3,7 @@ The **singular value decomposition (SVD)** generalizes a diagonalization to any 
 $$
 A = U\Sigma V^\mathsf{T}
 $$
+
+$$
+A^\mathsf{T}A = V\Sigma^2 V^\mathsf{T}
+$$
