@@ -1,5 +1,5 @@
 The **special orthogonal group** $\operatorname{SO}(n)$ is a [[Lie group]].
 
 \begin{equation}
-\operatorname{SO}(n) = \operatorname{O}(n) \cap \operatorname{SL}(n)
+\operatorname{SO}(n) = \\{ X \in \operatorname{O}(n): \det X = +1\\}
 \end{equation}
