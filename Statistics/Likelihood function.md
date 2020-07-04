@@ -9,3 +9,5 @@ For example, if $p$ is the pdf for a Gaussian, the question is with what probabi
 $$
 L(\theta) = \prod_i p_\theta \left( y_i \right)
 $$
+
+Since our goal is often to maximize likelihood (see [[maximum likelihood estimation]])
