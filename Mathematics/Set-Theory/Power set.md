@@ -1,0 +1,1 @@
+The **power set** of a set $S$ contains all the [[subsets|subset]] of $S$.
