@@ -1,7 +1,7 @@
 A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. The signature is therefore manifold (where points live) to [[tangent bundle]] (where tangent vectors live).
 
 \begin{align}
-\mathfrak{X}(M) \supset F: M &\to TM \\\\\
+\mathfrak{X}(M) \in F: M &\to TM \\\\\
 p &\mapsto F(p) \in T_p M
 \end{align}
 
