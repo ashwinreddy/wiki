@@ -4,6 +4,13 @@
 \int_a^b \left[ f\left(\phi\left(x\right)\right)\dv{\phi}{x}\right] \dd{x} = \int_{\phi(a)}^{\phi(b)} f(u)\\, \dd{u}
 \end{equation}
 
+As an easy example, imagine $\phi(x) = \alpha x$. Then the rule says
+
+\begin{equation}
+\int_a^b \left[ f\left(\phi\left(x\right)\right)\dv{\phi}{x}\right] \dd{x} = \int_{\phi(a)}^{\phi(b)} f(u)\\, \dd{u}
+\end{equation}
+
+
 In multiple dimensions we need to use the [[Jacobian]] to measure stretching.
 
 \begin{equation}
