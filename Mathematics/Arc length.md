@@ -3,3 +3,7 @@
 \begin{equation}
 \dd{s}^2 = \dd{x}^2 + \dd{y}^2
 \end{equation}
+
+\begin{equation}
+\dv{s}{t}
+\end{equation}
