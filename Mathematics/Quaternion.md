@@ -15,10 +15,6 @@ This equation defines the basis elements for the quaternions, which we now defin
 
 A quaternion can be used to compute a rotation in 3D, although it is a little wonky.
 
-\begin{equation}
-\operatorname{Rotation in 3D}: \overbrace{\RR^3}^{\text{vec}} \times \overbrace{\underbrace{\RR^3}\_{\text{axis}} \times \underbrace{\RR}_{\text{angle}}}^{\mathbb{H}} \to \overbrace{\RR^3}^{\text{rotated vec}} \tag{Rotation Signature}
-\end{equation}
-
 So the quaternion encodes the axis $u$ and angle $\theta$ into one package.
 
 
