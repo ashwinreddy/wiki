@@ -5,3 +5,8 @@ AA\^{-1}=A\^{-1}A = I
 \end{equation}
 
 An invertible matrix must then be one that loses no information, which can happen if columns/rows are linearly dependent.
+
+# Properties
+
+* The inverse, if it exists, is unique.
+* A left inverse is a right inverse and vice versa.
