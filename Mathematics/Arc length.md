@@ -1,0 +1,1 @@
+**Arc length** is the distance between points on a curve.
