@@ -1,4 +1,4 @@
-This is the home page of my wiki <<Octicon("smiley")>> ! 
+This is the home page of my wiki! 
 
 ||
 |-|-|
@@ -6,6 +6,8 @@ This is the home page of my wiki <<Octicon("smiley")>> !
 |[Computer Science](./Computer-Science/)|[Engineering](./Engineering/)|
 |[Logic](./Logic/)|[Statistics](./Statistics/)|
 ||[Economics](./Economics/)||
+
+<<Octicon("smiley")>> 
 
 ---
 
