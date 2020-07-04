@@ -11,5 +11,5 @@ The **expected value** or **expectation** of a [[random variable]] collapses a d
 For any random variables $X$ and $Y$,
 
 \begin{equation}
-\mathbb{E}[X+Y] = \mathbb{E}X + \mathbb{E}Y
+\mathbb{E}[X+Y] = \mathbb{E}[X] + \mathbb{E}[Y]
 \end{equation}
