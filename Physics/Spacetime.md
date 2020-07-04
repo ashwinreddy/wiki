@@ -1,1 +1,1 @@
-**Spacetime** is a manifold that welds a time dimension with three spatial dimensions.
+**Spacetime** is a manifold that inextricably welds a time dimension with three spatial dimensions.
