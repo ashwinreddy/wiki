@@ -1,0 +1,1 @@
+The **standard deviation** $\sigma$ is the square root of variance.
