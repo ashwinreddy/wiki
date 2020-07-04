@@ -4,5 +4,5 @@ The **partial derivative** of a function tells you the derivative when you nudge
 * a gradient
 
 \begin{equation}
-\pdv{f}{x_i} \doteq \lim_{h \to 0} \frac{f(\vec{x} + h) - f(\vec{x})}{h}
+\pdv{f}{x_i} \doteq \lim_{h \to 0} \frac{f(\vec{x} + \epsilon h ) - f(\vec{x})}{h}
 \end{equation}
