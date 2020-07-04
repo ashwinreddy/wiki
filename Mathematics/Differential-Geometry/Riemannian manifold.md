@@ -1,4 +1,4 @@
-A **Riemannian manifold** is a convenient setting for a manifold with nice smoothness properties. For example, we have smooth coordinates $\\{x^i \\}$ and a [[metric tensor]] that can be written as
+A **Riemannian manifold** is a very convenient and common manifold with an inner product. For example, we have smooth coordinates $\\{x^i \\}$ and a [[metric tensor]] that can be written as
 
 \begin{equation}
 g = g_{ij} \dd{x^i}\otimes \dd{x^j}
