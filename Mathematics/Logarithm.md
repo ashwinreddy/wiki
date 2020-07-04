@@ -11,5 +11,5 @@ b^{\log_b a } \equiv a
 Common bases are 2, $e$, and 10. To write these succinctly, we use $\lg$, $\ln$, and $\log$, respectively. However, all logarithms are equivalent up to a factor.
 
 \begin{equation}
-log_b x = \frac{\ln x}{\ln b}
+\log_b x = \frac{\ln x}{\ln b}
 \end{equation}
