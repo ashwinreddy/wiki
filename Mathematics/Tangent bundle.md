@@ -1,5 +1,5 @@
 ---
-bibliography:'bibliography.bib'
+bibliography: 'bibliography.bib'
 ---
 
 The **tangent bundle** for a manifold is the collection of [[tangent spaces|tangent space]] as a [[bundle]].
