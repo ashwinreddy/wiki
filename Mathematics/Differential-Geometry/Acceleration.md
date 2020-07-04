@@ -1,0 +1,1 @@
+**Acceleration** in a Riemannian manifold is a more subtle than acceleration in physics.
