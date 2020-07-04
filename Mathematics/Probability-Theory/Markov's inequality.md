@@ -1,5 +1,5 @@
 **Markov's inequality**
 
 \begin{equation}
-\Pr(a \leq X) \leq \mu / a
+\Pr(X \geq a) \leq \mu / a
 \end{equation}
