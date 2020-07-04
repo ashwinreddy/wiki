@@ -12,4 +12,4 @@ Its elements are cotangent vectors, functions of the form
 
 # Basis
 
-Suppose we have a coordinate system for $T_p M$ given by $\{\pdv{}{x^i}\}
+Suppose we have a coordinate system for $T_p M$ given by $\{\pdv{}{x^i}\}$
