@@ -1,7 +1,7 @@
 A **policy gradient** method tries to directly optimize a parameterized policy $\pi_\theta$. In other words, the goal is to find the best $\theta$ for the objective $J$, which we can pick as the return or some other variant of the return.
 
 $$
-\sum\limits_a^b
+\mathbb{E}\limits_a^b
 $$
 
 \begin{equation}
