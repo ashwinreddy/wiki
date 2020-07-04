@@ -17,5 +17,5 @@ The obvious approach is to use [[gradient descent]].
 # Gradient computation
 
 \begin{align}
-\nabla_\theta J(\theta) &= \nabla_\theta \mathbb{E}_{\tau \sim \pi_\theta}\left[R(\tau)\right]
+\nabla_\theta J(\theta) &= \nabla_\theta \mathbb{E}_\{\tau \sim \pi_\theta}\left[R(\tau)\right]
 \end{align}
