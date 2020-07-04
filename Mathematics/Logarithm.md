@@ -1,4 +1,4 @@
-A **logarithm** is the inverse of an exponential, meaning
+A **logarithm** is the inverse of an [[exponential function]], meaning
 
 \begin{equation}
 b^{\log_b a } \equiv a
