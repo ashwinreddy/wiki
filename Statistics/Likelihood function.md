@@ -10,4 +10,8 @@ $$
 L(\theta) = \prod_i p_\theta \left( y_i \right)
 $$
 
-Since our goal is often to maximize likelihood (see [[maximum likelihood estimation]]), we can argmax over the [[logarithm]] of the likelihood functin.
+Since our goal is often to maximize likelihood (see [[maximum likelihood estimation]]), we can argmax over the [[logarithm]] of the likelihood function, which yields
+
+$$
+\log L(\theta) = \sum_i \log p_\theta \left( y_i \right)
+$$
