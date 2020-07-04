@@ -10,6 +10,8 @@ Now we just need to figure out how to add up the little parts appropriately.
 s = \int \sqrt{\dd{s}^2}
 \end{equation}
 
+Computationally, the trick is to multiply by identity via $\dv{x}{x}$.
+
 \begin{equation}
 s = \int_a^b \sqrt{1 + \left(\dv{y}{x}\right)^2} \dd{x}
 \end{equation}
