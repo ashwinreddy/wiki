@@ -7,5 +7,5 @@ A **policy gradient** method tries to directly optimize a parameterized policy $
 The obvious approach is to use [[gradient descent]].
 
 \begin{equation}
-\theta \leftarrow \theta + \alpha \vec\nabla J(\theta)
+\vec\theta \leftarrow \vec\theta + \alpha \vec\nabla J(\theta)
 \end{equation}
