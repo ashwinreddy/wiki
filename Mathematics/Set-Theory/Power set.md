@@ -1,1 +1,5 @@
-The **power set** of a set $S$ contains all the [[subsets|subset]] of $S$.
+The **power set** of a set $S$ contains all the [[subsets|subset]] of $S$. 
+
+\begin{equation}
+| \mathscr{P}(S) | = 2^{| S|}
+\end{equation}
