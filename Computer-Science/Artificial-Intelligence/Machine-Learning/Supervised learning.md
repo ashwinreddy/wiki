@@ -1,1 +1,1 @@
-**Supervised learning** is learning from labeled data.
+**Supervised learning** is learning from labeled data. We have a datset $\mathcal{D} = \\{\\}$
