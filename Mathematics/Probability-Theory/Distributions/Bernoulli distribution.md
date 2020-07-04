@@ -16,4 +16,4 @@ A cute way to compactly write this is
 
 |Property|Value|
 |--------|-----|
-|[[Expected value]]||
+|[[Expected value]]|$\mu$|
