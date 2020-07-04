@@ -5,5 +5,5 @@
 \end{equation}
 
 \begin{equation}
-s = \int_a^b \sqrt{1 + \left(\dv{y}{x}\right)^2} \dd{x}
+s = displaystyle\int_a^b \sqrt{1 + \left(\dv{y}{x}\right)^2} \dd{x}
 \end{equation}
