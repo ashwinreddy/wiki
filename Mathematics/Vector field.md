@@ -1,4 +1,4 @@
-A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. The signature is therefore manifold to [[tangent bundle]].
+A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. The signature is therefore manifold (where points live) to [[tangent bundle]] (where tangent vectors live).
 
 \begin{align}
 F: M &\to TM \\\\\
