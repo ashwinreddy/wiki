@@ -1,0 +1,1 @@
+**Supervised learning** is learning from labeled data.
