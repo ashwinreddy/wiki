@@ -7,5 +7,5 @@ The **gradient** of a scalar-valued function $f: \RR^n \to \RR$ is a vector that
 For a Riemannian manifold, we write
 
 $$
-\operatorname{grad} \grad
+\operatorname{grad} f \doteq \left( \dd{f} \right)^\sharp
 $$
