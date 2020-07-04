@@ -1,1 +1,1 @@
-sidebar just for info theory
+* [[Entropy]]
