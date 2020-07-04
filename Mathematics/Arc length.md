@@ -7,7 +7,7 @@
 Now we just need to figure out how to add up the little parts appropriately.
 
 \begin{equation}
-s = \int \dd{s} = \int \sqrt{\dd{x}^2 + \dd{y}^2}
+s = \int \dd{s} = \int \sqrt{\dd{s}^2}
 \end{equation}
 
 \begin{equation}
