@@ -19,5 +19,6 @@ The obvious approach is to use [[gradient descent]].
 \begin{align}
 \nabla_\theta J(\theta) &= \nabla_\theta \mathbb{E}\_{\tau \sim \pi_\theta}\left[R(\tau)\right] \\\\\
 &= \nabla_\theta \int_\tau P(\tau \mid \theta) R(\tau) \\\\\
-&= \int_\tau \nabla_\theta P(\tau \mid \theta) R(\tau)
+&= \int_\tau \nabla_\theta P(\tau \mid \theta) R(\tau) \\\\\
+&= \int_\tau P(\tau \mid \theta) \nabla_\theta \log P(\tau \mid \theta) R(\tau)
 \end{align}
