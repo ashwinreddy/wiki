@@ -7,7 +7,7 @@
 As an easy example, imagine $\phi(x) = \alpha x$. Then the rule says
 
 \begin{equation}
-\int_a^b \left[ f\left(\phi\left(x\right)\right)\dv{\phi}{x}\right] \dd{x} = \int_{\phi(a)}^{\phi(b)} f(u)\\, \dd{u}
+\int_a^b \alpha f\left(\phi\left(x\right)\right) \dd{x} = \int_{\phi(a)}^{\phi(b)} f(u)\\, \dd{u}
 \end{equation}
 
 
