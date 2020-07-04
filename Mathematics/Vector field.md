@@ -1,4 +1,4 @@
-A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. The signature is therefore manifold (where points live) to [[tangent bundle]] (where tangent vectors live).
+A **vector field** assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. The signature is therefore manifold (where points live) to [[tangent bundle]] (where tangent vectors live). We typically denote the set of vector fields on $M$ by $\mathfrak{X}(M)$.
 
 \begin{align}
 \mathfrak{X}(M) \ni F: M &\to TM \\\\\
