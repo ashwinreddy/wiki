@@ -11,3 +11,5 @@ The **differential** of a map $F: M \to N$ at $p$ is a map [@ag]
 \begin{equation}
 \dd{F}_p(v)(f) = v(f \circ F)
 \end{equation}
+
+---
