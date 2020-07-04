@@ -13,3 +13,9 @@ The obvious approach is to use [[gradient descent]].
 \begin{equation}
 \vec\theta \leftarrow \vec\theta + \alpha \vec\nabla J(\theta)
 \end{equation}
+
+# Gradient computation
+
+\begin{align}
+\nabla_\theta J(\theta) &= \nabla_\theta \mathbb{E}_{\tau \sim \pi_theta}\left[R(\tau)\right]
+\end{align}
