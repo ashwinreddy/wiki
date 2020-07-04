@@ -4,6 +4,8 @@
 \dd{s}^2 = \dd{x}^2 + \dd{y}^2 \implies \dd{s} = \sqrt{\dd{x}^2 + \dd{y}^2}
 \end{equation}
 
+Now we just need to figure out how to add up the little parts appropriately.
+
 \begin{equation}
 s = \int \dd{s}
 \end{equation}
