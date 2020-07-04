@@ -18,6 +18,8 @@ The obvious approach is to use [[gradient descent]].
 \vec\theta \leftarrow \vec\theta + \alpha \vec\nabla J(\theta)
 \end{equation}
 
+--- 
+
 # Gradient computation
 
 This derivation comes from [@spinup]
