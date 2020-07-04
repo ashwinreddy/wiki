@@ -7,7 +7,7 @@ $$
 A cute way to compactly write this is
 
 \begin{equation}
-\Pr(X = o) = \mu^k (1-\mu)^{1-k}
+\Pr(X = k) = \mu^k (1-\mu)^{1-k}
 \end{equation}
 
 # Properties
