@@ -1,0 +1,1 @@
+**Binary symmetric channel** has probability of flipping 0 or 1.
