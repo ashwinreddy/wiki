@@ -21,7 +21,9 @@ The obvious approach is to use [[gradient descent]].
 
 # Gradient computation
 
-This derivation comes from [@spinup]
+This derivation comes from [@spinup].
+
+<<Warn("Derivation needs explication.")>>
 
 \begin{align}
 \nabla_\theta J(\theta) &= \nabla_\theta \mathbb{E}\_{\tau \sim \pi_\theta}\left[R(\tau)\right] \\\\\
