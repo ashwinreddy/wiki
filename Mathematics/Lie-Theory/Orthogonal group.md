@@ -1,7 +1,7 @@
 The **orthogonal group** $\operatorname{O}(n)$ is the [[Lie group]] consisting of $n \times n$ orthogonal matrices.
 
 \begin{equation}
-\operatorname{O}(n) \doteq \\{ X \in \operatorname{GL}(n) : X^\mathsf{T}X = I\\}
+\operatorname{O}(n) \doteq \\{ X \in \operatorname{GL}(n) \mid X^\mathsf{T}X = I\\}
 \end{equation}
 
 # Tangent vectors
