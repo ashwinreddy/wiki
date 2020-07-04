@@ -1,1 +1,2 @@
-* [[Lie Theory]]
+* [[Lie Group]]
+* [[Lie Algebra]]
