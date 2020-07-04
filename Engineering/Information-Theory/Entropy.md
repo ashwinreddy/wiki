@@ -1,4 +1,4 @@
-**Entropy** is [[expected|expected vlaue]] [[surprisal]].
+**Entropy** is [[expected|expected value]] [[surprisal]].
 
 $$
 \mathcal{H}(X) \doteq \mathbb{E}[I_X(x)]
