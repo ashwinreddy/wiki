@@ -4,7 +4,7 @@ The **gradient** of a scalar-valued function $f: \RR^n \to \RR$ is a vector that
 \left(\vec\nabla f\right)_i = \pdv{f}{x_i}
 \end{equation}
 
-For a Riemannian manifold, we write
+For a Riemannian manifold, we write the gradient as the dual to the differential.
 
 $$
 \operatorname{grad} f \doteq \left( \dd{f} \right)^\sharp
