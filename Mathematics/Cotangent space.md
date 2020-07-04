@@ -12,8 +12,4 @@ Its elements are cotangent vectors, functions of the form
 
 # Basis
 
-A choice of coordinate system $x^a$ induces a basis for the cotangent space
-
-\begin{equation}
-\omega^a = \dd{x^a}
-\end{equation}
+Suppose we have a coordinate system for $T_p M$ given by $\{\pdv{}{x^i}\}
