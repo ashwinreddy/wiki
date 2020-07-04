@@ -4,6 +4,8 @@ $$
 A = U\Sigma V^\mathsf{T}
 $$
 
+In other words, every linear transformation breaks down into rotation, stretch, rotation.
+
 $$
 A^\mathsf{T}A = V\Sigma^2 V^\mathsf{T}
 $$
