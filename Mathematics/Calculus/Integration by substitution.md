@@ -4,7 +4,7 @@
 \int_a^b \left[ f\left(\phi\left(x\right)\right)\dv{\phi}{x}\right] \dd{x} = \int_{\phi(a)}^{\phi(b)} f(u)\\, \dd{u}
 \end{equation}
 
-As an easy example, imagine $\phi(x) = \alpha x$. Then the rule says
+As an easy example, imagine $\phi(x) = \alpha x$. Then the rule says you can go through $f$ at $\alpha$-speed in an integration if you scale down the output by $\alpha^{-1}$.
 
 \begin{equation}
 \int_a^b f(\alpha x) \dd{x} = \frac{1}{\alpha}\int_{\alpha a}^{\alpha b} f(u)\\, \dd{u}
