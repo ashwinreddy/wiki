@@ -16,3 +16,5 @@ The bundle naturally comes with a projection
 \end{align}
 
 A **local frame** for $M$ is an ordered $n$-tuple of vector fields $(E_1, \dots, E_n)$ that span the tangent bundle [@ag].
+
+---
