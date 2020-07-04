@@ -1,4 +1,4 @@
-A **tangent vector** at a point $p$ on a [[manifold]] is the velocity you could have at that point.  For example, $\dot{\gamma}(0)$ is a tangent vector if $\gamma(0)=p$ and
+A **tangent vector** at a point $p$ on a [[manifold]] is the velocity you could have at that point. If a curve $\gamma$ arrives at $p$ at time 0, we write $\gamma(0)=p$. Then a tangent vector is simply a velocity that $\gamma$ could have.
 
 \begin{equation}
 \dot{\gamma}(0) = \lim_{t\to 0} \frac{\gamma(t) - \gamma(0)}{t}
