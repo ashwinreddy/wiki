@@ -18,7 +18,6 @@ The obvious approach is to use [[gradient descent]].
 \vec\theta \leftarrow \vec\theta + \alpha \vec\nabla J(\theta)
 \end{equation}
 
---- 
 
 # Gradient computation
 
@@ -31,3 +30,5 @@ This derivation comes from [@spinup]
 &= \int_\tau P(\tau \mid \theta) \nabla_\theta \log P(\tau \mid \theta) R(\tau) \\\\\
 &= \mathbb{E}\_{\tau \sim \pi_\theta}\left[ \sum_{t=0}^T \nabla_\theta \log \pi_\theta(a_t \mid s_t) R(\tau) \right]
 \end{align}
+
+--- 
