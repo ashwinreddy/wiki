@@ -1,5 +1,9 @@
 The **orthogonal group** $\operatorname{O}(n)$ is the [[Lie group]] consisting of $n \times n$ orthogonal matrices.
 
+\begin{equation}
+\operatorname{O}(n) \doteq \\{ X \in \operatorname{GL}(n) : X^\mathsf{T}X = I\\}
+\end{equation}
+
 # Tangent vectors
 
 The tangent vectors for $\operatorname{O}(n)$ are the skew-symmetric $n \times n$ matrices. To see this, consider a path $A(t)$ going through $I$ at time $t=0$.
