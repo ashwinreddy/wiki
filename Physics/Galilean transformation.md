@@ -8,6 +8,7 @@ A **Galilean transformation** describes how to switch between two reference fram
 
 Now, we just collect these into one object.
 
+|-------------|-------------------------------------------------|--|--------------------------------------|
 |Galilean Group|$(\vec{v}, \vec\theta, \Delta\vec{r}, \Delta t)$|10|Any difference between reference frames|
 
 
