@@ -1,3 +1,7 @@
+---
+bibliography: 'bibliography.bib'
+---
+
 The **differential** of a map $F: M \to N$ at $p$ is a map
 
 \begin{equation}
