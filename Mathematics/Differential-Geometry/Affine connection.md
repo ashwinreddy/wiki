@@ -1,0 +1,1 @@
+The **affine connection** connects nearby [[tangent spaces|tangent space]].
