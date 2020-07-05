@@ -1,1 +1,1 @@
-The **binomial distribution** gives the probability of getting $k$ heads from a [[Bernoulli distribution]] with mean $\mu$.
+The **binomial distribution** gives the probability of getting $k$ heads from a [[Bernoulli distribution]] with probability of heads $p$.
