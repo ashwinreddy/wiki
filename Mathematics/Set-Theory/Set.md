@@ -1,4 +1,4 @@
-A **set** is the weakest way to group a bunch of objects, with no notion of order or repetition.
+A **set** is the weakest way to group a bunch of objects, with no notion of order or repetition. The simplest set is the empty set $\emptyset$.
 
 # Properties
 
