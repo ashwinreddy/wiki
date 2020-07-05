@@ -19,4 +19,4 @@ Branches of math include
 * [Linear Algebra](./Linear-Algebra/)
 * [Probability Theory](./Probability-Theory/)
 * [Category Theory](./Category-Theory/)
-
+* [Calculus](./Calculus/)
