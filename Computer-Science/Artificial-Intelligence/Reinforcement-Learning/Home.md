@@ -3,3 +3,5 @@ Reinforcement learning tries to get computers to find their own behaviors throug
 $$
 \arg\max_\pi \mathbb{E}\_\pi \left[ \sum_{t=1}^T r(s_t, a_t) \right]
 $$
+
+[[https://spinningup.openai.com/en/latest/_images/rl_algorithms_9_15.svg]]
