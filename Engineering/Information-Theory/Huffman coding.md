@@ -1,0 +1,1 @@
+**Huffman coding** is a method for compression
