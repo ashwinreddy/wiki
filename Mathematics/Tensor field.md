@@ -1,0 +1,1 @@
+A **tensor field** assigns a [[tensor]] to every point on a [[manifold]].
