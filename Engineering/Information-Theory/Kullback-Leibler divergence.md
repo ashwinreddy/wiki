@@ -29,7 +29,7 @@ It seems natural to try to minimize the KL divergence as an attempt to get distr
 ## Forward KL Divergence
 
 $$
-\arg\min_\theta D_{KL}(P \parallel Q_\theta)
+\arg\min_\theta D_{KL}(P \parallel Q_\theta) = \arg\max_\theta \mathbb{E}_{x \sim P}\left[ \log Q_\theta(x) \right]
 $$
 
 ## Backward KL Divergence
