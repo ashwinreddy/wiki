@@ -6,7 +6,7 @@ $$
 
 In other words, it tells you how to adjust the parameters $\theta$ to get a higher likelihood for the data.
 
-The [[expectation]] of the score is 0.
+The [[expectation|expected value]] of the score is 0.
 
 \begin{align}
 \mathbb{E}[s \mid \theta] &= \int_{\mathcal{X}} f(x; \theta) s(\theta) \dd{x} \\\\\
