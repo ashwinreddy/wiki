@@ -1,5 +1,5 @@
 The **gradient theorem** or **fundamental theorem of calculus for line integrals** says
 
 \begin{equation}
-\int_\gamma \vec\nabla \varphi(\vec{r}) \cdot \dd{\vec{r}} = \varphi(\vec{q}) - \varphi(\vec{p})
+\int_\gamma \mathbf\nabla \varphi(\mathbf{r}) \cdot \dd{\mathbf{r}} = \varphi(\mathbf{q}) - \varphi(\mathbf{p})
 \end{equation}
