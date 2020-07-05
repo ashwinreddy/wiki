@@ -31,3 +31,9 @@ It seems natural to try to minimize the KL divergence as an attempt to get distr
 $$
 \arg\min_\theta D_{KL}(P \parallel Q_\theta)
 $$
+
+## Backward KL Divergence
+
+$$
+\arg\min_\theta D_{KL}(Q_\theta \parallel P)
+$$
