@@ -7,8 +7,6 @@ This is the home page of my wiki!
 |[Logic](./Logic/)|[Statistics](./Statistics/)|
 ||[Economics](./Economics/)||
 
-<<Octicon("smiley")>> 
-
 [[Bibliography]]
 
 ---
