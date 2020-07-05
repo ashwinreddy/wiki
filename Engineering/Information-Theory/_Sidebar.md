@@ -1,1 +1,2 @@
 * [[Entropy]]
+* [[Kullback-Leibler divergence]]
