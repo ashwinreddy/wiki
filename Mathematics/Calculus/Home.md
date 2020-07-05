@@ -1,0 +1,1 @@
+**Calculus** typically refers to the study of change.
