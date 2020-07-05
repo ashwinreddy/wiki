@@ -1,0 +1,1 @@
+**Artificial intelligence** is about trying to embed intelligence into computational systems. What defines or undergirds human intelligence is up to debate, but the goal of artificial intelligence is to find it from a bottom-up approach.
