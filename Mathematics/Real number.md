@@ -1,1 +1,1 @@
-A **real number** is, herustically, a number that could represent a measurement.
+A **real number** is, herustically, a number that could represent a measurement. The [[set]] of real numbers we denote $\mathbb{R}$.
