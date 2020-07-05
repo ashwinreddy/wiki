@@ -1,0 +1,1 @@
+An **equivalence class** is a way of "forgetting" the differences between equivalent elements.
