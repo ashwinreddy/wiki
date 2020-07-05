@@ -20,4 +20,4 @@ Regardless of who does the computation, a problem may be solved by a number of a
 
 On the other hand, it often does not matter _which_ specific algorithm is used, so long as it is not prohibitively expensive. A key idea in computing is the idea of **abstraction**, in which one relies on an algorithm without having to know exactly how it works internally. Structurally, this allows the programmer to swap sorting algorithms as he pleases because the rest of the code doesn't actually know how it works internally, just relying on that piece of the program to do its job.
 
-Because computer science is grounded both in this algorithm analysis and in electrical circuits, mathematics often provides the natural language for dealing with computation, especially when numbers are involved.
+Because computer science is grounded both in this algorithm analysis and in electrical circuits, mathematics often provides the natural language for dealing with computation, especially when numbers are involved. The mathematical analysis can provide theoretical guarantees or show us which of various equivalent methods is best for our use case.
