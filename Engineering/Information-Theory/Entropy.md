@@ -12,4 +12,8 @@ $$
 \mathcal{H}\left(\vec{p}\right) = - \sum_{i=1}^n p_i \lg p_i,
 $$
 
-where we use $\lg$ to get the result in units of bits rather than nats or digits. If we have a uniform distribution (i.e. $p_i = 1/n$), 
+where we use $\lg$ to get the result in units of bits rather than nats or digits. If we have a uniform distribution (i.e. $p_i = 1/n$), then the entropy is simply
+
+$$
+\mathcal{H}(\mathsf{Uniform Discrete})
+$$
