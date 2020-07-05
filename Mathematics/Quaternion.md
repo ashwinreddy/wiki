@@ -10,6 +10,13 @@ This equation defines the basis elements for the quaternions, which we now defin
 \mathbb{H} \doteq \mathbb{R} + \mathbb{R}i +\mathbb{R}j + \mathbb{R}k
 \end{equation}
 
+# Operations
+
+## Multiplication
+
+$$
+(r_1, \vec{v}_1) \cdot (r_2, \vec{v}_2) = (r_1r_2 - \vec{v}_1\cdot\vec{v}_2, r_1 \vec{v}_2 + r_2\vec{v}_1 + \vec{v}_1 \times \vec{v}_2)
+$$
 
 # Rotations
 
