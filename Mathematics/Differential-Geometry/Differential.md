@@ -13,6 +13,6 @@ The **differential** of a map $F: M \to N$ at $p$ is a map
 \dd{F}_p(v)(f) = v(f \circ F)
 \end{equation}
 
-These definitions were copied from @ag.
+These definitions were copied from [see @ag].
 
 ---
