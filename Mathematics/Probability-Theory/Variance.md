@@ -11,3 +11,7 @@ $$
 $$
 
 It is the [[covariance]] of a variable with itself.
+
+\begin{equation}
+\mathbb{V}[X + Y] = \mathbb{V}[X] + 2\mathrm{cov}(X, Y) + \mathbb{V}[Y]
+\end{equation}
