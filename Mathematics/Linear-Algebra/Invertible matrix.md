@@ -4,7 +4,7 @@ An **invertible matrix** is a [[square matrix]] $A$ whose operation can be "undo
 AA\^{-1}=A\^{-1}A = I
 \end{equation}
 
-An invertible matrix must then be one that loses no information, which can happen if columns/rows are linearly dependent.
+An invertible matrix must then be one that loses no information, which can happen if columns/rows are linearly dependent. If a matrix is not invertible, it is singular. There are no other options.
 
 An operational definition for an invertible matrix is one whose [[determinant]] is nonzero.
 
