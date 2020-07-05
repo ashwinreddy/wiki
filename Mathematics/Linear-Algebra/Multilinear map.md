@@ -1,5 +1,5 @@
 A **multilinear map** is a function $f$ that is linear separately in each of its arguments. 
 
-$$f: V_1 \times \dots \times V_k \to W$$ where the $V_i$ and $W$
+$$f: V_1 \times \dots \times V_k \to W$$
 
 That is, if we hold all inputs but one fixed, the response in the output is linear no matter which input is free.
