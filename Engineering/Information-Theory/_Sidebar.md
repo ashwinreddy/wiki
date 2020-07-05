@@ -1,4 +1,4 @@
 * [[Entropy]]
 * [[KL divergence|Kullback-Leibler divergence]]
 
-[_TOC_]
+[[_TOC_]]
