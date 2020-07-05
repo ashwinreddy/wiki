@@ -7,5 +7,5 @@ The **natural logarithm** is the inverse of the [[exponential function]], the [[
 A slick way to define it is as an integral.
 
 \begin{equation}
-\ln x \triangleq \int_1^x \frac{\dd{u}}{u}
+\ln x \doteq \int_1^x \frac{\dd{u}}{u}
 \end{equation}
