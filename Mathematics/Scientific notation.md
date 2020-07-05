@@ -1,7 +1,1 @@
-**Scientific notation** represents a [[real number]] $x$ in the form
-
-\begin{equation}
-x = m \times 10^n
-\end{equation}
-
-where $m$ is called the significand or mantissa and $n$ is an integer.
+**Scientific notation** represents a [[real number]] $x$ in the form $x = m \times 10^n$ where $m$ is called the significand or mantissa and $n$ is an integer.
