@@ -3,3 +3,5 @@ The **binomial distribution** gives the probability of getting $k$ heads out of 
 \begin{equation}
 f(k, n, p) = \binom{n}{k} p^k (1-p)^{n-k}
 \end{equation}
+
+# Properties
