@@ -15,5 +15,5 @@ $$
 where we use $\lg$ to get the result in units of bits rather than nats or digits. If we have a uniform distribution (i.e. $p_i = 1/n$), then the entropy is simply
 
 $$
-\mathcal{H}(\mathsf{Uniform Discrete})
+\mathcal{H}(\mathsf{DiscreteUniform}(n)) = \lg n 
 $$
