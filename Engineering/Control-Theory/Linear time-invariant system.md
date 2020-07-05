@@ -1,0 +1,1 @@
+A **linear time-invariant system** is linear and time-invariant.
