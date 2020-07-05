@@ -1,5 +1,6 @@
 ---
 bibliography: 'bibliography.bib'
+link-citations: true
 ---
 
 The **differential** of a map $F: M \to N$ at $p$ is a map 
