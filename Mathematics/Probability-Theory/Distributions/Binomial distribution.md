@@ -5,3 +5,8 @@ f(k, n, p) = \binom{n}{k} p^k (1-p)^{n-k}
 \end{equation}
 
 # Properties
+
+|Property|Value|
+|--------|-----|
+|[[Expected value]]|$np$|
+|[[Variance]]|$np(1-p)$|
