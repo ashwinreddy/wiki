@@ -16,6 +16,10 @@ Since the KL divergence has a minimum at zero, the [[Taylor series]] approximati
 
 $$f_{\theta_0}(\theta) =  \frac{1}{2} \sum_{jk} \Delta \theta^j \Delta\theta^k f_{\theta_0}''(\theta_0) + \order{\Delta \theta ^ 3}$$
 
+# Optimization
+
+It seems natural to try to minimize the KL divergence as an attempt to get distributions to "match" in an information-theoretic sense. But as we know, the order of inputs matters. Thus, we distinguish between **forward KL**, where the controllable distribution is the second input, and **reverse KL**, where the controllable distribution is the first input.
+
 # Properties
 
 * [[Gibbs' inequality]]
