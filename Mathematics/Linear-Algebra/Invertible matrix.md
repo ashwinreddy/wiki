@@ -6,6 +6,8 @@ AA\^{-1}=A\^{-1}A = I
 
 An invertible matrix must then be one that loses no information, which can happen if columns/rows are linearly dependent.
 
+An operational definition for an invertible matrix is one whose [[determinant]] is nonzero.
+
 # Properties
 
 * The inverse, if it exists, is unique.
