@@ -1,1 +1,5 @@
+---
+bibliography: 'bibliography.bib'
+---
+
 **Soft Actor-Critic** [@haarnoja2018soft] is an off-policy approach to optimizing a stochastic policy $\pi_\theta$ using critic Q-functions $Q_{\phi_1}$ and $Q_{\phi_2}$.
