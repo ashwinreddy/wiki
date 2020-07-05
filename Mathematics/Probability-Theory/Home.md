@@ -1,1 +1,1 @@
-**Probability theory** is the mathematics of quantified uncertainty.
+**Probability theory** is the mathematics of quantified uncertainty. The high level idea is that we have an [[experiment]]
