@@ -1,1 +1,1 @@
-**Economics** is the study of decision-making by actors both rational and irrational.
+**Economics** is the study of the decisions that go into the consumption and production of goods and/or services.
