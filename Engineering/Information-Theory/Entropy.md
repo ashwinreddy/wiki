@@ -1,8 +1,10 @@
-**Entropy** is the [[expected|expected value]] [[surprisal]] in a [[random variable]].
+**Entropy** is the [[expected|expected value]] [[surprisal]] in a [[random variable]].  
 
 $$
 \mathcal{H}(X) \doteq \mathbb{E}[I_X(x)]
 $$
+
+Intuitively, it tells you how many bits it takes to describe the random variable. For example, a fair [[Bernoulli distribution]] takes 1 bit.
 
 # Computation
 
