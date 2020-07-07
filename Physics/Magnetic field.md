@@ -1,4 +1,6 @@
-The **magnetic field** $\mathbf{B}$ describes the magnetic influence on electrical charge as you will recall that there is no magnetic charge:
+The **magnetic field** $\mathbf{B}$ describes the magnetic influence on electrical charge. 
+
+There is no such thing as magnetic charge:
 
 \begin{equation}
 \nabla\cdot\mathbf{B} = 0
