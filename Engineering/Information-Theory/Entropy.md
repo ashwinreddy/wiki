@@ -4,7 +4,7 @@ $$
 \mathcal{H}(X) \doteq \mathbb{E}[I_X(x)]
 $$
 
-Intuitively, it tells you how many bits it takes to describe the random variable. For example, a fair [[Bernoulli distribution]] takes 1 bit. In general, the uniform distribution has maximal entropy, and if there are $n$ discrete values the entropy is $\lg n$.
+Intuitively, it tells you how many bits it takes to describe the random variable. For example, a fair [[Bernoulli distribution]] takes 1 bit. However, a coin that always lands heads or one that always lands tails has zero entropy because there is no surprise.
 
 # Computation
 
