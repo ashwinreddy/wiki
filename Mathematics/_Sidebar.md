@@ -1,4 +1,3 @@
-
 * [Topology](./Topology/)
 * [Abstract Algebra](./Abstract-Algebra/)
 * [Linear Algebra](./Linear-Algebra/)
