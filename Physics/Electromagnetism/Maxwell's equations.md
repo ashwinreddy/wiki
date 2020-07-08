@@ -7,3 +7,7 @@
 \begin{equation}
 \nabla\cdot\mathbf{E} = \rho / \varepsilon_0
 \end{equation}
+
+\begin{equation}
+\nabla\times\vec{E} = -\pdv{\mathbf{B}}{t}
+\end{equation}
