@@ -9,5 +9,5 @@
 \end{equation}
 
 \begin{equation}
-\nabla\times\vec{E} = -\pdv{\mathbf{B}}{t}
+\nabla\times\mathbf{E} = -\pdv{\mathbf{B}}{t}
 \end{equation}
