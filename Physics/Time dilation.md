@@ -22,8 +22,8 @@ $$
 Consider the right triangle with hypotenuse $L$ and sides $h$ and $v\Delta t$. By the Pythagorean theorem, $L^2 = v^2 \Delta t^2 + h^2$.
 
 \begin{gather}
-c^2 \Delta t^2 = v^2 \Delta t^2 + c^2 \Delta t_0^2 \\
-\Delta t^2 = \frac{v\^2}{c\^2} \Delta t^2 + \Delta t_0^2 \\\
-\Delta t^2 \left(1 - \frac{v\^2}{c\^2}\right) = \Delta t_0^2 \\\
+c^2 \Delta t^2 = v^2 \Delta t^2 + c^2 \Delta t_0^2 \\\\\
+\Delta t^2 = \frac{v\^2}{c\^2} \Delta t^2 + \Delta t_0^2 \\\\\
+\Delta t^2 \left(1 - \frac{v\^2}{c\^2}\right) = \Delta t_0^2 \\\\\
 \Delta t  = \frac{\Delta t_0}{\sqrt{1 - v^2 / c^2}}
 \end{gather}
