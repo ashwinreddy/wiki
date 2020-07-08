@@ -1,4 +1,4 @@
-The **chain rule**
+The **chain rule** equates a joint probability distribution with a factorization of purely conditional distributions.
 
 \begin{equation}
 \Pr(X, Y) = \Pr(X \mid Y) \cdot \Pr(Y)
