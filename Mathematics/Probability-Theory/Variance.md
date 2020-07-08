@@ -1,4 +1,4 @@
-The **variance** $\sigma^2$ of a [[random variable]] $X$ is a measure of spread by seeing on average how far away $X$ is from its mean or [[expected value]] $\mu = \mathbb{E}[X]$.
+The **variance** of a [[random variable]] $X$ is a measure of spread by seeing on average how far away $X$ is from its mean or [[expected value]] $\mu = \mathbb{E}[X]$.
 
 $$
 \mathbb{V}[X] \doteq \mathbb{E}\left[(X - \mu)^2\right]
