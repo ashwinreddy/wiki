@@ -3,3 +3,7 @@
 \begin{equation}
 \nabla\cdot\mathbf{B} = 0
 \end{equation}
+
+\begin{equation}
+\nabla\cdot\mathbf{E} = rho / \varepsilon_0
+\end{equation}
