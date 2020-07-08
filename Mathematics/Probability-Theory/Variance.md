@@ -4,12 +4,6 @@ $$
 \mathbb{V}[X] \doteq \mathbb{E}\left[(X - \mu)^2\right]
 $$
 
-Computationally, it is more convenient to write
-
-$$
-\mathbb{V}[X] = \mathbb{E}\left[X^2\right] - \mu^2
-$$
-
 It is the [[covariance]] of a variable with itself.
 
 \begin{equation}
@@ -17,3 +11,11 @@ It is the [[covariance]] of a variable with itself.
 \end{equation}
 
 So that if $X$ and $Y$ are independent, the variance of sums is the sum of variances.
+
+# Computation
+
+Computationally, it is more convenient to write
+
+$$
+\mathbb{V}[X] = \mathbb{E}\left[X^2\right] - \mu^2
+$$
