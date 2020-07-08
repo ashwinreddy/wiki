@@ -5,5 +5,5 @@
 \end{equation}
 
 \begin{equation}
-\nabla\cdot\mathbf{E} = rho / \varepsilon_0
+\nabla\cdot\mathbf{E} = \rho / \varepsilon_0
 \end{equation}
