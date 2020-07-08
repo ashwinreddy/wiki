@@ -1,4 +1,4 @@
-**Maxwell's equations** capture classical electromagnetism.
+**Maxwell's equations** capture classical electromagnetism. They can be presented canonically as four partial differential equations in vector calculus terms. There are two homogeneous equations and two inhomogeneous equations.
 
 |Name|Differential Form|
 |---|-----------------|
