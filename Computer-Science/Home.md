@@ -1,7 +1,7 @@
 **Computer science** is the science of computation, the means by which we give incontrovertible answers to unambiguous problems.
 
 Problem
-: A problem contains (possibly many) inputs and a precise description of an output that one wants from those inputs.
+: A problem contains input(s) and a precise description of output(s) that one wants from those inputs.
 
 Algorithm
 : A proposed solution to a problem in the form of a sequence of steps one must take. The steps should be such that anyone can follow them correctly.
