@@ -1,2 +1,0 @@
-* [[Derivative]]
-* [[Integral]]
