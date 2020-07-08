@@ -1,1 +1,1 @@
-Statistics is the study of data.
+**Statistics** is the study of data.
