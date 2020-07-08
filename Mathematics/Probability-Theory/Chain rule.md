@@ -7,5 +7,5 @@ The **chain rule** equates a joint probability distribution with a factorization
 In many,
 
 \begin{equation}
-\Pr\left( \cap \right = \Pr(X \mid Y) \cdot \Pr(Y)
+\Pr\left( \cap \right) = \Pr(X \mid Y) \cdot \Pr(Y)
 \end{equation}
