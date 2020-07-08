@@ -3,10 +3,7 @@
 |Name|Differential Form|
 |---|-----------------|
 |Gauss's Law|\begin{equation}\nabla\cdot\mathbf{E} = \rho / \varepsilon_0\end{equation}|
-
-\begin{equation}
-\nabla\cdot\mathbf{B} = 0
-\end{equation}
+|No-Monopole Rule|\begin{equation}\nabla\cdot\mathbf{B} = 0\end{equation}|
 
 
 
