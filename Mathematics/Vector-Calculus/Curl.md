@@ -3,3 +3,8 @@
 $$
 \operatorname{curl} \vec{F} = \vec\nabla\times\vec{F}
 $$
+
+
+$$
+\operatorname{curl} \operatorname{grad} \vec{F} = 0
+$$
