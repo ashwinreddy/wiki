@@ -1,6 +1,6 @@
 **Maxwell's equations** capture classical electromagnetism.
 
-|Law|Differential Form|
+|Name|Differential Form|
 |---|-----------------|
 |Gauss's Law|\begin{equation}\nabla\cdot\mathbf{E} = \rho / \varepsilon_0\end{equation}|
 
