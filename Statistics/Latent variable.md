@@ -1,0 +1,1 @@
+A **latent variable** is a variable that cannot be observed but can be inferred.
