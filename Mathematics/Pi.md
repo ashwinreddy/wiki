@@ -3,3 +3,4 @@
 \begin{equation}
 \pi \doteq \frac{C}{d}
 \end{equation}
+
