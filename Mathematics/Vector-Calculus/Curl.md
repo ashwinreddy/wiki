@@ -6,5 +6,5 @@ $$
 
 
 $$
-\operatorname{curl} \operatorname{grad} \vec{F} = 0
+\operatorname{curl} \operatorname{grad} \vec{F} = \vec{0}
 $$
