@@ -4,7 +4,7 @@
 |---|-----------------|
 |Gauss's Law|\begin{equation}\nabla\cdot\mathbf{E} = \rho / \varepsilon_0\end{equation}|
 |No Magnetic Monopoles|\begin{equation}\nabla\cdot\mathbf{B} = 0\end{equation}|
-|Ampere's Law|\begin{equation}\nabla\times\mathbf{B} = \mu_0 \mathbf{}\end{equation}|
+|Ampere's Law|\begin{equation}\nabla\times\mathbf{B} = \mu_0 \mathbf{j} + \frac{1}{c^2}\pdv{\mathbf{E}}{t}\end{equation}|
 |Faraday's Law|\begin{equation}\nabla\times\mathbf{E} = -\pdv{\mathbf{B}}{t}\end{equation}|
 
 
