@@ -14,5 +14,5 @@ As an easy example, imagine $\phi(x) = \alpha x$. Then the rule says you can go 
 In multiple dimensions we need to use the [[Jacobian]] to measure stretching.
 
 \begin{equation}
-\int_U f(\phi(\vec{u})) \left\vert \det \mathcal{J}_\phi(\vec{u}) \right\vert \dd{\vec{u}} = \int\_{\phi(U)} f(\vec{v})\, \dd{\vec{v}}
+\int_U f(\phi(\vec{u})) \left\vert \det \mathcal{J}_\phi(\vec{u}) \right\vert \dd{\vec{u}} = \int\_{\phi(U)} f(\vec{v})\\, \dd{\vec{v}}
 \end{equation}
