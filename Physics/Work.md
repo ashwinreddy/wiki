@@ -1,7 +1,7 @@
 **Work** is a change in energy.
 
 \begin{equation}
-\sum W = \Delta K
+\sum_i W_i = \Delta K
 \end{equation}
 
 The work done by force $\vec{F}$ along path $C$ is given by
