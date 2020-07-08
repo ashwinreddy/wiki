@@ -1,1 +1,1 @@
-A **variational autoencoder** is an [[autoencoder]]
+A **variational autoencoder** is an [[autoencoder]] whose latent space is a probability distribution.
