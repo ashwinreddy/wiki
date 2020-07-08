@@ -1,0 +1,1 @@
+A **variational autoencoder** is an [[autoencoder]]
