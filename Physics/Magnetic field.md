@@ -4,7 +4,7 @@ The **magnetic field** $\mathbf{B}$ describes the magnetic influence on electric
 \nabla\cdot\mathbf{B} = 0
 \end{equation}
 
-All magnetic field lines are loops. However, the magnetic field curls arround currents.
+All magnetic field lines are loops. However, the magnetic field curls around currents and changes in the electric field.
 
 \begin{equation}
 \nabla\times\mathbf{B} = \mu_0 \mathbf{j} + \mu_0 \varepsilon_0 \pdv{\mathbf{E}}{t}
