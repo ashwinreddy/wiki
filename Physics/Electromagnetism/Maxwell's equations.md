@@ -3,7 +3,7 @@
 |Name|Differential Form|
 |---|-----------------|
 |Gauss's Law|\begin{equation}\nabla\cdot\mathbf{E} = \rho / \varepsilon_0\end{equation}|
-|Gauss's Law for Magnetism / No-Monopole Rule|\begin{equation}\nabla\cdot\mathbf{B} = 0\end{equation}|
+|No Magnetic Monopoles|\begin{equation}\nabla\cdot\mathbf{B} = 0\end{equation}|
 
 
 
