@@ -1,8 +1,12 @@
-The **variance** of a [[random variable]] $X$ is a measure of spread by seeing on average how far away $X$ is from its mean or [[expected value]] $\mu = \mathbb{E}[X]$. It is also the [[covariance]] of a variable with itself.
+The **variance** of a [[random variable]] $X$ is a measure of spread by seeing on average how far away $X$ is from its mean or [[expected value]] $\mu = \mathbb{E}[X]$. 
 
 $$
 \mathbb{V}[X] \doteq \mathbb{E}\left[(X - \mu)^2\right]
 $$
+
+# Covariance
+
+Variance is the [[covariance]] of a variable with itself.
 
 \begin{equation}
 \mathbb{V}[X + Y] = \mathbb{V}[X] + 2\operatorname{cov}(X, Y) + \mathbb{V}[Y]
