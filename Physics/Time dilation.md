@@ -19,7 +19,7 @@ $$
 L = c \Delta t
 $$
 
-Consider the right triangle with hypotenuse $L$ and sides $h$ and $v\Delta t$. By the Pythagorean theorem,
+Consider the right triangle with hypotenuse $L$ and sides $h$ and $v\Delta t$. By the Pythagorean theorem, $L^2 = v^2 \Delta t^2 + h^2$.
 
 \begin{gather}
 L^2 = v^2 \Delta t^2 + h^2 \\
