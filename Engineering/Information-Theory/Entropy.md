@@ -6,6 +6,9 @@ $$
 
 Intuitively, it tells you how many bits it takes to describe the random variable. For example, a fair [[Bernoulli distribution]] takes 1 bit. However, a coin that always lands heads or one that always lands tails has zero entropy because there is no surprise.
 
+* [[Joint entropy]]
+* [[Conditional entropy]]
+
 # Computation
 
 Since the entropy doesn't care about the values of the random variable, just the underlying probabilities, it is really only a function of the probabilities $(p_1, \dots p_n ) = \vec{p}$. A nice form that exposes the computation is
