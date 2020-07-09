@@ -1,0 +1,1 @@
+The **action-value function** $Q(s, a)$ for a [[Markov decision process]]
