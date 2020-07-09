@@ -4,6 +4,12 @@ The **chain rule** equates a joint probability distribution with a factorization
 \Pr(X, Y) = \Pr(X \mid Y) \cdot \Pr(Y)
 \end{equation}
 
+\begin{equation}
+\Pr(X, Y, Z) = \Pr(X \mid Y, Z) \cdot \Pr(Y \mid Z) \Pr(Z)
+\end{equation}
+
+
+
 In many,
 
 \begin{equation}
