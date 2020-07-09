@@ -11,3 +11,11 @@ The general form is a little more involved.
 \end{equation}
 
 The normal distribution has the highest [[entropy]] of all continuous probability distributions with given variance $\sigma^2$.
+
+
+# Properties
+
+|Property|Value|
+|--------|-----|
+|[[Expected value]]|$\mu$|
+|[[Variance]]|$\sigma^2$|
