@@ -1,1 +1,1 @@
-The **central limit theorem** roughly says that the sum of [[iid]] [[random variables|random variable]] tends to become normally distributed.
+The **central limit theorem** roughly says that the sum of [[iid]] [[random variables|random variable]] of mean $\mu$ and variance $\sigma^2$ tends to become normally distributed.
