@@ -5,7 +5,7 @@ The **chain rule** equates a joint probability distribution with a factorization
 \end{equation}
 
 \begin{equation}
-\Pr(X, Y, Z) = \Pr(X \mid Y, Z) \cdot \Pr(Y \mid Z) \cdot \Pr(Z)
+\Pr(X, Y, Z) = \Pr(X \mid Y, Z) \cdot \Pr(Y \middle Z) \cdot \Pr(Z)
 \end{equation}
 
 
