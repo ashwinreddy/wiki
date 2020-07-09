@@ -9,5 +9,5 @@ X \sim \mathsf{Uniform}(a,b) \iff \varphi(x) = \begin{cases}\frac{1}{b-a} & a \l
 
 |Property|Value|
 |--------|-----|
-|[[Expected value]]|$\frac{a+b}{2}$|
+|[[Expected value]]|$$\frac{a+b}{2}$$|
 |[[Variance]]|$$\frac{b-a}{2 \surd 3}$$|
