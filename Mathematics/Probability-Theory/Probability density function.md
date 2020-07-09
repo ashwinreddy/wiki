@@ -8,8 +8,8 @@ A **probability density function (PDF/pdf)** captures the probability of a conti
 \Pr(a \leq X \leq b) = \int_a^b \varphi(x) \\, \dd{x}
 \end{equation}
 
-If $X$ and $Y$ are independent [[random variables|random variable]], then the distribution of $Z=X+Y$ looks like [[convolution]].
+If $X$ and $Y$ are independent [[random variables|random variable]] with distributions $f$ and $g$, then the distribution of $Z=X+Y$ is like [[convolution]].
 
 \begin{equation}
-h(z) = \int_\RR f(x)g(z-x)\\,\dd{x}
+h(z) = (f * g)(z)
 \end{equation}
