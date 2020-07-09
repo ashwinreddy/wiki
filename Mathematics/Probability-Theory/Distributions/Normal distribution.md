@@ -7,7 +7,7 @@ A **normal distribution** or **Gaussian distribution** is a very common continuo
 The general form is a little more involved.
 
 \begin{equation}
-\varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
+X \sim \mathcal{N}(\mu, \sigma^2) \iff \varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
 \end{equation}
 
 The normal distribution has the highest [[entropy]] of all continuous probability distributions with given variance $\sigma^2$.
