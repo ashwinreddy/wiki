@@ -2,4 +2,6 @@
 bibliography: 'bibliography.bib'
 ---
 
-**Advantage weighted actor critic** @nair2020accelerating
+**Advantage weighted actor critic** is an algorithm introduced in @nair2020accelerating
+
+---
