@@ -1,1 +1,1 @@
-**Information theory** is a field of study initiated by Claude Shannon that's interested in quantifying information content. The obvious use case is creating communication systems that are robust from the system side rather than the hardware side.
+**Information theory** is a field of study initiated by Claude Shannon in the 1940s that's interested in quantifying information content. The obvious use case is creating communication systems that are robust from the system side rather than the hardware side.
