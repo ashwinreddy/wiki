@@ -1,1 +1,1 @@
-**Advantage weighted actor critic** 
+**Advantage weighted actor critic** [nair2020accelerating]
