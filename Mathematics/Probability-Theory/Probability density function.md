@@ -5,5 +5,7 @@ A **probability density function (PDF/pdf)** captures the probability of a conti
 \end{equation}
 
 \begin{equation}
-\Pr(a \leq X \leq b) = \int_a^b \varphi(x) \dd{x}
+\Pr(a \leq X \leq b) = \int_a^b \varphi(x) \\, \dd{x}
 \end{equation}
+
+If $X$ and $Y$ are independent [[random variables]]
