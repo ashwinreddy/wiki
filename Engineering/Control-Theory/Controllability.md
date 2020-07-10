@@ -1,0 +1,1 @@
+**Controllability** is a property for a control system that any state can be reached.
