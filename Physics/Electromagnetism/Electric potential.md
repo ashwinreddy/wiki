@@ -5,7 +5,7 @@ $\require{AMScd}$
 \begin{equation}
 \begin{CD}
 \vec{F} \@>\frac{1}{q}>> \vec{E}\\\\
-\@VVbV \@VVcV\\\\
+\@VV-\nablaV \@VVcV\\\\
 C \@>d>> D
 \end{CD}
 \end{equation}
