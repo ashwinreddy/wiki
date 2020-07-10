@@ -5,7 +5,7 @@ $\require{AMScd}$
 \begin{equation}
 \begin{CD}
 \vec{F} \@>\div {q}>> \vec{E}\\\\
-\@AA-\nabla A \@VV{-\int}V\\\\
+\@AA-\nabla A \@V{-\int}VV\\\\
 U \@<<\times q< V
 \end{CD}
 \end{equation}
