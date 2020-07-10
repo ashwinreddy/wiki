@@ -1,1 +1,1 @@
-**Conservative Q-Learning**
+**Conservative Q-Learning** says the Q-functions for OOD actions are pushed down.
