@@ -19,5 +19,6 @@ X \sim \mathcal{N}(\mu, \sigma^2) \iff \varphi(x; \mu, \sigma) = {\exp\left( - \
 |[[Expected value]]|$\mu$|
 |[[Variance]]|$\sigma^2$|
 
+# Characteristics
 
 The normal distribution has the highest [[entropy]] of all continuous probability distributions with given variance $\sigma^2$.
