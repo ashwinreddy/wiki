@@ -13,7 +13,7 @@ X \sim \mathcal{N}(\mu, \sigma^2) \iff \varphi(x; \mu, \sigma) = {\exp\left( - \
 However, we can write $X$ using the standard normal $Z \sim \mathcal{N}(0, 1)$:
 
 \begin{equation}
-X = \mu + \sigma Z
+X = \mu + \sigma Z \iff Z = { X - \mu \over \sigma}
 \end{equation}
 
 
