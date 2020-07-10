@@ -1,5 +1,7 @@
 **Electric potential** is electrical potential energy per unit charge.
 
+$\require{AMScd}$
+
 \begin{CD}
 K(X) @>{ch}>> H(X;\mathbb Q);\\
 @VVV @VVV \\
