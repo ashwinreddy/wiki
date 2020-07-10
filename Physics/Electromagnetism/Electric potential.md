@@ -4,7 +4,9 @@ $\require{AMScd}$
 
 \begin{equation}
 \begin{CD}
-A
+A @>a>> B\\
+@VVbV @VVcV\\
+C @>d>> D
 \end{CD}
 \end{equation}
 
