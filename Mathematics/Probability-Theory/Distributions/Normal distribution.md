@@ -10,6 +10,11 @@ The general form is a little more involved.
 X \sim \mathcal{N}(\mu, \sigma^2) \iff \varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
 \end{equation}
 
+However, we can write $X$ using the standard normal $Z \sim \mathcal{N}(0, 1)$:
+
+\begin{equation}
+X = \mu + \sigma Z
+\end{equation}
 
 
 # Properties
