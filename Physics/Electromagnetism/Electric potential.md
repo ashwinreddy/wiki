@@ -4,7 +4,7 @@ $\require{AMScd}$
 
 \begin{equation}
 \begin{CD}
-\vec{F} \@>\frac{1}{q}>> \vec{E}\\\\
+\vec{F} \@>\div {q}>> \vec{E}\\\\
 \@AA-\nabla A \@VVdV\\\\
 U \@<<\times q< V
 \end{CD}
