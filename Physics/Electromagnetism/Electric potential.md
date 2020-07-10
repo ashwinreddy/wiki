@@ -4,7 +4,7 @@ $\require{AMScd}$
 
 \begin{equation}
 \begin{CD}
-A \@>a>> B\\\\
+\vec{F} \@>a>> B\\\\
 \@VVbV \@VVcV\\\\
 C \@>d>> D
 \end{CD}
