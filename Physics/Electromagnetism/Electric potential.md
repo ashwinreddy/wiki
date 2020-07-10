@@ -6,7 +6,7 @@ $\require{AMScd}$
 \begin{CD}
 A @>a>> B\\
 @VVbV @VVcV\\
-C @>d>> D
+C \@>d>> D
 \end{CD}
 \end{equation}
 
