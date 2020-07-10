@@ -5,8 +5,8 @@ $\require{AMScd}$
 \begin{equation}
 \begin{CD}
 \vec{F} \@>\frac{1}{q}>> \vec{E}\\\\
-\@VV-\nabla V \@VVcV\\\\
-C \@>d>> D
+\@AA-\nabla A \@VVcV\\\\
+U \@>d>> D
 \end{CD}
 \end{equation}
 
