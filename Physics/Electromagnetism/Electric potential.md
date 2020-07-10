@@ -4,9 +4,7 @@ $\require{AMScd}$
 
 \begin{equation}
 \begin{CD}
-K(X) @>{ch}>> H(X;\mathbb Q);\\
-@VVV @VVV \\
-K(Y) @>{ch}>> H(Y;\mathbb Q);
+A
 \end{CD}
 \end{equation}
 
