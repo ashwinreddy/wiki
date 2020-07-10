@@ -5,7 +5,7 @@ $\require{AMScd}$
 \begin{equation}
 \begin{CD}
 A \@>a>> B\\\\
-\@VVbV \@VVcV\\
+\@VVbV \@VVcV\\\\
 C \@>d>> D
 \end{CD}
 \end{equation}
