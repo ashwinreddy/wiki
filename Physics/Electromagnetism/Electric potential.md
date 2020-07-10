@@ -4,7 +4,7 @@ $\require{AMScd}$
 
 \begin{equation}
 \begin{CD}
-\vec{F} \@>a>> B\\\\
+\vec{F} \@>\frac{1}{q}>> B\\\\
 \@VVbV \@VVcV\\\\
 C \@>d>> D
 \end{CD}
