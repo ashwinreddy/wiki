@@ -2,7 +2,8 @@
 bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
-**Advantage weighted actor critic (AWAC)** [@nair2020accelerating] is an [[actor-critic]] algorithm designed to handle a buffer $\beta$ of any kind of experience. The main difference is a new policy improvement optimization goal where we don't allow big steps from the buffer policy as measured by the [[KL divergence|Kullback-Leibler Divergence]].
+**Advantage weighted actor critic (AWAC)** [@nair2020accelerating] is an [[actor-critic]] algorithm designed to handle a buffer $\beta$ of any kind of experience. The main difference is a new policy improvement optimization goal where we don't allow big steps from the buffer policy as measured by the [[KL divergence|Kullback-Leibler Divergence]]. Intuitively, we're only going to base our actions based off the dataset, whereas SAC is totally unconstrained. The actions are always on distribution.
+
 
 \begin{equation}
 \pi_{k + 1} = \arg\max_{\pi \in \Pi} \mathbb{E}\_{a \sim \pi(\cdot \mid s)} \left[ A^{\pi_k}(s, a) \right] \text{ s.t. } D_{KL}\left(\pi(\cdot \mid s) \parallel \pi_\beta(\cdot \mid s)\right) \leq \epsilon
@@ -15,7 +16,5 @@ The new parameters $\theta_{k+1}$ are given by trying to maximize the expected p
 \begin{equation}
 \theta_{k+1} = \arg\max_\theta \mathop{\mathbb{E}}_{\mathbf{s}, \mathbf{a} \sim \beta}\left[ \log \pi(\mathbf{a} \mid \mathbf{s}) \frac{1}{Z(\mathbf{s})} \exp\left( \frac{1}{\lambda}A^{\pi_k}(\mathbf{s}, \mathbf{a}) \right) \right]
 \end{equation}
-
-We're only going to base our actions based off the dataset, whereas SAC is totally unconstrained. The actions are always on distribution.
 
 ---
