@@ -1,5 +1,5 @@
 ---
-bibliography: 'bibliography.bib'
+bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/bibliography.bib'
 link-citations: true
 ---
 
