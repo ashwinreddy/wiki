@@ -41,9 +41,12 @@ $$
 
 While this looks more complicated, we can repackage it into an expectation because it contains probabilities $\pi_\theta(\tau)$ as weights.
 
+
+<div class="theorem" data-text='Policy Gradient Theorem'>
 \begin{equation}
 \nabla_\theta J(\theta) = \mathbb{E}\_{\tau \sim \pi\_\theta}\left[\nabla_\theta \log \pi_\theta(\tau) r(\tau) \right]
 \end{equation}
+</div>
 
 And this expectation is computable:
 
@@ -52,8 +55,5 @@ And this expectation is computable:
 &= \sum_{t=1}^T \nabla_\theta \log \pi_\theta(a_t \mid s_t)
 \end{align\*}
 
-<div class="theorem" data-text='Prime numbers'>
-All odd numbers are prime.
-</div>
 
 --- 
