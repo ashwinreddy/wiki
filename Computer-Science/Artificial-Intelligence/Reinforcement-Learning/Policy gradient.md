@@ -23,5 +23,8 @@ The obvious approach is to use [[gradient descent]].
 
 If we're going to apply gradient descent successfully, we'll need to compute the gradient of the objective $J(\theta)$.
 
+$$
+\nabla_\theta J(\theta) = \int \nabla_\theta \pi_\theta(\tau) r(\tau) \dd{\tau}
+$$
 
 --- 
