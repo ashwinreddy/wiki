@@ -8,6 +8,8 @@ $$
 r(\tau) = \sum_{t=1}^T r(s_t, a_t)
 $$
 
+The objective is to make the average return as high as possible.
+
 $$
 J(\theta) = \mathbb{E}\_{\tau \sim \pi_\theta}\left[r(\tau) \right]
 $$
