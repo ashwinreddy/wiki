@@ -8,5 +8,5 @@ font-weight: bold;
 font-style: normal;
 }
 .theorem[text]:before {
-content: "Theorem (" attr(text) ") ";
+content: "Theorem (" attr(data-text) ") ";
 }
