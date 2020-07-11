@@ -1,0 +1,1 @@
+In **reinforcement learning**, we have an agent in an environment looking to maximize reward.
