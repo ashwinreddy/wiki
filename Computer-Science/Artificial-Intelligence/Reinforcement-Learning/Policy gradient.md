@@ -42,7 +42,7 @@ $$
 While this looks more complicated, we can repackage it into an expectation because it contains probabilities $\pi_\theta(\tau)$ as weights.
 
 $$
-\nabla_\theta J(\theta) = \int \pi_\theta(\tau)\nabla_\theta \log \pi_\theta(\tau) r(\tau) \dd{\tau}
+\nabla_\theta J(\theta) = \mathbb{E}\left[\nabla_\theta \log \pi_\theta(\tau) r(\tau) \dd{\tau} \right]
 $$
 
 --- 
