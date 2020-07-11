@@ -1,1 +1,1 @@
-**Deep deterministic policy gradient (DDPG)**
+**Deep deterministic policy gradient (DDPG)** concurrently learns a Q-function and a policy using off-policy data for environments with continuous action spaces.
