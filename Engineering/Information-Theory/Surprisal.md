@@ -6,4 +6,7 @@ $$
 
 The base $b$ of the logarithm is arbitrary, but common choices are 2 and $e$. The units of surprisal are then bits or nats, respectively.
 
-Why is this a good definition? The inverse of probability is easy to intuit: something is more surprising if it is less likely to happen. The choice to introduce the logarithm induces some nice properties.
+Why is this a good definition?
+
+1. The information of an event with 100% probability is 0.
+2. The less probable, the more surprising (negative log is monotonic decreasing).
