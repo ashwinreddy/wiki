@@ -1,1 +1,1 @@
-The **Bellman equation** in a reinforcement learning context.
+The **Bellman equation** in a reinforcement learning context, which gives a recursive relationship for $Q$
