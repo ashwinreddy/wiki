@@ -55,5 +55,6 @@ And this expectation is computable:
 &= \sum_{t=1}^T \nabla_\theta \log \pi_\theta(a_t \mid s_t)
 \end{align\*}
 
+As @10.5555/3044805.3044850
 
 --- 
