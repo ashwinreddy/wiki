@@ -35,3 +35,5 @@ Mathematics/Probability-Theory/Expectation.md: Mathematics/Probability-Theory/Ex
   value.md
 Engineering/Information-Theory/Kullback-Leibler divergence.md: Engineering/Information-Theory/KL
   divergence.md
+Engineering/Information-Theory/KL divergence.md: Engineering/Information-Theory/Kullback-Leibler
+  divergence.md
