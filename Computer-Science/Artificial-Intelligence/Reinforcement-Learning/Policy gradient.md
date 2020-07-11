@@ -52,7 +52,7 @@ And this expectation is computable:
 &= \sum_{t=1}^T \nabla_\theta \log \pi_\theta(a_t \mid s_t)
 \end{align\*}
 
-<div class="theorem" text='Prime numbers'>
+<div class="theorem" data-text='Prime numbers'>
 All odd numbers are prime.
 </div>
 
