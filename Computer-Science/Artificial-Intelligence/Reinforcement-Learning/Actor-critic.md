@@ -9,5 +9,5 @@ $$
 If $\theta_k$ are the parameters to $\pi$, the policy improvement step is
 
 $$
-\pi_{\theta_k}(a \mid s) = \arg\max_\theta \mathbb{E}_{s \sim \mathcal{D}}\left[ \mathbb{E}_{\pi_\theta(a \mid s)} \left[ Q_{\phi_k}(s,a) \right] \right]
+\pi_{\theta_k}(a \mid s) = \arg\max_\theta \mathbb{E}_{s \sim \mathcal{D}}\left[ \mathbb{E}\_{\pi_\theta(a \mid s)} \left[ Q_{\phi_k}(s,a) \right] \right]
 $$
