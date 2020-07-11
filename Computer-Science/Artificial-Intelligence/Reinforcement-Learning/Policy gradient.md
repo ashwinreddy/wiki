@@ -1,5 +1,5 @@
 ---
-bibliography: 'bibliography.bib'
+bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
 A **policy gradient** method tries to directly optimize a parameterized policy $\pi_\theta$. In other words, the goal is to find the best $\theta$ for the objective $J$, which we can pick as the expected return or some other variant of the return. For example, we could choose to give a reward for a trajectory just by summing undiscounted rewards.
