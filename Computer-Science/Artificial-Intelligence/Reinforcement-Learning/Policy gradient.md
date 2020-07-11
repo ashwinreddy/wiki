@@ -15,7 +15,7 @@ J(\theta) = \mathbb{E}\_{\tau \sim \pi_\theta}\left[R(\tau) \right]
 The obvious approach is to use [[gradient descent]].
 
 \begin{equation}
-\vec\theta \leftarrow \vec\theta + \alpha \vec\nabla J(\theta)
+\theta \leftarrow \theta + \alpha \nabla_\theta J(\theta)
 \end{equation}
 
 
