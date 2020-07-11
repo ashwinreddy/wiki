@@ -33,6 +33,6 @@ $$
 \nabla_\theta J(\theta) = \int \nabla_\theta \pi_\theta(\tau) r(\tau) \dd{\tau}
 $$
 
-However, we can't compute $pi_\theta(\tau)$ without knowing the transition probabilities, which requires a model.
+However, we can't compute $\pi_\theta(\tau)$ without knowing the transition probabilities, which requires a model.
 
 --- 
