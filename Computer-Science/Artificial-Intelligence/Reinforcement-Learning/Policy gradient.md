@@ -48,7 +48,7 @@ $$
 And this expectation is computable:
 
 $$
-\nabla_\theta \log \pi_\theta(\tau) = \nabla_\theta \left[ \cancelto{0}{\log p(s_1)} + \sum_{t=1}^T \log \pi_\theta(a_t \mid s_t) + \cancelto{\log p(s_{t+1} \mid s_t, a_t)}{0} \right]
+\nabla_\theta \log \pi_\theta(\tau) = \nabla_\theta \left[ \cancelto{0}{\log p(s_1)} + \sum_{t=1}^T \log \pi_\theta(a_t \mid s_t) + \cancelto{0}{\log p(s_{t+1} \mid s_t, a_t)} \right]
 $$
 
 --- 
