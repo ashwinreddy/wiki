@@ -3,10 +3,10 @@ display: block;
 font-style: italic;
 }
 .theorem:before {
-content: "Theorem. ";
+content: "Theorem (" attr(data-text) ") ";
 font-weight: bold;
 font-style: normal;
 }
-.theorem[text]:before {
-content: "Theorem (" attr(data-text) ") ";
-}
+/*.theorem[text]:before {*/
+/*content: "Theorem (" attr(data-text) ") ";*/
+/*}*/
