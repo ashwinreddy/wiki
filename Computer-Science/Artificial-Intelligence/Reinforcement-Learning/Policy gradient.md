@@ -8,7 +8,7 @@ $$
 r(\tau) = \sum_{t=1}^T r(s_t, a_t)
 $$
 
-The objective is to make the average return as high as possible.
+The objective is to make the average return as high as possible. Let us treat the policy $\pi_\theta$ as a distribution over possible trajectories $\tau$.
 
 $$
 J(\theta) = \mathbb{E}\_{\tau \sim \pi_\theta}\left[r(\tau) \right]
