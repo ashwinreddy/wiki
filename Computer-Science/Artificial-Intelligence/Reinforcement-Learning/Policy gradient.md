@@ -45,4 +45,10 @@ $$
 \nabla_\theta J(\theta) = \mathbb{E}\_{\tau \sim \pi\_\theta}\left[\nabla_\theta \log \pi_\theta(\tau) r(\tau) \right]
 $$
 
+And $\nabla_\theta \log \pi$ is computable:
+
+$$
+\nabla_\theta \log \pi_\theta(\tau)
+$$
+
 --- 
