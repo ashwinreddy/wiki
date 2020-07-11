@@ -2,7 +2,7 @@
 bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
-**Advantage weighted actor critic (AWAC)** [@nair2020accelerating] is an [[actor-critic]] algorithm designed to handle a buffer $\beta$ of any kind of experience. The main difference is a new policy improvement optimization goal where we don't allow big steps from the buffer policy as measured by the [[KL divergence|Kullback-Leibler Divergence]]. Intuitively, we're only going to base our actions based off the dataset, whereas SAC is totally unconstrained. The actions are always on distribution.
+**Advantage weighted actor critic (AWAC)** [@nair2020accelerating] is an [[actor-critic]] algorithm designed to handle a buffer $\beta$ of any kind of experience. The main difference is a new policy improvement optimization goal where we don't allow big steps from the buffer policy as measured by the [[KL divergence|Kullback-Leibler Divergence]]. Intuitively, we're only going to base our actions based off the dataset, whereas [[SAC|Soft Actor-Critic]] is totally unconstrained. The actions are always on distribution.
 
 
 \begin{equation}
