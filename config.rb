@@ -16,7 +16,6 @@ module Gollum
   class Markup
     if gem_exists?('pandoc-ruby')
       GitHub::Markup::Markdown::MARKDOWN_GEMS.delete('kramdown')
-      puts @mathjax.class
       GitHub::Markup::Markdown::MARKDOWN_GEMS['pandoc-ruby'] = proc { |content|
           #PandocRuby.convert(content, :from => 'markdown-tex_math_dollars-raw_tex', :to => :html, :filter => 'pandoc-citeproc')
           PandocRuby.convert(content, :from => 'markdown-tex_math_dollars-raw_tex', :to => :html, :filter => 'pandoc-citeproc')
