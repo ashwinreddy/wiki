@@ -2,15 +2,19 @@
 bibliography: 'bibliography.bib'
 ---
 
-A **policy gradient** method tries to directly optimize a parameterized policy $\pi_\theta$. In other words, the goal is to find the best $\theta$ for the objective $J$, which we can pick as the expected return or some other variant of the return.
+A **policy gradient** method tries to directly optimize a parameterized policy $\pi_\theta$. In other words, the goal is to find the best $\theta$ for the objective $J$, which we can pick as the expected return or some other variant of the return. For example, we could choose to give a reward for a trajectory just by summing undiscounted rewards.
 
-\begin{equation}
+$$
+r(\tau) = \sum_{t=1}^T r(s_t, a_t)
+$$
+
+$$
 J(\theta) = \mathbb{E}\_{\tau \sim \pi_\theta}\left[r(\tau) \right]
-\end{equation}
+$$
 
-\begin{equation}
+$$
 \theta^\star = \arg\max_\theta J(\theta)
-\end{equation}
+$$
 
 The obvious approach is to use [[gradient descent]].
 
