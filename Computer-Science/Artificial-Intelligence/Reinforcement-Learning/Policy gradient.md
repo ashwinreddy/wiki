@@ -41,9 +41,9 @@ $$
 
 While this looks more complicated, we can repackage it into an expectation because it contains probabilities $\pi_\theta(\tau)$ as weights.
 
-$$
+\begin{equation}
 \nabla_\theta J(\theta) = \mathbb{E}\_{\tau \sim \pi\_\theta}\left[\nabla_\theta \log \pi_\theta(\tau) r(\tau) \right]
-$$
+\end{equation}
 
 And this expectation is computable:
 
