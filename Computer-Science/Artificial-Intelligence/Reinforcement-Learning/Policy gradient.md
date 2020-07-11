@@ -30,9 +30,9 @@ The obvious approach is to use [[gradient descent]].
 If we're going to apply gradient descent successfully, we'll need to compute the gradient of the objective $J(\theta)$. We can pass the gradient through the expectation integral:
 
 $$
-\nabla_\theta J(\theta) = \int \nabla_\theta p_\theta(\tau) r(\tau) \dd{\tau}
+\nabla_\theta J(\theta) = \int \nabla_\theta \pi_\theta(\tau) r(\tau) \dd{\tau}
 $$
 
-However, we can't compute $p_\theta(\tau)$ without knowing the transition probabilities, which requires a model.
+However, we can't compute $pi_\theta(\tau)$ without knowing the transition probabilities, which requires a model.
 
 --- 
