@@ -2,7 +2,7 @@
 bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
-**Advantage weighted actor critic (AWAC)** [@nair2020accelerating] is an [[actor-critic]] algorithm with a weighted actor/policy update. 
+**Advantage weighted actor critic (AWAC)** [@nair2020accelerating] is an [[actor-critic]] algorithm designed to handle a buffer $\beta$ of any kind of experience. The main difference is a new policy improvement optimization goal.
 
 \begin{equation}
 \pi_{k + 1} = \arg\max_{\pi \in \Pi} \mathbb{E}\_{a \sim \pi(\cdot \mid s)} \left[ A^{\pi_k}(s, a) \right] \text{ s.t. } D_{KL}\left(\pi(\cdot \mid s) \parallel \pi_\beta(\cdot \mid s)\right) \leq \epsilon
