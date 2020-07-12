@@ -1,3 +1,7 @@
+---
+bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
+---
+
 **Conservative Q-Learning** [@kumar2020conservative] is an [[offline reinforcement learning]] algorithm.
 
 
