@@ -1,0 +1,1 @@
+A **normalizing constant** is used to make a function a pdf. 
