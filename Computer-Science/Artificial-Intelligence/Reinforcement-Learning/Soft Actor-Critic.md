@@ -7,4 +7,10 @@ link-citations: true
 
 It uses the reparameterization trick.
 
+# Algorithm
+
+1. Repeat for $n$ iterations
+    1. Use policy to sample transitions that go into a dataset $\mathcal{D}$
+    2. Update the parameters to the Q-functions, value function, and policy through gradient descent.
+
 ---
