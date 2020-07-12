@@ -1,1 +1,1 @@
-**Evidence lower bound (ELBO)**
+**Evidence lower bound (ELBO)** is an objective that you can maximize if you want to minimize the [[KL divergence|Kullback-Leibler divergence]]
