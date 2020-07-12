@@ -1,7 +1,3 @@
----
-bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
----
-
 **Advantage weighted actor critic (AWAC)** [@nair2020accelerating] is an [[actor-critic]] algorithm designed to handle a buffer $\beta$ of any kind of experience. This lets us do [[offline RL|offline reinforcement learning]] and then online fine-tuning.
 
 
