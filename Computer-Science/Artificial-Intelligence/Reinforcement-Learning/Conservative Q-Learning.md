@@ -1,4 +1,4 @@
-**Conservative Q-Learning** is an [[offline reinforcement learning]] algorithm.
+**Conservative Q-Learning** [@kumar2020conservative] is an [[offline reinforcement learning]] algorithm.
 
 
 
@@ -6,3 +6,5 @@ algorithm that modifies [[Q-learning]] so not to be erroneously high on states i
 
 
 It says the Q-functions for OOD actions are pushed down. 
+
+---
