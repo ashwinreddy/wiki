@@ -11,7 +11,9 @@ $$
 V^\pi(s) = \mathbb{E}_{a \sim \pi}\left[ Q^\pi(s, a) - \alpha \log \pi(a \mid s) \right]
 $$
 
-It uses the reparameterization trick.
+This is an expectation over actions sampled from the policy, but we use the reparameterization trick to make it an expectation over noise.
+
+
 
 # Algorithm
 
