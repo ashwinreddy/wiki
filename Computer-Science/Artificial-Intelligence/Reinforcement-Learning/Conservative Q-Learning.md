@@ -1,4 +1,4 @@
-**Conservative Q-Learning** is an [[offine RL]]
+**Conservative Q-Learning** is an [[offine reinforcement learning]]
 
 
 
