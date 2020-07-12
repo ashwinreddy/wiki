@@ -1,0 +1,1 @@
+**Online reinforcement learning** is when the [[policy]] $\pi_k$ is updated using data collected by $\pi_k$ itself.
