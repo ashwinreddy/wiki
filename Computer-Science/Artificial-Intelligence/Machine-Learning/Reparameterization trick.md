@@ -2,5 +2,5 @@ The **reparameterization trick** is a trick that allows us to backpropagate thro
 
 
 $$
-\nabla_{\theta} \mathbb{E}_{p_{\theta}(z)}[f_{\theta}(z)] 
+\nabla_{\theta} \mathbb{E}\_{p_{\theta}(z)}[f_{\theta}(z)] 
 $$
