@@ -3,3 +3,5 @@ A **normalizing constant** is used to make a function a pdf. For example if we w
 $$
 \int_\RR e\^{-x\^2/2} \dd{x} = \sqrt{2\pi}
 $$
+
+Thus, the normalizing constant is $(2\pi)^{-1/2}$.
