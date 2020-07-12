@@ -4,4 +4,4 @@ A **variational autoencoder** is an [[autoencoder]] whose latent space is a prob
 
 We also want to force the clusters to be near each other so that we can smoothly interpolate between classes.
 
-[[https://miro.medium.com/max/1400/1*xCjoga9IPyNUSiz9E7ao7A.png|align=center]]
+[[https://miro.medium.com/max/1400/1*xCjoga9IPyNUSiz9E7ao7A.png|align=center, height=200px]]
