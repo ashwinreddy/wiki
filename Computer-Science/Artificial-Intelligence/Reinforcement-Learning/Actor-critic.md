@@ -7,5 +7,5 @@ $$
 If $\theta_k$ are the parameters to $\pi$, the policy improvement step is
 
 $$
-\hat{\pi} = \arg\max\_{\pi} \mathbb{E}_{s \sim \mathcal{D}, a \sim \pi_\theta(a \mid s)} \tag{Policy Improvement}
+\hat{\pi} = \arg\max_{\pi} \mathbb{E}\_{s \sim \mathcal{D}, a \sim \pi_\theta(a \mid s)} \tag{Policy Improvement}
 $$
