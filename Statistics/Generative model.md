@@ -1,0 +1,1 @@
+A **generative model** tries to learn $p(x \mid y)$ and $p(y)$. Then it uses [[Bayes' theorem]]
