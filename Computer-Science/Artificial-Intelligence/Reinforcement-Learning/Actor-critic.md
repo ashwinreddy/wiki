@@ -7,5 +7,5 @@ $$
 If $\theta_k$ are the parameters to $\pi$, the policy improvement step is
 
 $$
-\hat{\pi} = \arg\max_{\pi} \mathbb{E}_{} \left[ Q_{\phi_k}(s,a) \right] \right] \tag{Policy Improvement}
+\hat{\pi} = \arg\max_{\pi} \mathbb{E} \left[ Q_{\phi_k}(s,a) \right] \right] \tag{Policy Improvement}
 $$
