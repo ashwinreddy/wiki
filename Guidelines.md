@@ -6,4 +6,5 @@
 5. Equations should be labeled, if possible. 
 6. Cite your sources! Bibliography is now enabled.
 7. Expand folders as needed, not in advance.
-8. Don't delete the wiki!
+8. Make the article now; edit it, move it, delete it later.
+9. Don't delete the wiki!
