@@ -1,1 +1,1 @@
-**Offline reinforcement learning** is doing RL using only a static dataset of experience.
+**Offline reinforcement learning** is a kind of data-driven RL using only a static dataset of experience without being able to try anything online.
