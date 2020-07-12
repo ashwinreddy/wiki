@@ -5,3 +5,5 @@ An **autoencoder** is a neural network that can learns to compress data and (als
 One issue with autoencoders is that the network decides how to use the latent space. For example, here is MNIST visualized
 
 [[https://miro.medium.com/max/1000/1*-i8cp3ry4XS-05OWPAJLPg.png]]
+
+If you sample the gray point as a latent code, you might not get a sensible output. The latent space needs to be made continuous, which is what [[variational autoencoder]] does.
