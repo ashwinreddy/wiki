@@ -1,1 +1,1 @@
-**Q-Learning**
+**Q-Learning** train the Q-function by iteratively applying the Bellman (optimality?) operator.
