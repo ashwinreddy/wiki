@@ -1,1 +1,1 @@
-**Conservative Q-Learning** says the Q-functions for OOD actions are pushed down.
+**Conservative Q-Learning** is an algorithm that modifies Q-learning so not to be erroneously high on states it has not seen before. It says the Q-functions for OOD actions are pushed down.
