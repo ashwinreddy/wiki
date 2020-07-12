@@ -3,7 +3,7 @@
 If $\phi_k$ are the parameters to $Q$, then policy evaluation is the step
 
 $$
-\phi_k = \arg\min_\theta \mathbb{E}_\mathcal{D}\left[\left( Q_\phi(s, a) - y \right)^2 \right]
+\hat{Q} \leftarrow \arg\min_Q \mathbb{E}_\mathcal{D}\left[\left( \hat{Q}(s, a) - y \right)^2 \right]
 $$
 
 If $\theta_k$ are the parameters to $\pi$, the policy improvement step is
