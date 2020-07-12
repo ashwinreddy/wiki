@@ -1,1 +1,1 @@
-A **variational autoencoder** is an [[autoencoder]] whose latent space is a probability distribution.
+A **variational autoencoder** is an [[autoencoder]] whose latent space is a probability distribution. It outputs a vector of means and standard deviations for the decoder.
