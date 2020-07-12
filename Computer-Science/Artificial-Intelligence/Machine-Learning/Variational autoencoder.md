@@ -1,1 +1,5 @@
-A **variational autoencoder** is an [[autoencoder]] whose latent space is a probability distribution. It outputs a vector of means and standard deviations for the decoder. This forces the decoder to treat the small space around the latent code as belonging to the same class. We also want to force the clusters to be near each other so that we can smoothly interpolate between classes.
+A **variational autoencoder** is an [[autoencoder]] whose latent space is a probability distribution. It outputs a vector of means and standard deviations for the decoder. This forces the decoder to treat the small space around the latent code as belonging to the same class. 
+
+[[https://miro.medium.com/max/1400/1*96ho7qSyW0nKrLvSoZHOtA.png]]
+
+We also want to force the clusters to be near each other so that we can smoothly interpolate between classes.
