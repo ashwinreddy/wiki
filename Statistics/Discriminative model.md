@@ -1,0 +1,1 @@
+A **discriminative model** tries to learn $p(y \mid x)$.
