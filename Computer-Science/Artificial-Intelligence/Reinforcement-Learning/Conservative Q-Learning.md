@@ -11,6 +11,6 @@ It says the Q-functions for OOD actions are pushed down.
 # Algorithm
 
 1. Learn $\hat{Q}^\pi_{\text{CQL}}$ using offline data $\mathcal{D}$
-2. Optimize policy w.r.t. $\hat{Q}^\pi\_{\text{CQL}}$: $\pi \leftarrow \arg\max_\pi \mathbb{E}_\pi\left[ $\hat{Q}^\pi_{\text{CQL}}$ \right]$
+2. Optimize policy w.r.t. $\hat{Q}^\pi\_{\text{CQL}}: \pi \leftarrow \arg\max_\pi \mathbb{E}_\pi\left[ $\hat{Q}^\pi_{\text{CQL}}$ \right]$
 
 ---
