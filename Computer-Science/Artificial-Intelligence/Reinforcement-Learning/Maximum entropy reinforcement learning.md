@@ -1,0 +1,1 @@
+**Maximum entropy reinforcement learning** is reinforcement learning with the additional objective of maximizing policy [[entropy]].
