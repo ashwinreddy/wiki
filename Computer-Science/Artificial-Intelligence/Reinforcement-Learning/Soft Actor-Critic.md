@@ -11,7 +11,7 @@ $$
 V^\pi(s) = \mathbb{E}_{a \sim \pi}\left[ Q^\pi(s, a) - \alpha \log \pi(a \mid s) \right]
 $$
 
-This is an expectation over actions sampled from the policy, but we use the reparameterization trick to make it an expectation over noise.
+This is an expectation over actions sampled from the policy, but we use the reparameterization trick to make it an expectation over noise. We make the policy Gaussian and then represent this Gaussian using mean and variance and the standard normal distribution.
 
 
 
