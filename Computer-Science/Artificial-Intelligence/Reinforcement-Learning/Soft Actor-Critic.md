@@ -8,7 +8,7 @@ link-citations: true
 The Q-functions we learn through mean squared Bellman error. We want the policy to maximize value.
 
 $$
-\max V^\pi(s) = \mathbb{E}_{a \sim \pi}\left[ Q^\pi(s, a) - \alpha \log \pi(a \mid s) \right]
+\arg\max V^\pi(s) = \mathbb{E}_{a \sim \pi}\left[ Q^\pi(s, a) - \alpha \log \pi(a \mid s) \right]
 $$
 
 It uses the reparameterization trick.
