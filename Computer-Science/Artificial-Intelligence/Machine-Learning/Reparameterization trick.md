@@ -1,0 +1,1 @@
+The **reparameterization trick** is a trick that allows us to backpropagate through random nodes.
