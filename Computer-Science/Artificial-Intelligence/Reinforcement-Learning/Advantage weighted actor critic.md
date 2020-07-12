@@ -31,4 +31,8 @@ The new parameters $\theta_{k+1}$ are given by trying to maximize the expected p
     3. Update $\theta$ according to equation \ref{eq:actor-update}.
     4. If $i$ > `num_offline_steps`, sample on-policy trajectories and put in buffer $\beta$
 
+# Implementation
+
+The paper says to drop the computation of $Z(s)$
+
 ---
