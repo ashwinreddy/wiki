@@ -1,4 +1,4 @@
-**Conservative Q-Learning** is an [[offline reinforcement learning]]
+**Conservative Q-Learning** is an [[offline reinforcement learning]] algorithm.
 
 
 
