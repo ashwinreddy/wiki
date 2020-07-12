@@ -3,3 +3,5 @@
 $$
 H(p, q) = - \mathbb{E}_p \log q
 $$
+
+<<Note("Want better notation")>>
