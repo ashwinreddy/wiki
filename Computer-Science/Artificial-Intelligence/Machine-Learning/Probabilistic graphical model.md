@@ -1,3 +1,3 @@
 **Probabilistic graphical models (PGMs)**
 
-[[https://ermongroup.github.io/cs228-notes/assets/img/naive-bayes.png]]
+[[https://ermongroup.github.io/cs228-notes/assets/img/naive-bayes.png|align=center]]
