@@ -1,0 +1,1 @@
+**Offline reinforcement learning** is doing RL using only a static dataset of experience.
