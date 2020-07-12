@@ -1,0 +1,1 @@
+**Probability measure** is a function $P: F \to \RR$ for [[event space]]
