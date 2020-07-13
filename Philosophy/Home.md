@@ -1,1 +1,1 @@
-**Philosophy** is the study of questions which fundamentally have no answers. The world philosophy itself means "love of knowledge" (philos = love, sophy = wisdom). 
+**Philosophy** is the study of questions which fundamentally have no right answers. The world philosophy itself means "love of knowledge" (philos = love, sophy = wisdom). 
