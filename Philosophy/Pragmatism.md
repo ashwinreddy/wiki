@@ -1,0 +1,1 @@
+**Pragmatism** is a philosophical school of thought that values utility over truth.
