@@ -8,6 +8,10 @@ bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 
 # Challenges in Offline RL with Online Fine-tuning
 
+From [@nair2020accelerating]
+
+* Data efficiency: 
+
 
 
 ---
