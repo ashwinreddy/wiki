@@ -12,6 +12,10 @@ $$
 
 It says the Q-functions for OOD actions are pushed down. 
 
+# Implementation
+
+We just need to add CQL regularization term to the Q-function update.
+
 # Algorithm
 
 1. Learn $\hat{Q}^\pi_{\text{CQL}}$ using offline data $\mathcal{D}$
