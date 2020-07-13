@@ -14,7 +14,7 @@ It says the Q-functions for OOD actions are pushed down.
 
 # Implementation
 
-We just need to add CQL regularization term to the Q-function update.
+We just need to add CQL regularization term to the Q-function update. 
 
 # Algorithm
 
