@@ -23,7 +23,7 @@ The new parameters $\theta_{k+1}$ are given by trying to maximize the expected p
 
 # Benefits
 
-* No need to fit a model $\hat{\pi}_\beta$ for the buffer
+* No need to fit a model $\hat{\pi}_\beta$ for the buffer data.
 
 # Algorithm
 
