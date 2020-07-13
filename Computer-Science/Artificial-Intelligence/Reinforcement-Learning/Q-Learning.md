@@ -1,1 +1,1 @@
-**Q-Learning** train the Q-function by iteratively applying the Bellman (optimality?) operator. Then, a greedy policy can be extracted by computing $\pi(s) = \arg\max_a Q(s,a)$
+**Q-Learning** train the Q-function by iteratively applying the Bellman (optimality?) operator. Then, a greedy policy can be extracted by computing $\pi(s) = \arg\max_a Q(s,a)$.
