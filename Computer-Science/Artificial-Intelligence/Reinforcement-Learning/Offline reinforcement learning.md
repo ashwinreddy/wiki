@@ -10,10 +10,8 @@ bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 
 From @nair2020accelerating
 
-## Data Efficiency
-
-Imitation learning doesn't work because you may be learning from suboptimal data. On-policy finetuning is going to be inefficient because it can't use $\mathcal{D}$.
-
+* Data Efficiency: Imitation learning doesn't work because you may be learning from suboptimal data. On-policy finetuning is going to be inefficient because it can't use $\mathcal{D}$.
+* Bootstrap Error in Offline Learning with Actor-Critic Methods: Standard off-policy algorithms like [[SAC]] accumulate error through bootstrapping.
 
 
 ---
