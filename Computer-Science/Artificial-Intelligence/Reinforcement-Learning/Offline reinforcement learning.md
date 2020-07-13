@@ -8,9 +8,11 @@ bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 
 # Challenges in Offline RL with Online Fine-tuning
 
-From [@nair2020accelerating]
+From @nair2020accelerating
 
-* Data efficiency: 
+## Data Efficiency
+
+Imitation learning doesn't work because you may be learning from suboptimal data. On-policy finetuning is going to be inefficient because it can't use $\mathcal{D}$.
 
 
 
