@@ -1,0 +1,1 @@
+**Philosophy** is the study of questions which fundamentally have no answers.
