@@ -1,1 +1,6 @@
-A **Markov decision process** is a set of states and actions with a transition function and a reward function. $(S, A, R, P, \rho_0)$
+A **Markov decision process** is a way of modeling an environment.
+
+* Set of states
+* Set of actions
+* Transition probability
+* Reward function
