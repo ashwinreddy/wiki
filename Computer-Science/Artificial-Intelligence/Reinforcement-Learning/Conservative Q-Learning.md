@@ -20,7 +20,7 @@ CQL can be added to an [[actor-critic]] or [[Q-learning]] algorithm.
 
 We just need to add CQL regularization term to the Q-function update. 
 
-# Algorithm
+## Algorithm
 
 1. Learn $\hat{Q}^\pi_{\text{CQL}}$ using offline data $\mathcal{D}$
 2. Optimize policy w.r.t. $\hat{Q}^\pi_{\text{CQL}}$: $$\pi \leftarrow \arg\max_\pi \mathbb{E}_\pi\left[\hat{Q}^\pi_{\text{CQL}}\right]$$
