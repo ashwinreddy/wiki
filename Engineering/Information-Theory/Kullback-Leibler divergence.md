@@ -16,6 +16,14 @@ Since the KL divergence has a minimum at zero, the [[Taylor series]] approximati
 
 $$f_{\theta_0}(\theta) =  \frac{1}{2} \sum_{jk} \Delta \theta^j \Delta\theta^k f_{\theta_0}''(\theta_0) + \order{\Delta \theta ^ 3}$$
 
+# Connection to Entropy
+
+Suppose we take the KL divergence between a uniform distribution and a given distribution.
+
+$$
+D_{KL} (u \parallel p) = -\log n - \frac{1}{n} \sum_x \log p(x)
+$$
+
 
 # Properties
 
