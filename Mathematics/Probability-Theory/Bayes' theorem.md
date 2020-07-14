@@ -16,6 +16,12 @@ We now consider how the posterior responds to each factor independently, _ceteri
 \Pr (\text{Hypothesis} \mid \text{Evidence}) = \frac{\Pr(\text{Evidence}\mid\text{Hypothesis})}{\Pr(\text{Evidence})}\Pr(\text{Hypothesis})
 \end{equation}
 
+This often requires you to compute $\Pr(\text{Evidence})$, which you can do by
+
+$$
+\Pr(\text{Evidence}) = \sum_{h \in \text{Hypothesis}} \Pr(\text{Evidence}\ mid h) \Pr(h)
+$$
+
 # Derivation
 
 Just notice that
