@@ -1,5 +1,5 @@
-**Conditional probability**
+**Conditional probability** is the probability of an event occuring given that another event is true.
 
 $$
-\Pr(A|B) \doteq \frac{\Pr(A \cap B)}{\Pr(B)}
+\Pr(A \mid B) \doteq \frac{\Pr(A \cap B)}{\Pr(B)}
 $$
