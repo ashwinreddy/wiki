@@ -19,7 +19,7 @@ We now consider how the posterior responds to each factor independently, _ceteri
 This often requires you to compute $\Pr(\text{Evidence})$, which you can do by
 
 $$
-\Pr(\text{Evidence}) = \sum_{h \in \text{Hypothesis}} \Pr(\text{Evidence}\ mid h) \Pr(h)
+\Pr(\text{Evidence}) = \sum_{h \in \text{Hypothesis}} \Pr(\text{Evidence}\mid h) \Pr(h)
 $$
 
 # Derivation
