@@ -13,3 +13,5 @@ We can define the Bellman operator $\mathcal{B}$ on Q-functions.
 $$
 \left[\mathcal{B}^\pi Q\right] (s, a) = \mathbb{E}_{s' \sim \Pr(s' \mid s, a) }\left[ r_0 + \gamma V^\pi\left(s'\right) \right]
 $$
+
+If we repeatedly apply $\mathcal{B}$ to an initial $Q$, the result will converge to $Q^\pi$.
