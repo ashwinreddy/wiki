@@ -28,6 +28,7 @@ $$
 H(p) = \log n - D_{KL}(p \parallel u)
 $$
 
+So as we intuitively know, maximizing entropy is minimizing KL divergence to the uniform distribution.
 
 # Properties
 
