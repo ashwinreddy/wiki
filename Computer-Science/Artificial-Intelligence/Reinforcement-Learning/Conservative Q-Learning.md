@@ -6,7 +6,7 @@ bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 
 As an offline algorithm, we have access to a dataset $\mathcal{D}$. We write the action-conditional for the dataset as $\pi_\beta(a \mid s)$ and the marginal state distribution as $d^{\pi_\beta}(s)$ so that $\mathcal{D}$ samples from the product of these two. We can also track empirically what $\hat{\pi}_\beta(a_0 \mid s_0)$ is.
 
-The modification that conservative Q-learning makes is to try to maximize Q-values under a distribution $\mu$ in addition to trying to minimze mean squared Bellman error. This will result in lower bounded $\hat{Q}^\pi$, but we can make this a tighter bound if the goal is ultimately to use Q as a way to estimate the [[value function]] V by trying to maximize $Q$ under $\hat{\pi_\beta}$.
+The modification that conservative Q-learning makes is to try to maximize Q-values under a distribution $\mu$ in addition to trying to minimze mean squared Bellman error. This will result in lower bounded $\hat{Q}^\pi$, but we can make this a tighter bound if the goal is ultimately to use Q as a way to estimate the [[value function]] V by trying to maximize $Q$ under $\hat{\pi}_\beta$.
 
 $$
 \hat{Q}^\pi_\text{CQL} = \arg\min_Q \alpha\left( \underbrace{\mathbb{E}\_{s \sim \mathcal{D}, a \sim \mu(a \mid s)}\left[Q(s,a)\right]}\_{\text{minimize Q-values}} - \underbrace{\color{red}{\mathbb{E}\_{s \sim \mathcal{D}, a \sim \hat{\pi}\_\beta(a \mid s)}\left[Q(s,a)\right]}}\_{\text{maximize Q-values under data}} \right) + \underbrace{\frac{1}{2}\mathbb{E}\_{s,a,s' \sim \mathcal{D}}\left[ \left(Q - \hat{B}^\pi Q\right)^2 \right]}_{\text{standard Bellman error}}
