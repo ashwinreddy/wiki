@@ -6,7 +6,7 @@ This is the home page of my wiki!
 |[Computer Science](./Computer-Science/)|[Engineering](./Engineering/)|
 |[Logic](./Logic/)|[Statistics](./Statistics/)|
 |[Biology](./Biology/)|[Economics](./Economics/)|
-|[Philosophy](./Philosophy/)|
+|[Philosophy](./Philosophy/Home)|
 
 
 [[Bibliography]]
