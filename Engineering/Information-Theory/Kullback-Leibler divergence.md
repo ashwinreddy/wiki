@@ -24,6 +24,10 @@ $$
 D_{KL} (u \parallel p) = -\log n - \frac{1}{n} \sum_x \log p(x)
 $$
 
+$$
+H(p) = \log n - D_{KL}(p \parallel u)
+$$
+
 
 # Properties
 
