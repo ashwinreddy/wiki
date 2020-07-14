@@ -7,7 +7,7 @@ bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 
 # Algorithm
 
-@levine2020offline provides a complete description.
+@levine2020offline provides a complete description. Basically, the algorithm just repeats the same loop of policy evaluation and then optimization to reduce the mean squared Bellman error.
 
 
 ---
