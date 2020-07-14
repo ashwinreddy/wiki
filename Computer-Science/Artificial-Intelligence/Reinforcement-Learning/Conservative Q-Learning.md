@@ -2,7 +2,7 @@
 bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
-**Conservative Q-Learning** [@kumar2020conservative] is an [[offline reinforcement learning]] algorithm that modifies [[Q-learning]] so not to be erroneously optimistic (i.e. giving high value to states it has not seen before). In practice, it adds a Q-value regularizer $\mathcal{R}(\mu)$.
+**Conservative Q-Learning** [@kumar2020conservative] is an [[offline reinforcement learning]] algorithm that modifies [[Q-learning]] so not to be erroneously optimistic (i.e. giving high value to states it has not seen before). In practice, it adds a Q-value regularizer, denoted $\mathcal{R}(\mu)$.
 
 
 The algorithm comes up with a lower bound on the Q value, thereby making it conservative. However, we don't want a lower bound that is point-wise for each input to $Q$; we want one that is a lower bound in expectation.
