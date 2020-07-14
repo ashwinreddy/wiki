@@ -15,3 +15,11 @@ We now consider how the posterior responds to each factor independently, _ceteri
 \begin{equation}
 \Pr (A | B) = \frac{\Pr(B|A)}{\Pr(B)}\Pr(A)
 \end{equation}
+
+# Derivation
+
+Just notice that
+
+$$
+p(a \mid b)p(b) = p(b \mid a)p(a)
+$$
