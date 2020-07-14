@@ -13,7 +13,7 @@ We now consider how the posterior responds to each factor independently, _ceteri
 
 
 \begin{equation}
-\Pr (\text{Hypothesis} | \text{Evidence}) = \frac{\Pr(\text{Evidence}\mid\text{Hypothesis})}{\Pr(\text{Evidence})}\Pr(\text{Hypothesis})
+\Pr (\text{Hypothesis} \mid \text{Evidence}) = \frac{\Pr(\text{Evidence}\mid\text{Hypothesis})}{\Pr(\text{Evidence})}\Pr(\text{Hypothesis})
 \end{equation}
 
 # Derivation
