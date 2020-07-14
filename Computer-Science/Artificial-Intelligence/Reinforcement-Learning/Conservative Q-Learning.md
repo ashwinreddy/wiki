@@ -18,7 +18,7 @@ It says the Q-functions for OOD actions are pushed down.
 
 CQL can be added to an [[actor-critic]] or [[Q-learning]] algorithm.
 
-We just need to add CQL regularization term to the Q-function update. In practice, it adds a Q-value regularizer, denoted $\mathcal{R}(\mu)$. We then choose $\mathcal{R}(\mu)$ to be the [[KL divergence | Kullback-Leibler divergence]]
+We just need to add CQL regularization term to the Q-function update. In practice, it adds a Q-value regularizer, denoted $\mathcal{R}(\mu)$. We then choose $\mathcal{R}(\mu)$ to be the [[KL divergence | Kullback-Leibler divergence]] between $\mu$ and some prior distribution $\rho$. The paper suggests choices of $\rho$ as a [[uniform distribution]].
 
 ## Algorithm
 
