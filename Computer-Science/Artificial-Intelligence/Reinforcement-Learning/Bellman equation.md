@@ -11,5 +11,5 @@ Q^\pi(s, a) = \mathbb{E}_{s' \sim \Pr(s' \mid s, a) }\left[ r_0 + \gamma V^\pi\l
 We can define the Bellman operator $\mathcal{B}$ on Q-functions.
 
 $$
-\left[\mathcal{B}^\pi Q\right](s, a)
+\left[\mathcal{B}^\pi Q\right] (s, a)
 $$
