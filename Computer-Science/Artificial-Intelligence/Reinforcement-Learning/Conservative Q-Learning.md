@@ -14,7 +14,7 @@ It says the Q-functions for OOD actions are pushed down.
 
 # Implementation
 
-CQL can be added to an [[actor-critic]] or a [[Q-learning]] algorithm.
+CQL can be added to an [[actor-critic]] or [[Q-learning]] algorithm.
 
 We just need to add CQL regularization term to the Q-function update. 
 
