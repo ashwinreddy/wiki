@@ -8,7 +8,7 @@ link-citations: true
 The Q-functions we learn through mean squared Bellman error. We want the policy to maximize value.
 
 $$
-V^\pi(s) = \mathbb{E}_{a \sim \pi}\left[ Q^\pi(s, a) - \alpha \log \pi(a \mid s) \right]
+V^\pi(s) = \mathop{\mathbb{E}}_{a \sim \pi}\left[ Q^\pi(s, a) - \alpha \log \pi(a \mid s) \right]
 $$
 
 This is an expectation over actions sampled from the policy, but we use the reparameterization trick to make it an expectation over noise. We make the policy Gaussian and then represent this Gaussian using mean and variance and the standard normal distribution.
