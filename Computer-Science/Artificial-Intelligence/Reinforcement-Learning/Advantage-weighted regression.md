@@ -13,5 +13,6 @@ $$
 1. Sample trajectories and put them into $\mathcal{D}$
 2. Fit value function.
 3. Update policy.
+4. Repeat.
 
 ---
