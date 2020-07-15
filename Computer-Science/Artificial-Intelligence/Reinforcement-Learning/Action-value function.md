@@ -1,8 +1,9 @@
 The **action-value function** or **Q-function** $Q(s, a)$ for a [[Markov decision process]] is the expected return after taking action $a$ in state $s$. 
 
-\begin{align*}
-Q: \mathcal{S} \times \mathcal{A} &\to \mathbb{R}
-\end{align*}
+\begin{align\*}
+Q: \mathcal{S} \times \mathcal{A} &\to \mathbb{R} \\\\\
+(s, a) &\mapsto Q(s, a)
+\end{align\*}
 
 It is related to the [[value function]].
 
