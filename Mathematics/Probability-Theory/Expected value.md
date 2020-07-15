@@ -19,5 +19,5 @@ For any random variables $X$ and $Y$,
 \end{equation}
 
 \begin{equation}
-\mathbb{E}[\alpha X] = \alpha \mathbb{E}[X}]
+\mathbb{E}[\alpha X] = \alpha \mathbb{E}[X]
 \end{equation}
