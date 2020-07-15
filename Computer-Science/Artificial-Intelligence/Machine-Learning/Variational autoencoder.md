@@ -1,4 +1,4 @@
-A **variational autoencoder** is an [[autoencoder]] whose latent space is a probability distribution. It outputs a vector of means and standard deviations for the decoder. This forces the decoder to treat the small space around the latent code as belonging to the same class. 
+A **variational autoencoder (VAE)** is an [[autoencoder]] whose latent space is a probability distribution. It outputs a vector of means and standard deviations for the decoder. This forces the decoder to treat the small space around the latent code as belonging to the same class. 
 
 [[https://miro.medium.com/max/1400/1*96ho7qSyW0nKrLvSoZHOtA.png|align=center, height=200px]]
 
@@ -8,3 +8,6 @@ We also want to force the clusters to be near each other so that we can smoothly
 
 
 The loss is the sum of reconstruction and variance loss.
+
+
+---
