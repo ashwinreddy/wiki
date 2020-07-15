@@ -28,3 +28,5 @@ where we use $\lg$ to get the result in units of bits rather than nats or digits
 $$
 \mathcal{H}(\mathsf{DiscreteUniform}(n)) = \lg n 
 $$
+
+And this has maximum entropy.
