@@ -14,7 +14,7 @@ $$
 This is an expectation over actions sampled from the policy, but we use the reparameterization trick to make it an expectation over noise. We make the policy Gaussian and then represent this Gaussian using mean and variance and the standard normal distribution.
 
 $$
-\max_\theta \mathbb{E}_{s \sim \mathcal{D}, \Xi \sim \mathcal{N}}
+\max_\theta \mathbb{E}_{s \sim \mathcal{D}, \xi \sim \mathcal{N}}
 $$
 
 # Algorithm
