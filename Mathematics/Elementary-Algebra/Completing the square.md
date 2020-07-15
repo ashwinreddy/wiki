@@ -3,7 +3,3 @@
 $$
 ax^2 + bx + c = a(x-h)^2 + k
 $$
-
-$$
-x\left(\frac{b}{a} + 2h\right) + \frac{c}{a} =   + h^2 + \frac{k}{a}
-$$
