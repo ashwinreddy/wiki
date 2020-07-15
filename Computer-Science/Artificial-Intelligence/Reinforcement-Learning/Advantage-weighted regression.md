@@ -8,4 +8,10 @@ $$
 \mathbb{E}_{s, a\sim \mathcal{D}}\left[ \log \pi(a \mid s) \exp\left(\frac{1}{\lambda}A^\mathcal{D}(s, a)\right) \right]
 $$
 
+# Algorithm
+
+1. Sample trajectories and put them into $\mathcal{D}$
+2. Fit value function.
+3. Update policy.
+
 ---
