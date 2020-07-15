@@ -16,7 +16,7 @@ This is an expectation over actions sampled from the policy, but we use the repa
 The policy update is
 
 $$
-\max_\theta \mathop{\mathbb{E}}_{\substack{s \sim \mathcal{D} \\ \xi \sim \mathcal{N}}}\left[ \min_j Q_{\phi_j}(s, \tilde{a}\_\theta(s, \xi)) - \alpha \log \pi\_\theta \left( \tilde{a}_\theta(s, \xi) \mid s \right) \right] \tag{policy improvement}
+\max_\theta \mathop{\mathbb{E}}_{\substack{s \sim \mathcal{D} \\\\\ \xi \sim \mathcal{N}}}\left[ \min_j Q_{\phi_j}(s, \tilde{a}\_\theta(s, \xi)) - \alpha \log \pi\_\theta \left( \tilde{a}_\theta(s, \xi) \mid s \right) \right] \tag{policy improvement}
 $$
 
 # Algorithm
