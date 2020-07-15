@@ -36,6 +36,10 @@ The new parameters $\theta_{k+1}$ are given by trying to maximize the expected p
 
 # Implementation
 
-The paper says to drop the computation of $Z(s)$
+The paper says to drop the computation of $Z(s)$.
+
+# Related Work
+
+Very similar to [[advantage-weighted regression]].
 
 ---
