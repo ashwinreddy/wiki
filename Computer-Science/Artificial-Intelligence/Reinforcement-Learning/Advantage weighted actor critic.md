@@ -18,7 +18,7 @@ The new parameters $\theta_{k+1}$ are given by trying to maximize the expected p
 
 \begin{equation}
 \label{eq:actor-update}
-\max_\theta \mathop{\mathbb{E}}_{\mathbf{s}, \mathbf{a} \sim \beta}\left[ \log \pi(\mathbf{a} \mid \mathbf{s}) \frac{1}{Z(\mathbf{s})} \exp\left( \frac{1}{\lambda}A^{\pi_k}(\mathbf{s}, \mathbf{a}) \right) \right] \tag{policy improvement}
+\max_\theta \mathop{\mathbb{E}}_{\mathbf{s}, \mathbf{a} \sim \beta}\left[ \log \pi_\theta(\mathbf{a} \mid \mathbf{s}) \frac{1}{Z(\mathbf{s})} \exp\left( \frac{1}{\lambda}A^{\pi_k}(\mathbf{s}, \mathbf{a}) \right) \right] \tag{policy improvement}
 \end{equation}
 
 # Benefits
