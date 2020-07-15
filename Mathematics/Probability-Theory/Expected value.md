@@ -17,3 +17,7 @@ For any random variables $X$ and $Y$,
 \begin{equation}
 \mathbb{E}[X+Y] = \mathbb{E}[X] + \mathbb{E}[Y]
 \end{equation}
+
+\begin{equation}
+\mathbb{E}[\alpha X] = \alpha \mathbb{E}[X}]
+\end{equation}
