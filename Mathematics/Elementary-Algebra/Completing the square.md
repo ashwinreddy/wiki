@@ -5,5 +5,5 @@ ax^2 + bx + c = a(x-h)^2 + k
 $$
 
 $$
-x^2 + \frac{b}{a}x + \frac{c}{a} = x^2 - 2xh + h^2 + \frac{k}{a}
+\frac{b}{a}x + \frac{c}{a} = - 2xh + h^2 + \frac{k}{a}
 $$
