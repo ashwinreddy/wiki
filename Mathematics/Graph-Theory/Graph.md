@@ -1,0 +1,1 @@
+A **graph** $G=(V, E)$ is a set of vertices $V$ and edges $E$.
