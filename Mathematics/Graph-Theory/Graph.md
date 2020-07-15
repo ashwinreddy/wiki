@@ -1,1 +1,1 @@
-A **graph** $G=(V, E)$ is a set of vertices $V$ and edges $E$.
+A **graph** $G=(V, E)$ is a set of vertices $V$ and edges $E \subset V \times V$.
