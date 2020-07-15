@@ -1,4 +1,4 @@
-In **reinforcement learning**, we have an agent (characterized by its [[policy]] $\pi$) in an environment looking to maximize reward: its objective is to maximize $J(\pi)$.
+In **reinforcement learning**, we have an agent (characterized by its [[policy]] $\pi$) in an environment looking to maximize reward. Its objective is to maximize $J(\pi)$:
 
 
 $$
