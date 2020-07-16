@@ -1,11 +1,11 @@
 A **probability density function (PDF/pdf)** captures the probability of a continuous [[random variable]].
 
 $$
-f : \Omega \to [0, \infty)
+f : \Omega \to [0, 1]
 $$
 
 \begin{equation}
-\int_\mathbb{R} \varphi(x)\\,\dd{x} = 1
+\int_\Omega \varphi = 1
 \end{equation}
 
 \begin{equation}
