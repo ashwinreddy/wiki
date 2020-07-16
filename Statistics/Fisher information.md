@@ -9,3 +9,5 @@ Formally, it is computed using the [[score]].
 $$
 \mathcal{I}\_X(\theta) \triangleq \mathbb{E}\_{p_\theta}[s(\theta)^2]
 $$
+
+[[https://gregorygundersen.com/blog/2019/11/21/fisher-information/]]
