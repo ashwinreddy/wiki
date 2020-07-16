@@ -13,6 +13,6 @@ Efficiency
 
 The Cramer-Rao inequality tells us that efficiency has an upper bound of 1.
 
-\begin{equation}
+$$
 e \leq 1
-\end{equation}
+$$
