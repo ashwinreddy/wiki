@@ -15,3 +15,4 @@ A cute way to compactly write this is
 |Property|Value|
 |--------|-----|
 |[[Expected value]]|$\mu$|
+|[[Variance]]|$\mu(1 - \mu)$|
