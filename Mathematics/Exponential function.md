@@ -12,6 +12,8 @@ However, it is most intuitively described by compound interest at infinite frequ
 e^x = \lim_{n \to \infty} \left(1 + \frac{x}{n}\right)^n
 \end{equation}
 
+Its inverse is the [[logarithm]]
+
 # Properties
 
 \begin{equation}
