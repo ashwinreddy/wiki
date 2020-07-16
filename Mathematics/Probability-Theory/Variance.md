@@ -21,3 +21,9 @@ Computationally, it is more convenient to write
 $$
 \mathbb{V}[X] = \mathbb{E}\left[X^2\right] - \mu^2
 $$
+
+# Properties
+
+$$
+\mathbb{V}[\alpha X] = \alpha^2 \mathbb{V}[X}]
+$$
