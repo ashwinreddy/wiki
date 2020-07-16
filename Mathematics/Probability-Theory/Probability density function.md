@@ -1,5 +1,9 @@
 A **probability density function (PDF/pdf)** captures the probability of a continuous [[random variable]].
 
+$$
+f : \Omega \to [0, \infty)
+$$
+
 \begin{equation}
 \int_\mathbb{R} \varphi(x)\\,\dd{x} = 1
 \end{equation}
