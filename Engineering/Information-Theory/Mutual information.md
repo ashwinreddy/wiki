@@ -3,3 +3,9 @@ The **mutual information** between [[random variables|random variable]] $X$ and 
 \begin{equation}
 I(X ; Y ) = D_{KL}( p_{(X, Y)} \parallel p_X p_Y )
 \end{equation}
+
+Mutual information is symmetric.
+
+$$
+I(X ; Y) = I(Y; X)
+$$
