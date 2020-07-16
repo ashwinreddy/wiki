@@ -25,5 +25,5 @@ $$
 # Properties
 
 $$
-\mathbb{V}[\alpha X] = \alpha^2 \mathbb{V}[X}]
+\mathbb{V}[\alpha X] = \alpha^2 \mathbb{V}[X]
 $$
