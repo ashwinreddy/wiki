@@ -1,0 +1,1 @@
+Chemical bonds include ionic and covalent.
