@@ -11,7 +11,7 @@ $$
 V^\pi(s) = \mathop{\mathbb{E}}_{a \sim \pi}\left[ Q^\pi(s, a) - \alpha \log \pi(a \mid s) \right]
 $$
 
-This is an expectation over actions sampled from the policy, but we use the [[reparameterization trick]] to make it an expectation over noise $\xi$. 
+This is an expectation over actions sampled from the policy, but we use the [[reparameterization trick]] to make it an expectation over Gaussian noise $\xi \sim \mathcal{N}(0, I)$. 
 
 $$
 \tilde{a}\_\theta(s, \xi) = \mu_\theta(s) + \sigma_\theta(s) \odot \xi
