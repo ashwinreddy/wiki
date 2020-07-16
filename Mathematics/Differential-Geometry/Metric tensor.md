@@ -5,3 +5,7 @@ g: TM \times TM \to \RR
 \end{equation}
 
 The metric is bilinear, symmetric, and nondegenerate.
+
+$$
+\cos\theta = {g(u, v) \over \sqrt{g(u, u)g(v,v)}}
+$$
