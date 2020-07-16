@@ -15,7 +15,3 @@ $$
 $$
 
 If we repeatedly apply $\mathcal{B}$ to an initial $Q$, the result will converge to $Q^\pi$.
-
-$$
-Q(s_t, a_t) = r(s_t, a_t) + \mathbb{E}\left[ \max_a Q(s_{t+1}, a_{t+1}) \right]
-$$
