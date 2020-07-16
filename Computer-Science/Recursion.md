@@ -1,0 +1,1 @@
+**Recursion** is defining an object in terms of itself.
