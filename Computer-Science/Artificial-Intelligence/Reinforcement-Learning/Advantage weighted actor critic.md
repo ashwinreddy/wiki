@@ -8,8 +8,10 @@ bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 The main difference is a new policy improvement optimization goal where we don't allow big steps from the buffer policy as measured by the [[KL divergence|Kullback-Leibler Divergence]]. Intuitively, we're only going to base our actions based off the dataset, whereas [[SAC|Soft Actor-Critic]] is totally unconstrained. The actions are always on distribution.
 
 
+The new objective for the actor update is given by the optimization problem below, where we constrain the steps.
+
 \begin{equation}
-\pi_{k + 1} = \arg\max_{\pi \in \Pi} \mathbb{E}\_{a \sim \pi(\cdot \mid s)} \left[ A^{\pi_k}(s, a) \right] \text{ s.t. } D_{KL}\left(\pi(\cdot \mid s) \parallel \pi_\beta(\cdot \mid s)\right) \leq \epsilon
+\max \mathbb{E}\_{a \sim \pi(\cdot \mid s)} \left[ A^{\pi_k}(s, a) \right] \text{ s.t. } D_{KL}\left(\pi(\cdot \mid s) \parallel \pi_\beta(\cdot \mid s)\right) \leq \epsilon
 \end{equation}
 
 
