@@ -6,6 +6,9 @@ $$
 
 However, if it were stochastic we would write $\pi\left(a \mid s\right)$.
 
+$$
+\pi : \mathcal{A} \to \Delta_{\mathcal{S}}
+$$
 
 A trajectory has an associated probability under a policy, which we can decompose using a [[/Mathematics/Probability-Theory/chain rule]]
 
