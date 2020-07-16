@@ -24,6 +24,12 @@ $$
 
 # Properties
 
+Clearly,
+
+$$
+\mathbb{V}[X] \geq 0
+$$
+
 $$
 \mathbb{V}[\alpha X] = \alpha^2 \mathbb{V}[X]
 $$
