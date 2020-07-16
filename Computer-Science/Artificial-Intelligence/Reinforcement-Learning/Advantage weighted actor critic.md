@@ -11,7 +11,7 @@ The main difference is a new policy improvement optimization goal where we don't
 The new objective for the actor update is given by the optimization problem below, where we constrain the steps.
 
 \begin{equation}
-\max \mathbb{E}\_{a \sim \pi(\cdot \mid s)} \left[ A^{\pi_k}(s, a) \right] \text{ s.t. } D_{KL}\left(\pi(\cdot \mid s) \parallel \pi_\beta(\cdot \mid s)\right) \leq \epsilon
+\max_\pi \mathbb{E}\_{a \sim \pi(\cdot \mid s)} \left[ A^{\pi_k}(s, a) \right] \text{ s.t. } D_{KL}\left(\pi(\cdot \mid s) \parallel \pi_\beta(\cdot \mid s)\right) \leq \epsilon
 \end{equation}
 
 
