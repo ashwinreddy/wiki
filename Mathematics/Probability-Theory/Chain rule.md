@@ -13,5 +13,5 @@ The **chain rule** in probability equates a [[joint probability distribution]] w
 In many,
 
 \begin{equation}
-\Pr\left( \bigcap_{k=1}^n X_k \right) = \prod_{k=1}^n \Pr\left( X_k \big\mid \bigcup_{j=1}^{k-1}X_j \right)
+\Pr\left( \bigcap_{k=1}^n X_k \right) = \prod_{k=1}^n \Pr\left( X_k \mid \bigcup_{j=1}^{k-1}X_j \right)
 \end{equation}
