@@ -14,7 +14,7 @@ $$
 This is an expectation over actions sampled from the policy, but we use the [[reparameterization trick]] to make it an expectation over noise $\xi$. 
 
 $$
-\tilde{a}_\theta(s, \xi) = \mu_\theta(s) + \sigma_\theta(s) \odot
+\tilde{a}\_\theta(s, \xi) = \mu_\theta(s) + \sigma_\theta(s) \odot
 $$
 
 We make the policy Gaussian and then represent this Gaussian using mean and variance and the standard normal distribution.
