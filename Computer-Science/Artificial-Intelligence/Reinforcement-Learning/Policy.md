@@ -1,4 +1,10 @@
-A **policy** $\pi$ completely characterizes an agent by telling us how it behaves in all scenarios. In the deterministic case, we would write $a = \pi(s)$. However, if it were stochastic we would write $\pi\left(a \mid s\right)$.
+A **policy** $\pi$ completely characterizes an agent by telling us how it behaves in all scenarios. In the deterministic case, we would write $a = \pi(s)$. 
+
+$$
+\pi : \mathcal{A} \to \mathcal{S}
+$$
+
+However, if it were stochastic we would write $\pi\left(a \mid s\right)$.
 
 
 A trajectory has an associated probability under a policy, which we can decompose using a [[/Mathematics/Probability-Theory/chain rule]]
