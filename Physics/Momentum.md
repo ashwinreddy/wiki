@@ -1,5 +1,5 @@
 **Momentum**
 
 $$
-p = mv
+\vec{p} = m\vec{v}
 $$
