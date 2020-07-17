@@ -1,0 +1,1 @@
+A **hedge** is an investment you make to offset or balance the risk of another position you took in the market.
