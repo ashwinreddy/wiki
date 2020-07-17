@@ -2,4 +2,4 @@
 
 Every timestep $t$ gets assigned an optimality random variable.
 
-[[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action_reward.png]]
+[[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action_reward.png|align=center,height=200px]]
