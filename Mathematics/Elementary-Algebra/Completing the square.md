@@ -1,5 +1,5 @@
-**Completing the square** is a technique for finding $h$ and $k$ for a quadratic polynomial such that
+**Completing the square** lets us find solutions to
 
 $$
-ax^2 + bx + c = a(x-h)^2 + k
+ax^2 + bx = k
 $$
