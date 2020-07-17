@@ -1,0 +1,1 @@
+**Generative adversarial networks (GANs)** are algorithms, introduced in .
