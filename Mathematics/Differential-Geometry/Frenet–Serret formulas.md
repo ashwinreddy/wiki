@@ -1,5 +1,5 @@
 **Frenet–Serret formulas**
 
 \begin{align}
-\dv{\vec{T}}{s} &= \kappa N
+\dv{\mathbf{T}}{s} &= \kappa N
 \end{align}
