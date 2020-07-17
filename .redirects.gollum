@@ -37,3 +37,5 @@ Engineering/Information-Theory/Kullback-Leibler divergence.md: Engineering/Infor
   divergence.md
 Engineering/Information-Theory/KL divergence.md: Engineering/Information-Theory/Kullback-Leibler
   divergence.md
+Engineering/Control-Theory/Linear–quadratic regulator.md: Engineering/Control-Theory/Linear
+  quadratic regulator.md
