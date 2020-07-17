@@ -1,7 +1,7 @@
 The **expected value** or **expectation** of a [[random variable]] collapses a distribution to a single representative, which we understand to be its mean. Notationally, the expectation tells you where to draw samples from and then an expression to compute with those samples and will then tell you what the expected average value of that expression is.
 
 \begin{equation}
-\mathbb{E}\left[X\right] = \sum_{x \in X} xp(x)
+\mathbb{E}\left[X\right] = \sum_{x \in \mathcal{X}} xp(x)
 \end{equation}
 
 \begin{equation}
