@@ -1,6 +1,6 @@
 **Control as inference** is a way of seeing reinforcement learning and/or optimal control through the lens of inference.
 
-Every timestep $t$ gets assigned an optimality random variable that depends on the state and the action taken.
+We introduce a notion of optimality into a graphical model via a binary random variable that depends on state and action taken.
 
 $$
 \Pr(e_t = 1 \mid S_t = s_t, A_t = a_t) = f(s_t, a_t)
