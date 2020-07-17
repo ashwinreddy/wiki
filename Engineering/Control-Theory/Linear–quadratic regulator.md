@@ -1,9 +1,1 @@
-$$
-\dot{x}_t = Ax_t + Bu_t\,.
-$$
-
-The goal of continuous-time LQR is to minimize
-
-$$
-J_{\text{LQR}}=\int_{0}^{\infty} (x_t^\top Qx_t + u_t^\top Ru_t) dt
-$$
+http://www.argmin.net/2020/07/08/gain-margin/
