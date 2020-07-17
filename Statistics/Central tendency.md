@@ -1,0 +1,1 @@
+Measures of **central tendency** include mean, median, and mode: [[http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/]]
