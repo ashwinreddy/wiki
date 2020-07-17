@@ -11,5 +11,5 @@ $$
 Suppose you have a [[trajectory]] $\tau$. The probability that every step was optimal is given by
 
 $$
-\Pr(\text{All } e_t = 1 \mid \tau) = \prod_{t=0}^T  
+\Pr(\text{All } e_t = 1 \mid \tau) = \prod_{t=0}^T f(s_t, a_t)
 $$
