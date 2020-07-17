@@ -2,4 +2,4 @@
 
 For a purely logical game like chess, an artificial intelligence can achieve superhuman performance simply by being able to think more steps ahead.
 
-[[http://www.argmin.net/assets/rl/taxonomy.png]]
+[[http://www.argmin.net/assets/rl/taxonomy.png|height=200px,align=center]]
