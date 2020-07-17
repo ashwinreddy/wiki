@@ -1,3 +1,3 @@
-<<Note("http://www.argmin.net/2020/07/08/gain-margin/")>>
+<<Note("www.argmin.net/2020/07/08/gain-margin/")>>
 
 <<Warn("he")>>
