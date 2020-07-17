@@ -24,4 +24,4 @@
     \ENDPROCEDURE
     \end{algorithmic}
     \end{algorithm}
-</pre>
+\</pre>
