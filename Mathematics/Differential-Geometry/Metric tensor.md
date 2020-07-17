@@ -8,6 +8,9 @@ $$
 \langle X, Y \rangle = \sum_{ij} g_{ij} X_i Y_j
 $$
 
+$$
+\dd{s}^2 = g_{ij} \dd{x}^i \dd{x}^j
+$$
 
 $$
 \cos\theta = {g(u, v) \over \sqrt{g(u, u)g(v,v)}}
