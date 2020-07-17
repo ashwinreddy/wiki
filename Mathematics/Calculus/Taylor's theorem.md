@@ -1,1 +1,1 @@
-**Taylor's theorem**
+**Taylor's theorem** tells us how good an approximation the Taylor polynomial, a truncation of the [[Taylor series]], will be.
