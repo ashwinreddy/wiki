@@ -1,1 +1,1 @@
-**Bubble sort** has time complexity $\order{}$
+**Bubble sort** has time complexity $\order{n^2}$
