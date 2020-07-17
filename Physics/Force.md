@@ -1,5 +1,5 @@
 A **force**
 
 $$
-[F] = \frac{ML}{T^2}
+\left[F\right] = \frac{ML}{T^2}
 $$
