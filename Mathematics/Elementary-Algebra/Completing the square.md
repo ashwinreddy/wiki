@@ -6,6 +6,6 @@ $$
 
 We realize that after dividing $a$ out, we can create a factorable quadratic on the LHS.
 
-$$
+\begin{align\*}
 x^2 + \frac{b}{a}x + \frac{b}{2a} = \frac{k}{a} + \frac{b}{2a}
-$$
+\end{align\*}
