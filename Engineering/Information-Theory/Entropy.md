@@ -30,3 +30,7 @@ $$
 $$
 
 And this has maximum entropy.
+
+# Resources
+
+* [[https://homes.cs.washington.edu/~ewein/blog/2020/07/14/entropy/]]
