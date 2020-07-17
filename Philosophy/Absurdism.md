@@ -1,1 +1,1 @@
-**Absurdism** 
+**Absurdism** is a philosophy
