@@ -1,4 +1,4 @@
-\<pre id="quicksort" style="display:hidden;">
+<pre id="quicksort" style="display:hidden;">
     % This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
     \begin{algorithm}
     \caption{Quicksort}
@@ -24,4 +24,4 @@
     \ENDPROCEDURE
     \end{algorithmic}
     \end{algorithm}
-\</pre>
+</pre>
