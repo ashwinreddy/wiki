@@ -9,3 +9,9 @@ R(\theta) = \begin{bmatrix}
 \sin\theta & \cos\theta
 \end{bmatrix}
 $$
+
+Or, we just write using $i = \begin{bmatrix}0 & -1 \\ 1 & 0 \end{bmatrix}$
+
+$$
+R = I \cos\theta + i\sin\theta
+$$
