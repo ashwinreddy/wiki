@@ -3,3 +3,6 @@ bibliography: "Computer-Science/Artificial-Intelligence/Machine-Learning/papers.
 ---
 
 **Generative adversarial networks (GANs)** are algorithms, introduced in @goodfellow2014generative.
+
+
+---
