@@ -15,13 +15,15 @@ $$
 a \times b = \begin{bmatrix} a_2 b_3 - a_3 b_2 \\\\\ a_3b_1 - a_1 b_3 \\\\\ a_1b_2 - a_2b_1 \end{bmatrix}
 $$
 
+Notice that it's linear in $b$, so
+
+\begin{equation}
+[\vec{a}]_{\times} = \begin{bmatrix}0 & -a_3 & a_2 \\\\\ a_3 & 0 & -a_1 \\\\\ -a_2 & a_1 & 0\end{bmatrix}
+\end{equation}
+
 A useful mnemonic is
 
 \begin{equation}
 \vec{a}\times\vec{b} = \begin{vmatrix} {\hat{\imath}} & \hat{\jmath} & \hat{k} \\\\\ a_1 & a_2 & a_3 \\\\\ b_1 & b_2 & b_3 \end{vmatrix}
 \end{equation}
 
-
-\begin{equation}
-[\vec{a}]_{\times} = \begin{bmatrix}0 & -a_3 & a_2 \\\\\ a_3 & 0 & -a_1 \\\\\ -a_2 & a_1 & 0\end{bmatrix}
-\end{equation}
