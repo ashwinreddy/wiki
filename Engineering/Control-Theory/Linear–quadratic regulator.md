@@ -1,3 +1,7 @@
+$$
+\dot{x}_t = Ax_t + Bu_t\,.
+$$
+
 The goal of continuous-time LQR is to minimize
 
 $$
