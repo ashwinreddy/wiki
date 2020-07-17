@@ -21,3 +21,5 @@ Suppose, for example, that we randomly take actions in a uniform manner. Then,
 $$
 p(\tau) \propto p(s_1) \prod_{t=0}^{T-1} p(s_{t+1} \mid s_t, a_t)
 $$
+
+With deterministic dynamics, every feasible trajectory has equal probability of being sampled.
