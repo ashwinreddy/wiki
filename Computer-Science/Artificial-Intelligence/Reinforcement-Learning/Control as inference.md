@@ -1,0 +1,1 @@
+**Control as inference** is a way of seeing reinforcement learning and/or optimal control through the lens of inference.
