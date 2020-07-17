@@ -1,1 +1,1 @@
-[[https://github.com/fastai/numerical-linear-algebra/]]
+https://github.com/fastai/numerical-linear-algebra/
