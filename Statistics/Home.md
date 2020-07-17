@@ -2,4 +2,4 @@
 
 # Resources
 
-[[https://seeing-theory.brown.edu/#secondPage]]
+[[https://seeing-theory.brown.edu/]]
