@@ -1,1 +1,1 @@
-[[https://sidsite.com/posts/autodiff/]]
+**Automatic differentiation** https://sidsite.com/posts/autodiff/
