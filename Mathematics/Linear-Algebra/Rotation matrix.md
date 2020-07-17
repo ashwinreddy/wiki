@@ -5,7 +5,7 @@ A **rotation matrix** is a [[matrix]] $A$ that represents a rotation in the sens
 In 2D, a rotation matrix for angle $\theta$,
 $$
 R(\theta) = \begin{bmatrix}
-\cos \theta & - \sin\theta \\
+\cos \theta & - \sin\theta \\\\\
 \sin\theta & \cos\theta
 \end{bmatrix}
 $$
