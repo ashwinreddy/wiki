@@ -7,4 +7,6 @@ bibliography: "./Mathematics/math.bib"
 > topology is the science of spatial properties that don't rely on measuring.
 
 
+[Cool demo](https://rreusser.github.io/explorations/sphere-eversion/)
+
 # Resources
