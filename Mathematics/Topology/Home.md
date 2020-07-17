@@ -7,7 +7,4 @@ bibliography: "./Mathematics/math.bib"
 > topology is the science of spatial properties that don't rely on measuring.
 
 
-
----
-
 # Resources
