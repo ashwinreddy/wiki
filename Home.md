@@ -9,6 +9,8 @@ This is the home page of my wiki!
 
 [[Bibliography]]
 
+[[Resources]]
+
 ---
 
 [[include:Philosophy]]
