@@ -1,4 +1,4 @@
-**Goodhart's law**
+**Goodhart's law** says
 
 > When a measure becomes a target, it ceases to be a good measure
 
