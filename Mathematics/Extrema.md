@@ -5,3 +5,7 @@ As this [post](http://caseychu.io/posts/minimum-and-maximum-of-two-functions/) p
 $$
 \max\left(f(x), g(x)\right) = { f(x) + g(x) \over 2} + { | f(x)-g(x)| \over 2}
 $$
+
+$$
+\min\left(f(x), g(x)\right) = { f(x) + g(x) \over 2} - { | f(x)-g(x)| \over 2}
+$$
