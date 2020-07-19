@@ -4,7 +4,7 @@ $$
 \Delta \theta \approx \alpha \pdv{F}{\theta}
 $$
 
-The vanilla algorithm consists of computing the [[gradient]] and taking a step in that direction, scaled by a factor $\alpha$.
+The vanilla algorithm consists of computing the [[gradient]] and taking a step in that direction, scaled by a positive definite factor $\alpha$.
 
 \begin{equation}
 \theta_{n+1} = \theta_n - \alpha \nabla F(\theta_n) \tag{Update Rule}
