@@ -10,6 +10,8 @@ $$
 \pi : \mathcal{A} \to \Delta_{\mathcal{S}}
 $$
 
+# Trajectories
+
 A choice of policy induces a distribution over trajectories, which we can decompose using a [[/Mathematics/Probability-Theory/chain rule]]
 
 \begin{equation}
