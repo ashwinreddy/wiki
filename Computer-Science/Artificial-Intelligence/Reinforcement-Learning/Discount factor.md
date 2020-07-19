@@ -1,0 +1,1 @@
+A **discount factor** is a scalar factor that incentivizes short time rewards and forces convergence in infinite horizon MDPs. The factor is typically denoted $\gamma \in (0, 1]$.
