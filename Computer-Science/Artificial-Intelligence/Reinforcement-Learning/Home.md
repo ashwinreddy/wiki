@@ -4,4 +4,6 @@ $$
 J(\pi) = \mathbb{E}\_{\tau \sim p_\pi(\tau)} \left[ \sum_{t=1}^T \gamma^t r(s_t, a_t) \right]
 $$
 
-[[https://spinningup.openai.com/en/latest/_images/rl_algorithms_9_15.svg]]
+# Algorithms
+
+[[https://spinningup.openai.com/en/latest/_images/rl_algorithms_9_15.svg|height=200px,align=center]]
