@@ -1,0 +1,1 @@
+The **p-norm** or **$\ell_p$ norm**
