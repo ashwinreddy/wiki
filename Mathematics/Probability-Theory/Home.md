@@ -4,4 +4,4 @@ Thus, understanding probability allows us to incorporate the uncertainty and giv
 
 # Resources
 
-* [Cheatlist](http://www.wzchen.com/probability-cheatsheet)
+* [Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
