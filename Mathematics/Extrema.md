@@ -1,0 +1,1 @@
+**Extrema** refer to **maxima** and **minima** of a function.
