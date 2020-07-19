@@ -1,0 +1,1 @@
+The **birthday paradox** is about the suprisingly high rate of growth of probability that any two people in a room of $n$ share a birthday with respect to $n$.
