@@ -1,0 +1,1 @@
+**Residual neural network (ResNet)** has skip connections.
