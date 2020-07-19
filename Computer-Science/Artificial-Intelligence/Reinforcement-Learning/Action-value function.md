@@ -1,4 +1,4 @@
-The **action-value function** or **Q-function** for a [[Markov decision process]] is the expected return after taking action $a$ in state $s$. 
+The **action-value function** or **state-action value function** or **Q-function** for a [[Markov decision process]] is the expected return after taking action $a$ in state $s$. 
 
 \begin{align\*}
 Q: \mathcal{S} \times \mathcal{A} &\to \mathbb{R} \\\\\
