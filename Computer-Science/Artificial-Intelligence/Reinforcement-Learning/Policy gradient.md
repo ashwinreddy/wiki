@@ -2,17 +2,19 @@
 bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
-A **policy gradient** method tries to adjust the parameters $\theta$ to [[policy]] $\pi_\theta$ to optimize the objective $J$ via the gradient. We can pick $J$ as the expected return or some other variant of the return. For example, we could choose to give a reward for a trajectory just by summing undiscounted rewards.
+A **policy gradient** method tries to adjust the parameters $\theta$ to [[policy]] $\pi_\theta$ to optimize the objective $J$ via the gradient. We can pick $J$ as the expected return or some other variant of the return. 
+
+$$
+J(\theta) = \mathbb{E}\_{\tau \sim \pi_\theta}\left[r(\tau) \right]
+$$
+
+And for $r$ we could choose to give a reward for a trajectory just by summing undiscounted rewards.
 
 $$
 r(\tau) = \sum_{t=1}^T r(s_t, a_t)
 $$
 
 The objective is to make the average return as high as possible. Let us treat the policy $\pi_\theta$ as a distribution over possible trajectories $\tau$.
-
-$$
-J(\theta) = \mathbb{E}\_{\tau \sim \pi_\theta}\left[r(\tau) \right]
-$$
 
 $$
 \theta^\star = \arg\max_\theta J(\theta)
