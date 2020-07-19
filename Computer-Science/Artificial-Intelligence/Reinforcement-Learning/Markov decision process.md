@@ -7,5 +7,5 @@ A **Markov decision process** is a way of modeling an environment.
 
 Other elements that show up are
 
-* Discount factor $\gamma$
+* [[Discount factor]] $\gamma$
 * Initial state distribution $d_0$
