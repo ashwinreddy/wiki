@@ -10,8 +10,10 @@ bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 @levine2020offline provides a complete description. Basically, the algorithm just repeats the same loop of policy evaluation and then optimization to reduce the mean squared Bellman error.
 
 1. For $k$ in $0$ to $K$,
-    1. Run $S$ steps of policy and put transitions in replay buffer
+    1. Run $S$ steps of policy and put transitions in replay buffer.
     2. Do $G$ steps of gradient descent.
-        1. Sample batch $B \subset $ 
+        1. Sample batch $B \subset \mathcal{D}$.
+        2. Estimate MSBE.
+        3. Update weights to Q-function to minimize MSBE.
 
 ---
