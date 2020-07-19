@@ -3,7 +3,7 @@ A **Markov decision process** is a way of modeling an environment.
 * Set of states $\mathcal{S}$
 * Set of actions $\mathcal{A}$
 * Transition probability $T$
-* Reward function $r$
+* [[Reward function]] $r$
 
 Other elements that show up are
 
