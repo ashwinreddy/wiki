@@ -5,7 +5,7 @@ bibliography: 'Computer-Science/Artificial-Intelligence/Reinforcement-Learning/p
 **Deep deterministic policy gradient (DDPG)** [@lillicrap2015continuous] is an [[actor-critic]] algorithm with a deterministic policy $\mu$. That means
 
 $$
-Q^\mu(s_t, a_t) = \mathbb{E}\_{r_t, s_{t+1} \sim E}\left[ r(s_t, a_t) + \gamma Q^\mu(s_{t+1}, \mu(s_{t+1})) \right]
+Q^\mu(s_t, a_t) = \mathbb{E}\_{r_t, s_{t+1} \sim E}\left[ r(s_t, a_t) + \gamma Q^\mu\left(s_{t+1}, \mu(s_{t+1})\right) \right]
 $$
 
 
