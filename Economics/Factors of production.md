@@ -2,4 +2,4 @@
 
 1. Land
 2. Labor
-3. Stock
+3. Capital
