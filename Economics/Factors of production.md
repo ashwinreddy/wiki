@@ -1,0 +1,1 @@
+**Factors of production** / **resources** / **inputs** are what we use in production.
