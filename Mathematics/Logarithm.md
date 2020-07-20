@@ -16,6 +16,8 @@ Common bases are 2, $e$, and 10. To write these succinctly, we use $\lg$, $\ln$,
 \log_b x = \frac{\ln x}{\ln b} \tag{Change of Base}
 \end{equation}
 
+We can easily verify it is true with more familiar exponential rules:
+
 $$
 x = \left(e^{\ln b}\right)^{\ln x \over \ln b }
 $$
