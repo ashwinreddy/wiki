@@ -1,0 +1,1 @@
+> Markov Chain Monte Carlo is a technique to solve the problem of _sampling from a complicated distribution_. 
