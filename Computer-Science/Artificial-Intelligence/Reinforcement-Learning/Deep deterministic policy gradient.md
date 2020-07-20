@@ -15,5 +15,9 @@ $$
 \arg\max_\theta \mathop{\mathbb{E}}_{s \sim \mathcal{D}}\left[ Q_\phi \left( s, \mu_\theta(s) \right) \right]
 $$
 
+# Algorithm
+
+1. Initialize actor and critic.
+
 
 ---
