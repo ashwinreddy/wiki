@@ -4,11 +4,6 @@ A **logarithm** is the inverse of an [[exponential function]], meaning for a cho
 b^{\log_b a } \equiv a
 \end{equation}
 
-> The log of products is the sum of logs.
-
-\begin{equation}
-\log \prod_i x_i = \sum_i \log x_i
-\end{equation}
 
 Common bases are 2, $e$, and 10. To write these succinctly, we use $\lg$, $\ln$, and $\log$, respectively. However, all logarithms are equivalent up to a factor, which allows us to use one of these common bases in any scenario.
 
@@ -23,3 +18,12 @@ x = \left(e^{\ln b}\right)^{\ln x \over \ln b }
 $$
 
 The logarithm in any base of 0 is undefined.
+
+
+# Properties
+
+> The log of products is the sum of logs.
+
+\begin{equation}
+\log \prod_i x_i = \sum_i \log x_i
+\end{equation}
