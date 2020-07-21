@@ -9,3 +9,6 @@ Other elements that show up are
 
 * [[Discount factor]] $\gamma$
 * Initial state distribution $d_0$
+
+
+https://ai.stanford.edu/~gwthomas/notes/mdps.pdf
