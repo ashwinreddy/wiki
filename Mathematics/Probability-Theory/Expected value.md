@@ -11,7 +11,7 @@ The **expected value** or **expectation** of a [[random variable]] collapses a d
 In terms of the [[cumulative distribution function]],
 
 $$
-\mathrm{E}[X] = \int_\bar{\RR} x \dd{F(x)}
+\mathrm{E}[X] = \int_\bar{\RR} x\\, \dd{F(x)}
 $$
 
 # Properties
