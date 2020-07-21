@@ -11,7 +11,7 @@ The **expected value** or **expectation** of a [[random variable]] collapses a d
 In terms of the [[cumulative distribution function]],
 
 $$
-\expect{2}
+\order{3}
 $$
 
 # Properties
