@@ -11,7 +11,7 @@ The **expected value** or **expectation** of a [[random variable]] collapses a d
 In terms of the [[cumulative distribution function]],
 
 $$
-\expectation{3}
+\mathrm{E}[X] = \int_\RR x \dd{F(x)}
 $$
 
 # Properties
