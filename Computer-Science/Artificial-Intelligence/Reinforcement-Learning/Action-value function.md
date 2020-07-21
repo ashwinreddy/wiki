@@ -7,7 +7,7 @@ $$
 It is related to the [[value function]].
 
 \begin{equation}
-Q^\pi(s, a) = \mathbb{E}_{\tau \sim \pi}\left[R(\tau) \mid s_0 = s, a_0 = a\right]
+Q^\pi(s, a) = \mathop{\mathbb{E}}_{\tau \sim \pi}\left[R(\tau) \mid s_0 = s, a_0 = a\right]
 \end{equation}
 
 If you have the optimal $Q^\star$, then optimal actions $a^\star(s)$ are given by
