@@ -11,5 +11,5 @@ F_X(x) = \int_{-\infty}^{x} f_X(u) \\, \dd{u}
 \end{equation}
 
 $$
-\dv{F_X(x)}{x} = f(x)
+\dv{F_X(x)}{x} = f_X(x)
 $$
