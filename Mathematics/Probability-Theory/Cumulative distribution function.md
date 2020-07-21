@@ -1,4 +1,4 @@
-The **cumulative distribution function**
+The **cumulative distribution function (CDF)**
 
 \begin{equation}
 F_X(x) = \Pr(X \leq x)
