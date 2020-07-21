@@ -8,6 +8,11 @@ The **expected value** or **expectation** of a [[random variable]] collapses a d
 \mathbb{E}\left[X\right] = \int x p(x) \dd{x}
 \end{equation}
 
+In terms of the [[cumulative distribution function]],
+
+$$
+$$
+
 # Properties
 
 * Expectation is a linear operator.
