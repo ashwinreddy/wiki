@@ -13,7 +13,7 @@ window.MathJax = {
             dv: ['{\\frac{\\dd{#1}}{\\dd{#2}}}', 2],
  	        pdv: ['{\\frac{\\partial{#1}}{\\partial{#2}}}', 2],
             order: ['{\\mathcal{O}\\left(#1\\right)}', 1],
-	   expect: [ '{\mathbb{E}\left[ #1  \right]}', 1 ]
+	   expect: ['{\\mathbb{E}\\left[#1\\right]}', 1 ]
       }
     },
     loader: {load: ['[tex]/physics']},
