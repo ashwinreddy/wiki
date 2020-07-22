@@ -1,5 +1,5 @@
 **Power** is the rate of work.
 
 $$
-P = \dv{W}{t}
+P \doteq \dv{W}{t}
 $$
