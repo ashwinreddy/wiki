@@ -5,5 +5,5 @@ P \doteq \dv{W}{t}
 $$
 
 $$
-P = \dv{}{t}\int_{\Delta t} \vec{F}\cdot\vec{v} \dd{t}
+P = \dv{}{t}\int_{\Delta t} \vec{F}\cdot\vec{v}\\, \dd{t}
 $$
