@@ -8,8 +8,8 @@ $$
 Q^\pi(s, a) = \mathop{\mathbb{E}}_{\tau \sim \pi}\left[R(\tau) \mid s_0 = s, a_0 = a\right]
 \end{equation}
 
-It is related to the [[value function]].
 
+The [[Bellman equation]] gives us a recursive relationship for the Q-function.
 
 
 If you have the optimal $Q^\star$, then optimal actions $a^\star(s)$ are given by
@@ -17,5 +17,3 @@ If you have the optimal $Q^\star$, then optimal actions $a^\star(s)$ are given b
 $$
 a^\star(s) = \arg\max_a Q^\star(s, a)
 $$
-
-The [[Bellman equation]] gives us a recursive relationship for the Q-function.
