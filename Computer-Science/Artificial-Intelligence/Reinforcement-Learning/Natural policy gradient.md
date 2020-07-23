@@ -40,6 +40,8 @@ $$
 \widetilde\nabla \eta(\theta) = F(\theta)^{-1} \nabla \eta(\theta)
 $$
 
+# Properties
 
+One nice property is that we can show that approximating the Q function by $f(s, a; \omega) = \omega^\mathsf{T}\nabla\log \pi(a\mid s, \theta)$  is optimal if we pick weights $\tilde\omega = \widetilde \nabla \eta(\theta)$.
 
 ---
