@@ -45,3 +45,7 @@ def rotate_vector(vector, axis, angle):
     quaternion = cos(angle / 2) + axis * sin(angle / 2)
     return quaternion * vector * inverse(quaternion)
 ```
+
+# Resources
+
+* [[https://fexpr.blogspot.com/2014/03/the-great-vectors-versus-quaternions.html]]
