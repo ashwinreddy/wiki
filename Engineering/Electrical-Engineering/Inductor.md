@@ -1,0 +1,1 @@
+An **inductor** resists change in [[electric current]].
