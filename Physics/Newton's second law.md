@@ -3,3 +3,9 @@
 \begin{equation}
 \vec{F} = \dv{\vec{p}}{t}
 \end{equation}
+
+For constant mass, this reduces to [[mass]] times [[acceleration]].
+
+$$
+F = ma
+$$
