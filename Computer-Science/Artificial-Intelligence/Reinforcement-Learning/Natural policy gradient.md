@@ -19,7 +19,7 @@ $$
 We could use the Hessian of $\eta$, but this is a little too complicated and may not be appropriate.
 
 $$
-\nabla^2 \eta(\theta) = sum_{s,a} \rho^\pi(s)\left[ \nabla^2 \pi(a \mid s) Q^\pi(s, a) + \nabla \pi(a \mid s) \nabla Q\^\pi(s,a)^\mathsf{T} + \nabla Q^\pi(s,a)\nabla \pi(s,a)^\mathsf{T} \right]
+\nabla^2 \eta(\theta) = \sum_{s,a} \rho^\pi(s)\left[ \nabla^2 \pi(a \mid s) Q^\pi(s, a) + \nabla \pi(a \mid s) \nabla Q\^\pi(s,a)^\mathsf{T} + \nabla Q^\pi(s,a)\nabla \pi(s,a)^\mathsf{T} \right]
 $$
 
 ---
