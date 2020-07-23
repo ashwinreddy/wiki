@@ -9,3 +9,7 @@ Mutual information is clearly symmetric.
 $$
 I(X ; Y) = I(Y; X)
 $$
+
+\begin{equation}
+I(X: Y) \leq \mathcal{H}(X)
+\end{equation}
