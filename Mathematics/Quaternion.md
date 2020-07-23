@@ -14,6 +14,8 @@ This equation defines the basis elements for the quaternions, which we now defin
 
 ## Multiplication
 
+Includes [[dot product]] and [[cross product]]
+
 $$
 (r_1, \vec{v}_1) \cdot (r_2, \vec{v}_2) = (r_1r_2 - \vec{v}_1\cdot\vec{v}_2, r_1 \vec{v}_2 + r_2\vec{v}_1 + \vec{v}_1 \times \vec{v}_2)
 $$
