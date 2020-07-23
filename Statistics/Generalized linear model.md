@@ -1,1 +1,1 @@
-**Generalized linear model**
+**Generalized linear model** is linear regression with different responses.
