@@ -1,4 +1,4 @@
-**Frenet–Serret formulas** provide a [[frame]]
+**Frenet–Serret formulas** provide a [[tangent vector]]
 
 \begin{align}
 \dv{\mathbf{T}}{s} &= & \kappa \mathbf{N} \\\\\
