@@ -1,0 +1,1 @@
+An **artificial neural network (ANN)** or simply **neural network** is a model vaguely representing neurons in the brain.
