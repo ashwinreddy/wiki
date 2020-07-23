@@ -1,1 +1,1 @@
-An **electric potential energy** is a [[potential energy]].
+An **electric potential energy** $U_e$ is a [[potential energy]]. From [[Coulomb's law]]
