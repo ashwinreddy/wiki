@@ -1,4 +1,4 @@
-A **probability density function (PDF/pdf)** captures the probability of a continuous [[random variable]].
+A **probability density function (PDF/pdf)** is a [[function]] captures the probability of a continuous [[random variable]].
 
 $$
 f : \Omega \to [0, 1]
