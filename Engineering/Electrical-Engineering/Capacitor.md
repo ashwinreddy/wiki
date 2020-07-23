@@ -1,4 +1,4 @@
-A **capacitor** stores charge.
+A **capacitor** stores [[electric charge]].
 
 \begin{equation}
 C = \frac{q}{V}
