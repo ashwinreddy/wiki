@@ -1,4 +1,4 @@
-The **divergence** measures the the attraction or repulsion of a point.
+The **divergence** of a [[vector field]] measures the the attraction or repulsion of a point.
 
 
 \begin{equation}
