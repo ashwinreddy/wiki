@@ -4,3 +4,4 @@
 * [Probability Theory](./Probability-Theory/)
 * [Category Theory](./Category-Theory/)
 * [Calculus](./Calculus/)
+* [Number Theory](./Number-Theory/)
