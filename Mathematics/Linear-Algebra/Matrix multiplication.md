@@ -1,4 +1,4 @@
-**Matrix multiplication** is an operation
+**Matrix multiplication** is an operation between an $\ell \times m$ [[matrix]] and $m \times n$ matrix.
 
 \begin{equation}
 \cdot : M_{\ell \times m}(F) \times M_{m \times n}(F) \to M_{\ell \times n}(F)
