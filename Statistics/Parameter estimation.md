@@ -1,1 +1,0 @@
-**Parameter estimation** is trying to estimate parameter $\theta$ from observations $\vec{x}$ that we think come from a model $P\left(\vec{x} \mid \theta\right)$.
