@@ -1,0 +1,1 @@
+**Lagrangian mechanics** is similar to [[Hamiltonian mechanics]]
