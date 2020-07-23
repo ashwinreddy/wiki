@@ -1,0 +1,1 @@
+**Potential energy** is [[energy]] from the configuration of a state.
