@@ -34,6 +34,8 @@ $$
 F(\theta) = \mathbb{E}_{\rho^\pi(s)}\left[ F_s(\theta) \right]
 $$
 
+This gives us the natural policy gradient.
+
 $$
 \widetilde\nabla \eta(\theta) = F(\theta)^{-1} \nabla \eta(\theta)
 $$
