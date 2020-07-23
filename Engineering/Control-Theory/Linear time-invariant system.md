@@ -1,1 +1,1 @@
-A **linear time-invariant system** is [[linear]] and time-invariant.
+A **linear time-invariant system** is [[linear system]] and time-invariant.
