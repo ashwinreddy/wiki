@@ -4,7 +4,7 @@
 \cdot : M_{\ell \times m}(F) \times M_{m \times n}(F) \to M_{\ell \times n}(F)
 \end{equation}
 
-I like to remember this by writing out the following:
+I like to remember this by writing out the following mnemonic:
 
 $$
 (\ell \times m) \times (m \times n) = (\ell \times n)
