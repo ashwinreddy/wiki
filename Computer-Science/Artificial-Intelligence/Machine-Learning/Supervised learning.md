@@ -5,4 +5,4 @@
 \end{equation}
 
 
-It can be thought of as a [[maximum likelihood estimation]]
+It can be thought of as a [[maximum likelihood estimation]] problem.
