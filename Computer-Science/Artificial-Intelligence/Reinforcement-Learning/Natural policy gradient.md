@@ -16,6 +16,8 @@ $$
 
 <<Warn("There's some weird notation choice here with Q")>>
 
+Standard [[gradient descent]]
+
 We could use the Hessian of $\eta$, but this is a little too complicated and may not be appropriate.
 
 $$
