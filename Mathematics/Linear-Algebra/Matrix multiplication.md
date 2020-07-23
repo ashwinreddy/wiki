@@ -16,4 +16,4 @@ Formally, the operation is defined by the equation below, but it tends not to be
 \left(AB\right)\_{ij} = \sum\_{k=1}^n A_{ik}B_{kj} 
 \end{equation}
 
-If both matrices are $n \times n$ then this naive computation will take $\order{n^3}$ time.
+If both matrices are $n \times n$ then this naive [[algorithm]] computation will take $\order{n^3}$ time.
