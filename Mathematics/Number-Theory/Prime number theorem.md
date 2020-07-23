@@ -1,1 +1,1 @@
-[[https://www.quantamagazine.org/mathematicians-will-never-stop-proving-the-prime-number-theorem-20200722/]]
+https://www.quantamagazine.org/mathematicians-will-never-stop-proving-the-prime-number-theorem-20200722/
