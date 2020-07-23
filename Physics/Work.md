@@ -1,4 +1,4 @@
-**Work** is a change in [[energy]].
+**Work** is a change in [[kinetic energy]].
 
 \begin{equation}
 \sum_i W_i = \Delta K
