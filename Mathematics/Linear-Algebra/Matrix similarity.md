@@ -1,4 +1,4 @@
-**Matrix similarity** is an [[equivalence relation]] for [[square matrices|square matrix]]: $\bf A$ and $\bf B$ are similar if there is an [[invertible matrix]] $\bf P$ such that
+**Matrix similarity** is an [[equivalence relation]] for [[square matrix]] $A$ and square matrix $B$: $\bf A$ and $\bf B$ are similar if there is an [[invertible matrix]] $\bf P$ such that
 
 \begin{equation}
 \bf{A=P^{-1}BP}
