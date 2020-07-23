@@ -4,7 +4,7 @@ $$
 \pi : \mathcal{A} \to \mathcal{S}
 $$
 
-However, if it were stochastic we would write $\pi\left(a \mid s\right)$.
+However, if it were stochastic we would write $\pi\left(a \mid s\right)$ to indicate it is a [[conditional distribution]].
 
 $$
 \pi : \mathcal{A} \to \Delta_{\mathcal{S}}
