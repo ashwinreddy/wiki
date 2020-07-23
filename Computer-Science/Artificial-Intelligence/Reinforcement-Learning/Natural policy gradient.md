@@ -42,6 +42,6 @@ $$
 
 # Properties
 
-One nice property is that we can show that approximating the Q function by $f(s, a; \omega) = \omega^\mathsf{T}\nabla\log \pi(a\mid s, \theta)$  is optimal if we pick weights $\tilde\omega = \widetilde \nabla \eta(\theta)$.
+One nice property is that we can show that approximating the Q function by $f(s, a; \omega) = \omega^\mathsf{T}\nabla\log \pi(a\mid s, \theta)$  is optimal if we pick weights $\tilde\omega = \widetilde \nabla \eta(\theta)$. Another property is that following the natural gradient leads to a greedy policy, one that takes the action that maximizes this approximation.
 
 ---
