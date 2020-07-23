@@ -1,4 +1,4 @@
-A **Markov decision process** is a way of modeling an environment.
+A **Markov decision process** is a way of modeling an environment. Assume [[Markov property]].
 
 * Set of states $\mathcal{S}$
 * Set of actions $\mathcal{A}$
