@@ -1,1 +1,1 @@
-**Controllability** is a property for a control system that any state can be reached.
+**Controllability** is a property for a control system that any state can be reached. A system is controllable if the controllability matrix has full [[rank]].
