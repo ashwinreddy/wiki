@@ -22,7 +22,11 @@ $$
 \nabla^2 \eta(\theta) = \sum_{s,a} \rho^\pi(s)\left[ \nabla^2 \pi(a \mid s) Q^\pi(s, a) + \nabla \pi(a \mid s) \nabla Q\^\pi(s,a)^\mathsf{T} + \nabla Q^\pi(s,a)\nabla \pi(s,a)^\mathsf{T} \right]
 $$
 
-The suggestion here is to use [[Fisher information]].
+The suggestion here is to use [[Fisher information]]. Let 
+
+$$
+F_s(\theta) = \mathbb{E}_{\pi(a \mid s, \theta)}\left[ \frac{\partial \log \pi(a \mid s, \theta)}{\partial \theta_i}\frac{\partial \log \pi(a \mid s, \theta)}{\partial \theta_j} \right]
+$$
 
 $$
 \widetilde\nabla \eta(\theta) = F(\theta)^{-1} \nabla \eta(\theta)
