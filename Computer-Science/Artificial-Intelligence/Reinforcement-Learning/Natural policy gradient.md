@@ -22,11 +22,13 @@ $$
 \nabla^2 \eta(\theta) = \sum_{s,a} \rho^\pi(s)\left[ \nabla^2 \pi(a \mid s) Q^\pi(s, a) + \nabla \pi(a \mid s) \nabla Q\^\pi(s,a)^\mathsf{T} + \nabla Q^\pi(s,a)\nabla \pi(s,a)^\mathsf{T} \right]
 $$
 
-The suggestion here is to use [[Fisher information]]. Let 
+The suggestion here is to use [[Fisher information]]. We can only compute this conditioned on $s$, however: 
 
 $$
 F_s(\theta) = \mathbb{E}_{\pi(a \mid s, \theta)}\left[ \frac{\partial \log \pi(a \mid s, \theta)}{\partial \theta_i}\cdot\frac{\partial \log \pi(a \mid s, \theta)}{\partial \theta_j} \right]
 $$
+
+We can get a metric without dependence on $s$ through an [[expected value]].
 
 $$
 F(\theta) = \mathbb{E}_{\rho^\pi(s)}\left[ F_s(\theta) \right]
