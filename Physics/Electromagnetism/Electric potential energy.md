@@ -1,1 +1,1 @@
-An **electric potential energy** is [[potential energy]].
+An **electric potential energy** is a [[potential energy]].
