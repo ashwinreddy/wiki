@@ -1,1 +1,0 @@
-A **multi-index** is a mathematical object that describes indexing into a multidimensional array.
