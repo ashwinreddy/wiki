@@ -35,7 +35,7 @@ $$
 \nabla_\theta J(\theta) = \int \nabla_\theta \pi_\theta(\tau) r(\tau) \dd{\tau}
 $$
 
-However, we can't compute $\pi_\theta(\tau)$ without knowing the transition probabilities, which requires a model. We need to change this so that it only requires $\pi_\theta(a \mid s)$ evaluations. We can use the grad-log trick:
+However, we can't compute $\pi_\theta(\tau)$ without knowing the transition probabilities, which requires a model. We need to change this so that it only requires $\pi_\theta(a \mid s)$ evaluations. We can use the grad-log trick, which is just a [[logarithmic derivative]]:
 
 $$
 \nabla_\theta J(\theta) = \int \pi_\theta(\tau)\nabla_\theta \log \pi_\theta(\tau) r(\tau) \dd{\tau}
