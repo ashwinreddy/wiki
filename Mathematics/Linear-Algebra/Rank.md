@@ -1,4 +1,4 @@
-The **rank** of a matrix is the dimension of its [[range]].
+The **rank** of a matrix is the dimension of its [[range]], a count of the number of [[linearly independent|linear depenendence]] elements.
 
 \begin{equation}
 \operatorname{rank} A \doteq \dim \mathcal{R}(A)
