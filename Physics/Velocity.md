@@ -1,5 +1,5 @@
 **Velocity** is the derivative of position.
 
 $$
-v = \dv{x}{t}
+v = \dot{x} = \dv{x}{t}
 $$
