@@ -3,3 +3,7 @@ The **exponential family** consists of [[probability distributions|probability d
 $$
 f(x \mid \theta) = h(x)\exp\big\\{\eta(x)T(x) -A(\theta)\big\\}
 $$
+
+* [[normal distribution]]
+* [[Poisson distribution]]
+* [[Bernoulli distribution]]
