@@ -4,6 +4,8 @@ The **mutual information** between [[random variables|random variable]] $X$ and 
 I(X ; Y ) = D_{KL}( p_{(X, Y)} \parallel p_X p_Y )
 \end{equation}
 
+It is connected to [[entropy]].
+
 $$
 I(X: Y) \leq \mathcal{H}(X)
 $$
