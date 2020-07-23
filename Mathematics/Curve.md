@@ -1,4 +1,4 @@
-A **curve** is a map from the unit interval to a [[manifold]].
+A **curve** is a map from the [[unit interval]] to a [[manifold]].
 
 $$
 \gamma : I \to X
