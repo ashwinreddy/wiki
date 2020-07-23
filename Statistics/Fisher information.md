@@ -11,3 +11,4 @@ $$
 $$
 
 [[https://gregorygundersen.com/blog/2019/11/21/fisher-information/]]
+[[https://wiseodd.github.io/techblog/2018/03/11/fisher-information/]]
