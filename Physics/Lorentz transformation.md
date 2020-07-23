@@ -4,3 +4,5 @@ The **Lorentz transformation** tells you how to change your coordinate system to
 x' &= \gamma(x-vt) \\\\\
 t' &= \gamma(t-vx/c^2)
 \end{align}
+
+[[Galilean transformation]]
