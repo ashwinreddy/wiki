@@ -1,1 +1,1 @@
-A **physical object** has [[mass]] and [[volume]].
+A **physical object** has [[mass]].
