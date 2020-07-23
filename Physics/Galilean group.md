@@ -1,4 +1,4 @@
-The **Galilean group** is a [[group]]
+The **Galilean group** is the [[group]] of [[Galilean transformations|Galilean transformation]].
 
 |Difference|Parameter|Dimension|Description|
 |:--------|----------|---------|-----------|
