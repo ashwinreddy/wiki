@@ -1,4 +1,4 @@
-**Coulomb's law** says that the [[electric force]] obeys an inverse square law.
+**Coulomb's law** describes the attraction/repulsion of [[electric charge]], it says that the electric force obeys an inverse square law.
 
 $$
 F_e = k\frac{q_1q_2}{r^2}
