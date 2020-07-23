@@ -4,4 +4,4 @@
 \mathsf{LogSumExp}\left(\vec{x} \right) \doteq \log \sum_{i} \exp(x_i)
 \end{equation}
 
-This creates a [[probability mass function]].
+This creates a soft approximation to the maximum.
