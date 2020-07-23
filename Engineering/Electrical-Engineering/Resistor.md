@@ -1,0 +1,1 @@
+A **resistor** obeys [[Ohm's law]]
