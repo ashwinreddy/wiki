@@ -1,1 +1,1 @@
-**Function composition** is the subsequent application of [[function]].
+**Function composition** is the subsequent application of a [[function]].
