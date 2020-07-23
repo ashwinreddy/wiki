@@ -1,1 +1,0 @@
-**Temperature** is a measure of average kinetic energy.
