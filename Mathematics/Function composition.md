@@ -1,0 +1,1 @@
+**Function composition** is the subsequent application of [[function]].
