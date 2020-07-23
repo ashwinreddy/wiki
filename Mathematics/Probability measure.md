@@ -1,1 +1,0 @@
-**Probability measure** is a function $P: F \to \RR$ for event space $F$ such that axioms of probability satisfied.
