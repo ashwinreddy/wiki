@@ -1,1 +1,1 @@
-A **linear map** is a function $f: V \to W$ for [[vector spaces|vector space]] $V$ and $W$ that respects linear combinations.
+A **linear map** is a function $f: V \to W$ for [[vector spaces|vector space]] $V$ and $W$ that respects linear combinations. Can be represented by [[matrix]].
