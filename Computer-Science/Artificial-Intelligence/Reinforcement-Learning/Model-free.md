@@ -1,1 +1,0 @@
-A **model-free** [[reinforcement learning]] algorithm makes no attempt to capture the environment dynamics.
