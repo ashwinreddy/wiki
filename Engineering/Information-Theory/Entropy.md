@@ -34,3 +34,4 @@ And this has maximum entropy.
 # Resources
 
 * [[https://homes.cs.washington.edu/~ewein/blog/2020/07/14/entropy/]]
+* [[https://longintuition.com/2020/07/20/max-entropy-intuition.html]]
