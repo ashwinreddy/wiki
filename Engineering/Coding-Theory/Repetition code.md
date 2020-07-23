@@ -1,1 +1,0 @@
-A **repetition code** just repeats a message several times.
