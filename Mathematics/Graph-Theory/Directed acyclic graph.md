@@ -1,1 +1,1 @@
-A **directed acyclic graph (DAG/dag)**
+A **directed acyclic graph (DAG/dag)** is a kind of [[graph]]
