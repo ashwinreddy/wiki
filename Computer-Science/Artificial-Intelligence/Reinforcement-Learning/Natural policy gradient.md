@@ -25,7 +25,7 @@ $$
 The suggestion here is to use [[Fisher information]]. Let 
 
 $$
-F_s(\theta) = \mathbb{E}_{\pi(a \mid s, \theta)}\left[ \frac{\partial \log \pi(a \mid s, \theta)}{\partial \theta_i}\frac{\partial \log \pi(a \mid s, \theta)}{\partial \theta_j} \right]
+F_s(\theta) = \mathbb{E}_{\pi(a \mid s, \theta)}\left[ \frac{\partial \log \pi(a \mid s, \theta)}{\partial \theta_i}\cdot\frac{\partial \log \pi(a \mid s, \theta)}{\partial \theta_j} \right]
 $$
 
 $$
