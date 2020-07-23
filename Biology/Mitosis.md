@@ -5,3 +5,5 @@
 3. Metaphase
 2. Anaphase
 3. Telophase / Cytokinesis
+
+Each daughter cell will have its own set of [[chromosome]].
