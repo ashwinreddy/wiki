@@ -10,6 +10,8 @@ This equation defines the basis elements for the quaternions, which we now defin
 \mathbb{H} \doteq \mathbb{R} + \mathbb{R}i +\mathbb{R}j + \mathbb{R}k
 \end{equation}
 
+[[_TOC_]]
+
 # Operations
 
 ## Multiplication
