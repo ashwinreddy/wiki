@@ -1,1 +1,1 @@
-The **Levi-Civita symbol**
+The **Levi-Civita symbol** is a [[tensor]].
