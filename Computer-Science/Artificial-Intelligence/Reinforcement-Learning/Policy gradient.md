@@ -2,7 +2,7 @@
 bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
-A **policy gradient** [[algorithm]] tries to adjust the parameters $\theta$ to [[policy]] $\pi_\theta$ to optimize the objective $J$ via the [[gradient]]. We can pick $J$ as the [[expectation]] of return or some other variant of the return. 
+A **policy gradient** [[algorithm]] tries to adjust the parameters $\theta$ to [[policy]] $\pi_\theta$ to optimize the objective $J$ via the [[gradient]]. We can pick $J$ as the [[expected value]] of return or some other variant of the return. 
 
 $$
 J(\theta) = \mathbb{E}\_{\tau \sim \pi_\theta}\left[r(\tau) \right]
