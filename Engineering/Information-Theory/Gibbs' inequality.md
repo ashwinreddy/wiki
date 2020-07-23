@@ -3,3 +3,5 @@
 \begin{equation}
 D_{KL}(P \parallel Q) \geq 0
 \end{equation}
+
+We can prove using [[Jensen's inequality]].
