@@ -1,1 +1,1 @@
-The **Fourier series**
+The **Fourier series** decomposition of [[sine wave]].
