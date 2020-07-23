@@ -19,3 +19,11 @@ The formula can be more dramatically explained with a graph, by showing the left
 # Proof
 
 Use the Taylor expansion.
+
+# Euler's identity
+
+Connects [[imaginary unit]] and [[pi]].
+
+$$
+e^{i\pi} = -1
+$$
