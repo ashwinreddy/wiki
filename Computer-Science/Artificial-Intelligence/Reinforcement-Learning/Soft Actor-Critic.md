@@ -3,7 +3,7 @@ bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 link-citations: true
 ---
 
-**Soft Actor-Critic (SAC)** is an off-policy [[actor-critic]] [[maximum entropy reinforcement learning]] approach to optimizing a stochastic [[policy]] $\pi_\theta$ using critic Q-functions $Q_{\phi_1}$ and $Q_{\phi_2}$ (and in older versions, apparently, also a value function $V_\psi$), introduced in @haarnoja2018soft.
+**Soft Actor-Critic (SAC)** is an off-policy [[actor-critic]] [[maximum entropy reinforcement learning]] approach to optimizing a stochastic [[policy]] $\pi_\theta$ using critic [[value-function]] Q-functions $Q_{\phi_1}$ and $Q_{\phi_2}$ (and in older versions, apparently, also a value function $V_\psi$), introduced in @haarnoja2018soft.
 
 The Q-functions we learn through mean squared Bellman error. We want the policy to maximize value.
 
