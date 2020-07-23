@@ -1,3 +1,4 @@
+The **Galilean group** is a [[group]]
 
 |Difference|Parameter|Dimension|Description|
 |:--------|----------|---------|-----------|
