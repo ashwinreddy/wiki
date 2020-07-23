@@ -1,4 +1,4 @@
-There are two parts to the **fundamental theorem of calculus**
+There are two parts to the **fundamental theorem of calculus**, both of which connect the concept of [[derivative]] with [[integral]].
 
 \begin{equation}
 \dv{}{x}\int_c^x f(x) \,\dd{x} = f(x) \tag{FTC 1}
