@@ -1,1 +1,1 @@
-**Backpropagation** is enabled by automatic differentiation.
+**Backpropagation** is enabled by [[automatic differentiation]].
