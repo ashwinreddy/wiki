@@ -1,1 +1,0 @@
-The word **gravity** broadly refers to what we naturally think of as weight.
