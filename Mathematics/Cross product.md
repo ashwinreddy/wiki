@@ -27,3 +27,4 @@ A useful mnemonic is
 \vec{a}\times\vec{b} = \begin{vmatrix} {\hat{\imath}} & \hat{\jmath} & \hat{k} \\\\\ a_1 & a_2 & a_3 \\\\\ b_1 & b_2 & b_3 \end{vmatrix}
 \end{equation}
 
+Naturally, the [[Levi-Civita symbol]] shows up.
