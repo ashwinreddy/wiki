@@ -3,7 +3,7 @@ bibliography: 'bibliography.bib'
 link-citations: true
 ---
 
-The **differential** of a map $F: M \to N$ at $p$ is a map 
+The **differential** of a map $F: M \to N$ at $p$ is a map from [[tangent space]] to tangent space.
 
 \begin{equation}
 \dd{F}\_p : T_p M \to T_{F(p)}N
