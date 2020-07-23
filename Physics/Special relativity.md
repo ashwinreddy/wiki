@@ -5,4 +5,4 @@ $$
 \frac{d_{AB}}{\Delta t} = \frac{d'_{AB}}{\Delta t'} = c
 $$
 
-It generalizes [[Galilean relativity]].
+It generalizes [[Galilean relativity]]. Consequence means that [[speed]] is bounded at $c$.
