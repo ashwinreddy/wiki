@@ -1,0 +1,1 @@
+**Electric charge** comes in two kinds, which we designate by convention as positive and negative.
