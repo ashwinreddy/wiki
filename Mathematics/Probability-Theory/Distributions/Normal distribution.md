@@ -4,7 +4,7 @@ A **normal distribution** or **Gaussian distribution** is a very common continuo
 \varphi(x) = e^{-\pi x^2}
 \end{equation}
 
-The general form is a little more involved, with a [[normalizing constant]] of $\sqrt{2\pi}$.
+The general form is a little more involved, with a [[normalizing constant]] of $1/\sqrt{2\pi}$.
 
 \begin{equation}
 X \sim \mathcal{N}(\mu, \sigma^2) \iff \varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
