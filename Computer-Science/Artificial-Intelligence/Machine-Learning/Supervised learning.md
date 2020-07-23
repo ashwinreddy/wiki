@@ -3,3 +3,6 @@
 \begin{equation}
 \arg\min_\theta \mathbb{E}_{(x, y) \sim \mathcal{D}} \left[ L(f_\theta(x), y) \right]
 \end{equation}
+
+
+It can be thought of as a [[maximum likelihood estimation]]
