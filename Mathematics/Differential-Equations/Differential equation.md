@@ -1,0 +1,1 @@
+A **differential equation** has [[derivative]]
