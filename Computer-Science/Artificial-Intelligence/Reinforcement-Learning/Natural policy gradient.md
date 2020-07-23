@@ -25,7 +25,7 @@ $$
 The suggestion here is to use [[Fisher information]].
 
 $$
-\tilde\nabla \eta(\theta) = F(\theta)^{-1} \nabla \eta(\theta)
+wide\tilde\nabla \eta(\theta) = F(\theta)^{-1} \nabla \eta(\theta)
 $$
 
 
