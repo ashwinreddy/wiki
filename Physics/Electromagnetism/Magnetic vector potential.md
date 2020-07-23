@@ -4,4 +4,4 @@ The **magnetic vector potential** $\vec{A}$ is a mathematical construction of [[
 \vec\nabla \times \vec{A} = \vec{B}
 \end{equation}
 
-However, we are free to choose what we want $\vec\nabla\cdot\vec{A}$ to be, and the choice is called **fixing the gauge**.
+However, we are free to choose what we want $\vec\nabla\cdot\vec{A}$ to be, and the choice is called **fixing the gauge**. It can help us write [[Maxwell's equations]] nicely.
