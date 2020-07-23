@@ -1,0 +1,1 @@
+A **cell** is the biological unit of life.
