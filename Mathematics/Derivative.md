@@ -20,7 +20,7 @@ x(t + \Delta t)\approx x(t) + v(t)\Delta t
 
 # Notation
 
-From Equation \ref{eq:vel}, Leibniz came up with the [[mathematical notation]]
+From Equation \ref{eq:vel}, Leibniz came up with the mathematical notation.
 
 \begin{equation}
 v = \dv{x}{t}
