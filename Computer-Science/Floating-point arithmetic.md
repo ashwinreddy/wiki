@@ -1,4 +1,4 @@
-**Floating-point arithmetic** is the arithmetic that follows when storing real numbers in essentially the same way that people write down numbers in [[scientific notation]]. 
+**Floating-point arithmetic** is the arithmetic that follows when storing [[real number]] in essentially the same way that people write down numbers in [[scientific notation]]. 
 
 # Floating-point number
 
