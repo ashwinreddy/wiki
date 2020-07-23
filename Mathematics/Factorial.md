@@ -1,0 +1,1 @@
+The **factorial** of an integer $n$ is the product of nonzero positive integers less than or equal to $n$.
