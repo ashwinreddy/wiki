@@ -1,4 +1,4 @@
-**Frenet–Serret formulas** provide a [[tangent vector]]
+**Frenet–Serret formulas** provide a frame using TNB vectors ([[tangent vector]], normal vector, binormal vector).
 
 \begin{align}
 \dv{\mathbf{T}}{s} &= & \kappa \mathbf{N} \\\\\
