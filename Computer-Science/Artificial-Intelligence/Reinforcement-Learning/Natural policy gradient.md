@@ -29,6 +29,10 @@ F_s(\theta) = \mathbb{E}_{\pi(a \mid s, \theta)}\left[ \frac{\partial \log \pi(a
 $$
 
 $$
+F(\theta) = \mathbb{E}_{\rho^\pi(s)}\left[ F_s(\theta) \right]
+$$
+
+$$
 \widetilde\nabla \eta(\theta) = F(\theta)^{-1} \nabla \eta(\theta)
 $$
 
