@@ -2,7 +2,7 @@ A **Markov decision process** is a way of modeling an environment. Assume [[Mark
 
 * Set of states $\mathcal{S}$
 * Set of actions $\mathcal{A}$
-* Transition probability $T(s' \mid s, a)$ or $\mathcal{P}^a_{ss'}$
+* Transition [[probability]] $T(s' \mid s, a)$ or $\mathcal{P}^a_{ss'}$
 * [[Reward function]] $r$
 
 Other elements that show up are
