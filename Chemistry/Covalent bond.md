@@ -1,0 +1,1 @@
+A **covalent bond** is a [[chemical bond]].
