@@ -1,1 +1,1 @@
-A **multivector**
+A **multivector** has [[blade]]
