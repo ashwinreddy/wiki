@@ -1,1 +1,1 @@
-An **inductor** resists change in [[electric current]].
+An **inductor** resists change in [[electric current]] and stores [[energy]] in [[magnetic field]].
