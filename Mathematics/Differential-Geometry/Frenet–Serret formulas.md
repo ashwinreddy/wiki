@@ -1,4 +1,4 @@
-**Frenet–Serret formulas**
+**Frenet–Serret formulas** provide a [[frame]]
 
 \begin{align}
 \dv{\mathbf{T}}{s} &= & \kappa \mathbf{N} \\\\\
