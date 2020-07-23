@@ -4,12 +4,10 @@ The **mutual information** between [[random variables|random variable]] $X$ and 
 I(X ; Y ) = D_{KL}( p_{(X, Y)} \parallel p_X p_Y )
 \end{equation}
 
-Mutual information is clearly symmetric.
-
-$$
-I(X ; Y) = I(Y; X)
-$$
-
 $$
 I(X: Y) \leq \mathcal{H}(X)
 $$
+
+# Properties
+
+* Mutual information is clearly symmetric. $$I(X ; Y) = I(Y; X)$$
