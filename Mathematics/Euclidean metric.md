@@ -1,4 +1,4 @@
-The **Euclidean metric** is the [[p-norm]]
+The **Euclidean metric** is the [[p-norm]] with $p=2$.
 
 $$
 d(x, y) \doteq \sqrt{(x_1 - y_1)^2 + \dots + (x_n -y_n)^2}
