@@ -1,1 +1,1 @@
-A **chemical equation** represents a reaction.
+A **chemical equation** represents a [[chemical reaction]].
