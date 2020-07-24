@@ -1,1 +1,1 @@
-**Adenosine triphosphate (ATP)** is an [[organic compound]]
+**Adenosine triphosphate (ATP)** is an [[organic compound]], the molecular currency of energy.
