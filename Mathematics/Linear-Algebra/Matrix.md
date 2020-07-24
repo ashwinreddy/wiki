@@ -4,8 +4,8 @@ What makes matrices useful is [[matrix multiplication]].
 
 
 
-Square matrix
+[[Square matrix]]
 : An $n \times n$ matrix
 
-Orthogonal matrix
+[[Orthogonal matrix]]
 : A square matrix with orthonormal rows/columns
