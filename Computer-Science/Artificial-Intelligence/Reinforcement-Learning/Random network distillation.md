@@ -4,7 +4,7 @@ csl: 'ieee.csl'
 ---
 
 
-**Random network distillation (RND)** [@burda2018exploration] is an algorithm for generating exploration reward bonuses. It is a scheme by which we can assign rewards for seeing new states.
+**Random network distillation (RND)** [@burda2018exploration] is an [[algorithm]] for generating exploration reward bonuses. It is a scheme by which we can assign rewards for seeing new states. We use an [[artificial neural network]].
 
 \begin{equation}
 r_t = e_t + i_t
