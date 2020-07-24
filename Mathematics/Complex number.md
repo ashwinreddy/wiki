@@ -1,4 +1,7 @@
-A **complex number** is a number of the form $z = a+ b \iota$ where $\iota$ is the [[imaginary unit]] and $a$ and $b$ each [[real number]]. The complex numbers naturally describe the 2D plane as [[Euler's formula]] allows us to use them both for polar and Cartesian coordinates. In addition, their algebra means that a complex number "encodes" a rotation through multiplication.
+A **complex number** is a number of the form $z = a+ b \iota$ where $\iota$ is the [[imaginary unit]] and $a$ and $b$ each [[real number]]. We denote the [[set]] of complex numbers $\mathbb{C}$. 
+
+
+The complex numbers naturally describe the 2D plane as [[Euler's formula]] allows us to use them both for polar and Cartesian coordinates. In addition, their algebra means that a complex number "encodes" a rotation through multiplication.
 
 # Notation
 
