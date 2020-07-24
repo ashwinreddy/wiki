@@ -6,4 +6,4 @@ QQ^\mathsf{T} = Q^\mathsf{T}Q = I
 
 # Properties
 
-* $\det Q = \pm 1$.
+* The magnitude of [[determinant]] is 1. $\det Q = \pm 1$.
