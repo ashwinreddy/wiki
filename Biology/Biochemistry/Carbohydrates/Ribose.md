@@ -1,1 +1,1 @@
-**Ribose** is $\ce{C5H10O5}$
+**Ribose** is the sugar $\ce{C5H10O5}$.
