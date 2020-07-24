@@ -12,7 +12,7 @@ I  + \varepsilon J + \varepsilon J^T + \cancelto{0}{\varepsilon^2 J^\mathsf{T} J
 J + J^\mathsf{T} = 0 \tag{Skew-symmetric}
 \end{gather}
 
-This tells us that the Lie algebra consists of [[skew-symmetric matrices|skew-symmetric matrix]].
+This tells us that the Lie algebra consists of every [[skew-symmetric matrix]].
 
 A Surprising fact is that
 
