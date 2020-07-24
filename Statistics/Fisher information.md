@@ -1,4 +1,4 @@
-The **Fisher information** is a measurement for how much information a [[random variable]] $X$ carries about the parameter $\theta$ that generates it, how well you can estimate the parameter from the observations. When you have many parameters, the Fisher information is a matrix. In fact, it is the negative expected [[Hessian]] of log likelihood.
+The **Fisher information** is a measurement for how much information a [[random variable]] $X$ carries about the parameter $\theta$ that generates it, how well you can estimate the parameter from the observations. It is an $n \times n$ [[square matrix]] if there are $n$ parameters. When you have many parameters, the Fisher information is a matrix. In fact, it is the negative expected [[Hessian]] of log likelihood.
 
 $$
 \mathcal{I}(\theta) = -\mathbb{E}_\theta \left[\frac{\partial^2 \log P\left(\vec{x} \mid \theta \right)}{\partial \theta^2} \right]
