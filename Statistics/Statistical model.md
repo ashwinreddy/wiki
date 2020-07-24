@@ -1,1 +1,0 @@
-A **statistical model** is captured by a function $f(x_i \mid \theta)$. When $\theta$ is known, we get a probability mass or density function $p_\theta(x_i) = f(x_i \mid \theta)$.
