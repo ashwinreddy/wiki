@@ -1,15 +1,15 @@
 A **capacitor** stores [[electric charge]].
 
 \begin{equation}
-C = \frac{q}{V}
+C = \frac{q}{v}
 \end{equation}
 
 In a circuit, the [[electric current]] will be proportional to the [[derivative]] of [[electric potential]].
 
 $$
-i = C \dv{V}{t}
+i = C \dv{v}{t}
 $$
 
 $$
-V(t) = \int_{t_0}^\infty i(t) \\, \dd{t}
+v(t) = \int_{t_0}^\infty i(t) \\, \dd{t}
 $$
