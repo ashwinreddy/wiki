@@ -1,4 +1,4 @@
-**Entropy** is the [[expected|expected value]] [[surprisal]] in a [[random variable]].  
+**Entropy** is the [[expected value]] of [[surprisal]] in a [[random variable]].  
 
 $$
 \mathcal{H}(X) \doteq \mathbb{E}[I_X(x)]
