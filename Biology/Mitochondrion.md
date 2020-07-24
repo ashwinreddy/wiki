@@ -1,0 +1,1 @@
+The **mitochondrion** is an [[organelle]] that generates ATP.
