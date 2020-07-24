@@ -1,4 +1,4 @@
-**Automatic differentiation** is an algorithm for taking a [[derivative]].
+**Automatic differentiation** is an [[algorithm]] for taking a [[derivative]].
 
 
 https://sidsite.com/posts/autodiff/
