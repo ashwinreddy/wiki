@@ -1,0 +1,1 @@
+**Fructose** is a monosaccharide [[ketone]].
