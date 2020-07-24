@@ -1,0 +1,1 @@
+An **organelle** is a unit in the [[cell]].
