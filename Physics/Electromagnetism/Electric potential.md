@@ -1,4 +1,4 @@
-**Electric potential** is [[electrical potential energy]] per unit [[electric charge]].
+**Electric potential** is [[electric potential energy]] per unit [[electric charge]].
 
 $\require{AMScd}$
 
