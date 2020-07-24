@@ -1,1 +1,1 @@
-**DNA replication**
+**DNA replication** is the replication of [[DNA]]
