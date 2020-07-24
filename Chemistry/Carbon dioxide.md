@@ -1,1 +1,1 @@
-**Carbon dioxide** $\ce{CO2}$
+**Carbon dioxide** $\ce{CO2}$ has [[carbon]].
