@@ -1,0 +1,1 @@
+**Twin delayed DDPG (TD3)** is an extension of [[deep deterministic policy gradient]].
