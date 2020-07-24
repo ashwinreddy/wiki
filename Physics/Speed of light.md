@@ -1,0 +1,1 @@
+The **speed of light** $c$ in a vacuum is a physical constant in [[special relativity]].
