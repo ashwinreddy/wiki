@@ -1,1 +1,0 @@
-A **differentiable manifold** is a [[manifold]] that you can do calculus on.
