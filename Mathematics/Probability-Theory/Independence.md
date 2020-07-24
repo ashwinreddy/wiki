@@ -1,1 +1,1 @@
-**Independence** means [[event]]
+**Independence** means [[event]] $A$ and $B$ have no bearing on each other.
