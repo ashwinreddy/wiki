@@ -1,0 +1,1 @@
+The **four color theorem** says every planar graph is four colorable.
