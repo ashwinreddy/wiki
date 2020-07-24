@@ -5,7 +5,7 @@ x = r\cos\theta \\\\\
 y = r\sin\theta
 \end{gather\*}
 
-The Jacobian is
+The [[Jacobian]] is $r$
 
 $$
 \mathcal{J} = \begin{bmatrix} \cos\theta & -r\sin\theta \\\\\ \sin\theta & r\cos\theta \end{bmatrix}
