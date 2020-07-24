@@ -1,5 +1,5 @@
 **Hooke's law**
 
 $$
-F = -k\Delta x
+\vec{F} = -k\Delta \vec{x}
 $$
