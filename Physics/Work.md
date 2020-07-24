@@ -4,7 +4,7 @@
 \sum_i W_i = \Delta K
 \end{equation}
 
-The work done by force $\vec{F}$ along path $C$ is given by a [[line integral]].
+The work done by [[force]] $\vec{F}$ along path $C$ is given by a [[line integral]].
 
 \begin{equation}
 W = \int_C \vec{F} \cdot \dd{\vec{r}}
