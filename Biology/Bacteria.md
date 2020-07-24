@@ -1,0 +1,1 @@
+A **bacterium** is a [[cell]].
