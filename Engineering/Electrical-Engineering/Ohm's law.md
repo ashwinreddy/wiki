@@ -1,4 +1,4 @@
-**Ohm's law** says that [[voltage|electric potential]] and [[electric current]] through a resistor are inversely related.
+**Ohm's law** says that [[voltage]] across a [[resistor]] is proportional to [[electric current]].
 
 \begin{equation}
 V=IR
