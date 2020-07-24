@@ -1,1 +1,1 @@
-**Vector projection** 
+The **vector projection** of a [[vector]] $a$ onto a vector $b$ is the "shadow" that $a$ casts on $b$.
