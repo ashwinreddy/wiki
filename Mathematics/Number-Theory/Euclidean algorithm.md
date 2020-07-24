@@ -1,1 +1,1 @@
-**Euclidean algorithm** [[algorithm]] [[greatest common divisor]]
+**Euclidean algorithm** [[algorithm]] [[greatest common divisor]] [[recursion]]
