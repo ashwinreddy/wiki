@@ -1,1 +1,0 @@
-The **musical isomorphism** is the [[isomorphism]] between the [[tangent bundle]] $TM$ and [[cotangent bundle]] $T^*M$.
