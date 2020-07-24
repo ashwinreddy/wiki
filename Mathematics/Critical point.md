@@ -1,1 +1,0 @@
-A **critical point** is when the [[gradient]] is zero.
