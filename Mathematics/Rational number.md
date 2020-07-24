@@ -1,1 +1,1 @@
-A **rational number** is the ratio of [[integer]].
+A **rational number** is the ratio of a numerator [[integer]] and a non-zero denominator integer. The [[set]] of rational numbers we denote $\mathbb{Q}$.
