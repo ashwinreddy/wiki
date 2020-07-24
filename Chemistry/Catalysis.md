@@ -1,0 +1,1 @@
+**Catalysis** is increasing the rate of [[chemical reaction]].
