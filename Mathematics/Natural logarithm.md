@@ -4,7 +4,7 @@ The **natural logarithm** is the inverse of the [[exponential function]], the [[
 \ln \circ \exp = \exp \circ \ln = \text{id}
 \end{equation}
 
-A slick way to define it is as an integral.
+A slick way to define it is as an [[integral]].
 
 \begin{equation}
 \ln x \doteq \int_1^x \frac{\dd{u}}{u}
