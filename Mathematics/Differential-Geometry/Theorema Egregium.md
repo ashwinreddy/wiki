@@ -1,1 +1,0 @@
-Gauss's **_Theorema Egregium_** says something important about Gaussian curvature on surfaces.
