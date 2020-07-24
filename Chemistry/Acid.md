@@ -1,1 +1,1 @@
-An **acid** is a [[proton]] donor.
+An **acid** is a [[proton]] donor with [[pH]] less than 7.
