@@ -1,1 +1,1 @@
-**Lagrangian mechanics** is similar to [[Hamiltonian mechanics]]. [[Newton's second law]] [[action]]
+**Lagrangian mechanics** is similar to [[Hamiltonian mechanics]]. [[Newton's second law]]
