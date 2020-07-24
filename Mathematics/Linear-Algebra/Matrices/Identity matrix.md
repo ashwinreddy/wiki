@@ -1,4 +1,4 @@
-The **identity matrix** is the matrix whose entries are given by the Kronecker delta.
+The **identity matrix** is the [[matrix]] whose entries are given by the [[Kronecker delta]], which makes it an [[identity function]] by [[matrix multiplication]].
 
 $$
 I_{ij} = \delta_{ij}
