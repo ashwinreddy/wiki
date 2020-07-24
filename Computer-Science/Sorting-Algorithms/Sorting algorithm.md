@@ -1,1 +1,0 @@
-**Sorting algorithm** is an [[algorithm]]

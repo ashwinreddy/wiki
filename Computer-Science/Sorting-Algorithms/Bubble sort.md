@@ -1,1 +1,0 @@
-**Bubble sort** [[sorting algorithm]] has time complexity $\order{n^2}$.

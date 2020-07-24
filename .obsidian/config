@@ -13,35 +13,9 @@
   "isRightSidedockCollapsed": false,
   "lastOpenSidebarTab": "File explorer",
   "lastOpenRightSidedockTab": "Backlinks",
-  "theme": "obsidian",
-  "workspaceLayout": {
-    "id": "dd709509ca733663",
-    "type": "split",
-    "dimension": null,
-    "direction": "vertical",
-    "children": [
-      {
-        "id": "4155e549ec9b8254",
-        "type": "leaf",
-        "dimension": null,
-        "active": true,
-        "master": "",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      }
-    ]
-  },
+  "theme": "moonstone",
   "sideDockWidth": {
     "left": 300,
     "right": 40
-  },
-  "lastOpenFiles": [
-    "Mathematics/Linear-Algebra/Matrices/Skew-symmetric matrix.md",
-    "Mathematics/Complex-Analysis/Complex number.md",
-    "Psychology/Home.md",
-    "hypothesis class.md",
-    "Mathematics/Probability-Theory/Gaussian process.md"
-  ]
+  }
 }
