@@ -4,6 +4,8 @@ $$
 \tau = r \times F
 $$
 
+[[Newton's second law]]
+
 $$
 \tau = \dv{L}{t}
 $$
