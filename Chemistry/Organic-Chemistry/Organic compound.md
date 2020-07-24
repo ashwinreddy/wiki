@@ -1,1 +1,1 @@
-An **organic compound** has a carbon hydrogen bond.
+An **organic compound** has a [[carbon-hydrogen bond]].
