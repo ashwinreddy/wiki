@@ -8,7 +8,7 @@ $$
 \Gamma(n) = (n-1)!
 $$
 
-The digamma function is 
+The digamma function is its [[derivative]]
 
 $$
 \digamma(x) = \dv{}{x} \ln \Gamma(x)
