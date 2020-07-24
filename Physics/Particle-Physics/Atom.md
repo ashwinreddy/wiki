@@ -1,0 +1,1 @@
+An **atom** has [[proton]].
