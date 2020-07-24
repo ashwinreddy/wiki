@@ -1,0 +1,1 @@
+**Stochastic gradient descent** is [[gradient descent]] where we estimate the gradient using a batch.
