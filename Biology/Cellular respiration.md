@@ -1,1 +1,1 @@
-**Cellular respiration** is how organisms produce ATP.
+**Cellular respiration** is how an [[organism]] produces ATP.
