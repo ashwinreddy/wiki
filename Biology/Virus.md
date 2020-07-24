@@ -1,1 +1,1 @@
-A **virus** has [[DNA]]
+A **virus** has [[DNA]] or [[RNA]].
