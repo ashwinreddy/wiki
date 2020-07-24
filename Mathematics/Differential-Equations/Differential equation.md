@@ -1,1 +1,1 @@
-A **differential equation** has [[derivative]]
+A **differential equation** is an equation which involves a [[derivative]].
