@@ -7,5 +7,5 @@ $$
 Geometrically,
 
 $$
-\vec{a}\cdot\vec{b} = \lVert \vec{a} \rVert \lVert \vec{b} \rVert \cos\theta
+\vec{a}\cdot\vec{b} = \lVert \vec{a} \rVert \cdot \lVert \vec{b} \rVert \cos\theta
 $$
