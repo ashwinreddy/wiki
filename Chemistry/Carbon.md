@@ -1,1 +1,1 @@
-**Carbon** $\ce{C}$
+**Carbon** $\ce{C}$ has atomic number 6.
