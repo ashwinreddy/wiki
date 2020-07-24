@@ -1,5 +1,5 @@
 **Binomial theorem** or **binomial expansion**
 
 $$
-(x+y)^n = \sum_{k=0}^n \binom
+(x+y)^n = \sum_{k=0}^n \binom{n}{k}
 $$
