@@ -6,7 +6,7 @@ Every Lie group $G$ has a [[Lie algebra]] $\mathfrak{g}$ that we can use to help
 
 # Tangent space
 
-The key idea of a [[Lie algebra]] is that knowing the tangent space gives you most of the information about the group.
+The key idea of a [[Lie algebra]] is that knowing the [[tangent space]] gives you most of the information about the group.
 
 # Matrix Lie groups
 
