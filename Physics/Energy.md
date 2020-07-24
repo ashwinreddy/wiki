@@ -1,5 +1,5 @@
 **Energy** 
 
 $$
-[E] = \frac{ML\^2}{T^2}
+E = \frac{ML\^2}{T^2}
 $$
