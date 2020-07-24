@@ -1,3 +1,3 @@
-A **centripetal**[^ety] (_centrum_ = center, _petere_ = to seek, center-seeking) force
+A **centripetal**[^ety] () force
 
-[^ety]: footnote
+[^ety]: meaning center-seeking from the Latin _centrum_ for "center" and _petere_ meaning "to seek."
