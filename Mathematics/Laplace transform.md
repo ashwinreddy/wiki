@@ -6,4 +6,6 @@ The **Laplace transform** is an [[integral transform]].
 
 The transform can be used to turn [[differential equation]] into algebraic ones that can be solved easily and converted back into solutions.
 
+|$f(t)$|$F(s)$|
+
 [[Convolution]] is multiplication.
