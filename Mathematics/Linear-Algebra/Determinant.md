@@ -16,6 +16,7 @@ The determinant is a [[group homomorphism]]:
 # Properties
 
 * A single swap of columns or rows introduces a change of sign in the output.
+* The determinant is invariant to [[transpose]].
 
 # Computation
 
