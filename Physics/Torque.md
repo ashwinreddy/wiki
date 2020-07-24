@@ -3,3 +3,7 @@
 $$
 \tau = r \times F
 $$
+
+$$
+\tau = \dv{L}{t}
+$$
