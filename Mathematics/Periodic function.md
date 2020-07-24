@@ -1,0 +1,1 @@
+A **periodic function** repeats itself.
