@@ -1,1 +1,1 @@
-**Glucose** is $\ce{C6H12O6}$.
+**Glucose** is the sugar $\ce{C6H12O6}$.
