@@ -1,0 +1,1 @@
+A **mole** of any particle is approximately $6 \times 10^{23}$ particles.
