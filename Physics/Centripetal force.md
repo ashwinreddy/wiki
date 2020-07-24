@@ -1,0 +1,1 @@
+A **centripetal** (_petere_ = to seek, center-seeking) force
