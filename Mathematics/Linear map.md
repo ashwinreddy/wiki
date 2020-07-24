@@ -1,1 +1,0 @@
-A **linear map** is a linear [[function]] between [[vector spaces|vector space]].
