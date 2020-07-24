@@ -15,3 +15,9 @@ $$
 $$
 \cos\theta = {g(u, v) \over \sqrt{g(u, u)g(v,v)}}
 $$
+
+There is a [[quadratic form]]
+
+$$
+q(X) = g(X, X)
+$$
