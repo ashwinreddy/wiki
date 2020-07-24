@@ -1,1 +1,1 @@
-**Ionic bond** based on attraction of opposite [[electric charge]].
+**Ionic bond** based on attraction of oppositely [[electric charge]] [[ion]].
