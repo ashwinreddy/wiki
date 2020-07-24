@@ -18,6 +18,10 @@ Formally, the operation is defined by the equation below, but it tends not to be
 
 It generalizes the [[dot product]] and [[inner product]].
 
+# Properties
+
+* It is not a commutative operator.
+
 # Computation
 
 If both matrices are $n \times n$ then this naive [[algorithm]] computation has [[time complexity]] $\order{n^3}$.
