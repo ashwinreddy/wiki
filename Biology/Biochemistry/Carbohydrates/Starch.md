@@ -1,1 +1,1 @@
-**Starch**
+**Starch** is a chain of [[glucose]].
