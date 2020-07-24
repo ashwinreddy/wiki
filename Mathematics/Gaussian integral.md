@@ -1,1 +1,1 @@
-The **Gaussian integral** is the [[integral]] of the [[Gaussian function]] $f(x) = \exp(-x^2)$.
+The **Gaussian integral** is the [[integral]] of the [[Gaussian function]] $f(x) = \exp\left(-x^2\right)$.
