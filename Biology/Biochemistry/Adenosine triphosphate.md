@@ -1,0 +1,1 @@
+**Adenosine triphosphate (ATP)** is an [[organic compound]]
