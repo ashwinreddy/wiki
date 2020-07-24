@@ -1,0 +1,1 @@
+A **valence electron** is an [[electron]] in the valence shell.
