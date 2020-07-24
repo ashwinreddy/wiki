@@ -1,0 +1,1 @@
+A **monosaccharide** like [[glucose]] or [[fructose]].
