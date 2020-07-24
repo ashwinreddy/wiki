@@ -3,3 +3,9 @@ The **dot product** is an operation that takes two arrays of length $n$ and sums
 $$
 \vec{a}\cdot\vec{b} \doteq \sum_{i=1}^n a_i b_i
 $$
+
+Geometrically,
+
+$$
+\vec{a}\cdot\vec{b} = \lVert \vec{a} \rVert \lVert \vec{b} \rVert \cos\theta
+$$
