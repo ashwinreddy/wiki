@@ -1,1 +1,1 @@
-A **covalent bond** is a [[chemical bond]].
+A **covalent bond** is a [[chemical bond]] between atoms.
