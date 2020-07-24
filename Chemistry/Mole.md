@@ -1,1 +1,1 @@
-A **mole** of any particle is approximately $6 \times 10^{23}$ particles.
+A **mole** is a convenient way of talking about a group of particles. It is defined as an Avogadro's number of particles.
