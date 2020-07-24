@@ -9,3 +9,7 @@ In a circuit, the [[electric current]] will be proportional to the [[derivative]
 $$
 i = C \dv{V}{t}
 $$
+
+$$
+V(t) = \int_{t_0}^\infty i(t) \\, \dd{t}
+$$
