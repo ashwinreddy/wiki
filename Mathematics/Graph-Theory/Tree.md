@@ -1,0 +1,1 @@
+A **tree** is a kind of [[graph]].
