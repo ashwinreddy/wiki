@@ -1,1 +1,1 @@
-**Independence** means [[events]]
+**Independence** means [[event]]
