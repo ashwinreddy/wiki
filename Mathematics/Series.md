@@ -1,1 +1,0 @@
-A **series** is an infinite sum.
