@@ -1,1 +1,1 @@
-A **rational number** is the ratio of integers.
+A **rational number** is the ratio of [[integer]].
