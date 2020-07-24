@@ -1,5 +1,5 @@
 **Hooke's law**
 
 $$
-F = -kx
+F = -k\Delta x
 $$
