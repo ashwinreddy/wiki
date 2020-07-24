@@ -1,0 +1,1 @@
+**pH** is a scale of acidity or basicity.
