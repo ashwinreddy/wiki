@@ -1,0 +1,1 @@
+A **solution** requires a solvent and a solute. [[Water]] is the universal solvent.
