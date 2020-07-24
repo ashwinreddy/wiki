@@ -1,0 +1,1 @@
+A **linear combination** is constructed by the weighted sum of [[vectors|vector]].
