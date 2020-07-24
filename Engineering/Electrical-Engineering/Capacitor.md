@@ -1,8 +1,8 @@
 A **capacitor** stores [[electric charge]].
 
-\begin{equation}
+$$
 q = Cv
-\end{equation}
+$$
 
 In a circuit, the [[electric current]] will be proportional to the [[derivative]] of [[electric potential]].
 
