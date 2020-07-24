@@ -3,7 +3,7 @@
 Problem
 : A problem contains input(s) and a precise description of output(s) that one wants from those inputs.
 
-Algorithm
+[[Algorithm]]
 : A proposed solution to a problem in the form of a sequence of steps one must take. The steps should be such that anyone can follow them correctly.
 
 As a rough example by analogy, each entry in a cookbook gives a high-level "algorithm" for creating a dish. More relevant examples are mathematical equations in the sciences where students rearrange to compute for a variable of interest.
