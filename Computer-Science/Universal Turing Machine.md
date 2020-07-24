@@ -1,1 +1,0 @@
-A **universal Turing machine (UTM)** is a [[Turing machine]] if it can simulate an arbitrary Turing machine on an arbitrary input.
