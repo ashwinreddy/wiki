@@ -1,1 +1,0 @@
-A **module** generalizes a [[vector space]].
