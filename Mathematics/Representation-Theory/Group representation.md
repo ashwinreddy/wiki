@@ -1,1 +1,0 @@
-A **group representation** is a way of using a [[matrix]] to represent a [[group]] element. For this notion to be sensible, it will have to be a [[group homomorphism]] with the [[general linear group]] for a vector space.
