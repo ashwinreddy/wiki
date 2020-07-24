@@ -1,1 +1,1 @@
-**Algorithm**
+An **algorithm** is a list of unambiguous instructions to accomplish a task. Algorithms take time and space according to their complexity.
