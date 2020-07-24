@@ -1,4 +1,4 @@
-The **cumulative distribution function (CDF)**
+The **cumulative distribution function (CDF)** is a [[function]]
 
 \begin{equation}
 F_X(x) = \Pr(X \leq x)
