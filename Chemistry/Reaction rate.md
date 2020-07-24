@@ -1,0 +1,1 @@
+**Reaction rate** is the rate of a [[chemical reaction]].
