@@ -1,0 +1,1 @@
+An **ion** has [[electric charge]].
