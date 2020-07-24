@@ -1,0 +1,1 @@
+The **greatest common divisor (gcd)** of integers is the largest integer that divides them.
