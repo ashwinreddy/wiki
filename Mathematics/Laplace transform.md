@@ -8,6 +8,6 @@ The transform can be used to turn [[differential equation]] into algebraic ones 
 
 |$f(t)$|$F(s)$|
 |------|------|
-|$\delta(t-a)$|$e^{-sa}$|
+|$\delta(t-a)$|$e^{-sa}$ when $a>0$|
 
 [[Convolution]] is multiplication.
