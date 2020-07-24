@@ -4,7 +4,7 @@ $$
 T_pM \doteq \left \\{\dot\gamma(0) \mid \gamma(0) = p\right\\}.
 $$
 
-A choice of coordinate system $x^i$ induces a basis for the tangent space:
+A choice of coordinate system $x^i$ induces a [[basis]] for the tangent space:
 
 \begin{equation}
 e_i = \pdv{}{x^i}
