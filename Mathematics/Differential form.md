@@ -1,4 +1,4 @@
-A **differential $k$-form** is a function.
+# A **differential $k$-form** is a function.
 
 A differential 0-form is a smooth function on the manifold.
 
