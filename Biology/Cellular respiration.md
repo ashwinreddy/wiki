@@ -1,1 +1,1 @@
-**Cellular respiration** is how an organism produces [[Adenosine triphosphate]].
+**Cellular respiration** in the [[cell]] is how an organism produces [[Adenosine triphosphate]].
