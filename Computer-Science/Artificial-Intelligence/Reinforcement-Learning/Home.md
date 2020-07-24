@@ -1,3 +1,7 @@
+---
+papers : "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib"
+---
+
 Reinforcement learning tries to get computers to find their own behaviors through the use of rewards. A simple formulation of the goal of reinforcement learning is to find the [[policy]] $\pi$ which maximizes the sum of discounted rewards.
 
 $$
