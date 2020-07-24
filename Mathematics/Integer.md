@@ -1,0 +1,1 @@
+An **integer** consists of 0, the positive natural numbers, and their negatives.
