@@ -1,4 +1,4 @@
-The **exponential function** is most naturally described as a [[Maclaurin series|Taylor series]].
+The **exponential function** is a [[function]] most naturally described as a [[Maclaurin series|Taylor series]].
 
 \begin{equation}
 e^x \doteq \sum_{k=0}^\infty \frac{x^k}{k!}
