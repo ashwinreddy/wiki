@@ -2,9 +2,10 @@ This is the home page of my wiki!
 
 ||
 |-|-|
-|[Mathematics](./Mathematics/Home)|[Physics](./Physics/)|
-|[Computer Science](./Computer-Science/)|[Engineering](./Engineering/)|
-|[Statistics](./Statistics/)|
+|[Mathematics](./Mathematics/Home)|[Computer Science](./Computer-Science/)|
+|[Engineering](./Engineering/)|[Statistics](./Statistics/)|
+|[Physics](./Physics/)|[Chemistry](./Chemistry/)|
+
 
 
 [[Bibliography]]
