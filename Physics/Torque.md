@@ -4,7 +4,7 @@ $$
 \tau = r \times F
 $$
 
-[[Newton's second law]]
+[[Newton's second law]] with [[angular momentum]]
 
 $$
 \tau = \dv{L}{t}
