@@ -5,4 +5,4 @@ $$
 $$
 
 Regular curve
-: A curve whose derivative never vanishes.
+: A curve whose [[derivative]] never vanishes.
