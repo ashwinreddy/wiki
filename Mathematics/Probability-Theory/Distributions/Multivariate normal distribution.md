@@ -1,1 +1,0 @@
-**Multivariate normal distribution** extends [[normal distribution]].
