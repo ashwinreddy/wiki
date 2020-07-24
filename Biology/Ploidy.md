@@ -1,0 +1,1 @@
+**Ploidy** of a [[cell]] is the count of complete set of [[chromosome]].
