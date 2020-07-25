@@ -1,1 +1,1 @@
-**Ribonucleic acid (RNA)** is related to [[DNA]].
+**Ribonucleic acid (RNA)** is an [[acid]] related to [[DNA]].
