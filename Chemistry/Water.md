@@ -1,1 +1,1 @@
-**Water** refers to the compound $\ce{H2O}$.
+**Water** refers to the compound $\ce{H2O}$, [[hydrogen]] and [[oxygen]].
