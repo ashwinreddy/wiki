@@ -1,1 +1,1 @@
-**Oxygen** is a [[gas]]
+**Oxygen** is a [[gas]].
