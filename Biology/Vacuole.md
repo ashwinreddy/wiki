@@ -1,0 +1,1 @@
+**Vacuole** [[organelle]]
