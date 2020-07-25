@@ -1,1 +1,0 @@
-A **light cone** in [[special relativity]]
