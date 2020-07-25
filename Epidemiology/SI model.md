@@ -19,5 +19,5 @@ $$
 If we repackage the constants into $r = 2c\gamma / N^2$, then we have
 
 $$
-\dv{I}{t} = rI(I-N)
+\dv{I}{t} = rI(N-I)
 $$
