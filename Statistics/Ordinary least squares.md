@@ -1,4 +1,4 @@
-**Ordinary least squares (OLS)** is the [[maximum likelihood estimation]]
+**Ordinary least squares (OLS)** is the optimal [[maximum likelihood estimation]] when error comes from [[normal distribution]].
 
 
 uses the [[Moore–Penrose inverse]]
