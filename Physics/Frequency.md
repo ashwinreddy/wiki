@@ -1,0 +1,1 @@
+**Frequency** is the number of times an event occurs in a given time period.
