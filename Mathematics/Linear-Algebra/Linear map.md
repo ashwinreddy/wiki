@@ -4,6 +4,8 @@ $$
 f(\alpha v) = \alpha f(v)
 $$
 
-
+$$
+f(v_1+v_2) = f(v_1) + f(v_2)
+$$
 
 It can be represented by a [[matrix]] of coefficients.
