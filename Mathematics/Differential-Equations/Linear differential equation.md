@@ -1,0 +1,1 @@
+A **linear differential equation** is a [[differential equation]] of a particular form.
