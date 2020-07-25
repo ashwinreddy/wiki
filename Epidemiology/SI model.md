@@ -1,0 +1,1 @@
+The **SI model** models the spread of a disease among a population of people who are either either susceptible (S) or infected (I)
