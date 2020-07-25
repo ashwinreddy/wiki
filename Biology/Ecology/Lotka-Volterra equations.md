@@ -1,0 +1,1 @@
+The **Lotka-Volterra equations** or **predator-prey equations** describe the relationship between a predator (:fox:) and prey population.
