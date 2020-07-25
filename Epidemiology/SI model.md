@@ -1,7 +1,7 @@
-The **SI model** models the spread of a disease among a population of $N$ people who are either either susceptible (S) or infected (I), which means
+The **SI model** models the spread of a disease among a population of $N$ people. It chooses to say that everyone is either either susceptible (S) or infected (I), which means
 
 $$
-S(t)+I(t) = N.
+\forall t, S(t)+I(t) = N.
 $$
 
 The next step is to determine how to model the average number of infections per unit time to determine the [[derivative]] of $I(t)$.
