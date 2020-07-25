@@ -1,4 +1,4 @@
-The **value function** for a [[Markov decision process]] measures the value of a state by how much expected reward it will give under policy $\pi$.
+The **value function** for a [[Markov decision process]] is a [[function]] measures the value of a state by how much expected reward it will give under policy $\pi$.
 
 $$
 V: \mathcal{S} \to \RR
