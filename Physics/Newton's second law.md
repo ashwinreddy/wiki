@@ -13,5 +13,5 @@ $$
 Usually, we treat this as a [[differential equation]] to solve
 
 $$
-\frac{\dd^2{}x}{}
+\frac{\dd{}^2x}{\dd{t^2}}
 $$
