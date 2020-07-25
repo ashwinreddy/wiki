@@ -1,1 +1,1 @@
-**Endoplasmic reticulum** makes [[protein]].
+**Endoplasmic reticulum** [[organelle]] makes [[protein]].
