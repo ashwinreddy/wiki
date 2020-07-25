@@ -1,4 +1,4 @@
-**Velocity** is the [[derivative]] of position w.r.t [[time]].
+**Velocity** is the [[time derivative]] of position.
 
 $$
 v = \dot{x} = \dv{x}{t}
