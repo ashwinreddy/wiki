@@ -19,5 +19,12 @@ $$
 If we repackage the constants into $r = 2c\gamma / N^2$, then we have
 
 $$
+\begin{align} \dv{I}{t} &= rSI \\
+\dv{S}{t} &= -rSI \end{align}
+$$
+
+We only need to solve one equation to understand the system:
+
+$$
 \dv{I}{t} = rI(N-I)
 $$
