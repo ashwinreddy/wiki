@@ -9,3 +9,9 @@ For constant mass, this reduces to [[mass]] times [[acceleration]].
 $$
 F = ma
 $$
+
+Usually, we treat this as a [[differential equation]] to solve
+
+$$
+\frac{\dd^2{}x}{}
+$$
