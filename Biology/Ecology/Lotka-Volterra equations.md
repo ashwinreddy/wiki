@@ -1,4 +1,4 @@
-The **Lotka-Volterra equations** or **predator-prey equations** describe the relationship between a predator (:fox:) and prey (:rabbit:) population.
+The **Lotka-Volterra equations** or **predator-prey equations** are two [[differential equation]]s describe the relationship between a predator (:fox:) and prey (:rabbit:) population.
 
 \begin{align}
 \dv{x}{t} &= \alpha x - \beta xy \\\\\
