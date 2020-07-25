@@ -12,6 +12,10 @@ $$
 
 # Variants
 
-@srivastava2020learning propose a variant.
+@srivastava2020learning propose a variant in which $\beta$ is discretized into $k$ states over time. Then, the equations are
+
+\begin{align}
+\Delta S^p_t = - \frac{S^p_{t-1}}{N} \sum_{i=1}^k \beta_i^p \Delta I^p_{t-1}
+\end{align}
 
 ---
