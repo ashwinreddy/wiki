@@ -1,1 +1,0 @@
-**Isomers** have the same [[chemical formula]] but different arrangements.
