@@ -1,4 +1,4 @@
-**Ordinary least squares (OLS)** is the [[maximum likelihood estimator]]
+**Ordinary least squares (OLS)** is the [[maximum likelihood estimation]]
 
 
 uses the [[Moore–Penrose inverse]]
