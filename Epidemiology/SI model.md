@@ -10,7 +10,7 @@ $$
 \frac{\text{infections}}{\text{time}} = \frac{\text{interactions}}{\text{time}}\times \Pr(\text{interaction is between an } S \text{ and an } I)\times \frac{\text{infections}}{\text{interaction between an } S \text{ and an } I}
 $$
 
-The differential equation is
+The probability that a random pair has one infected and one susceptible, for large $N$, is given by $2\left(\frac{S}{N}\right)\left(\frac{I}{N}\right) = \frac{2}{N^2}SI$. So the differential equation is
 
 $$
 \dv{I}{t} = \gamma\times\frac{2}{N^2}SI\times c.
@@ -22,5 +22,3 @@ If we repackage the constants into $r = 2c\gamma / N^2$, then we have
 \dv{I}{t} &= rSI \\\\\
 \dv{S}{t} &= -rSI
 \end{align}
-
-The probability that a random pair has one infected and one susceptible, for large $N$, is given by $2\left(\frac{S}{N}\right)\left(\frac{I}{N}\right) = \frac{2}{N^2}SI$.
