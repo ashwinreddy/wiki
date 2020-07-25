@@ -7,7 +7,7 @@ $$
 The next step is to determine how to model the average number of infections per unit time.
 
 $$
-\frac{\text{avg. infections}}{\text{time}}
+\frac{\text{infections}}{\text{time}} = \frac{\text{interactions}}{\text{time}} \Pr(\text{interaction} = \text{infectious})
 $$
 
 The probability that a random pair has one infected and one susceptible, for large $N$, is given by
