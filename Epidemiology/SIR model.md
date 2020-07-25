@@ -5,7 +5,3 @@ The **SIR model** compartmentalizes the population into susceptible, infected, a
 $$
 {\displaystyle {\begin{aligned}&{\dv{S}{t}}=-{\frac {\beta IS}{N}},\\\\[6pt]&{\dv{I}{t}}={\frac {\beta IS}{N}}-\gamma I,\\\\[6pt]&{\dv{R}{t}}=\gamma I,\end{aligned}}}
 $$
-
-# SI Model
-
-If we let $\gamma=0$, we get a simpler SI model.
