@@ -4,7 +4,7 @@ $$
 \forall t: S(t)+I(t) = N.
 $$
 
-The next step is to determine the dynamics. What is the average number of infections per unit time? That is the [[derivative]] of $I(t)$. We will say that infections only occur during interactions at some rate.
+The next step is to determine the dynamics by a [[differential equation]]. It's intuitive to think about how the number of infected people will increase over time. Some fraction of interactions will transmit the disease from an infected person to a susceptible one. The average number of infections per unit time is the [[derivative]] of $I(t)$. We will say that infections only occur during interactions at some rate.
 
 $$
 \frac{\text{infections}}{\text{time}} = \frac{\text{interactions}}{\text{time}}\times \Pr(\text{interaction is between an } S \text{ and an } I)\times \frac{\text{infections}}{\text{interaction between an } S \text{ and an } I}
