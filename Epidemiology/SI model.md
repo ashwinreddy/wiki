@@ -11,7 +11,7 @@ $$
 $$
 
 $$
-\dv{I}{t} = \frac{2}{N^2}SI
+\dv{I}{t} = \gamma\times\frac{2}{N^2}SI\times c
 $$
 
 The probability that a random pair has one infected and one susceptible, for large $N$, is given by
