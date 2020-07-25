@@ -4,6 +4,7 @@ $$
 \operatorname{curl} \vec{F} = \vec\nabla\times\vec{F}
 $$
 
+The curl of a [[gradient]] is zero.
 
 $$
 \operatorname{curl} \operatorname{grad} \vec{F} = \vec{0}
