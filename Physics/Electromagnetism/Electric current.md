@@ -1,4 +1,4 @@
-**Electric current** is a change in [[electric charge]].
+**Electric current** is the [[time derivative]] of [[electric charge]].
 
 \begin{equation}
 i = \dv{q}{t}
