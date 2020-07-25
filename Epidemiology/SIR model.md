@@ -5,3 +5,6 @@ The **SIR model** extends the [[SI model]] by adding a released/recovery populat
 $$
 {\displaystyle {\begin{aligned}&{\dv{S}{t}}=-{\frac {\beta IS}{N}},\\\\[6pt]&{\dv{I}{t}}={\frac {\beta IS}{N}}-\gamma I,\\\\[6pt]&{\dv{R}{t}}=\gamma I,\end{aligned}}}
 $$
+
+# Variants
+
