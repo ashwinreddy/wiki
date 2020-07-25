@@ -4,6 +4,12 @@ $$
 S+I = N.
 $$
 
+The next step is to determine how to model the average number of infections per unit time.
+
+$$
+\frac{\text{avg. infections}}{\text{time}}
+$$
+
 The probability that a random pair has one infected and one susceptible, for large $N$, is given by
 
 $$
