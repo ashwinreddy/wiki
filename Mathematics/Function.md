@@ -3,3 +3,5 @@ A **function** is a [[binary relation]] that represents a mapping, a rule that a
 $$
 f: \mathsf{Domain} \to \mathsf{Codomain}
 $$
+
+The domain is a [[set]], and so is the codomain.
