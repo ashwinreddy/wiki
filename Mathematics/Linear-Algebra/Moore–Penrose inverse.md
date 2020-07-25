@@ -1,1 +1,1 @@
-**Moore–Penrose inverse** of a [[matrix]] $A$ generalizes the concept of inversion to a non-[[invertible matrix]]
+**Moore–Penrose inverse** of a [[matrix]] $A$ generalizes the concept of inversion to a non-[[invertible matrix]]. 
