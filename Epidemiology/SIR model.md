@@ -1,4 +1,4 @@
-The **SIR model** compartmentalizes the population into susceptible, infected, and recovered individuals.
+The **SIR model** extends the [[SI model]] by adding a released/recovery population. Thus, it compartmentalizes the population into susceptible, infected, and recovered individuals.
 
 [[https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/SIR_Flow_Diagram.svg/2880px-SIR_Flow_Diagram.svg.png|align=center,width=700px]]
 
