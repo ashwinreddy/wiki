@@ -1,0 +1,1 @@
+The **time derivative** is the [[derivative]] of a function with respect to [[time]].
