@@ -10,6 +10,8 @@ For a continuous distribution, we can just write then
 F_X(x) = \int_{-\infty}^{x} f_X(u) \\, \dd{u}
 \end{equation}
 
+The [[probability density function]] is then a [[derivative]].
+
 $$
 \dv{F_X(x)}{x} = f_X(x)
 $$
