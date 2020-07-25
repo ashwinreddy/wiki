@@ -7,7 +7,7 @@ $$
 The next step is to determine how to model the average number of infections per unit time to determine the [[derivative]] of $I(t)$.
 
 $$
-\frac{\text{infections}}{\text{time}} = \frac{\text{interactions}}{\text{time}}\times \Pr(\text{interaction between an } S \text{ and an } I)\times \frac{\text{infections}}{\text{interaction}}
+\frac{\text{infections}}{\text{time}} = \frac{\text{interactions}}{\text{time}}\times \Pr(\text{interaction between an } S \text{ and an } I)\times \frac{\text{infections}}{\text{interaction between an } S \text{ and an } I}
 $$
 
 The probability that a random pair has one infected and one susceptible, for large $N$, is given by
