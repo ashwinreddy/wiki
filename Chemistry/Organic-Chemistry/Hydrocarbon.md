@@ -1,0 +1,1 @@
+A **hydrocarbon** has only [[hydrogen]] and [[carbon]].
