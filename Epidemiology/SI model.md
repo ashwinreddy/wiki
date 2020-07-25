@@ -10,10 +10,10 @@ $$
 \frac{\text{infections}}{\text{time}} = \frac{\text{interactions}}{\text{time}}\times \Pr(\text{interaction is between an } S \text{ and an } I)\times \frac{\text{infections}}{\text{interaction between an } S \text{ and an } I}
 $$
 
-We find[^prob]
+
 
 $$
 \dv{I}{t} = \gamma\times\frac{2}{N^2}SI\times c
 $$
 
-[^prob]: The probability that a random pair has one infected and one susceptible, for large $N$, is given by $2\left(\frac{S}{N}\right)\left(\frac{I}{N}\right) = \frac{2}{N^2}SI$.
+he probability that a random pair has one infected and one susceptible, for large $N$, is given by $2\left(\frac{S}{N}\right)\left(\frac{I}{N}\right) = \frac{2}{N^2}SI$.
