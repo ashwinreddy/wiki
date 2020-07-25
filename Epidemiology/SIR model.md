@@ -12,7 +12,7 @@ $$
 
 # Variants
 
-@srivastava2020learning propose a variant in which $\beta$ is discretized into $k$ states over time. Then, the equations are
+@srivastava2020learning propose a variant in which $\beta$ is discretized into $k$ states over time. If $S_t^p$ and $I_t^p$ are the susceptible and infected individuals for region $p$ at time $t$ then the equations are
 
 \begin{align}
 \Delta S^p_t &= - \frac{S\^p_{t-1}}{N^p} \sum_{i=1}^k \beta_i^p \Delta I^p_{t-i}, \\\\\
