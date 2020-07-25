@@ -1,5 +1,5 @@
 The **Lotka-Volterra equations** or **predator-prey equations** describe the relationship between a predator (:fox:) and prey (:rabbit:) population.
 
 $$
-a + \:fox:
+a + :\fox:
 $$
