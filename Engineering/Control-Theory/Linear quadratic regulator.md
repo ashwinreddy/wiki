@@ -1,7 +1,7 @@
 The **linear quadratic regulator (LQR)** models a system using
 
 $$
-\dot{x}_t = Ax_t + Bu_t\,.
+\dot{x}_t = Ax_t + Bu_t\\,.
 $$
 
 The cost is given by
