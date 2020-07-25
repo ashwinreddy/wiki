@@ -1,1 +1,5 @@
-The **time derivative** is the [[derivative]] of a function with respect to [[time]].
+The **time derivative** is the [[derivative]] of a function $f$ with respect to [[time]] $t$.
+
+$$
+\dv{f}{t}
+$$
