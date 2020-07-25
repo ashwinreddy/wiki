@@ -1,1 +1,0 @@
-A **photon** is a particle.
