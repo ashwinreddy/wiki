@@ -4,4 +4,4 @@ $$
 \ddot{x} + \omega_0^2 x = 0
 $$
 
-The solution is a [[sine wave]].
+The solution is a [[sine wave]] of appropriate [[frequency]].
