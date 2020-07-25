@@ -1,1 +1,1 @@
-**Meiosis** is how sex cells are made
+**Meiosis** is how sex [[cell]] are made
