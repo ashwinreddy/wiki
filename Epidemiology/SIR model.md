@@ -12,6 +12,6 @@ $$
 
 # Variants
 
-@srivastava2020learning
+@srivastava2020learning propose a variant.
 
 ---
