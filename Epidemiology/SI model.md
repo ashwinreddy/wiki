@@ -7,5 +7,5 @@ $$
 The probability that a random pair has one infected and one susceptible, for large $N$, is given by
 
 $$
-2\frac{S}{N}\frac{I}{N} = \frac{2}{N^2}SI
+2\left(\frac{S}{N}\right)\left(\frac{I}{N}\right) = \frac{2}{N^2}SI
 $$
