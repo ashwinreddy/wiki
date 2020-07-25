@@ -12,3 +12,8 @@ The transform can be used to turn [[differential equation]] into algebraic ones 
 |[[Derivative]] $f'(t)$|$s \mathscr{L}\left\\{f(t)\right\\} -f(0)$|
 |$e^{at}$|$\frac{1}{s-a}$|
 |[[Convolution]]|Multiplication|
+
+
+# Properties
+
+* [[Linear map]]
