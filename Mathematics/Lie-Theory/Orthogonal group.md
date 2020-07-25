@@ -1,4 +1,4 @@
-The **orthogonal group** $\operatorname{O}(n)$ is the [[Lie group]] consisting of $n \times n$ orthogonal matrices. A simple mathematical construction is
+The **orthogonal group** $\operatorname{O}(n)$ is the [[Lie group]] consisting of every $n \times n$ [[orthogonal matrix]]. A simple mathematical construction is
 
 \begin{equation}
 \operatorname{O}(n) \doteq \\{ X \in \operatorname{GL}(n) \mid X^\mathsf{T}X = I\\}
