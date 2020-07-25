@@ -4,7 +4,7 @@ $$
 S+I = N.
 $$
 
-The next step is to determine how to model the average number of infections per unit time.
+The next step is to determine how to model the average number of infections per unit time to determine the [[derivative]] of $I(t)$.
 
 $$
 \frac{\text{infections}}{\text{time}} = \frac{\text{interactions}}{\text{time}} \Pr(\text{interaction} = \text{infectious})
