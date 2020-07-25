@@ -18,7 +18,6 @@ $$
 
 If we repackage the constants into $r = 2c\gamma / N^2$, then we have
 
-\begin{align}
-\dv{I}{t} &= rSI \\\\\
-\dv{S}{t} &= -rSI
-\end{align}
+$$
+\dv{I}{t} = rI(I-N)
+$$
