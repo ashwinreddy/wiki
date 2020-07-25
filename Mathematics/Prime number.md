@@ -1,0 +1,1 @@
+A **prime number** is a [[natural number]] whose only divisors are 1 and itself.
