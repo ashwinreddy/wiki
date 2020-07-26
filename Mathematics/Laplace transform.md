@@ -1,4 +1,4 @@
-The **Laplace transform** is an [[integral transform]].
+The **Laplace transform** is an [[integral transform]] using a decaying [[exponential function]].
 
 \begin{equation}
 \mathscr{L} \left\\{ f(t) \right\\} \doteq \int_0^\infty f(t) e^{-st} \dd{t}
