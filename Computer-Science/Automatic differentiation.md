@@ -1,4 +1,4 @@
-**Automatic differentiation** is [[algorithmic|algorithm] [[differentiation|gradient]].
+**Automatic differentiation** is [[algorithmic|algorithm]] [[differentiation|gradient]].
 
 
 # Resources
