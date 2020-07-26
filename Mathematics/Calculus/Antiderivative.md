@@ -1,1 +1,1 @@
-The **antiderivative** is the [[inverse function]]
+The **antiderivative** is the [[inverse function]] for the [[derivative]].
