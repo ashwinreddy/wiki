@@ -3,3 +3,7 @@ The **identity matrix** is the [[matrix]] whose entries are given by the [[Krone
 $$
 I_{ij} = \delta_{ij}
 $$
+
+# Properties
+
+* Its [[determinant]] is 1.
