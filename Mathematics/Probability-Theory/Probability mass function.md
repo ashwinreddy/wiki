@@ -5,5 +5,5 @@ p_X (x_i) = \mathbb{P}(X = x_i)
 \end{equation}
 
 $$
-p_X(x) \geq 0
+p_X(x) \geq 0,\qquad \sum_x p_X(x) = 1
 $$
