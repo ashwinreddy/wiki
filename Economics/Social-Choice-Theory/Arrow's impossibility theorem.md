@@ -1,1 +1,0 @@
-**Arrow's impossibility theorem**
