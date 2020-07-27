@@ -3,3 +3,5 @@ A $k$-**tensor** is just a [[multilinear map]] from $k$ copies of a [[vector spa
 \begin{equation}
 T :  V^k \to \RR
 \end{equation}
+
+Therefore, a [[vector]] and a [[dual vector]] are both tensors.
