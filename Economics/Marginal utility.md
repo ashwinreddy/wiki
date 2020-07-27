@@ -1,0 +1,1 @@
+**Marginal utility** is the local change in utility.
