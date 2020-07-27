@@ -1,1 +1,0 @@
-A **mole** is a convenient way of talking about a group of particles. It is defined as an Avogadro's number of particles.
