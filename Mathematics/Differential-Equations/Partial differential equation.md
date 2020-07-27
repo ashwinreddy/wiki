@@ -1,0 +1,1 @@
+A **partial differential equation (PDE)** involves a [[partial derivative]].
