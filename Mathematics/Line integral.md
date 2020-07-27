@@ -7,5 +7,5 @@ A **line integral** is an [[integral]] of a scalar or [[vector field]] over a [[
 The vector field line integral looks like
 
 \begin{equation}
-\int_\gamma \vec{F}\left(\vec{r}\right) \cdot \dd{\vec{r}}
+\int_\gamma \mathbf{F}\left(\mathbf{r}\right) \cdot \dd{\mathbf{r}}
 \end{equation}
