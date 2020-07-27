@@ -1,1 +1,1 @@
-**Economics** is the study of the decisions that go into the consumption and production of goods and/or services.
+**Economics** is the study of the decisions that go into the consumption and production of goods and/or services. The key idea is [[opportunity cost]].
