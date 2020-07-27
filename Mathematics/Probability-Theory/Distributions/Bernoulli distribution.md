@@ -10,6 +10,8 @@ A cute way to compactly write this is
 \Pr(X = k) = \mu^k (1-\mu)^{1-k}
 \end{equation}
 
+This makes more sense in the context of the [[binomial distribution]].
+
 # Properties
 
 |Property|Value|
