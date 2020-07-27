@@ -1,14 +1,23 @@
-A **normal distribution** or **Gaussian distribution** [[probability distribution]] is a very common continuous distribution with parameters $\mu$ and $\sigma$ that control the mean and [[standard deviation]]. Possibly the simplest normal distribution to write down is the one with 0 mean and variance $(2\pi)^{-1}$.
+A **normal distribution** or **Gaussian distribution** [[probability distribution]] is a very common continuous distribution with parameters $\mu$ and $\sigma$ that control the mean and [[standard deviation]]. The general form is a little more involved, with a [[normalizing constant]] of $1/\sqrt{2\pi}$. It is a [[Gaussian function]]
+
+
+\begin{equation}
+X \sim \mathcal{N}(\mu, \sigma^2) \iff \varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
+\end{equation}
+
+
+
+
+
+
+
+
+Possibly the simplest normal distribution to write down is the one with 0 mean and variance $(2\pi)^{-1}$.
 
 \begin{equation}
 \varphi(x) = e^{-\pi x^2}
 \end{equation}
 
-The general form is a little more involved, with a [[normalizing constant]] of $1/\sqrt{2\pi}$. It is a [[Gaussian function]]
-
-\begin{equation}
-X \sim \mathcal{N}(\mu, \sigma^2) \iff \varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
-\end{equation}
 
 However, we can write $X$ using the standard normal $Z \sim \mathcal{N}(0, 1)$.
 
