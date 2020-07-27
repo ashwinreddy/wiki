@@ -1,0 +1,1 @@
+The **intersection** of [[set]] $A$ and set $B$ is denoted $A \cup B$
