@@ -15,3 +15,8 @@ Or, we just write using $i = \begin{bmatrix}0 & -1 \\\\\ 1 & 0 \end{bmatrix}$,
 $$
 R = I \cos\theta + i\sin\theta
 $$
+
+
+$$
+R = I \cos\theta + \iota \sin\theta = \lim_{n \to \infty}\left(I + \iota\frac{\theta}{n}\right)^n
+$$
