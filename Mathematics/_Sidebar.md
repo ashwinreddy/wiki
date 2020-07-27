@@ -1,6 +1,3 @@
-* [Topology](./Topology/)
-* [Abstract Algebra](./Abstract-Algebra/)
+* [Calculus](./Calculus/)
 * [Linear Algebra](./Linear-Algebra/)
 * [Probability Theory](./Probability-Theory/)
-* [Calculus](./Calculus/)
-* [Number Theory](./Number-Theory/)
