@@ -22,7 +22,3 @@ Since $a + b\iota$ is just a linear combination of two vectors, we should be abl
 \begin{equation}
 a + b \iota = \begin{bmatrix}a & -b \\\\\ b & a\end{bmatrix}
 \end{equation}
-
-$$
-R = I \cos\theta + \iota \sin\theta = \lim_{n \to \infty}\left(I + \iota\frac{\theta}{n}\right)^n
-$$
