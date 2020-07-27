@@ -1,0 +1,1 @@
+A **mean** is an "average."
