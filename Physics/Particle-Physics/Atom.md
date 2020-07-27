@@ -1,1 +1,1 @@
-An **atom** has [[proton]](s).
+An **atom** has [[proton]](s) and [[electron]](s) and perhaps [[neutron]](s).
