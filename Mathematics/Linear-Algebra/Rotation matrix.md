@@ -2,7 +2,7 @@ A **rotation matrix** is a [[square matrix]] $A$ that represents a rotation in t
 
 # 2D
 
-In 2D, a rotation matrix for angle $\theta$,
+In 2D, a rotation matrix for angle $\theta$ is given by
 $$
 R(\theta) = \begin{bmatrix}
 \cos \theta & - \sin\theta \\\\\
@@ -10,7 +10,7 @@ R(\theta) = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-Or, we just write using $i = \begin{bmatrix}0 & -1 \\\\\ 1 & 0 \end{bmatrix}$,
+We can interpret this as a [[complex number]]
 
 $$
 R = I \cos\theta + i\sin\theta
