@@ -1,0 +1,1 @@
+**Inverse function** for a [[function]] $f$ is a function denoted $f^{-1}$ such that composed is [[identity function]].
