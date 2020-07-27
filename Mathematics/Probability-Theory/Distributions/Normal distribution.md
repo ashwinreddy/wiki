@@ -20,7 +20,7 @@ $$
 X = \mu + \sigma Z \iff Z = { X - \mu \over \sigma}
 \end{equation}
 
-Roughly 68% of the probability mass falls within 1 [[standard deviation]] of the [[mean]].
+Roughly 68% of the probability mass falls within 1 [[standard deviation]] of the mean.
 
 # Properties
 
