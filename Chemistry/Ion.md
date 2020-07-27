@@ -1,1 +1,1 @@
-An **ion** has [[electric charge]].
+An **ion** is an [[atom]] with [[electric charge]].
