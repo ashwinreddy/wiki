@@ -1,1 +1,1 @@
-The **intersection** of [[set]] $A$ and set $B$ is denoted $A \cup B$
+The **intersection** of [[set]] $A$ and set $B$ is denoted $A \cap B$ with all common elements.
