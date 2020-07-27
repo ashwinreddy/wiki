@@ -2,6 +2,5 @@
 * [Abstract Algebra](./Abstract-Algebra/)
 * [Linear Algebra](./Linear-Algebra/)
 * [Probability Theory](./Probability-Theory/)
-* [Category Theory](./Category-Theory/)
 * [Calculus](./Calculus/)
 * [Number Theory](./Number-Theory/)
