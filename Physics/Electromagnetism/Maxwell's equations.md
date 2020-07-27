@@ -1,4 +1,4 @@
-**Maxwell's equations** capture classical electromagnetism by describing the relationship between [[electric field]] and [[magnetic field]]. They can be presented canonically as four [[partial differential equations]] in vector calculus terms. There are two homogeneous equations and two inhomogeneous equations.
+**Maxwell's equations** capture classical electromagnetism by describing the relationship between [[electric field]] and [[magnetic field]]. They can be presented canonically as four [[partial differential equation]] in vector calculus terms. There are two homogeneous equations and two inhomogeneous equations.
 
 |Name|Differential Form|Integral Form|
 |---|-----------------|--------------|
