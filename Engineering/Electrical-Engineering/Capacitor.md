@@ -4,7 +4,6 @@ $$
 q = Cv
 $$
 
-In a circuit, the [[electric current]] will be proportional to the [[derivative]] of [[electric potential]].
 
 $$
 i = C \dv{v}{t}
