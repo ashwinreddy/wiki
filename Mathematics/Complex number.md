@@ -2,6 +2,8 @@ A **complex number** is a number of the form $$z = a+ b \iota$$ where $\iota$ is
 
 The complex numbers are naturally 2-dimensional. The surprising fact is that multiplying complex numbers means rotating one by the other. Since [[Euler's formula]] enables us to think of them both in polar and cartesian coordinates, complex numbers are very handy. 
 
+[[_TOC_]]
+
 # Notation
 
 It is useful to refer to the real and imaginary parts of a complex number without needing to label these explictly. 
