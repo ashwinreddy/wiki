@@ -4,6 +4,8 @@ There are two parts to the **fundamental theorem of calculus**, both of which co
 \dv{}{x}\int_c^x f(x) \\,\dd{x} = f(x) \tag{FTC 1}
 \end{equation}
 
+Let $F$ be an [[antiderivative]] of $f$.
+
 \begin{equation}
 \label{eq:ftc2}
 \int_a^b f(x) \\,\dd{x} = F(b) - F(a) \tag{FTC 2}, \quad F'(x) = f(x)
