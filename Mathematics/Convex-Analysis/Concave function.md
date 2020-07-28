@@ -1,0 +1,1 @@
+A **concave function** ($frown$) is the negative of a [[convex function]]
