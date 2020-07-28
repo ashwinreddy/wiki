@@ -3,3 +3,5 @@ The **eigenfunction** for a linear operator $D$ is a [[function]] $f$ that satis
 $$
 Df = \lambda f
 $$
+
+For the [[derivative]], the eigenfunction is the [[exponential function]].
