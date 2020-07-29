@@ -1,0 +1,1 @@
+The **special unitary group** $\operatorname{SU}(n)$
