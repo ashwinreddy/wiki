@@ -1,1 +1,1 @@
-**Fructose** is a monosaccharide [[ketone]]. It can be combined with [[glucose]].
+**Fructose** is a [[monosaccharide]] [[ketone]]. It can be combined with [[glucose]].
