@@ -27,3 +27,5 @@ The logarithm in any base of 0 is undefined.
 \begin{equation}
 \log \prod_i x_i = \sum_i \log x_i
 \end{equation}
+
+* [[Monotonic function]]
