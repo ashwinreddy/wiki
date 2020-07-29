@@ -1,0 +1,1 @@
+**Carbonyl group** is a [[functional group]] with [[carbon]] [[double bond]] to [[oxygen]].
