@@ -1,0 +1,1 @@
+**Double bond** is a [[covalent bond]] with shared electrons.
