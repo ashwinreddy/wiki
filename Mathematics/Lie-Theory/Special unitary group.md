@@ -1,1 +1,1 @@
-The **special unitary group** $\operatorname{SU}(n)$ is the [[Lie group]] of $n\times n$ [[unitary matrices|unitary matrix]]
+The **special unitary group** $\operatorname{SU}(n)$ is the [[Lie group]] of $n\times n$ [[unitary matrices|unitary matrix]] with [[determinant]] 1.
