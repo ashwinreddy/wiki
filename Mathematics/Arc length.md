@@ -5,5 +5,5 @@ L = \int_a^b \dd{s}
 $$
 
 $$
-s = \lVert \dot{\gamma}(t) \rVert \dd{t}
+\dd{s} = \lVert \dot{\gamma}(t) \rVert \dd{t}
 $$
