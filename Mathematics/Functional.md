@@ -1,0 +1,1 @@
+A **functional** is a function on a function space.
