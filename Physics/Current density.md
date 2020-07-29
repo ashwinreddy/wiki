@@ -1,2 +1,2 @@
-**Current density** is the [[electric current]] per unit area.
+**Current density** is the [[density]] of [[electric current]] per unit area.
 
