@@ -5,7 +5,7 @@ b^{\log_b a } = a
 \end{equation}
 
 
-Common bases are 2, $e$, and 10. To write these succinctly, we use $\lg$, $\ln$, and $\log$, respectively. However, all logarithms are equivalent up to a factor, which allows us to use one of these common bases in any scenario.
+Common bases are 2, $e$, and 10. To write these succinctly, we can use $\lg$, $\ln$, and $\log$, respectively. However, all logarithms are equivalent up to a factor, which allows us to use one of these common bases in any scenario.
 
 \begin{equation}
 \log_b x = \frac{\ln x}{\ln b} \tag{Change of Base}
