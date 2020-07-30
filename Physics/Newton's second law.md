@@ -7,7 +7,7 @@
 For constant mass, this reduces to [[mass]] times [[acceleration]]. Otherwise, we use the [[rocket equation]].
 
 $$
-F = ma
+\vec{F} = m\vec{a}
 $$
 
 Usually, we treat this as a [[differential equation]] to solve
