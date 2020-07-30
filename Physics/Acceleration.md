@@ -4,4 +4,4 @@ $$
 [a] = \frac{L}{T^2}
 $$
 
-Newton's laws tell us that different observers cannot disagree acceleration.
+Newton's laws tell us that different observers cannot disagree acceleration. $\ddot\smile$
