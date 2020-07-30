@@ -9,5 +9,9 @@ Newton's laws tell us that different observers cannot disagree acceleration.
 # Uniform acceleration
 
 $$
-\Delta x(t) = v_0 t + \frac{1}{2}at^2
+x(t) = x_0 + v_0 t + \frac{1}{2}at^2
+$$
+
+$$
+v^2 = v_0^2 + 2 a \Delta x
 $$
