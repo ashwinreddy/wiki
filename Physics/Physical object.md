@@ -1,1 +1,1 @@
-A **physical object** has [[mass]].
+A **physical object** has [[mass]] and position.
