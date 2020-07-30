@@ -1,0 +1,1 @@
+A **log probability** is the [[logarithm]] of a [[probability]]
