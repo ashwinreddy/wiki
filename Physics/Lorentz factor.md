@@ -10,4 +10,10 @@ The Lorentz factor is given by the expression below, a derivation for which can 
 \gamma = \frac{1}{\sqrt{1 - \beta^2}}
 \end{equation}
 
-At low speeds (meaning $v \ll c$), the value of $\beta$ is close to 0. It follows that $\gamma$ is then approximately 1, which explains why we don't really see the effects of the Lorentz factor in everyday life.
+At low speeds (meaning $v \ll c$), the value of $\beta$ is close to 0. 
+
+$$
+\lim_{\beta \to 0} \gamma = 1
+$$
+
+It follows that $\gamma$ is then approximately 1, which explains why we don't really see the effects of the Lorentz factor in everyday life.
