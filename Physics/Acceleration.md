@@ -1,4 +1,4 @@
-**Acceleration** is the second [[time derivative]] of [[displacement]] or the time derivative of [[velocity]].
+**Acceleration** is the second [[time derivative]] of displacement or the time derivative of [[velocity]].
 
 $$
 [a] = \frac{L}{T^2}
