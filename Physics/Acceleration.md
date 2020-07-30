@@ -9,5 +9,5 @@ Newton's laws tell us that different observers cannot disagree acceleration.
 # Uniform acceleration
 
 $$
-\Delta\vec{v} = \vec{a}t
+\vec{v} = \vec{v}_0 + \vec{a}t
 $$
