@@ -1,1 +1,1 @@
-**Deoxyribonucleic acid (DNA)** is an [[acid]]
+**Deoxyribonucleic acid (DNA)** is an [[acid]].
