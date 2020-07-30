@@ -1,1 +1,1 @@
-A **log probability** is the [[logarithm]] of a probability. A negative log probability is [[surprisal]]
+A **log probability** is the [[logarithm]] of a probability. A negative log probability is [[surprisal]].
