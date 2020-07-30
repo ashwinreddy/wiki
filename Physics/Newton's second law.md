@@ -1,4 +1,4 @@
-**Newton's second law** says that the net [[force]] is the [[time derivative]] of a [[physical body]]'s net [[momentum]].
+**Newton's second law** says that the net [[force]] is the [[time derivative]] of a [[physical object]]'s net [[momentum]].
 
 \begin{equation}
 \vec{F} = \dv{\vec{p}}{t}
