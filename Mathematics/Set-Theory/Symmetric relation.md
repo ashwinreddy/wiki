@@ -1,0 +1,1 @@
+A **symmetric relation** is a [[binary relation]] whose order does not matter.
