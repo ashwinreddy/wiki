@@ -2,7 +2,7 @@ A **function** is a [[binary relation]] that represents a mapping, a rule that a
 
 \begin{align\*}
 f: \mathsf{Domain} &\to \mathsf{Codomain} \\\\\
-a &\mapsto f(a)
+x &\mapsto f(x)
 \end{align\*}
 
 The domain is a [[set]], and so is the codomain.
