@@ -4,7 +4,7 @@
 \vec{F} = \dv{\vec{p}}{t}
 \end{equation}
 
-For constant mass, this reduces to [[mass]] times [[acceleration]].
+For constant mass, this reduces to [[mass]] times [[acceleration]]. Otherwise, we use the [[rocket equation]].
 
 $$
 F = ma
