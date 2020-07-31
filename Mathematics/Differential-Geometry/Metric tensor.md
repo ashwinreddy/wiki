@@ -1,6 +1,6 @@
 The **metric tensor** or **first fundamental form** $g$ is a [[tensor]] representing the generalized dot product for a manifold, which may vary at each point. The metric is bilinear, symmetric, and nondegenerate. In terms of signature, this requires a [[tangent bundle]].
 
-> The metric tensor g induces on each tangent plane Tp an inner product space that allows one to measure vector magnitudes (vector “lengths”) and angles/orthogonality between vectors.
+> The metric tensor $g$ induces on each tangent plane $T_p$ an inner product space that allows one to measure vector magnitudes (vector “lengths”) and angles/orthogonality between vectors.
 
 \begin{equation}
 g: TM \times TM \to \RR
