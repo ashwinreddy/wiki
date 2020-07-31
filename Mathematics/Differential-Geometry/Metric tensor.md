@@ -27,3 +27,5 @@ There is a [[quadratic form]]
 $$
 q(X) = g(X, X)
 $$
+
+---
