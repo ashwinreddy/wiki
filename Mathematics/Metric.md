@@ -1,1 +1,1 @@
-A **metric** is a [[binary operation]] $d: X \times X \to \RR$.
+A **metric** is a [[binary operation]] $d: X \times X \to \RR$ for a [[set]] $X$ with $d$ describing a notion of distance.
