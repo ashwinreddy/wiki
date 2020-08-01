@@ -1,1 +1,1 @@
-A **closed set** is a [[set]] whose complement is an [[open set]].
+A **closed set** is a [[set]] whose [[complement]] is an [[open set]].
