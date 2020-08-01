@@ -11,5 +11,5 @@ The multiplication operation is an external binary operation.
 
 \begin{align\*}
 \cdot: F \times \mathcal{V} &\to \mathcal{V} \\\\
-(c, \mathbf{a}) & \mapsto c \mathbf{a}
+(c, \mathbf{a}) & \mapsto c \cdot\mathbf{a}
 \end{align\*}
