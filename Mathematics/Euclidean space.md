@@ -1,1 +1,1 @@
-**Euclidean space**
+**Euclidean space** is the [[manifold]] with a global identity chart.
