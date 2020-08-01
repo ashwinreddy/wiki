@@ -5,4 +5,4 @@ A **topological space** is a [[set]] $X$ with a topology $\tau$ such that
 3. The intersection of any two members of $\tau$ are in $\tau$
 
 
-A common example would be the real number line $\RR$.
+A common example would be the [[real number]] line $\RR$ with every open interval as the topology.
