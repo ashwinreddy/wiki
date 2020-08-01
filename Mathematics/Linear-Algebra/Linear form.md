@@ -1,0 +1,1 @@
+A **linear form** is a [[linear map]] from a [[vector space]] $V$ to its underlying field.
