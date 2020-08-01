@@ -1,1 +1,1 @@
-A **linear form** is a [[linear map]] from a [[vector space]] $V$ to its underlying field.
+A **linear form**/**dual vector**/**covector**/**one-form** is a [[linear map]] from a [[vector space]] $V$ to its underlying field.
