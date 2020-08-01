@@ -4,12 +4,12 @@ The addition operation is a [[binary operation]].
 
 \begin{align\*}
 +: \mathcal{V} \times \mathcal{V} &\to \mathcal{V} \\\\
-(a, b) & \mapsto a +b
+(\mathbf{a}, \mathbf{b}) & \mapsto \mathbf{a} + \mathbf{b}
 \end{align\*}
 
 The multiplication operation is an external binary operation.
 
 \begin{align\*}
 \cdot: F \times \mathcal{V} &\to \mathcal{V} \\\\
-(\alpha, b) & \mapsto \alpha a
+(\alpha, \mathbf{a}) & \mapsto \alpha \mathbf{a}
 \end{align\*}
