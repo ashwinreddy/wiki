@@ -1,0 +1,1 @@
+The **complement** of a set $X$ is a set $Y$ such that the [[union]] of $Y$ and $X$ covers the universe.
