@@ -1,0 +1,1 @@
+An **open set**. The simplest example is an open interval in the [[real numbers|real number]].
