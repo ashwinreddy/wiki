@@ -1,1 +1,1 @@
-A **metric space** is a [[set]] with a [[metric]].
+A **metric** is a [[binary operation]] $d: X \times X \to \RR$.
