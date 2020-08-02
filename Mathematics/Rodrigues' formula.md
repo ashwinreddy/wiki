@@ -1,7 +1,7 @@
-**Rodrigues' formula** tells you how to compute the rotation of a vector $\mathbf{v}$ about $\mathbf{u}$ through angle $\theta$.
+**Rodrigues' formula** tells you how to compute the rotation of a vector $\vec{v}$ about $\vec{u}$ through angle $\theta$.
 
 \begin{align}
-\mathbf{v}' &= \mathbf{v}\_\parallel + \mathbf{v}\_\perp\cos\theta + (\mathbf{u} \times \mathbf{v}\_\perp)\sin\theta \\\\\
-\mathbf{v}\_\parallel &= \mathbf{u}(\mathbf{u}\cdot\mathbf{v}) \\\\\
-\mathbf{v}\_\perp &= \mathbf{v} - \mathbf{v}_\parallel
+\vec{v}' &= \vec{v}\_\parallel + \vec{v}\_\perp\cos\theta + (\vec{u} \times \vec{v}\_\perp)\sin\theta \\\\\
+\vec{v}\_\parallel &= \vec{u}(\vec{u}\cdot\mathbf{v}) \\\\\
+\vec{v}\_\perp &= \vec{v} - \vec{v}_\parallel
 \end{align}
