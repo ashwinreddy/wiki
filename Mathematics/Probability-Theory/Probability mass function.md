@@ -4,6 +4,8 @@ A **probability mass function (PMF)** is a [[function]] $p : \mathbb{R} \to [0,1
 p_X (x_i) = \mathbb{P}(X = x_i)
 \end{equation}
 
+The conditions for the function are that
+
 $$
 p_X(x) \geq 0,\qquad \sum_x p_X(x) = 1
 $$
