@@ -10,7 +10,7 @@ R(\theta) = \begin{bmatrix}
 \end{bmatrix}
 $$
 
-We can interpret this as a [[complex number#matrix construction]]
+We can interpret this as a [[complex number#matrix-construction]]
 
 $$
 R = I \cos\theta + i\sin\theta
