@@ -1,7 +1,7 @@
 **Softmax** is normalized [[exponential function]].
 
 $\def\sc#1{\dosc#1\csod}$
-
+$\def\dosc#1#2\csod{{\rm #1{\small #2}}}$
 
 $$
 \sc{softmax}\left(\begin{bmatrix} z_1 \\\\\ \vdots \\\\\ z_n \end{bmatrix}\right) = { 1 \over \sum_{i=1}^n e^{z_i} } \begin{bmatrix} e^{z_1} \\\\\ \vdots \\\\\ e^{z_n} \end{bmatrix}
