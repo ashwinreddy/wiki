@@ -1,0 +1,1 @@
+The **trigonometric functions** include $\sin$, $\cos$, $\tan$, $\sec$, $csc$, and $cot$.
