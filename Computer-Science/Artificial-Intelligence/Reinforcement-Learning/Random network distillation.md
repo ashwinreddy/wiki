@@ -15,8 +15,6 @@ Typically, we want $i_t$ to be a decreasing function of the visitation count $n_
 
 We use two [[neural nets|artificial neural network]], a target and a predictor.
 
-# Algorithm
-
 
 
 ---
