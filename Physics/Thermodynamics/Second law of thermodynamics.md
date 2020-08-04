@@ -1,1 +1,1 @@
-The **second law of thermodynamics** says [[entropy]] tends to increase.
+The **second law of thermodynamics** says [[/Physics/Entropy]] tends to increase.
