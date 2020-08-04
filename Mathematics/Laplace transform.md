@@ -4,7 +4,7 @@ The **Laplace transform** is an [[integral transform]] using a decaying [[expone
 \mathscr{L} \left\\{ f(t) \right\\} \triangleq \int_0^\infty f(t) e^{-st} \dd{t}
 \end{equation}
 
-The transform can be used to turn [[differential equation]] into algebraic ones that can be solved easily and converted back into solutions.
+where $s$ is allowed to be a [[complex number]]. The transform can be used to turn [[differential equation]] into algebraic ones that can be solved easily and converted back into solutions.
 
 |$f(t)$|$F(s)$|
 |------|:------:|
