@@ -1,7 +1,7 @@
 **Acceleration** is the [[time derivative]] of [[velocity]].
 
 $$
-a \triangleq \dv{v}{t}
+a \triangleq \dot{v} = \dv{v}{t}
 $$
 
 $$
