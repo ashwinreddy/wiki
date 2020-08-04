@@ -1,1 +1,1 @@
-A **graph** $G=(V, E)$ is a [[set]] of vertices $V$ and edges $E \subseteq V \times V$.
+A **graph** is a [[set]] of vertices and edges that connect them.
