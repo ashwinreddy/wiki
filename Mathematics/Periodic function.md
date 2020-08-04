@@ -4,4 +4,4 @@ $$
 \forall x: f(x + T) = f(x).
 $$
 
-Therefore, one only needs to know the values in any arbitrary interval of length $T$ to know the function fully.
+Therefore, one only needs to know the values in any arbitrary interval of length $T$ to know the function fully. A [[sine wave]] is a prototypical example.
