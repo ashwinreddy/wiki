@@ -11,7 +11,7 @@ The **expected value** or **expectation** is a [[functional]] that collapses the
 In terms of the [[cumulative distribution function]],
 
 $$
-\mathrm{E}[X] = \int_\bar{\RR} x\\, \dd{F(x)}
+\mathrm{E}[X] = \int_{\RR} x\\, \dd{F(x)}
 $$
 
 # Properties
