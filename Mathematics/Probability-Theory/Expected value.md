@@ -1,17 +1,17 @@
 The **expected value** or **expectation** is a [[functional]] that collapses the [[probability distribution]] of a [[random variable]] to a single representative, which we understand to be its [[mean]]. Notationally, the expectation tells you where to draw samples from and then an expression to compute with those samples and will then tell you what the expected average value of that expression is.
 
 \begin{equation}
-\mathrm{E}\left[X\right] = \sum_{x \in \mathcal{X}} xp(x)
+\mathbb{E}\left[X\right] = \sum_{x \in \mathcal{X}} xp(x)
 \end{equation}
 
 \begin{equation}
-\mathrm{E}\left[X\right] = \int x p(x) \dd{x}
+\mathbb{E}\left[X\right] = \int x p(x) \dd{x}
 \end{equation}
 
 In terms of the [[cumulative distribution function]],
 
 $$
-\mathrm{E}[X] = \int_{\RR} x\\, \dd{F(x)}
+\mathbb{E}[X] = \int_{\RR} x\\, \dd{F(x)}
 $$
 
 # Properties
@@ -21,9 +21,9 @@ $$
 For any random variables $X$ and $Y$,
 
 \begin{equation}
-\mathrm{E}[X+Y] = \mathbb{E}[X] + \mathbb{E}[Y]
+\mathbb{E}[X+Y] = \mathbb{E}[X] + \mathbb{E}[Y]
 \end{equation}
 
 \begin{equation}
-\mathrm{E}\left[\alpha X\right] = \alpha \mathbb{E}[X]
+\mathbb{E}\left[\alpha X\right] = \alpha \mathbb{E}[X]
 \end{equation}
