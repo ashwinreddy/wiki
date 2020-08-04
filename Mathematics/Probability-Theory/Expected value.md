@@ -21,9 +21,9 @@ $$
 For any random variables $X$ and $Y$,
 
 \begin{equation}
-\mathbb{E}[X+Y] = \mathbb{E}[X] + \mathbb{E}[Y]
+\mathrm{E}[X+Y] = \mathbb{E}[X] + \mathbb{E}[Y]
 \end{equation}
 
 \begin{equation}
-\mathbb{E}\left[\alpha X\right] = \alpha \mathbb{E}[X]
+\mathrm{E}\left[\alpha X\right] = \alpha \mathbb{E}[X]
 \end{equation}
