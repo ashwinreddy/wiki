@@ -1,5 +1,5 @@
 **Energy** is the ability to do [[work]].
 
 $$
-[E] = \frac{ML\^2}{T^2}
+[E] = \frac{[M][L]\^2}{[T]^2}
 $$
