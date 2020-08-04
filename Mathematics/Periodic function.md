@@ -3,3 +3,5 @@ A **periodic function** is a [[function]] that repeats itself periodically. If t
 $$
 \forall x: f(x + T) = f(x).
 $$
+
+Therefore, one only needs to know the values in any arbitrary interval of length $T$ to know the function fully.
