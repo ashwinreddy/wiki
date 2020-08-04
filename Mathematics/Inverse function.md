@@ -2,7 +2,7 @@
 
 # Derivative
 
-Suppose $f$ and $g$ are inverses. Then $(f \circ g)$ is the [[identity map]]. By chain rule, we know that
+Suppose $f$ and $g$ are inverses. Then $(f \circ g)$ is the [[identity function]]. By chain rule, we know that
 
 $$
 f'(g(x))g'(x) = 1 \implies g'(x) = \frac{1}{f'(g(x))}
