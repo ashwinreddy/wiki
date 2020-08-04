@@ -4,6 +4,7 @@ $$
 I = \int_\mathbb{R} \exp\left(-x^2\right) \dd{x}
 $$
 
-$$
-I = \sqrt{I^2} = \sqrt{\left(\int_\mathbb{R} \exp\left(-x^2\right) \dd{x}\right)\left(\int_\mathbb{R} \exp\left(-x^2\right) \dd{x}\right)}
-$$
+\begin{align}
+I &= \sqrt{I^2} \\\\\
+&== \sqrt{\left(\int_\mathbb{R} \exp\left(-x^2\right) \dd{x}\right)\left(\int_\mathbb{R} \exp\left(-x^2\right) \dd{x}\right)}
+\end{align}
