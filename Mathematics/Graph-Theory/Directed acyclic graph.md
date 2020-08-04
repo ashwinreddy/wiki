@@ -1,1 +1,1 @@
-A **directed acyclic graph (DAG/dag)** is a kind of [[graph]]
+A **directed acyclic graph (DAG/dag)** is a kind of [[graph]] in which the edges have directions and there are no cycles.
