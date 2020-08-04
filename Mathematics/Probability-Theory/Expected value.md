@@ -5,7 +5,7 @@ The **expected value** or **expectation** is a [[functional]] that collapses the
 \end{equation}
 
 \begin{equation}
-\mathbb{E}\left[X\right] = \int x p(x) \dd{x}
+\mathbb{E}\left[X\right] = \int_\RR x p(x) \dd{x}
 \end{equation}
 
 In terms of the [[cumulative distribution function]],
