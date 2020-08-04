@@ -1,7 +1,7 @@
 A **logarithm** is the [[inverse function]] of an [[exponential function]], meaning for a choice of base $b > 0$,
 
 \begin{equation}
-b^{\log_b a } = a
+b^{\log_b a } \equiv a
 \end{equation}
 
 
