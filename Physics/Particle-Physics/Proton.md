@@ -1,1 +1,1 @@
-A **proton** is a small positively charged particle found in [[atoms|atom]].
+A **proton** is a small positively charged particle that makes up every [[atoms|atom]].
