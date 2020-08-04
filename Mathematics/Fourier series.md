@@ -4,9 +4,11 @@ $$
 f(x) = \frac{a_0}{2} + \sum_{n=1}^\infty a_n \cos\left(\frac{2\pi nx}{T}\right) + \sum_{n=1}^\infty b_n \sin\left(\frac{2\pi nx}{T}\right)
 $$
 
-$$
-a_0 = \frac{1}{T}\int_0^T f(t)\\,\dd{t}
-$$
+\begin{align}
+a_0 = \frac{1}{T}\int_0^T f(t)\\,\dd{t} \\\\\
+a_n  = \frac{2}{T} \int_0^T f(t) \cos\left(\frac{2\pi nx}{T}\right) \\,\dd{t} \\\\
+b_n = \frac{2}{T} \int_0^T f(t) \sin\left(\frac{2\pi nx}{T}\right) \\,\dd{t}
+\end{align}
 
 $$
 f(x) = \sum_{k=-\infty}^\infty c_n e^{\iota kx}
