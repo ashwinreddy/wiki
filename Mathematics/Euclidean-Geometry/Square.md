@@ -1,0 +1,1 @@
+A **square** is a [[rectangle]] with equal lengths.
