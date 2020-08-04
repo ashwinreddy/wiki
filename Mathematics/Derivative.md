@@ -25,3 +25,7 @@ From Equation \ref{eq:vel}, Leibniz came up with the mathematical notation.
 \begin{equation}
 v = \dv{x}{t}
 \end{equation}
+
+# Properties
+
+* [[Linear map]]
