@@ -1,4 +1,4 @@
-**Statistics** is the study of data.
+
 
 # Resources
 * [18.650](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
