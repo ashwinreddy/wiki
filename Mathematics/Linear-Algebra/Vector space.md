@@ -1,4 +1,4 @@
-A **vector space** is a [[set]] $\mathcal{V}$ of [[vectors|vector]] you can add together and scale. 
+A **vector space** is a [[set]] $\mathscr{V}$ of [[vectors|vector]] you can add together and scale. 
 
 The addition operation is a [[binary operation]].
 
