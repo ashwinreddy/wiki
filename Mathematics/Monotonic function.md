@@ -1,1 +1,1 @@
-**Monotonic function** is a [[function]] that preserves or reverses order.
+**Monotonic function** is a [[function]] that fully preserves or reverses order.
