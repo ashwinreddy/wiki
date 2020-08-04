@@ -5,5 +5,5 @@
 Suppose $f$ and $g$ are inverses. By chain rule, we know that
 
 $$
-f'(g(x))g'(x) = 1
+f'(g(x))g'(x) = 1 \implies g'(x) = \frac{1}{f'(g(x))}
 $$
