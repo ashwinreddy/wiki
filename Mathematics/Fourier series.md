@@ -11,5 +11,5 @@ b_n = \frac{2}{T} \int_0^T f(t) \sin\left(\frac{2\pi nt}{T}\right) \\,\dd{t}
 \end{align}
 
 $$
-f(x) = \sum_{k=-\infty}^\infty c_n e^{\iota kx}
+f(t) = \sum_{k=-\infty}^\infty c_n e^{\iota \frac{2\pi kt}{T}}
 $$
