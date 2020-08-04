@@ -1,4 +1,8 @@
-**Acceleration** is the time derivative of [[velocity]].
+**Acceleration** is the [[time derivative]] of [[velocity]].
+
+$$
+a = \dv{v}{t}
+$$
 
 $$
 [a] = \frac{L}{T^2}
