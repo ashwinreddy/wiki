@@ -1,7 +1,7 @@
 The **Laplace transform** is an [[integral transform]] using a decaying [[exponential function]]. It is related to the [[Fourier transform]].
 
 \begin{equation}
-\mathscr{L} \left\\{ f(t) \right\\} \doteq \int_0^\infty f(t) e^{-st} \dd{t}
+\mathscr{L} \left\\{ f(t) \right\\} \triangleq \int_0^\infty f(t) e^{-st} \dd{t}
 \end{equation}
 
 The transform can be used to turn [[differential equation]] into algebraic ones that can be solved easily and converted back into solutions.
