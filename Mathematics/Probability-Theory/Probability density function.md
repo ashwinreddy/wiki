@@ -5,7 +5,7 @@ f : \Omega \to [0, 1]
 $$
 
 \begin{equation}
-\int_\Omega \varphi = 1
+\int_\Omega \varphi \\, \dd{x} = 1
 \end{equation}
 
 \begin{equation}
