@@ -1,0 +1,1 @@
+A **surjection** is a [[function]] that fills its codomain completely.
