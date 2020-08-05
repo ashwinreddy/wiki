@@ -1,4 +1,7 @@
-**Sine** is one of the [[trigonometric functions]]. It is an [[odd function]].
+**Sine** is one of the [[trigonometric functions]]. It is an [[odd function]]. 
+
+
+It can be expressed in terms of the [[exponential function]]
 
 $$
 \sin x = \frac{e^{\iota\theta} - e^{-\iota\theta} }{2 \iota}
