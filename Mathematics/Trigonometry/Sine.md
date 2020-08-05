@@ -1,0 +1,1 @@
+**Sine** is an [[odd function]]
