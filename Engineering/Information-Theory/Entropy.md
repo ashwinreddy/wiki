@@ -1,7 +1,7 @@
 **Entropy** is the [[expected value]] of [[surprisal]] in a [[random variable]].  
 
 $$
-\mathcal{H}(X) \doteq \mathbb{E}[I_X(x)]
+\mathcal{H}(X) \triangleq \mathbb{E}[I_X(x)]
 $$
 
 If we expose the underlying value we are trying to take the expectation over,
