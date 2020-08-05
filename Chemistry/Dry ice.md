@@ -1,0 +1,1 @@
+**Dry ice** is a solid [[carbon dioxide]].
