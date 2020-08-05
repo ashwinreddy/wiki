@@ -1,1 +1,1 @@
-**Sine** is one of the [[trigonometric functions]]. It is an [[odd function]]
+**Sine** is one of the [[trigonometric functions]]. It is an [[odd function]].
