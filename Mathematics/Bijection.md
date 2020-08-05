@@ -1,0 +1,1 @@
+A **bijection** is a [[function]] $f$ that is both an [[injection]] and a [[surjection]] so that $f^{-1}$ is defined on the entire codomain.
