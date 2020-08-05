@@ -13,6 +13,11 @@ where $s$ is allowed to be a [[complex number]]. The transform can be used to tu
 |$e^{at}$|$\frac{1}{s-a}$|
 |[[Convolution]]|Multiplication|
 
+# Origin
+
+$$
+\sum_{n=0}^\infty a_n x^n \to \int_0^\infty a(t) x^t \dd{t}
+$$
 
 # Properties
 
