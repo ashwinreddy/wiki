@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-\sin x \approx x - \frac{x^3}{3!} + \frac{x^5}{5!}
+\sin x \approx x - \frac{x^3}{3!} + \frac{x^5}{5!} + \order{x^7}
 $$
