@@ -14,3 +14,9 @@ The first few terms of its [[Taylor series]] are
 $$
 \sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} + \text{h.o.t.}
 $$
+
+# Properties
+
+$$
+\int_{-\pi}^\pi \sin(mx) \dd{x} = 0
+$$
