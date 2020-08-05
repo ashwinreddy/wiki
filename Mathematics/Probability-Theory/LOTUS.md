@@ -5,6 +5,6 @@ $$
 $$
 
 $$
-\mathbb{E}\left[g(X)\right] = \int_\RR g(x) f_X(x) \dd{x}
+\mathbb{E}\left[g(X)\right] = \int_\RR g(x) f_X(x)\\, \dd{x}
 $$
 
