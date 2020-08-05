@@ -1,7 +1,7 @@
 **Action** is [[integral]] of [[energy]] over [[time]].
 
 $$
-S = \int_a^b \mathcal{L}\\, \dd{t}
+S = \int_a^b \mathscr{L}\\, \dd{t}
 $$
 
 $$
