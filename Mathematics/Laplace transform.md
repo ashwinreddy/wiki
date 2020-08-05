@@ -15,6 +15,8 @@ where $s$ is allowed to be a [[complex number]]. The transform can be used to tu
 
 # Origin
 
+The Laplace transform is the continuous version of the LHS in
+
 $$
 \sum_{n=0}^\infty a_n x^n \to \int_0^\infty a(t) x^t \dd{t}
 $$
