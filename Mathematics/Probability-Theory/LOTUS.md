@@ -3,3 +3,8 @@ The **law of the unconscious statistician (LOTUS)** says that an [[expected valu
 $$
 \mathbb{E}\left[g(X)\right] = \sum_x g(x) f_X(x)
 $$
+
+$$
+\mathbb{E}\left[g(X)\right] = \int_\RR g(x) f_X(x) \dd{x}
+$$
+
