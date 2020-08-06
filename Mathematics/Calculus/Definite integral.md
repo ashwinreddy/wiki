@@ -1,1 +1,1 @@
-**Definite integral** [[integral]]
+**Definite integral** [[integral]]. [[Riemann sum]] is one implementation.
