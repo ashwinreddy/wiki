@@ -51,3 +51,4 @@ def rotate_vector(vector, axis, angle):
 # Resources
 
 * [[https://fexpr.blogspot.com/2014/03/the-great-vectors-versus-quaternions.html]]
+* [[https://www.quantamagazine.org/the-strange-numbers-that-birthed-modern-algebra-20180906/]]
