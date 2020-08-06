@@ -1,4 +1,4 @@
-A **curve** is a map from the [[unit interval]] $I$ to a geometric object $X$.
+A **curve** is a map from the [[unit interval]] $I$ to a geometric space $X$.
 
 $$
 \gamma : I \to X
