@@ -17,5 +17,5 @@ Its inverse is the [[logarithm]]
 # Properties
 
 \begin{equation}
-\exp\left(\sum_i x_i\right) = \prod_i \exp {x_i}
+\exp \sum_i x_i  = \prod_i \exp {x_i}
 \end{equation}
