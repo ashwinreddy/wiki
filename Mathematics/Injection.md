@@ -9,3 +9,5 @@ By definition, it must be the case that if $x = y$, then $f(x)=f(y)$, but this s
 $$
 f(x) = f(y) \iff x = y
 $$
+
+An injective function is invertible on its range.
