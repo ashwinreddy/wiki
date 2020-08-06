@@ -11,5 +11,3 @@ There is also the [[antiderivative]] when limits are not put on the integral.
 \end{equation}
 
 One question that comes up is the importance of the $\dd{x}$. In the language of differential forms, this notation is given more concrete meaning.
-
-[[Riemann sum]] is one implementation.
