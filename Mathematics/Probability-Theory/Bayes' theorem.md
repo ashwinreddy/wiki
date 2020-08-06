@@ -32,3 +32,7 @@ Just notice that
 $$
 p(a \mid b)p(b) = p(b \mid a)p(a)
 $$
+
+# Resources
+
+* [[https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html]]
