@@ -1,2 +1,2 @@
-**Current density** $\vec{j}$ is the [[electric current]] per unit area.
+**Current density** $\vec{\jmath}$ is the [[electric current]] per unit area.
 
