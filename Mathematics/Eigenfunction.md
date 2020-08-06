@@ -13,5 +13,5 @@ $$
 This is a simple [[differential equation]], solved by the [[exponential function]]
 
 $$
-f(t) = e\^{\lambda t)
+f(t) = e\^{\lambda t}
 $$
