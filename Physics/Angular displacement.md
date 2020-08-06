@@ -1,4 +1,4 @@
-**Angular displacement** $\theta$ measures the extent of rotation compared to a reference
+**Angular displacement** $\theta$ measures the extent of rotation by angle, compared to a reference angle.
 
 $$
 s = r\theta
