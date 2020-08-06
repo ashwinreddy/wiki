@@ -1,1 +1,1 @@
-An **improper integral** is an [[integral]] taken in the [[limit]]. For example, an integral whose limit includes any integral with $\inf$ or $-\infty$ would be an improper integral.
+An **improper integral** is an [[integral]] taken in the [[limit]]. For example, an integral whose limit includes any integral with $\infty$ or $-\infty$ would be an improper integral.
