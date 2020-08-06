@@ -1,7 +1,7 @@
 A **periodic function** is a [[function]] that repeats itself periodically. A [[sine wave]] is a prototypical example. If the length of period is $T$ then for any $x$,
 
 $$
-\forall t: x(x + T) = x(t).
+\forall t: x(t + T) = x(t).
 $$
 
 The smallest such $T$ is the **fundamental period**. Therefore, one only needs to know the values in any arbitrary interval of the fundamental period's length to know the function fully. 
