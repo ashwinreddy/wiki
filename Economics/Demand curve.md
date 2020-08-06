@@ -1,1 +1,1 @@
-A **demand curve** shows the price a person or persons are willing to pay for something.
+A **demand curve** shows how much of thing a person or persons are willing to pay for.
