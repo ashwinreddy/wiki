@@ -4,4 +4,14 @@ $$
 Df = \lambda f
 $$
 
-For the [[derivative]], the eigenfunction is the [[exponential function]].
+The key example is finding the eigenfunction of the [[derivative]].
+
+$$
+\dv{}{t} f(t) = \lambda f(t)
+$$
+
+This is a simple [[differential equation]], solved by the [[exponential function]]
+
+$$
+f(t) = e^{\lambda t)
+$$
