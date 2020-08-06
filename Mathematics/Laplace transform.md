@@ -1,4 +1,4 @@
-The **Laplace transform** is an [[integral transform]] using a decaying [[exponential function]]. It is a generalization of the [[Fourier transform]] that admits a [[complex variable]].
+The **Laplace transform** is an [[integral transform]] using a decaying [[exponential function]]. It is a generalization of the [[Fourier transform]] that admits a [[complex number]] as the variable.
 
 \begin{equation}
 \mathscr{L} \left\\{ f(t) \right\\} \triangleq \int_0^\infty f(t) e^{-st} \dd{t}
