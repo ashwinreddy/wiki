@@ -1,1 +1,1 @@
-A **conservation law** for a property $x$ of a physical system says that $x$ is a constant over time.
+A **conservation law** for a property $x$ of a physical system says that the [[time derivative]] of $x$ is 0.
