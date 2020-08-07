@@ -2,6 +2,8 @@
 
 [[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action_reward.png|align=center,height=200px]]
 
+Let the probability of optimality be given by a function $f$.
+
 $$
 \Pr(e_t = 1 \mid S_t = s_t, A_t = a_t) = f(s_t, a_t)
 $$
