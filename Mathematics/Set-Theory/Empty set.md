@@ -1,1 +1,5 @@
-The **empty set** $\emptyset$ is a [[set]] has no elements.
+The **empty set** $\emptyset$ is a [[set]] that has no elements:
+
+$$
+| \emptyset | = 0
+$$
