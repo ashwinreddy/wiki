@@ -17,5 +17,5 @@ $$
 $$
 
 $$
-\ddot{\mathbf{x}} = 
+\ddot{\mathbf{x}} = \mathbf{F}
 $$
