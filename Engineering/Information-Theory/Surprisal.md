@@ -10,7 +10,7 @@ Why is this a good definition?
 
 1. The information of an event with 100% probability is 0.
 2. The less probable, the more surprising (negative log is monotonic decreasing).
-3. The information of independent events adds
+3. The information of independent events $A$ and $B$ stack linearly:
 
 $$
 I(A \cap B) = I(A) + I(B)
