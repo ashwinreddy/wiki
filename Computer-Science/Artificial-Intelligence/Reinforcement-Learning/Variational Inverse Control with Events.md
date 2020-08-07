@@ -5,7 +5,7 @@ bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/p
 **Variational Inverse Control with Events (VICE)** is an [[algorithm]], introduced in @fu2018variational that builds on inverse reinforcement learning to more limited forms of expert supervision, for example just showing desired goal states. It does so using the [[control as inference]] perspective. This allows us to ask for the following:
 
 * **ALL** query: $p(\tau \mid e_{1:T} = 1)$, meaning the event should happen at each time step.
-* **AT** query: $p(\tau \mid e_{t^*} = 1)$, meaning the event should happen at a specific time $t^*$.
+* **AT** query: $p(\tau \mid e_{t^\*} = 1)$, meaning the event should happen at a specific time $t^*$.
 * **ANY** query: $p(\tau  \mid e_1 = 1 \lor e_2 = 1 \lor \dots e_T = 1)$ meaning the event should happen on at
 least one time step during each trial.
 
