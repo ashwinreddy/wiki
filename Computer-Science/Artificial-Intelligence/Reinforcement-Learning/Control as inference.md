@@ -68,3 +68,4 @@ $$
 \Pr(\tau \mid e_{1:T}) \propto \exp\left( \sum_{t=0}^T r(s_t, a_t) \right) P(\tau)
 $$
 
+---
