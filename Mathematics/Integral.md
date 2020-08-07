@@ -2,7 +2,7 @@
 bibliography: "bibliography.bib"
 ---
 
-An **integral** represents a number of different ideas. 
+An **integral** represents a number of different ideas [@tao2007differential].
 
 |Name|Notation|
 |----|--------|
