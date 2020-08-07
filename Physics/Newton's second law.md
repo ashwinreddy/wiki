@@ -15,3 +15,7 @@ Usually, we treat this as a [[differential equation]] to solve
 $$
 \frac{\dd{}\^2x}{\dd{t\^2}} = {F \over m}
 $$
+
+$$
+\ddot\mathbf{x} = \mathbf{F}(\mathbf{x}, \dot\mathbf{x}, t)
+$$
