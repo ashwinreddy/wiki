@@ -1,4 +1,8 @@
-The **Fourier series** is a [[series]] decomposition of a [[periodic function]] $f(x)$ with period $T$ using a [[linear combination]] of [[sine waves|sine wave]] and cosine waves. 
+The **Fourier series** is a [[series]] decomposition of a [[periodic function]] $f(x)$ with fundamental period $T$ using a [[linear combination]] of [[sine waves|sine wave]] and cosine waves. For simplicity, let
+
+$$
+\omega_0 = \frac{2\pi}{T}
+$$
 
 $$
 f(t) = \sum_{k=-\infty}^\infty c_n e^{\iota k\omega_0 t} \tag{Synthesis Equation}
