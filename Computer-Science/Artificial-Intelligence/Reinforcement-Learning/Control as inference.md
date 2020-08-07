@@ -7,22 +7,15 @@ bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/p
 
 > How can we formulate a [[probabilistic graphical model]] such that the most probable [[trajectory]] corresponds to the trajectory from the optimal [[policy]]? Or, equivalently, how can we formulate a probabilistic graphical model such that inferring the posterior action conditional $p(a_t \mid s_t, \theta)$ gives us the optimal policy.
 
-We first need to introduce a notion of optimality into the probabilistic graphical model. Do this via a binary random variable $e_t$ that depends on state and action taken.
-
 # Graphical Model
 
-
-Let the probability of optimality be given by 
+We first need to introduce a notion of optimality into the probabilistic graphical model. Do this via a binary random variable $e_t$ that depends on state and action taken. Let the probability of optimality be given by 
 
 $$
 \Pr(e_t = 1 \mid s_t, a_t) = \exp r(s_t, a_t) 
 $$
 
-An optimal policy would have $e_t=1$ at every time step. Since the action is independent of past events, the optimal policy is
-
-$$
-\pi_{t}(a \mid s) = \Pr (A_t = a \vert S_t = s, e_{t:T} =1).
-$$
+In the standard RL formulation, we're looking for $\pi(a_t \mid s_t, \theta^\star)$, but here we're looking for something slightly different. Instead, we want $\pi(a_t \mid s_t, e_{t:T}=1)$. 
 
 [[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action_reward.png|align=center,height=200px]]
 
