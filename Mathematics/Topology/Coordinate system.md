@@ -2,7 +2,7 @@ A **coordinate system** or **chart** for a [[manifold]] $M$ helps map out part o
 
 \begin{align}
 \varphi: M \supset U &\to V \subset \RR^n \\\\\
-x &\mapsto \begin{bmatrix} \varphi_1(x) & \dots & \varphi_n(x) \end{bmatrix}^\mathsf{T}
+x &\mapsto \begin{bmatrix} \varphi_1(x) \\\\\ \dots & \varphi_n(x) \end{bmatrix}^\mathsf{T}
 \end{align}
 
 
