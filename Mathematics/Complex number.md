@@ -1,4 +1,10 @@
-A **complex number** is a number of the form $$z = a+ b \iota$$ where $\iota$ is the [[imaginary unit]] and $a$ and $b$ are [[real numbers|real number]]. We denote the [[set]] of complex numbers $\mathbb{C}$. 
+A **complex number** is a number of the form $$z = a+ b \iota$$ where $\iota$ is the [[imaginary unit]] and $a$ and $b$ are [[real numbers|real number]]. Or, by [[Euler's formula]], we can also say
+
+$$
+z = re^{\iota\theta}
+$$
+
+We denote the [[set]] of complex numbers $\mathbb{C}$. 
 
 The complex numbers are naturally 2-dimensional. The surprising fact is that multiplying complex numbers means rotating one by the other. Since [[Euler's formula]] enables us to think of them both in polar and cartesian coordinates, complex numbers are very handy. 
 
