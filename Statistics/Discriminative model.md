@@ -1,1 +1,1 @@
-A **discriminative model** tries to learn $p(y \mid x)$.
+A **discriminative model** tries to learn $p(y \mid x)$ so that when an $x$ is given, we can select the $y$ with highest probability.
