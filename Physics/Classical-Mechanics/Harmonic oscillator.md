@@ -1,0 +1,1 @@
+The **harmonic oscillator** includes [[simple harmonic motion]]
