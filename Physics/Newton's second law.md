@@ -17,5 +17,5 @@ $$
 $$
 
 $$
-\ddot{\mathbf{x}} = \mathbf{F}
+\ddot{\mathbf{x}} = \mathbf{F}(\mathbf{x})
 $$
