@@ -1,0 +1,1 @@
+A **conditional probability distribution**
