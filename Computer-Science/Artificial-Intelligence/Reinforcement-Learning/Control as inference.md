@@ -35,7 +35,11 @@ Q_t(s, a) &= r(s, a) + \log \mathbb{E}\_{s' \sim T(\cdot \mid s, a)} \left[ e^{V
 V_t(s) &= \log \mathbb{E}_a\left[ e^{Q_t(s, a)} \right]
 \end{align}
 
-Now all that is left is to find $\Pr(A_t = a \mid S_t = s, e_{t:T} = 1)$
+The policy is then advantage-seeking.
+
+$$
+\pi_t(A_t = a \mid S_t = s, e_{t:T} = 1) = { e^{ Q_t(s, a) } C \over e^{V_t(s)} } \propto \exp(A_t(s, a))
+$$
 
 
 
