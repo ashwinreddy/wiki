@@ -6,12 +6,6 @@ The **Laplace transform** is an [[integral transform]] using a decaying [[expone
 
 where $s$ is allowed to be a [[complex number]]. The transform can be used to turn [[differential equation]] into algebraic ones that can be solved easily and converted back into solutions.
 
-|$f(t)$|$F(s)$|
-|------|:------:|
-|[[Dirac delta function]] $\delta(t-a)$|$e^{-sa}$ when $a>0$|
-|[[Derivative]] $f'(t)$|$s F(s) -f(0)$|
-|$e^{at}$|$\frac{1}{s-a}$|
-|[[Convolution]]|Multiplication|
 
 # Origin
 
@@ -25,4 +19,13 @@ We replace with $e^{-st}$ to make it easier to work with.
 
 # Properties
 
-* [[Linear map]]
+* Linear
+
+# Table
+
+|$f(t)$|$F(s)$|
+|------|:------:|
+|[[Dirac delta function]] $\delta(t-a)$|$e^{-sa}$ when $a>0$|
+|[[Derivative]] $f'(t)$|$s F(s) -f(0)$|
+|$e^{at}$|$\frac{1}{s-a}$|
+|[[Convolution]]|Multiplication|
