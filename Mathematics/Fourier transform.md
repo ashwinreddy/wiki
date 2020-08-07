@@ -11,5 +11,5 @@ $$
 $$
 
 $$
-\mathcal{F} \big \\{ \dv{x}{t}  \big \\} = \iota \omega X(\omega)
+\mathcal{F} \left\\{ \dv{x}{t}  \right \\} = \iota \omega X(\omega)
 $$
