@@ -3,3 +3,5 @@
 $$
 f = \frac{1}{T}
 $$
+
+The SI unit for frequency is the hertz (Hz), which is one cycle per second.
