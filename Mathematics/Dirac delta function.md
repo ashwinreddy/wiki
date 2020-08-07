@@ -10,4 +10,4 @@ $$
 \int_\RR \delta(x - x_0)\\,\dd{x} = 1.
 $$
 
-We can think of it as a [[Gaussian distribution]] with [[variance]] $\sigma^2 \to 0$.
+We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$.
