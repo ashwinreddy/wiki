@@ -5,5 +5,5 @@ F = - \nabla U
 $$
 
 $$
-U = -\int_{x_0}^x F(\xi)\\\dd{\xi}
+U = -\int_{x_0}^x F(\xi)\\,\dd{\xi}
 $$
