@@ -1,7 +1,7 @@
 **Electric current** is the [[time derivative]] of [[electric charge]].
 
 \begin{equation}
-i = \dot{q}
+i \doteq \dot{q}
 \end{equation}
 
 An electric current induces a magnetic field to curl around it:
