@@ -13,7 +13,7 @@ We first need to introduce a notion of optimality into the probabilistic graphic
 
 # Policy Search
 
-We want the policy $p(a_t \mid s_t, e_{t:T})$. To do this, we will compute
+We want the policy $p(a_t \mid s_t, e_{t:T})$. To do this, we will compute "backwards messages," which tell us the probability of a trajectory being optimal after time $t$ starting in $s_t$ with action $a_t$.
 
 $$
 \beta_t(s_t, a_t) = p(e_{t:T} \mid s_t, a_t)
