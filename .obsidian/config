@@ -17,5 +17,6 @@
   "sideDockWidth": {
     "left": 300,
     "right": 40
-  }
+  },
+  "promptDelete": false
 }
