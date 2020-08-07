@@ -21,6 +21,11 @@ $$
 
 The backwards messages in log space correspond to soft variants of the [[value function]] and the [[action-value function]].
 
+\begin{align}
+Q_t(s, a) &= \log \beta_t(s_t, a_t) \\\\\
+V_t(s) &= \log \beta(s_t)
+\end{align}
+
 Let the probability of optimality be given by 
 
 $$
@@ -42,10 +47,7 @@ $$
 
 The first step is to compute the $\Pr(e_{t:T} \mid S_t = s)$ and $\Pr(e_{t:T} \mid S_t = s, A_t =a)$. Let us work with the log probabilities instead.
 
-\begin{align}
-Q_t(s, a) &= \log \Pr(e_{t:T} = 1 \mid S_t = s, A_t = a) \\\\\
-V_t(s) &= \log \Pr(e_{t:T} =1 \mid S_t = s)
-\end{align}
+
 
 Mathematically, it turns out that
 
