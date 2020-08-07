@@ -19,3 +19,9 @@ If we write $r(s_t, a_t) = \log f(s_t, a_t)$, then by the [[exponential function
 $$
 \Pr(e_{1:T} = 1 \mid \tau) = \exp\left( \sum_{t=0}^T r(s_t, a_t) \right)
 $$
+
+By [[Bayes' theorem]],
+
+$$
+\Pr(\tau \mid e_{1:T}) \propto \exp\left( \sum_{t=0}^T r(s_t, a_t) \right) P(\tau)
+$$
