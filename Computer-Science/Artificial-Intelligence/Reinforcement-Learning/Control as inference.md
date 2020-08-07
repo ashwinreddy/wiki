@@ -11,10 +11,10 @@ We first need to introduce a notion of optimality into the probabilistic graphic
 
 [[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action_reward.png|align=center,height=200px]]
 
-Let the probability of optimality be given by a function $f$.
+Let the probability of optimality be given by 
 
 $$
-\Pr(e_t = 1 \mid S_t = s_t, A_t = a_t) = f(s_t, a_t)
+\Pr(e_t = 1 \mid S_t = s_t, A_t = a_t) = \exp r(s_t, a_t) 
 $$
 
 An optimal policy would have $e_t=1$ at every time step. Since the action is independent of past events, the optimal policy is
