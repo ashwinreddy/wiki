@@ -1,1 +1,1 @@
-The **cardinality** of a [[set]] $A$ is the number of elements in $A$.
+The **cardinality** $|A|$ of a [[set]] $A$ is the number of elements in $A$.
