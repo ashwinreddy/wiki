@@ -1,4 +1,4 @@
-A **trajectory** is a sequence of states and actions from a [[Markov Decision Process]]. 
+A **trajectory** $\tau$ is a sequence of states and actions from a [[Markov Decision Process]]. 
 
 $$
 \tau = (s_0, a_0, \dots, s_H, a_H)
