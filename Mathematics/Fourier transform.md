@@ -7,5 +7,5 @@ The **Fourier transform (FT)** is an [[integral transform]] of a function $f$ is
 It is a [[linear map]]:
 
 $$
-\mathcal{F} \big \\{ a x(t) + b y(t)  \big \\} = a X(\omega) + b Y(\omeag)
+\mathcal{F} \big \\{ a x(t) + b y(t)  \big \\} = a X(\omega) + b Y(\omega)
 $$
