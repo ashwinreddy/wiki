@@ -11,7 +11,7 @@ $$
 An optimal policy would have $e_t=1$ at every time step. Since the action is independent of past events, the optimal policy is
 
 $$
-\pi_{t}(a \vert s) = \Pr (A_t = a \vert S_t = s, e_{t:T} =1).
+\pi_{t}(a \mid s) = \Pr (A_t = a \vert S_t = s, e_{t:T} =1).
 $$
 
 
