@@ -8,6 +8,14 @@ $$
 \Pr(e_t = 1 \mid S_t = s_t, A_t = a_t) = f(s_t, a_t)
 $$
 
+An optimal policy would always be optimal. Since the action is independent of past events,
+
+$$
+\pi_{t}(a \vert s) = \Pr (A_t = a \vert S_t = s, e_{t:T} =1).
+$$
+
+
+
 
 
 Suppose you have a [[trajectory]] $\tau$. The probability that every step was optimal is given by
@@ -28,13 +36,6 @@ $$
 \Pr(\tau \mid e_{1:T}) \propto \exp\left( \sum_{t=0}^T r(s_t, a_t) \right) P(\tau)
 $$
 
-An optimal policy will then be
-
-$$
-\pi_{t}(a \vert s) = \Pr (A_t = a \vert S_t = s, e_{t:T} =1),
-$$
-
-since the action is independent of past events.
 
 So if we can compute the RHS, we are done. Using Bayes' rule again,
 
