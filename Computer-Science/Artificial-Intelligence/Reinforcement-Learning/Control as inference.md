@@ -29,5 +29,5 @@ $$
 An optimal policy will then be
 
 $$
-\pi_{t}(a \vert s) = P(A_t = a \vert S_t = s, e_{t:T} =1)
+\pi_{t}(a \vert s) = \Pr (A_t = a \vert S_t = s, e_{t:T} =1)
 $$
