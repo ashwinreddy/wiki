@@ -4,5 +4,4 @@ $$
 y(t) = A \sin(\omega t + \phi)
 $$
 
-
-* [[frequency]]
+The ordinary [[sine]]
