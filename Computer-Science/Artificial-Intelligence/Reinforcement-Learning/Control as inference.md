@@ -25,3 +25,9 @@ By [[Bayes' theorem]],
 $$
 \Pr(\tau \mid e_{1:T}) \propto \exp\left( \sum_{t=0}^T r(s_t, a_t) \right) P(\tau)
 $$
+
+An optimal policy will then be
+
+$$
+\pi_{t}(a \vert s) = P(A_t = a \vert S_t = s, e_{t:T} =1)
+$$
