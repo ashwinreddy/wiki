@@ -3,3 +3,5 @@ The **Fourier series** is a [[series]] decomposition of a [[periodic function]] 
 $$
 f(t) = \sum_{k=-\infty}^\infty c_n e^{\iota k\omega_0 t} \tag{Synthesis Equation}
 $$
+
+If $f(t)$ is real-valued, then $c_n = c^*_{-n}$.
