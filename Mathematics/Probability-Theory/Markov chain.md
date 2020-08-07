@@ -1,0 +1,1 @@
+A **Markov chain** is a [[directed graph]]
