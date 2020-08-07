@@ -5,5 +5,5 @@ f(t) = \sum_{k=-\infty}^\infty c_n e^{\iota k\omega_0 t} \tag{Synthesis Equation
 $$
 
 $$
-c_n = \frac{1}{T} \int_0^T f(t) e^{-\iota n \omega_0 t}\dd{t}
+c_n = \frac{1}{T} \int_0^T f(t) e^{-\iota n \omega_0 t}\dd{t} \tag{Analysis Equation}
 $$
