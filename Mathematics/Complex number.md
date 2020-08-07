@@ -4,9 +4,7 @@ $$
 z = re^{\iota\theta}.
 $$
 
-We denote the [[set]] of complex numbers $\mathbb{C}$. 
-
-The complex numbers are naturally 2-dimensional. The surprising fact is that multiplying complex numbers means rotating one by the other. Since [[Euler's formula]] enables us to think of them both in polar and cartesian coordinates, complex numbers are very handy. 
+We denote the [[set]] of complex numbers $\mathbb{C}$, which naturally forms a 2-dimensional [[vector space]]. 
 
 # Notation
 
