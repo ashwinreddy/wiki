@@ -29,8 +29,10 @@ $$
 An optimal policy will then be
 
 $$
-\pi_{t}(a \vert s) = \Pr (A_t = a \vert S_t = s, e_{t:T} =1)
+\pi_{t}(a \vert s) = \Pr (A_t = a \vert S_t = s, e_{t:T} =1),
 $$
+
+since the action is independent of past events.
 
 So if we can compute the RHS, we are done. Using Bayes' rule again,
 
