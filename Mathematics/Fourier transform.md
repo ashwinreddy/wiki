@@ -9,3 +9,7 @@ It is a [[linear map]]:
 $$
 \mathcal{F} \big \\{ a x(t) + b y(t)  \big \\} = a X(\omega) + b Y(\omega)
 $$
+
+$$
+\mathcal{F} \big \\{ \dv{x}{t}  \big \\} = \iota \omega X(\omega)
+$$
