@@ -35,10 +35,11 @@ Q_t(s, a) &= r(s, a) + \log \mathbb{E}\_{s' \sim T(\cdot \mid s, a)} \left[ e^{V
 V_t(s) &= \log \mathbb{E}_a\left[ e^{Q_t(s, a)} \right]
 \end{align}
 
+Now all that is left is to find $\Pr(A_t = a \mid S_t = s, e_{t:T} = 1)$
 
 
 
-
+---
 
 Suppose you have a [[trajectory]] $\tau$. The probability that every step was optimal is given by
 
