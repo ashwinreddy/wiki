@@ -1,4 +1,4 @@
-A **sine wave** or **sinusoid**
+A **sine wave** or **sinusoid** with [[angular frequency]]
 
 $$
 y(t) = A \sin(\omega t + \phi)
