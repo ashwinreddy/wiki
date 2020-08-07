@@ -19,6 +19,8 @@ $$
 \beta_t(s_t, a_t) = p(e_{t:T} \mid s_t, a_t)
 $$
 
+The backwards messages in log space correspond to soft variants of the [[value function]] and the [[action-value function]].
+
 Let the probability of optimality be given by 
 
 $$
