@@ -5,7 +5,3 @@
 \end{equation}
 
 Formally, $X$ is a function.
-
-$$
-X : \mathsf{Event} \to [0, 1]
-$$
