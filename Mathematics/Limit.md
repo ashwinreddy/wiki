@@ -3,3 +3,9 @@ A **limit** gives the value of a quantity that may be undefined by considering w
 $$
 \lim_{x \to c} f(x) = L
 $$
+
+This means that for every $\epsilon > 0$, there is a $\delta > 0$ such that
+
+$$
+0 < |x - c | < \delta \implies |f(x) - L | < \epsilon
+$$
