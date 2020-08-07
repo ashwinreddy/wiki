@@ -17,5 +17,5 @@ $$
 If we write $r(s_t, a_t) = \log f(s_t, a_t)$, then by the [[exponential function#properties]],
 
 $$
-\Pr(\text{All } e_t = 1 \mid \tau) = \exp\left( \sum_{t=0}^T r(s_t, a_t) \right)
+\Pr(e_{1:t} = 1 \mid \tau) = \exp\left( \sum_{t=0}^T r(s_t, a_t) \right)
 $$
