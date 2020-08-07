@@ -1,1 +1,1 @@
-A **Markov chain** is a [[directed graph]]
+A **Markov chain** is a [[directed graph]] $(V, E, \\{ p_e \\}_{e \in E} )$
