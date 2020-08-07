@@ -1,7 +1,4 @@
-A **sine wave** or **sinusoid** is a wave. 
-
-
-[[angular frequency]]
+A **sine wave** or **sinusoid** is a wave of the form
 
 $$
 y(t) = A \sin(\omega t + \phi)
