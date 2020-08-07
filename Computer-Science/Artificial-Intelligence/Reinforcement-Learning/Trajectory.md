@@ -15,5 +15,5 @@ In general, the factorization for the probability of a trajectory is
 Suppose we pick actions uniformly. Then, $p(a_t) = c$ for some constant $c$ and we have
 
 $$
-\p(\tau) \propto p(\mathbf{s}\_1) \prod\_{t=1}^T p(\mathbf{a}\_t \mid \mathbf{s}\_t)p(\mathbf{s}\_{t+1} \mid \mathbf{s}\_t, \mathbf{a}_t) \end{equation}
+\p(\tau) \propto p(\mathbf{s}\_1) \prod\_{t=1}^T p(\mathbf{a}\_t \mid \mathbf{s}\_t)p(\mathbf{s}\_{t+1} \mid \mathbf{s}\_t, \mathbf{a}_t)
 $$
