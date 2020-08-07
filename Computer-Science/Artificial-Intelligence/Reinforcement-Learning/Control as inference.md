@@ -21,12 +21,20 @@ $$
 P(A_t =a \mid S_t=s, e_{t:T}=1) = \frac{P(e_{t:T}=1 \mid A_t =a,  S_t=s)P(A_t = a \mid S_t =s)}{P(e_{t:T}=1\mid S_t=s)}
 $$
 
-The first step is to compute the $\Pr(e_{t:T} \mid S_t = s)$ and $\Pr(e_{t:T} \mid S_t = s, A_t =a)$. Let us define
+The first step is to compute the $\Pr(e_{t:T} \mid S_t = s)$ and $\Pr(e_{t:T} \mid S_t = s, A_t =a)$. Let us work with the log probabilities instead.
 
 \begin{align}
 Q_t(s, a) &= \log \Pr(e_{t:T} = 1 \mid S_t = s, A_t = a) \\\\\
 V_t(s) &= \log \Pr(e_{t:T} =1 \mid S_t = s)
 \end{align}
+
+Mathematically, it turns out that
+
+\begin{align}
+Q_t(s, a) &= r(s, a) + \log \mathbb{E}_{s' \sim T(\cdot \mid s, a)} \left[ e^{V_{t+1}(s')} \right] \\\\\
+V_t(s) &= \log \Pr(e_{t:T} =1 \mid S_t = s)
+\end{align}
+
 
 
 
