@@ -6,7 +6,7 @@ bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/p
 
 * **ALL** query: $p(\tau \mid e_{1:T} = 1)$, meaning the event should happen at each time step.
 * **AT** query: $p(\tau \mid e_{t^\*} = 1)$, meaning the event should happen at a specific time $t^*$.
-* **ANY** query: $p(\tau  \mid e_1 = 1 \lor e_2 = 1 \lor \dots e_T = 1)$ meaning the event should happen on at
+* **ANY** query: $p(\tau  \mid e_1 = 1 \text{ or } e_2 = 1 \text{ or } \dots e_T = 1)$ meaning the event should happen on at
 least one time step during each trial.
 
 
