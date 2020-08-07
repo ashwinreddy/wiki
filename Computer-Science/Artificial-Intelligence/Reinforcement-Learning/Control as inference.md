@@ -8,7 +8,7 @@ $$
 \Pr(e_t = 1 \mid S_t = s_t, A_t = a_t) = f(s_t, a_t)
 $$
 
-An optimal policy would always be optimal. Since the action is independent of past events, the optimal policy is
+An optimal policy would have $e_t=1$ at every time step. Since the action is independent of past events, the optimal policy is
 
 $$
 \pi_{t}(a \vert s) = \Pr (A_t = a \vert S_t = s, e_{t:T} =1).
