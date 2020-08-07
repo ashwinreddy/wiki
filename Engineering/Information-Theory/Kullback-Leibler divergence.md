@@ -1,4 +1,4 @@
-The **Kullback-Leibler (KL) divergence** is a measure of relative entropy, the inefficiency in using a distribution $Q$ to model distribution $P$. It operates in a manner similiar to a metric but it is not symmetric. It is similar to [[entropy]] but using a different test distribution.
+The **Kullback-Leibler (KL) divergence** is a measure of relative entropy, the inefficiency in using a distribution $Q$ to model distribution $P$. It is always non-negative by [[Gibbs' inequality]]. It operates in a manner similiar to a metric but it is not symmetric. It is similar to [[entropy]] but using a different test distribution.
 
 $$
 D_{KL}(P \parallel Q) \doteq \mathbb{E}_{x \sim P}\left[\log \frac{P(X)}{Q(X)}\right]
@@ -31,9 +31,6 @@ $$
 
 So as we intuitively know, maximizing entropy is minimizing KL divergence to the uniform distribution.
 
-# Properties
-
-* [[Gibbs' inequality]]
 
 # Optimization
 
