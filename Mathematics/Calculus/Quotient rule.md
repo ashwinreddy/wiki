@@ -1,4 +1,4 @@
-The **quotient rule** says how to take the derivative of a quotient. It is easy to derive using the [[product rule]].
+The **quotient rule** says how to take the derivative of a quotient. It is easy to derive _ad hoc_ using the [[product rule]].
 
 \begin{align}
 \left(\frac{f}{g}\right)' &= \left(f \cdot \frac{1}{g} \right)' \\\\\
