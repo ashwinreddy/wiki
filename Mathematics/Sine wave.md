@@ -11,6 +11,8 @@ $$
 |--------|-----|
 |Amplitude|$A$|
 |[[Angular frequency]]|$\omega$|
+|[[Frequency]]|$\frac{\omega}{2\pi}$|
+|Period|$\frac{2\pi}{\omega}$|
 
 The ordinary [[sine]] function completes a cycle with period $2\pi$, which means that in general the period is
 
