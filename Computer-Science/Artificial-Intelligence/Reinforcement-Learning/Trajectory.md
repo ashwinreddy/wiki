@@ -4,4 +4,6 @@ $$
 \tau = (s_0, a_0, \dots, s_H, a_H)
 $$
 
+As a [[probabilistic graphical model]],
+
 [[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action.png|align=center,height=200px]]
