@@ -13,3 +13,5 @@ $$
 $$
 \mathcal{F} \left\\{ \dv{x}{t}  \right \\} = \iota \omega X(\omega)
 $$
+
+The [[Laplace transform]] extends it.
