@@ -35,5 +35,5 @@ $$
 So if we can compute the RHS, we are done. Using Bayes' rule again,
 
 $$
-P(A_t =a \vert S_t=s, e_{t:T}=1) = \frac{P(e_{t:T}=1 \vert A_t =a,  S_t=s)P(A_t = a \vert S_t =s)}{P(e_{t:T}=1\vert S_t=s)}
+P(A_t =a \mid S_t=s, e_{t:T}=1) = \frac{P(e_{t:T}=1 \mid A_t =a,  S_t=s)P(A_t = a \mid S_t =s)}{P(e_{t:T}=1\mid S_t=s)}
 $$
