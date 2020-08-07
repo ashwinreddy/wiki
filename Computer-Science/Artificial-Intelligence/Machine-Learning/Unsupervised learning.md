@@ -1,0 +1,1 @@
+**Unsupervised learning** is about learning from a dataset $\\{ x_1, dots, x_n\\}.
