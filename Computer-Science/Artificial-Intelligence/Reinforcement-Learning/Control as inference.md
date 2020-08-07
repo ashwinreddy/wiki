@@ -32,7 +32,7 @@ Mathematically, it turns out that
 
 \begin{align}
 Q_t(s, a) &= r(s, a) + \log \mathbb{E}\_{s' \sim T(\cdot \mid s, a)} \left[ e^{V_{t+1}(s')} \right] \\\\\
-V_t(s) &= \log \Pr(e_{t:T} =1 \mid S_t = s)
+V_t(s) &= \log \mathbb{E}_a\left[ e^{Q_t(s, a)} \right]
 \end{align}
 
 
