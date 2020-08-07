@@ -12,7 +12,7 @@ Coordinate (function)
 For example, if $X$ is the earth, then 
 
 \begin{equation}
-\varphi(\mathsf{Paris}) = \begin{bmatrix} \operatorname{Latitude}(\text{Paris}) \\\\\ \operatorname{Longitude}(\text{Paris})\end{bmatrix}
+\varphi(\text{Paris}) = \begin{bmatrix} \mathsf{Latitude}(\text{Paris}) \\\\\ \mathsf{Longitude}(\text{Paris})\end{bmatrix}
 \end{equation}
 
 
