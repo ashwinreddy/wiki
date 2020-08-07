@@ -1,1 +1,1 @@
-The **cardinality** $|A|$ of a [[set]] $A$ is the number of elements in $A$.
+The **cardinality** $|A|$ of a [[set]] $A$ is the number of elements in $A$. Two sets have the same cardinality if the exists a [[bijection]] between them.
