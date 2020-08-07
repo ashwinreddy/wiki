@@ -1,0 +1,1 @@
+A **directed graph** is a [[graph]] where the edges are annotated with directions.
