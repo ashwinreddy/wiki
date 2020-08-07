@@ -1,4 +1,9 @@
-**Control as inference** is a way of seeing [[reinforcement learning]] and/or optimal control through the lens of inference. We first need to introduce a notion of optimality into the [[probabilistic graphical model]]. Do this via a binary random variable $e_t$ that depends on state and action taken.
+---
+bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib"
+---
+
+
+**Control as inference** is a way of seeing [[reinforcement learning]] and/or optimal control through the lens of inference. @levine2018reinforcement is a thorough reference. We first need to introduce a notion of optimality into the [[probabilistic graphical model]]. Do this via a binary random variable $e_t$ that depends on state and action taken.
 
 [[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action_reward.png|align=center,height=200px]]
 
