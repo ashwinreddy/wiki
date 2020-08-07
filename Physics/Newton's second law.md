@@ -17,5 +17,5 @@ $$
 $$
 
 $$
-\ddot{\mathbf{x}} = \mathbf{F}(\mathbf{x}, \dot\mathbf{x})
+\ddot{\mathbf{x}} = \mathbf{F}(\mathbf{x}, \dot{\mathbf{x}}, t)
 $$
