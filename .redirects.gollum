@@ -43,3 +43,4 @@ Mathematics/Hessian matrix.md: Mathematics/Hessian.md
 Physics/Electromagnetism/Electric potential.md: Physics/Electromagnetism/Voltage.md
 Physics/Electromagnetism/Voltage.md: Physics/Electromagnetism/Electric potential.md
 Mathematics/Metric space.md: Mathematics/Metric.md
+Mathematics/Probability-Theory/Memorylessness.md: Mathematics/Probability-Theory/Memoryless.md
