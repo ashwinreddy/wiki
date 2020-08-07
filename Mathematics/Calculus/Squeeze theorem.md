@@ -1,0 +1,1 @@
+The **squeeze theorem** says that if ${\displaystyle g(x)\leq f(x)\leq h(x)}$
