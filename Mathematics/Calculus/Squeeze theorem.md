@@ -1,1 +1,5 @@
-The **squeeze theorem** says that if ${\displaystyle g(x)\leq f(x)\leq h(x)}$
+The **squeeze theorem** says that if ${\displaystyle g(x)\leq f(x)\leq h(x)}$ and ${\displaystyle \lim _{x\to a}g(x)=\lim _{x\to a}h(x)=L.}$, then
+
+$$
+\lim_{x \to a} f(x) = L.
+$$
