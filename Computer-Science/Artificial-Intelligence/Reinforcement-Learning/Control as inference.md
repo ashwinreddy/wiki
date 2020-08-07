@@ -11,6 +11,14 @@ We first need to introduce a notion of optimality into the probabilistic graphic
 
 [[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action_reward.png|align=center,height=200px]]
 
+# Policy Search
+
+We want the policy $p(a_t \mid s_t, e_{t:T})$. To do this, we will compute
+
+$$
+\beta_t(s_t, a_t) = p(e_{t:T} \mid s_t, a_t)
+$$
+
 Let the probability of optimality be given by 
 
 $$
