@@ -13,3 +13,9 @@ Suppose you have a [[trajectory]] $\tau$. The probability that every step was op
 $$
 \Pr(\text{All } e_t = 1 \mid \tau) = \prod_{t=0}^T f(s_t, a_t)
 $$
+
+If we write $r(s_t, a_t) = \log f(s_t, a_t)$, then
+
+$$
+\Pr(\text{All } e_t = 1 \mid \tau) = \exp\left( \sum_{t=0}^T r(s_t, a_t) \right)
+$$
