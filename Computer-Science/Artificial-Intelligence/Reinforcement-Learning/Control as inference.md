@@ -15,6 +15,12 @@ $$
 \Pr(e_t = 1 \mid s_t, a_t) = \exp r(s_t, a_t) 
 $$
 
+By the [[exponential function#properties]], we can extend this notion to the full trajectory.
+
+$$
+\Pr(e_{1:T} = 1 \mid \tau) = \exp\left( \sum_{t=0}^T r(s_t, a_t) \right)
+$$
+
 In the standard RL formulation, we're looking for $\pi(a_t \mid s_t, \theta^\star)$, but here we're looking for something slightly different. Instead, we want $\pi(a_t \mid s_t, e_{t:T}=1)$. 
 
 [[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action_reward.png|align=center,height=200px]]
@@ -28,11 +34,7 @@ $$
 \Pr(\text{All } e_t = 1 \mid \tau) = \prod_{t=0}^T f(s_t, a_t)
 $$
 
-If we write $r(s_t, a_t) = \log f(s_t, a_t)$, then by the [[exponential function#properties]],
 
-$$
-\Pr(e_{1:T} = 1 \mid \tau) = \exp\left( \sum_{t=0}^T r(s_t, a_t) \right)
-$$
 
 By [[Bayes' theorem]],
 
