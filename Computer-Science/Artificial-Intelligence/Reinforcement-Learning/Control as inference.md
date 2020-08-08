@@ -9,7 +9,7 @@ bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/p
 
 # Graphical Model
 
-We first need to introduce a notion of optimality into the probabilistic graphical model. Do this via a binary random variable $e_t$ that depends on state and action taken. Let the probability of optimality be given by 
+We first need to introduce a notion of optimality into the probabilistic graphical model. Do this via a binary random variable $e_t$ that depends on state and action taken. Let the probability of optimality be given by the [[exponential function]] of a [[reward function]].
 
 $$
 \Pr(e_t = 1 \mid s_t, a_t) = \exp r(s_t, a_t) 
