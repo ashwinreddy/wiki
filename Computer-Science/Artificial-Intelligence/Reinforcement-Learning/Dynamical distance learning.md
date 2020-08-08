@@ -16,7 +16,7 @@ $$
 L_d(\psi) = \frac{1}{2} \mathbb{E}_{\substack{ \tau \sim \pi \\\\\ i \sim [0, T] \\\\\ j \sim [i, T] }} \left[ \left( d^\pi_\psi(s_i, s_j) -  \left(j-i \right) \right)^2 \right]
 $$
 
-2. _Policy improvement_: optimize policy to reach goal using distance function as negative reward. Use $d^\pi_\psi$ to optimize a parameterized policy $\pi_\phi$ with parameters $\phi$ to reach goal $g$.
+2. _Policy improvement_: optimize policy $\pi_\phi$ to reach goal using distance function as cost to minimize.
 
 $$
 \mathcal{L}\_\pi(\phi) = \mathbb{E}\_{\tau \sim \rho_\pi}\left[ \sum_{t=0}^\infty \gamma^t d^\pi_\psi(s_t, g) \right]
