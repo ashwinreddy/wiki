@@ -1,10 +1,8 @@
 **Normalized maximum likelihood** for a [[statistical model]] $M$ is a [[probability distribution]]
 
 $$
-p_{\text{NML}} \propto  p_{\hat\theta(x\^n)}(\tilde{x}^n),
+p_{\text{NML}} = { p_{\hat\theta(x\^n)}(\tilde{x}^n) \sum_{\tilde{x}^n \in \mathcal{X}^n} \over p_{\hat\theta(x\^n)}(\tilde{x}^n) }
 $$
-
-where we include a [[normalizing constant]] to make it a proper distribution. 
 
 The NML distribution minimizes regret in the worse case:
 
