@@ -39,7 +39,7 @@ We want the policy $\pi(a_t \mid s_t) = p(a_t \mid s_t,  e_{t:T})$. We can compu
 
 
 $$
-P(A_t =a \mid S_t=s, e_{t:T}=1) = \frac{P(e_{t:T}=1 \mid A_t =a,  S_t=s)P(A_t = a \mid S_t =s)}{P(e_{t:T}=1\mid S_t=s)}
+p(a_t \mid s_t, e_{t:T}=1) = \frac{p(e_{t:T}=1 \mid s_t, a_t)p(a_t \mid s_t)}{p(e_{t:T}=1\mid s_t)}
 $$
 
 
