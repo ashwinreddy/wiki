@@ -22,6 +22,10 @@ $$
 
 Next, we use $d^\pi_\psi$ to optimize a parameterized policy $\pi_\phi$ with parameters $\phi$ to reach goal $g$.
 
+$$
+L_\pi(\phi) = \mathbb{E}_{\tau \sim \rho_\pi}\left[ \sum_{t=0}^\infty \gamma^t d^\pi_\psi(s_t, g) \right]
+$$
+
 # Algorithm
 
 Repeat until convergence:
