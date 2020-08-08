@@ -41,6 +41,10 @@ It does so using the [[control as inference]] perspective. This allows us to ask
 1. Classifier training learns parameters to the PGM.
 2. Inferring the optimal actions results in policy optimization.
 
+# Learn event probabilities from data
+
+We want to learn a model $p_\theta (s, a \mid e=1)$.
+
 # Algorithm
 
 1. Obtain examples of expert states and actions $s_i^E$, $a_i^E$
