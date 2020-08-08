@@ -11,3 +11,10 @@ To infer the reward function, we just do [[maximum likelihood estimation]]:
 $$
 \arg\max_\psi L(\psi), \quad L(\psi) = \sum_{\tau \in \mathcal{D}} \log p_{r_\psi}(t)
 $$
+
+# Algorithm
+
+1. Initialize $\psi$, gather demonstrations $\mathcal{D}$
+2. Solve for optimal policy $\pi(a \mid s)$ w.r.t. reward $r_\psi$
+3. Solve for state visitation frequencies $p(s \mid \psi)$
+4. Take a gradient step after computing $\nabla_\psi L(\psi)$
