@@ -13,7 +13,7 @@ Dynamical distance
 We can then learn $d^\pi_\psi(s, s')$ by minimizing 
 
 $$
-L_d(\psi) = \frac{1}{2} \mathbb{E}\left[ \left( d^\pi_\psi(s_i, s_j) -  \left(j-i \right) \right)^2 \right]
+L_d(\psi) = \frac{1}{2} \mathbb{E}_{\stackrel{ \tau \sim \pi }}\left[ \left( d^\pi_\psi(s_i, s_j) -  \left(j-i \right) \right)^2 \right]
 $$
 
 ---
