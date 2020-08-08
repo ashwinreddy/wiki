@@ -1,1 +1,1 @@
-**Huffman coding** is a method for compression that is [[entropy]] optimal.
+**Huffman coding** is a [[prefix code]]
