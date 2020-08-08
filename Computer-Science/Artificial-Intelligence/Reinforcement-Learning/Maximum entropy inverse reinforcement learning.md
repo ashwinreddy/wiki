@@ -1,1 +1,1 @@
-**Maximum entropy (MaxEnt) inverse reinforcement learning (IRL)** is an [[inverse reinforcement learning]] method
+**Maximum entropy (MaxEnt) inverse reinforcement learning (IRL)** is an [[inverse reinforcement learning]] method.
