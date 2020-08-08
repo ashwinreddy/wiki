@@ -21,8 +21,23 @@ In the standard RL formulation, we're looking for $\pi(a_t \mid s_t, \theta^\sta
 
 A natural question to ask then is what these optimal trajectories actually look like. Let's find out what the probability of an optimal trajectory is.
 
+
+Suppose you have a [[trajectory]] $\tau$. The probability that every step was optimal is given by
+
 $$
-p(\tau \mid e_{1:T}) \propto p(\tau, e_{1:T}) = p(s_1) \prod_{t=1}^T p(e_t = 1 \mid s_t, a_t) p(s_{t+1} \mid s_t, a_t)
+\Pr(\text{All } e_t = 1 \mid \tau) = \prod_{t=0}^T f(s_t, a_t)
+$$
+
+If we write $r(s_t, a_t) = \log f(s_t, a_t)$, then by the [[exponential function#properties]],
+
+$$
+\Pr(e_{1:T} = 1 \mid \tau) = \exp\left( \sum_{t=0}^T r(s_t, a_t) \right)
+$$
+
+By [[Bayes' theorem]],
+
+$$
+\Pr(\tau \mid e_{1:T}) \propto \exp\left( \sum_{t=0}^T r(s_t, a_t) \right) P(\tau)
 $$
 
 # Policy Search
@@ -66,25 +81,5 @@ $$
 $$
 
 
-
----
-
-Suppose you have a [[trajectory]] $\tau$. The probability that every step was optimal is given by
-
-$$
-\Pr(\text{All } e_t = 1 \mid \tau) = \prod_{t=0}^T f(s_t, a_t)
-$$
-
-If we write $r(s_t, a_t) = \log f(s_t, a_t)$, then by the [[exponential function#properties]],
-
-$$
-\Pr(e_{1:T} = 1 \mid \tau) = \exp\left( \sum_{t=0}^T r(s_t, a_t) \right)
-$$
-
-By [[Bayes' theorem]],
-
-$$
-\Pr(\tau \mid e_{1:T}) \propto \exp\left( \sum_{t=0}^T r(s_t, a_t) \right) P(\tau)
-$$
 
 ---
