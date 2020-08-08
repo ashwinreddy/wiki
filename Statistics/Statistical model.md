@@ -1,0 +1,1 @@
+A **statistical model** is a [[probability distribution]].
