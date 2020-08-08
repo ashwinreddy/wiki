@@ -43,7 +43,7 @@ It does so using the [[control as inference]] perspective. This allows us to ask
 
 # Learn event probabilities from data
 
-We want to learn a model $p_\theta (s, a \mid e=1)$.
+We want to learn the parameters $\theta$ to a model $p_\theta (s, a \mid e=1)$.
 
 # Algorithm
 
