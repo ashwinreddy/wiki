@@ -7,8 +7,13 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 1. _Distance evaluation_: learn a policy-specific dynamical distance
 2. _Policy improvement_: optimize policy to reach goal using distance function as negative reward.
 
-
 Dynamical distance
 : A function $d^\pi(s_i, s_j)$ representing the expected number of time steps for a policy $\pi$ to go from $s_i$ to $s_j$.
+
+We can then learn $d^\pi_\psi(s, s')$ by minimizing 
+
+$$
+L_d(\psi) = \frac{1}{2} \mathbb{E}\left[ \left( d^\pi_\psi(s_i, s_j) -  \left(j-i \right) \right)^2 \right]
+$$
 
 ---
