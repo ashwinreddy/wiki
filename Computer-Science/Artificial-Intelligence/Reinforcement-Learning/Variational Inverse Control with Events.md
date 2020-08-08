@@ -2,7 +2,8 @@
 bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib"
 ---
 
-**Variational Inverse Control with Events (VICE)** is an [[algorithm]], introduced in @fu2018variational. The motivation is this
+**Variational Inverse Control with Events (VICE)** is an [[algorithm]], introduced in @fu2018variational. The motivation is as follows
+
 1. Engineering a reward function is hard.
 2. It is easier to give examples of accomplishing the goal.
 3. A natural way to describe a task is by asking that an event occur at some timestep, any timestep, or all timesteps.
