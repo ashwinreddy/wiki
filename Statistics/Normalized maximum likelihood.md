@@ -9,5 +9,5 @@ where we include a [[normalizing constant]] to make it a proper distribution.
 The NML distribution minimizes regret in the worse case:
 
 $$
-p_{\text{NML}} = \argmin_q 
+p_{\text{NML}} = \arg\min_q \max_{x^n \in \mathcal{X}^n} R(q, \Theta, x^n)
 $$
