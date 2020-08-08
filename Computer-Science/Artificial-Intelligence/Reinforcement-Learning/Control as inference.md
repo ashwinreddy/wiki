@@ -38,6 +38,10 @@ This means that in deterministic dynamics (where every feasible trajectory is eq
 We want the policy $\pi(a_t \mid s_t) = p(a_t \mid s_t,  e_{t:T})$. We can compute this as an inference.
 
 
+$$
+P(A_t =a \mid S_t=s, e_{t:T}=1) = \frac{P(e_{t:T}=1 \mid A_t =a,  S_t=s)P(A_t = a \mid S_t =s)}{P(e_{t:T}=1\mid S_t=s)}
+$$
+
 
 To do this, we will compute "backwards messages," which tell us the probability of a trajectory being optimal after time $t$ starting in $s_t$ with action $a_t$.
 
@@ -56,9 +60,6 @@ V(s_t) &= \log \beta_t (s_t)
 
 So if we can compute the RHS, we are done. Using Bayes' rule again,
 
-$$
-P(A_t =a \mid S_t=s, e_{t:T}=1) = \frac{P(e_{t:T}=1 \mid A_t =a,  S_t=s)P(A_t = a \mid S_t =s)}{P(e_{t:T}=1\mid S_t=s)}
-$$
 
 The first step is to compute the $\Pr(e_{t:T} \mid S_t = s)$ and $\Pr(e_{t:T} \mid S_t = s, A_t =a)$. Let us work with the log probabilities instead.
 
