@@ -1,0 +1,1 @@
+**Minimum description length** principle is a statistical inference method.
