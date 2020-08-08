@@ -2,7 +2,7 @@
 bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib"
 ---
 
-**Dyanmical distance learning (DDL)** is an method for learning a dynamics-aware embedding of a [[metric]] (although they do not in general satisfy triangle inequalities) that can be used as a [[reward function]] for goal-reaching. There are two steps:
+**Dyanmical distance learning (DDL)** is an method for learning a dynamics-aware embedding of a distance function that can be used as a [[reward function]] for goal-reaching. There are two steps:
 
 1. _Distance evaluation_: learn a policy-specific dynamical distance
 2. _Policy improvement_: optimize policy to reach goal using distance function as negative reward.
@@ -21,5 +21,14 @@ $$
 # Policy improvement
 
 Next, we use $d^\pi_\psi$ to optimize a parameterized policy $\pi_\phi$ with parameters $\phi$ to reach goal $g$.
+
+# Algorithm
+
+Repeat until convergence:
+
+1. Sample trajectories
+2. Minimize distance loss
+3. Choose goal state
+4. Minimize policy loss
 
 ---
