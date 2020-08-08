@@ -4,7 +4,10 @@ bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/p
 
 **Variational Inverse Control with Events (VICE)** is an [[algorithm]], introduced in @fu2018variational that builds on inverse reinforcement learning to more limited forms of expert supervision, for example just showing desired goal states. It formulates [[MaxEnt IRL|maximum entropy inverse reinforcement learning]] as a [[GAN|generative adversarial networks]]-style problem.
 
-
+|Component|Analogue|
+|---------|--------|
+|Generator| $\pi(s, a)$ |
+|Discriminator|$D_\theta(s, a)$ tries to distinguish between expert and current policy $(s, a)$ pairs|
 
 
 It does so using the [[control as inference]] perspective. This allows us to ask for the following:
