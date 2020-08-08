@@ -2,7 +2,7 @@
 bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib"
 ---
 
-**Dyanmical distance learning (DDL)** is an method for learning a dynamics-aware embedding of a distance function that can be used as a [[reward function]] for goal-reaching. 
+**Dyanmical distance learning (DDL)** [@hartikainen2019dynamical] is an method for learning a dynamics-aware embedding of a distance function that can be used as a [[reward function]] for goal-reaching. 
 
 Dynamical distance
 : A function $d^\pi(s_i, s_j)$ representing the expected number of time steps for a policy $\pi$ to go from $s_i$ to $s_j$.
