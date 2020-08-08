@@ -5,11 +5,11 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 **Dyanmical distance learning (DDL)**, introduced in @hartikainen2019dynamical, is an method for learning a dynamics-aware embedding of a distance function that can be used as a [[reward function]] for goal-reaching. 
 
 Dynamical distance
-: A function $d^\pi(s_i, s_j)$ representing the expected number of time steps for a policy $\pi$ to go from $s_i$ to $s_j$.
+: A [[function]] $d^\pi(s_i, s_j)$ representing the expected number of time steps for a policy $\pi$ to go from $s_i$ to $s_j$.
 
 There are two steps:
 
-1. _Distance evaluation_: learn a policy-specific dynamical distance $d^\pi_\psi(s, s')$  by minimizing
+1. _Distance evaluation_: learn a [[policy]]-specific dynamical distance $d^\pi_\psi(s, s')$  by minimizing
 
 
 $$
@@ -26,7 +26,7 @@ $$
 
 Repeat until convergence:
 
-1. Sample trajectory $\tau$ using policy $\pi$ and save it in replay pool $\mathcal{D}$
+1. Sample [[trajectory]] $\tau$ using policy $\pi$ and save it in replay pool $\mathcal{D}$
 2. Minimize distance loss
 3. Choose a recent goal state from $\mathcal{D}$
 4. Minimize policy loss
