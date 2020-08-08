@@ -11,3 +11,9 @@ The NML distribution minimizes regret in the worse case:
 $$
 p_{\text{NML}} = \arg\min_q \max_{x^n \in \mathcal{X}^n} R(q, \Theta, x^n)
 $$
+
+The regret is
+
+$$
+R(q, \Theta, x^n) = \log p_{\hat\theta(x^n)}(x^n) - \log q(x^n)
+$$
