@@ -4,9 +4,6 @@ $$
 \left(AB\right)\_{ij} = \sum\_{k=1}^n A_{ik}B_{kj} 
 $$
 
-
-It generalizes the [[dot product]] and [[inner product]].
-
 # Properties
 
 * It is not a commutative operator.
