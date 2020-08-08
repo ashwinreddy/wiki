@@ -1,7 +1,7 @@
 **Normalized maximum likelihood** for a [[statistical model]] $M$ is a [[probability distribution]]
 
 $$
-p_{\text{NML}} \propto  \max p(x),
+p_{\text{NML}} \propto  p_{\hat\theta(x^n)}(\tilde{x}^n),
 $$
 
 where we include a [[normalizing constant]] to make it a proper distribution. 
