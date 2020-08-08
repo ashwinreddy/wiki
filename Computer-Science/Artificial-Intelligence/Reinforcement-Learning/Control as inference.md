@@ -3,7 +3,7 @@ bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/p
 ---
 
 
-**Control as inference** is a way of seeing [[reinforcement learning]] and/or optimal control through the lens of inference. As @levine2018reinforcement states,
+**Control as inference** is a way of seeing [[reinforcement learning]] and/or optimal control through the lens of [[inference]]. As @levine2018reinforcement states,
 
 > How can we formulate a [[probabilistic graphical model]] such that the most probable [[trajectory]] corresponds to the trajectory from the optimal [[policy]]? Or, equivalently, how can we formulate a probabilistic graphical model such that inferring the posterior action conditional $p(a_t \mid s_t, \theta)$ gives us the optimal policy.
 
