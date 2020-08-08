@@ -10,7 +10,7 @@ bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/p
 
 The key insights are
 
-1. Introducing an event-based control framework as an extension of [[control as inference]].
+1. Introducing an event-based control framework as an extension of [[control as inference]]. Then, the user's intent gets mapped to a query in the [[probabilistic graphical model]].
 2. Learn event probabilities from data, similar to IRL.
 
 # Event-based control
