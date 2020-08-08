@@ -1,7 +1,4 @@
-**Matrix multiplication** is an operation between an $\ell \times m$ [[matrix]] and $m \times n$ matrix.
-
-
-Formally, the operation is defined by the equation below, but it tends not to be helpful for intuition.
+**Matrix multiplication** is an operation between an $\ell \times m$ [[matrix]] and $m \times n$ matrix. Formally, the operation is defined by the equation below, but it tends not to be helpful for intuition.
 
 $$
 \left(AB\right)\_{ij} = \sum\_{k=1}^n A_{ik}B_{kj} 
