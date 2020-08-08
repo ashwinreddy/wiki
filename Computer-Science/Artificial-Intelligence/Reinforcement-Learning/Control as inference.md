@@ -25,13 +25,7 @@ In the standard RL formulation, we're looking for $\pi(a_t \mid s_t, \theta^\sta
 
 [[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action_reward.png|align=center,height=200px]]
 
-A natural question to ask then is what these optimal trajectories actually look like. Let's find out what the probability of an optimal trajectory is.
-
-
-Suppose you have a [[trajectory]] $\tau$. The probability that every step was optimal is given by
-
-
-By [[Bayes' theorem]],
+A natural question to ask then is what these optimal trajectories actually look like. Let's find out what the probability of an optimal trajectory is. By [[Bayes' theorem]],
 
 $$
 \Pr(\tau \mid e_{1:T}) \propto \exp\left( \sum_{t=0}^T r(s_t, a_t) \right) P(\tau)
