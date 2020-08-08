@@ -7,7 +7,7 @@ bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/p
 |Component|Analog|Goal|
 |---------|--------|----|
 |Generator| $\pi(s, a)$ |Generate realistic $(s, a)$ pairs to fool the discriminator|
-|Discriminator|$D_\theta(s, a)$|tries to distinguish between expert and current policy $(s, a)$ pairs|
+|Discriminator|$D_\theta(s, a)$|Distinguish expert and current policy $(s, a)$ pairs|
 
 
 It does so using the [[control as inference]] perspective. This allows us to ask for the following:
