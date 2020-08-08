@@ -1,0 +1,1 @@
+**Maximum entropy (MaxEnt) inverse reinforcement learning (IRL)**
