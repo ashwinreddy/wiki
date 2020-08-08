@@ -1,1 +1,1 @@
-**Dynamics** is about [[forces]] and [[motion]].
+**Dynamics** is about the relationship between [[force]] and [[motion]].
