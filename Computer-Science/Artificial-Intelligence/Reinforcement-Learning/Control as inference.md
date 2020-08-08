@@ -18,7 +18,7 @@ $$
 By the [[exponential function#properties]], we can extend this notion to the full trajectory.
 
 $$
-\Pr(e_{1:T} = 1 \mid \tau) = \prod_{t=0}^T \exp r(s_t, a_t) = \exp\left( \sum_{t=0}^T r(s_t, a_t) \right)
+\Pr(e_{1:T} = 1 \mid \tau) = \prod_{t=0}^T \exp r(s_t, a_t) = \exp \sum_{t=0}^T r(s_t, a_t) 
 $$
 
 In the standard RL formulation, we're looking for $\pi(a_t \mid s_t, \theta^\star)$, but here we're looking for something slightly different. Instead, we want $\pi(a_t \mid s_t, e_{t:T}=1)$. 
