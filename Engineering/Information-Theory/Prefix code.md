@@ -1,0 +1,1 @@
+A **prefix code** is a scheme where no codeword is the prefix of any other.
