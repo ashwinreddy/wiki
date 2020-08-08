@@ -1,1 +1,1 @@
-**Minimum description length** principle is a statistical inference method.
+THe **minimum description length (MDL)** principle is a statistical inference method. The idea is to forgo using a true probability distribution.
