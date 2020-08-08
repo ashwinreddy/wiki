@@ -26,9 +26,9 @@ Next, we use $d^\pi_\psi$ to optimize a parameterized policy $\pi_\phi$ with par
 
 Repeat until convergence:
 
-1. Sample trajectories
+1. Sample trajectory $\tau$ using policy $\pi$ and save it in replay pool $\mathcal{D}$
 2. Minimize distance loss
-3. Choose goal state
+3. Choose a recent goal state from $\mathcal{D}$
 4. Minimize policy loss
 
 ---
