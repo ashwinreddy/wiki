@@ -19,7 +19,7 @@ The key insights are
 |-----|-----------|-------|
 
 
-|**ALL** query|$p(\tau \mid e_{1:T} = 1)$| meaning the event should happen at each time step. |
+|ALL query|$p(\tau \mid e_{1:T} = 1)$| meaning the event should happen at each time step. |
 
 
 |**AT** query|$p(\tau \mid e_{t^\*} = 1)$| meaning the event should happen at a specific time $t^*$.|
