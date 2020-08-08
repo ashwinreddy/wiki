@@ -1,1 +1,1 @@
-**Huffman coding** is a [[prefix code]]
+The **Huffman code** is a [[prefix code]].
