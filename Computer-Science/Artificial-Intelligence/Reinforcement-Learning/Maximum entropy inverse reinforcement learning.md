@@ -9,5 +9,5 @@ $$
 To infer the reward function, we just do [[maximum likelihood estimation]]:
 
 $$
-\arg\max_\psi \sum_{\tau \in \mathcal{D}} \log p_{r_\psi}(t)
+\arg\max_\psi L(\psi), \quad L(\psi) = \sum_{\tau \in \mathcal{D}} \log p_{r_\psi}(t)
 $$
