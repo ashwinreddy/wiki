@@ -1,1 +1,1 @@
-A **spectrogram** shows both frequency and time on the same plot.
+A **spectrogram** shows both [[frequency]] and [[time]] on the same plot.
