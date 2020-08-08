@@ -1,0 +1,1 @@
+**Dynamics** is about [[forces]] and [[motion]].
