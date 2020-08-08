@@ -15,5 +15,5 @@ $$
 The regret is
 
 $$
-R(q, \Theta, x^n) = \log p_{\hat\theta(x\^n)}(x^n) - \log q(x^n)
+R(q, \Theta, x^n) = \log p_{\hat\theta(x\^n)}(x^n) - \log q\left(x^n\right)
 $$
