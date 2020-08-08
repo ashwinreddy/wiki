@@ -17,9 +17,9 @@ The key insights are
 
 |Query|Formulation|Meaning|
 |-----|-----------|-------|
-|**ALL** query|$p(\tau \mid e_{1:T} = 1)$| meaning the event should happen at each time step. |
-|**AT** query|$p(\tau \mid e_{t^\*} = 1)$| meaning the event should happen at a specific time $t^*$.|
-|**ANY** query|$p(\tau  \mid e_1 = 1 \text{ or } e_2 = 1 \text{ or } \dots \text{ or } e_T = 1)$| meaning the event should happen on at least one time step during each trial.|
+|**ALL** query|$p(\tau \mid e_{1:T} = 1)$| Event should happen at each time step. |
+|**AT** query|$p(\tau \mid e_{t^\*} = 1)$| Event should happen at a specific time $t^*$.|
+|**ANY** query|$p(\tau  \mid e_1 = 1 \text{ or } e_2 = 1 \text{ or } \dots \text{ or } e_T = 1)$| Event should happen on at least one time step during each trial.|
 
 The AT and ANY queries can be supervised with just a set of desired states. 
 
