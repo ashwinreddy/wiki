@@ -19,6 +19,12 @@ In the standard RL formulation, we're looking for $\pi(a_t \mid s_t, \theta^\sta
 
 [[https://dibyaghosh.com/blog/assets/posts/controlasinference/state_action_reward.png|align=center,height=200px]]
 
+A natural question to ask then is what these optimal trajectories actually look like. Let's find out what the probability of an optimal trajectory is.
+
+$$
+p(\tau \mid e_{1:T}) \propto p(\tau, e_{1:T})
+$$
+
 # Policy Search
 
 We want the policy $p(a_t \mid s_t, e_{t:T})$. To do this, we will compute "backwards messages," which tell us the probability of a trajectory being optimal after time $t$ starting in $s_t$ with action $a_t$.
