@@ -1,5 +1,5 @@
-**Normalized maximum likelihood** for a [[statistical model]] $M$ is
+**Normalized maximum likelihood** for a [[statistical model]] $M$ is a [[probability distribution]]
 
 $$
-p_{\mathsf{NML}}
+p_{\text{NML}} \propto  \max p(x 
 $$
