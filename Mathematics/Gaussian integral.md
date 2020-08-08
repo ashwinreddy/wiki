@@ -1,7 +1,7 @@
 The **Gaussian integral** is the [[integral]] of the [[Gaussian function]] $f(x) = e\^{-x^2}$ over the [[real number]] line.
 
 $$
-I = \int_\mathbb{R} e\^{-x^2} \dd{x}
+I = \int_\mathbb{R} e\^{-x^2} \mathbf{d}{x}
 $$
 
 \begin{align\*}
