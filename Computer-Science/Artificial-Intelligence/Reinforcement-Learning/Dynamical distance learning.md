@@ -19,7 +19,7 @@ $$
 2. _Policy improvement_: optimize policy to reach goal using distance function as negative reward. Use $d^\pi_\psi$ to optimize a parameterized policy $\pi_\phi$ with parameters $\phi$ to reach goal $g$.
 
 $$
-\mathcal{L}_\pi(\phi) = \mathbb{E}\_{\tau \sim \rho_\pi}\left[ \sum_{t=0}^\infty \gamma^t d^\pi_\psi(s_t, g) \right]
+\mathcal{L}\_\pi(\phi) = \mathbb{E}\_{\tau \sim \rho_\pi}\left[ \sum_{t=0}^\infty \gamma^t d^\pi_\psi(s_t, g) \right]
 $$
 
 # Algorithm
