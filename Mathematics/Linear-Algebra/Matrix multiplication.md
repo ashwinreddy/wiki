@@ -1,7 +1,7 @@
 **Matrix multiplication** is an operation between an $\ell \times m$ [[matrix]] and $m \times n$ matrix.
 
 \begin{equation}
-\cdot : M_{\ell \times m}(F) \times M_{m \times n}(F) \to M_{\ell \times n}(F)
+\left( \cdot \right): M_{\ell \times m}(F) \times M_{m \times n}(F) \to M_{\ell \times n}(F)
 \end{equation}
 
 I like to remember this by writing out the following mnemonic:
