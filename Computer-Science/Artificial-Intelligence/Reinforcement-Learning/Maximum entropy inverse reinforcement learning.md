@@ -3,5 +3,11 @@
 The MaxEnt formulation imposes
 
 $$
-p(\tau) = \frac{1}{Z} \exp R_\psi(\tau)
+p(\tau) = \frac{1}{Z} \exp R_\psi(\tau).
+$$
+
+To infer the reward function, we just do maximum likelihood:
+
+$$
+\arg\max_\psi \sum_{\tau \in \mathcal{D}} \log p_{r_\psi}(t)
 $$
