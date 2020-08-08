@@ -46,3 +46,5 @@ Mathematics/Metric space.md: Mathematics/Metric.md
 Mathematics/Probability-Theory/Memorylessness.md: Mathematics/Probability-Theory/Memoryless.md
 Mathematics/Probability-Theory/Memoryless.md: Mathematics/Probability-Theory/Memoryless
   random variable.md
+Engineering/Information-Theory/Huffman coding.md: Engineering/Information-Theory/Huffman
+  code.md
