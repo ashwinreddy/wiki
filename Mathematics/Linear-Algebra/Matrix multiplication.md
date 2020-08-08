@@ -4,12 +4,6 @@ $$
 \left(AB\right)\_{ij} = \sum\_{k=1}^n A_{ik}B_{kj} 
 $$
 
-I like to remember this by writing out the following mnemonic:
-
-$$
-(\ell \times m) \times (m \times n) = (\ell \times n)
-$$
-
 
 It generalizes the [[dot product]] and [[inner product]].
 
