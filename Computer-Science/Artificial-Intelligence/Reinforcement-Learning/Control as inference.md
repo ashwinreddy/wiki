@@ -31,6 +31,8 @@ $$
 \Pr(\tau \mid e_{1:T}) \propto \exp\left( \sum_{t=0}^T r(s_t, a_t) \right) P(\tau)
 $$
 
+This means that in deterministic dynamics (where every feasible trajectory is equally likely), the likelihood of a trajectory is exponential in the total reward.
+
 # Policy Search
 
 We want the policy $p(a_t \mid s_t, e_{t:T})$. To do this, we will compute "backwards messages," which tell us the probability of a trajectory being optimal after time $t$ starting in $s_t$ with action $a_t$.
