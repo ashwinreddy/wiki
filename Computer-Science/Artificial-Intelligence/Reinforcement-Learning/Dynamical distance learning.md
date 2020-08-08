@@ -9,6 +9,6 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 
 
 Dynamical distance
-: The **dynamical distance** $d^\pi(s_i, s_j)$ of a policy $\pi$ is the expected number of time steps for $\pi$ to go from $s_i$ to $s_j$. 
+: The expected number of time steps for a policy $\pi$ to go from $s_i$ to $s_j$.
 
 ---
