@@ -8,7 +8,7 @@ $$
 \dd{s} = \lVert \dot{\gamma}(t) \rVert \dd{t}
 $$
 
-In three dimensions, we have then
+In two dimensions, we have then
 
 $$
 \dd{s} = \sqrt{\dd{x}^2 + \dd{y}^2}
