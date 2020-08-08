@@ -22,7 +22,7 @@ In the standard RL formulation, we're looking for $\pi(a_t \mid s_t, \theta^\sta
 A natural question to ask then is what these optimal trajectories actually look like. Let's find out what the probability of an optimal trajectory is.
 
 $$
-p(\tau \mid e_{1:T}) \propto p(\tau, e_{1:T})
+p(\tau \mid e_{1:T}) \propto p(\tau, e_{1:T}) = p(s_1) \prod_{t=1}^T p(e_t = 1 \mid s_t, a_t) p(s_{t+1} \mid s_t, a_t)
 $$
 
 # Policy Search
