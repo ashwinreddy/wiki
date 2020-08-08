@@ -4,4 +4,4 @@ $$
 p_{\text{NML}} \propto  \max p(x),
 $$
 
-where we include a [[normalizing constnat]]
+where we include a [[normalizing constant]]
