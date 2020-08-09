@@ -1,0 +1,1 @@
+**Importance sampling** is a technique for computing an [[expected value]] of a [[function]] over a [[distribution]]
