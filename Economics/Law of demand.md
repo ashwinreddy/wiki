@@ -1,0 +1,1 @@
+The **law of demand** says prices and [[demand]] are inversely related.
