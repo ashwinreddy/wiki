@@ -1,4 +1,4 @@
-**Matrix congruence** is an [[equivalence relation]] between [[square matrices|square matrix]] $A$ and $B$ which is true when there exists [[invertible matrix]] $P$
+**Matrix congruence** is an [[equivalence relation]] $\equiv$ between [[square matrices|square matrix]] $A$ and $B$ where $A \equiv B$ if there exists [[invertible matrix]] $P$ s.t.
 
 $$
 A = P^\mathsf{T} B P
