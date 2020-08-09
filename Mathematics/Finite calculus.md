@@ -1,0 +1,1 @@
+**Finite calculus** considers a discrete derivative and anti-derivative for a [[function]] $F: \mathbb{N} \to \RR$.
