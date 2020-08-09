@@ -1,1 +1,1 @@
-**Differentiable programming** uses [[automatic differentiation]].
+**Differentiable programming** uses [[automatic differentiation]]. We can model a program as a map on a [[vector space]] of `float` variables
