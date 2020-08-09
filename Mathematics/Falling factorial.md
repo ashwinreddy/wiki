@@ -1,5 +1,5 @@
 The **falling factorial**
 
 $$
-x^{\underline{n}} \triangleeq x(x-1)\left(x-(n-1)\right)
+x^{\underline{n}} \triangleq x(x-1)\left(x-(n-1)\right)
 $$
