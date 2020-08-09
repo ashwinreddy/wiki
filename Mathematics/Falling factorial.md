@@ -1,7 +1,7 @@
 The **falling factorial**
 
 $$
-x^{\underline{n}} \triangleq x(x-1)\dots\left(x-(n-1)\right)
+x^{\underline{n}} \triangleq x(x-1)\cdots\left(x-(n-1)\right)
 $$
 
 In this way, $x^{\underline{n}} \in \order{x^n}$.
