@@ -8,3 +8,7 @@ The discrete derivative shares many similarities with the actual [[derivative]].
 $$
 \Delta x^{ \underline{m} } = mx^{ \underline{m-1} }
 $$
+
+$$
+\Delta 2^x = 2^x
+$$
