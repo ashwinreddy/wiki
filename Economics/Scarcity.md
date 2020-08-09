@@ -1,0 +1,1 @@
+**Scarcity** means that what everybody wants sums to more than what is.
