@@ -1,4 +1,4 @@
-The **rank** of a [[matrix]] is its _effective_ [[dimension]], i.e. the dimension of its [[range]].
+The **rank** of a [[matrix]] is its _effective_ [[dimension]], i.e. of its [[range]].
 
 \begin{equation}
 \operatorname{rank} A \triangleq \dim \mathcal{R}(A)
