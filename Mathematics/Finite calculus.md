@@ -10,5 +10,5 @@ $$
 $$
 
 $$
-\Delta\left( 2^x \right) = 2^x
+\Delta 2^x  = 2^x
 $$
