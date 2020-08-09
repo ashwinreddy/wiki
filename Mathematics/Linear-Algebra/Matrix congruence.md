@@ -7,5 +7,5 @@ $$
 The [[rank]] of $A$ and $B$ are necessarily equal.
 
 $$
-\rank
+\operatorname{rank} A = \operatorname{rank} B
 $$
