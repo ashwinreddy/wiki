@@ -1,4 +1,4 @@
-A **linear map/function/operator/transformation* is a [[function]] $f: V \to W$ for [[vector spaces|vector space]] $V$ and $W$ that respects a [[linear combination]], which means
+A **linear map/function/operator/transformation** is a [[function]] $f: V \to W$ for [[vector spaces|vector space]] $V$ and $W$ that respects a [[linear combination]], which means
 
 $$
 f(\alpha v) = \alpha f(v)
