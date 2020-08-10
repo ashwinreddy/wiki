@@ -1,1 +1,1 @@
-In 1931, Kurt Godel published the **Godel's incompleteness theorems** .
+In 1931, Kurt Godel published the **Godel's incompleteness theorems**.
