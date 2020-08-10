@@ -3,8 +3,3 @@
 Physics is closely related with mathematics, and often developments in one lead to developments in the other. As a science, physics demands that we make measurements and test hypotheses. The most natural, simple, and fundamental measurements relate to physical motion: measuring length and timing duration.
 
 However, it is important to notice that every equation in physics needs to have a physical interpretation, a claim about something measurable in the real world (if enough contextual variables are provided), which is a condition that math need not satisfy.
-
-# Resources
-
-* [[https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics]]
-* [[https://www.goodtheorist.science/]]
