@@ -1,7 +1,7 @@
 **Computer science** is the science of computation, the means by which we give incontrovertible answers to unambiguous problems.
 
 Problem
-: A problem contains input(s) and a precise description of output(s) that one wants from those inputs.
+: A problem is a precise description of output(s) that one wants from given input(s).
 
 As a rough example by analogy, each entry in a cookbook gives a high-level "[[algorithm]]" for creating a dish. More relevant examples are mathematical equations in the sciences where students rearrange to compute for a variable of interest.
 
