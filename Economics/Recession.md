@@ -1,0 +1,1 @@
+A **recession* can be characterized by a higher unemployment rate.
