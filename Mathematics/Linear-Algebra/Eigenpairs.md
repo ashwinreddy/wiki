@@ -1,4 +1,9 @@
-An **eigenpair** for a [[matrix]] consists of the lines which are invariant under multiplication and the scaling factors for those lines. Formally, it is a pair for a [[linear map]] $T$ on a [[vector space]] $V$ over a field $k$ is a $(\lambda \in k, \vec{v} \in V)$ satisfying 
+An **eigenpair** for a [[matrix]] consists of two pieces of information:
+
+a) the lines which are invariant under the matrix multiplication
+b) the scaling factors for those lines. 
+
+Formally, it is a pair for a [[linear map]] $T$ on a [[vector space]] $V$ over a field $k$ is a $(\lambda \in k, \vec{v} \in V)$ satisfying 
 
 \begin{equation}
 T\left(\vec{v}\right) = \lambda \vec{v} \tag{Eigenequation}
