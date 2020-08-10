@@ -6,7 +6,7 @@ Problem
 Algorithm
 : Unambiguous instructions that describe what to do with inputs, typically in the hopes of producing the appropriate output for a problem.
 
-For example, a problem could be "find the average of a set of integers." The set of integers is the input and the output is the average. The computer scientist's job is to then figure out the best method for 
+For example, a problem could be "find the average of a set of integers." The set of integers is the input and the output is the average. The computer scientist's job is to then figure out the best method for determining the output.
 
 
 
