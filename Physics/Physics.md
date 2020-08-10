@@ -7,3 +7,4 @@ However, it is important to notice that every equation in physics needs to have 
 # Resources
 
 * [[https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics]]
+* [[https://www.goodtheorist.science/]]
