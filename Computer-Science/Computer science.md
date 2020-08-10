@@ -3,6 +3,8 @@
 Problem
 : A problem is a precise description of output(s) that one wants, given input(s).
 
+With the problem, comes the [[algorithm]]:
+
 Algorithm
 : Unambiguous instructions that describe what to do with inputs, typically in the hopes of producing the appropriate output for a problem.
 
