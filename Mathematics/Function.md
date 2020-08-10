@@ -6,3 +6,9 @@ x &\mapsto y = f(x)
 \end{align\*}
 
 We call $x$ the independent variable and $y$ the dependent variable.
+
+If a function is $f: \RR \to \RR$, it can be decomposed into [[even function]] and [[odd function]]:
+
+$$
+f(x) = \overbrace{\frac{1}{2}\left( f(x) + f(-x) \right)}^{f_e(x)} + \overbrace{\frac{1}{2}\left( f(x) - f(-x) \right)}^{f_o(x)}
+$$
