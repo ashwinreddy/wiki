@@ -1,1 +1,1 @@
-**Meta-learning** is often described as "learning to learn," but simply refers to getting a computer to quickly adapt to unseen tasks.
+**Meta-learning** is often described as "learning to learn," but simply refers to getting a computer to quickly adapt to a set of test tasks after being given the chance to learn on training tasks.
