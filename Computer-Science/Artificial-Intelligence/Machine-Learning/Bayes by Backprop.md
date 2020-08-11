@@ -17,7 +17,7 @@ $$
 Since we have uncertainty in the weights, we have a distribution $P( w \mid \mathcal{D})$ and the outputs of the network will need to be taken in expectation:
 
 $$
-P(\hat{y} \mid \hat{x}) = \mathbb{E}_{ P(w \mid \mathcal{D}} }\left[ P(\hat{y} \mid \hat{x}, w) \right]
+P(\hat{y} \mid \hat{x}) = \mathbb{E}_{ P(w \mid \mathcal{D}} }\left[  \right]
 $$
 
 ---
