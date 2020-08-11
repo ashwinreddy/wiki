@@ -26,4 +26,10 @@ $$
 \theta^\star = \arg\min_\theta D_{KL} \big ( q(w \mid \theta) \parallel P(w \mid \mathcal{D}) \big)
 $$
 
+Mathematically, this is equivalent to minimizing 
+
+$$
+\mathcal{F}(\mathcal{D}, \theta) = D_{KL} \big ( q(w \mid \theta) \parallel P(w) \big) - \mathbb{E}_{q(w \mid \theta)}\left[ P(\mathcal{D} \mid w) \right]
+$$
+
 ---
