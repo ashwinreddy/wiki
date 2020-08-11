@@ -1,1 +1,1 @@
-An **integer** consists of 0, every positive natural number, and their negatives. The [[set]] of integers is denoted $\mathbb{Z}$
+An **integer** consists of 0, every positive natural number, and their negatives. The [[set]] of all integers is denoted $\mathbb{Z}$
