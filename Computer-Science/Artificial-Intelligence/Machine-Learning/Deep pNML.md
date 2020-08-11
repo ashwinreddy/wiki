@@ -2,6 +2,10 @@
 bibliography: "./Computer-Science/Artificial-Intelligence/Machine-Learning/papers.bib"
 ---
 
-**Deep pNML** is an algorithm introduced in @bibas2019deep.
+**Deep pNML** is an algorithm introduced in @bibas2019deep. 
+
+# Algorithm
+
+Given a training set $z^N = \\{ (x_i, y_i) \\}^N_{i=1}$
 
 ---
