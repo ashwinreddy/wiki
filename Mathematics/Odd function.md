@@ -4,4 +4,4 @@ $$
 f(-x) = -f(x)
 $$
 
-The [[sine function]] is an example.
+The [[sine]] is an example.
