@@ -14,5 +14,7 @@ Given a training set $z^N = \\{ (x_i, y_i) \\}^N_{i=1}$,
     1. Pretend it's part of the $y=i$ example class, add it to the data, train again, and record the probability.
     2. Repeat this for each possible $i$ class it could be. Call the sum of these values $C$.
     3. Return the normalized distribution using $C$ as a [[normalizing constant]].
+4. Return distribution and the regret $\Gamma = \log C$.
+
 
 ---
