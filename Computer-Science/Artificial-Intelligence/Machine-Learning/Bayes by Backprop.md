@@ -2,6 +2,6 @@
 bibliography: "./Computer-Science/Artificial-Intelligence/Machine-Learning/papers.bib"
 ---
 
-**Bayes by Backprop** [@blundell2015weight]
+**Bayes by Backprop** is an algorithm introduced in @blundell2015weight
 
 ---
