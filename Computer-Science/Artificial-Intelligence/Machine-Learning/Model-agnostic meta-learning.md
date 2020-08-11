@@ -19,6 +19,6 @@ The model is a map $f$. Each task $\mathcal{T}$ has a loss function $\mathcal{L}
     2. For each task $\mathcal{T}_i$,
         1. Evaluate the gradient of loss using the task examples: $\nabla_\theta \mathcal{L}\_{\mathcal{T}\_i}(f_\theta)$
         2. Compute the parameters after taking one gradient step using learning rate $\alpha$. $$\theta_i' = \theta - \alpha \nabla_\theta \mathcal{L}\_{\mathcal{T}\_i}(f_\theta)$$
-    3. Update $\theta$
+    3. Update $\theta \leftarrow \theta - \beta \sum_{\mathcal{T}_i \sim p(\mathcal{T})} \mathcal{L}_{\mathcal{T}_i}(f_{\theta_i'}) $
 
 ---
