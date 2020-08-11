@@ -10,4 +10,10 @@ $$
 w_{\text{MLE}} = \arg\max_w \log P(\mathcal{D} \mid w)
 $$
 
+Regularization is the result of [[maximum a posteriori]] estimation
+
+$$
+w_{\text{MAP}} = \arg\max_w \log P(w \mid \mathcal{D})
+$$
+
 ---
