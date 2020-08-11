@@ -1,4 +1,7 @@
-**Normalized maximum likelihood** for a [[statistical model]] $M$ is a [[probability distribution]]
+**Normalized maximum likelihood** is a Bayesian classification algorithm.
+
+
+for a [[statistical model]] $M$ is a [[probability distribution]]
 
 $$
 p_{\text{NML}}(x^n) = { p_{\hat\theta(x\^n)}(\tilde{x}^n)  \over \sum_{\tilde{x}^n \in \mathcal{X}^n} p_{\hat\theta(x\^n)}(\tilde{x}^n) }
