@@ -23,7 +23,7 @@ $$
 An intuitive way to think about it is to see that we've got an ensemble of infinitely many neural networks. But this also makes it intractable. We could try to approximate the posterior by minimizing [[Kullback-Leibler divergence]]:
 
 $$
-\theta^\star = \arg\min_\theta D_{KL}( q(w \mid \theta) \parallel P(w \mid \mathcal{D}) )
+\theta^\star = \arg\min_\theta D_{KL} \big ( q(w \mid \theta) \parallel P(w \mid \mathcal{D}) \big)
 $$
 
 ---
