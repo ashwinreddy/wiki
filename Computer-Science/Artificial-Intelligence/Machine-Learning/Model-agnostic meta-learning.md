@@ -15,7 +15,7 @@ The model is a map $f$. Each task $\mathcal{T}$ has a loss function $\mathcal{L}
 
 1. Outer loop. Sample a batch of tasks $\mathcal{T}_i \sim p(\mathcal{T})$
 2. Inner loop. For each task $\mathcal{T}_i$,
-    1. Evaluate the gradient of loss using the task examples: $\nabla_\theta \mathcal{L}\_{\mathcal{T}_i}(f_\theta)$
+    1. Evaluate the gradient of loss using the task examples: $\nabla_\theta \mathcal{L}\_{\mathcal{T}\_i}(f_\theta)$
     2. Compute the parameters after taking one gradient step using learning rate $\alpha$.
 3. 
 
