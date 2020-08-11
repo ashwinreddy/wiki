@@ -4,4 +4,4 @@ $$
 f(-x) = -f(x)
 $$
 
-The [[sine]] is an example.
+The [[sine]] function is an example. So is $x^n$ for an odd [[integer]] $n$.
