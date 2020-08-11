@@ -1,7 +1,7 @@
 A **normalizing constant** is used to make a [[function]] $f$ a [[probability density function]] or a [[probability mass function]]. 
 
 $$
-C = \int_\RR f(x) \dd{x}
+C = \int_\RR f(x) \\, \dd{x}
 $$
 
 $$
