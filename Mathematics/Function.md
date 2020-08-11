@@ -1,4 +1,7 @@
-A **function** is a machine that produces 1 output (of a specified type) when given an input of a specified type, not neccessarily the same as the output. Formally, it is a [[binary relation]] that represents a mapping, a rule that associates every input/source element in the domain [[set]] with an output/target element. We restrict the relation so that every element in the domain gets mapped and gets mapped to exactly one element.
+A **function** is a machine that produces 1 output (of a specified type) when given an input of a specified type, not neccessarily the same type as the output. 
+
+
+Formally, it is a [[binary relation]] that represents a mapping, a rule that associates every input/source element in the domain [[set]] with an output/target element. We restrict the relation so that every element in the domain gets mapped and gets mapped to exactly one element.
 
 \begin{align\*}
 f: \mathsf{Domain} &\to \mathsf{Codomain} \\\\\
