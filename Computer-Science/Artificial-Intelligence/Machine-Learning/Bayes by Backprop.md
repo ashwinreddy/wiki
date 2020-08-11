@@ -7,7 +7,7 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Machine-Learning/paper
 We treat the neural network as a probabilistic model $P(y \mid x, w)$ with weights $w$ and input $x$ and output $y$. Given a set of examples $\mathcal{D}$, we then do [[maximum likelihood estimation]]:
 
 $$
-w_{text{MLE}} = \arg\max_w \log P(\mathcal{D} \mid w)
+w_{\text{MLE}} = \arg\max_w \log P(\mathcal{D} \mid w)
 $$
 
 ---
