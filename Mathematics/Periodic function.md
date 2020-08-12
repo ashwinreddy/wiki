@@ -1,4 +1,4 @@
-A **periodic function** is a [[function]] that repeats itself periodically so that there is only an interval of unique values needed to know the function fully. A [[sine wave]] is a prototypical example. If the length of period is $T$ then for any $x$,
+A **periodic function** is a [[function]] that continually repeats itself over an interval of fixed length $T$. A [[sine wave]] is a prototypical example. If the length of period is $T$ then for any $x$,
 
 $$
 \forall t: x(t + T) = x(t).
