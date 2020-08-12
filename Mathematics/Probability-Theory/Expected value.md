@@ -27,3 +27,7 @@ For any random variables $X$ and $Y$,
 \begin{equation}
 \mathbb{E}\left[\alpha X\right] = \alpha \mathbb{E}[X]
 \end{equation}
+
+Suppose $X$ and $Y$ are independent, then
+
+* $\mathbb{E}[XY] = \mathbb{E}[X]\mathbb{E}[Y]$
