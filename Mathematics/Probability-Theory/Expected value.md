@@ -30,4 +30,4 @@ For any random variables $X$ and $Y$,
 
 Suppose $X$ and $Y$ are independent, then
 
-* $\mathbb{E}[XY] = \mathbb{E}[X] \times \mathbb{E}[Y]$
+* $\mathbb{E}[XY] = \mathbb{E}[X] \cdot \mathbb{E}[Y]$
