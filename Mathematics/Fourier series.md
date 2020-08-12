@@ -7,7 +7,7 @@ $$
 We can allow a [[complex number]] to carry both the sine and cosine amplitudes in a meaningful way.
 
 $$
-f(t) = \sum_{k=-\infty}^\infty c_n e^{\iota k\omega_0 t} \tag{Synthesis Equation}
+f(t) = \sum_{k \in \mathbb{Z}} c_n e^{\iota k\omega_0 t} \tag{Synthesis Equation}
 $$
 
 $$
