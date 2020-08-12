@@ -1,0 +1,1 @@
+The classification of interesting and useful properties of matrices is a core part of linear algebra.
