@@ -12,7 +12,7 @@ few gradient steps, or even a single gradient step, can produce good results on 
 First, we introduce the base model, a neural network $f_\theta$ with meta-parameters $\theta$. The hope is to learn a good $\theta_0$ so that the $\theta_N$ obtained after $N$ gradient steps using a support set $S_b$ results in good performance on task $T_b$. The $N$ steps are the inner-loop update process.
 
 $$
-\theta^b_i = \theta^b_{i-1} - \alpha \nabla_\theta \mathcal{L}\_{S_b}\left( f_{\theta^b_{i-1}} \right)
+\theta^b_i = \theta^b_{i-1} - \alpha \nabla_\theta \mathcal{L}\_{S_b}\left( f_{\theta^b_{i-1}} \right) \tag{Inner Loop Update}
 $$
 
 The model is a map $f$. Each task $\mathcal{T}$ has a loss function $\mathcal{L}$.
