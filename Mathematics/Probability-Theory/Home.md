@@ -2,6 +2,8 @@
 
 Thus, understanding probability allows us to incorporate the uncertainty and give concrete numerical results without the need for actually repeating the experiment, which is costly and can only give us an approximation to the real answer.
 
+[This article](https://stopa.io/post/243) is a good first principles discussion of some basics.
+
 # Resources
 
 * [Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
