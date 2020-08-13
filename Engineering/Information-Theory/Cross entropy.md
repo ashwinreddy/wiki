@@ -14,10 +14,10 @@ $$
 
 In machine learning, we can use the cross entropy as a loss. For example, suppose we're doing binary classification. Say our estimate is $\hat{y}$ and the real value is $y$. Then,
 
-~~~
+```py
 def CrossEntropy(yHat, y):
     if y == 1:
       return -log(yHat)
     else:
       return -log(1 - yHat)
-~~~
+```
