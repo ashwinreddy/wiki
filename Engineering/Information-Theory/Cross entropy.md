@@ -13,3 +13,7 @@ $$
 $$
 
 In machine learning, we can use the cross entropy as a loss. For example, suppose we're doing binary classification. Then,
+
+$$
+\mathsf{Loss} = - p \log q - (1 - p) \log (1 - q)
+$$
