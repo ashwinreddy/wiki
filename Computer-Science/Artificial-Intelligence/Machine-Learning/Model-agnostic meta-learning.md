@@ -15,7 +15,11 @@ $$
 \theta^b_i = \theta^b_{i-1} - \alpha \nabla_\theta \mathcal{L}\_{S_b}\left( f_{\theta^b_{i-1}} \right) \tag{Inner Loop Update}
 $$
 
-The model is a map $f$. Each task $\mathcal{T}$ has a loss function $\mathcal{L}$.
+But ultimately the goal is to be good at various tasks, so what we want to optimize is
+
+$$
+\mathcal{L}_{\text{meta}}(\theta_0) = \sum_{b=1}^B \mathcal{L}_{T_b}\left( f_{\theta^b_N}(\theta_0) \right)
+$$
 
 # Algorithm
 
