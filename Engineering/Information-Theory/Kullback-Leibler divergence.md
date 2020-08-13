@@ -48,3 +48,7 @@ It seems natural to try to minimize the KL divergence as an attempt to get distr
 \begin{equation}
 \arg\min_\theta D_{KL}(Q_\theta \parallel P) = \arg\max_\theta \mathbb{E}\_{x \sim Q_\theta}\left[ \log P(X) \right] + \mathcal{H}(Q_\theta(X))
 \end{equation}
+
+# Resources
+
+* [[http://joschu.net/blog/kl-approx.html]]
