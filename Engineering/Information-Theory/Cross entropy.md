@@ -8,4 +8,8 @@ $$
 \mathsf{CrossEntropy}(p, q) = H(p) + D_{KL}(p \parallel q)
 $$
 
+$$
+\mathsf{CrossEntropy}(p, p) = H(p)
+$$
+
 In machine learning, we can use the cross entropy as a loss. For example, suppose we're doing binary classification.
