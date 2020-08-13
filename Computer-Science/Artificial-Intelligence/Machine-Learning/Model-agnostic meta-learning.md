@@ -21,6 +21,12 @@ $$
 \mathcal{L}\_{\text{meta}}(\theta_0) = \sum_{b=1}^B \mathcal{L}\_{T_b}\left( f_{\theta^b_N}(\theta_0) \right)
 $$
 
+We do gradient steps on this as well.
+
+$$
+\theta_0 \leftarrow \theta_0 - \beta \nabla_\theta \mathcal{L}\_{\text{meta}}(\theta_0) = \sum_{b=1}^B \mathcal{L}\_{T_b}\left( f_{\theta^b_N}(\theta_0) \right)
+$$
+
 # Algorithm
 
 1. Randomly initialize $\theta$
