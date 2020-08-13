@@ -22,4 +22,8 @@ def CrossEntropy(yHat, y):
       return -log(1 - yHat)
 ```
 
-If $y=1$, then the penalty is 0 if $\hat{y}=1$ but blows up to infinity as $\hat{y}$ goes near 0.
+If $y=1$, then the penalty is 0 if $\hat{y}=1$ but blows up to infinity as $\hat{y}$ goes near 0. Similar for the other case. Mathematically, we can compactly write
+
+$$
+-{(y\log(p) + (1 - y)\log(1 - p))}
+$$
