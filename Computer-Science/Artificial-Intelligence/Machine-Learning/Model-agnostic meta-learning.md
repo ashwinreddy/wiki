@@ -18,7 +18,7 @@ $$
 But ultimately the goal is to be good at various tasks, so what we want to optimize is
 
 $$
-\mathcal{L}_{\text{meta}}(\theta_0) = \sum_{b=1}^B \mathcal{L}_{T_b}\left( f_{\theta^b_N}(\theta_0) \right)
+\mathcal{L}_{\text{meta}}(\theta_0) = \sum_{b=1}^B \mathcal{L}_{T\_b}\left( f_{\theta^b_N}(\theta_0) \right)
 $$
 
 # Algorithm
