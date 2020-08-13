@@ -12,7 +12,7 @@ $$
 \mathsf{CrossEntropy}(p, p) = H(p)
 $$
 
-In machine learning, we can use the cross entropy as a loss. For example, suppose we're doing binary classification. Say our estimate is $\hat{y}$ and the real value is $y$. Then,
+In machine learning, we can use the cross entropy as a loss. For example, suppose we're doing binary classification. Say our estimate is $\hat{y}$ and the real value is $y$. 
 
 ```py
 def CrossEntropy(yHat, y):
@@ -21,3 +21,5 @@ def CrossEntropy(yHat, y):
     else:
       return -log(1 - yHat)
 ```
+
+If $y=1$, then the penalty is 0 if $\hat{y}=1$ but blows up to infinity as $\hat{y}$ goes near 0.
