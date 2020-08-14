@@ -1,7 +1,7 @@
 The **surprisal** or **Shannon information (content)** of an outcome $x$ is defined as the [[logarithm]] of the reciprocal of the probability of the outcome. 
 
 $$
-I(x) \doteq \log_b \frac{1}{p(x)}
+I(x) \triangleq \log_b \frac{1}{p(x)}
 $$
 
 The base $b$ of the logarithm is arbitrary, but common choices are 2 and $e$. The units of surprisal are then bits or nats, respectively.
