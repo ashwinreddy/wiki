@@ -4,6 +4,8 @@ $$
 p_{\text{NML}}( y \mid x) \propto \max_{\theta \in \Theta} p\left(y \mid \mathcal{D}, x, y\right)
 $$
 
+This algorithm is very slow because it requires training to convergence for each possible label on each example.
+
 
 
 for a [[statistical model]] $M$ is a [[probability distribution]]
