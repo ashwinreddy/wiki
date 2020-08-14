@@ -4,7 +4,7 @@
 
 * $\mathcal{D}$: original datasets (e.g. visited states in VICE)
 * $N$: number of classes
-* $\theta$: the model parameters learned by [[MAML]]
+* $\theta$: the model parameters learned by [[MAML|Model-Agnostic Meta-Learning]]
 
 Repeat for each epoch:
 
