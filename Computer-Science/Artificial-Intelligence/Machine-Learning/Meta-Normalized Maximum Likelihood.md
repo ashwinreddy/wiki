@@ -15,7 +15,7 @@ Repeat for each epoch:
     2. Compute adapted parameters with gradient descent: 
         $$\theta_i' = \theta - \alpha \nabla_\theta \mathcal{L}(f_\theta(x_i), y_i')$$
     3. Compute test loss for adapted model:
-        1. Define $\mathcal{D'} := \mathcal{D} \cup (x_i, y_i')$$
+        1. Define $\mathcal{D'} := \mathcal{D} \cup (x_i, y_i')$
         2. $$L_i = \frac{1}{|\mathcal{D'}|} \sum_{(x_i, y_i) \in \mathcal{D'}} \mathcal{L}(f_{\theta_i'}(x_i), y_i)$$
 3. Meta-update step: 
     $$\theta \leftarrow \theta - \beta \nabla_\theta \sum_i L_i$$
