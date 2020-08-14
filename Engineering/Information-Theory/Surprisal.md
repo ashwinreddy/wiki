@@ -15,3 +15,11 @@ Why is this a good definition?
 $$
 I(A \cap B) = I(A) + I(B)
 $$
+
+In coding theory, the following turns out to be true: Suppose a sender and receiver agree on a probability distribution $p$ over a space of messages $\mathcal{X}^n$. Then there exists a code such that
+
+$$
+L_p(x^n) \approx - \log p(x^n)
+$$
+
+Where $L_p(x^n)$ is the code length for $x^n$ and equality holds up to a single bit.
