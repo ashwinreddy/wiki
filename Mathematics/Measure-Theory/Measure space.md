@@ -1,0 +1,1 @@
+**Measure space** is a triple $(X, \mathcal{A}, \mu)$ is a set with a sigma algebra and a measure.
