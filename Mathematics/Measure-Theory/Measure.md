@@ -1,0 +1,1 @@
+A **measure** is a [[function]] $\mu: \mathcal{A} \to \RR$ for a sigma algebra $\mathcal{A}$
