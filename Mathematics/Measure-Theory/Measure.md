@@ -1,1 +1,5 @@
-A **measure** is a [[function]] $\mu: \mathcal{A} \to \RR$ for a sigma algebra $\mathcal{A}$
+A **measure** is a [[function]] $\mu: \mathcal{A} \to \RR$ for a sigma algebra $\mathcal{A}$ with
+
+$$
+\forall a \in \mathcal{A}: \mu(a) \geq 0
+$$
