@@ -1,16 +1,16 @@
 **Meta-Normalized Maximum Likelihood (Meta-NML)** is an algorithm for 
 
-$$\mathcal{D}$$: original datasets (e.g. visited states in VICE)
-$$N$$: number of classes
-$$\theta$$: the model parameters learned by MAML
+$\mathcal{D}$: original datasets (e.g. visited states in VICE)
+$N$: number of classes
+$\theta$: the model parameters learned by MAML
 
 Repeat for each epoch:
 
-1. Initialize a set of tasks $$\mathcal{T} = \{\}$$
-    1. For each $$(x_i, y_i) \in \mathcal{D}$$:
+1. Initialize a set of tasks $\mathcal{T} = \{\}$
+    1. For each $(x_i, y_i) \in \mathcal{D}$:
         1. $$\mathcal{T} \leftarrow \mathcal{T} \cup \{(x_i, 0), (x_i, 1), ..., (x_i, N)\}$$
-        2. (Creates $$N$$ adaptation tasks, where $$N$$ is the number of classes. Goal of meta-NML is to learn an initialization where taking a gradient step on any query point gives good test performance on the entire dataset with the query point included)
-2. For each $$(x_i, y_i') \in$$ $$\mathcal{T}$$ do:
+        2. (Creates $N$ adaptation tasks, where $N$ is the number of classes. Goal of meta-NML is to learn an initialization where taking a gradient step on any query point gives good test performance on the entire dataset with the query point included)
+2. For each $(x_i, y_i') \in$$ $$\mathcal{T}$ do:
     1. Evaluate $$\nabla_\theta \mathcal{L}(f_\theta(x_i), y_i')$$, the cross entropy loss on the query point with the proposed label
     2. Compute adapted parameters with gradient descent: 
         $$\theta_i' = \theta - \alpha \nabla_\theta \mathcal{L}(f_\theta(x_i), y_i')$$
