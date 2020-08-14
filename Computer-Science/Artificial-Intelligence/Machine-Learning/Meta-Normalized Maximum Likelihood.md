@@ -2,7 +2,7 @@
 
 # Algorithm
 
-* $\mathcal{D}$: original datasets (e.g. visited states in VICE)
+* $\mathcal{D}$: original datasets (e.g. visited states in [[VICE|Variational Inverse Control with Events]])
 * $N$: number of classes
 * $\theta$: the model parameters learned by [[MAML|Model-Agnostic Meta-Learning]]
 
