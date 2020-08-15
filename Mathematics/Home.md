@@ -1,4 +1,6 @@
-
+---
+bibliography: "./Mathematics/papers.bib"
+---
 
 # Resources
 
