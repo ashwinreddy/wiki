@@ -3,7 +3,7 @@ The **Kullback-Leibler (KL) divergence** is a measure of relative entropy, the i
 $$
 D_{KL}(P \parallel Q) \triangleq \mathbb{E}_{x \sim P}\left[\log \frac{P(X)}{Q(X)}\right]
 $$
-We can also write
+We can also write using [[cross-entropy]]
 
 \begin{equation}
 D_{KL}(P \parallel Q) = \mathbb{E}_{x \sim P}[-\log Q(X)] - \mathcal{H}(P(X))
