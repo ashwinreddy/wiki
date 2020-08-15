@@ -1,5 +1,9 @@
 **Meta-Normalized Maximum Likelihood (Meta-NML)** is an algorithm for Bayesian classification.
 
+# Weighting
+
+If you don't weight the points, then the model is likely to stay near a uniform distribution so that it can adapt very quickly because it is being evaluated on the dataset overall. The more you weight nearby points, the closer you get to the MLE.
+
 # Algorithm
 
 * $\mathcal{D}$: original datasets (e.g. visited states in [[VICE|Variational Inverse Control with Events]])
