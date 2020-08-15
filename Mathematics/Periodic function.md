@@ -12,3 +12,7 @@ $$
 
 
 A [[sine wave]] is a prototypical example, but every function is periodic if we allow a period of infinite width.
+
+Fourier's big discovery is the following:
+
+> No matter how complicated it is, a wave that is periodic - with a pattern that repeats itself - consists of the sum of many simple waves. 
