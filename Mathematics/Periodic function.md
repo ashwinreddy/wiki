@@ -11,5 +11,4 @@ fT = 1
 $$
 
 
-
 A [[sine wave]] is a prototypical example, but every function is periodic if we allow a period of infinite width.
