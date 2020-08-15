@@ -4,7 +4,12 @@ $$
 \forall t: x(t + T) = x(t).
 $$
 
-The smallest such $T$ is the **fundamental period**. Then, the fundamental frequency is the reciprocal. 
+The smallest such $T$ is the **fundamental period**. Then, the **fundamental frequency** $f$ is the reciprocal. 
+
+$$
+fT = 1
+$$
+
 
 
 A [[sine wave]] is a prototypical example, but every function is periodic if we allow a period of infinite width.
