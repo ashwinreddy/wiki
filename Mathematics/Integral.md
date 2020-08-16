@@ -1,5 +1,5 @@
 ---
-bibliography: "bibliography.bib"
+bibliography: "Mathematics/math.bib"
 ---
 
 An **integral** represents a number of different ideas [@tao2007differential].
