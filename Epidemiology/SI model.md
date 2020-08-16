@@ -12,7 +12,7 @@ The next step is to determine the dynamics of this system by a [[differential eq
 \dv{I}{t} &= \gamma\times\frac{2}{N^2}SI\times c.
 \end{align\*}
 
-The last line is because the probability that a random pair has one infected and one susceptible, for large $N$, is given by $$2\left(\frac{S}{N}\right)\left(\frac{I}{N}\right) = \frac{2}{N^2}SI.$$ 
+The last line is because the probability that a random pair has one infected and one susceptible, for large $N$, is given by $2\left(\frac{S}{N}\right)$ 
 
 If we repackage the constants into $r = 2c\gamma / N^2$, then we have
 
