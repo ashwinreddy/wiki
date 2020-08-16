@@ -9,7 +9,6 @@ The next step is to determine the dynamics of this system by a [[differential eq
 \begin{align\*}
 \frac{\text{infections}}{\text{time}} &= \frac{\text{interactions}}{\text{time}}\times\frac{\text{infections}}{\text{interactions}} \\\\\
 \dv{I}{t} &= \\\\\
-
 = \frac{\text{interactions}}{\text{time}} \Pr(\text{interaction is between an } S \text{ and an } I)\times \frac{\text{infections}}{\text{interaction between an } S \text{ and an } I}
 \end{align\*}
 
