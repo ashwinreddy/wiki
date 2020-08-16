@@ -12,22 +12,11 @@ $$
 
 # Variants
 
-@srivastava2020learning propose a variant on the SIR model. Here, we still have a Susceptible compartment. Susceptibles become Infected based on a time-dependent rate $\beta$ with $k$ different values, although in practice they just use a single value for $\beta$ (i.e. $k=1$). The infected people have a probability $\gamma$ of being reported. Everyone else is immune or isolated.
+@srivastava2020learning propose a variant on the SIR model. Here, we still have a Susceptible compartment $S$. Susceptibles become Infected $I$ based on a time-dependent rate $\beta$ with $k$ different values, although in practice they just use a single value for $\beta$ (i.e. $k=1$). The infected people have a probability $\gamma$ of being reported. Everyone else is immune or isolated.
 
 $$
-R_t = \gamma I_t \implies \Delta R_t = \gamma \Delta I_t
+\Delta R_t = \sum_{i=1}^k \gamma_i ( I_{t-(i-1)J} - I_{t-iJ} )
 $$
 
-
-in which $\beta$ is discretized into $k$ states over time so that $\beta_i$ is the rate of infection at time $t-i$. If $S_t^p$ and $I_t^p$ are the susceptible and infected individuals for region $p$ at time $t$ then the equations are
-
-\begin{align}
-\Delta S^p_t &= - \frac{S\^p_{t-1}}{N^p} \sum_{i=1}^k \beta_i^p \Delta I^p_{t-i}, \\\\\
-\Delta I^p_t &= \frac{S\^p_{t-1}}{N^p} \sum_{i=1}^k \beta_i^p \Delta I^p_{t-i} + \delta \sum_q F(q, p) \frac{\sum_{i=1}^k \beta_i^q \Delta I\^q_{t-i}}{N^q}
-\end{align}
-
-To limit overfitting, we can skip by $J$ days.
-
-The SI model is when $k=1$, $J=\infty$, $\delta = 0$.
 
 ---
