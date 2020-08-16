@@ -9,13 +9,10 @@ The next step is to determine the dynamics of this system by a [[differential eq
 \begin{align\*}
 \frac{\text{infections}}{\text{time}} &= \frac{\text{interactions}}{\text{time}}\times\frac{\text{infections}}{\text{interactions}} \\\\\
 \dv{I}{t} &= \gamma \times \Pr(\text{interaction is between an } S \text{ and an } I)\times \frac{\text{infections}}{\text{interaction between an } S \text{ and an } I} \\\\\
+\dv{I}{t} &= \gamma\times\frac{2}{N^2}SI\times c.
 \end{align\*}
 
-The probability that a random pair has one infected and one susceptible, for large $N$, is given by $$2\left(\frac{S}{N}\right)\left(\frac{I}{N}\right) = \frac{2}{N^2}SI.$$ So the differential equation is
-
-$$
-\dv{I}{t} = \gamma\times\frac{2}{N^2}SI\times c.
-$$
+The last line is because the probability that a random pair has one infected and one susceptible, for large $N$, is given by $$2\left(\frac{S}{N}\right)\left(\frac{I}{N}\right) = \frac{2}{N^2}SI.$$ 
 
 If we repackage the constants into $r = 2c\gamma / N^2$, then we have
 
