@@ -34,10 +34,10 @@ $$
 \Delta R_t = \sum_{i=1}^k \gamma_i \left( I_{t-(i-1)J} - I_{t-iJ} \right)
 $$
 
-Ultimately, we want an equation just in terms of $R$, which we can our hands on via data reports.
+Ultimately, we want an equation just in terms of $R$, which we can our hands on via data reports. If $\bar\gamma = \gamma(1-\rho)$,
 
 $$
-\Delta R_t = \left(1 - \frac{R_t}{\gamma(1-\rho)N} \right) \sum_{i=1}^k \beta_i \left( R_{t-iJ} - R_{t-(i-1)J} \right)
+\Delta R_t = \left(1 - \frac{R_t}{\bar\gamma N} \right) \sum_{i=1}^k \beta_i \left( R_{t-iJ} - R_{t-(i-1)J} \right)
 $$
 
 
