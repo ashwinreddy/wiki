@@ -15,8 +15,17 @@ $$
 @srivastava2020learning propose a variant on the SIR model. Here, we still have a Susceptible compartment $S$. Susceptibles become Infected $I$ based on a time-dependent rate $\beta$ with $k$ different values, although in practice they just use a single value for $\beta$ (i.e. $k=1$). The infected people have a probability $\gamma$ of being reported. Everyone else is immune or isolated.
 
 $$
+R_t = \gamma I_t
+$$
+
+However, the changes are dependent on the infection rates $\beta$:
+
+$$
 \Delta R_t = \sum_{i=1}^k \gamma_i \left( I_{t-(i-1)J} - I_{t-iJ} \right)
 $$
 
+$$
+\Delta I_t = \frac{S_t}{N} \sum_{i=1}^k \beta_i \left( I_{t-(i-1)J} - I_{t-iJ} \right)
+$$
 
 ---
