@@ -18,6 +18,10 @@ $$
 \Delta S_t = -\frac{S_t}{N} \sum_{i=1}^k \beta_i \Delta I_{t-i}
 $$
 
+$$
+\Delta I_t = \frac{S_t}{N} \sum_{i=1}^k \beta_i \left( I_{t-(i-1)J} - I_{t-iJ} \right)
+$$
+
 The infected people have a probability $\gamma$ of being reported. Everyone else is immune or isolated.
 
 $$
@@ -30,8 +34,5 @@ $$
 \Delta R_t = \sum_{i=1}^k \gamma_i \left( I_{t-(i-1)J} - I_{t-iJ} \right)
 $$
 
-$$
-\Delta I_t = \frac{S_t}{N} \sum_{i=1}^k \beta_i \left( I_{t-(i-1)J} - I_{t-iJ} \right)
-$$
 
 ---
