@@ -22,7 +22,7 @@ $$
 \Delta I_t = \frac{S_t}{N} \sum_{i=1}^k \beta_i \left( I_{t-(i-1)J} - I_{t-iJ} \right)
 $$
 
-The infected people have a probability $\gamma$ of being reported. Everyone else is immune or isolated.
+The infected people have a probability $\gamma$ of being reported. Everyone else is immune or isolated. If $\rho$ is the probability of being such, then $(1-\rho)N$ is the effective population.
 
 $$
 R_t = \gamma I_t
