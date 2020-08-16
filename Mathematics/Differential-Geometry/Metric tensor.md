@@ -1,5 +1,5 @@
 ---
-bibliography: "bibliography.bib"
+bibliography: "Mathematics/math.bib"
 ---
 
 The **metric tensor** or **first fundamental form** $g$ is a [[tensor]] representing the generalized dot product for a manifold, which may vary at each point. The metric is bilinear, symmetric, and nondegenerate. In terms of signature, this requires a [[tangent bundle]].
