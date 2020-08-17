@@ -1,3 +1,7 @@
+---
+bibliography: "Computer-Science/Artificial-Intelligence/Machine-Learning/papers.bib"
+---
+
 **Meta-learning** is often described as "learning to learn," but simply refers to getting a computer to quickly adapt to a set of test tasks after being given the chance to learn on training tasks.
 
 > Learning quickly is a hallmark of human intelligence,
