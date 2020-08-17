@@ -8,6 +8,9 @@ bibliography: "Computer-Science/Artificial-Intelligence/Machine-Learning/papers.
 whether it involves recognizing objects from a few examples or quickly learning new skills after just minutes of
 experience. Our artificial agents should be able to do the same, learning and adapting quickly from only a few examples, and continuing to adapt as more data becomes available. [@finn2017modelagnostic]
 
-Meta-learning consists of two steps: meta-training and meta-testing. In meta-training, we do train-and-test cycles on different support sets for tasks. Then, at meta-testing we see if we can do a task by doing a little bit of training and then testing.
+Meta-learning consists of two steps: 
+
+1. Meta-training: we do train-and-test cycles on different support sets for tasks. 
+2. Meta-testing: we see if we can do a task by doing a little bit of training and then testing.
 
 ---
