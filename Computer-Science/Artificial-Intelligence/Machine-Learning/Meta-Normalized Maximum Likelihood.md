@@ -1,10 +1,10 @@
-**Meta-Normalized Maximum Likelihood (Meta-NML)** is an algorithm for Bayesian classification.
+**Meta-Normalized Maximum Likelihood (Meta-NML)** is an algorithm for Bayesian classification based on [[MAML|Model-Agnostic Meta-Learning]] and [[Normalized Maximum Likelihood]].
 
 # Algorithm
 
 * $\mathcal{D}$: original datasets (e.g. visited states in [[VICE|Variational Inverse Control with Events]])
 * $N$: number of classes
-* $\theta$: the model parameters learned by [[MAML|Model-Agnostic Meta-Learning]]
+* $\theta$: the model parameters learned by MAML.
 
 Repeat for each epoch:
 
