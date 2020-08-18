@@ -2,7 +2,7 @@
 bibliography: "./Computer-Science/Artificial-Intelligence/Machine-Learning/papers.bib"
 ---
 
-**Deep pNML** is an algorithm introduced in @bibas2019deep that does [[Normalized Maximum Likelihood]] as a Bayesian classifier. 
+**Deep pNML (predictive Normalized Maximum Likelihood)** is an algorithm introduced in @bibas2019deep that does [[Normalized Maximum Likelihood]] as a Bayesian classifier with [[artificial neural networks]]. 
 
 # Algorithm
 
