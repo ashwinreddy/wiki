@@ -1,0 +1,1 @@
+A **public good** is non-excludable and non-rivalrous.
