@@ -12,8 +12,8 @@ Given a training set $z^N = \\{ (x_i, y_i) \\}^N_{i=1}$,
 2. Initial training: standard supervised learning $$\hat\theta_{\text{ERM}} = \mathsf{StochasticGradientDescent}\left(\hat\theta_0, z^N, \mathsf{steps}_1\right)$$
 3. Fine tuning. For each $x$ in the test sample,
     1. Pretend it's part of the $y=i$ example class. 
-    2. Add it to the data: $$z^{N+1} =z^N \cup \\{ (x, y=i) \\}$$
-    3. Train again: $$\hat\theta = \mathsf{StochasticGradientDescent}(\hat\theta_{\text{ERM}}, z^{N+1}, \mathsf{steps}_2)$$
+    2. Add it to the data: $$z^{N+1} =z^N \cup \left\\{ (x, y=i) \right\\}$$
+    3. Train again: $$\hat\theta = \mathsf{StochasticGradientDescent}\left(\hat\theta_{\text{ERM}}, z^{N+1}, \mathsf{steps}_2\right)$$
     4. record the probability.
     3. Repeat this for each possible $i$ class it could be. Call the sum of these values $C$.
     4. Return the normalized distribution using $C$ as a [[normalizing constant]].
