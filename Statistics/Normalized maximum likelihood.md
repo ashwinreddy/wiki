@@ -1,6 +1,6 @@
-**Normalized maximum likelihood** is a classification algorithm that gives predictions with uncertainty built in. 
+**Normalized maximum likelihood** is a Bayesian classification algorithm, that is a classifier whose probabilities actually represent uncertainty.
 
-The key idea is this - when given a new point $x$, for each possible label we retrain the model as if it were part of that class and see what probability it outputs. Then, the actual output is normalized:
+The key idea is this - when given a new point $x$, for each possible label $y$ we retrain the model as if it were part of that class and see what probability it outputs. Then, the actual output is normalized:
 
 $$
 p_{\text{NML}}( y \mid x) \propto \max_{\theta \in \Theta} p\left(y \mid \mathcal{D}, x, y\right)
