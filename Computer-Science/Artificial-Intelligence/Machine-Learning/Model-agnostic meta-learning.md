@@ -9,6 +9,8 @@ The idea is to train the model's parameters in such a way that doing a small num
 > The process of training a model’s parameters such that a
 few gradient steps, or even a single gradient step, can produce good results on a new task can be viewed from a feature learning standpoint as building an internal representation that is broadly suitable for many tasks.
 
+# Formalism
+
 First, we introduce the base model, a neural network $f_\theta$ with meta-parameters $\theta$ [@antoniou2018train]. The hope is to learn a good $\theta_0$ so that the $\theta_N$ obtained after $N$ gradient steps using a support set $S_b$ results in good performance on task $T_b$. The $N$ steps are the inner-loop update process. If we use learning rate $\alpha$ with base weights $\theta^b_i$, the rolled-up update looks like
 
 $$
