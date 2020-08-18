@@ -14,7 +14,7 @@ Given a training set $z^N = \\{ (x_i, y_i) \\}^N_{i=1}$,
     1. Pretend it's part of the $y=i$ example class. 
     2. Add it to the data: $$z^{N+1} =z^N \cup \left\\{ (x, y=i) \right\\}$$
     3. Train again: $$\hat\theta_i = \mathsf{StochasticGradientDescent}\left(\hat\theta_{\text{ERM}}, z^{N+1}, \mathsf{steps}_2\right)$$
-    4. record the probability.
+    4. Record the probability: $$p_i = p_{\hat\theta_i}\left(y = i \mid x\right)$$
     3. Repeat this for each possible $i$ class it could be. Call the sum of these values $C$.
     4. Return the normalized distribution using $C$ as a [[normalizing constant]].
 4. Return distribution and the regret $\Gamma = \log C$.
