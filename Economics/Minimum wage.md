@@ -1,1 +1,1 @@
-A **minimum wage** of $x$ says everybody needs to be paid at least $x$.
+A **minimum wage** of $x$ says everybody needs to be paid at least $x$ for their labor.
