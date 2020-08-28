@@ -1,0 +1,1 @@
+**Mathematical induction** is a proof technique to prove a proposition $P_n$ for all $n \in \mathbb{N}$, the [[natural number]]
