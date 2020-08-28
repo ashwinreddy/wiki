@@ -7,5 +7,5 @@ $$
 Thus,
 
 $$
--|a| \leq a \leq |a|
+-|a| \leq a \leq |a|, \quad \forall a \in \mathbb{R}
 $$
