@@ -1,4 +1,4 @@
-A **generative model** tries to learn the [[joint distribution]] $P(X, Y)$
+A **generative model** tries to learn the [[joint probability distribution]] $P(X, Y)$.
 
 # Resources
 
