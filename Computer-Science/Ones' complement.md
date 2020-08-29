@@ -1,0 +1,1 @@
+**Ones' complement** of a binary number is given by inverting all the digits.
