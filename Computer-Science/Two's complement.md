@@ -1,1 +1,1 @@
-The **two's complement** of a binary number is one plus its [[ones' complement]].
+The **two's complement** of a binary number is one plus its [[ones' complement]]. It offers a convenient way of representing a number's negative.
