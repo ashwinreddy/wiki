@@ -1,3 +1,7 @@
 The **two's complement** of a binary number is one plus its [[ones' complement]]. It offers a convenient way of representing a number's negative.
 
-You can tell if a number is negative by the first (most significant) bit (1 is negative, 0 is not).
+# Representing negative numbers
+
+The first bit is reserved for the sign. 0 is positive, 1 is negative. 
+
+When you want a number's negative, you take its two's complement.
