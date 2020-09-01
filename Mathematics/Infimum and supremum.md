@@ -1,5 +1,5 @@
 The **supremum** of a [[set]] $S$ is the least upper bound $M$ for the set, if it exists.
 
 $$
-M = \sup S \iff \begin{cases} \forall s \in S, s \leq M \\\\\ \forall x \in M, \exists s \in S, s > x \end{cases}
+M = \sup S \iff \begin{cases} \forall s \in S, s \leq M \\\\\ \forall x < M, \exists s \in S, s > x \end{cases}
 $$
