@@ -1,0 +1,1 @@
+The **supremum** of a [[set]] $S$ is the least upper bound $M$ for the set, if it exists.
