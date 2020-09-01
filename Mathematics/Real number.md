@@ -9,5 +9,5 @@ The completeness axiom says that every non-empty [[subset]] of $\RR$ bounded abo
 # Archimedean property
 
 $$
-\forall a> 0: \forall b > 0: \exists n \in \mathbb{N}: an > b
+(\forall a> 0)(\forall b > 0)(\exists n \in \mathbb{N}: an > b)
 $$
