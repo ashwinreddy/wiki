@@ -1,0 +1,1 @@
+A **heisenbug** is random/hard to reproduce and seem to disappear or change when debugging.
