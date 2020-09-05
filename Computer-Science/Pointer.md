@@ -1,0 +1,1 @@
+A **pointer** is a variable that represents a memory address.
