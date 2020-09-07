@@ -3,3 +3,5 @@ The **trace** of a [[matrix]] is the sum of its diagonal and happens to be the s
 \begin{equation}
 \operatorname{Tr}(A) = \sum_{i} A_{ii} = \sum_i \lambda_i
 \end{equation}
+
+The trace is invariant under cyclic permutations.
