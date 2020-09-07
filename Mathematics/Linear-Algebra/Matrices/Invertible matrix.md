@@ -12,3 +12,11 @@ An operational definition for an invertible matrix is one whose [[determinant]] 
 
 * The inverse, if it exists, is unique.
 * A left inverse is a right inverse and vice versa.
+
+# Formula
+
+$$
+\begin{bmatrix}
+a & b \\\\ c & d
+\end{bmatrix}^{-1} = \frac{1}{\det } \begin{bmatrix} d & - b \\\\ -c & a\end{bmatrix}
+$$
