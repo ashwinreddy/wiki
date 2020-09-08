@@ -3,3 +3,7 @@ The **Born rule** says that for a [[wave function]] $\Psi(x, t)$, the function $
 $$
 \Pr(a \leq x \leq b) = \int_a^b \dd{x} \cdot |\Psi(x, t)|^2
 $$
+
+What does this mean experimentally? 
+
+1. If we ran the experiment $N \gg 1$
