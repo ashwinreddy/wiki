@@ -9,5 +9,5 @@ $$
 The Schrodinger equation returns normalized distributions if given normalized distributions. We have to show that
 
 $$
-\dv{}{t} \int_{-\infty}^\infty \dd{x} | \Psi(x, t)|^2 = 0.
+\dv{}{t} \int_{-\infty}^\infty \dd{x} \cdot | \Psi(x, t)|^2 = 0.
 $$
