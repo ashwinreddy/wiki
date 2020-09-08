@@ -1,0 +1,1 @@
+In [[C]], you can dynamically allocate memory using methods like `malloc`, `free`, and `realloc`.
