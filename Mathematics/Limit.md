@@ -4,8 +4,4 @@ $$
 \lim_{x \to c} f(x) = L
 $$
 
-This means that for every $\epsilon > 0$, there is a $\delta > 0$ such that
-
-$$
-0 < |x - c | < \delta \implies |f(x) - L | < \epsilon
-$$
+To prove a limit for a sequence, we can use the $\epsilon-N$ definition. We pick an arbitrary $\epsilon > 0$ and show that there is an $N$ such that $n > N$ implies $| s_n - s | < \epsilon$.
