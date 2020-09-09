@@ -2,6 +2,8 @@
 
 Typical linear algebra classes start by describing how to solve a system of linear equations using Gaussian elimination. It then becomes useful to introduce notions of matrices and vectors, etc. These later become formally codified using the idea of a [[vector space]].
 
+Matrices become useful computational tools, replete with their own properties and methods like [[determinant]], [[trace]], [[null space]], [[rank]], etc.
+
 # Resources
 
 * [[https://graphicallinearalgebra.net/]]
