@@ -5,7 +5,7 @@ $$
 $$
 
 $$
-i \hbar \pdv{}{t} \Psi = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi}{\partial x^2} + V(x) \Psi
+\pdv{}{t} \Psi = - \frac{\hbar^2}{i\hbar 2m} \frac{\partial^2 \Psi}{\partial x^2} + V(x) \Psi
 $$
 
 # Normalized Closure
