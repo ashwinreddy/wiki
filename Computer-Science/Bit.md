@@ -4,4 +4,4 @@ $$
 N \text{ bits} \iff \text{up to } 2^N \text{ things}
 $$
 
-Therefore, if you have $T$ things, you want $\lceil \rceil$
+Therefore, if you have $T$ things, you want $\lceil \lg T \rceil$ bits.
