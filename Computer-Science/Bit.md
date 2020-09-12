@@ -1,0 +1,1 @@
+A **bit** is a unit of data or information that represents either a 0 or 1.
