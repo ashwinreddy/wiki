@@ -1,4 +1,12 @@
-**C** is a programming language.
+**C** is a low-level programming language.
+
+# Memory
+
+* **Static storage** contains global variables
+* **Stack** local variable storage
+* **Heap** is where dynamic storage lives
+
+# sizeof
 
 Variables can be declared without values, holding garbage.
 
