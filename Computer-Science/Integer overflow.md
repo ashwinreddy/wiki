@@ -1,0 +1,1 @@
+Integer overflow is when a number gets so big, it wraps back to 0 _OR_ if decreasing it wraps to the largest value.
