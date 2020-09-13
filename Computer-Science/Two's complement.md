@@ -1,10 +1,16 @@
-The **two's complement** of a binary number is one plus its [[ones' complement]]. It's one way of trying to represent a negative number. In fact, all 1s in two's complement system corresponds to -1.
+The **two's complement** of a binary number is one plus its [[ones' complement]]. It's one convenient way of trying to represent a negative number.
+
+$$
+d_{n} \times (- 2^n) \sum_{i=1}^{n-1} d_i \times 2^i
+$$
+
+
+
+In fact, all 1s in two's complement system corresponds to -1.
 
 $$
 \mathsf{Two's Complement}(n) = 1 + \mathsf{NOT}(n)
 $$
-
-It offers a convenient way of representing a number's negative.
 
 # Representing negative numbers
 
