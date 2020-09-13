@@ -4,6 +4,8 @@ $$
 d_{n} \times (- 2^n) + \sum_{i=1}^{n-1} d_i \times 2^i
 $$
 
+Heuristically, you can flip the bits and add 1 to find out what the positive version is.
+
 
 
 In fact, all 1s in two's complement system corresponds to -1.
