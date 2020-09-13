@@ -1,0 +1,1 @@
+A **number** is an abstract concept. Numerals can be used to write down numbers. Often, we use digits to write numerals.
