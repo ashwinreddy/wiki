@@ -1,1 +1,1 @@
-**Hexadecimal** uses 16 symbols (0-9 then A to F) for digits.
+**Hexadecimal** uses 16 symbols (0-9 then A=10 to F=15) for digits.
