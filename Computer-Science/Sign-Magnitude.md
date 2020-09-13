@@ -1,1 +1,1 @@
-**Sign-Magnitude** is a representation for binary numbers where we reserve the leftmost bit to be a 0 to mean positive and set it to a 1 to mean negative.
+**Sign-Magnitude** is a representation for binary numbers where we reserve the leftmost bit to be a 0 to mean positive and set it to a 1 to mean negative. There's no free lunch, so we give up the ability to represent 2x as many things.
