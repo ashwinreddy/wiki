@@ -5,4 +5,4 @@ Here's the problem:
 * We have two zeros
 * The positive increase in one direction, the negatives increase in the other.
 
-So it's pretty much just used in some signal processing contexts.
+So it's pretty much just used in some signal processing contexts. The next approach is [[Ones' complement]]
