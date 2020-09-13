@@ -1,4 +1,10 @@
-The **two's complement** of a binary number is one plus its [[ones' complement]]. It offers a convenient way of representing a number's negative.
+The **two's complement** of a binary number is one plus its [[ones' complement]]. 
+
+$$
+\mathsf{Two's Complement}(n) = 1 + ~n
+$$
+
+It offers a convenient way of representing a number's negative.
 
 # Representing negative numbers
 
