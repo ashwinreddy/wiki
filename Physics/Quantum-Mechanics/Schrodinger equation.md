@@ -1,17 +1,23 @@
 The **Schrodinger equation** is a linear partial differential equation, which in its non-relativistic form looks like
 
 $$
-\boxed{i \hbar \pdv{}{t} \Psi = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi}{\partial x^2} + V(x, t) \Psi}
+\boxed{\iota \hbar \pdv{}{t} \Psi = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi}{\partial x^2} + V(x, t) \Psi}
 $$
 
 $$
-\pdv{\Psi}{t}  = \frac{i\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{i}{\hbar} V(x, t) \Psi
+\pdv{\Psi}{t}  = \frac{\iota\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{i}{\hbar} V(x, t) \Psi
 $$
 
 Suppose we were to attempt separation of variables, i.e. the solution we guess is
 
 $$
 \Psi(x, t) = \psi(x) \varphi(t)
+$$
+
+If we then plug this in,
+
+$$
+
 $$
 
 # Normalized Closure
