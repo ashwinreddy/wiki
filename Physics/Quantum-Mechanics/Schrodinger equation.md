@@ -5,7 +5,7 @@ $$
 $$
 
 $$
-\pdv{\Psi}{t}  = \frac{\iota\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{i}{\hbar} V(x, t) \Psi
+\pdv{\Psi}{t}  = \frac{\iota\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{\iota}{\hbar} V(x, t) \Psi
 $$
 
 Suppose we were to attempt separation of variables, i.e. the solution we guess is
@@ -17,7 +17,7 @@ $$
 If we then plug this in,
 
 $$
-
+\iota\hbar \psi(x) \pdv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\partial^2 \psi}{\partial x^2} + V(x)\psi(x)\varphi(t)
 $$
 
 # Normalized Closure
