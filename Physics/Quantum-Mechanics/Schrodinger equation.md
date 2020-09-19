@@ -20,6 +20,12 @@ $$
 \iota\hbar\cdot \psi(x) \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\dd{}^2 \psi}{\dd{} x^2} + V(x)\psi(x)\varphi(t)
 $$
 
+Then we can just divide by the wave function.
+
+$$
+i\hbar \frac{1}{\varphi} \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \frac{1}{\psi} \frac{\dd{}^2 \psi}{\dd{}x^2 } + V(x)
+$$
+
 # Normalized Closure
 
 The Schrodinger equation returns normalized distributions if given normalized distributions. We have to show that
