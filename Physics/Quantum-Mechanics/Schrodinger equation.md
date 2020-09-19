@@ -1,11 +1,11 @@
 The **Schrodinger equation** is a linear partial differential equation, which in its non-relativistic form looks like
 
 $$
-\boxed{i \hbar \pdv{}{t} \Psi = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi}{\partial x^2} + V(x) \Psi}
+\boxed{i \hbar \pdv{}{t} \Psi = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi}{\partial x^2} + V(x, t) \Psi}
 $$
 
 $$
-\pdv{\Psi}{t}  = \frac{i\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{i}{\hbar} V(x) \Psi
+\pdv{\Psi}{t}  = \frac{i\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{i}{\hbar} V(x, t) \Psi
 $$
 
 # Normalized Closure
