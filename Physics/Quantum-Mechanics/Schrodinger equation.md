@@ -17,7 +17,7 @@ $$
 If we then plug this in,
 
 $$
-\iota\hbar \psi(x) \pdv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\partial^2 \psi}{\partial x^2} + V(x)\psi(x)\varphi(t)
+\iota\hbar\cdot \psi(x) \pdv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\partial^2 \psi}{\partial x^2} + V(x)\psi(x)\varphi(t)
 $$
 
 # Normalized Closure
