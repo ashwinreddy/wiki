@@ -8,6 +8,12 @@ $$
 \pdv{\Psi}{t}  = \frac{i\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{i}{\hbar} V(x, t) \Psi
 $$
 
+Suppose we were to attempt separation of variables, i.e. the solution we guess is
+
+$$
+\Psi(x, t) = \psi(x) \varphi(t)
+$$
+
 # Normalized Closure
 
 The Schrodinger equation returns normalized distributions if given normalized distributions. We have to show that
