@@ -28,6 +28,8 @@ $$
 
 <<Note("Missing logic")>>
 
+This means that they must equal a constant $E$.
+
 # Normalized Closure
 
 The Schrodinger equation returns normalized distributions if given normalized distributions. We have to show that
