@@ -31,7 +31,7 @@ $$
 This means that they must equal a constant $E$. This is nice because
 
 * The solution has stationary states. The probability density of finding a particle at a place does not depend on time. More generally, these stationary states will have all physical observables independent of time.
-
+* We know exactly what the total energy (kinetic + potential) is for these states.
 
 \begin{gather}
 \iota\hbar \dv{\varphi}{t} = E\varphi
