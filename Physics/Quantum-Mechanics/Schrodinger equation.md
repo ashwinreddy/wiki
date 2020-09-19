@@ -28,7 +28,9 @@ $$
 
 <<Note("Missing logic here! Why constant?")>>
 
-This means that they must equal a constant $E$.
+This means that they must equal a constant $E$. This is nice because
+
+* The solution has stationary states. The probability density of finding a particle at a place does not depend on time.
 
 
 \begin{gather}
