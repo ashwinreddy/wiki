@@ -8,7 +8,7 @@ $$
 \pdv{\Psi}{t}  = \frac{\iota\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{\iota}{\hbar} V(x, t) \Psi
 $$
 
-Suppose we were to attempt separation of variables, i.e. the solution we guess is
+This is hard equation to solve. Pretend $V(x,t)$ has no dependence on time. Suppose we were to attempt separation of variables, i.e. the solution we guess is
 
 $$
 \Psi(x, t) = \psi(x) \varphi(t)
@@ -17,7 +17,7 @@ $$
 If we then plug this in,
 
 $$
-\iota\hbar\cdot \psi(x) \pdv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\partial^2 \psi}{\partial x^2} + V(x)\psi(x)\varphi(t)
+\iota\hbar\cdot \psi(x) \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\dd{}^2 \psi}{\dd{} x^2} + V(x)\psi(x)\varphi(t)
 $$
 
 # Normalized Closure
