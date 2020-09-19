@@ -32,7 +32,7 @@ This means that they must equal a constant $E$.
 
 $$
 \begin{cases}
-\iota\hbar \dv{\varphi}{t} = E\varphi \implies \varphi(t) = e^{-\iota E t / \hbar} \\
+\iota\hbar \dv{\varphi}{t} = E\varphi \implies \varphi(t) = e^{-\iota E t / \hbar} \\\\\
 -\frac{\hbar^2}{2m} \frac{ \dd{}^2 \psi }{ \dd{} x^2 } + V(x) \psi = E \psi
 \end{cases}
 $$
