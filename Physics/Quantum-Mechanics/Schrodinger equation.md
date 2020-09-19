@@ -32,9 +32,13 @@ This means that they must equal a constant $E$.
 
 
 \begin{gather}
-\iota\hbar \dv{\varphi}{t} = E\varphi \implies \varphi(t) = e^{-\iota E t / \hbar} \\\\\
+\iota\hbar \dv{\varphi}{t} = E\varphi
 -\frac{\hbar^2}{2m} \frac{ \dd{}^2 \psi }{ \dd{} x^2 } + V(x) \psi = E \psi
 \end{gather}
+
+The solution to the first being
+
+$$\varphi(t) = e^{-\iota E t / \hbar}$$
 
 # Normalized Closure
 
