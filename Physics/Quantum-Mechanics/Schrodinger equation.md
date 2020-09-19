@@ -26,6 +26,8 @@ $$
 i\hbar \frac{1}{\varphi} \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \frac{1}{\psi} \frac{\dd{}^2 \psi}{\dd{}x^2 } + V(x)
 $$
 
+<<Note("Missing logic")>>
+
 # Normalized Closure
 
 The Schrodinger equation returns normalized distributions if given normalized distributions. We have to show that
