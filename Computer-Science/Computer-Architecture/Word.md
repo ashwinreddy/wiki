@@ -1,0 +1,1 @@
+A **word** in computer architecture is usually 32 bits interpreted as a message.
