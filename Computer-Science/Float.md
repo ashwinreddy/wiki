@@ -10,9 +10,13 @@ $$
 |Exponent|Significand|Object|
 |--------|-----------|------|
 |0|0|0|
-|0|nonzero|???|
+|0|nonzero|Denormalized number|
 |1-254|anything| +/- floating point|
 |255|0|$\pm \infty$|
 |255|nonzero|NaN|
 
 [[Floating-point arithmetic]]
+
+# Denormalized number
+
+Implicit exponent is -126 and we have no implied leading 1.
