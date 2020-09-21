@@ -7,4 +7,12 @@ $$
 (-1)^S \times (1 + \mathsf{Significand}) \times 2^{\mathsf{Exponent} - \mathsf{Bias}}, \quad \mathsf{Bias} = 127
 $$
 
+|Exponent|Significand|Object|
+|--------|-----------|------|
+|0|0|0|
+|0|nonzero|???|
+|1-254|anything| +/- floating point|
+|255|0|+/- $\infty$|
+|255|nonzero|???|
+
 [[Floating-point arithmetic]]
