@@ -13,6 +13,6 @@ $$
 |0|nonzero|???|
 |1-254|anything| +/- floating point|
 |255|0|$\pm \infty$|
-|255|nonzero|???|
+|255|nonzero|NaN|
 
 [[Floating-point arithmetic]]
