@@ -4,7 +4,7 @@ In normalized form, the significand is treated as following a "1."
 
 
 $$
-(-1)^S \times (1 + \mathsf{Significand}) \times 2^{\mathsf{Exponent} - 127}
+(-1)^S \times (1 + \mathsf{Significand}) \times 2^{\mathsf{Exponent} - \mathsf{Bias}}, \quad \mathsf{Bias} = 127
 $$
 
 [[Floating-point arithmetic]]
