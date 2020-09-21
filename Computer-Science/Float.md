@@ -12,7 +12,7 @@ $$
 |0|0|0|
 |0|nonzero|???|
 |1-254|anything| +/- floating point|
-|255|0|+/- $\infty$|
+|255|0|$\pm \infty$|
 |255|nonzero|???|
 
 [[Floating-point arithmetic]]
