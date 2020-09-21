@@ -2,6 +2,8 @@ A **float** is a datatype representing a real number with a "floating point." We
 
 [[https://fabiensanglard.net/floating_point_visually_explained/floating_point_layout.svg]]
 
+[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_math.svg]]
+
 In normalized form, the significand is treated as following a "1."
 
 
