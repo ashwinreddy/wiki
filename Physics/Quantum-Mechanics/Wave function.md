@@ -4,7 +4,7 @@ $$
 \rho(x, t) = | \Psi(x, t)|^2
 $$
 
-We will often need to normalize the wave function to interpret the probabilities. We require that
+We will often need to normalize the wave function to interpret the probabilities as a [[probability density function]]. We require that
 
 $$
 \int_{\RR} \dd{x} \cdot \rho(x, t) = 1
