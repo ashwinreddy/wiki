@@ -36,10 +36,16 @@ $$
 
 This means that they must equal a constant $E$. You could vary over time the left side of the equation and get different values which all equal some constant on the other side. You could vary over space the right side of the equation and get different values which all equal some constant on the left side.
 
-So we bifurcate the equation.
+So we bifurcate into two ordinary differential equations.
 
 $$
 \dv{\varphi}{t} = -\frac{\iota E}{\hbar} \varphi
+$$
+
+Of course, the solution is easy to inspect.
+
+$$
+\varphi(t) = e^{-\iota E t / \hbar}
 $$
 
 $$
