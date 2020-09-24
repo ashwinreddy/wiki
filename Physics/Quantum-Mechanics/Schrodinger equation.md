@@ -49,8 +49,15 @@ $$
 $$
 
 \begin{equation}
+\label{eq:tise}
 \boxed{-\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi} \tag{T.I.S.E.}
 \end{equation}
+
+We then attempt to solve \ref{eq:tise} to find the appropriate $\psi(x)$, and then we have
+
+$$
+\Psi(x, t) = \psi(x) e^{-\iota E t / \hbar}
+$$
 
 This is nice because
 
