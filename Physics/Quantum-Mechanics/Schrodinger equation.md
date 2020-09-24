@@ -1,16 +1,18 @@
 The **Schrodinger equation** is a linear partial differential equation, which in its general non-relativistic form looks like
 
 \begin{equation}
-\boxed{\iota \hbar \pdv{}{t} \Psi(x, t) = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x, t) \Psi(x,t)}
+\label{eq:schro}
+\boxed{\iota \hbar \pdv{}{t} \Psi(x, t) = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x, t) \Psi(x,t)} 
 \end{equation}
-
 
 
 $$
 \pdv{\Psi}{t}  = \frac{\iota\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{\iota}{\hbar} V(x, t) \Psi
 $$
 
-This is hard equation to solve. Pretend $V(x,t)$ has no dependence on time. Suppose we were to attempt separation of variables, i.e. the solution we guess is
+# Time Independent Schrodinger Equation
+
+This \ref{eq:schro} is hard equation to solve. Pretend $V(x,t)$ has no dependence on time. Suppose we were to attempt separation of variables, i.e. the solution we guess is
 
 $$
 \Psi(x, t) = \psi(x) \varphi(t)
