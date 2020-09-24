@@ -53,7 +53,11 @@ $$
 \boxed{-\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi} \tag{T.I.S.E.}
 \end{equation}
 
-If we turn to the [[Hamiltonian]], we get a nice [[eigenpair]] equation
+If we turn to the [[Hamiltonian]], we get a nice [[eigenpairs]] equation:
+
+$$
+\hat{H} \psi = E \psi
+$$
 
 We can then attempt to solve \ref{eq:tise} to find the appropriate $\psi(x)$, and then we have
 
