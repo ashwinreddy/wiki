@@ -38,10 +38,10 @@ This means that they must equal a constant $E$. You could vary over time the lef
 
 So we bifurcate into two ordinary differential equations.
 
-$$
+\begin{equation}
 \label{eq:time}
 \dv{\varphi}{t} = -\frac{\iota E}{\hbar} \varphi
-$$
+\end{equation}
 
 Of course, the solution to Equation \ref{eq:time} is easy to inspect.
 
