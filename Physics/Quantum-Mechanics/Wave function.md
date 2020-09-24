@@ -9,3 +9,5 @@ We will often need to normalize the wave function to interpret the probabilities
 $$
 \int_{\RR} \dd{x} \cdot \rho(x, t) = 1
 $$
+
+The wave function evolves as the [[Schrodinger equation]].
