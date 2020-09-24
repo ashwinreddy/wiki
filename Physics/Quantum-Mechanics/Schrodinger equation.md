@@ -12,6 +12,8 @@ $$
 \pdv{\Psi}{t}  = \frac{\iota\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{\iota}{\hbar} V(x, t) \Psi
 $$
 
+[[_TOC_]]
+
 # Time Independent Schrodinger Equation
 
 Equation \ref{eq:schro} is a hard one to solve. Pretend $V(x,t)$ has no dependence on time. Suppose we were to attempt separation of variables, i.e. the solution we guess is
