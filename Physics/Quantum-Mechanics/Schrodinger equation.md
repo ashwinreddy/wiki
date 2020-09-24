@@ -30,9 +30,9 @@ $$
 i\hbar \frac{1}{\varphi} \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \frac{1}{\psi} \frac{\dd{}^2 \psi}{\dd{}x^2 } + V(x)
 $$
 
-<<Note("Missing logic here! Why constant?")>>
+This means that they must equal a constant $E$. You could vary over time the left side of the equation and get different values which all equal some constant on the other side. You could vary over space the right side of the equation and get different values which all equal some constant on the left side.
 
-This means that they must equal a constant $E$. This is nice because
+This is nice because
 
 * The solution has stationary states. The probability density of finding a particle at a place does not depend on time. More generally, these stationary states will have all physical observables independent of time.
 * We know exactly what the total energy (kinetic + potential) is for these states.
