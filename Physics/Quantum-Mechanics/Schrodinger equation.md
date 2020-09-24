@@ -1,4 +1,4 @@
-The **Schrodinger equation** is a linear partial differential equation, which in its general non-relativistic form looks like
+The **Schrodinger equation** is a linear partial differential equation, which in its one-dimensional non-relativistic form looks like
 
 \begin{equation}
 \label{eq:schro}
