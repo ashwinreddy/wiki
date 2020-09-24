@@ -48,9 +48,9 @@ $$
 \varphi(t) = e^{-\iota E t / \hbar}
 $$
 
-$$
--\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi
-$$
+\begin{equation}
+\boxed{-\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi} \label{Time Independent}
+\end{equation}
 
 This is nice because
 
