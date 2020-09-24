@@ -1,8 +1,10 @@
-The **Schrodinger equation** is a linear partial differential equation, which in its non-relativistic form looks like
+The **Schrodinger equation** is a linear partial differential equation, which in its general non-relativistic form looks like
 
 $$
 \boxed{\iota \hbar \pdv{}{t} \Psi(x, t) = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x, t) \Psi(x,t)}
 $$
+
+
 
 $$
 \pdv{\Psi}{t}  = \frac{\iota\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{\iota}{\hbar} V(x, t) \Psi
