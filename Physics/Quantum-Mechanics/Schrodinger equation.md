@@ -12,7 +12,7 @@ $$
 
 # Time Independent Schrodinger Equation
 
-This \ref{eq:schro} is hard equation to solve. Pretend $V(x,t)$ has no dependence on time. Suppose we were to attempt separation of variables, i.e. the solution we guess is
+Equation \ref{eq:schro} is a hard one to solve. Pretend $V(x,t)$ has no dependence on time. Suppose we were to attempt separation of variables, i.e. the solution we guess is
 
 $$
 \Psi(x, t) = \psi(x) \varphi(t)
