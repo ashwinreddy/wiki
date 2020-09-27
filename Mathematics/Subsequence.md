@@ -1,0 +1,1 @@
+A **subsequence** of a [[sequence]] is a sequence that selects out elements from the sequence and preserves their order.
