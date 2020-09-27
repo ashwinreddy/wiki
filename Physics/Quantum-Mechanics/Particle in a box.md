@@ -9,3 +9,9 @@ Outside the well, $\psi(x) = 0$. Inside the well, $V=0$ and the [[Schrodinger eq
 $$
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} = E \psi
 $$
+
+More neatly,
+
+$$
+\frac{\dd{}^2 \psi}{\dd{} x^2} = -k^2 \psi, \qquad k = \frac{\sqrt{2mE}}{\hbar}
+$$
