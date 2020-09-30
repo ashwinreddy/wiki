@@ -1,4 +1,4 @@
-A **stationary state** is a quantum state $\Psi$ that is an [[eigenvector|eigenpairs]] of the [[Hamiltonian]]. Effectively, they are solutions to the time-independent [[Schrodinger equation]]
+A **stationary state** is a quantum state $\Psi$ that is a solutions to the time-independent [[Schrodinger equation]]. A slicker description is that it is an [[eigenvector|eigenpairs]] of the [[Hamiltonian]]. 
 
 $$
 \hat{H} \Psi = E \Psi
