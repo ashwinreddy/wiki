@@ -10,7 +10,11 @@ $$
 \hat{H} \Psi = E \Psi
 $$
 
-Stationary states are boring.
+Stationary states are boring because
+
+$$
+\rho(x, t) = \Psi^* \Psi = \psi* e^{\iota E t / \hbar} \psi e^{-\iota E t / \hbar} = |\psi(x)|^2
+$$
 
 * They have definite total energy.
 
