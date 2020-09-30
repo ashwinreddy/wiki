@@ -1,4 +1,4 @@
-The **wave function** $\Psi$ is the primary object of study in quantum mechanics. It is a function of [[space]] and [[time]] and contains information about the probability of seeing a particle somewhere.
+The **wave function** $\Psi$ is the primary object of study in quantum mechanics. It is a function of [[space]] and [[time]] and contains information about the probability of seeing a particle somewhere. The [[Born rule]]
 
 $$
 \rho(x, t) = | \Psi(x, t)|^2
