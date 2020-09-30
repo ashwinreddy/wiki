@@ -15,3 +15,5 @@ More neatly,
 $$
 \frac{\dd{}^2 \psi}{\dd{} x^2} = -k^2 \psi, \qquad k = \frac{\sqrt{2mE}}{\hbar}
 $$
+
+This equation is exactly what we have for the [[simple harmonic motion]]
