@@ -7,4 +7,4 @@ A common case is a sequence $s_n$ of real numbers. Here, we typically want to kn
 
 # Monotone sequence
 
-A monotone sequence is one that is either increasing $s_n \leq s_{n+1}$ or decreasing $s_n \geq s_{n+1}$.
+A monotone sequence is one that is either increasing like $s_n \leq s_{n+1}$ or decreasing like $s_n \geq s_{n+1}$.
