@@ -14,3 +14,5 @@ We will often need to normalize the wave function to interpret the probabilities
 $$
 \int_{\RR} \dd{x} \cdot \rho(x, t) = 1
 $$
+
+The Schrodinger equation will return normalized wave functions if given normalized wave functions.
