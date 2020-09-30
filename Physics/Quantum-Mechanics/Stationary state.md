@@ -44,4 +44,8 @@ Thus, we have $\sigma^2_E = 0$, so $E$ is the only possible energy the state can
 # Properties
 
 * Any and all observables from a stationary state are independent of time. 
-* The stationary states are orthogonal and complete
+* The stationary states are orthonormal and complete
+
+$$
+\langle \psi_m \mid \psi_n \rangle = \int \dd{x} \cdot \psi_m^* \psi_n = \begin{cases}1 & m = n \\ 0 & m = n\end{cases}
+$$
