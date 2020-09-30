@@ -36,3 +36,15 @@ Then, the allowed energies are
 $$
 E_n = \frac{k_n^2 \hbar}{2m} = \frac{n^2 \pi^2 \hbar\^2}{2ma^2}
 $$
+
+The solutions look like
+
+$$
+\psi_n(x) = A\sin(kx)
+$$
+
+Integrating to normalize,
+
+$$
+\int_0^a \dd{x} \cdot |A|^2 sin^2 (k_nx) = |A|^2 \frac{a}{2} \implies A = \sqrt{\frac{2}{a}}
+$$
