@@ -14,5 +14,5 @@ $$
 Then,
 
 $$
-\hat{a}_{-}\hat{a}_+ = \frac{1}{2\hbar m \omega}\left(\iota\hat{p} +m\omega\hat{x}\right)\left(-\iota\hat{p} +m\omega\hat{x}\right) = \frac{\hat{H}}{\hbar\omega} - \iota m\omega\left(\hat{x}\hat{p} - \hat{p}\hat{x}\right)\cdot\frac{1}{2\hbar m\omega}
+\hat{a}\_{-}\hat{a}_+ = \frac{1}{2\hbar m \omega}\left(\iota\hat{p} +m\omega\hat{x}\right)\left(-\iota\hat{p} +m\omega\hat{x}\right) = \frac{\hat{H}}{\hbar\omega} - \iota m\omega\left(\hat{x}\hat{p} - \hat{p}\hat{x}\right)\cdot\frac{1}{2\hbar m\omega}
 $$
