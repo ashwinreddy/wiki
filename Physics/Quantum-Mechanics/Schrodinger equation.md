@@ -84,3 +84,5 @@ The Schrodinger equation returns normalized distributions if given normalized di
 &= \frac{i\hbar}{2m} \left[ \Psi^\* \pdv{\Psi}{x} + \Psi \pdv{\Psi^\*}{x} \right]_{x=-\infty}^{x=+\infty} \\\\\
 &= 0
 \end{align}
+
+The last step is because the wave function must be 0 at $\pm\infty$ for normalizability to make sense.
