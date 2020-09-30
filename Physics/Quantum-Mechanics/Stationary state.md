@@ -4,21 +4,20 @@ $$
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi }{\dd{} x^2} + V\psi = E \psi.
 $$
 
-A slicker description is that it is an [[eigenvector|eigenpairs]] of the [[Hamiltonian]]. 
+A slicker description is that it is an [[eigenvector|eigenpairs]] of the [[Hamiltonian]]: 
 
 $$
 \hat{H} \Psi = E \Psi
 $$
 
-In this case,
+Stationary states are boring.
 
-$$
-\langle H \rangle = \int \Psi^* \hat{H} \Psi \\, \dd{x} = \int \Psi^* E \Psi \\, \dd{x} = E.
-$$
+* They have definite total energy.
 
-$$
+\begin{gather}
+\langle H \rangle = \int \Psi^* \hat{H} \Psi \\, \dd{x} = \int \Psi^* E \Psi \\, \dd{x} = E. \\\\\
 \hat{H}^2 \psi = E^2 \psi \implies \left \langle \hat{H}^2 \right \rangle = E^2.
-$$
+\end{gather}
 
 Thus, we have $\sigma^2_E = 0$, so $E$ is the only possible energy the state can have ([[Dirac delta function]]).
 
