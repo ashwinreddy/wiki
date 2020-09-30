@@ -34,5 +34,5 @@ Then,
 Then, the allowed energies are
 
 $$
-E = \frac{k_n^2 \hbar}{2m} = \frac{n^2 \pi^2 \hbar\^2}{2ma^2}
+E_n = \frac{k_n^2 \hbar}{2m} = \frac{n^2 \pi^2 \hbar\^2}{2ma^2}
 $$
