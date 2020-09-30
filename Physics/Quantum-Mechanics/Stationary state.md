@@ -1,4 +1,10 @@
-A **stationary state** is a quantum state $\Psi$ that is a solutions to the time-independent [[Schrodinger equation]]. A slicker description is that it is an [[eigenvector|eigenpairs]] of the [[Hamiltonian]]. 
+A **stationary state** is a quantum state $\psi$ that is a solutions to the time-independent [[Schrodinger equation]],
+
+$$
+-frac{\hbar^2}{2m} \frac{\dd{}^2 \psi }{\dd{} x^2} + V\psi = E \psi
+$$
+
+A slicker description is that it is an [[eigenvector|eigenpairs]] of the [[Hamiltonian]]. 
 
 $$
 \hat{H} \Psi = E \Psi
