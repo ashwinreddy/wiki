@@ -9,3 +9,5 @@ In this way,
 $$
 \langle p \rangle = \int \dd{x} \left[ \Psi^*(x)\left(-i\hbar \pdv{}{x} \right)\Psi(x) \right]
 $$
+
+N.B. The order matters because $\Psi^* \pdv{}{x} \Psi \neq \left(\pdv{}{x} \Psi\right)\cdot\Psi^*
