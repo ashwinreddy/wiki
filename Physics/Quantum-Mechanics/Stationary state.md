@@ -4,6 +4,10 @@ $$
 \hat{H} \Psi = E \Psi
 $$
 
-<<Note("psi or Psi?")>>
+In this case,
+
+$$
+\langle H \rangle = \int \Psi^* \hat{H} \Psi \dd{x} = \int \Psi^* E \Psi \dd{x} = E.
+$$
 
 Any and all observables from a stationary state are independent of time. 
