@@ -1,1 +1,1 @@
-Not every set has a maximum, therefore we introduce idea of [[infimum and supremum]]
+Not every set has a maximum, therefore we introduce idea of [[infimum and supremum]], which are greatest lower bound and least upper bounds.
