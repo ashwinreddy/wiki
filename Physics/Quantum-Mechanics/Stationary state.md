@@ -18,7 +18,7 @@ $$
 
 # Boundary conditions
 
-Ordinarily, the Schrodinger equation wants to have $\psi$ and $\dv{\psi}{x}$ be continuous. However, if $V(x) = \infty$, then the condition on the derivative is different.
+Ordinarily, the Schrodinger equation wants to have $\psi$ and $\dv{\psi}{x}$ be continuous. However, if $V(x) = \infty$, then the condition is only on $\psi$.
 
 # Interpretation
 
