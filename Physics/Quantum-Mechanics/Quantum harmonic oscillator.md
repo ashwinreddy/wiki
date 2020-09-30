@@ -1,0 +1,1 @@
+The **quantum harmonic oscillator** solves the T.I.S.E.
