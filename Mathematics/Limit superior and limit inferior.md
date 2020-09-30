@@ -4,10 +4,12 @@ $$
 S = \\{ s_n: n > N \\} 
 $$
 
+Then,
+
 $$
-\limsup s_n = \lim_{N\to\infty} \sup  S
+\limsup s_n \triangleq \lim_{N\to\infty} \sup  S
 $$
 
 $$
-\liminf s_n = \lim_{N\to\infty} \inf S
+\liminf s_n \triangleq \lim_{N\to\infty} \inf S
 $$
