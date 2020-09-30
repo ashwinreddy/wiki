@@ -7,5 +7,5 @@
 In this way, 
 
 $$
-\langle p \rangle = \int \dd{x} \left[ \Psi^*(x)\left(-i\hbar\right)\Psi(x) \right]
+\langle p \rangle = \int \dd{x} \left[ \Psi^*(x)\left(-i\hbar \pdv{}{x} \right)\Psi(x) \right]
 $$
