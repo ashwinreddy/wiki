@@ -4,4 +4,6 @@ $$
 \hat{H} \Psi = E \Psi
 $$
 
+<<Note()>>
+
 Any and all observables from a stationary state are independent of time. 
