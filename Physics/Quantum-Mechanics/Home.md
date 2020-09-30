@@ -7,6 +7,11 @@
 |Observables are linear Hermitian operators||
 |Superposition: we can add states with arbitrary coefficients|
 
+Since quantum mechanics is fundamentally probabilistic, we import the tools of probability. In addition, quantum mechanics develops its own notation to handle these complexities. For example,
+
+$$
+\langle x \rangle x = \int \dd{x} x \rho(x)
+$$
 
 # Resources
 
