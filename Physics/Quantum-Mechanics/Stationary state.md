@@ -1,13 +1,19 @@
-A **stationary state** is a quantum state $\Psi(x, t) = \psi(x) \varphi(t)$ that is a solutions to the time-independent [[Schrodinger equation]],
+A **stationary state** is a quantum state $\Psi(x, t) = \psi(x) \varphi(t)$ that is a solution to the time-independent [[Schrodinger equation]],
 
 $$
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi }{\dd{} x^2} + V\psi = E \psi.
 $$
 
-A slicker description is that it is an [[eigenvector|eigenpairs]] of the [[Hamiltonian]]: 
+A slicker description is that it has $\psi(x)$ as an [[eigenvector|eigenpairs]] of the [[Hamiltonian]]: 
 
 $$
-\hat{H} \Psi = E \Psi
+\hat{H} \psi = E \psi
+$$
+
+Remember that the Schrodinger equation is linear, so a linear combination of solutions is also a solution. 
+
+$$
+\Psi(x, t) = \sum_{n=1}^\infty c_n \Psi_n(x, t) = \sum_{n=1}^\infty c_n \psi_n(x)e^{-\iota E_n t / \hbar}
 $$
 
 # Interpretation
