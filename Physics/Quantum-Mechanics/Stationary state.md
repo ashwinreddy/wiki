@@ -16,6 +16,10 @@ $$
 \Psi(x, t) = \sum_{n=1}^\infty c_n \Psi_n(x, t) = \sum_{n=1}^\infty c_n \psi_n(x)e^{-\iota E_n t / \hbar}
 $$
 
+# Boundary conditions
+
+Ordinarily, the Schrodinger equation wants to have $\psi$ and $\dv{\psi}{x}$ be continuous. However, if $V(x) = \infty$, then the condition on the derivative is different.
+
 # Interpretation
 
 <<Note("Include a section here about Q(x, p)")>>
