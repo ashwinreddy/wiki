@@ -6,7 +6,7 @@ $$
 
 What does this mean experimentally? 
 
-1. If we ran the experiment $N \gg 1$ times in parallel
+1. If we ran the experiment $N \gg 1$ times in parallel at different locations in a lab (which have all somehow been set up with the proper initial conditions), then the histogram of measurements would, in the limit, converge to this pdf.
 2. Run it may times with the same set up, resetting each time. Once we measure the position of the particle, the wave function collapses to position eigenstate with 100% probability at $x_0$ forevermore. [^tech]
 
 
