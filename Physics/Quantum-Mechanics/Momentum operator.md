@@ -3,3 +3,9 @@
 \begin{equation}
 \boxed{ \hat{p} = -\iota\hbar \pdv{}{x} }
 \end{equation}
+
+In this way, 
+
+$$
+\langle p \rangle = \int \dd{x} \left[ \Psi^*(x)\left(-i\hbar\right)\Psi(x) \right]
+$$
