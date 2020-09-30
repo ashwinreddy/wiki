@@ -80,4 +80,5 @@ The Schrodinger equation returns normalized distributions if given normalized di
 &= \int_{-\infty}^\infty \dd{x}\cdot \pdv{}{t} \big (  \Psi\Psi^* \big ) \\\\\
 &= \int_{-\infty}^\infty \dd{x}\cdot \left( \Psi^\* \pdv{\Psi}{t} + \Psi \pdv{\Psi^\*}{t} \right)  \\\\\
 &= \int_{-\infty}^\infty \dd{x}\cdot \frac{i\hbar}{2m} \left( \Psi\^* \frac{\partial^2 \Psi}{\partial x^2} + \Psi\frac{\partial^2 \Psi^*}{\partial x^2} \right)
+&= \frac{i\hbar}{2m} \int_{-\infty}^\infty \dd{x} \cdot \pdv{}{x}\left( \Psi^\* \pdv{\Psi}{x} + \Psi \pdv{\Psi^\*}{x} \right)
 \end{align}
