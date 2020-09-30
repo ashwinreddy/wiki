@@ -1,0 +1,1 @@
+Not every set has a maximum, therefore we introduce idea of [[infimum and supremum]]
