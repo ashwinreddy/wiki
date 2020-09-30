@@ -10,7 +10,7 @@
 Since quantum mechanics is fundamentally probabilistic, we import the tools of probability. In addition, quantum mechanics develops its own notation to handle these complexities. For example,
 
 $$
-\langle x \rangle x = \int \dd{x} \cdot x \rho(x)
+\langle x \rangle = \int \dd{x} \cdot x \rho(x)
 $$
 
 # Resources
