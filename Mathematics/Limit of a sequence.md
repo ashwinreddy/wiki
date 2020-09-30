@@ -5,3 +5,15 @@ Some useful examples include
 $$
 \lim_{n\to\infty} \frac{1}{n^p} = 0,\qquad p > 0
 $$
+
+$$
+\lim_{n \to\infty} a^n = 0,\qquad |a| < 1
+$$
+
+$$
+\lim_{n \to\infty} n^{1/n} = 1
+$$
+
+$$
+\lim_{n \to\infty} a^{1/n} = 1, \qquad a > 0
+$$
