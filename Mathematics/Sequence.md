@@ -1,1 +1,1 @@
-A **sequence** is an ordered list of objects.
+A **sequence** is an ordered list of objects. A common case is a sequence $s_n$ of real numbers. A sequence converges if it has a limit. Every convergent sequence is bounded.
