@@ -21,3 +21,12 @@ This equation is exactly what we have for the [[simple harmonic motion]], and in
 $$
 \psi(x) = A\sin(kx) + B\cos(kx)
 $$
+
+The boundary conditions are $\psi(0) = 0$ and $\psi(a)=a$ in order to be continuous since $\psi(0)=0$ when the potential jumps to infinity.
+
+Then,
+
+\begin{gather}
+\psi(0) = 0 \implies B = 0 \\\\\
+\psi(a) = a \implies ka = n\pi
+\end{gather}
