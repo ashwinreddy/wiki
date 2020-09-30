@@ -11,4 +11,8 @@ $$
 M = \sup S \iff \begin{cases} \forall s \in S, s \leq M \\\\\ \forall x < M, \exists s \in S, s > x \end{cases}
 $$
 
+It is a useful fact for proving a supremum, then, that
 
+$$
+\sup S \leq \text{Any upper bound on } S
+$$
