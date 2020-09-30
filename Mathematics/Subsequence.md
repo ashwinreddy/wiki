@@ -3,3 +3,5 @@ A **subsequence** of a [[sequence]] is a sequence $\left(s_{n_k}\right)$ that se
 Every subsequence provides a subsequential limit for the original sequence.
 
 Every sequence has a monotone subsequence.
+
+Every bounded sequence has a convergent subsequence.
