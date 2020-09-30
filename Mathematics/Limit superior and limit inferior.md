@@ -13,3 +13,5 @@ $$
 $$
 \liminf s_n \triangleq \lim_{N\to\infty} \inf S
 $$
+
+If the sequence converges, the limit superior and inferior coincide with the limit. In addition, if the limit superior and inferior coincide at a real value, that will be the limit.
