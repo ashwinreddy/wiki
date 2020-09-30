@@ -7,7 +7,7 @@ $$
 A slicker description is that it has $\psi(x)$ as an [[eigenvector|eigenpairs]] of the [[Hamiltonian]]: 
 
 $$
-\hat{H} \psi = E \psi
+\hat{H} \psi_1 = E \psi_1 \implies \Psi_1(x, t) = \psi_1(x) e^{- \iota E_1 t / \hbar}
 $$
 
 Remember that the Schrodinger equation is linear, so a linear combination of solutions is also a solution. 
