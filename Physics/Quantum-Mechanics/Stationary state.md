@@ -18,6 +18,8 @@ $$
 
 # Interpretation
 
+<<Note("Include a section here about Q(x, p)")>>
+
 Stationary states are boring because the associated probability density doesn't depend on time.
 
 $$
