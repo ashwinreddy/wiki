@@ -19,6 +19,12 @@ $$
 \sigma_x = \sqrt{ \langle x^2 \rangle - \langle x \rangle^2 }
 $$
 
+Every value in quantum mechanics depends on [[position]] and [[momentum]]:
+
+$$
+\langle Q(x, p) \rangle = \int \Psi^* \left[Q(x, -\iota\hbar \partial / \partial x)\right]\Psi \dd{x}
+$$
+
 # Resources
 
 https://www.dhruvonmath.com/2020/07/19/quantum-computers/#
