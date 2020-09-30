@@ -8,5 +8,5 @@ The **quantum harmonic oscillator** solves the T.I.S.E.
 We define
 
 $$
-\hat{a}_{\pm} = \frac{1}{\sqrt{2\hbar m\omega}}\left( \mp \right)
+\hat{a}_{\pm} = \frac{1}{\sqrt{2\hbar m\omega}}\left( \mp \iota \hat{p} + m\omega\hat{x} \right)
 $$
