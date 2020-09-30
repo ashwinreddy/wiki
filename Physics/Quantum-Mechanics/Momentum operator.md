@@ -1,1 +1,1 @@
-**Momentum operator** in quantum mechanics is an [[operator]]
+**Momentum operator** in quantum mechanics is an [[operator]] we can apply to the [[wave function]] to get the [[momentum]].
