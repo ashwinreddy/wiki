@@ -14,6 +14,6 @@ $$
 \hat{H}^2 \psi = E^2 \psi \implies \langle \hat{H}^2 \rangle = E^2.
 $$
 
-Thus, this is the only possible energy the state can have ([[Dirac delta]]).
+Thus, this is the only possible energy the state can have ([[Dirac delta functin]]).
 
 Any and all observables from a stationary state are independent of time. 
