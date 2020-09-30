@@ -1,1 +1,1 @@
-A **subsequence** of a [[sequence]] is a sequence that selects out elements from the sequence and preserves their order.
+A **subsequence** of a [[sequence]] is a sequence that selects out elements from the sequence and preserves their order. A subsequence will converge to $s$, if the original converges to $s$.
