@@ -1,1 +1,1 @@
-A **stationary state** is a quantum state $\Psi$ with observables independent of time.
+A **stationary state** is a quantum state $\Psi$ that is an [[eigenvector|eigenpair]] of the [[Hamiltonian operator]] with observables independent of time
