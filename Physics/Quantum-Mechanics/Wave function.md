@@ -4,10 +4,13 @@ $$
 \rho(x, t) = | \Psi(x, t)|^2
 $$
 
-We will often need to normalize the wave function to interpret the probabilities as a [[probability density function]]. We require that
+
+The wave function evolves as the [[Schrodinger equation]].
+
+# Normalization
+
+We will often need to normalize the wave function to interpret the probabilities as a [[probability density function]]. This will require that
 
 $$
 \int_{\RR} \dd{x} \cdot \rho(x, t) = 1
 $$
-
-The wave function evolves as the [[Schrodinger equation]].
