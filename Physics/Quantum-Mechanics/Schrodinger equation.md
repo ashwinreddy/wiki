@@ -76,8 +76,7 @@ This is nice because
 The Schrodinger equation returns normalized distributions if given normalized distributions. We have to show that
 
 \begin{align}
-\dv{}{t} \int_{-\infty}^\infty \dd{x} \cdot | \Psi|^2 &= 0 \\\\\
-&= \int_{-\infty}^\infty \dd{x}\cdot \pdv{}{t} \left(  | \Psi|^2 \right) \\\\\
+\dv{}{t} \int_{-\infty}^\infty \dd{x} \cdot | \Psi|^2 &= \int_{-\infty}^\infty \dd{x}\cdot \pdv{}{t} \left(  | \Psi|^2 \right) \\\\\
 &= \int_{-\infty}^\infty \dd{x}\cdot \pdv{}{t} \big (  \Psi\Psi^* \big ) \\\\\
 &= \int_{-\infty}^\infty \dd{x}\cdot \left( \Psi^\* \pdv{\Psi}{t} + \Psi \pdv{\Psi^\*}{t} \right)  \\\\\
 &= \int_{-\infty}^\infty \dd{x}\cdot \frac{i\hbar}{2m} \left( \Psi\^* \frac{\partial^2 \Psi}{\partial x^2} + \Psi\frac{\partial^2 \Psi^*}{\partial x^2} \right)
