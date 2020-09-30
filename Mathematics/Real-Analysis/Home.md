@@ -8,4 +8,4 @@ The Archimedean property says for positive reals $a$ and $b$, there is always an
 
 When we have a sequence of real numbers, we can consider the limit. A sequence converges / has a limit when for every $\epsilon > 0$, there is an $N$ such that $n > N \implies | s_n - s| < \epsilon$.
 
-Limits can be computed using calculus rules.
+Limits can be computed using calculus rules. We also have the squeeze lemma.
