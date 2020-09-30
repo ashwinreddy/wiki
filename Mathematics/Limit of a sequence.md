@@ -1,0 +1,1 @@
+To prove a **limit for a sequence**, we can use the $\epsilon-N$ definition. We pick an arbitrary $\epsilon > 0$, which will represent an error tolerance, and show that there is an $N$ such that $n > N$ implies $| s_n - s | < \epsilon$ (i.e. there is some point where you are guaranteed to always be below the error tolerance).
