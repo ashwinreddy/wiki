@@ -28,5 +28,11 @@ Then,
 
 \begin{gather}
 \psi(0) = 0 \implies B = 0 \\\\\
-\psi(a) = a \implies ka = n\pi
+\psi(a) = a \implies ka = n\pi, \quad n = 1, 2, \dots \implies k_n = \frac{n\pi}{a}
 \end{gather}
+
+Then, the allowed energies are
+
+$$
+E = \frac{k_n^2 \hbar}{2m} = \frac{n^2 \pi^2 \hbar^2}{2ma^2}
+$$
