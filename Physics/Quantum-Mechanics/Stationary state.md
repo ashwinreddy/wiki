@@ -11,7 +11,7 @@ $$
 $$
 
 $$
-\hat{H}^2 \psi = E^2 \psi \implies \langle \hat{H}^2 \rangle = E^2.
+\hat{H}^2 \psi = E^2 \psi \implies \left \langle \hat{H}^2 \right \rangle = E^2.
 $$
 
 Thus, we have $\sigma^2_E = 0$, so $E$ is the only possible energy the state can have ([[Dirac delta function]]).
