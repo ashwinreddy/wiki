@@ -15,5 +15,5 @@ Note the order matters because $$\Psi\^* \cdot \pdv{}{x} \Psi \neq \left(\pdv{}{
 # Composite Operators
 
 $$
-\hat{T} = \frac{\hat{p}}{2m} = -\frac{\hbar^2}{2m} \frac{\partial^2 x}{\partial x^2}
+\hat{T} = \frac{\hat{p}}{2m} = -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2}
 $$
