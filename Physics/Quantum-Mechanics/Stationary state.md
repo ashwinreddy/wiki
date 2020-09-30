@@ -10,11 +10,15 @@ $$
 \hat{H} \Psi = E \Psi
 $$
 
-Stationary states are boring because
+# Interpretation
+
+Stationary states are boring because the associated probability density doesn't depend on time.
 
 $$
 \rho(x, t) = \Psi^* \Psi = \psi* e^{\iota E t / \hbar} \psi e^{-\iota E t / \hbar} = |\psi(x)|^2
 $$
+
+Then, $\langle x \rangle$ is a constant, and the expected momentum $\langle p \rangle = 0$.
 
 * They have definite total energy.
 
