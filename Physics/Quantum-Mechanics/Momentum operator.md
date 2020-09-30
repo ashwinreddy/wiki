@@ -10,4 +10,10 @@ $$
 \langle p \rangle = \int \dd{x} \left[ \Psi^*(x)\left(-i\hbar \pdv{}{x} \right)\Psi(x) \right]
 $$
 
-N.B. The order matters because $$\Psi\^* \cdot \pdv{}{x} \Psi \neq \left(\pdv{}{x} \Psi\right)\cdot\Psi\^*$$.
+Note the order matters because $$\Psi\^* \cdot \pdv{}{x} \Psi \neq \left(\pdv{}{x} \Psi\right)\cdot\Psi\^*$$.
+
+# Composite Operators
+
+$$
+\hat{T} = \frac{\hat{p}}{2m} = -\frac{\hbar^2}{2m} \frac{\partial^2 x}{\partial x^2}
+$$
