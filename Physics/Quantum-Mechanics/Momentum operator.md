@@ -1,0 +1,1 @@
+**Momentum operator** in quantum mechanics is an [[operator]]
