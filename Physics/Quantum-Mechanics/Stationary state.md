@@ -49,3 +49,6 @@ Thus, we have $\sigma^2_E = 0$, so $E$ is the only possible energy the state can
 $$
 \langle \psi_m \mid \psi_n \rangle = \int \dd{x} \cdot \psi_m^* \psi_n = \delta_{mn} = \begin{cases}1 & m = n \\\\\ 0 & m \neq n\end{cases}
 $$
+
+Complete
+: Any function that satisfies the boundary conditions can be written as a linear combination of the $\psi_n$'s.
