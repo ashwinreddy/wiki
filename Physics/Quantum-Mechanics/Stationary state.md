@@ -16,4 +16,7 @@ $$
 
 Thus, we have $\sigma^2_E = 0$, so $E$ is the only possible energy the state can have ([[Dirac delta function]]).
 
-Any and all observables from a stationary state are independent of time. 
+# Properties
+
+* Any and all observables from a stationary state are independent of time. 
+* The stationary states are orthogonal and complete
