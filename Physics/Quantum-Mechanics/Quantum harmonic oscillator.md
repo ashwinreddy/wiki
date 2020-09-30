@@ -21,6 +21,12 @@ $$
 [\hat{a}\_{-}, \hat{a}_{+}] = 1
 $$
 
+So we have
+
+$$
+\hat{H} \psi = E\psi \iff \hbar\omega\left( \hat{a}_{+}\hat{a}\_{-} + \frac{1}{2} \right)\psi = E\psi
+$$
+
 The commutator is
 
 $$
