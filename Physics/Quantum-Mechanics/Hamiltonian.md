@@ -1,5 +1,11 @@
-The **Hamiltonian operator** in quantum mechanics gives the total energy. When we use the canonical substitution $p \to -i\hbar(\partial / \partial x)$,
+The **Hamiltonian operator** in quantum mechanics gives the total energy. 
 
 \begin{equation}
-\hat{H} = -\frac{\hbar^2}{2m}\frac{\partial ^2 }{\partial x^2} + \hat{V}
+\hat{H} = \hat{T} + \hat{V}
 \end{equation}
+
+When we use the canonical substitution $p \to -i\hbar(\partial / \partial x)$,
+
+$$
+\hat{T} = -\frac{\hbar^2}{2m}\frac{\partial ^2 }{\partial x^2}
+$$
