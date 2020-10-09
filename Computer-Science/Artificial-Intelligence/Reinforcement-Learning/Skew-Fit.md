@@ -4,8 +4,10 @@ $$
 \max \mathcal{H}(S) - \mathcal{H}(S \mid G)
 $$
 
-By noting this is an objective of maximizing [[mutual information]] $I(S; G)$, we rewrite to say
+But the first term is hard to compute, which depends on policy and the potentially unknown environment dynamics. By noting this is an objective of maximizing [[mutual information]] $I(S; G)$, we rewrite to say
 
 $$
 \max \mathcal{H}(G) - \mathcal{H}(G \mid S)
 $$
+
+In other words, we want diverse goals (first term) and also we'll need to do goal-conditioned RL
