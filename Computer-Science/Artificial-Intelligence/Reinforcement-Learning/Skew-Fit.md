@@ -10,4 +10,4 @@ $$
 \max \mathcal{H}(G) - \mathcal{H}(G \mid S)
 $$
 
-In other words, we want diverse goals (first term) and also we'll need to do goal-conditioned RL
+In other words, we want diverse goals (first term) and also we'll need to do goal-conditioned RL (so that it is easy to tell what the goal is given the current state).
