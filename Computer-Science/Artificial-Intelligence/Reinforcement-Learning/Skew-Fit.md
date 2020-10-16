@@ -12,8 +12,10 @@ $$
 
 In other words, we want diverse goals (first term) and also we'll need to do goal-conditioned RL (so that it is easy to tell what the goal is given the current state).
 
-Ok! So let's just sample from the goal space uniformly. But the more complex the state space, it won't work. We need to sample uniformly from manifold of _valid states_. Algorithm as follows:
+Ok! So let's just sample from the goal space uniformly. But the more complex the state space, it won't work. We need to sample uniformly from manifold of _valid states_. 
 
-1. Collect observations.
-2. Fit generative model.
-3. Use model to sample goals.
+# Algorithm
+
+1. Collect states by sampling goals and running goal conditioned policy.
+2. Construct skewed distribution
+2. Fit policy to skewed distribution.
