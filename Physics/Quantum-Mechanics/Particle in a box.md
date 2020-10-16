@@ -46,5 +46,5 @@ $$
 Integrating to normalize,
 
 $$
-\int_0^a \dd{x} \cdot |A|^2 sin^2 (k_nx) = |A|^2 \frac{a}{2} \implies A = \sqrt{\frac{2}{a}}
+\int_0^a \dd{x} \cdot |A|^2 \sin^2 (k_nx) = |A|^2 \frac{a}{2} \implies A = \sqrt{\frac{2}{a}}
 $$
