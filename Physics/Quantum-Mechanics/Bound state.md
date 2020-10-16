@@ -1,1 +1,1 @@
-A **bound state**
+A **bound state**. The [[particle in a box]] and harmonic oscillator admit bound states only. The [[free particle]] allows only scattering states.
