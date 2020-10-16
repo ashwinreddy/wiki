@@ -7,3 +7,7 @@ But the stationary states are still useful. The general solution to the time-dep
 $$
 \Psi(x,t)= \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{+\infty} \phi(k)e^{\iota(kx - \omega t)}\dd{k},\quad \omega = \frac{\hbar k^2}{2m}
 $$
+
+$$
+\phi(k) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^{+\infty} \Psi(x,0)e^{-\iota kx}\dd{x}
+$$
