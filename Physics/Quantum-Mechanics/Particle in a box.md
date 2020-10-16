@@ -1,4 +1,4 @@
-**Particle in a box** refers to 
+The **particle in a box** model/problm refers to the situation in which our potential is an "infinite square well."
 
 $$
 V(x) = \begin{cases} 0 & 0 \leq x \leq a \\\\ \infty & \text{otherwise} \end{cases}
