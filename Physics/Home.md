@@ -1,4 +1,3 @@
-<<Navigate()>>
 
 # Resources
 
