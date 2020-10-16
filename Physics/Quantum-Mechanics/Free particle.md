@@ -1,0 +1,1 @@
+The **free particle** has stationary states that are _not_ normalizable.
