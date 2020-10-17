@@ -10,3 +10,5 @@
 |B|Conditional jump|
 |U|Long immediate|
 |J|Unconditional jump|
+
+[[https://programmersought.com/images/208/1d0b406069c9a25bf209005412f377e0.png]]
