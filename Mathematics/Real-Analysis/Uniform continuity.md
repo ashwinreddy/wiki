@@ -1,0 +1,1 @@
+**Uniform continuity** for a function $f: S \subseteq \RR \to \RR$
