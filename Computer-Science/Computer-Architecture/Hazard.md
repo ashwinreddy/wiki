@@ -31,3 +31,7 @@ We can hope the register file is fast, we can stall, or we can forward.
 # Load data hazard
 
 Load requires one-cycle pipeline stall. The **load delay slot** puts unrelated instruction. 
+
+# Control hazard
+
+In a branch instruction, we execute things up until the point that the program counter changes (3 stages later). 
