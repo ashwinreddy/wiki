@@ -1,0 +1,1 @@
+**Combinational logic** circuits are pure functions
