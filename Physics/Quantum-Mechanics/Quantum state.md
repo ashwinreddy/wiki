@@ -1,0 +1,1 @@
+A **quantum state** is a ray in [[Hilbert space]]
