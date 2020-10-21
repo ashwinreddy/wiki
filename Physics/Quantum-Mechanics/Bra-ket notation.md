@@ -1,0 +1,1 @@
+The **bra-ket notation**. A **bra** is written as $\langle a \mid$.
