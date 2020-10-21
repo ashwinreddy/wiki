@@ -25,3 +25,7 @@ addi t0, t1, t2
 In the first line, we'll have to write to `t0` in the register. But `sw t0, 4(t3)` will be reading from `t0` at the exact same time! 🚨
 
 We can hope the register file is fast, we can stall, or we can forward.
+
+# Load data hazard
+
+Load requires one-cycle pipeline stall. The **load delay slot** puts unrelated instruction. 
