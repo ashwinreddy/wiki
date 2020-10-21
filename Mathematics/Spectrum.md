@@ -1,0 +1,1 @@
+A **spectrum** in functional analysis is the set of eigenvalues for an operator $Q$.
