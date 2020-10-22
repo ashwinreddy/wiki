@@ -1,1 +1,1 @@
-An **observable** has to have a [[real number]] [[expected value]]
+An **observable** has to have a [[real number]] [[expected value]]. Consider the observable as an [[operator]]
