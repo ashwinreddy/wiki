@@ -1,0 +1,1 @@
+An **operator** operates on a [[vector]] in a [[Hilbert space]].
