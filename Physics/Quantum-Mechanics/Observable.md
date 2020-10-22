@@ -1,1 +1,1 @@
-An **observable**
+An **observable** has to have a [[real number]]
