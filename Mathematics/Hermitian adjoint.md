@@ -1,0 +1,1 @@
+The **Hermitian adjoint** of an [[operator]] $A$ is written $A^\dagger$
