@@ -1,4 +1,10 @@
-The **Born rule** says that for a [[wave function]] $\Psi(x, t)$, the function $| \Psi(x, t) |^2$ represents the [[probability density function]] for finding a particle at $x$ at time $t$. In this way,
+The **Born rule** says that for a [[wave function]] $\Psi(x, t)$, the squared magnitude of the wave function
+
+$$
+\rho(x, t) = |\Psi(x, t) |^2
+$$ 
+
+represents the [[probability density function]] for finding a particle at $x$ at time $t$. In this way,
 
 $$
 \Pr(a \leq x \leq b) = \int_a^b \dd{x} \cdot |\Psi(x, t)|^2
