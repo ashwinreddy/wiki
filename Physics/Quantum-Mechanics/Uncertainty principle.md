@@ -1,4 +1,4 @@
-The **uncertainty principle** says that 
+The **uncertainty principle** says that it is not possible to know both the position and momentum of a particle exactly. Quantitatively, it says
 
 
 \begin{equation}
