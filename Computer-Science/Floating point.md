@@ -11,13 +11,13 @@ The number is represented in terms of its significant figures (perhaps we could 
 [[https://fabiensanglard.net/floating_point_visually_explained/floating_point_layout.svg]]
 
 
-|Exponent|Significand|Object|
-|--------|-----------|------|
-|0|0|0|
-|0|nonzero|Denormalized number|
-|1-254|anything| +/- floating point|
-|255|0|$\pm \infty$|
-|255|nonzero|NaN|
+|Sign|Exponent|Significand|Object|
+|-----|--------|-----------|------|
+||0|0|0|
+||0|nonzero|Denormalized number|
+||1-254|anything| +/- floating point|
+||255|0|$\pm \infty$|
+||255|nonzero|NaN|
 
 
 In normalized form, the significand is treated as following a "1."
