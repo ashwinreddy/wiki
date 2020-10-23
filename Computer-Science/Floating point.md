@@ -3,6 +3,16 @@
 * A sign bit, which is 0 for positive numbers and 1 for negative numbers
 * 8 bits for the exponent with a bias of -127
 * The significand storing the fraction of a number
+ 
+
+|Exponent|Significand|Object|
+|--------|-----------|------|
+|0|0|0|
+|0|nonzero|Denormalized number|
+|1-254|anything| +/- floating point|
+|255|0|$\pm \infty$|
+|255|nonzero|NaN|
+
 
 The number is represented in terms of its significant figures (perhaps we could call this the number's energy) and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
 
@@ -15,14 +25,6 @@ In normalized form, the significand is treated as following a "1."
 $$
 \mathsf{Value} = (-1)^S \times \begin{cases} (1 + \mathsf{Significand}) \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  \mathsf{Significand} \times 2^{\mathsf{Exponent} + \mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = -127
 $$
-
-|Exponent|Significand|Object|
-|--------|-----------|------|
-|0|0|0|
-|0|nonzero|Denormalized number|
-|1-254|anything| +/- floating point|
-|255|0|$\pm \infty$|
-|255|nonzero|NaN|
 
 [[Floating-point arithmetic]]
 
