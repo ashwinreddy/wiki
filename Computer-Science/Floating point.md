@@ -1,3 +1,10 @@
+**Floating point** is a way of representing [[real number]] on a computer with the same general principle as [[scientific notation]].
+
+
+
+
+
+
 A **float** is a datatype representing a real number with a "floating point." We have to specify the "energy" (the significant figures) and the exponent which floats the point appropriately. It's [[scientific notation]]. The standard is the IEEE 754 format.
 
 [[https://fabiensanglard.net/floating_point_visually_explained/floating_point_layout.svg]]
