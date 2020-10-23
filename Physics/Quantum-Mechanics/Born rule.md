@@ -7,7 +7,7 @@ $$
 represents the [[probability density function]] for finding a particle at $x$ at time $t$. In this way,
 
 $$
-\Pr(a \leq x \leq b) = \int_a^b \dd{x} \cdot |\Psi(x, t)|^2
+\Pr(a \leq x \leq b) = \int_a^b \dd{x} \cdot \rho(x,t)
 $$
 
 What does this mean experimentally? 
