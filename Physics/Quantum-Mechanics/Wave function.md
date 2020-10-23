@@ -1,11 +1,6 @@
-The **wave function** $\Psi$ is the primary object of study in quantum mechanics. It is a function of [[space]] and [[time]] and contains information about the probability of seeing a particle somewhere. The [[Born rule]] tells us how to convert the wave function into an empirical prediction:
+The **wave function** $\Psi$ is the primary object of study in quantum mechanics. It is a function of [[space]] and [[time]] and contains information about the probability of seeing a particle somewhere. The wave function evolves as the [[Schrodinger equation]]. The [[Born rule]] tells us how to convert the wave function into an empirical prediction.
 
-$$
-\rho(x, t) = | \Psi(x, t)|^2
-$$
-
-
-The wave function evolves as the [[Schrodinger equation]].
+Formally, we treat it as a [[ray]] in [[Hilbert space]]
 
 # Normalization
 
