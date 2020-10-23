@@ -1,0 +1,1 @@
+A **self-adjoint operator** or a **Hermitian operator** is one that is its own [[Hermitian adjoint]].
