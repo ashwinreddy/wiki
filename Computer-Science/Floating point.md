@@ -5,6 +5,12 @@
 * The significand storing the fraction of a number
  
 
+The number is represented in terms of its significant figures (perhaps we could call this the number's energy) and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
+
+[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_math.svg]]
+[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_layout.svg]]
+
+
 |Exponent|Significand|Object|
 |--------|-----------|------|
 |0|0|0|
@@ -13,11 +19,6 @@
 |255|0|$\pm \infty$|
 |255|nonzero|NaN|
 
-
-The number is represented in terms of its significant figures (perhaps we could call this the number's energy) and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
-
-[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_math.svg]]
-[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_layout.svg]]
 
 In normalized form, the significand is treated as following a "1."
 
