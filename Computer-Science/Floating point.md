@@ -13,7 +13,7 @@ In normalized form, the significand is treated as following a "1."
 
 
 $$
-\mathsf{Value} = (-1)^S \times \begin{cases} (1 + \mathsf{Significand}) \times 2^{\mathsf{Exponent} + \mathsf{Bias}} \\\\ (1 + \mathsf{Significand}) \times 2^{\mathsf{Exponent} + \mathsf{Bias}} \end{cases}, \quad \mathsf{Bias} = -127
+\mathsf{Value} = (-1)^S \times \begin{cases} (1 + \mathsf{Significand}) \times 2^{\mathsf{Exponent} + \mathsf{Bias}} \\\\  \mathsf{Significand} \times 2^{\mathsf{Exponent} + \mathsf{Bias} + 1} \end{cases}, \quad \mathsf{Bias} = -127
 $$
 
 |Exponent|Significand|Object|
