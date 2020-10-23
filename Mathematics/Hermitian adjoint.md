@@ -1,1 +1,1 @@
-The **Hermitian adjoint** of an [[operator]] $A$ is written $A^\dagger$
+The **Hermitian adjoint** of an [[operator]] $A$ is written $A^\dagger$. In the case of a [[square matrix]], the Hermitian adjoint is the [[conjugate transpose]].
