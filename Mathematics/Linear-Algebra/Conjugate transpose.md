@@ -1,1 +1,1 @@
-The **conjugate transpose** of a [[matrix]] is the [[transpose]] of the [[conjugate]].
+The **conjugate transpose** of a [[matrix]] is the [[transpose]] of the [[complex conjugate]].
