@@ -12,4 +12,4 @@ $$
 
 The Schrodinger equation will return normalized wave functions if given normalized wave functions.
 
-A normalizable function will need to have finite area, and is therefore 0 $\pm \infty$.
+A normalizable function will need to have finite area, and is therefore 0 at $\pm \infty$.
