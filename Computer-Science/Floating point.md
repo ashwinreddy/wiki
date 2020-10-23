@@ -15,7 +15,7 @@ The number is represented in terms of its significant figures (perhaps we could 
 |--------|-----------|------|
 |0|0|$\pm 0$ based on the sign|
 |0|nonzero|Denormalized number|
-|1-254|anything| $\pm$ floating point based on the sign|
+|1-254|anything| $\pm$ normalized number based on the sign|
 |255|0|$\pm \infty$|
 |255|nonzero|NaN|
 
