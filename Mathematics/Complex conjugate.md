@@ -4,6 +4,10 @@ $$
 \overline{a+ b \iota} = a - b\iota
 $$
 
+$$
+\overline{r e^{\iota\theta}} = re^{-\iota\theta}
+$$
+
 
 such that
 
