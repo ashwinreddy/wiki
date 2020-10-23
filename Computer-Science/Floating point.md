@@ -1,5 +1,7 @@
-**Floating point** is a way of representing [[real number]] on a computer with the same general principle as [[scientific notation]].
+**Floating point** is a way of representing [[real number]] on a computer with the same general principle as [[scientific notation]]. In this way, it supports a wide range of values with high precision.
 
+
+The number is represented in terms of its significant figures and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
 
 
 
