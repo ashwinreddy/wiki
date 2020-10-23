@@ -3,6 +3,7 @@
 
 The number is represented in terms of its significant figures and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
 
+[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_math.svg]]
 [[https://fabiensanglard.net/floating_point_visually_explained/floating_point_layout.svg]]
 
 
@@ -11,7 +12,7 @@ A **float** is a datatype representing a real number with a "floating point." We
 
 
 
-[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_math.svg]]
+
 
 In normalized form, the significand is treated as following a "1."
 
