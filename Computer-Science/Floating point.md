@@ -27,8 +27,6 @@ $$
 \mathsf{Value} = (-1)^S \times \begin{cases} (1 + \mathsf{Significand}) \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  \mathsf{Significand} \times 2^{\mathsf{Exponent} + \mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = -127
 $$
 
-[[Floating-point arithmetic]]
-
 # Denormalized number
 
 Implicit exponent is -126 and we have no implied leading 1.
