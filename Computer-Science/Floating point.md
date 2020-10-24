@@ -46,10 +46,10 @@ https://www.johnbcoughlin.com/posts/floating-point-axiom/
 
 Floating point is discrete / granular so you can't just add any amount you want to a number. The exponent controls how much of a step a change in the significand will be. For example the difference between $1.0_2 \times 2^k$ and $1.1 \times 2^k$ is equal to $.1 \times 2^k$ or $2^{k-1}$.
 
-So if we have a significand of $\alpha$ and an exponent of $\beta$, then the step size will be 
+So if the mantissa has $n$ bits, then adding 1 is ostensibly adding $2^{-n}$ to the "energy" of the number (i.e. the significant figures). But, in effect, that change is scaled by the exponent, which is $2^{\mathsf{exp} + \mathsf{bias}}$. So we have
 
 $$
-\alpha \times 2^{\beta + \mathsf{bias}} - (\alpha + 1) \times 2^{\beta + \mathsf{bias}} = 2^{\beta + \mathsf{bias}}
+2^{\mathsf{exp} + \mathsf{bias}} \times 2^{-\mathsf{num_mantissa_bits}}
 $$
 
 # See also
