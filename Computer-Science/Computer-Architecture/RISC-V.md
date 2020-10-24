@@ -43,3 +43,7 @@ We have the `lw` load word and `sw` store word commands but also `lb` load byte 
 |J|Unconditional jump|`j`, `jal`, `jalr`|
 
 [[https://programmersought.com/images/208/1d0b406069c9a25bf209005412f377e0.png]]
+
+## Unconditional Jumps
+
+`ret = jr ra`
