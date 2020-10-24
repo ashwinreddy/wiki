@@ -10,6 +10,14 @@ The world is processor centric, so we _load from_ and _store to_ memory. Thus, t
 
 We have the `lw` load word and `sw` store word commands but also `lb` load byte and `sb` store byte. If we don't want to do a sign extension, then we use `lbu`.
 
+# Function calls
+
+1. Put arguments in a place where function can access them
+2. Transfer control to a function
+3. Acquire local storage resources needed for function
+4. Perform desired task of the function
+5. Put return value in a place where calling code can access it and restore any registers used; release local storage
+
 # Control flow 
 
 # If-else
