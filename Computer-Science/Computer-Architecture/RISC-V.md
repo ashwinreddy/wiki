@@ -6,6 +6,8 @@ RISC-V has 32 integer registers.
 
 The world is processor centric, so we _load from_ and _store to_ memory. Thus, the first argument is register and the second is a point in memory.
 
+We have the `lw` load word and `sw` store word commands but also `lb` load byte and `sb` store byte.
+
 # Instructions
 
 |Type|Op|
