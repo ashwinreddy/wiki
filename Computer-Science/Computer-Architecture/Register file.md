@@ -1,1 +1,1 @@
-**Register file (RegFile)** 
+**Register file (RegFile)** consists of 32 registers. We can write to one register and read from two simultaneously.
