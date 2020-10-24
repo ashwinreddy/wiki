@@ -2,7 +2,12 @@
 
 # Registers
 
-RISC-V has 32 integer [[register]]. The registers are numbered `x0` to `x31` with `x0` always equal to 0. A command like `add x0, x3, x4` won't do anything. The registers `x10` to `x17` we call `a0` to `a7` for argument registers.
+RISC-V has 32 integer [[register]]. The registers are numbered `x0` to `x31` with `x0` always equal to 0. A command like `add x0, x3, x4` won't do anything. 
+
+|Register|Label|
+|--------|-----|
+|`x0`|`zero`|
+|`x10`-`x17`|`a0`-`a7`|
 
 # Data transfer
 
