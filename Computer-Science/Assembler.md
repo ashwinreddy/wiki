@@ -1,0 +1,1 @@
+**Assembler** produces machine code with relocation tables (labels defined in other files) and symbol tables (identifies labels in this file).
