@@ -1,4 +1,4 @@
-**RISC-V** is a simplified [[instruction set architecture]] for computers.
+**RISC-V (RV)** is a simplified [[instruction set architecture]] for computers.
 
 # Registers
 
