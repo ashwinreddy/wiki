@@ -1,0 +1,1 @@
+**Linker** combines object files into a binary executable. Fulfills missing labels required by examining relocation and symbol tables.
