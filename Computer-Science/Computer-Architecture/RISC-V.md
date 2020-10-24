@@ -7,6 +7,8 @@ RISC-V has 32 integer [[register]]. The registers are numbered `x0` to `x31` wit
 |Register|Label|
 |--------|-----|
 |`x0`|`zero`|
+|`x1`|`ra`|
+|`x2`|`sp`|
 |`x10`-`x17`|`a0`-`a7`|
 
 # Data transfer
