@@ -17,6 +17,7 @@ We have the `lw` load word and `sw` store word commands but also `lb` load byte 
 3. Acquire local storage resources needed for function
 4. Perform desired task of the function
 5. Put return value in a place where calling code can access it and restore any registers used; release local storage
+6. Return control to point of origin since a function can be called from several points in a program.
 
 # Control flow 
 
