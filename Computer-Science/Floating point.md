@@ -49,7 +49,7 @@ Floating point is discrete / granular so you can't just add any amount you want 
 So if the mantissa has $n$ bits, then adding 1 is ostensibly adding $2^{-n}$ to the "energy" of the number (i.e. the significant figures). But, in effect, that change is scaled by the exponent, which is $2^{\mathsf{exp} + \mathsf{bias}}$. So we have
 
 $$
-2^{\mathsf{exp} + \mathsf{bias}} \times 2^{-\mathsf{num\_mantissa\_bits}}
+2^{\mathsf{exp} + \mathsf{bias}} \times 2^{-\mathsf{num-mantissa-bits}}
 $$
 
 # See also
