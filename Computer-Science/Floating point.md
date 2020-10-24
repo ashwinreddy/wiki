@@ -42,6 +42,10 @@ https://www.johnbcoughlin.com/posts/floating-point-axiom/
 * The distance between floating point numbers increase as the absolute value of the numbers increaes
 * Floating point addition is not associative.
 
+# Step size
+
+Floating point is discrete / granular so you can't just add any amount you want to a number. The exponent controls how much of a step a change in the significand will be. For example the difference between $1.0_2 \times 10^k$ and $1.1 \times 10^k$ is equal to $.1 \times 10^k$ or $10^{k-1}$.
+
 # See also
 
 * [[https://docs.google.com/document/d/1IVTwu4_epNdfid0_N-XKm4Fr2E-VGCSUGwsCQCWD0C8/edit]]
