@@ -27,6 +27,8 @@ $$
 \mathsf{Value} = (-1)^S \times \begin{cases} 1.\mathsf{Significand}_2 \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  0.\mathsf{Significand}_2 \times 2^{\mathsf{Exponent} + \mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = -127
 $$
 
+[[_TOC_]]
+
 # Denormalized number
 
 Implicit exponent is -126 and we have no implied leading 1.
@@ -39,3 +41,7 @@ https://www.johnbcoughlin.com/posts/floating-point-axiom/
 
 * The distance between floating point numbers increase as the absolute value of the numbers increaes
 * Floating point addition is not associative.
+
+# See also
+
+* [[https://docs.google.com/document/d/1IVTwu4_epNdfid0_N-XKm4Fr2E-VGCSUGwsCQCWD0C8/edit]]
