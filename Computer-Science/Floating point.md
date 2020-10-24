@@ -44,7 +44,7 @@ https://www.johnbcoughlin.com/posts/floating-point-axiom/
 
 # Step size
 
-Floating point is discrete / granular so you can't just add any amount you want to a number. The exponent controls how much of a step a change in the significand will be. For example the difference between $1.0_2 \times 10^k$ and $1.1 \times 10^k$ is equal to $.1 \times 10^k$ or $10^{k-1}$.
+Floating point is discrete / granular so you can't just add any amount you want to a number. The exponent controls how much of a step a change in the significand will be. For example the difference between $1.0_2 \times 2^k$ and $1.1 \times 2^k$ is equal to $.1 \times 2^k$ or $2^{k-1}$.
 
 # See also
 
