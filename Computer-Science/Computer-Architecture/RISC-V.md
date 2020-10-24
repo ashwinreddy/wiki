@@ -2,6 +2,10 @@
 
 RISC-V has 32 integer registers.
 
+# Data transfer
+
+The world is processor centric, so we _load from_ and _store to_ memory. Thus, the first argument is register and the second is a point in memory.
+
 # Instructions
 
 |Type|Op|
