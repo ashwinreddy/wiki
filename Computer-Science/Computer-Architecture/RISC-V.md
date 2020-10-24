@@ -49,3 +49,7 @@ We have the `lw` load word and `sw` store word commands but also `lb` load byte 
 ## Unconditional Jumps
 
 `ret = jr ra`
+
+# Memory
+
+Memory holds both instructions and data. The instructions are read from IMEM. The data goes in DMEM.
