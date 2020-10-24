@@ -10,13 +10,13 @@ We have the `lw` load word and `sw` store word commands but also `lb` load byte 
 
 # Instructions
 
-|Type|Op|
-|---|-|
+|Type|Op|Idea|
+|---|-|-------|
 |R|Register-register|
 |I|Short immediate data and load|
 |S|Fetch store|
-|B|Conditional jump|
+|B|Conditional jump|`beq`, `bne`, `blt`, etc.|
 |U|Long immediate|
-|J|Unconditional jump|
+|J|Unconditional jump|`j`, `jal`, `jalr`|
 
 [[https://programmersought.com/images/208/1d0b406069c9a25bf209005412f377e0.png]]
