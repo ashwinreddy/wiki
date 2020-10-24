@@ -18,11 +18,11 @@ We have the `lw` load word and `sw` store word commands but also `lb` load byte 
 # Function calls
 
 1. Put arguments in a place where function can access them
-2. Transfer control to a function
+2. Transfer control to a function (`jal`)
 3. Acquire local storage resources needed for function
 4. Perform desired task of the function
 5. Put return value in a place where calling code can access it and restore any registers used; release local storage
-6. Return control to point of origin since a function can be called from several points in a program.
+6. `ret` to return address since a function can be called from several points in a program.
 
 # Control flow 
 
