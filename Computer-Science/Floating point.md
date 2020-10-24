@@ -49,7 +49,7 @@ Floating point is discrete / granular so you can't just add any amount you want 
 So if we have a significand of $\alpha$ and an exponent of $\beta$, then the step size will be 
 
 $$
-\alpha \times 2^{\beta + \mathsf{bias}}
+\alpha \times 2^{\beta + \mathsf{bias}} - (\alpha + 1) \times 2^{\beta + \mathsf{bias}} = 2^{\beta + \mathsf{bias}}
 $$
 
 # See also
