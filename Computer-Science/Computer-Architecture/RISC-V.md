@@ -8,6 +8,13 @@ The world is processor centric, so we _load from_ and _store to_ memory. Thus, t
 
 We have the `lw` load word and `sw` store word commands but also `lb` load byte and `sb` store byte. If we don't want to do a sign extension, then we use `lbu`.
 
+# Control flow 
+
+# If-else
+
+* Invert the operation for the boolean condition for branching
+* Make sure to include a jump to prevent the if True case from falling through everything
+
 # Instructions
 
 |Type|Op|Idea|
