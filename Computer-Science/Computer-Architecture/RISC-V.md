@@ -52,4 +52,4 @@ We have the `lw` load word and `sw` store word commands but also `lb` load byte 
 
 # Memory
 
-Memory holds both instructions and data. The instructions are read from IMEM. The data goes in DMEM.
+Memory holds both instructions and data. The instructions are read from IMEM. The data goes in DMEM, that's for load and store instructions.
