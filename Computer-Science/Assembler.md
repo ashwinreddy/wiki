@@ -1,1 +1,1 @@
-**Assembler** produces machine code with relocation tables (labels defined in other files) and symbol tables (identifies labels in this file).
+An **assembler** produces machine/object code from assembly code with relocation tables (labels defined in other files) and symbol tables (identifies labels in this file).
