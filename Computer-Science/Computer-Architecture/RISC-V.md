@@ -1,4 +1,4 @@
-**RISC-V** is a simplified instruction set for computers.
+**RISC-V** is a simplified [[instruction set architecture]] for computers.
 
 RISC-V has 32 integer registers.
 
