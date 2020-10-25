@@ -31,7 +31,13 @@ $$
 
 # Representable numbers
 
+# Exponent Bias
 
+For a $k$ bit exponent, the bias is given by
+
+$$
+\mathsf{Bias} = 2^{k-1}-1
+$$
 
 # Denormalized number
 
