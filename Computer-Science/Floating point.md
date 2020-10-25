@@ -1,5 +1,8 @@
 **Floating point** is a way of representing [[real number]] on a computer with the same general principle as [[scientific notation]]. In this way, it supports a wide range of values with high precision. 
 
+
+[[_TOC_]]
+
 # Components
 
 
@@ -43,7 +46,6 @@ $$
 In normalized form, the significand is treated as following a "1."
 
 
-[[_TOC_]]
 
 # Representable numbers
 
