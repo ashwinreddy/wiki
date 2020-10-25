@@ -37,7 +37,7 @@ $$
 The largest representable number would have maximum exponent and a mantissa of all 1s. Therefore, the mantissa on its own looks like
 
 \begin{align}
-0.\underbrace{11\dots 11}\_{23 \text{ bits}} = 2^{-1} + \dots + 2^{-23} &= 2^{-23}\left(2^{22} + \dots + 1\right) \\\\
+0.\underbrace{11\dots 11}\_{23 \text{ bits}} = 2^{-1} + \dots + 2^{-23} &= 2\^{-23}\left(2^{22} + \dots + 1\right) \\\\
 &= 2^{-23}\left( 2^{23} - 1 \right) \\\\
 &= 1 - 2^{-23}
 \end{align}
