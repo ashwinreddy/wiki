@@ -19,6 +19,10 @@ Let's just call the number of significand bits $\mathsf{sigfigs}$.
 
 The number is represented in terms of its significant figures (perhaps we could call this the number's energy) and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
 
+# Normalized / Denormalized numbers
+
+There could be multiple ways of using a "scientific notation"-style representation for any given number. Therefore, we can normalize the number by asking that we represent it with a prefix of "1." A denormalized number is when we want to dip below this. In particular, when we want to look at numbers below $2^{1-\mathsf{bias}}$.
+
 # Value
 
 How does the number map to an actual value? The following formula captures this.
@@ -26,6 +30,8 @@ How does the number map to an actual value? The following formula captures this.
 \begin{equation}
 \mathsf{Value} = (-1)^S \times \begin{cases} 1.\mathsf{Significand}_2 \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  0.\mathsf{Significand}_2 \times 2^{\mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = -127
 \end{equation}
+
+
 
 # Format
 
