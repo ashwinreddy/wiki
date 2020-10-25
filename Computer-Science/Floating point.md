@@ -31,7 +31,7 @@ $$
 
 # Denormalized number
 
-The smallest denormalized number is always $2^{-\mathsf{significand bits}} \times 2^{\mathsf{bias}+1}$
+The smallest denormalized number is always $2^{-\text{significand bits}} \times 2^{\mathsf{bias}+1}$
 
 Implicit exponent is -126 and we have no implied leading 1.
 
