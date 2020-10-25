@@ -34,6 +34,12 @@ $$
 
 # Representable numbers
 
+The largest representable number would have maximum exponent and a mantissa of all 1s. Therefore, we have
+
+$$
+1.\underbrace{111\dots}_{23}
+$$
+
 The smallest positive _integer_ we cannot represent is $2^{\mathsf{sigfigs}+1}+1$.
 
 # Exponent Bias
