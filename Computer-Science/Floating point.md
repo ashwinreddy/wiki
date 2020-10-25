@@ -43,7 +43,9 @@ The largest representable number would have maximum exponent and a mantissa of a
 &= 1 - 2^{-23}
 \end{align}
 
-Then we tag on the exponent, so we have $ \left( 1 + \left(1 - 2^{-23} \right) \right) \times 2^{127}$
+Then we tag on the exponent, so we have $ \left( 1 + \left(1 - 2^{-23} \right) \right) \times 2^{127}$.
+
+The smallest representable number would be a denormalized number, so we would have $2^{-23} \times 2^{-126}$. The smallest representable _normalized_ number would be $\left(1\right) \times 2^{1 - 127} = 2^{-126}$.
 
 The smallest positive _integer_ we cannot represent is $2^{\mathsf{sigfigs}+1}+1$.
 
