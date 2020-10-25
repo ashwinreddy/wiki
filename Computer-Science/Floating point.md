@@ -1,4 +1,8 @@
-**Floating point** is a way of representing [[real number]] on a computer with the same general principle as [[scientific notation]]. In this way, it supports a wide range of values with high precision. The IEEE 754 standard uses 3 parts:
+**Floating point** is a way of representing [[real number]] on a computer with the same general principle as [[scientific notation]]. In this way, it supports a wide range of values with high precision. 
+
+# Format
+
+The IEEE 754 standard uses 3 parts:
 
 |Shorthand|Name|Num Bits|Meaning|
 |---------|----|--------|-------|
