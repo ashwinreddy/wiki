@@ -21,7 +21,10 @@ The number is represented in terms of its significant figures (perhaps we could 
 
 # Normalized / Denormalized numbers
 
-There could be multiple ways of using a "scientific notation"-style representation for any given number. Therefore, we can normalize the number by asking that we represent it with a prefix of "1." A denormalized number is when we want to dip below this. In particular, when we want to look at numbers below $2^{1-\mathsf{bias}}$.
+There could be multiple ways of using a "scientific notation"-style representation for any given number. Therefore, we can normalize the number by asking that we represent it with a prefix of "1." 
+
+
+When we have an exponent of 0, we are looking at denormalized numbers. In particular, we use them when we want to look at numbers below $2^{1-\mathsf{bias}}$.
 
 # Value
 
