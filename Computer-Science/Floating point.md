@@ -68,7 +68,7 @@ Floating point is discrete / granular so you can't just add any amount you want 
 So if the mantissa has $n$ bits, then adding 1 is ostensibly adding $2^{-n}$ to the "energy" of the number (i.e. the significant figures). But, in effect, that change is scaled by the exponent, which is $2^{\mathsf{exp} + \mathsf{bias}}$. So we have
 
 $$
-\text{step size} = 2^{\mathsf{exp} + \mathsf{bias}-\left(\text{number of mantissa bits}\right)}
+\text{step size} = 2^{\mathsf{exp} + \mathsf{bias}-\mathsf{sigfigs}}
 $$
 
 # See also
