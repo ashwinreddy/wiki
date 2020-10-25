@@ -33,7 +33,7 @@ $$
 
 When we want to represent numbers without a leading 1, we go to the denormalized numbers.
 
-The smallest denormalized number is always $2^{-\text{significand bits}} \times 2^{\mathsf{bias}+1}$
+The smallest denormalized number would be $2^{-\text{significand bits}} \times 2^{\mathsf{bias}+1}$. The next smallest number would be $2^{1-\text{significand bits}} \times 2^{\mathsf{bias}+1}$
 
 Implicit exponent is -126 and we have no implied leading 1.
 
