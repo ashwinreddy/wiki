@@ -1,8 +1,8 @@
 **Floating point** is a way of representing [[real number]] on a computer with the same general principle as [[scientific notation]]. In this way, it supports a wide range of values with high precision. The IEEE 754 standard uses 3 parts:
 
 * A sign bit, which is 0 for positive numbers and 1 for negative numbers
-* 8 bits for the exponent with a bias of -127
-* The significand storing the fraction of a number. 23 bits
+* 8 bits for the exponent with a bias of -127. The exponents control the range of numbers we can represent.
+* The significand storing the fraction of a number. 23 bits to control the precision of numbers.
  
 
 The number is represented in terms of its significant figures (perhaps we could call this the number's energy) and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
@@ -30,6 +30,8 @@ $$
 [[_TOC_]]
 
 # Denormalized number
+
+When we want to represent numbers without a leading 1, we go to the denormalized numbers.
 
 The smallest denormalized number is always $2^{-\text{significand bits}} \times 2^{\mathsf{bias}+1}$
 
