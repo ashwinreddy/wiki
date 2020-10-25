@@ -3,7 +3,7 @@
 |Shorthand|Name|Num Bits|Meaning|
 |---------|----|--------|-------|
 |**S**|Sign|1 bit|0 = +, 1 = -|
-|**E**|Exponent|8 bits| for the exponent with a bias of -127. The exponents control the range of numbers we can represent.|
+|**E**|Exponent|8 bits|Control the power / range of numbers we can represent.|
 |**M**|Mantissa/Significand|23 bits|Precision of representing the number|
  
 
