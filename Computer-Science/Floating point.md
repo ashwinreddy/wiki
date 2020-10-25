@@ -5,7 +5,8 @@
 |**S**|Sign|1 bit|0 = +, 1 = -|
 |**E**|Exponent|8 bits|Control the power / range of numbers we can represent.|
 |**M**|Mantissa/Significand|23 bits|Precision of representing the number|
- 
+
+Let's just call the number of significand bits $\mathsf{sigfigs}$.
 
 The number is represented in terms of its significant figures (perhaps we could call this the number's energy) and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
 
