@@ -29,6 +29,10 @@ $$
 
 [[_TOC_]]
 
+# Representable numbers
+
+
+
 # Denormalized number
 
 When we want to represent numbers without a leading 1, we go to the denormalized numbers.
