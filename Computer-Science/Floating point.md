@@ -34,11 +34,13 @@ $$
 
 # Representable numbers
 
-The largest representable number would have maximum exponent and a mantissa of all 1s. Therefore, we have
+The largest representable number would have maximum exponent and a mantissa of all 1s. Therefore, the mantissa on its own looks like
 
-$$
-1.\underbrace{11\dots 11}\_{23 \text{ bits}} \times 2^{254-127} = \left( 1 + \sum_{i=1}^{23} 2^{-i} \right) \times 2^{127}
-$$
+\begin{align}
+0.\underbrace{11\dots 11}\_{23 \text{ bits}} = 2^{-1} + \dots + 2^{-23} &= 2^{-23}\left(2^{22} + \dots + 1\right) \\\\
+&= 2^{-23}\left( 2^{23} - 1 \right) \\\\
+&= 1 - 2^{-23}
+\end{align}
 
 The smallest positive _integer_ we cannot represent is $2^{\mathsf{sigfigs}+1}+1$.
 
