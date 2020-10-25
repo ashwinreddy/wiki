@@ -1,8 +1,10 @@
 **Floating point** is a way of representing [[real number]] on a computer with the same general principle as [[scientific notation]]. In this way, it supports a wide range of values with high precision. The IEEE 754 standard uses 3 parts:
 
-* A sign bit, which is 0 for positive numbers and 1 for negative numbers
-* 8 bits for the exponent with a bias of -127. The exponents control the range of numbers we can represent.
-* The significand storing the fraction of a number. 23 bits to control the precision of numbers.
+|Shorthand|Name|Num Bits|Meaning|
+|---------|----|--------|-------|
+|**S**|Sign|1 bit|0 for positive numbers and 1 for negative numbers|
+|**E**|Exponent|8 bits| for the exponent with a bias of -127. The exponents control the range of numbers we can represent.|
+|**M**|Mantissa/Significand|23 bits|Precision of representing the number|
  
 
 The number is represented in terms of its significant figures (perhaps we could call this the number's energy) and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
