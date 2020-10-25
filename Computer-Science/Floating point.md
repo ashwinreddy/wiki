@@ -34,6 +34,8 @@ $$
 
 # Representable numbers
 
+The smallest positive integer we cannot represent is $2^{\mathsf{sigfigs}+1}+1$.
+
 # Exponent Bias
 
 For a $k$ bit exponent, the bias is given by
