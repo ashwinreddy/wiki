@@ -37,7 +37,7 @@ $$
 The largest representable number would have maximum exponent and a mantissa of all 1s. Therefore, we have
 
 $$
-1.\underbrace{11\dots 11}\_{23 \text{ bits}} \times 2^{254-127} = \left( 1 + \sum_{i=-1}^{23} 2^{-i} \right) \times 2^{127}
+1.\underbrace{11\dots 11}\_{23 \text{ bits}} \times 2^{254-127} = \left( 1 + \sum_{i=1}^{23} 2^{-i} \right) \times 2^{127}
 $$
 
 The smallest positive _integer_ we cannot represent is $2^{\mathsf{sigfigs}+1}+1$.
