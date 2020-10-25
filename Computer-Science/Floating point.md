@@ -36,7 +36,7 @@ $$
 For a $k$ bit exponent, the bias is given by
 
 $$
-\mathsf{Bias} = 2^{k-1}-1
+\mathsf{Bias} = -\left(2^{k-1}-1\right)
 $$
 
 # Denormalized number
