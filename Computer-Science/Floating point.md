@@ -21,11 +21,11 @@ The number is represented in terms of its significant figures (perhaps we could 
 
 # Value
 
+How does the number map to an actual value? The following formula captures this.
 
-
-$$
+\begin{equation}
 \mathsf{Value} = (-1)^S \times \begin{cases} 1.\mathsf{Significand}_2 \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  0.\mathsf{Significand}_2 \times 2^{\mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = -127
-$$
+\end{equation}
 
 # Format
 
