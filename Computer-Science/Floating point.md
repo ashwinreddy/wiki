@@ -34,7 +34,7 @@ $$
 
 # Representable numbers
 
-The smallest positive integer we cannot represent is $2^{\mathsf{sigfigs}+1}+1$.
+The smallest positive _integer_ we cannot represent is $2^{\mathsf{sigfigs}+1}+1$.
 
 # Exponent Bias
 
