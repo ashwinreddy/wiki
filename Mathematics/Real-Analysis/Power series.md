@@ -7,5 +7,7 @@ $$
 # Root test
 
 $$
-\limsup_{n \to \infty } \sqrt[n]{|a_n|}
+\alpha = \limsup_{n \to \infty } \sqrt[n]{|a_n|}
 $$
+
+If $\alpha > 1$, then it converges absolutely. If $\alpha < 1$, then it does not converge. If $\alpha = 1$, no info.
