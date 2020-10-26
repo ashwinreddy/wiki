@@ -3,3 +3,12 @@ A **register** is a hardware object in a processor core. Operations are performe
 A register has a delay before the output reflects the sampled input. That time is called the **clk-to-q** delay. In addition, the input that the register samples needs to be stable for a certain amount of time before the rising edge of the clock and a certain time after the rising edge of the clock. These are the **setup** and **hold** time, respectively.
 
 The clk-to-q delay typically includes the hold time.
+
+
+$$
+t_{\mathsf{hold}} \leq t_{\mathsf{shortest-path}}
+$$
+
+$$
+t_{\mathsf{clk-2-q}} + t_{\mathsf{longest-combinational-path}} + t_{\mathsf{setup}} \leq t_{\mathsf{clk-cycle}}
+$$
