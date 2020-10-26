@@ -37,7 +37,7 @@ We have the `lw` load word and `sw` store word commands but also `lb` load byte 
 
 |Type|Op|Idea|
 |---|-|-------|
-|R|Register-register|
+|R|Register-register|`add`, `sub`|
 |I|Short immediate data and load|`addi`, `lw`, `jalr`|
 |S|Fetch store|`sb`|
 |SB|Conditional jump|`beq`, `bne`, `blt`, etc.|
