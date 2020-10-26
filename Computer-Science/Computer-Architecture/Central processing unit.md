@@ -16,5 +16,9 @@ has 5 cycles.
 Latency
 : The time it takes for one instruction to finish
 
+The latency often increases when we pipeline a CPU.
+
 Throughput
 : The number of instructions processsed per second
+
+The throughput increases when we pipeline a CPU.
