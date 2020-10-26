@@ -14,7 +14,7 @@ If $\alpha > 1$, then it converges absolutely. If $\alpha < 1$, then it does not
 
 # Radius of convergence
 
-The power series only converges inside the radius of convergence $R$.
+The power series only converges inside the radius of convergence $R$ and possibly at $R$.
 
 $$
 R = \frac{1}{\alpha}
