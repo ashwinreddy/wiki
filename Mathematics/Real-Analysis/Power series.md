@@ -7,5 +7,5 @@ $$
 # Root test
 
 $$
-\lim\sup_{n \to \infty } \sqrt[n]{|a_n|}
+\limsup_{n \to \infty } \sqrt[n]{|a_n|}
 $$
