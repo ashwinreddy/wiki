@@ -18,4 +18,3 @@ $$
 \lim_{x\to a^S} f(x) = L \iff \forall \epsilon > 0, \exists \delta > 0 \text{ s.t. } x\in S, | x - a | < \delta \implies |f(x) - L| < \epsilon
 $$
 
-For $f: \mathsf{dom}(f) \to \RR$ with $(a - c, a+c) \setminus \{ a \}$
