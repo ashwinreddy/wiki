@@ -12,7 +12,7 @@ First, we want to make sure that the updates to a register aren't happening too 
 t_{\mathsf{hold}} \leq \min_{\text{paths}} t_{\mathsf{logic}} \tag{Hold time constraint}
 \end{equation}
 
-<<Warning("Don't forget to include clk-2-q")>>
+<<Warn("Don't forget to include clk-2-q")>>
 
 The clock period needs to be long enough for your new register input to be calculated correctly, which means that you need enough time for the longest path to finish and then to setup the register for updating.
 
