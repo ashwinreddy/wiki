@@ -11,3 +11,11 @@ $$
 $$
 
 If $\alpha > 1$, then it converges absolutely. If $\alpha < 1$, then it does not converge. If $\alpha = 1$, no info.
+
+# Radius of convergence
+
+The power series only converges inside the radius of convergence $R$.
+
+$$
+R = \frac{1}{\alpha}
+$$
