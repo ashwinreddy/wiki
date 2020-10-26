@@ -7,7 +7,7 @@ $$
 Consider a function $f: S \to \RR$. We will write
 
 $$
-\lim_{x \to a^S} f(x) = L \iff \lim s_n = a \implies \lim_{n \to \infty} f(s_n) = L
+\lim_{x \to a^S} f(x) = L \iff \left( \lim s_n = a \implies \lim_{n \to \infty} f(s_n) = L \right)
 $$
 
 for every $(s_n)$ in $S$.
