@@ -4,3 +4,10 @@ $$
 \lim_{x \to c} f(x) = L
 $$
 
+Consider a function $f: S \to \RR$. We will write
+
+$$
+\lim_{x \to a^S} f(x) = L
+$$
+
+if every $(s_n)$ in $S$ with $\lim s_n = a$, we have $\lim_{n \to \infty} f(s_n) = L$.
