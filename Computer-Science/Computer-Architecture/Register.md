@@ -12,6 +12,8 @@ $$
 t_{\mathsf{hold}} \leq t_{\mathsf{shortest-path}}
 $$
 
+The clock period needs to be long enough for your new register input to be calculated correctly, which means that you need enough time for the longest path to finish and then to setup the register for updating.
+
 $$
 t_{\mathsf{clk-2-q}} + t_{\mathsf{longest-combinational-path}} + t_{\mathsf{setup}} \leq t_{\mathsf{clk-cycle}}
 $$
