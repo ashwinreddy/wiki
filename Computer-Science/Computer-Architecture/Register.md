@@ -9,7 +9,7 @@ There are two conditions we care about for registers.
 First, we want to make sure that the updates to a register aren't happening too quickly. When a clock cycle starts and a register begins saving its current input, the input should not change again. So the shortest path needs to take _at least_ as long as the hold time.
 
 $$
-t_{\mathsf{hold}} \leq t_{\mathsf{shortest-path}}
+t_{\mathsf{hold}} \leq \min t_{\mathsf{logic}}
 $$
 
 The clock period needs to be long enough for your new register input to be calculated correctly, which means that you need enough time for the longest path to finish and then to setup the register for updating.
