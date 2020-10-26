@@ -38,11 +38,11 @@ We have the `lw` load word and `sw` store word commands but also `lb` load byte 
 |Type|Op|Idea|
 |---|-|-------|
 |R|Register-register|
-|I|Short immediate data and load|`addi`, `lw`|
-|S|Fetch store|
+|I|Short immediate data and load|`addi`, `lw`, `jalr`|
+|S|Fetch store|`sb`|
 |SB|Conditional jump|`beq`, `bne`, `blt`, etc.|
 |U|Long immediate|`auipc`, `lui`|
-|UJ|Unconditional jump|`j`, `jal`, `jalr`|
+|UJ|Unconditional jump|`jal`|
 
 [[https://programmersought.com/images/208/1d0b406069c9a25bf209005412f377e0.png]]
 
