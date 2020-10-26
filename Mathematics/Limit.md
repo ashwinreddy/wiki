@@ -12,3 +12,8 @@ $$
 
 for every $(s_n)$ in $S$.
 
+We might also want an $\epsilon-\delta$ definition
+
+$$
+\lim_{x\to a^S} f(x) = L \iff \forall \epsilon > 0, \exists \delta > 0 \text{ s.t. } x\in S, | x - a | < \delta \implies |f(x) - L| < \epsilon
+$$
