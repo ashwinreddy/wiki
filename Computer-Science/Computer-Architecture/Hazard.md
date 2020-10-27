@@ -34,4 +34,6 @@ Load requires one-cycle pipeline stall. The **load delay slot** puts unrelated i
 
 # Control hazard
 
+When you have a branch and you take the branch, you'll still be executing things. therefore, if branch not taken, no control hazard. If you can do branch prediction ahead of time, this can be efficient.
+
 In a branch instruction, we execute things up until the point that the program counter changes (3 stages later). 
