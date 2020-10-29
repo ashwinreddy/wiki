@@ -11,5 +11,5 @@ $$
 For any Hermitian operator $Q$, the eigenstates of $Q$ are the unique states with
 
 $$
-Q \mid \Psi \rangle = q \mid \Psi \rangle \iff \sigma_Q = 0 .
+Q | \Psi \rangle = q \mid \Psi \rangle \iff \sigma_Q = 0 .
 $$
