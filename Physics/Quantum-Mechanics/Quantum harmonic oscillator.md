@@ -38,14 +38,12 @@ $$
 \psi_0(x) = \left(\frac{m\omega}{\pi\hbar}\right)^{1/4} \exp\left(-\frac{m\omega}{2\hbar}x^2\right)
 $$
 
-and it has energy $E_0 = \frac{1}{2}\hbar\omega$. The nth state has
-
-$$
-\psi_n(x) = A \left(\hat{a}_+\right)^n \psi_0(x), \qquad E_n = \left(n+\frac{1}{2}\right)\hbar\omega
-$$
-
-In addition,
+and it has energy $E_0 = \frac{1}{2}\hbar\omega$. In addition,
 
 $$
 \hat{a}\_+ \psi_n = \sqrt{n+1}\psi_{n+1},\qquad \hat{a}\_{-} \psi_n = \sqrt{n} \psi_{n-1}
+$$ The nth state has
+
+$$
+\psi_n(x) = \frac{1}{\sqrt n}\left(\hat{a}_+\right)^n \psi_0(x), \qquad E_n = \left(n+\frac{1}{2}\right)\hbar\omega
 $$
