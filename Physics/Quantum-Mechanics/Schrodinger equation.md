@@ -1,19 +1,19 @@
 The **Schrodinger equation** describes how quantum systems evolve over time. Thus, it is a partial differential equation. Luckily, it is linear.
 
-The Schrodinger equation in its one-dimensional non-relativistic form compactly looks like
+The Schrodinger equation in its one-dimensional non-relativistic form compactly looks like the following
 
 \begin{equation}
 \label{eq:schro}
-\iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi \tag{Schrodinger Equation}
+\iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi, \tag{Schrodinger Equation}
 \end{equation}
 
-Expanding the [[Hamiltonian]],
+where $\Psi(x,t)$ is the [[wave function]]. Expanding the [[Hamiltonian]],
 
 \begin{equation}
 \iota \hbar \pdv{}{t} \Psi(x, t) = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x, t) \Psi(x,t)
 \end{equation}
 
-Here, $\Psi(x,t)$ is the [[wave function]].
+Here, .
 
 
 $$
