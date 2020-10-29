@@ -1,4 +1,4 @@
-The **free particle** is a particle under no influence of a potential, i.e $V(x) = 0$. Then, we have for the T.I.S.E $\hat{H} \psi = E\psi$ the following
+The **free particle** is a particle under no influence of a potential, i.e $V(x) = 0$. Then, we obtain the following for the T.I.S.E $\hat{H} \psi = E\psi$:
 
 $$
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{x^2}} = E\psi
