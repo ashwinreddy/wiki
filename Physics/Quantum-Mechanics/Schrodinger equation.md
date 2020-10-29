@@ -30,7 +30,7 @@ The time independent Schrodinger equation eliminates dependence on time but make
 
 Then, the following must be true:
 
-1. $\psi(x)$ must be an [[eigenstate|eigenpairs]] of the [[Hamiltonian]]:
+1. $\psi(x)$ must be an [[eigenstate|eigenpairs]] of the [[Hamiltonian]]. The technical term is [[stationary state]].
 
 \begin{equation}
 \label{eq:tise}
