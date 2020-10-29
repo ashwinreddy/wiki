@@ -1,4 +1,9 @@
-A **stationary state** is a [[quantum state]] $\Psi(x, t) = \psi(x) \varphi(t)$ that is a solution to the time-independent [[Schrodinger equation]],
+A **stationary state** is a special kind of [[quantum state]] that is useful in solving the time-dependent [[Schrodinger equation]]. In particular, a stationary state is an [[eigenstate|eigenpairs]] of the [[Hamiltonian]].
+
+
+
+
+is a [[quantum state]] $\Psi(x, t) = \psi(x) \varphi(t)$ that is a solution to the time-independent [[Schrodinger equation]].
 
 $$
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi }{\dd{} x^2} + V\psi = E \psi.
