@@ -1,0 +1,1 @@
+**Spectrum** is set of [[eigenvalues|eigenpair]]
