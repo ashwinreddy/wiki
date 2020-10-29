@@ -19,6 +19,14 @@ $$
 
 [[_TOC_]]
 
+# Solutions
+
+The solution depends on the potential. However, one can use the T.I.S.E. to find stationary states. Then, the general solution has the form
+
+$$
+\Psi(x, t) = \sum_{n=1}^\infty c_n \psi_n(x) e^{-\iota E_n t / \hbar}
+$$
+
 # Time Independent Schrodinger Equation
 
 The time independent Schrodinger equation eliminates dependence on time but makes some key assumptions. It assumes that the potential $V$ has no dependence on time and that the solution has the form 
