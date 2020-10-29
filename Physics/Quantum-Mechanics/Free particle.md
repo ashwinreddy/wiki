@@ -27,3 +27,5 @@ We could further compact this by letting $k$ be a continuous index.
 $$
 \Psi_k (x,t) = A_k e^{\iota k \left(x-\frac{\hbar k}{2m}t\right)}
 $$
+
+Here's the problem: this $\Psi_k$ is not normalizable! So the general solution is not very useful. In practice, we have a $\Psi(x, 0)$. What we do is figure out the $A_k \equiv \phi(k)$
