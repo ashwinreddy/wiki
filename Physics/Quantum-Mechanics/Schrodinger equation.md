@@ -1,4 +1,6 @@
-The **Schrodinger equation** is a linear partial differential equation, which in its one-dimensional non-relativistic form looks like
+The **Schrodinger equation** describes how quantum systems evolve over time. Thus, it is a partial differential equation. Luckily, it is linear.
+
+The Schrodinger equation in its one-dimensional non-relativistic form compactly looks like
 
 \begin{equation}
 \label{eq:schro}
