@@ -10,11 +10,15 @@ We can then consider the [[T.I.S.E.|Schrodinger equation#time-independent-schrod
 -\frac{\hbar\^2}{2m}\frac{\dd{}^2 \psi}{\dd{} x^2} + \frac{1}{2}m\omega\^2x^2\psi = E\psi
 \end{equation}
 
-How do we solve this? One approach is to use ladder operators!
+Using more suggestive operator notation,
 
 \begin{equation}
 \frac{1}{2m}\left[ \hat{p}^2 + \left(m\omega \hat{x} \right)^2 \right]\psi = E\psi
 \end{equation}
+
+How do we solve this? One approach is to use ladder operators. 
+
+
 
 We define
 
