@@ -1,5 +1,5 @@
-The **commutator** of operators $\hat{A}$ and $\hat{B}$ is 
+The **commutator** of operators $\widehat{A}$ and $\widehat{B}$ is 
 
 $$
-\left[ \widehat{A}, \hat{B} \right] \equiv \hat{A}\hat{B} - \hat{B}\hat{A}
+\left[ \widehat{A}, \widehat{B} \right] \equiv \widehat{A}\widehat{B} - \widehat{B}\widehat{A}
 $$
