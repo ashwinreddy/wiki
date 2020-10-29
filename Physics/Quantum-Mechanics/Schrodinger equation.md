@@ -7,7 +7,7 @@ The Schrodinger equation in its one-dimensional non-relativistic form compactly 
 \iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi \tag{Schrodinger Equation}
 \end{equation}
 
-Expanding the [[Hamiltonian operator]],
+Expanding the [[Hamiltonian]],
 
 \begin{equation}
 \iota \hbar \pdv{}{t} \Psi(x, t) = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x, t) \Psi(x,t)
