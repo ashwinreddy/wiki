@@ -24,6 +24,7 @@ $$
 The time independent Schrodinger equation eliminates dependence on time but makes some key assumptions. It assumes that the potential $V$ has no dependence on time and that the solution has the form 
 
 \begin{equation}
+\label{eq:ansatz}
 \Psi(x, t) = \psi(x) \varphi(t). \tag{Separable Ansatz}
 \end{equation}
 
@@ -66,7 +67,7 @@ This is nice because
 
 ## Derivation
 
-If we then plug this in,
+If we use \ref{eq:ansatz},
 
 $$
 \iota\hbar\cdot \psi(x) \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\dd{}^2 \psi}{\dd{} x^2} + V(x)\psi(x)\varphi(t)
