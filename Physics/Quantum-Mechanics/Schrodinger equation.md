@@ -21,12 +21,15 @@ $$
 
 # Time Independent Schrodinger Equation
 
-On its own, the \ref{eq:schro} is a hard one to solve. Assume the following:
+The time independent Schrodinger equation eliminates dependence on time, but makes some key assumptions. It assumes that the potential $V$ has no dependence on time and that the solution has the form $\Psi(x, t) = \psi(x) \varphi(t)$. But, given that, we can say that $\psi(x)$ must obey
 
-1. Pretend $V(x,t)$ has no dependence on time. 
-2. Suppose we were to attempt separation of variables, i.e. the solution we guess is $\Psi(x, t) = \psi(x) \varphi(t)$
 
-Then, we can actually find solutions for the equation. We find that 
+\begin{equation}
+\label{eq:tise}
+\boxed{-\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi} \tag{T.I.S.E.}
+\end{equation}
+
+On the other hand,
 
 \begin{equation}
 \label{eq:time}
@@ -40,13 +43,7 @@ $$
 \varphi(t) = e^{-\iota E t / \hbar}
 $$
 
-On the other hand we find that $\psi(x)$ must obey
 
-
-\begin{equation}
-\label{eq:tise}
-\boxed{-\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi} \tag{T.I.S.E.}
-\end{equation}
 
 If we turn to the [[Hamiltonian]], we get a nice [[eigenpairs]] equation:
 
