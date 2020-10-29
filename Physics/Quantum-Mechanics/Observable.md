@@ -1,4 +1,4 @@
-An **observable** in quantum mechanics is something we can measure, having [[real number]] [[expected value]]. 
+An **observable** in quantum mechanics is something we can measure, having [[real|real number]] [[expectation|expected value]]. 
 
 > Observables are represented by [[Hermitian operator]].
 
