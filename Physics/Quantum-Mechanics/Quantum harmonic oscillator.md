@@ -25,6 +25,6 @@ $$
 It turns out that
 
 \begin{gather}
-\hat{a}\_{-}\hat{a}_{+} = \frac{1}{\hbar\omega}\hat{H} + \frac{1}{2} \\\\
+\hat{a}\_{-}\hat{a}\_{+} = \frac{1}{\hbar\omega}\hat{H} + \frac{1}{2} \\\\
 \hat{a}\_{+}\hat{a}_{-} = \frac{1}{\hbar\omega}\hat{H} - \frac{1}{2}
 \end{gather}
