@@ -21,7 +21,7 @@ $$
 
 # Time Independent Schrodinger Equation
 
-Equation \ref{eq:schro} is a hard one to solve. We shall make two simplifying assumptions so that we can start somewhere.
+On its own, the \ref{eq:schro} is a hard one to solve. We shall make two simplifying assumptions so that we can start somewhere.
 
 1. Pretend $V(x,t)$ has no dependence on time. 
 2. Suppose we were to attempt separation of variables, i.e. the solution we guess is $\Psi(x, t) = \psi(x) \varphi(t)$
