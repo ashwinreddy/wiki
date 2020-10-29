@@ -17,7 +17,13 @@ Fortunately, we can solve the infinite square well. Outside the well, $\psi(x) =
 where these last two boundary conditions come from wanting $\psi$ to be continuous and noting that $\psi =  0$ where the potential is infinite. The solutions, indexed by positive integers $n$, are
 
 $$
-\psi_n(x) = \sqrt{\frac{2}{a}} \sin\left( \frac{n\pi}{a}x \right)
+\psi_n(x) = \sqrt{\frac{2}{a}} \sin\left( \frac{n\pi}{a}x \right),
+$$
+
+carrying energy 
+
+$$
+E_n = \frac{n^2 \pi^2 \hbar^2}{2ma^2}
 $$
 
 More neatly,
