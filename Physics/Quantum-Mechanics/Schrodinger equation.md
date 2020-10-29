@@ -40,6 +40,8 @@ $$
 \varphi(t) = e^{-\iota E t / \hbar}
 $$
 
+On the other hand we find that $\psi(x)$ must obey
+
 
 \begin{equation}
 \label{eq:tise}
