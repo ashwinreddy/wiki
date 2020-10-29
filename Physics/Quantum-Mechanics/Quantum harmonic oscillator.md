@@ -22,9 +22,9 @@ $$
 \hat{a}_{\pm} = \frac{1}{\sqrt{2\hbar m\omega}}\left( \mp \iota \hat{p} + m\omega\hat{x} \right)
 $$
 
-It turns out that
+Depending on the order in which you multiply the operators, you get the following (read the upper signs all the way across or the lower signs all the way across)
 
 \begin{gather}
-\hat{a}\_{-}\hat{a}\_{+} = \frac{1}{\hbar\omega}\hat{H} + \frac{1}{2} \\\\
-\hat{a}\_{+}\hat{a}_{-} = \frac{1}{\hbar\omega}\hat{H} - \frac{1}{2}
+\hat{a}\_{\mp}\hat{a}\_{\pm} = \frac{1}{\hbar\omega}\hat{H} \pm \frac{1}{2}
 \end{gather}
+
