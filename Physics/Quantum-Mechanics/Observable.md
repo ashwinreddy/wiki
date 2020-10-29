@@ -13,3 +13,9 @@ It must then be the case that
 $$
 \langle Q \rangle = \langle Q \rangle^*
 $$
+
+# Determinate state
+
+A determinate state for an observable $Q$ is one that whenever you measure $Q$, you always get the same value.
+
+> Determinate states of $Q$ are eigenfunctions of $\hat{Q}$.
