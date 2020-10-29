@@ -16,7 +16,7 @@ Fortunately, we can solve the infinite square well. Outside the well, $\psi(x) =
 \psi(a) = 0,
 \end{gather}
 
-where these last two boundary conditions come from wanting $\psi$ to be continuous and noting that $\psi =  0$ where the potential is infinite. The solutions, indexed by positive integers $n$, are
+where these last two boundary conditions come from wanting $\psi$ to be continuous and noting that $\psi =  0$ where the potential is infinite. The [[stationary states|stationary state]], indexed by positive integers $n$, are
 
 $$
 \psi_n(x) = \sqrt{\frac{2}{a}} \sin\left( \frac{n\pi}{a}x \right),
