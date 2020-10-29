@@ -4,7 +4,7 @@ $$
 V(x) = \begin{cases} 0 & 0 \leq x \leq a \\\\ \infty & \text{otherwise} \end{cases}
 $$
 
-Fortunately, we can solve the infinite square well. Outside the well, $\psi(x) = 0$. Inside the well, $V=0$ and the [[Schrodinger equation]] says
+Fortunately, we can solve the infinite square well. Outside the well, $\psi(x) = 0$. Inside the well, $V=0$ and the [[Schrodinger equation#time-independent-schrodinger-equation]] says
 
 $$
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} = E \psi
