@@ -24,13 +24,6 @@ $$
 
 The boundary conditions are $\psi(0) = 0$ and $\psi(a)=a$ in order to be continuous since $\psi(0)=0$ when the potential jumps to infinity.
 
-Then,
-
-\begin{align}
-\psi(0) = 0 \implies B = 0 \\\\\
-\psi(a) = a \implies ka = n\pi \\\\
-\implies k_n = \frac{n\pi}{a}
-\end{align}
 
 Then, the allowed energies are
 
