@@ -8,6 +8,12 @@ $$
 \langle \hat{Q} \Psi \mid \Psi \rangle = \langle \Psi \mid \hat{Q} \Psi \rangle
 $$
 
+Compactly,
+
+$$
+\hat{Q} = \hat{Q}^\dagger
+$$
+
 1. A Hermitian operator has real eigenvalues only.
 2. Eigenvectors for a Hermitian operator coming from different eigenvalues are orthogonal.
 
