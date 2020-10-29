@@ -10,4 +10,4 @@ $$
 \langle Q \rangle = \langle Q \rangle^*
 $$
 
-Thus, an observable is a Hermitian operator.
+Thus, an observable is a [[Hermitian operator]].
