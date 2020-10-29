@@ -6,7 +6,7 @@ $$
 
 # Solution
 
-Fortunately, we can solve the infinite square well. Outside the well, $\psi(x) = 0$. Inside the well, $V=0$ and the [[time independent Schrodinger equation|Schrodinger equation#time-independent-schrodinger-equation]] says
+Fortunately, we can solve the infinite square well. Outside the well, $\psi(x) = 0$. Inside the well, $V=0$ and the [[time independent Schrodinger equation|Schrodinger equation#time-independent-schrodinger-equation]] gives us a differential equation to solve
 
 \begin{gather}
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} = E \psi \\\\
