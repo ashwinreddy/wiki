@@ -23,7 +23,7 @@ $$
 carrying energy 
 
 $$
-E_n = \frac{n^2 \pi^2 \hbar^2}{2ma^2}
+E_n = \frac{n^2 \pi^2 \hbar\^2}{2ma^2}
 $$
 
 More neatly,
