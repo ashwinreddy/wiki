@@ -1,4 +1,4 @@
-The **infinite square well** refers to a particle under the influence of a potential
+The **infinite square well (I.S.W.)** refers to a particle under the influence of a potential
 
 $$
 V(x) = \begin{cases} 0 & 0 \leq x \leq a \\\\ \infty & \text{otherwise} \end{cases}
