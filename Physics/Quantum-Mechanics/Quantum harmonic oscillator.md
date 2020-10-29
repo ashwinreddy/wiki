@@ -16,11 +16,7 @@ Using more suggestive operator notation,
 \frac{1}{2m}\left[ \hat{p}^2 + \left(m\omega \hat{x} \right)^2 \right]\psi = E\psi
 \end{equation}
 
-How do we solve this? One approach is to use ladder operators. 
-
-
-
-We define
+How do we solve this? One approach is to use ladder operators. We define
 
 $$
 \hat{a}_{\pm} = \frac{1}{\sqrt{2\hbar m\omega}}\left( \mp \iota \hat{p} + m\omega\hat{x} \right)
