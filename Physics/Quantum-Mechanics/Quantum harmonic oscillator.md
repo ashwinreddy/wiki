@@ -28,4 +28,12 @@ Depending on the order in which you multiply the operators, you get the followin
 \hat{a}\_{\mp}\hat{a}\_{\pm} = \frac{1}{\hbar\omega}\hat{H} \pm \frac{1}{2}
 \end{gather}
 
-Then, if $\psi$ is an eigenstate with energy $E$, $\hat{a}_+ \psi$ has energy $E + \hbar\omega$.
+Then, if $\psi$ is an eigenstate with energy $E$, $\hat{a}_+ \psi$ has energy $E + \hbar\omega$. If we know one solution, we can generate off more by stepping through in this way. It turns out there is a lowest rung,
+
+$$
+\hat{a}_{-} \psi_0 = 0
+$$
+
+$$
+\psi_0(x) = \left(\frac{m\omega}{\pi\hbar}\right)^{1/4} e^{-\frac{m\omega}}{2\hbar}x^2}
+$$
