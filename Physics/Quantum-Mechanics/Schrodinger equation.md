@@ -21,7 +21,7 @@ $$
 
 # Solutions
 
-The solution depends on the potential. However, one can use the T.I.S.E. to find stationary states. Then, the general solution has the form
+The solution depends on the potential. However, one can use the T.I.S.E. to find stationary states $\\{\psi_1(x), \psi_2(x), \dots\\}$. Then, the general solution has the form
 
 $$
 \Psi(x, t) = \sum_{n=1}^\infty c_n \psi_n(x) e^{-\iota E_n t / \hbar}
