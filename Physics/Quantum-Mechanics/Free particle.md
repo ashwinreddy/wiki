@@ -1,4 +1,15 @@
-The **free particle** has stationary states that are _not_ normalizable. 
+The **free particle** is a particle under no influence of a potential, i.e $V(x) = 0$. Then, we have for the T.I.S.E $\hat{H} \psi = E\psi$ the following
+
+$$
+-\frac{\hbar^2}{2m} \frac{\dd{]^2 \psi}{\dd{x^2}}
+$$
+
+
+
+
+
+
+has stationary states that are _not_ normalizable. 
 
 > There is no such thing as a free particle with definite energy.
 
