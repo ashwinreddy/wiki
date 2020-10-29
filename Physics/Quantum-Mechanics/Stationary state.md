@@ -4,6 +4,9 @@ $$
 \widehat{H} \psi = E\psi
 $$
 
+Why is the stationary state nice and/or useful?
+
+[[_TOC_]]
 
 
 
