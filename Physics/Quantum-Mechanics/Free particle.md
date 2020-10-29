@@ -28,4 +28,10 @@ $$
 \Psi_k (x,t) = A_k e^{\iota k \left(x-\frac{\hbar k}{2m}t\right)}
 $$
 
-Here's the problem: this $\Psi_k$ is not normalizable! So the general solution is not very useful. In practice, we have a $\Psi(x, 0)$. What we do is figure out the $A_k \equiv \phi(k)$
+Here's the problem: this $\Psi_k$ is not normalizable! So the general solution is not very useful. In practice, we have a $\Psi(x, 0)$. What we do is figure out the $A_k \equiv \phi(k)$ via a Fourier transform.
+
+1. Compute
+
+$$
+\phi(k) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty \Psi(x, 0) e^{-\iota kx} \dd{x}
+$$
