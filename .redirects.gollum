@@ -50,3 +50,5 @@ Engineering/Information-Theory/Huffman coding.md: Engineering/Information-Theory
   code.md
 Physics/Physical object.md: Physics/Physical body.md
 Mathematics/Self-adjoint operator.md: Mathematics/Hermitian operator.md
+Physics/Quantum-Mechanics/Particle in a box.md: Physics/Quantum-Mechanics/Infinite
+  square well.md
