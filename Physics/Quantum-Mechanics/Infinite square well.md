@@ -26,10 +26,11 @@ The boundary conditions are $\psi(0) = 0$ and $\psi(a)=a$ in order to be continu
 
 Then,
 
-\begin{gather}
+\begin{align}
 \psi(0) = 0 \implies B = 0 \\\\\
-\psi(a) = a \implies ka = n\pi, \quad n = 1, 2, \dots \implies k_n = \frac{n\pi}{a}
-\end{gather}
+\psi(a) = a \implies ka = n\pi \\\\
+\implies k_n = \frac{n\pi}{a}
+\end{align}
 
 Then, the allowed energies are
 
