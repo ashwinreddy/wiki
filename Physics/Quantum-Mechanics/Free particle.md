@@ -15,3 +15,9 @@ We have
 $$
 \psi(x) = Ae^{\iota kx} + B e^{-\iota kx}
 $$
+
+Notice then that
+
+$$
+\Psi(x,t) = Ae^{\iota k \left(x - \frac{\hbar k}{2m}t\right)} + B e^{-\iota k\left(x - \frac{\hbar k}{2m}t\right)}
+$$
