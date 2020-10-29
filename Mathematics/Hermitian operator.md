@@ -13,3 +13,5 @@ For any Hermitian operator $Q$, the eigenstates of $Q$ are the unique states wit
 $$
 Q | \Psi \rangle = q | \Psi \rangle \iff \sigma_Q = 0 .
 $$
+
+Thus, [[stationary state]]
