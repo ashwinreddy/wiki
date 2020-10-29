@@ -50,10 +50,6 @@ $$
 \varphi(t) = e^{-\iota E t / \hbar}
 $$
 
-
-
-
-
 We can then attempt to solve \ref{eq:tise} to find the appropriate $\psi(x)$, and then we have
 
 $$
