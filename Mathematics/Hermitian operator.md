@@ -8,7 +8,8 @@ $$
 \langle \hat{Q} \Psi \mid \Psi \rangle = \langle \Psi \mid \hat{Q} \Psi \rangle
 $$
 
-A Hermitian operator always has real eigenvalues.
+1. A Hermitian operator has real eigenvalues only.
+2. Eigenvectors for a Hermitian operator coming from different eigenvalues are orthogonal.
 
 For any Hermitian operator $Q$, the eigenstates of $Q$ are the unique states with
 
