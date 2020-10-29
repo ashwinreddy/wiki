@@ -26,32 +26,20 @@ On its own, the \ref{eq:schro} is a hard one to solve. We shall make two simplif
 1. Pretend $V(x,t)$ has no dependence on time. 
 2. Suppose we were to attempt separation of variables, i.e. the solution we guess is $\Psi(x, t) = \psi(x) \varphi(t)$
 
-If we then plug this in,
-
-$$
-\iota\hbar\cdot \psi(x) \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\dd{}^2 \psi}{\dd{} x^2} + V(x)\psi(x)\varphi(t)
-$$
-
-Then we can just divide by the wave function.
-
-$$
-i\hbar \frac{1}{\varphi} \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \frac{1}{\psi} \frac{\dd{}^2 \psi}{\dd{}x^2 } + V(x)
-$$
-
-This means that they must equal a constant $E$. You could vary over time the left side of the equation and get different values which all equal some constant on the other side. You could vary over space the right side of the equation and get different values which all equal some constant on the left side.
-
-So we bifurcate into two ordinary differential equations.
+Then, we can actually find solutions for the equation. We find that 
 
 \begin{equation}
 \label{eq:time}
 \dv{\varphi}{t} = -\frac{\iota E}{\hbar} \varphi
 \end{equation}
 
-Of course, the solution to Equation \ref{eq:time} is easy to find through inspection.
+
+The solution to Equation \ref{eq:time} is easy to find through inspection.
 
 $$
 \varphi(t) = e^{-\iota E t / \hbar}
 $$
+
 
 \begin{equation}
 \label{eq:tise}
@@ -70,10 +58,30 @@ $$
 \Psi(x, t) = \psi(x) e^{-\iota E t / \hbar}
 $$
 
+
 This is nice because
 
 * The solution has stationary states. The probability density of finding a particle at a place does not depend on time. More generally, these stationary states will have all physical observables independent of time.
 * We know exactly what the total energy (kinetic + potential) is for these states.
+
+## Derivation
+
+If we then plug this in,
+
+$$
+\iota\hbar\cdot \psi(x) \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\dd{}^2 \psi}{\dd{} x^2} + V(x)\psi(x)\varphi(t)
+$$
+
+Then we can just divide by the wave function.
+
+$$
+i\hbar \frac{1}{\varphi} \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \frac{1}{\psi} \frac{\dd{}^2 \psi}{\dd{}x^2 } + V(x)
+$$
+
+This means that they must equal a constant $E$. You could vary over time the left side of the equation and get different values which all equal some constant on the other side. You could vary over space the right side of the equation and get different values which all equal some constant on the left side.
+
+So we bifurcate into the two ordinary differential equations.
+
 
 
 # Normalized Closure
