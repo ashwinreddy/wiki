@@ -1,7 +1,15 @@
 A **Hermitian operator** is a self-adjoint operator, one that is its own [[Hermitian adjoint]].
 
-In quantum mechanics, we think of a Hermitian operator $Q$ as one for which any $\mid \Psi \rangle$,
+# Quantum Mechanics
+
+Hermitian operators are important in quantum mechanics. In quantum mechanics, we think of a Hermitian operator $Q$ as one for which any $\mid \Psi \rangle$,
 
 $$
 \langle \hat{Q} \Psi \mid \Psi \rangle = \langle \Psi \mid \hat{Q} \Psi \rangle
+$$
+
+For any Hermitian operator $Q$, the eigenstates of $Q$ are the unique states with
+
+$$
+Q \mid \Psi \rangle = q \mid \Psi \rangle \iff \sigma_Q = 0 .
 $$
