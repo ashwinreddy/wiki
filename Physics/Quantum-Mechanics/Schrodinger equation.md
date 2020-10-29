@@ -13,9 +13,6 @@ where $\Psi(x,t)$ is the [[wave function]]. Expanding the [[Hamiltonian]],
 \iota \hbar \pdv{}{t} \Psi(x, t) = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x, t) \Psi(x,t)
 \end{equation}
 
-Here, .
-
-
 $$
 \pdv{\Psi}{t}  = \frac{\iota\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{\iota}{\hbar} V(x, t) \Psi
 $$
