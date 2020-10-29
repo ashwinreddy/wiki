@@ -28,3 +28,4 @@ Depending on the order in which you multiply the operators, you get the followin
 \hat{a}\_{\mp}\hat{a}\_{\pm} = \frac{1}{\hbar\omega}\hat{H} \pm \frac{1}{2}
 \end{gather}
 
+Then, if $\psi$ is an eigenstate with energy $E$, $\hat{a}_+ \psi$ has energy $E + \hbar\omega$.
