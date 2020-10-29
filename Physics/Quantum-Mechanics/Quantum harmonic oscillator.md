@@ -47,5 +47,5 @@ $$
 In addition,
 
 $$
-\hat{a}\_+ \psi_n = \sqrt{n+1}\psi_{n+1},\qquad \hat{a}_{-} \psi_n = \sqrt{n} \psi_{n-1}
+\hat{a}\_+ \psi_n = \sqrt{n+1}\psi_{n+1},\qquad \hat{a}\_{-} \psi_n = \sqrt{n} \psi_{n-1}
 $$
