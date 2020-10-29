@@ -9,3 +9,9 @@ The solution is more easily exposed in the form
 $$
 \frac{\dd{}^2 \psi}{\dd{x^2}} = -k^2 \psi,\qquad k = \frac{\sqrt{2mE}}{\hbar}
 $$
+
+We have
+
+$$
+\psi(x) = Ae^{\iota kx} + B e^{-\iota kx}
+$$
