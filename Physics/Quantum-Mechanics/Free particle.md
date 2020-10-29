@@ -21,3 +21,9 @@ Notice then that
 $$
 \Psi(x,t) = Ae^{\iota k \left(x - \frac{\hbar k}{2m}t\right)} + B e^{-\iota k\left(x + \frac{\hbar k}{2m}t\right)}
 $$
+
+We could further compact this by letting $k$ be a continuous index.
+
+$$
+\Psi_k (x,t) = A_k e^{\iota k \left(x-\frac{\hbar k}{2m}t\right)}
+$$
