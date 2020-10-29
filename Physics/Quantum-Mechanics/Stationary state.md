@@ -4,7 +4,11 @@ $$
 \widehat{H} \psi = E\psi
 $$
 
-Why is the stationary state nice and/or useful? Because nothing ever _happens_ in a stationary state. The wave function $\Psi(x, t)=\psi(x)\varphi(t)$ depends on time, but the probability density $\rho(x,t) = |\Psi(x,t)|^2 = |\psi(x)|^2$ does not.
+Why is the stationary state nice and/or useful? 
+
+1. Because nothing ever _happens_ in a stationary state. The wave function $\Psi(x, t)=\psi(x)\varphi(t)$ depends on time, but the probability density $\rho(x,t) = |\Psi(x,t)|^2 = |\psi(x)|^2$ does not.
+2. Thus, any expected value will be constant in time.
+3. A stationary state has definite total energy: $\sigma_H^2 = 0$.
 
 [[_TOC_]]
 
