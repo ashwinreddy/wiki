@@ -2,7 +2,7 @@ The **Schrodinger equation** is a linear partial differential equation, which in
 
 \begin{equation}
 \label{eq:schro}
-\iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi
+\iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi \tag{Schrodinger Equation}
 \end{equation}
 
 \begin{equation}
