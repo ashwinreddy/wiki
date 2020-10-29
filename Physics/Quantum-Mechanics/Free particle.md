@@ -35,3 +35,9 @@ Here's the problem: this $\Psi_k$ is not normalizable! So the general solution i
 $$
 \phi(k) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty \Psi(x, 0) e^{-\iota kx} \dd{x}
 $$
+
+2. The solution is given by
+
+$$
+\Psi(x,t) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty \dd{k} \cdot \phi(k) \exp(\iota \left(kx - \frac{\hbar k^2}{2m}t \right) )
+$$
