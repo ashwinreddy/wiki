@@ -1,7 +1,7 @@
 The **uncertainty principle** says that for distinct observables $A$ and $B$,
 
 $$
-\sigma_A^2 \sigma_B^2 \geq \left(\frac{1}{2\iota} \langle \left[A,B\right] \range\right)^2
+\sigma_A^2 \sigma_B^2 \geq \left(\frac{1}{2\iota} \langle \left[A,B\right] \rangle\right)^2
 $$
 
 
