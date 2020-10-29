@@ -39,5 +39,5 @@ $$
 2. The solution is given by
 
 $$
-\Psi(x,t) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty \dd{k} \cdot \phi(k) \exp(\iota \left(kx - \frac{\hbar k^2}{2m}t \right) )
+\Psi(x,t) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^\infty \dd{k} \cdot \phi(k) \exp\left(\iota \left(kx - \frac{\hbar k^2}{2m}t \right) \right)
 $$
