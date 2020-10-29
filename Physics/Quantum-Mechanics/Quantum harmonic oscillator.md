@@ -16,30 +16,14 @@ Using more suggestive operator notation,
 \frac{1}{2m}\left[ \hat{p}^2 + \left(m\omega \hat{x} \right)^2 \right]\psi = E\psi
 \end{equation}
 
-How do we solve this? One approach is to use ladder operators. We define
+How do we solve this? One approach is to use ladder operators. We define operators
 
 $$
 \hat{a}_{\pm} = \frac{1}{\sqrt{2\hbar m\omega}}\left( \mp \iota \hat{p} + m\omega\hat{x} \right)
 $$
 
-Then,
+It turns out that
 
 $$
-\hat{a}\_{-}\hat{a}_+ = \frac{1}{2\hbar m \omega}\left(\iota\hat{p} +m\omega\hat{x}\right)\left(-\iota\hat{p} +m\omega\hat{x}\right) = \frac{\hat{H}}{\hbar\omega} - \iota m\omega\left(\hat{x}\hat{p} - \hat{p}\hat{x}\right)\cdot\frac{1}{2\hbar m\omega}
-$$
-
-$$
-[\hat{a}\_{-}, \hat{a}_{+}] = 1
-$$
-
-So we have
-
-$$
-\hat{H} \psi = E\psi \iff \hbar\omega\left( \hat{a}_{+}\hat{a}\_{-} + \frac{1}{2} \right)\psi = E\psi
-$$
-
-The commutator is
-
-$$
-[\hat{x}, \hat{p}] = i\hbar
+\hat{a}_{-}\hat{a}_{+} = \frac{1}{\hbar\omega}\hat{H} + \frac{1}{2}
 $$
