@@ -27,7 +27,7 @@ The time independent Schrodinger equation eliminates dependence on time, but mak
 
 \begin{equation}
 \label{eq:tise}
-\hat{H} \psi = E \psi \iff \boxed{-\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi} \tag{T.I.S.E.}
+\boxed{\hat{H} \psi = E \psi \iff -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi} \tag{T.I.S.E.}
 \end{equation}
 
 On the other hand,
