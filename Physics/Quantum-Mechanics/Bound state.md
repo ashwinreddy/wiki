@@ -1,1 +1,1 @@
-A **bound state** is formally one that is normalizable. Physically, it corresponds to the situation that a particle goes back and forth in a potential well.
+A **bound state** is where the potential $V(x)$ exceeds a particle's total energy $E$ on either side so that it cannot escape (hence, bound). The  particle can only go back and forth in a potential well. Formally, a bound state is one that is not normalizable.
