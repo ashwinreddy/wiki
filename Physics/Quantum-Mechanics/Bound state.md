@@ -1,1 +1,1 @@
-A **bound state**. The [[particle in a box]] and harmonic oscillator admit bound states only. The [[free particle]] allows only scattering states.
+A **bound state** is formally one that is normalizable. Physically, it corresponds to the situation that a particle goes back and forth in a potential well.
