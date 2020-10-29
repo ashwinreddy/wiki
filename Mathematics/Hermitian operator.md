@@ -14,4 +14,4 @@ $$
 Q | \Psi \rangle = q | \Psi \rangle \iff \sigma_Q = 0 .
 $$
 
-Thus, [[stationary state]]
+Thus, [[stationary states|stationary state]] are ones with definite energy.
