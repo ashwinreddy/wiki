@@ -4,7 +4,7 @@ The Schrodinger equation in its one-dimensional non-relativistic form compactly 
 
 \begin{equation}
 \label{eq:schro}
-\iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi, \tag{Schrodinger Equation}
+\iota\hbar \pdv{}{t} \Psi = \widehat{H} \Psi, \tag{Schrodinger Equation}
 \end{equation}
 
 where $\Psi(x,t)$ is the [[wave function]]. Expanding the [[Hamiltonian]],
