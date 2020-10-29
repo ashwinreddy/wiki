@@ -21,12 +21,13 @@ $$
 
 # Time Independent Schrodinger Equation
 
-The time independent Schrodinger equation eliminates dependence on time, but makes some key assumptions. It assumes that the potential $V$ has no dependence on time and that the solution has the form $\Psi(x, t) = \psi(x) \varphi(t)$. But, given that, we can say that $\psi(x)$ must obey
+The time independent Schrodinger equation eliminates dependence on time, but makes some key assumptions. It assumes that the potential $V$ has no dependence on time and that the solution has the form $\Psi(x, t) = \psi(x) \varphi(t)$. But, given that, we can say that $\psi(x)$ must obey an [[eigenpairs]] equation with the [[Hamiltonian]],:
+
 
 
 \begin{equation}
 \label{eq:tise}
-\boxed{-\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi} \tag{T.I.S.E.}
+\hat{H} \psi = E \psi \iff \boxed{-\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi} \tag{T.I.S.E.}
 \end{equation}
 
 On the other hand,
@@ -45,11 +46,7 @@ $$
 
 
 
-If we turn to the [[Hamiltonian]], we get a nice [[eigenpairs]] equation:
 
-$$
-\hat{H} \psi = E \psi
-$$
 
 We can then attempt to solve \ref{eq:tise} to find the appropriate $\psi(x)$, and then we have
 
