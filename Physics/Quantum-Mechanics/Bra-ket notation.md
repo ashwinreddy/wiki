@@ -1,1 +1,1 @@
-The **bra-ket notation**. Here, a [[vector]] is called a **ket** $\mid a \rangle \equiv \vec{a}$. A **bra** is written as $\langle a \mid$.
+The **bra-ket notation** is a notation used in quantum mechanics. Here, a [[vector]] is called a **ket** $\mid a \rangle \equiv \vec{a}$. A **bra** is written as $\langle a \mid$.
