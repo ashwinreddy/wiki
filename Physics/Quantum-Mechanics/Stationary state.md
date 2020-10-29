@@ -1,4 +1,4 @@
-A **stationary state** is a special kind of [[quantum state]] that is useful in solving the time-dependent [[Schrodinger equation]]. In particular, a stationary state $\psi$ is an [[eigenstate|eigenpairs]] of the [[Hamiltonian]]:
+A **stationary state** is a special kind of [[quantum state]] that is useful in solving the time-dependent [[Schrodinger equation]]. In particular, a stationary state's space dependent term $\psi(x)$ is an [[eigenstate|eigenpairs]] of the [[Hamiltonian]]:
 
 $$
 \widehat{H} \psi = E\psi
