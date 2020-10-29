@@ -1,6 +1,7 @@
 The **Schrodinger equation** is a linear partial differential equation, which in its one-dimensional non-relativistic form looks like
 
 \begin{equation}
+\label{eq:schro}
 \iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi
 \end{equation}
 
