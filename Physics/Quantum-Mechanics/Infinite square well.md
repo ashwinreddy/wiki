@@ -4,6 +4,8 @@ $$
 V(x) = \begin{cases} 0 & 0 \leq x \leq a \\\\ \infty & \text{otherwise} \end{cases}
 $$
 
+# Solution
+
 Fortunately, we can solve the infinite square well. Outside the well, $\psi(x) = 0$. Inside the well, $V=0$ and the [[time independent Schrodinger equation|Schrodinger equation#time-independent-schrodinger-equation]] says
 
 $$
