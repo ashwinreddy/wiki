@@ -37,3 +37,5 @@ $$
 $$
 \psi_0(x) = \left(\frac{m\omega}{\pi\hbar}\right)^{1/4} \exp\left(-\frac{m\omega}{2\hbar}x^2\right)
 $$
+
+and it has energy $E_0 = \frac{1}{2}\hbar\omega$.
