@@ -4,7 +4,7 @@ $$
 \widehat{H} \psi = E\psi
 $$
 
-Why is the stationary state nice and/or useful?
+Why is the stationary state nice and/or useful? Because nothing ever _happens_ in a stationary state. The wave function $\Psi(x, t)=\psi(x)\varphi(t)$ depends on time, but the probability density $\rho(x,t) = |\Psi(x,t)|^2 = |\psi(x)|^2$ does not.
 
 [[_TOC_]]
 
