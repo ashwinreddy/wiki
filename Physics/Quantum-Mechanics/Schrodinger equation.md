@@ -28,20 +28,21 @@ The time independent Schrodinger equation eliminates dependence on time but make
 \Psi(x, t) = \psi(x) \varphi(t). \tag{Separable Ansatz}
 \end{equation}
 
-But given that, we know $\psi(x)$ must be an [[eigenstate|eigenpairs]] of the [[Hamiltonian]]:
+Then, the following must be true:
+
+1. $\psi(x)$ must be an [[eigenstate|eigenpairs]] of the [[Hamiltonian]]:
 
 \begin{equation}
 \label{eq:tise}
 \boxed{\hat{H} \psi = E \psi \iff -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi} \tag{T.I.S.E.}
 \end{equation}
 
-On the other hand,
+2. The time-dependent term $\varphi(t)$ evolves like
 
 \begin{equation}
 \label{eq:time}
 \dv{\varphi}{t} = -\frac{\iota E}{\hbar} \varphi
 \end{equation}
-
 
 The solution to Equation \ref{eq:time} is easy to find through inspection.
 
