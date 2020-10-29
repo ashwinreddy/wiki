@@ -1,7 +1,7 @@
 The **quantum harmonic oscillator** is the quantum mechanical analog of the [[harmonic oscillator]] from classical mechanics. Specifically, we consider 
 
 $$
-V(x) = \frac{1}{2}kx^2 = \frac{1}{2}m\omega^2x^2
+V(x) = \frac{1}{2}kx^2 = \frac{1}{2}m\omega^2 x^2
 $$
 
 
