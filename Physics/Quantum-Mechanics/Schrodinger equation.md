@@ -21,7 +21,7 @@ $$
 
 # Time Independent Schrodinger Equation
 
-The time independent Schrodinger equation eliminates dependence on time, but makes some key assumptions. It assumes that the potential $V$ has no dependence on time and that the solution has the form $\Psi(x, t) = \psi(x) \varphi(t)$. But, given that, we can say that $\psi(x)$ must obey an [[eigenpairs]] equation with the [[Hamiltonian]],:
+The time independent Schrodinger equation eliminates dependence on time, but makes some key assumptions. It assumes that the potential $V$ has no dependence on time and that the solution has the form $\Psi(x, t) = \psi(x) \varphi(t)$. But, given that, we can say that $\psi(x)$ must be an [[eigenstate|eigenpairs]] of the [[Hamiltonian]],:
 
 
 
