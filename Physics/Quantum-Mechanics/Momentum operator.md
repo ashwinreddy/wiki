@@ -30,6 +30,12 @@ $$
 \langle f_{p'} \mid f_p \rangle = \delta(p - p' )
 $$
 
+They are even complete in the sense that we can write 
+
+$$
+\psi(x) = \frac{1}{\sqrt{2\pi\hbar}} \int_{-\infty}^\infty c(p) e^{\iota px / \hbar} \dd{p}
+$$
+
 # Composite Operators
 
 $$
