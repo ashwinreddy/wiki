@@ -111,3 +111,10 @@ The Schrodinger equation returns normalized distributions if given normalized di
 \end{align}
 
 The last step is because the wave function must be 0 at $\pm\infty$ for normalizability to make sense.
+
+# Examples
+
+* [[Infinite square well]]
+* [[Quantum harmonic oscillator]]
+* [[Free particle]]
+* [[Finite square well]]
