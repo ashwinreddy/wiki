@@ -1,4 +1,4 @@
-The **time-independent Schrodinger equation** is a simplification of the [[Schrodinger equation]] that happens to be extremely useful in solving the original. In operator notation, it's just an [[eigenvalue|eigenpairs]] equation for the [[Hamiltonian]].
+The **time-independent Schrodinger equation (T.I.S.E.)** is a simplification of the [[Schrodinger equation]] that happens to be extremely useful in solving the original. In operator notation, it's just an [[eigenvalue|eigenpairs]] equation for the [[Hamiltonian]].
 
 \begin{equation}
 \label{eq:operator-tise}
@@ -10,3 +10,5 @@ In one dimension, it looks like
 \begin{equation}
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi
 \end{equation}
+
+A solution to the T.I.S.E. is called a [[stationary state]].
