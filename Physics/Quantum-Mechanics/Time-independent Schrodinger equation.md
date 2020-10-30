@@ -11,11 +11,10 @@ In one dimension, it looks like
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi
 \end{equation}
 
-A solution to the T.I.S.E. is called a [[stationary state]], an eigenstate of the Hamiltonian. 
-
+A solution to the T.I.S.E. is called a [[stationary state]], an eigenstate of the Hamiltonian.
 
 $$
-\Psi_n (x, t) = \psi_n (x) e^{-\iota E t / \hbar}
+\Psi_n (x, t) = \psi_n (x) e^{-\iota E_n t / \hbar}
 $$
 
 # Assumptions
