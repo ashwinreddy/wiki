@@ -4,7 +4,7 @@ $$
 \left[ \widehat{A}, \widehat{B} \right] \equiv \widehat{A}\widehat{B} - \widehat{B}\widehat{A}
 $$
 
-# Properties
+# Identities
 
 $$
 \left[\widehat{A}, \widehat{B}\widehat{C}\right]=\left[\widehat{A}, \widehat{B}\right]\widehat{C} + \widehat{B}\left[\widehat{A}, \widehat{C}\right]
