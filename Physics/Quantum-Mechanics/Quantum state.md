@@ -1,1 +1,1 @@
-A **quantum state** is a ray in [[Hilbert space]]
+A **quantum state** is a ray in [[Hilbert space]]. We can naturally represent it with a [[ket|bra-ket notation]] $| S(t) \rangle$ 
