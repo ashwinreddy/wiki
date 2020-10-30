@@ -12,7 +12,11 @@ $$
 
 # Spectrum
 
-The [[spectrum]] for the momentum operator
+The [[spectrum]] for the momentum operator would be functions $f_p(x)$ such that
+
+$$
+\frac{\hbar}{i} \dv{}{x}f_p(x) = p f_p (x)
+$$
 
 # Composite Operators
 
