@@ -27,7 +27,7 @@ Why are stationary states nice and/or useful?
 
 $$
 \begin{cases}
-\psi & \text{is always continuous} \\
+\psi & \text{is always continuous} \\\\
 \dv{\psi}{x} & \text{is continuous except at points where the potential is infinite}
 \end{cases}
 $$
