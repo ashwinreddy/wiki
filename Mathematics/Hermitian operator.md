@@ -4,7 +4,11 @@ A **Hermitian operator** is a self-adjoint operator, one that is its own [[Hermi
 A hermitian operator with discrete spectrum has real eigenvalues.
 </div>
 
-For a proof, see that $Q | f \rangle = q  | f \rangle$
+For a proof, suppose $\widehat{Q} | f \rangle = q  | f \rangle$. Then,
+
+$$
+\langle f \mid Q f \rangle = \langle Qf \mid f \rangle
+$$
 
 # Quantum Mechanics
 
