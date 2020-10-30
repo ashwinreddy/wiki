@@ -1,8 +1,10 @@
 A **Hermitian operator** is a self-adjoint operator, one that is its own [[Hermitian adjoint]].
 
-<div class="theorem">
-All odd numbers are prime.
+<div class="theorem" text='Real eigenvalues'>
+A hermitian operator with discrete spectrum has real eigenvalues.
 </div>
+
+For a proof, see that $Q | f \rangle = q  | f \rangle$
 
 # Quantum Mechanics
 
