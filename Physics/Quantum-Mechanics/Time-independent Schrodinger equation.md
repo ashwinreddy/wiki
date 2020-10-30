@@ -39,5 +39,13 @@ $$
 
 This means that they must equal a constant $E$. You could vary over time the left side of the equation and get different values which all equal some constant on the other side. You could vary over space the right side of the equation and get different values which all equal some constant on the left side.
 
-So we bifurcate into the two ordinary differential equations.
+So we bifurcate into two ordinary differential equations: the T.I.S.E. and the following:
+
+
+\begin{equation}
+\label{eq:time}
+\dv{\varphi}{t} = -\frac{\iota E}{\hbar} \varphi
+\end{equation}
+
+
 
