@@ -40,6 +40,12 @@ $$
 \Psi(x, 0) = \sum_{n=1}^\infty c_n \psi_n(x)
 $$
 
+We do this via
+
+$$
+c_n = \int \psi_n(x)^* f(x) \dd{x}
+$$
+
 ## Derivation
 
 More neatly,
