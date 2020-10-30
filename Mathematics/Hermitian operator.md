@@ -1,8 +1,8 @@
 A **Hermitian operator** is a self-adjoint operator, one that is its own [[Hermitian adjoint]].
 
-\begin{theorem}[Prime numbers]
-All odd numbers are prime
-\end{theorem}
+<div class="theorem" text='Prime numbers'>
+All odd numbers are prime.
+</div>
 
 # Quantum Mechanics
 
