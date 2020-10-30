@@ -16,7 +16,9 @@ $$
 \langle Q \rangle = \langle Q \rangle^*
 $$
 
-# Determinate state
+Observables participate in [[uncertainty principle]]
+
+# Determinate states
 
 A determinate state for an observable $Q$ is one that whenever you measure $Q$, you always get the same value.
 
