@@ -19,3 +19,11 @@ that it is not possible to know both the position and momentum of a particle exa
 \begin{equation}
 \boxed{\sigma_x \sigma_p \geq \frac{\hbar }{2}} \tag{Heisenberg Uncertainty}
 \end{equation}
+
+# Proof
+
+For an observable $A$, we note that
+
+$$
+\sigma_A^2 = \langle f \mid f \rangle, \qquad f \equiv \left( \widehat{A} - \langle A \rangle \right) \Psi
+$$
