@@ -43,7 +43,7 @@ $$
 We do this via
 
 $$
-c_n = \int \psi_n(x)^* f(x) \dd{x}
+c_n = \int_\RR \psi_n(x)^* f(x) \dd{x}
 $$
 
 ## Derivation
