@@ -4,7 +4,7 @@ A **stationary state** is a [[quantum state]] that solves the [[time-independent
 
 # Properties
 
-Why are stationary states nice and/or useful? 
+Why are stationary states nice and/or useful? Primarily because any solution to the TDSE can be formed as a linear combination from the TISE solutions.
 
 1. Because nothing ever _happens_ in a stationary state. The wave function $\Psi(x, t)=\psi(x)\varphi(t)$ depends on time, but the probability density does not:
 
