@@ -6,4 +6,5 @@ Normalized
 : A ket is normalized if $\langle a \mid a \rangle = 1$.
 
 Orthogonal
-: Kets are orthogonal if $\langle a \mid b \rangle = 0$.
+: Two kets $|a \rangle$ and $|b \rangle$ are orthogonal if $\langle a \mid b \rangle = 0$.
+
