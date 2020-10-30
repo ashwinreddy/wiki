@@ -17,6 +17,13 @@ $$
 \Psi_n (x, t) = \psi_n (x) e^{-\iota E_n t / \hbar}
 $$
 
+# Solutions
+
+|Discrete solutions|Continuous solutions|
+|------------------|--------------------|
+| [[Infinite square well]] | [[Free particle]] | 
+| [[Quantum harmonic oscillator]] || 
+
 # Assumptions
 
 1. The potential is time independent
