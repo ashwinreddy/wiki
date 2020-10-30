@@ -2,6 +2,13 @@ An **observable** in quantum mechanics is something we can measure for a particl
 
 > Observables are represented by [[Hermitian operator]].
 
+# Properties
+
+
+* 
+
+
+
 Consider the observable as an [[operator]] $Q(x, p)$, then
 
 $$
