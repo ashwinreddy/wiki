@@ -11,7 +11,7 @@ The uncertainty principle is only interesting when the observables do not commut
 Suppose we consider position and momentum. Then,
 
 $$
-\sigma_x^2 \sigma_p^2 \geq \left(\frac{1}{2\cancel{\iota}} \iota \hbar \right)^2
+\sigma_x^2 \sigma_p^2 \geq \left(\frac{1}{2\cancel{\iota}} \cancel{\iota} \hbar \right)^2
 $$
 
 
