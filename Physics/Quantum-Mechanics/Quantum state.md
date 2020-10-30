@@ -3,3 +3,9 @@ A **quantum state** is a ray in [[Hilbert space]]. We can naturally represent it
 $$
 \Psi(x, t) = \langle x \mid S(t) \rangle
 $$
+
+We could also work in momentum space if we wanted.
+
+$$
+\Phi(p, t) = \langle p \mid S(t) \rangle
+$$
