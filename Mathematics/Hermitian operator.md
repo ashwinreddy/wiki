@@ -6,9 +6,12 @@ A hermitian operator with discrete spectrum has real eigenvalues.
 
 For a proof, suppose $\widehat{Q} | f \rangle = q  | f \rangle$. Then,
 
-$$
-\langle f \mid Q f \rangle = \langle Qf \mid f \rangle
-$$
+\begin{gather}
+\langle f \mid \widehat{Q} f \rangle = \langle \widehat{Q}f \mid f \rangle \\\\\
+\langle f \mid qf \rangle  = \langle qf \mid f \rangle \\\\\
+q \langle f \mid f \rangle = q^* \langle f \mid f \rangle \\\\\
+q = q^*
+\end{gather}
 
 # Quantum Mechanics
 
