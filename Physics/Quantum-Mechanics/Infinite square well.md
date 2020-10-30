@@ -49,7 +49,7 @@ $$
 
 ## Derivation
 
-More neatly,
+More neatly, Equation \ref{eq:tise}
 
 $$
 \frac{\dd{}^2 \psi}{\dd{} x^2} = -k^2 \psi, \qquad k = \frac{\sqrt{2mE}}{\hbar}
