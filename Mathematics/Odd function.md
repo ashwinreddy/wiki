@@ -4,7 +4,13 @@ $$
 f(-x) = -f(x)
 $$
 
-The [[sine]] function is an example. So is $x^n$ for an odd [[integer]] $n$.
+
+# Examples
+
+* The [[sine]] function
+* $x^n$ for an odd [[integer]] $n$.
+
+# Properties
 
 $$
 \int_{-a}^a \mathsf{odd}(x) \dd{x} = 0
