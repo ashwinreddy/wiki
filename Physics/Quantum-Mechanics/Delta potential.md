@@ -16,4 +16,4 @@ $$
 \psi(x) = \begin{cases}B e^{\kappa x} & x \geq 0 \\\\ B e^{-\kappa x} & x \leq 0 \end{cases}
 $$
 
-We have both bound states and scattering states.
+Let us integrate the Schrodinger equation over the interval $[-\epsilon, +\epsilon]$.
