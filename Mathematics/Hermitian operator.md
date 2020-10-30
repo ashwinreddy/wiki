@@ -1,5 +1,9 @@
 A **Hermitian operator** is a self-adjoint operator, one that is its own [[Hermitian adjoint]].
 
+\begin{theorem}[Prime numbers]
+All odd numbers are prime
+\end{theorem}
+
 # Quantum Mechanics
 
 Hermitian operators are important in quantum mechanics. In quantum mechanics, we think of a Hermitian operator $Q$ as one for which any $\mid \Psi \rangle$,
