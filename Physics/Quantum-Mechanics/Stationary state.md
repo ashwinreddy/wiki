@@ -1,4 +1,4 @@
-A **stationary state** is a [[quantum state]] that solves the [[time-independent Schrodinger equation]]. 
+A **stationary state** is a [[quantum state]] that solves the [[time-independent Schrodinger equation]]. In other words, it is an eigenstate for the [[Hamiltonian]].
 
 [[_TOC_]]
 
