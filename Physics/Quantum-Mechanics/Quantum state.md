@@ -4,6 +4,8 @@ $$
 \Psi(x, t) = \langle x \mid S(t) \rangle
 $$
 
+where $| x \rangle$ is an eigenfunction of $\widehat{x}$ with eigenvalue $x$.
+
 We could also work in momentum space if we wanted.
 
 $$
