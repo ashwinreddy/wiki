@@ -2,7 +2,7 @@ The **time-independent Schrodinger equation** is a simplification of the [[Schro
 
 \begin{equation}
 \label{eq:operator-tise}
-\boxed{\widehat{H} \psi = E \psi} \tag{T.I.S.E.}
+\widehat{H} \psi = E \psi} \tag{T.I.S.E.
 \end{equation}
 
 \begin{equation}
