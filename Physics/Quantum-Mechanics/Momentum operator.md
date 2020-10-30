@@ -7,7 +7,7 @@
 In this way, 
 
 $$
-\langle p \rangle = \int \dd{x} \left[ \Psi^*(x)\left(-i\hbar \pdv{}{x} \right)\Psi(x) \right]
+\langle p \rangle = -i\hbar \int \dd{x} \left[ \Psi^*(x) \pdv{\Psi(x)}{x}  \right]
 $$
 
 Note the order matters because $$\Psi\^* \cdot \pdv{}{x} \Psi \neq \left(\pdv{}{x} \Psi\right)\cdot\Psi\^*$$.
