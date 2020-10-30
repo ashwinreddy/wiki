@@ -31,7 +31,7 @@ $$
 Therefore,
 
 $$
-\Psi_n(x, t) = \sqrt{\frac{2}{a}} \sin\left( \frac{n\pi}{a}x \right) e^{-\iota \left(n\^2\pi^2hbar^2 / 2ma^2\right)t}
+\Psi_n(x, t) = \sqrt{\frac{2}{a}} \sin\left( \frac{n\pi}{a}x \right) e^{-\iota \left(n\^2\pi^2\hbar^2 / 2ma^2\right)t}
 $$
 
 ## Derivation
