@@ -1,4 +1,8 @@
-The **free particle** is a particle under no influence of a potential, i.e $V(x) = 0$. Then, we obtain the following for the T.I.S.E $\hat{H} \psi = E\psi$:
+The **free particle** is a particle under no influence of a potential, i.e $V(x) = 0$. By the [[uncertainty principle]],
+
+> There is no such thing as a free particle with definite energy.
+
+Then, we obtain the following for the T.I.S.E $\hat{H} \psi = E\psi$:
 
 $$
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{x^2}} = E\psi
