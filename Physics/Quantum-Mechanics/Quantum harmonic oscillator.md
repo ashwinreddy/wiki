@@ -1,8 +1,8 @@
 The **quantum harmonic oscillator** is the quantum mechanical analog of the [[harmonic oscillator]] from classical mechanics. Specifically, we consider 
 
-$$
+\begin{equation}
 V(x) = \frac{1}{2}kx^2 = \frac{1}{2}m\omega^2 x^2
-$$
+\end{equation}
 
 We can then consider the [[T.I.S.E.|Schrodinger equation#time-independent-schrodinger-equation]]
 
