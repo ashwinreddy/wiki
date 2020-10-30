@@ -9,4 +9,4 @@ Orthogonal
 : Two kets $|a \rangle$ and $|b \rangle$ are orthogonal if $\langle a \mid b \rangle = 0$.
 
 Complete
-: A set of kets is complete if for any $| v \rangle \in \mathscr{H}$
+: A set of kets is complete if for any $| v \rangle \in \mathscr{H}$, we have $c_n \in \mathbb{C}$ such that $| v \rangle = \sum_{n=1} c_n | a_n \rangle$
