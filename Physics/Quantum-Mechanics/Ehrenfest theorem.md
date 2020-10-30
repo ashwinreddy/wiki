@@ -8,3 +8,4 @@ The **Ehrenfest theorem** tells us that the expectation values seem to obey some
 \begin{equation}
 \dv{}{t} \langle Q \rangle = \frac{\iota}{\hbar} \left\langle\left[\widehat{H}, \widehat{Q}\right] \right\rangle + \left\langle \pdv{\widehat{Q}}{t} \right\rangle
 \end{equation}
+
