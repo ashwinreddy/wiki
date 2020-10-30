@@ -24,7 +24,7 @@ $$
 f_p(x) = A_p e^{\iota px / \hbar}
 $$
 
-Note that $f_p(x)$ is not a [[square-integrable function]].
+Note that $f_p(x)$ is not a [[square integrable function]].
 
 # Composite Operators
 
