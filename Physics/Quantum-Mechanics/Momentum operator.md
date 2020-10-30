@@ -10,8 +10,6 @@ $$
 \langle p \rangle = -i\hbar \int_\RR \dd{x} \left[ \Psi^*(x) \pdv{\Psi(x)}{x}  \right]
 $$
 
-Note the order matters because $$\Psi\^* \pdv{\Psi}{x}  \neq \pdv{\Psi}{x}\Psi\^*$$.
-
 # Composite Operators
 
 $$
