@@ -17,3 +17,7 @@ $$
 $$
 
 Let us integrate the Schrodinger equation over the interval $[-\epsilon, +\epsilon]$.
+
+$$
+\Delta \left( \dv{\psi}{x} \right) = -\frac{2m\alpha}{\hbar^2}\psi(0)
+$$
