@@ -1,8 +1,5 @@
 The **Born rule**.
 
-The probability that a system initially in state $\psi$ will take on for an [[observable]] $A$ the eigenvalue $a_i$ is given by $|\langle a_i \mid \psi\rangle|^2$
-
-
 
 It says that for a [[wave function]] $\Psi(x, t)$, the squared magnitude of the wave function
 
