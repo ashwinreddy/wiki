@@ -19,7 +19,3 @@ $$
 A determinate state for an observable $Q$ is one that whenever you measure $Q$, you always get the same value.
 
 > Determinate states of $Q$ are eigenfunctions of $\hat{Q}$.
-
-# Examples
-
-Consider the momentum operator $\widehat{p}$
