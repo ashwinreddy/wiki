@@ -4,13 +4,18 @@ $$
 \widehat{H} \psi = E\psi
 $$
 
+[[_TOC_]]
+
+# Properties
+
+
 Why is the stationary state nice and/or useful? 
 
 1. Because nothing ever _happens_ in a stationary state. The wave function $\Psi(x, t)=\psi(x)\varphi(t)$ depends on time, but the probability density $\rho(x,t) = |\psi(x)|^2$ does not.
 2. Thus, any expected value will be constant in time.
 3. A stationary state has definite total energy: $\sigma_H^2 = 0$.
 
-[[_TOC_]]
+---
 
 
 
@@ -57,14 +62,3 @@ Then, $\langle x \rangle$ is a constant, and the expected momentum $\langle p \r
 
 Thus, we have $\sigma^2_E = 0$, so $E$ is the only possible energy the state can have ([[Dirac delta function]]).
 
-# Properties
-
-* Any and all observables from a stationary state are independent of time. 
-* The stationary states are orthonormal and complete
-
-$$
-\langle \psi_m \mid \psi_n \rangle = \int \dd{x} \cdot \psi_m^* \psi_n = \delta_{mn} = \begin{cases}1 & m = n \\\\\ 0 & m \neq n\end{cases}
-$$
-
-Complete
-: Any function that satisfies the boundary conditions can be written as a linear combination of the $\psi_n$'s.
