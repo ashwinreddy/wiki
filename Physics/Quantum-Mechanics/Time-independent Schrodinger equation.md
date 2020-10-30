@@ -47,5 +47,8 @@ So we bifurcate into two ordinary differential equations: the T.I.S.E. and the f
 \dv{\varphi}{t} = -\frac{\iota E}{\hbar} \varphi
 \end{equation}
 
+The solution to which is easy to find through inspection.
 
-
+$$
+\varphi(t) = e^{-\iota E t / \hbar}
+$$
