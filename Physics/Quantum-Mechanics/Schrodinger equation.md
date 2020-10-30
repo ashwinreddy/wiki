@@ -1,11 +1,11 @@
-The **Schrodinger equation** describes how a [[wave function]] must evolve over time. In its one-dimensional non-relativistic form, it says
+The **Schrodinger equation** describes how a [[wave function]] $\Psi$ must evolve over time. In its one-dimensional non-relativistic form, it says
 
 \begin{equation}
 \label{eq:schro}
 \iota\hbar \pdv{}{t} \Psi = \widehat{H} \Psi, \tag{Schrodinger Equation}
 \end{equation}
 
-where $\Psi(x,t)$ is the [[wave function]]. Expanding the [[Hamiltonian]],
+If we want to expand the [[Hamiltonian]],
 
 \begin{equation}
 \iota \hbar \pdv{}{t} \Psi(x, t) = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x, t) \Psi(x,t)
