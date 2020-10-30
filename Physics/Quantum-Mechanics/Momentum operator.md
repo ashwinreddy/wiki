@@ -21,7 +21,7 @@ $$
 By inspection,
 
 $$
-f_p(x) = Ae^{\iota px / \hbar}
+f_p(x) = A_p e^{\iota px / \hbar}
 $$
 
 # Composite Operators
