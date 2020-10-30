@@ -1,0 +1,1 @@
+The **time-independent Schrodinger equation** is a simplification of the [[Schrodinger equation]] that happens to be extremely useful in solving the original.
