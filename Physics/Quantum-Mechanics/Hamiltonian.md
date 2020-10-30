@@ -16,9 +16,13 @@ $$
 \Psi(x,t) = \sum_{n=1}^\infty c_n \Psi_n(x,t)
 $$
 
+Here, it must be the case that
+
 $$
 \sum_{n=1}^\infty |c_n|^2 = 1
 $$
+
+It turns out that the energy is some weighted combination of the stationary state energies $E_n$
 
 $$
 \langle H \rangle = \sum |c_n|^2 E_n
