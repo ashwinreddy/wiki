@@ -1,6 +1,6 @@
 A **Hermitian operator** is a self-adjoint operator, one that is its own [[Hermitian adjoint]].
 
-<div class="theorem" text=''>
+<div class="theorem">
 All odd numbers are prime.
 </div>
 
