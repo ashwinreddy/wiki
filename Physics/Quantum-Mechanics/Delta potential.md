@@ -10,7 +10,7 @@ $$
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{x^2}} - \alpha \delta (x) \psi = E\psi
 $$
 
-When $x \neq 0$, we have $\delta(x) = 0$ and stitching the solutions together using [[stationary state#boundary conditions]],
+When $x \neq 0$, we have $\delta(x) = 0$ and stitching the solutions together using [[boundary conditions|stationary state#boundary conditions]],
 
 $$
 \psi(x) = \begin{cases}B e^{\kappa x} & x \geq 0 \\\\ B e^{-\kappa x} & x \leq 0 \end{cases}
