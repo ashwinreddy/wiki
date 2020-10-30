@@ -25,7 +25,7 @@ A solution to the T.I.S.E. is called a [[stationary state]], an eigenstate of th
 
 # Derivation
 
-If we use \ref{eq:ansatz},
+If we plug \ref{eq:ansatz} into the Schrodinger equation,
 
 $$
 \iota\hbar\cdot \psi(x) \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\dd{}^2 \psi}{\dd{} x^2} + V(x)\psi(x)\varphi(t)
