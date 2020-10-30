@@ -1,6 +1,8 @@
-The **free particle** is a particle under no influence of a potential, i.e $V(x) = 0$. By the [[uncertainty principle]],
+The **free particle** is a particle under no influence of a potential, i.e $V(x) = 0$. 
 
 > There is no such thing as a free particle with definite energy.
+
+This statement is intuitive given the [[uncertainty principle]].
 
 Then, we obtain the following for the T.I.S.E $\hat{H} \psi = E\psi$:
 
