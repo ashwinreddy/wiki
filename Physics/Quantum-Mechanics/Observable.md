@@ -4,11 +4,6 @@ An **observable** in quantum mechanics is something we can measure for a particl
 
 # Properties
 
-
-* 
-
-
-
 Consider the observable as an [[operator]] $Q(x, p)$, then
 
 $$
