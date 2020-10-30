@@ -43,7 +43,7 @@ $$
 We do this via
 
 $$
-c_n = \int_\RR \psi_n(x)^* \Psi(x, 0) \dd{x}
+c_n = \langle \psi_n(x) \mid \Psi(x, 0) \rangle = \int_\RR \psi_n(x)^* \Psi(x, 0) \dd{x}
 $$
 
 ## Derivation
