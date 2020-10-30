@@ -13,7 +13,9 @@ Fortunately, we can solve the infinite square well. Outside the well, $\psi(x) =
 \begin{gather}
 \label{eq:tise}
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} = E \psi \\\\
+\label{eq:boundary0}
 \psi(0) = 0 \\\\
+\label{eq:boundaryA}
 \psi(a) = 0,
 \end{gather}
 
@@ -60,6 +62,8 @@ This equation is exactly what we have for the [[simple harmonic motion]], and in
 $$
 \psi(x) = A\sin(kx) + B\cos(kx)
 $$
+
+Enforcing Equations \ref{eq:boundary0} and \ref{eq:boundaryA}
 
 Then, the allowed energies are
 
