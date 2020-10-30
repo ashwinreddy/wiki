@@ -10,7 +10,7 @@ $$
 \hat{T} = \frac{\hat{p}^2}{2m} = -\frac{\hbar^2}{2m}\frac{\partial ^2 }{\partial x^2}
 $$
 
-Since any general wave function is a linear combination of the stationary states $\\{\Psi_n\\}$, we could have
+Since any general wave function is a linear combination of the stationary states $\Psi_n$, we could have
 
 $$
 \Psi(x,t) = \sum_{n=1}^\infty c_n \Psi_n(x,t)
