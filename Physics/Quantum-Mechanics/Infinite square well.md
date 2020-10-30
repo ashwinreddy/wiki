@@ -28,10 +28,16 @@ $$
 E_n = \frac{n^2 \pi^2 \hbar\^2}{2ma^2}.
 $$
 
-Therefore,
+Therefore, the stationary state evolves over time like
 
 $$
 \Psi_n(x, t) = \sqrt{\frac{2}{a}} \sin\left( \frac{n\pi}{a}x \right) e^{-\iota \left(n\^2\pi\^2\hbar^2 / 2ma^2\right)t}
+$$
+
+Given an initial condition $\Psi(x, 0)$, we then try to find coefficients $c_n$ such that
+
+$$
+\Psi(x, 0) = \sum_{n=1}^\infty c_n \psi_n(x)
 $$
 
 ## Derivation
