@@ -31,5 +31,5 @@ $$
 Therefore,
 
 $$
-\sigma_A^2 \sigma_B^2 = \langle f \mid f \rangle \langle g \mid g \rangle
+\sigma_A^2 \sigma_B^2 = \langle f \mid f \rangle \langle g \mid g \rangle \geq | \langle f \mid g \rangle |^2
 $$
