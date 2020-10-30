@@ -5,6 +5,8 @@ The **time-independent Schrodinger equation** is a simplification of the [[Schro
 \widehat{H} \psi = E \psi \tag{T.I.S.E.}
 \end{equation}
 
+In one dimension, it looks like
+
 \begin{equation}
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{} x^2} + V\psi = E \psi
 \end{equation}
