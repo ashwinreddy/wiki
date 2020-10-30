@@ -8,3 +8,5 @@ Normalized
 Orthogonal
 : Two kets $|a \rangle$ and $|b \rangle$ are orthogonal if $\langle a \mid b \rangle = 0$.
 
+Complete
+: A set of kets is complete if for any $| v \rangle \in \mathscr{H}$
