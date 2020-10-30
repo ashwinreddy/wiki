@@ -1,4 +1,4 @@
-The **time-independent Schrodinger equation** is a simplification of the [[Schrodinger equation]] that happens to be extremely useful in solving the original. In operator notation,
+The **time-independent Schrodinger equation** is a simplification of the [[Schrodinger equation]] that happens to be extremely useful in solving the original. In operator notation, it's just an [[eigenvalue|eigenpair]] equation for the [[Hamiltonian]]
 
 \begin{equation}
 \label{eq:operator-tise}
