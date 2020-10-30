@@ -22,3 +22,22 @@ A solution to the T.I.S.E. is called a [[stationary state]], an eigenstate of th
 \label{eq:ansatz}
 \Psi(x, t) = \psi(x) \varphi(t). \tag{Separable Ansatz}
 \end{equation}
+
+# Derivation
+
+If we use \ref{eq:ansatz},
+
+$$
+\iota\hbar\cdot \psi(x) \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \varphi(t) \frac{\dd{}^2 \psi}{\dd{} x^2} + V(x)\psi(x)\varphi(t)
+$$
+
+Then we can just divide by the wave function.
+
+$$
+i\hbar \frac{1}{\varphi} \dv{\varphi}{t} = -\frac{\hbar^2}{2m} \frac{1}{\psi} \frac{\dd{}^2 \psi}{\dd{}x^2 } + V(x)
+$$
+
+This means that they must equal a constant $E$. You could vary over time the left side of the equation and get different values which all equal some constant on the other side. You could vary over space the right side of the equation and get different values which all equal some constant on the left side.
+
+So we bifurcate into the two ordinary differential equations.
+
