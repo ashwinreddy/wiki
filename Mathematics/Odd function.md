@@ -13,5 +13,5 @@ $$
 # Properties
 
 $$
-\int_{-a}^a f(x) \dd{x} = 0
+\int_{-a}^a f(x) \\, \dd{x} = 0
 $$
