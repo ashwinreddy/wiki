@@ -21,3 +21,4 @@ Why are stationary states nice and/or useful?
 
 2. Thus, any expected value will be constant in time.
 3. A stationary state has definite total energy: $\sigma_H^2 = 0$.
+4. Every normalizable stationary state has $E > \min V(x)$.
