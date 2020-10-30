@@ -24,7 +24,11 @@ $$
 f_p(x) = A_p e^{\iota px / \hbar}
 $$
 
-Note that $f_p(x)$ is not a [[square-integrable function]].
+Note that $f_p(x)$ is not a [[square-integrable function]]. However, the $f_p$'s are pseudo-orthonormal in that
+
+$$
+\langle f_{p'} \mid f_p \rangle = \delta(p - p' )
+$$
 
 # Composite Operators
 
