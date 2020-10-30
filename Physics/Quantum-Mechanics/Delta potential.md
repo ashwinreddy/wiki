@@ -22,6 +22,12 @@ $$
 \Delta \left( \dv{\psi}{x} \right) = -\frac{2m\alpha}{\hbar^2}\psi(0)
 $$
 
+# Bound state
+
 $$
 \psi(x) = \frac{\sqrt{m\alpha}}{\hbar} e^{-m\alpha |x| / \hbar^2}, \qquad E = -\frac{m\alpha\^2}{2\hbar^2} \tag{Bound state}
 $$
+
+# Scattering state
+
+The higher the energy, the greater the probability of transmission.
