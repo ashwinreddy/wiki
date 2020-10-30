@@ -10,6 +10,10 @@ $$
 \langle p \rangle = -i\hbar \int_\RR \dd{x} \left[ \Psi^*(x) \pdv{\Psi(x)}{x}  \right]
 $$
 
+# Spectrum
+
+The [[spectrum]] for the momentum operator
+
 # Composite Operators
 
 $$
