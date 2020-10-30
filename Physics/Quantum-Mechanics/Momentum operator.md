@@ -18,6 +18,12 @@ $$
 \frac{\hbar}{i} \dv{}{x}f_p(x) = p f_p (x)
 $$
 
+By inspection,
+
+$$
+f_p(x) = Ae^{\iota px / \hbar}
+$$
+
 # Composite Operators
 
 $$
