@@ -14,5 +14,5 @@ Complete
 Suppose you have a complete set of kets. If you want to construct $| v \rangle$, then you can do
 
 $$
-c_n = _n\langle a \mid v \rangle
+c_n = {}_n\langle a \mid v \rangle
 $$
