@@ -1,6 +1,7 @@
 An **observable** in quantum mechanics is something we can measure for a particle, meaning it has [[real|real number]] [[expectation|expected value]]. 
 
-> Observables are represented by [[Hermitian operator]].
+1. Observables are represented by [[Hermitian operator]].
+2. The set of possible outcomes for the measurement are the eigenvalues of the operator.
 
 # Properties
 
