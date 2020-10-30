@@ -112,6 +112,10 @@ The Schrodinger equation returns normalized distributions if given normalized di
 
 The last step is because the wave function must be 0 at $\pm\infty$ for normalizability to make sense.
 
+# Properties
+
+If $V(x)$ is [[even function]], then $\psi(x)$ is even or [[odd function]].
+
 # Examples
 
 * [[Infinite square well]]
