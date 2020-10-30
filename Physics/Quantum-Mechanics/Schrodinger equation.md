@@ -26,6 +26,12 @@ Of course, the solution depends on the potential.
 1. Use the T.I.S.E. to find stationary states $\\{\psi_1(x), \psi_2(x), \dots\\}$ if the potential is time-independent. 
 2. Find coefficients $c_n$ such that $\Psi(x, 0) = \sum_{n=1}^\infty c_n \psi_n(x)$.
 
+If $| n \rangle = \psi_n(x)$,
+
+$$
+c_n = \langle n \mid \Psi(t=0) \rangle
+$$
+
 Solution is
 
 $$
