@@ -23,5 +23,5 @@ $$
 $$
 
 $$
-\psi(x) = \frac{\sqrt{m\alpha}}{\hbar} e^{-m\alpha |x| / \hbar^2}, \qquad E = -\frac{m\alpha\^2}{2\hbar^2}
+\psi(x) = \frac{\sqrt{m\alpha}}{\hbar} e^{-m\alpha |x| / \hbar^2}, \qquad E = -\frac{m\alpha\^2}{2\hbar^2} \tag{Bound state}
 $$
