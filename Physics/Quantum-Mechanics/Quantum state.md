@@ -6,7 +6,7 @@ $$
 
 where $| x \rangle$ is an eigenfunction of $\widehat{x}$ with eigenvalue $x$.
 
-We could also work in momentum space if we wanted.
+We could also work in momentum space if we wanted using $| p \rangle$ as eigenfunction of $\widehat{p}$ with eigenvalue $p$
 
 $$
 \Phi(p, t) = \langle p \mid S(t) \rangle
