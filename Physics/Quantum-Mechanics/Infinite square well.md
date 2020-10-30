@@ -63,9 +63,7 @@ $$
 \psi(x) = A\sin(kx) + B\cos(kx)
 $$
 
-Enforcing Equations \ref{eq:boundary0} and \ref{eq:boundaryA}
-
-Then, the allowed energies are
+Enforcing Equation \ref{eq:boundary0} means $B=0$ (no $\cos$ component). With Equation \ref{eq:boundaryA}, the only way to get a normalizable solution is if $k_n = \frac{n\pi}{a}$. Then, the allowed energies are
 
 $$
 E_n = \frac{k_n^2 \hbar}{2m} = \frac{n^2 \pi^2 \hbar\^2}{2ma^2}
