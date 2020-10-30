@@ -6,4 +6,6 @@ $$
 
 # Properties
 
-* $\left[\widehat{A}, \widehat{B}\widehat{C}\right]=\left[\widehat{A}, \widehat{B}\right]\widehat{C} + \widehat{B}\left[\widehat{A}, \widehat{C}\right]$
+$$
+\left[\widehat{A}, \widehat{B}\widehat{C}\right]=\left[\widehat{A}, \widehat{B}\right]\widehat{C} + \widehat{B}\left[\widehat{A}, \widehat{C}\right]
+$$
