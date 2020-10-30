@@ -19,10 +19,7 @@ $$
 
 # Solutions
 
-|Discrete solutions|Continuous solutions|
-|------------------|--------------------|
-| [[Infinite square well]] | [[Free particle]] | 
-| [[Quantum harmonic oscillator]] || 
+The solutions to the T.I.S.E. usually come as an infinite family, but they may be discrete or continuous. In either case, we can form general solutions using either a sum (for discrete) or an integral (for continuous). However, the stationary states themselves will not be realizable for a continuous family.
 
 # Assumptions
 
