@@ -27,3 +27,9 @@ For an observable $A$, we note that
 $$
 \sigma_A^2 = \langle f \mid f \rangle, \qquad f \equiv \left( \widehat{A} - \langle A \rangle \right) \Psi
 $$
+
+Therefore,
+
+$$
+\sigma_A^2 \sigma_B^2 = \langle f \mid f \rangle \langle g \mid g \rangle
+$$
