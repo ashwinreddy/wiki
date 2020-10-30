@@ -12,3 +12,13 @@ In one dimension, it looks like
 \end{equation}
 
 A solution to the T.I.S.E. is called a [[stationary state]], an eigenstate of the Hamiltonian.
+
+# Assumptions
+
+1. The potential is time independent
+2. The solution has the form 
+
+\begin{equation}
+\label{eq:ansatz}
+\Psi(x, t) = \psi(x) \varphi(t). \tag{Separable Ansatz}
+\end{equation}
