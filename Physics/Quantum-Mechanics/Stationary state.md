@@ -13,7 +13,9 @@ Why are stationary states nice and/or useful?
 1. Because nothing ever _happens_ in a stationary state. The wave function $\Psi(x, t)=\psi(x)\varphi(t)$ depends on time, but the probability density does not:
 
 \begin{align}
-\rho(x,t) &= |\Psi(x, t)|^2 \\\
+\rho(x,t) &= |\Psi(x, t)|^2 \\\\
+&= \Psi(x, t)^* \Psi(x, t) \\\\
+&= \left(\psi(x)\varphi(t)\right)^* \psi(x)\varphi(t)
 &= |\psi(x)|^2
 \end{align}
 
