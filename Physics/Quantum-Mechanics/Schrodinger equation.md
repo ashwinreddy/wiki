@@ -19,13 +19,19 @@ $$
 
 [[_TOC_]]
 
-# Solutions
+# Solution Strategies
 
-The solution depends on the potential. However, one can use the T.I.S.E. to find stationary states $\\{\psi_1(x), \psi_2(x), \dots\\}$ if the potential is time-independent. Then, the general solution has the form
+Of course, the solution depends on the potential.
+
+1. Use the T.I.S.E. to find stationary states $\\{\psi_1(x), \psi_2(x), \dots\\}$ if the potential is time-independent. 
+2. Find coefficients $c_n$ such that $\Psi(x, 0) = \sum_{n=1}^\infty c_n \psi_n(x)$.
+
+Solution is
 
 $$
 \Psi(x, t) = \sum_{n=1}^\infty c_n \psi_n(x) e^{-\iota E_n t / \hbar}
 $$
+
 
 # Time Independent Schrodinger Equation
 
