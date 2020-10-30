@@ -10,10 +10,10 @@ $$
 -\frac{\hbar^2}{2m} \frac{\dd{}^2 \psi}{\dd{x^2}} - \alpha \delta (x) \psi = E\psi
 $$
 
-When $x \neq 0$, we have $\delta(x) = 0$ and the general solution is
+When $x \neq 0$, we have $\delta(x) = 0$ and stitching the solutions together,
 
 $$
-\psi(x) = A \exp(-\kappa x) + B \exp(\kappa x)
+\psi(x) = \begin{cases}B e^{\kappa x} \\ B e^{-\kappa x} \end{cases}
 $$
 
 We have both bound states and scattering states.
