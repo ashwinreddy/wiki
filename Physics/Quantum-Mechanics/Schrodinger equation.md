@@ -1,4 +1,4 @@
-The **Schrodinger equation** describes how a [[wave function]] $\Psi$ must evolve over time. In its one-dimensional non-relativistic form, it says
+The **Schrodinger equation** describes how a [[wave function]] $\Psi$ must evolve over time. Compactly, it says
 
 \begin{equation}
 \label{eq:schro}
