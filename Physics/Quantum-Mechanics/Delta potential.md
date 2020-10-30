@@ -13,7 +13,7 @@ $$
 When $x \neq 0$, we have $\delta(x) = 0$ and stitching the solutions together,
 
 $$
-\psi(x) = \begin{cases}B e^{\kappa x} & x \geq 0 \\\ B e^{-\kappa x} \end{cases}
+\psi(x) = \begin{cases}B e^{\kappa x} & x \geq 0 \\\\ B e^{-\kappa x} \end{cases}
 $$
 
 We have both bound states and scattering states.
