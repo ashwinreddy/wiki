@@ -49,7 +49,7 @@ $$
 
 ## Derivation
 
-More neatly, Equation \ref{eq:tise}
+Equation \ref{eq:tise} can be more neatly written as
 
 $$
 \frac{\dd{}^2 \psi}{\dd{} x^2} = -k^2 \psi, \qquad k = \frac{\sqrt{2mE}}{\hbar}
