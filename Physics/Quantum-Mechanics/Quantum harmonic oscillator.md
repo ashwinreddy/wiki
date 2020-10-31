@@ -48,5 +48,5 @@ $$
 $$ The nth state has
 
 $$
-\psi_n(x) = \frac{1}{\sqrt n}\left(\hat{a}_+\right)^n \psi_0(x), \qquad E_n = \left(n+\frac{1}{2}\right)\hbar\omega
+\psi_n(x) = \frac{1}{\sqrt n!}\left(\hat{a}_+\right)^n \psi_0(x), \qquad E_n = \left(n+\frac{1}{2}\right)\hbar\omega
 $$
