@@ -11,3 +11,9 @@ Let's say the $g_y$ are Dirac orthonormal:
 $$
 \langle g_y \mid g_{y'} \rangle = \delta(y - y')
 $$
+
+Then,
+
+$$
+g_y(x) = \delta(x - y)
+$$
