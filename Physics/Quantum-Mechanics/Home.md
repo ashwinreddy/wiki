@@ -27,4 +27,6 @@ $$
 
 # Resources
 
+* Physics 137A Lecture [Notes](https://www.dropbox.com/sh/k90tk6ukc4fshyt/AACWF4D2TIweyNcodpRBFyDMa?dl=0), which follows Griffiths pretty closely.
+
 https://www.dhruvonmath.com/2020/07/19/quantum-computers/#
