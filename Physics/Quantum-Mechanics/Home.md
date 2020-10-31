@@ -1,5 +1,8 @@
 **Quantum mechanics** is the physics of small particles. It differs from classical mechanics, which generally corresponds to our physical intuitions more, in the following ways:
 
+[[_TOC_]]
+
+# Comparison to classical mechanics
 
 |Quantum Mechanics|Classical Mechanics|
 |-----------------|-------------------|
