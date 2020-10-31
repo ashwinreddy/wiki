@@ -1,0 +1,3 @@
+The generalized statistical interpretation says the following:
+
+> If you measure an [[observable]] $Q(x, p)$ on a particle in the state $\Psi(x,t)$, you are certain to get one of the eigenvalues of the hermitian operator $\widehat{Q}(x, -i\hbar \dd{} / \dd{}x)$. If the spectrum of $\widehat{Q}$ is discrete, the probability of getting the particular eigenvalue $q_n$ associated with the (orthonormalized) function $f_n(x)$ is $|c_n|^2$, where $c_n = \langle f_n \mid \Psi \rangle$.
