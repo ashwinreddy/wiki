@@ -7,10 +7,13 @@ V(x) = \frac{1}{2}kx^2 = \frac{1}{2}m\omega^2 x^2
 We can then consider solving the [[T.I.S.E.|Schrodinger equation#time-independent-schrodinger-equation]]
 
 \begin{equation}
+\label{eq:tise}
 -\frac{\hbar\^2}{2m}\frac{\dd{}^2 \psi}{\dd{} x^2} + \frac{1}{2}m\omega\^2x^2\psi = E\psi
 \end{equation}
 
-Using more suggestive operator notation,
+# Algebraic Method
+
+We can write Equation \ref{eq:tise} in a more suggestive notation with operators:
 
 \begin{equation}
 \frac{1}{2m}\left[ \hat{p}^2 + \left(m\omega \hat{x} \right)^2 \right]\psi = E\psi
