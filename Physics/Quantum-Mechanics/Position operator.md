@@ -1,0 +1,1 @@
+The **position operator** is the operator that measures the position of a particle. In one dimension, we take it to be $\widehat{x}$ which acts using multiplication.
