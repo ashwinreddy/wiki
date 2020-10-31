@@ -19,10 +19,10 @@ We can write Equation \ref{eq:tise} in a more suggestive notation with operators
 \frac{1}{2m}\left[ \hat{p}^2 + \left(m\omega \hat{x} \right)^2 \right]\psi = E\psi
 \end{equation}
 
-How do we solve this? One approach is to use ladder operators. We define operators
+Next, we define operators
 
 $$
-\hat{a}_{\pm} = \frac{1}{\sqrt{2\hbar m\omega}}\left( \mp \iota \hat{p} + m\omega\hat{x} \right)
+\hat{a}_{\pm} \equiv \frac{1}{\sqrt{2\hbar m\omega}}\left( \mp \iota \hat{p} + m\omega\hat{x} \right)
 $$
 
 Depending on the order in which you multiply the operators, you get the following (read the upper signs all the way across or the lower signs all the way across)
