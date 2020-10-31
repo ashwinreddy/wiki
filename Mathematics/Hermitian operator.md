@@ -1,7 +1,11 @@
 A **Hermitian operator** is a self-adjoint operator, one that is its own [[Hermitian adjoint]].
 
 <div class="theorem" text='Real eigenvalues'>
-A hermitian operator with discrete spectrum has real eigenvalues.
+A Hermitian operator with discrete spectrum has real eigenvalues.
+</div>
+
+<div class="theorem" text='Real eigenvalues'>
+Eigenvectors for a Hermitian operator with discrete spectrum corresponding to different eigenvalues are orthogonal.
 </div>
 
 For a proof, suppose $\widehat{Q} | f \rangle = q  | f \rangle$. Then,
