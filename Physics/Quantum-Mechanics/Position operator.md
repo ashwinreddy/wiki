@@ -5,3 +5,9 @@ Let's see what the [[eigenpairs]] of the operator are if we call the eigenvalue 
 $$
 \hat{x} g_y(x) = yg_y(x)
 $$
+
+Let's say the $g_y$ are Dirac orthonormal: 
+
+$$
+\langle g_y \mid g_{y'} \rangle = \delta(y - y')
+$$
