@@ -11,3 +11,9 @@ L_x = yp_z - z p_y \\\\
 L_y = zp_x - x p_z \\\\
 L_z = x p_y  - y p_x
 \end{gather}
+
+It turns out that
+
+$$
+\vec{L}^2 | \psi \rangle = \hbar^2 \ell (\ell + 1) | \psi \rangle
+$$
