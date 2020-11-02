@@ -18,3 +18,10 @@ It turns out that
 \vec{L}^2 | \psi \rangle = \hbar^2 \ell (\ell + 1) | \psi \rangle \\\\\
 L_z | \psi \rangle = \hbar m | \psi \rangle
 \end{gather}
+
+
+If $V(\vec{r}) = V(r)$, then $L_x$, $L_y$, and $L_z$ are conserved:
+
+$$
+[H, L_x] = [H, L_y] = [H, L_z] = 0
+$$
