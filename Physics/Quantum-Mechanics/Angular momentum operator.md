@@ -14,6 +14,7 @@ L_z = x p_y  - y p_x
 
 It turns out that
 
-$$
-\vec{L}^2 | \psi \rangle = \hbar^2 \ell (\ell + 1) | \psi \rangle
-$$
+\begin{gather}
+\vec{L}^2 | \psi \rangle = \hbar^2 \ell (\ell + 1) | \psi \rangle \\\\\
+L_z | \psi \rangle = \hbar m | \psi \rangle
+\end{gather}
