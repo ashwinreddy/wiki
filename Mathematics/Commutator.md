@@ -1,4 +1,4 @@
-The **commutator** of [[operator]] $\widehat{A}$ and $\widehat{B}$ is 
+The **commutator** of [[operator]] $\widehat{A}$ and $\widehat{B}$ measures the failure to commute.
 
 $$
 \left[ \widehat{A}, \widehat{B} \right] \equiv \widehat{A}\widehat{B} - \widehat{B}\widehat{A}
