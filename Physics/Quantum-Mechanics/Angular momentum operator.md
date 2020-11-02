@@ -7,7 +7,7 @@ $$
 so we adapt them for quantum mechanics appropriately.
 
 \begin{gather}
-L_x = yp_z - z p_y \\
-L_y = zp_x - x p_z \\
+L_x = yp_z - z p_y \\\\
+L_y = zp_x - x p_z \\\\
 L_z = x p_y  - y p_x
 \end{gather}
