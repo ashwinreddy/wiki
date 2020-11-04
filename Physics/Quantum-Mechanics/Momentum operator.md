@@ -4,6 +4,13 @@
 \boxed{ \hat{p} = -\iota\hbar \nabla }
 \end{equation}
 
+In one dimension, we just have
+\begin{equation}
+\hat{p} = -\iota\hbar \pdv{}{x}
+\end{equation}
+
+
+
 In this way, 
 
 $$
