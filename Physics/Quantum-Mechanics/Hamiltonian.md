@@ -1,7 +1,7 @@
 The **Hamiltonian operator** in quantum mechanics gives the total energy. 
 
 \begin{equation}
-\hat{H} = \hat{T} + \hat{V}
+\boxed{\hat{H} = \hat{T} + \hat{V}}
 \end{equation}
 
 When we use the canonical substitution [[momentum operator]] $p \to -i\hbar(\partial / \partial x)$,
