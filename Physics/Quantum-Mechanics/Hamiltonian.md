@@ -30,4 +30,4 @@ $$
 
 # Properties
 
-* $$[H, Q] = 0 \implies \dv{}{t} \langle Q \rangle  = 0$$
+* $$\left[ H, Q \right] = 0 \implies \dv{}{t} \langle Q \rangle  = 0$$
