@@ -27,3 +27,7 @@ It turns out that the energy is some weighted combination of the stationary stat
 $$
 \langle H \rangle = \sum |c_n|^2 E_n
 $$
+
+# Properties
+
+* $[H, Q] = 0 \implies \dv{}{t} \langle Q \rangle  = 0$
