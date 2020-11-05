@@ -1,4 +1,4 @@
-The **Hamiltonian operator** in quantum mechanics gives the total energy. 
+The **Hamiltonian operator** in quantum mechanics represents the total energy. 
 
 \begin{equation}
 \boxed{\hat{H} = \hat{T} + \hat{V}}
