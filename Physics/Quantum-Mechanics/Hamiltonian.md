@@ -30,4 +30,6 @@ $$
 
 # Properties
 
+An operator that commutes with the Hamiltonian is conserved, in expectation.
+
 $$\left[ H, Q \right] = 0 \implies \dv{}{t} \langle Q \rangle  = 0$$
