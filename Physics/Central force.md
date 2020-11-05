@@ -1,0 +1,1 @@
+A **central force** is a [[force]] that points to the origin.
