@@ -1,7 +1,5 @@
 A **cache**
 
 
+# Direct-Mapped Cache
 
-Temporal locality
-
-Spatial locality
