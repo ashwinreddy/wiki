@@ -3,3 +3,5 @@ A **central force** is a [[force]] that points away or towards the origin and de
 $$
 \vec{F} = F(r)\cdot\vec{r}
 $$
+
+A central force will have a central potential $V(r)$.
