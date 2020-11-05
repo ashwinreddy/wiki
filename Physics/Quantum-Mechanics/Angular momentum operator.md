@@ -25,3 +25,9 @@ If $V(\vec{r}) = V(r)$, then $L_x$, $L_y$, and $L_z$ are conserved:
 $$
 [H, L_x] = [H, L_y] = [H, L_z] = 0
 $$
+
+# Commutators
+
+$$
+[L_i, L_j] = \iota\hbar\epsilon_{ijk}L_k
+$$
