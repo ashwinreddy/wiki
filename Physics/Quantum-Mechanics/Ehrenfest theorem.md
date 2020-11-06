@@ -5,6 +5,8 @@ The **Ehrenfest theorem** tells us that the expectation values seem to obey some
 \dv{ \langle p \rangle}{t} = - \left \langle \dv{V}{x} \right\rangle
 \end{gather}
 
+The generalized Ehrenfest theorem says
+
 \begin{equation}
 \dv{}{t} \langle Q \rangle = \frac{\iota}{\hbar} \left\langle\left[\widehat{H}, \widehat{Q}\right] \right\rangle + \left\langle \pdv{\widehat{Q}}{t} \right\rangle
 \end{equation}
