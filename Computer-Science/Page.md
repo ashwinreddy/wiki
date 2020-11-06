@@ -1,0 +1,1 @@
+A **page** can be held in RAM or on disk.
