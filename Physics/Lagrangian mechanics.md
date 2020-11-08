@@ -1,1 +1,1 @@
-**Lagrangian mechanics** is similar to [[Hamiltonian mechanics]]. [[Newton's second law]]
+**Lagrangian mechanics** is a reformulation of classical mechanics using [[Euler-Lagrange equation]]
