@@ -3,3 +3,7 @@ The **canonical commutation relation** is between the [[position operator]] and 
 \begin{equation}
 \left[ \widehat{x}, \widehat{p}_x \right] =  \iota\hbar
 \end{equation}
+
+\begin{equation}
+\left[ \widehat{x}_i, \widehat{p}_j \right] =  \iota\hbar \delta_{ij}
+\end{equation}
