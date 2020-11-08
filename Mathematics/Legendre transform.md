@@ -3,3 +3,5 @@
 $$
 g(u, y) = u x(u, y) - f(x(u, y), y)
 $$
+
+where $u = \partial_x f$.
