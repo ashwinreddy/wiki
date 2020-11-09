@@ -11,6 +11,10 @@ Example:
 
 [[https://cs61c.org/hw/img/pt.png]]
 
+# Page Table Entry
+
+A page table is an array of page table entries (PTE), which has the PPN and auxiliary information in the form of status bits.
+
 # Hierarchical/Multilevel Page Table
 
 For example, a level 1 page table would point to level 2 page tables which point to physical memory.
