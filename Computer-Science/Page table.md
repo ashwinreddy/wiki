@@ -10,3 +10,7 @@ The memory manager uses the page table to go from virtual address to physical ad
 Example:
 
 [[https://cs61c.org/hw/img/pt.png]]
+
+# Hierarchical/Multilevel Page Table
+
+For example, a level 1 page table would point to level 2 page tables which point to physical memory.
