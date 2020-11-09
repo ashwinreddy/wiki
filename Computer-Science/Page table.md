@@ -1,10 +1,7 @@
-**Page table** maps page number to physical address. Each process gets a page table.
+**Page table** maps page number to physical address (always in DRAM). Each process gets a page table and the [[operating system]] keeps track of which process is active so it knows which page table we're using. 
 
 
-the [[operating system]] keeps track of which process is active so it knows which page table we're using. 
-
-
-The memory manager 
+The memory manager uses the page table to go from virtual address to physical address. 
 
 1. Gets the page number from the [[virtual address|virtual address space]]
 2. Looks up the page address in page table
