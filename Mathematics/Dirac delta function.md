@@ -14,4 +14,4 @@ $$
 \int_\RR \delta(x)f(x) \\,\dd{x} = f(0)
 $$
 
-We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$.
+We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$. [[Kronecker delta]]
