@@ -1,5 +1,5 @@
 ---
-
+bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
 **Skew-Fit** [@pong2020skewfit] is an algorithm to do autonomous learning without rewards.
