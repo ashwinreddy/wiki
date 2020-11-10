@@ -7,7 +7,7 @@ bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 1. What objective should we use?
 2. How do we optimize the objective?
 
-The objective could be to explore. Usually, that's based on state visitation frequency or prediction error. Here, we can try to maximize state [[entropy]] $\mathcal{H}(S)$, but just doing this means a policy that just tries to go everywhere. So the goal is
+The objective could be to explore. Usually, that's based on state visitation frequency or prediction error. Here, we can try to maximize state [[entropy]] $\mathcal{H}(S)$, but just doing this means a policy that just tries to go everywhere. So we want to maximize the following, where $G$ is goal:
 
 $$
 \max \mathcal{H}(S) - \mathcal{H}(S \mid G)
