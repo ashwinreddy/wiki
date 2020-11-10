@@ -1,4 +1,8 @@
-**Skew-Fit** is an algorithm to do autonomous learning without rewards.
+---
+
+---
+
+**Skew-Fit** [@pong2020skewfit] is an algorithm to do autonomous learning without rewards.
 
 1. What objective should we use?
 2. How do we optimize the objective?
