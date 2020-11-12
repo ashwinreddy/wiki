@@ -48,3 +48,8 @@ $$
 $$
 \hat{T} = \frac{\hat{p}}{2m} = -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2}
 $$
+
+$$
+\left[ \widehat{p}, \widehat{H} \right] = \iota\hbar \pdv{V}{x}
+$$
+$$
