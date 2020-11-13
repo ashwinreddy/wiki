@@ -5,7 +5,7 @@ The **Schrodinger equation** describes how a [[wave function]] $\Psi$ evolves ov
 \iota\hbar \pdv{}{t} \Psi = \widehat{H} \Psi, \tag{Schrodinger Equation}
 \end{equation}
 
-Concretely, the [[Hamiltonian operator]] will expand the equation to
+Concretely, the [[Hamiltonian]] will expand the equation to
 
 \begin{equation}
 \iota\hbar \pdv{\Psi}{t} = -\frac{\hbar^2}{2m} \nabla^2 \Psi + V \Psi
