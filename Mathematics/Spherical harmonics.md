@@ -1,1 +1,1 @@
-The **spherical harmonics** are a [[basis]] of [[functions|function]] $Y^m_\ell(\theta, \phi)$ for any function on a spherical surface.
+The **spherical harmonics** are a [[orthonormal basis]] of [[functions|function]] $Y^m_\ell(\theta, \phi)$ for any function on a spherical surface.
