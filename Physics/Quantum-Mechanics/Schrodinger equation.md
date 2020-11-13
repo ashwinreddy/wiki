@@ -8,6 +8,8 @@ The **Schrodinger equation** describes how a [[wave function]] $\Psi$ evolves ov
 
 [[_TOC_]]
 
+
+
 # Solution Strategies
 
 Of course, the solution depends on the potential.
