@@ -1,0 +1,1 @@
+The **spherical harmonics** are [[functions|function]] $Y^m_\ell(\theta, \phi)$.
