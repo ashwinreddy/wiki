@@ -4,6 +4,11 @@ The **Hamiltonian operator** in quantum mechanics represents the total energy.
 \boxed{\hat{H} = \hat{T} + \hat{V}}
 \end{equation}
 
+
+[[_TOC_]]
+
+# Derivation
+
 When we use the canonical substitution [[momentum operator]] $p \to -i\hbar(\partial / \partial x)$,
 
 $$
