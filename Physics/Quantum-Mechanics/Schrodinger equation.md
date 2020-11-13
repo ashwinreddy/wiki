@@ -5,6 +5,12 @@ The **Schrodinger equation** describes how a [[wave function]] $\Psi$ evolves ov
 \iota\hbar \pdv{}{t} \Psi = \widehat{H} \Psi, \tag{Schrodinger Equation}
 \end{equation}
 
+Concretely, the equation will expand out to
+
+\begin{equation}
+\iota\hbar \pdv{\Psi}{t} = -\frac{\hbar^2}{2m} \nabla^2 \Psi + V \Psi
+\end{equation}
+
 
 [[_TOC_]]
 
