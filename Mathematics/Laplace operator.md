@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-\nabla^2 = \frac{1}{r^2}\pdv{}{r}\left(r^2 \pdv{}{r}\right) + \frac{1}{r^2 \sin\theta}\pdv{}{\theta}
+\nabla^2 = \frac{1}{r\^2}\pdv{}{r}\left(r^2 \pdv{}{r}\right) + \frac{1}{r^2 \sin\theta}\pdv{}{\theta}
 $$
