@@ -1,1 +1,1 @@
-**Spin-½**
+**Spin-½** is the most important case of [[spin]]
