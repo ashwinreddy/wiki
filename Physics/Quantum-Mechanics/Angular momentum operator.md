@@ -12,10 +12,16 @@ L_y = zp_x - x p_z \\\\
 L_z = x p_y  - y p_x
 \end{gather}
 
+We are also interested in
+
+$$
+L^2 \equiv L_x^2 + L_y^2 + L_z^2
+$$
+
 It turns out that
 
 \begin{gather}
-\vec{L}^2 | \psi \rangle = \hbar^2 \ell (\ell + 1) | \psi \rangle \\\\\
+L^2 | \psi \rangle = \hbar^2 \ell (\ell + 1) | \psi \rangle \\\\\
 L_z | \psi \rangle = \hbar m | \psi \rangle
 \end{gather}
 
