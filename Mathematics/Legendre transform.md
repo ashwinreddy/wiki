@@ -1,7 +1,1 @@
-**Legendre transform** of a function $f(x, y)$ is a function 
-
-$$
-g(u, y) = u x(u, y) - f(x(u, y), y)
-$$
-
-where $u = \partial_x f$.
+The **Legendre transform** of a [[convex function]]
