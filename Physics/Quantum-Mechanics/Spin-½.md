@@ -1,1 +1,1 @@
-**Spin-½** is the most important case of [[spin]]
+**Spin-½** is the most important case of [[spin]] $s = 1/2$.
