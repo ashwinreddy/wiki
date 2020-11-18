@@ -3,3 +3,9 @@ The **Poisson bracket** of [[functions|function]] $u$ and $v$ of a set of variab
 $$
 \\{u, v\\} = \sum_{r=1}^n \left( \pdv{u}{q_r}\pdv{v}{p_r} - \pdv{u}{p_r}\pdv{v}{q_r} \right)
 $$
+
+In quantum mechanics, the [[commutator]] is related to the Poisson bracket:
+
+$$
+\left[A, B\right] = \iota\hbar \\{A, B\\}
+$$
