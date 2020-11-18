@@ -1,5 +1,7 @@
 A **chemical reaction**
 
+# Types
+
 1. Synthesis: $\ce{A + B -> AB}$
 2. Decomposition: $\ce{AB -> A +B}$
 3. Substitution / single replacement: $\ce{A + BC -> B + AC}$
