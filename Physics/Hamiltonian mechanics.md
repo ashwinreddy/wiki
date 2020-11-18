@@ -12,4 +12,4 @@ $$
 
 
 
-Equivalent to the [[Euler\-Lagrange equation]].
+Equivalent to the [[Euler-Lagrange equation]].
