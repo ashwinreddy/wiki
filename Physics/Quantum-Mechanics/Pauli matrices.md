@@ -1,0 +1,1 @@
+The **Pauli matrices** are [[matrices|matrix]]
