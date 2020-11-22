@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-\dv{}{t}\vec{p} = \dot{m}\vec{v} + m\vec{\dot{v}} + m\dot{\vec{v}}
+\dv{}{t}\vec{p} = \dot{m}\vec{v}  + m\dot{\vec{v}}
 $$
