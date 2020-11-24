@@ -1,4 +1,4 @@
-The **Hamiltonian operator** in quantum mechanics represents the total energy.
+The **Hamiltonian operator** in quantum mechanics represents the total energy, [[kinetic energy]] and [[potential energy]].
 
 \begin{equation}
 \boxed{\widehat{H} = \widehat{T} + \widehat{V}}
