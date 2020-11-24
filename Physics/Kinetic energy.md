@@ -3,3 +3,7 @@
 \begin{equation}
 K = \frac{1}{2}mv^2
 \end{equation}
+
+$$
+K = \frac{p^2}{2m}
+$$
