@@ -1,4 +1,4 @@
-The **uncertainty principle** says that for distinct [[observables|observable]] $A$ and $B$,
+The **uncertainty principle** says that for [[observables|observable]] $A$ and $B$,
 
 \begin{equation}
 \boxed{ \sigma_A^2 \sigma_B^2 \geq \left(\frac{1}{2\iota} \langle \left[A,B\right] \rangle\right)^2 } \tag{Uncertainty principle}
