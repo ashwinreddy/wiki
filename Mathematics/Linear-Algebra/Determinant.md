@@ -15,6 +15,7 @@ The determinant is a [[group homomorphism]]:
 
 # Properties
 
+* $\det(I) = 1$.
 * A single swap of columns or rows introduces a change of sign in the output.
 * The determinant is invariant to [[transpose]].
 * The determinant of a matrix is equal to the product of its eigenvalues. $\det A = \prod_i \lambda_i$.
