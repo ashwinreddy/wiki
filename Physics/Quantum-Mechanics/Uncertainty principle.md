@@ -17,7 +17,7 @@ $$
 
 
 
-that it is not possible to know both the position and momentum of a particle exactly. Quantitatively, it says
+So it is not possible to know both the position and momentum of a particle exactly. Quantitatively, it says
 
 
 \begin{equation}
