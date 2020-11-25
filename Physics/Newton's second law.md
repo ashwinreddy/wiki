@@ -1,4 +1,4 @@
-**Newton's second law** says that the net [[force]] on a [[physical body]] instantaneously changes the body's net [[momentum]].
+**Newton's second law** says that the net [[force]] on a [[physical body]] instantaneously changes the body's net [[momentum]] over time.
 
 \begin{equation}
 \vec{F} = \dv{\vec{p}}{t}
