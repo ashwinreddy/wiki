@@ -4,7 +4,7 @@
 K = \frac{1}{2}mv^2
 \end{equation}
 
-The kinetic energy can also be written in terms of [[momentum]]
+The kinetic energy can also be written in terms of [[momentum]].
 
 $$
 K = \frac{p^2}{2m}
