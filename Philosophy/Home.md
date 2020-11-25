@@ -3,7 +3,6 @@
 * metaphysics
 * epistemology
 * ethics
-* 
 * aesthetics
 
 > I coalesce the vapor of human experience into a viable and logical comprehension.
