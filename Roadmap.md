@@ -33,6 +33,7 @@ Here are some of the topics I'd like to develop further:
 * What is geometric algebra?
 * What is category theory?
 * What is general relativity?
+* [[https://arxiv.org/abs/1001.1778]]
 
 Miscellaneous
 
