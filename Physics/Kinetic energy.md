@@ -9,3 +9,9 @@ The kinetic energy can also be written in terms of [[momentum]]
 $$
 K = \frac{p^2}{2m}
 $$
+
+# Derivation
+
+$$
+\int \dv{}{t}\left(m \vec{v}\right)\cdot\dd{\vec{r}}
+$$
