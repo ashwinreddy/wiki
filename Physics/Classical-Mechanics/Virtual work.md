@@ -5,4 +5,4 @@ $$
 $$
 
 Principle of virtual work
-: The work done is zero 
+: > The work done is zero 
