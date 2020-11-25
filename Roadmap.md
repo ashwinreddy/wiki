@@ -10,6 +10,11 @@ Here are some of the topics I'd like to develop further:
 * What do socialism, neoliberalism, etc. actually mean?
 * What were Marx's criticisms of capitalism?
 * Develop general understanding of AI (e.g. DeepMind's AtHomeWithAI Curated Resource List)
+* How do differential forms work?
+* What are some of the cool applications of information theory?
+* What is the philosophy of science?
+* What are the basic ideas of music theory? Can I approach it from a mathematical background?
+* How can we explain calculus simply (Calculus Made Easy by Silvanus Thompson)
 
 Miscellaneous
 
