@@ -19,3 +19,11 @@ $$
 $$
 \ddot{\mathbf{x}} = \mathbf{F}(\mathbf{x}, \dot{\mathbf{x}}, t)
 $$
+
+# Potential
+
+Suppose the force is exclusively from a potential $U(q)$. Then,
+
+$$
+m\ddot{q}^j = -\pdv{U}{q^j}
+$$
