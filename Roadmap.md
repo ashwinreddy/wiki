@@ -32,7 +32,7 @@ Here are some of the topics I'd like to develop further:
 * What is the math of special relativity?
 * What is Bayesian data analysis/statistics?
 * How do we get to generalized Stoke's theorem?
-* What is geometric algebra?
+* What is geometric algebra? [[https://crypto.stanford.edu/~blynn/haskell/ga.html]]
 * What is category theory?
 * What is general relativity?
 * [[https://arxiv.org/abs/1001.1778]]
