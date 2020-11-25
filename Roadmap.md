@@ -2,6 +2,7 @@ Here are some of the topics I'd like to develop further:
 
 * A general framework for thinking about biology (e.g. Schrodinger's What is Life, The Machinery of Life by David S Goodsell, biology from a CS perspective)
 * Numerical linear algebra [[https://github.com/fastai/numerical-linear-algebra/]]
+* Probability, e.g. [[http://jakevdp.github.io/blog/2018/09/13/waiting-time-paradox/]]
 * Philosophies, in particular pragmatism, stoicism, epicureanism, absurdism, etc. May also include Eastern philosophy like Hinduism (Bhagavad Gita) and Buddhism
 * A high level understanding of analytic mechanics (Hamilton's equations, Legendre transform from Lagrangian to Hamiltonian, Poisson bracket)
 * Working understanding of basic concepts in thermodynamics (perhaps a starting resource would be Chapter 1 from Gould and Tobochnik?)
