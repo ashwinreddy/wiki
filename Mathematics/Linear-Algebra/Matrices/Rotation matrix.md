@@ -20,3 +20,5 @@ $$
 $$
 R =  \lim_{n \to \infty}\left(I + \iota\frac{\theta}{n}\right)^n \tag{Generator Form}
 $$
+
+In fact, [[exponential map]]
