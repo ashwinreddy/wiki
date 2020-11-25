@@ -7,5 +7,5 @@ $$
 A central force will have a central potential 
 
 $$
-U(r) = U()
+U(\vec{r}) = U(r)
 $$
