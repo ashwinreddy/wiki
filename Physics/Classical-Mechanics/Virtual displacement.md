@@ -1,1 +1,1 @@
-A **virtual displacement** is an arbitrary instantaneous alteration in the position vectors of the particles of a system.
+A **virtual displacement** $\delta \vec{r}$ is an arbitrary instantaneous alteration in the position vectors of the particles of a system.
