@@ -5,4 +5,4 @@ $$
 $$
 
 Principle of virtual work
-: > The work done is zero 
+: > The work done is zero in the course of an arbitrary infinitesimal [[virtual displacement]] of a system from a position of equilibrium
