@@ -14,9 +14,6 @@ $$
 \sigma_x^2 \sigma_p^2 \geqslant \left(\frac{1}{2\cancel{\iota}} \cancel{\iota} \hbar \right)^2
 $$
 
-
-
-
 So it is not possible to know both the position and momentum of a particle exactly. Quantitatively, it says
 
 
