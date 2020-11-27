@@ -11,7 +11,7 @@ The uncertainty principle is only interesting when the observables do not commut
 Suppose we consider position and momentum. Then,
 
 $$
-\sigma_x^2 \sigma_p^2 \geq \left(\frac{1}{2\cancel{\iota}} \cancel{\iota} \hbar \right)^2
+\sigma_x^2 \sigma_p^2 \geqslant \left(\frac{1}{2\cancel{\iota}} \cancel{\iota} \hbar \right)^2
 $$
 
 
@@ -21,7 +21,7 @@ So it is not possible to know both the position and momentum of a particle exact
 
 
 \begin{equation}
-\boxed{\sigma_x \sigma_p \geq \frac{\hbar }{2}} \tag{Heisenberg Uncertainty}
+\boxed{\sigma_x \sigma_p \geqslant \frac{\hbar }{2}} \tag{Heisenberg Uncertainty}
 \end{equation}
 
 # Proof
