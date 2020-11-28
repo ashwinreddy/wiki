@@ -20,7 +20,7 @@ An **ideal** of $L$ is a subspace $I$ such that $[x,y] \in I$ for all $x \in L, 
 
 * $\mathfrak{sl}(n,F)$ is an ideal of $\mathfrak{gl}(n, F)$
 
-An ideal is automatically a [[Lie subalgebra]].
+An ideal is automatically a [[Lie subalgebra]], though the converse need not be true.
 
 # Homomorphism
 
