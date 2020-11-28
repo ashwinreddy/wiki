@@ -21,7 +21,7 @@ This approach can be extended to [[Deep-Q network]]. The issue is that DQNs comp
 Let $\alpha \in [0,1]$.
 
 \begin{equation}
-\hat{q}\_{\mathrm{m-dqn}}(r_t, s_{t+1}) = \hat{q}\_{\mathrm{s-dqn}}\color{red} + \alpha \tau\ln \pi_{\bar\theta}\left(a_t \mid s_t \right)
+\hat{q}\_{\mathrm{m-dqn}}(r_t, s_{t+1}) = \hat{q}\_{\mathrm{s-dqn}}\color{red} + \alpha \tau\ln \pi_{\bar\theta}\left(a_t \mid s_t \right) \tag{M-DQN}
 \end{equation}
 
 ---
