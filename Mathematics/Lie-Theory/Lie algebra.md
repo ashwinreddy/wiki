@@ -1,5 +1,7 @@
 A **Lie algebra** over $k$ is a $k$-[[vector space]] $V$ along with a **Lie bracket**.
 
+# Bracket
+
 Lie bracket / commutator
 : An operator $[\cdot,\cdot]: V \times V \to V$ satisfying the following for all $x, y, z \in V$:
 
