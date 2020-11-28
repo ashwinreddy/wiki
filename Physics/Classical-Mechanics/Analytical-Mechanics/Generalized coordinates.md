@@ -3,5 +3,5 @@
 Let us assume that we have a conservative force so that we can just use potential $U$. Newton's second law would then say
 
 $$
--\pdv{U}{q} = \dv{}{t}\left(\right)
+-\pdv{U}{q} = \dv{}{t}\left(\pdv{K}{\dot{q}}\right)
 $$
