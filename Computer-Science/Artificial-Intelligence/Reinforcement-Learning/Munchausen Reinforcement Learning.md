@@ -2,7 +2,7 @@
 bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
-**Munchausen Reinforcement Learning**'s key idea is that a policy can be used to bootstrap learning [@vieillard2020munchausen].
+**Munchausen Reinforcement Learning**'s key idea is that a policy can be used for [[Temporal Difference learning]] [@vieillard2020munchausen].
 
 \begin{equation}
 r'_t = r_t +\alpha \ln \pi(a_t \mid s_t) \tag{M-RL}
