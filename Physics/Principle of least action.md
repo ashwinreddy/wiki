@@ -1,1 +1,1 @@
-The **principle of least action** 
+The **principle of least action**. In most cases, the [[Lagrangian]]
