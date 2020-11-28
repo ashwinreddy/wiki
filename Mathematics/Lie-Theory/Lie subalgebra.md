@@ -1,1 +1,1 @@
-A **Lie subalgebra** of a [[Lie algebra]] $L$ is a vector [[subspace]]
+A **Lie subalgebra** of a [[Lie algebra]] $L$ is a [[vector subspace]]
