@@ -14,6 +14,12 @@ Lie algebras on their own are not very interesting: a vector space can be furnis
 
 Given a Lie group $G$, a useful Lie algebra for $G$ comes from equipping the [[tangent space]] $T_e G$ with the correct bracket.
 
+# Ideal
+
+An **ideal** of $L$ is a subspace $I$ such that $[x,y] \in I$ for all $x \in L, y \in I$. Examples include:
+
+* $\mathfrak{sl}(n,F)$ is an ideal of $\mathfrak{gl}(n, F)$
+
 # Homomorphism
 
 A **Lie algebra homomorphism** is a linear map between Lie algebras that is compatible with the Lie bracket.
