@@ -1,1 +1,1 @@
-The **principle of least action** underlies the [[variational calculus]]
+The **principle of least action** 
