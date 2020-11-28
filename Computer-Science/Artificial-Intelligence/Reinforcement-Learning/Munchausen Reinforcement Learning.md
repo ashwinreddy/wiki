@@ -2,7 +2,7 @@
 bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
-**Munchausen Reinforcement Learning**
+**Munchausen Reinforcement Learning** [@vieillard2020munchausen]
 
 \begin{equation}
 r'_t = r_t +\alpha \ln \pi(a_t \mid s_t) \tag{M-RL}
