@@ -15,7 +15,7 @@ where we assume the current agent's policy is stochastic.
 This approach can be extended to [[Deep-Q network]]. The issue is that DQNs computes deterministic policies. So instead of maximizing return, we'll also maximize entropy.
 
 \begin{equation}
-\hat{q}_{\mathrm{s-dqn}}(r_t, s_{t+1}) = r_t + \gamma \sum_{a' \in \mathcal{A}} \pi_{\bar\theta}(a' \mid s_{t+1})\left(q_{\bar\theta}(s_{t+1}, a') - \tau \ln \pi_{\bar\theta}(a' \mid s_{t+1})\right)
+\hat{q}\_{\mathrm{s-dqn}}(r_t, s_{t+1}) = r_t + \gamma \sum_{a' \in \mathcal{A}} \pi_{\bar\theta}(a' \mid s_{t+1})\left(q_{\bar\theta}(s_{t+1}, a') - \tau \ln \pi_{\bar\theta}(a' \mid s_{t+1})\right)
 \end{equation}
 
 ---
