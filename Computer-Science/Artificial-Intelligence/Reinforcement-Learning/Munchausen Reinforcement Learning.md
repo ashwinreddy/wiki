@@ -18,4 +18,10 @@ This approach can be extended to [[Deep-Q network]]. The issue is that DQNs comp
 \hat{q}\_{\mathrm{s-dqn}}(r_t, s_{t+1}) = r_t + \gamma \sum_{a' \in \mathcal{A}} \pi_{\bar\theta}(a' \mid s_{t+1})\Big(q_{\bar\theta}(s_{t+1}, a') \color{blue} -\tau \ln \pi_{\bar\theta}(a' \mid s_{t+1})  \color{black} \Big) \text{ with } \color{blue} \pi_{\bar\theta} = \mathsf{softmax}\left(q_{\bar\theta} / \tau\right) \tag{S-DQN}
 \end{equation}
 
+Let $\alpha \in [0,1]$.
+
+\begin{equation}
+\hat{q}_{\mathrm{m-dqn}}(r_t, s_{t+1}) = \hat{q}_{\mathrm{s-dqn}} + \alpha \tau\ln \pi_{\bar\theta}\left(a_t \mid s_t \right)
+\end{equation}
+
 ---
