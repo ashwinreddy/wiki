@@ -1,0 +1,1 @@
+**Generalized coordinates** for a $N$ DOF system are coordinates $q_1, \dots, q_N$.
