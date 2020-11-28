@@ -1,1 +1,1 @@
-The **Lorentz group** is closely related to the [[orthogonal group]] $\mathrm{O}(3)$.
+The **Lorentz group** is closely related to the [[orthogonal group]] $\mathrm{O}(3)$, rotations in 3D space.
