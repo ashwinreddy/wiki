@@ -12,7 +12,10 @@ where we assume the current agent's policy is stochastic.
 
 # M-DQN
 
-This approach can be extended to [[Deep-Q network]]
+This approach can be extended to [[Deep-Q network]]. The issue is that DQNs computes deterministic policies. So instead of maximizing return, we'll also maximize entropy.
 
+\begin{equation}
+\hat{q}_{s-dqn}
+\end{equation}
 
 ---
