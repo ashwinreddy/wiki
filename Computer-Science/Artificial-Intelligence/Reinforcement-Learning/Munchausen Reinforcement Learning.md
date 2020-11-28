@@ -10,6 +10,7 @@ r'_t = r_t +\alpha \ln \pi(a_t \mid s_t) \tag{M-RL}
 
 # M-DQN
 
----
-
 This approach can be extended to [[Deep-Q network]]
+
+
+---
