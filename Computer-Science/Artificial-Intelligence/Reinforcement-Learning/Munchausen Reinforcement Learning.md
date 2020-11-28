@@ -24,4 +24,12 @@ Let $\alpha \in [0,1]$.
 \hat{q}\_{\mathrm{m-dqn}}(r_t, s_{t+1}) = \hat{q}\_{\mathrm{s-dqn}}\color{red} + \alpha \tau\ln \pi_{\bar\theta}\left(a_t \mid s_t \right) \tag{M-DQN}
 \end{equation}
 
+# Theory
+
+Let
+
+$$
+\langle f, g \rangle = \left( \sum_a f(s,a)g(s,a) \right)_s \in \mathbb{R}^\mathcal{S}
+$$
+
 ---
