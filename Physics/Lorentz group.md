@@ -1,1 +1,1 @@
-The **Lorentz group** is the [[group]] of all [[Lorentz transformation]] is closely related to the [[orthogonal group]] $\mathrm{O}(3)$, rotations in 3D space.
+The **Lorentz group** is the [[group]] of every [[Lorentz transformation]] is closely related to the [[orthogonal group]] $\mathrm{O}(3)$, rotations in 3D space.
