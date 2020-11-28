@@ -15,7 +15,7 @@ Lie bracket / commutator
 An **ideal** of $L$ is a subspace $I$ such that $[x,y] \in I$ for all $x \in L, y \in I$. For example, $\mathfrak{sl}(n,F)$ is an ideal of $\mathfrak{gl}(n, F)$. For _any_ $L$, $L$ and $\\{0\\}$ are ideals. The center
 
 $$
-Z(L) = \\{ x \in L: [x,y] = 0 \text{ for all } y\in L \\}
+Z(L) = \\{ x \in L: [x,y] = 0 \text{ for all } y\in L \\}.
 $$
 
 An ideal is automatically a [[Lie subalgebra]], though the converse need not be true.
