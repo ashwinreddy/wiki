@@ -1,0 +1,1 @@
+The **Lorentz group** is closely related to the group $O(3)$
