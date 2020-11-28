@@ -12,9 +12,7 @@ Lie bracket / commutator
 
 # Ideal
 
-An **ideal** of $L$ is a subspace $I$ such that $[x,y] \in I$ for all $x \in L, y \in I$. Examples include:
-
-* $\mathfrak{sl}(n,F)$ is an ideal of $\mathfrak{gl}(n, F)$
+An **ideal** of $L$ is a subspace $I$ such that $[x,y] \in I$ for all $x \in L, y \in I$. For example, $\mathfrak{sl}(n,F)$ is an ideal of $\mathfrak{gl}(n, F)$.
 
 An ideal is automatically a [[Lie subalgebra]], though the converse need not be true.
 
