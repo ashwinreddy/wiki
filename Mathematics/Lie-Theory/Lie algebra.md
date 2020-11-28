@@ -3,7 +3,7 @@ A **Lie algebra** over $k$ is a $k$-[[vector space]] $V$ along with a **Lie brac
 # Bracket
 
 Lie bracket / commutator
-: An operator $[\cdot,\cdot]: V \times V \to V$ satisfying the following for all $x, y, z \in V$:
+: A [[bilinear map]] $[\cdot,\cdot]: V \times V \to V$ satisfying the following for all $x, y, z \in V$:
 
 * $[x, x] = 0$ for all $x \in V$
 * \begin{equation}[x, [y, z]] + [y, [z,x]] + [z, [x,y]]=0 \tag{Jacobi identity}\end{equation}
