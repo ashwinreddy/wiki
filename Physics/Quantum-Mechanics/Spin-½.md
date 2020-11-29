@@ -28,7 +28,7 @@ Suppose you have two spin-half particles. For example, an electron and proton in
 |$\mid \uparrow \uparrow \rangle$|1|
 |$\mid \uparrow\downarrow  \rangle$|0|
 |$\mid \downarrow \uparrow \rangle$|0|
-|$\mid \downarrow \downarrow \rangle$|1|
+|$\mid \downarrow \downarrow \rangle$|-1|
 
 This splits into the triplet and singlet.
 
