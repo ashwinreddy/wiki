@@ -2,7 +2,7 @@
 
 \begin{gather}
 \mid\uparrow \rangle \doteq \left|\frac{1}{2}\frac{1}{2}\Bigg\rangle\right. \\\\
-\mid\downarrow \rangle \doteq \left|\frac{1}{2}-\frac{1}{2}\Bigg\rangle\right.
+\mid\downarrow \rangle \doteq \left|\frac{1}{2}\left(-\frac{1}{2}\right)\Bigg\rangle\right.
 \end{gather}
 
 
