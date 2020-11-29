@@ -21,4 +21,11 @@ $$
 
 # Two particle system
 
-Suppose you have two spin-half particles. For example, an electron and proton in the ground state of hydrogen. Since each can be spin up or spin down we have 4 states: $\mid \uparrow \uparrow \rangle, \mid \uparrow\downarrow  \rangle, \mid \downarrow \uparrow \rangle, \mid \downarrow \downarrow \rangle$.
+Suppose you have two spin-half particles. For example, an electron and proton in the ground state of hydrogen. Since each can be spin up or spin down we have 4 states: 
+
+|State|$m$|
+|-----|----|
+|$\mid \uparrow \uparrow \rangle$|$m=1$|
+|$\mid \uparrow\downarrow  \rangle$|$m=0$|
+|$\mid \downarrow \uparrow \rangle$|$m=0$|
+|$\mid \downarrow \downarrow \rangle$|$m=-1$|
