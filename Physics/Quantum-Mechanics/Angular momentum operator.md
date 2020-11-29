@@ -9,17 +9,9 @@ The **angular momentum operator** in quantum mechanics can refer to the followin
 
 
 
+# Orbital angular momentum
 
-
-
-
-is a vector operator $\vec{L} = (L_x, L_y, L_z)$. The  is
-
-$$
-\vec{L} = \vec{r} \times \vec{p},
-$$
-
-so we adapt them for quantum mechanics appropriately.
+The operator $\vec{L} = (L_x, L_y, L_z)$ is given by  $\vec{L} = \vec{r} \times \vec{p}$, meaning
 
 \begin{gather}
 L_x = yp_z - z p_y \\\\
