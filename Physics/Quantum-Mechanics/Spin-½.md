@@ -33,5 +33,5 @@ Suppose you have two spin-half particles. For example, an electron and proton in
 This splits into the triplet and singlet.
 
 $$
-\hat{S} = S^{(1)}\otimes \mathbb{1} + \mathbb{1}\otimes S^{(2)}
+\hat{S} = S^{(1)}\otimes \mathds{1} + \mathbb{1}\otimes S^{(2)}
 $$
