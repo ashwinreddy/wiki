@@ -1,7 +1,7 @@
 The **angular momentum operator** in quantum mechanics can refer to the following:
 
 * the total angular momentum
-* the orbital angular momentum
+* the orbital angular momentum $\vec{L}$ corresponds closely to [[angular momentum]] in classical mechanics
 * spin angular momentum
 
 
@@ -13,7 +13,7 @@ The **angular momentum operator** in quantum mechanics can refer to the followin
 
 
 
-is a vector operator $\vec{L} = (L_x, L_y, L_z)$. The [[angular momentum]] in classical mechanics is
+is a vector operator $\vec{L} = (L_x, L_y, L_z)$. The  is
 
 $$
 \vec{L} = \vec{r} \times \vec{p},
