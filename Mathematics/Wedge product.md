@@ -1,1 +1,1 @@
-The **wedge product** $\wedge$ is a generalization of the [[cross product]].
+The **wedge product** $\wedge$ is a generalization of the [[cross product]] that outputs a [[bivector]].
