@@ -34,7 +34,11 @@ $$
 |$\mid \downarrow \uparrow \rangle$|0|
 |$\mid \downarrow \downarrow \rangle$|-1|
 
-This splits into the triplet and singlet.
+This splits into a triplet of states $|sm\rangle$ with $s=1$ and singlet with $s=0$.
+
+$$
+\begin{cases}  |1(-1)\rangle = \mid \downarrow\downarrow \rangle \\ \end{cases}
+$$
 
 $$
 \hat{S} = S^{(1)}\otimes 1 + 1\otimes S^{(2)}
