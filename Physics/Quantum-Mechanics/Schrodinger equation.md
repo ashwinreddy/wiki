@@ -2,12 +2,18 @@ The **Schrodinger equation** describes the relationship between the time evoluti
 
 \begin{equation}
 \label{eq:schro}
-\iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi, \tag{Schrodinger Equation}
+\iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi. \tag{Schrodinger Equation}
 \end{equation}
 
 [[_TOC_]]
 
+# Spherical symmetry
 
+Suppose $V(\vec{r}) = V(r)$. Then, 
+
+$$
+V_{\mathrm{eff}}(r) = V(r) + \frac{\hbar \ell(\ell + 1)}{2mr^2}
+$$
 
 # Solution Strategies
 
@@ -52,7 +58,7 @@ The last step is because the wave function must be 0 at $\pm\infty$ for normaliz
 
 # Properties
 
-If $V(x)$ is [[even function]], then $\psi(x)$ is even or [[odd function]].
+* If $V(x)$ is [[even function]], then $\psi(x)$ is even or [[odd function]].
 
 # Examples
 
