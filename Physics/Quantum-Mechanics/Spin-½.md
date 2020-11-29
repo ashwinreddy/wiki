@@ -18,3 +18,7 @@ $$
 \hat{S}_z \mid \uparrow \rangle = +\frac{\hbar}{2} \mid \uparrow \rangle \\\\
 \hat{S}_z \mid \downarrow \rangle = -\frac{\hbar}{2} \mid \downarrow \rangle
 \end{gather}
+
+# Two particle system
+
+Suppose you have two spin-half particles.
