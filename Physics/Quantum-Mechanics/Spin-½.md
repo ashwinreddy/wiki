@@ -31,3 +31,7 @@ Suppose you have two spin-half particles. For example, an electron and proton in
 |$\mid \downarrow \downarrow \rangle$|1|
 
 This splits into the triplet and singlet.
+
+$$
+\hat{S} = S^{(1)}\otimes \mathbb{1} + \mathbb{1}\otimes S^{(2)}
+$$
