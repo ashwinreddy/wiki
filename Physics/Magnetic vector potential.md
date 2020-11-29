@@ -4,4 +4,3 @@ $$
 \mathbf{B} = {\nabla} \times \mathbf{A}
 $$
 
-This is enabled by the no-monopole law $\nabla\cdot\mathbf{B} = 0$.
