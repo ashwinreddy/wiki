@@ -30,4 +30,4 @@ Suppose you have two spin-half particles. For example, an electron and proton in
 |$\mid \downarrow \uparrow \rangle$|0|
 |$\mid \downarrow \downarrow \rangle$|1|
 
-There are three states with
+This splits into the triplet and singlet.
