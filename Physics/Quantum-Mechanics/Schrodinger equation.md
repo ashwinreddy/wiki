@@ -12,7 +12,7 @@ The **Schrodinger equation** describes the relationship between the time evoluti
 Suppose $V(\vec{r}) = V(r)$. Then, the Schrodinger equation uses an effective potential of
 
 $$
-V_{\mathrm{eff}}(r) = V(r) + \frac{\hbar \ell(\ell + 1)}{2mr^2}
+V_{\mathrm{eff}}(r) = V(r) + \underbrace{\frac{\hbar \ell(\ell + 1)}{2mr^2}}_{\text{centrifugal term}}
 $$
 
 # Solution Strategies
