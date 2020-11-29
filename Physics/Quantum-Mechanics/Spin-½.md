@@ -1,4 +1,4 @@
-**Spin-½** is the most important case of [[spin]] $s = \frac{1}{2}$. Then, there are just 2 eigenstates $\left| sm \rangle\right.$, $|\frac{1}{2}\frac{1}{2} \rangle$
+**Spin-½** is the most important case of [[spin]] $s = \frac{1}{2}$. Then, there are just 2 eigenstates $\left| sm \rangle$, $|\frac{1}{2}\frac{1}{2} \right.\rangle$
 
 
 Such particles have a permanent magnetic moment along the direction of their spin. 
