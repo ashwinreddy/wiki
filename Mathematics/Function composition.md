@@ -1,1 +1,0 @@
-**Function composition** is the subsequent application of a [[function]] to the output of a function.
