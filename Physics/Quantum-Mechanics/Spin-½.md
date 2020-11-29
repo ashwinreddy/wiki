@@ -1,8 +1,8 @@
 **Spin-½** is the most important case of [[spin]] $s = \frac{1}{2}$. Then, there are just 2 eigenstates $\left|sm \right.\rangle$:
 
 \begin{align}
-\mid\uparrow \rangle &\doteq \left|\frac{1}{2}\frac{1}{2}\Bigg\rangle\right. \\\\
-\mid\downarrow \rangle& \doteq \left|\frac{1}{2}\left(-\frac{1}{2}\right)\Bigg\rangle\right.
+\mid\uparrow \rangle &\doteq \left|\frac{1}{2}\frac{1}{2}\Bigg\rangle\right. \tag{Spin Up} \\\\
+\mid\downarrow \rangle& \doteq \left|\frac{1}{2}\left(-\frac{1}{2}\right)\Bigg\rangle\right. \tag{Spin Down}
 \end{align}
 
 
