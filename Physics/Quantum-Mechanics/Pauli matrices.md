@@ -1,4 +1,4 @@
-The **Pauli matrices** are [[Hermitian matrices|Hermitian matrix]]
+The **Pauli matrices** are [[Hermitian|Hermitian matrix]] [[matrices|matrix]]
 
 \begin{gather}
 \sigma_x = \begin{bmatrix} 0 & 1 \\\\ 1 & 0 \end{bmatrix} \\\\
