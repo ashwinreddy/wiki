@@ -18,4 +18,4 @@ Suppose you have two particles in state $\mid s_1 m_1 \rangle$ and $\mid s_2 m_2
 
 # See also
 
-* [[Spin-1/2]]
+* [[Spin-½]]
