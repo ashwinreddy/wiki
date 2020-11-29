@@ -2,7 +2,7 @@ The **time-independent Schrodinger equation (T.I.S.E.)** is a simplification of 
 
 \begin{equation}
 \label{eq:operator-tise}
-\widehat{H} \psi = E \psi \tag{T.I.S.E.}
+\hat{H} \psi = E \psi \tag{T.I.S.E.}
 \end{equation}
 
 In one dimension, it looks like
