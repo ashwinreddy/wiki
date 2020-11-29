@@ -1,1 +1,1 @@
-The **spin**
+**Spin** is a kind of angular momentum for elementary particles.
