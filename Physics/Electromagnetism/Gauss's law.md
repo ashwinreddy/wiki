@@ -7,5 +7,5 @@ Q / \varepsilon_0 = \oint \mathbf{E}\cdot\dd{\mathbf{A}}
 In differential form, it says the [[divergence]] is [[charge density]] proportional.
 
 $$
-\nabla\cdot E = \rho / \varepsilon_0
+\nabla\cdot \mathbf{E} = \rho / \varepsilon_0
 $$
