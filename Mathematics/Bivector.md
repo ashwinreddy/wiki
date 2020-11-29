@@ -1,0 +1,1 @@
+A **bivector** is an oriented area.
