@@ -34,7 +34,9 @@ $$
 |$\mid \downarrow \uparrow \rangle$|0|
 |$\mid \downarrow \downarrow \rangle$|-1|
 
-This splits into a triplet of states $|sm\rangle$ with $s=1$ and singlet with $s=0$.
+This splits into a triplet and singlet.
+
+The triplet has states $|sm\rangle$ with $s=1$ and $m=1, 0, -1$:
 
 $$
 \begin{cases}  
@@ -42,6 +44,14 @@ $$
 |11\rangle &=\quad \mid\uparrow\uparrow\rangle \\\\ 
 |1(-1)\rangle &=\quad \mid \downarrow\downarrow \rangle 
  \end{cases}
+$$
+
+The singlet has $s=0$ and $m=0$:
+
+$$
+\begin{cases}
+|00\rangle = \frac{1}{\sqrt{2}}\Big(\mid \uparrow\downarrow  \rangle - \mid \downarrow \uparrow \rangle\Big)
+\end{cases}
 $$
 
 $$
