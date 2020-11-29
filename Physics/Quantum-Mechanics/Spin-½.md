@@ -1,6 +1,6 @@
 **Spin-½** is the most important case of [[spin]] $s = \frac{1}{2}$. Such particles have a permanent magnetic moment along the direction of their spin. 
 
-The spin matrices are related to the [[Pauli matrices]]
+The spin matrices are related to the [[Pauli matrices]] by a constant scalar:
 
 $$
 S_i = \frac{\hbar}{2}\sigma_i
