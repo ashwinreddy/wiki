@@ -21,7 +21,7 @@ L_z = x p_y  - y p_x
 
 We might also interested in $L^2 \equiv L_x^2 + L_y^2 + L_z^2$.
 
-And the norm commutes with the operators: $\left[L^2, L_i\right] = 0$.
+
 
 It turns out that
 
@@ -39,6 +39,5 @@ $$
 
 ## Commutators
 
-$$
-[L_i, L_j] = \iota\hbar\epsilon_{ijk}L_k
-$$
+* $[L_i, L_j] = \iota\hbar\epsilon_{ijk}L_k$
+* $\left[L^2, L_i\right] = 0$.
