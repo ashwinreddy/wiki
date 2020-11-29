@@ -67,16 +67,3 @@ If $V(x)$ is [[even function]], then $\psi(x)$ is even or [[odd function]].
 * [[Quantum harmonic oscillator]]
 * [[Free particle]]
 * [[Finite square well]]
-
-# Misc
-
-
-If we want to expand the [[Hamiltonian]],
-
-\begin{equation}
-\iota \hbar \pdv{}{t} \Psi(x, t) = - \frac{\hbar^2}{2m} \frac{\partial^2 \Psi(x,t)}{\partial x^2} + V(x, t) \Psi(x,t)
-\end{equation}
-
-$$
-\pdv{\Psi}{t}  = \frac{\iota\hbar}{2m} \frac{\partial^2 \Psi}{\partial x^2} - \frac{\iota}{\hbar} V(x, t) \Psi
-$$
