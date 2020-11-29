@@ -1,4 +1,7 @@
-**Spin-½** is the most important case of [[spin]] $s = \frac{1}{2}$. Such particles have a permanent magnetic moment along the direction of their spin. 
+**Spin-½** is the most important case of [[spin]] $s = \frac{1}{2}$. Then, $| sm \rangle$
+
+
+Such particles have a permanent magnetic moment along the direction of their spin. 
 
 The spin matrices are related to the [[Pauli matrices]] by a constant scalar:
 
