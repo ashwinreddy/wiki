@@ -1,0 +1,1 @@
+The **Stern-Gerlach experiment** applies an inhomogeneous [[magnetic field]] to electrons.
