@@ -37,9 +37,10 @@ $$
 This splits into a triplet of states $|sm\rangle$ with $s=1$ and singlet with $s=0$.
 
 $$
-\begin{cases}  |1(-1)\rangle &= \mid \downarrow\downarrow \rangle \\\\ 
-|10\rangle &= \frac{1}{\sqrt{2}}\Big(\mid \uparrow\downarrow  \rangle+\mid \downarrow \uparrow \rangle\Big) \\\\
-|11\rangle &= \mid\uparrow\uparrow\rangle
+\begin{cases}  
+|10\rangle &=\quad \frac{1}{\sqrt{2}}\Big(\mid \uparrow\downarrow  \rangle+\mid \downarrow \uparrow \rangle\Big) \\\\
+|11\rangle &=\quad \mid\uparrow\uparrow\rangle \\\\ 
+|1(-1)\rangle &=\quad \mid \downarrow\downarrow \rangle 
  \end{cases}
 $$
 
