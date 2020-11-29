@@ -9,7 +9,7 @@ The **Schrodinger equation** describes the relationship between the time evoluti
 
 # Spherical symmetry
 
-Suppose $V(\vec{r}) = V(r)$. Then, 
+Suppose $V(\vec{r}) = V(r)$. Then, the Schrodinger equation uses an effective potential of
 
 $$
 V_{\mathrm{eff}}(r) = V(r) + \frac{\hbar \ell(\ell + 1)}{2mr^2}
