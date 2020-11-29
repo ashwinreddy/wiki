@@ -2,7 +2,7 @@ The **Schrodinger equation** describes how a [[wave function]] $\Psi$ evolves ov
 
 \begin{equation}
 \label{eq:schro}
-\iota\hbar \pdv{}{t} \Psi = \widehat{H} \Psi, \tag{Schrodinger Equation}
+\iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi, \tag{Schrodinger Equation}
 \end{equation}
 
 Concretely, the [[Hamiltonian]] will expand the equation to
