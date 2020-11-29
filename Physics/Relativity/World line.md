@@ -1,0 +1,1 @@
+The **world line** (or **worldline**) of an object is its trajectory in [[spacetime]].
