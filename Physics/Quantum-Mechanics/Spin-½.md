@@ -25,7 +25,9 @@ Suppose you have two spin-half particles. For example, an electron and proton in
 
 |State|$m$|
 |-----|----|
-|$\mid \uparrow \uparrow \rangle$|$m=1$|
-|$\mid \uparrow\downarrow  \rangle$|$m=0$|
-|$\mid \downarrow \uparrow \rangle$|$m=0$|
-|$\mid \downarrow \downarrow \rangle$|$m=-1$|
+|$\mid \uparrow \uparrow \rangle$|1|
+|$\mid \uparrow\downarrow  \rangle$|0|
+|$\mid \downarrow \uparrow \rangle$|0|
+|$\mid \downarrow \downarrow \rangle$|1|
+
+There are three states with
