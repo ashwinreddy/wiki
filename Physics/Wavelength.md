@@ -1,0 +1,1 @@
+The **wavelength** of a periodic wave is the distance over which the wave repeats.
