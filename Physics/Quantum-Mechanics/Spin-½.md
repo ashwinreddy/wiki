@@ -24,7 +24,7 @@ $$
 Suppose you have two spin-half particles. For example, an electron and proton in the ground state of hydrogen. Since each can be spin up or spin down we have 4 states.
 
 $$
-S_z\mid s_1 s_2 m_1 m_2 \rangle = \hbar \underbrace{(m_1 + m_2)}_{m} \mid  s_1 s_2 m_1 m_2 \rangle
+S_z| s_1 s_2 m_1 m_2 \rangle = \hbar \underbrace{(m_1 + m_2)}_{m} |  s_1 s_2 m_1 m_2 \rangle
 $$
 
 |State|$m$|
