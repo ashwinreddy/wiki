@@ -1,4 +1,4 @@
-The **Schrodinger equation** describes how a [[wave function]] $\Psi$ evolves over time. Compactly, it says that the [[Hamiltonian]]
+The **Schrodinger equation** describes the relationship between the time evolution of the [[wave function]] $\Psi$ and the [[Hamiltonian]]:
 
 \begin{equation}
 \label{eq:schro}
