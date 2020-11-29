@@ -1,4 +1,4 @@
-**Spin-½** is the most important case of [[spin]] $s = \frac{1}{2}$. Then, there are just 2 eigenstates $\left|sm \right.\rangle$:
+**Spin-½** is the most important case of [[spin]] $s = \frac{1}{2}$. There are just 2 eigenstates for $s=1/2$ that we could denote $\left|sm \right.\rangle$:
 
 \begin{align}
 \mid\uparrow \rangle &\doteq \left|\frac{1}{2}\frac{1}{2}\Bigg\rangle\right. \tag{Spin Up} \\\\
