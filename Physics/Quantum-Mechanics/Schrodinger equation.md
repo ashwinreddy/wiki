@@ -1,16 +1,9 @@
-The **Schrodinger equation** describes how a [[wave function]] $\Psi$ evolves over time. Compactly, it says
+The **Schrodinger equation** describes how a [[wave function]] $\Psi$ evolves over time. Compactly, it says that the [[Hamiltonian]]
 
 \begin{equation}
 \label{eq:schro}
 \iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi, \tag{Schrodinger Equation}
 \end{equation}
-
-Concretely, the [[Hamiltonian]] will expand the equation to
-
-\begin{equation}
-\iota\hbar \pdv{\Psi}{t} = -\frac{\hbar^2}{2m} \nabla^2 \Psi + V \Psi
-\end{equation}
-
 
 [[_TOC_]]
 
