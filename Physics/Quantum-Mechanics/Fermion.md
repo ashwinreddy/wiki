@@ -1,0 +1,1 @@
+A **fermion** has half-integer [[spin]].
