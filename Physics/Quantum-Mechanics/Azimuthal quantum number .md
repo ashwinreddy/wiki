@@ -1,4 +1,4 @@
-The **azimuthal quantum number** $\ell$.
+The **azimuthal quantum number** or **orbital (angular momentum) quantum number** $\ell$.
 
 $$
 L^2 \Psi = \hbar^2 \ell(\ell + 1) \Psi
