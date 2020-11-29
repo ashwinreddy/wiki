@@ -1,7 +1,7 @@
 **Spin-½** is the most important case of [[spin]] $s = \frac{1}{2}$. Then, there are just 2 eigenstates $\left|sm \right.\rangle$:
 
 $$
-\mid\uparrow \rangle \doteq \left|\frac{1}{2}\frac{1}{2}\Big\rangle\right.
+\mid\uparrow \rangle \doteq \left|\frac{1}{2}\frac{1}{2}\Bigg\rangle\right.
 $$
 
 
