@@ -1,0 +1,1 @@
+A **boson** has integer [[spin]].
