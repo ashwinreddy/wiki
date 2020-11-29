@@ -1,1 +1,1 @@
-A **fermion** has half-integer [[spin]]. Its [[wavefunction]] must be [[odd function]].
+A **fermion** has half-integer [[spin]]. Its [[wave function]] must be [[odd function]].
