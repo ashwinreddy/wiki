@@ -5,5 +5,5 @@ A **square matrix** is an $n \times n$ [[matrix]], which means the input and out
 * Any square matrix $A$ can be written as the sum of a [[symmetric matrix]] and a [[skew-symmetric matrix]]:
 
 $$
-A = \frac{1}{2}(A + A^\mathsf{T}) + \frac{1}{2}(A - A^\mathsf{T})
+A = \frac{1}{2}\left(A + A^\mathsf{T}\right) + \frac{1}{2}\left(A - A^\mathsf{T}\right)
 $$
