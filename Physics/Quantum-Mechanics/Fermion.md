@@ -1,1 +1,1 @@
-A **fermion** has half-integer [[spin]]. Its [[wave function]] must be [[odd function]].
+A **fermion** has half-integer [[spin]]. Its [[wave function]] $\Psi_f = |\psi\rangle_A |\phi\rangle_B - |\phi\rangle_A|\psi\rangle_B$
