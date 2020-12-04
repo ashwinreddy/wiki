@@ -1,4 +1,4 @@
-The **Kronecker delta** is a function (really more of a symbol) $\delta$ whose inputs are usually written as indices. Using an [[Iverson bracket]],
+The **Kronecker delta** $\delta$ is symbolically written using the [[Iverson bracket]] as
 
 \begin{equation}
 \delta_{ij} \triangleq [i = j].
