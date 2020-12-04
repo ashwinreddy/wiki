@@ -1,0 +1,1 @@
+**Length contraction** is the effect of a moving object's length contracting. [[Lorentz factor]]
