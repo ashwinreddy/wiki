@@ -5,8 +5,7 @@ The **affine connection** is a [[binary operation]] on nearby tangent spaces tha
 (X, Y) &\mapsto \nabla_X Y
 \end{align}
 
-Suppose $X$ and $Y$ are [[vector fields|vector field]]
+Suppose $X$ and $Y$ are [[vector fields|vector field]] and $f$ is a smooth function
 
-$$
-\nabla_{fX}Y = f\nabla_X Y
-$$
+* $\nabla_{fX}Y = f\nabla_X Y$
+* $\nabla_X (fY) = \dd{f}(X) Y + f\nabla_X Y$
