@@ -1,1 +1,1 @@
-**Unitary group** is the [[Lie group]] of $n \times n$ [[unitary matrices|unitary matrix]].
+**Unitary group** $U(n)$ is the [[Lie group]] of $n \times n$ [[unitary matrices|unitary matrix]].
