@@ -18,7 +18,7 @@ $$
 The transition map is a coordinate transformation from $\mathcal{U}_i$ to $\mathcal{U}_j$ and by the construction of a manifold is at least guaranteed to be continuous.
 
 \begin{equation}
-\RR^n \supset \phi_i^{-1}(\mathcal{U}\_{ij}) \xrightarrow{\phi\_i} \mathcal{U}_{ij} \xrightarrow{\phi_j^{-1}} \phi_j^{-1}(\mathcal{U}_{ij}) \subset \RR^n
+\RR^n \supset \phi_i^{-1}(\mathcal{U}\_{ij}) \xrightarrow{\phi\_i} \mathcal{U}\_{ij} \xrightarrow{\phi_j^{-1}} \phi_j^{-1}(\mathcal{U}_{ij}) \subset \RR^n
 \end{equation}
 
 If you want a certain level of differentiability, you need to have the transition maps that support that.
