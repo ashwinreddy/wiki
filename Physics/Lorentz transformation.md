@@ -4,4 +4,4 @@ A **Lorentz transformation** $\Lambda$ must keep the spacetime interval the same
 \eta = \Lambda^\mathsf{T} \eta \Lambda
 \end{equation}
 
-where $\eta$ is the [[Minkowski metric]]
+where $\eta$ is the [[Minkowski metric]].
