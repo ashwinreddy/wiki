@@ -1,4 +1,4 @@
-**Hilbert space** 
+A **Hilbert space** $\mathscr{H}$ is a [[vector space]] with an [[inner product]] (along with some more conditions).
 
 # Quantum Mechanics
 
