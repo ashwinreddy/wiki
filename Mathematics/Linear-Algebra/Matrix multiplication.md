@@ -4,6 +4,13 @@ $$
 \left(AB\right)\_{ij} = \sum\_{k=1}^n A_{ik}B_{kj} 
 $$
 
+$$
+\begin{bmatrix}
+\vec{a}_1^\mathsf{T} \\\\
+\vec{a}_2^\mathsf{T}
+\end{bmatrix}
+$$
+
 # Properties
 
 * It is not a commutative operator.
