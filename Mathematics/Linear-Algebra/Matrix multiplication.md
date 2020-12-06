@@ -8,7 +8,7 @@ $$
 \begin{bmatrix}
 --- & \vec{a}_1^\mathsf{T} & --- \\\\
 & \vdots & \\\\
---- & \vec{a}_n^\mathsf{T} & ---
+--- & \vec{a}_m^\mathsf{T} & ---
 \end{bmatrix}\cdot \begin{bmatrix}
 | & & | \\\\
 \vec{b}_1 & \dots & \vec{b}_n \\\\
