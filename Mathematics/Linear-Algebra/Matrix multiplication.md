@@ -6,7 +6,7 @@ $$
 
 $$
 \begin{bmatrix}
-\vec{b}_1^\mathsf{T} \\\\
+--- \vec{b}_1^\mathsf{T} \\\\
 \vdots \\\\
 \vec{b}_n^\mathsf{T}
 \end{bmatrix}\cdot \begin{bmatrix}
