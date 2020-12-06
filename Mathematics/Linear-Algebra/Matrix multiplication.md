@@ -7,7 +7,7 @@ $$
 $$
 \begin{bmatrix}
 \vec{a}_1^\mathsf{T} \\\\
-\vec{a}_2^\mathsf{T}
+\vdots
 \end{bmatrix}
 $$
 
