@@ -6,12 +6,12 @@ $$
 
 $$
 \begin{bmatrix}
---- & \vec{b}_1^\mathsf{T} & --- \\\\
+--- & \vec{a}_1^\mathsf{T} & --- \\\\
 & \vdots & \\\\
---- & \vec{b}_n^\mathsf{T} & ---
+--- & \vec{a}_n^\mathsf{T} & ---
 \end{bmatrix}\cdot \begin{bmatrix}
 | & & | \\\\
-\vec{a}_1 & \dots & \vec{a}_n \\\\
+\vec{b}_1 & \dots & \vec{b}_n \\\\
 | & & |
 \end{bmatrix}
 $$
