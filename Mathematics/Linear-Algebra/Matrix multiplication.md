@@ -7,7 +7,7 @@ $$
 $$
 \begin{bmatrix}
 \vec{a}_1^\mathsf{T} \\\\
-\vdots
+\vdots \\\\
 \vec{a}_n^\mathsf{T}
 \end{bmatrix}
 $$
