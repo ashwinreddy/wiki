@@ -10,7 +10,7 @@ $$
 \end{bmatrix}\cdot\begin{bmatrix}
 \vec{b}_1^\mathsf{T} \\\\
 \vdots \\\\
-\vecba}_n^\mathsf{T}
+\vec{b}_n^\mathsf{T}
 \end{bmatrix}
 $$
 
