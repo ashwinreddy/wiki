@@ -10,7 +10,6 @@ $$
 \vdots \\\\
 \vec{b}_n^\mathsf{T}
 \end{bmatrix}\cdot \begin{bmatrix}
-\vrule
 \vec{a}_1 & \dots & \vec{a}_n
 \end{bmatrix}
 $$
