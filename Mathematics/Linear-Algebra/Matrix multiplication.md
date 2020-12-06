@@ -6,11 +6,11 @@ $$
 
 $$
 \begin{bmatrix}
-\vec{a}_1 & \dots & \vec{a}_n
-\end{bmatrix}\cdot\begin{bmatrix}
 \vec{b}_1^\mathsf{T} \\\\
 \vdots \\\\
 \vec{b}_n^\mathsf{T}
+\end{bmatrix}\cdot \begin{bmatrix}
+\vec{a}_1 & \dots & \vec{a}_n
 \end{bmatrix}
 $$
 
