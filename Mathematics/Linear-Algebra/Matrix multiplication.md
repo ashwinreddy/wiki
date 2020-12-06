@@ -10,6 +10,7 @@ $$
 & \vdots & \\\\
 --- & \vec{b}_n^\mathsf{T} & ---
 \end{bmatrix}\cdot \begin{bmatrix}
+| & & | \\\\
 \vec{a}_1 & \dots & \vec{a}_n
 \end{bmatrix}
 $$
