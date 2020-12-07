@@ -1,1 +1,1 @@
-A **holomorphic function**
+A **holomorphic function** is a [[function]]
