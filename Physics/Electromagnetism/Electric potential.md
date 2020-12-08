@@ -10,7 +10,7 @@ V = \frac{U_e}{q}
 Knowing how (electric) force and (electric) potential energy are related, it becomes clear that
 
 $$
-V = - \int_C \vec{E} \cdot \dd{\vec{\ell}}
+V = - \int_C \mathbf{E} \cdot \dd{\mathbf{\ell}}
 $$
 
 
@@ -18,7 +18,7 @@ $$
 \begin{equation}
 \boxed{
 \begin{CD}
-\vec{F} \@>\div {q}>> \vec{E}\\\\
+\mathbf{F} \@>\div {q}>> \mathbf{E}\\\\
 \@AA-\nabla A \@V{-\int}VV\\\\
 U \@<\times q<< V
 \end{CD}}
