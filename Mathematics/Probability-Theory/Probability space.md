@@ -1,1 +1,1 @@
-A **probability space** is a $(\Omega, \mathcal{F}, P)$ with $\Omega$ a [[sample space]], a [[σ-algebra]]
+A **probability space** is a $(\Omega, \mathcal{F}, P)$ with $\Omega$ a [[sample space]], $\mathcal{F}$ a suitable [[σ-algebra]], and $P$ a [[probability measure]].
