@@ -5,3 +5,6 @@ The **trace** of a [[matrix]] is the sum of its diagonal and happens to be the s
 \end{equation}
 
 The trace is invariant under cyclic permutations.
+
+
+Suppose you have an [[orthonormal basis]] $(\varphi_n)_n$
