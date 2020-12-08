@@ -1,1 +1,1 @@
-A **one-form** is a [[linear function]]
+A **one-form** is a [[linear map]] $\omega$ of [[vector]].
