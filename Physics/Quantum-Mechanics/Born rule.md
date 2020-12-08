@@ -1,9 +1,10 @@
 The **Born rule** interprets the [[wave function]] $\Psi(x, t)$  in the following way:
 
-1. Let $\rho(x, t) = |\Psi(x, t) |^2$ 
-2. Scale $\rho$ such that $\int \rho = 1$ 
+$$
+\rho(x, t) \doteq |\Psi(x, t) |^2
+$$
 
-represents the [[probability density function]] for finding a particle at $x$ at time $t$. In this way,
+Then $\rho(x,t)$ represents the [[probability density function]] for finding a particle at $x$ at time $t$. In this way,
 
 $$
 \Pr(a \leq x \leq b) = \int_a^b \dd{x} \cdot \rho(x,t)
