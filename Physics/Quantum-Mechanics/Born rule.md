@@ -1,7 +1,4 @@
-The **Born rule**.
-
-
-It says that for a [[wave function]] $\Psi(x, t)$, the squared magnitude of the wave function
+The **Born rule** interprets the [[wave function]] $\Psi(x, t)$ as a complex-valued function whose output's modulus represents the probability of finding a particle in $x$ at time $t$. 
 
 $$
 \rho(x, t) = |\Psi(x, t) |^2
