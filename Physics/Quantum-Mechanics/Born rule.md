@@ -1,8 +1,7 @@
-The **Born rule** interprets the [[wave function]] $\Psi(x, t)$ as a complex-valued function whose output's modulus represents the probability of finding a particle in $x$ at time $t$. 
+The **Born rule** interprets the [[wave function]] $\Psi(x, t)$  in the following way:
 
-$$
-\rho(x, t) = |\Psi(x, t) |^2
-$$ 
+1. Let $\rho(x, t) = |\Psi(x, t) |^2$ 
+2. Scale $\rho$ such that $\int \rho = 1$ 
 
 represents the [[probability density function]] for finding a particle at $x$ at time $t$. In this way,
 
