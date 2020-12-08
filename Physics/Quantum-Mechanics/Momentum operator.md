@@ -50,5 +50,5 @@ $$
 $$
 
 $$
-\left[ \widehat{p}, \widehat{H} \right] = \iota\hbar \pdv{V}{x}
+\left[ \widehat{p}, \hat{H} \right] = \iota\hbar \pdv{V}{x}
 $$
