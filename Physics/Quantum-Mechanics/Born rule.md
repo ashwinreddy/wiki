@@ -1,7 +1,7 @@
 The **Born rule** interprets the [[wave function]] $\Psi(x, t)$  in the following way:
 
 $$
-\rho(x, t) \doteq |\Psi(x, t) |^2
+\rho(x, t) \triangleq |\Psi(x, t) |^2
 $$
 
 Then $\rho(x,t)$ represents the [[probability density function]] for finding a particle at $x$ at time $t$. In this way,
