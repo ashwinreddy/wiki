@@ -16,9 +16,10 @@ $$
 
 
 \begin{equation}
+\boxed{
 \begin{CD}
 \vec{F} \@>\div {q}>> \vec{E}\\\\
 \@AA-\nabla A \@V{-\int}VV\\\\
 U \@<\times q<< V
-\end{CD}
+\end{CD}}
 \end{equation}
