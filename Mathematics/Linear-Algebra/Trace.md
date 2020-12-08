@@ -10,5 +10,5 @@ The trace is invariant under cyclic permutations.
 Suppose you have an [[orthonormal basis]] $(\varphi_n)_n$. Then the trace is
 
 $$
-\trace
+\tr
 $$
