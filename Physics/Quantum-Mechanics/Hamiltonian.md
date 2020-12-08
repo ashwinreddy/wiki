@@ -1,7 +1,7 @@
 The **Hamiltonian operator** in quantum mechanics represents the total energy, [[kinetic energy]] and [[potential energy]].
 
 \begin{equation}
-\boxed{\widehat{H} = \widehat{T} + \widehat{V}}
+\boxed{\hat{H} = \widehat{T} + \widehat{V}}
 \end{equation}
 
 
