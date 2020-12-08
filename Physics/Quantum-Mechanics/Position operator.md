@@ -19,5 +19,5 @@ g_y(x) = \delta(x - y)
 $$
 
 $$
-\left[\widehat{x}_i, \widehat{H} \right] = \frac{\iota\hbar}{m} \widehat{p}_i
+\left[\widehat{x}_i, \hat{H} \right] = \frac{\iota\hbar}{m} \widehat{p}_i
 $$
