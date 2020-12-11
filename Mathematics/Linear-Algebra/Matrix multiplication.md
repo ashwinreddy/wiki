@@ -4,6 +4,8 @@ $$
 \left(AB\right)\_{ij} = \sum\_{k=1}^n A_{ik}B_{kj} 
 $$
 
+In this way, we're basically finding all the dot products at once:
+
 $$
 \begin{bmatrix}
 --- & \vec{a}_1^\mathsf{T} & --- \\\\
