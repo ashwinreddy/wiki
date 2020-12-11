@@ -3,3 +3,6 @@ A **bilinear form** on a $k$-[[vector space]] $V$ is a [[bilinear map]] $B: V \t
 $$
 B(\vec{v}, \vec{w}) = \vec{v}^\mathsf{T} A \vec{w}
 $$
+
+Symmetric
+: $B(\vec{v}, \vec{w}) = B(\vec{w}, \vec{v})$
