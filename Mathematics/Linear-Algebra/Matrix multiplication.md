@@ -14,7 +14,7 @@ $$
 \vec{b}_1 & \dots & \vec{b}_n \\\\
 | & & |
 \end{bmatrix} =  \begin{bmatrix}
-\langle \vec{a}_1, \vec{b}_1 \rangle & \dots \langle \vec{a}_1, \vec{b}_n \rangle
+\langle \vec{a}_1, \vec{b}_1 \rangle & \dots & \langle \vec{a}_1, \vec{b}_n \rangle
 \end{bmatrix}
 $$
 
