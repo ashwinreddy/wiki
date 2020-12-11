@@ -13,6 +13,10 @@ $$
 | & & | \\\\
 \vec{b}_1 & \dots & \vec{b}_n \\\\
 | & & |
+\end{bmatrix} = \end{bmatrix}\cdot \begin{bmatrix}
+| & & | \\\\
+\vec{b}_1 & \dots & \vec{b}_n \\\\
+| & & |
 \end{bmatrix}
 $$
 
