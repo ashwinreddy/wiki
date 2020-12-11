@@ -4,7 +4,11 @@ $$
 \omega_0 = \frac{2\pi}{T}
 $$
 
-We can allow a [[complex number]] to carry both the sine and cosine amplitudes in a meaningful way.
+We can allow a [[complex number]] to carry both the sine and cosine amplitudes in a meaningful way since
+
+$$
+e^{\iota kx} = \cos(kx) + \iota \sin(kx)
+$$
 
 $$
 f(t) = \sum_{k \in \mathbb{Z}} c_k e^{\iota k\omega_0 t} \tag{Synthesis Equation}
