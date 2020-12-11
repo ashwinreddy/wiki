@@ -1,0 +1,1 @@
+A **bilinear form** on a [[vector space]] is a [[bilinear map]]
