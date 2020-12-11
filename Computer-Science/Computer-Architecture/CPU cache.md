@@ -1,5 +1,1 @@
-A **cache**
-
-
-# Direct-Mapped Cache
-
+A **cache** makes it faster for read/write to memory.
