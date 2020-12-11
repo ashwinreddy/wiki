@@ -6,3 +6,6 @@ $$
 
 Symmetric
 : $B(\vec{v}, \vec{w}) = B(\vec{w}, \vec{v})$
+
+Alternating
+: $B(\vec{v}, \vec{v}) = 0$
