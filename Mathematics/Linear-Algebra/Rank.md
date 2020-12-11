@@ -7,5 +7,5 @@ The **rank** of a [[matrix]] is its _effective_ [[dimension]], i.e. of its [[ran
 An $m \times n$ matrix would have
 
 \begin{equation}
-\operatorname{rank} A \leq \min(m, n)
+0 \leq \operatorname{rank} A \leq \min(m, n)
 \end{equation}
