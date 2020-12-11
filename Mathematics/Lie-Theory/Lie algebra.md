@@ -1,4 +1,4 @@
-A **Lie algebra** over $k$ is a $k$-[[vector space]] $V$ along with a **Lie bracket**.
+A **Lie algebra** over $k$ is a $k$-[[vector space]] $V$ along with an operation called the **Lie bracket**.
 
 # Bracket
 
