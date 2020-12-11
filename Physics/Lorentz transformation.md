@@ -7,7 +7,7 @@ A **Lorentz transformation** $\Lambda$ must keep the spacetime interval the same
 If we take the [[determinant]] of this equation,
 
 \begin{equation}
-1 = (\det \Lambda)^2 \implies \Lambda = \pm 1
+1 = (\det \Lambda)^2 \implies \det \Lambda = \pm 1
 \end{equation}
 
 The set of transformations forms the [[Lorentz group]].
