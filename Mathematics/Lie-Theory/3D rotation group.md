@@ -1,4 +1,4 @@
-The **3D rotation group**, denoted $\operatorname{SO}(3)$ for [[special orthogonal group]], is the [[Lie group]] of rotations in three-dimensions. It consists of matrices $O$ such that $O^\mathsf{T}O = I$ and $\det O = 1$
+The **3D rotation group**, denoted _SO(3)_ for [[special orthogonal group]], is the [[Lie group]] of rotations in three-dimensions. It consists of matrices $O$ such that $O^\mathsf{T}O = I$ and $\det O = 1$
 
 # [[Infinitesimal transformation]]
 
