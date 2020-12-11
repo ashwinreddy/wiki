@@ -7,7 +7,7 @@
 For constant mass, this reduces to [[mass]] times [[acceleration]]. Otherwise, we use the [[rocket equation]].
 
 $$
-\vec{F} = m\vec{a}
+\dot{m} = 0 \implies \vec{F} = m\vec{a}
 $$
 
 Usually, we treat this as a [[differential equation]] to solve
