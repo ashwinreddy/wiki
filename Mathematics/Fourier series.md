@@ -7,7 +7,7 @@ $$
 We can allow a [[complex number]] to carry both the sine and cosine amplitudes in a meaningful way since
 
 $$
-e^{\iota kx} = \cos(kx) + \iota \sin(kx)
+e^{\iota k \omega x} = \cos(k \omega x) + \iota \sin(k \omega x)
 $$
 
 $$
