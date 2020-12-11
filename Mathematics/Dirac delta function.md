@@ -1,4 +1,4 @@
-The **Dirac delta function** $\delta$ is defined as
+The **Dirac delta function** $\delta$ is roughly given by
 
 $$
 \delta(x) = \begin{cases} +\infty & x= 0 \\\\\ 0 & x \neq 0\end{cases}
