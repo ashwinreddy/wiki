@@ -1,7 +1,7 @@
 The **gravitational potential** is given by
 
 $$
-V(\vec{r}) = \frac{U(\vec{r})}{m}
+V(\mathbf{r}) = \frac{U(\mathbf{r})}{m}
 $$
 
 Analagous to [[electric potential]].
