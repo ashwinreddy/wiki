@@ -29,3 +29,12 @@ $$
 # Computation
 
 If both matrices are $n \times n$ then this naive [[algorithm]] computation has [[time complexity]] $\order{n^3}$.
+
+```
+def matmul(a, b, c):
+    for i in range(a.shape[0]):
+        for j in range(b.shape[1]):
+            for k in range(a.shape[1]):
+                c[i][k] += a[i][k] * b[k][j]
+    return c
+```
