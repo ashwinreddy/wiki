@@ -16,3 +16,12 @@ Index
 
 Offset
 : The offset is where in the block is your desired data
+
+# Cache miss
+
+
+|Type|Description|
+|----|-----------|
+|Compulsory|First time bringing in a block|
+|Conflict||
+|Capacity|Seeing more unique blocks than blocks in the cache.|
