@@ -15,7 +15,8 @@ $$
 | & & |
 \end{bmatrix} =  \begin{bmatrix}
 \langle \vec{a}_1, \vec{b}_1 \rangle & \dots & \langle \vec{a}_1, \vec{b}_n \rangle \\\\
-\vdots & \ddots
+\vdots & \ddots & \vdots \\\\
+\langle \vec{a}_m, \vec{b}_1 \rangle & \dots & \langle \vec{a}_m, \vec{b}_n \rangle
 \end{bmatrix}
 $$
 
