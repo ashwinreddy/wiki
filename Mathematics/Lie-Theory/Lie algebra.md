@@ -6,7 +6,7 @@ Lie bracket / commutator
 : A [[bilinear map]] $[\cdot,\cdot]: V \times V \to V$ satisfying the following for all $x, y, z \in V$:
 
 * $[x, x] = 0$ for all $x \in V$
-* \begin{equation}\Big [x, [y, z] \Big ] + [y, [z,x]] + [z, [x,y]]=0 \tag{Jacobi identity}\end{equation}
+* \begin{equation}\big [x, [y, z] \big ] + [y, [z,x]] + [z, [x,y]]=0 \tag{Jacobi identity}\end{equation}
 * $[x,y] = -[y,x]$
 
 
