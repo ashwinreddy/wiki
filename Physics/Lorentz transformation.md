@@ -4,3 +4,4 @@ A **Lorentz transformation** $\Lambda$ must keep the spacetime interval the same
 \eta = \Lambda^\mathsf{T} \eta \Lambda
 \end{equation}
 
+The set of transformations forms the [[Lorentz group]].
