@@ -24,6 +24,11 @@ Offset
 |Write through|Write to cache and memory to enforce consistency|
 |Write back|Write to cache and write to memory if dirty|
 
+|Write Miss Policy|Description|
+|----------------|-----------|
+|Write allocate|Pull the block up to cache and write it there|
+|Write back|Write directly to memory|
+
 <<Note("When do we do the update for write back?")>>
 
 # Cache miss
