@@ -1,4 +1,4 @@
-A **CPU cache** makes it faster for read/write to memory by sitting closer to the core. 
+A **CPU cache** makes it faster for read/write to memory by sitting closer to the core. When you make a cache, you choose a **cache size** and a **block size**
 
 |Type|Description|
 |----|-----------|
