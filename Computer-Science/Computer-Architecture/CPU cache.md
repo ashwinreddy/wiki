@@ -17,6 +17,15 @@ Index
 Offset
 : The offset is where in the block is your desired data
 
+# Policies
+
+|Write Hit Policy|Description|
+|----------------|-----------|
+|Write through|Write to cache and memory to enforce consistency|
+|Write back|Write to cache and write to memory if dirty|
+
+<<Note("When do we do the update for write back?")>>
+
 # Cache miss
 
 
