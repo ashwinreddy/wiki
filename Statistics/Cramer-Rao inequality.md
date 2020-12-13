@@ -1,7 +1,7 @@
 The **Cramer-Rao inequality** or **Cramer-Rao Lower Bound (CRLB)** says that the MSE of any unbiased estimator ([[variance]]) is at least the reciprocal [[Fisher information]].
 
 \begin{equation}
-\sigma^2_\theta \geq \frac{1}{ \mathcal{I}(\theta)} \tag{Cramer-Rao Inequality}
+\sigma^2_\theta \geq \text{Cramer-Rao Lower Bound} = \frac{1}{ \mathcal{I}(\theta)} \tag{Cramer-Rao Inequality}
 \end{equation}
 
 Thus, high Fisher information means the possibility of a lower variance estimator.
