@@ -1,4 +1,4 @@
-The **uncertainty principle** says that for [[observables|observable]] $A$ and $B$,
+The **uncertainty principle** says that for [[observables|observable]] $A$ and $B$, the [[variance]] $\sigma_A^2$ and $\sigma_B^2$ obey
 
 \begin{equation}
 \boxed{ \sigma_A^2 \sigma_B^2 \geqslant \left(\frac{1}{2\iota} \langle \left[A,B\right] \rangle\right)^2 } \tag{Uncertainty principle}
