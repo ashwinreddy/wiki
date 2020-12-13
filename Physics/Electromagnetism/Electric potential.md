@@ -1,10 +1,7 @@
 **Electric potential** is [[electric potential energy]] per unit [[electric charge]].
 
-$\require{AMScd}$
-
-
 \begin{equation}
-V = \frac{U_e}{q}
+V(\vec{r}) = \frac{U_e(\vec{r})}{q}
 \end{equation}
 
 Knowing how (electric) force and (electric) potential energy are related, it becomes clear that
