@@ -1,1 +1,0 @@
-**Charge density** is [[electric charge]] per unit volume.
