@@ -23,7 +23,13 @@ L_z | \psi \rangle = \hbar m | \psi \rangle
 
 ## Commutators
 
-* $[L_i, L_j] = \iota\hbar\epsilon_{ijk}L_k$
+The algebra is summarized by the following equations
+
+\begin{equation}
+[L_i, L_j] = \iota\hbar\epsilon_{ijk}L_k
+\end{equation}
+
+
 * $\left[L^2, L_i\right] = 0$.
 * If $V(\vec{r}) = V(r)$, then $L_x$, $L_y$, and $L_z$ are conserved: $[H, L_x] = [H, L_y] = [H, L_z] = 0$
 
