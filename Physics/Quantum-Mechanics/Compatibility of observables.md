@@ -8,3 +8,5 @@ b) $A$ and $B$ commute.
 \end{equation}
 
 c) $A$ and $B$ have a common eigenbasis.
+
+The [[uncertainty principle]]
