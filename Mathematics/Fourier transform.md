@@ -6,5 +6,5 @@ $$
 $$
 
 $$
-g(t) = \mathcal{F}^{-1}\\{G(\omega)\\} = \frac{1}{2\pi}\int_\RR \dd{t}\cdot G(\omega)e^{\iota\omega t}
+g(t) = \mathcal{F}^{-1}\\{G(\omega)\\} = \frac{1}{2\pi}\int_\RR \dd{\omega}\cdot G(\omega)e^{\iota\omega t}
 $$
