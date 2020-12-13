@@ -8,9 +8,3 @@ b) $A$ and $B$ commute.
 \end{equation}
 
 c) $A$ and $B$ have a common eigenbasis.
-
-The [[uncertainty principle]]
-
-\begin{equation}
-[A,B] = 0 \implies \sigma_A^2 \sigma_B^2 \geqslant 0
-\end{equation}
