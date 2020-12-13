@@ -1,4 +1,16 @@
-**Spin angular momentum** is a kind of internal angular momentum for elementary particles. It is related to the eigenvalue of $S^2$ operator in the following way:
+**Spin angular momentum**, abbreviated **spin**, is a kind of internal angular momentum for elementary particles. 
+
+
+The commutation relations are summarized by
+
+$$
+[S_i, S_j] = \iota\hbar \epsilon_{ijk}S_{i}S_{j}
+$$
+
+
+
+
+It is related to the eigenvalue of $S^2$ operator in the following way:
 
 $$
 S^2 | sm \rangle = \hbar^2 s(s+1) | sm \rangle
