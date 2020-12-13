@@ -4,7 +4,7 @@ $$
 f\^\star\left(p\right) = \sup_{x \in I} (px - f(x))
 $$
 
-First, think of $p = f'(x)$. Then, recall that
+Recall that the equation for the tangent line of $f$ at $x_0$ is given by
 
 $$
 \mathsf{tangent}_{x_0}(x) = f(x_0) + f'(x_0)(x-x_0)
