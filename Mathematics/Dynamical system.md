@@ -1,0 +1,1 @@
+A **dynamical system** is a system that evolves over time.
