@@ -16,7 +16,7 @@ $$
 \mathsf{tangent}_{x_0}(0) = f(x_0) - px_0 
 $$
 
-Intuitively, then
+Intuitively, then we have the y-intercept of the tangent line at the point $x_0$ associated with slope $p$.
 
 $$
 f^\star(p) = \mathsf{tangent}_{x_0(p)}(0)
