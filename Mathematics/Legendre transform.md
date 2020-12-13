@@ -21,5 +21,3 @@ Intuitively, then
 $$
 f^\star(p) = \mathsf{tangent}_{x_0(p)}(0)
 $$
-
-It is the negative of the $y$-intercept of the tangent line to the graph of $f$ that has slope $p$.
