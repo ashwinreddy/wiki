@@ -1,4 +1,7 @@
-**Spin-½** is the most important case of [[spin]] $s = \frac{1}{2}$. Such particles have a permanent magnetic moment along the direction of their spin. 
+**Spin-½** refers to the [[spin]] $s = \frac{1}{2}$. This includes [[electron]], [[proton]], [[neutron]], [[quarks]].
+
+
+Such particles have a permanent magnetic moment along the direction of their spin. 
 
 
 There are just 2 eigenstates for $s=1/2$ that we could denote $\left|s, m \right.\rangle$:
