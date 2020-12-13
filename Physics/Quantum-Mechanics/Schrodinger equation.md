@@ -2,7 +2,7 @@ The **Schrodinger equation** describes the relationship between the time evoluti
 
 \begin{equation}
 \label{eq:schro}
-\iota\hbar \pdv{}{t} \Psi = \hat{H} \Psi. \tag{Schrodinger Equation}
+\iota\hbar \pdv{\Psi}{t} = \hat{H} \Psi. \tag{Schrodinger Equation}
 \end{equation}
 
 [[_TOC_]]
