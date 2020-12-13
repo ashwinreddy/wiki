@@ -4,4 +4,6 @@ $$
 f\^\star\left(p\right) = \sup_{x \in I} (px - f(x))
 $$
 
+First, think of $p = f'(x)$.
+
 It is the negative of the $y$-intercept of the tangent line to the graph of $f$ that has slope $p$.
