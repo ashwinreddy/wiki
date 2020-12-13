@@ -7,5 +7,5 @@ $$
 In quantum mechanics, the [[commutator]] is related to the Poisson bracket:
 
 $$
-\left[A, B\right] = \iota\hbar \\{A, B\\}
+\left[A, B\right] \propto \\{A, B\\}
 $$
