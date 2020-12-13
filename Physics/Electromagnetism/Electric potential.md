@@ -12,14 +12,3 @@ Knowing how (electric) force and (electric) potential energy are related, it bec
 $$
 V = - \int_C \mathbf{E} \cdot \dd{\mathbf{\ell}}
 $$
-
-
-
-\begin{equation}
-\boxed{
-\begin{CD}
-\mathbf{F} \@>\div {q}>> \mathbf{E}\\\\
-\@AA-\nabla A \@V{-\int}VV\\\\
-U \@<\times q<< V
-\end{CD}}
-\end{equation}
