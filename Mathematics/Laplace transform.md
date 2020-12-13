@@ -15,7 +15,7 @@ $$
 \sum_{n=0}^\infty a_n x^n \to \int_0^\infty a(t) x^t \dd{t}
 $$
 
-We replace with $e^{-st}$ to make it easier to work with.
+We replace $x^t$ with $e^{-st}$ to make it easier to work with.
 
 # Properties
 
