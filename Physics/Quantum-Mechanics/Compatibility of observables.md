@@ -9,8 +9,3 @@ b) $A$ and $B$ commute.
 
 c) $A$ and $B$ have a common eigenbasis. 
 
-Suppose $\mathbf{v}$ is an eigenvector of $A$ with eigenvalue $\lambda$. Then,
-
-$$
-BA\mathbf{v} = B\lambda \mathbf{v} = \lambda B\mathbf{v}
-$$
