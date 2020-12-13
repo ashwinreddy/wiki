@@ -1,1 +1,1 @@
-**Electron** has [[electric charge]].
+**Electron** is a [[fermion]] has [[electric charge]].
