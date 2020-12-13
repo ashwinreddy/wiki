@@ -1,5 +1,5 @@
-**Hamiltonian mechanics** reformulates Newtonian mechanics.
+**Hamiltonian mechanics** is a formulation of Newtonian mechanics where the equations of motion follow from the Hamiltonian
 
-\begin{equation}
-\dot{q}^j  = \pdv{H}{p_j}, \quad \dot{p}_j = -\pdv{H}{q^j} \tag{Hamilton's equations}
-\end{equation}
+$$
+H = p\dot{x} - L.
+$$
