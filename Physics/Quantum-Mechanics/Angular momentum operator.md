@@ -1,4 +1,4 @@
-The **(orbital) angular momentum operator** in quantum mechanics corresponds closely to classical [[angular momentum]], which is given as $\vec{L} = \vec{r} \times \vec{p}$. We can extend this with the operator notation to mean
+The **(orbital) angular momentum operator** takes after classical [[angular momentum]] as both are given by $\vec{L} = \vec{r} \times \vec{p}$.
 
 \begin{gather}
 L_x = yp_z - z p_y \\\\
