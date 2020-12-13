@@ -1,7 +1,7 @@
 **Spin angular momentum**, abbreviated **spin**, is a kind of internal angular momentum for elementary particles. 
 
 
-The commutation relations are summarized by
+The commutation relations are are a carbon copy of the [[angular momentum operator]]
 
 $$
 [S_i, S_j] = \iota\hbar \epsilon_{ijk}S_{i}S_{j}
