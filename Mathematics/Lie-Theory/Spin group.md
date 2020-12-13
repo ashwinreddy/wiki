@@ -1,1 +1,1 @@
-The **spin group**
+The **spin group** $\mathsf{Spin}(n)$
