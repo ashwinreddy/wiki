@@ -32,5 +32,5 @@ L_z | \psi \rangle = \hbar m | \psi \rangle
 The [[uncertainty principle]] tells us that
 
 $$
-\sigma_{L_x}\sigma_{L_y} \geqslant
+\sigma_{L_x}\sigma_{L_y} \geqslant \frac{\hbar}{2}| \langle L_z \rangle |
 $$
