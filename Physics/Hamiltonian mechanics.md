@@ -9,4 +9,4 @@ $$
 \dot{p} = -\pdv{H}{x}
 \end{gather}
 
-where $L$ is the [[Lagrangian mechanics]]. This makes the Hamiltonian the [[Legendre transformation]].
+where $L$ is the [[Lagrangian mechanics]]. This makes the Hamiltonian the [[Legendre transform]].
