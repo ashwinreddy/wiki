@@ -1,8 +1,6 @@
 Two [[observables|observable]] $A$ and $B$ are **compatible** if any of the following equivalent conditions hold:
 
-
-<div class="theorem" text=''>
-
+<div class="theorem" text='Compatability theorem'>
 
 a) If you measure $A$, then $B$, then $A$ you get the same measurement for $A$.
 b) $A$ and $B$ commute. 
