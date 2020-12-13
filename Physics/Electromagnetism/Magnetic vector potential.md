@@ -4,6 +4,10 @@ The **magnetic vector potential** is a kind of artificial potential in the form 
 \nabla \times \mathbf{A} = \mathbf{B}
 \end{equation}
 
-In essence, this is a mathematical trick enabled by the no-monopole rule $\nabla \cdot \mathbf{B} = 0$.
+Then,
+
+$$
+\mathbf{E} = -\nabla \phi - \pdv{\mathbf{A}}{t}
+$$
 
 However, we are free to choose what we want $\nabla\cdot\mathbf{A}$ to be, and the choice is called **fixing the gauge**. It can help us write [[Maxwell's equations]] nicely.
