@@ -1,8 +1,4 @@
-The **angular momentum operator** in quantum mechanics can refer to the following:
-
-* the total angular momentum
-* the orbital angular momentum $\vec{L}$ corresponds closely to classical [[angular momentum]] since it can be written as $\vec{L} = \vec{r} \times \vec{p}$.
-* [[spin]] angular momentum
+The **(orbital) angular momentum operator** in quantum mechanics corresponds closely to classical [[angular momentum]], which is given as $\vec{L} = \vec{r} \times \vec{p}$.
 
 # Orbital angular momentum
 
@@ -30,7 +26,10 @@ The algebra is summarized by the following equations
 \end{equation}
 
 
-* $\left[L^2, L_i\right] = 0$.
+\begin{equation}
+\left[L^2, L_i\right] = 0
+\end{equation}
+
 * If $V(\vec{r}) = V(r)$, then $L_x$, $L_y$, and $L_z$ are conserved: $[H, L_x] = [H, L_y] = [H, L_z] = 0$
 
 # Uncertainty
