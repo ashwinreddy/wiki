@@ -1,1 +1,1 @@
-**Measure space** is a triple $(X, \mathcal{A}, \mu)$ is a set with a sigma algebra and a measure.
+**Measure space** is a [[measurable space]] along with a choice of [[measure]].
