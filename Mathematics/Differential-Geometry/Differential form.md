@@ -1,1 +1,1 @@
-A **differential form** is, roughly speaking, a primitive that we can integrate.
+A **differential form** is, roughly speaking, something that we can integrate.
