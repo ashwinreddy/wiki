@@ -1,4 +1,4 @@
-**Spin** is a kind of internal angular momentum for elementary particles. It is related to the eigenvalue of $S^2$ operator in the following way:
+**Spin angular momentum** is a kind of internal angular momentum for elementary particles. It is related to the eigenvalue of $S^2$ operator in the following way:
 
 $$
 S^2 | sm \rangle = \hbar^2 s(s+1) | sm \rangle
