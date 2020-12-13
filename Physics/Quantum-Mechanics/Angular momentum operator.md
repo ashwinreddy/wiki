@@ -4,11 +4,6 @@ The **angular momentum operator** in quantum mechanics can refer to the followin
 * the orbital angular momentum $\vec{L}$ corresponds closely to classical [[angular momentum]] since it can be written as $\vec{L} = \vec{r} \times \vec{p}$.
 * [[spin]] angular momentum
 
-
-
-
-
-
 # Orbital angular momentum
 
 The operator $\vec{L} = (L_x, L_y, L_z)$ is given by  $\vec{L} = \vec{r} \times \vec{p}$, meaning
@@ -31,3 +26,11 @@ L_z | \psi \rangle = \hbar m | \psi \rangle
 * $[L_i, L_j] = \iota\hbar\epsilon_{ijk}L_k$
 * $\left[L^2, L_i\right] = 0$.
 * If $V(\vec{r}) = V(r)$, then $L_x$, $L_y$, and $L_z$ are conserved: $[H, L_x] = [H, L_y] = [H, L_z] = 0$
+
+# Uncertainty
+
+The [[uncertainty principle tells us that]]
+
+$$
+\sigma_{L_x}\sigma_{L_y} \slantgeq
+$$
