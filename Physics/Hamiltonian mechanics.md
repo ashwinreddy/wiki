@@ -4,4 +4,9 @@ $$
 H = p\dot{x} - L.
 $$
 
+\begin{gather}
+\dot{x} = \pdv{H}{p} \\\\
+\dot{p} = -pdv{H}{x}
+\end{gather}
+
 where $L$ is the [[Lagrangian mechanics]].
