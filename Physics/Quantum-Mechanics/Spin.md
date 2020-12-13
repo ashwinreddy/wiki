@@ -7,6 +7,10 @@ The commutation relations are algebraically a carbon copy of the [[angular momen
 [S_i, S_j] = \iota\hbar \epsilon_{ijk}S_{i}S_{j}
 \end{equation}
 
+\begin{equation}
+[S^2, S_i] = 0
+\end{equation}
+
 
 
 
