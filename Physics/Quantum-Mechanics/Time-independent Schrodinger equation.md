@@ -1,4 +1,4 @@
-The **time-independent Schrodinger equation (T.I.S.E.)** is a simplification of the [[Schrodinger equation]] that happens to be extremely useful in solving the original. In operator notation, it's just an [[eigenvalue|eigenpairs]] equation for the [[Hamiltonian]].
+The **time-independent Schrodinger equation (T.I.S.E.)** is a simplification of the [[Schrodinger equation]] that happens to be extremely useful in solving the original full time-dependent equation. In operator notation, it's just an [[eigenvalue|eigenpairs]] equation for the [[Hamiltonian]].
 
 \begin{equation}
 \label{eq:operator-tise}
