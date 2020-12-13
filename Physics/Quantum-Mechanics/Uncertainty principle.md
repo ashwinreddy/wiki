@@ -4,6 +4,8 @@ The **uncertainty principle** says that for [[observables|observable]] $A$ and $
 \boxed{ \sigma_A^2 \sigma_B^2 \geqslant \left(\frac{1}{2\iota} \langle \left[A,B\right] \rangle\right)^2 } \tag{Uncertainty principle}
 \end{equation}
 
+If $A$ and $B$ have zero [[commutator]]
+
 The uncertainty principle is only interesting when the observables do not commute. If $\left[A, B \right] = 0$, we have no information because it is trivially true. When the observables do not commute, they cannot have a complete set of common eigenfunctions.
 
 # Examples
