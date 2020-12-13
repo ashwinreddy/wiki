@@ -1,1 +1,1 @@
-**Charge density** $\rho$ is [[electric charge]] per unit volume.
+**Charge density** is [[electric charge]] per unit volume.
