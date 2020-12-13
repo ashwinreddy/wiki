@@ -13,6 +13,8 @@ where $L$ is the [[Lagrangian mechanics]]. This makes the Hamiltonian the [[Lege
 
 Suppose you have a variable $\omega(x, p)$ that has no explicit time dependence. Then,
 
-$$
-\dv{\omega}{t} = \pdv{\omega}{x}\dot{x} + \pdv{\omega}{p}\dot{p}
-$$
+\begin{align}
+\dv{\omega}{t} &= \pdv{\omega}{x}\dot{x} + \pdv{\omega}{p}\dot{p} \\\\
+&= \pdv{\omega}{x}\pdv{H}{p} - \pdv{\omega}{p}\pdv{H}{x} \\\\
+&= \\{\omega, H\\}
+\end{align}
