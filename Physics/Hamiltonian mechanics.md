@@ -10,3 +10,9 @@ $$
 \end{gather}
 
 where $L$ is the [[Lagrangian mechanics]]. This makes the Hamiltonian the [[Legendre transform]].
+
+Suppose you have a variable $\omega(x, p)$ that has no explicit time dependence. Then,
+
+$$
+\dv{\omega}{t} = \pdv{\omega}{x}\dot{x} + \pdv{\omega}{p}\dot{p}
+$$
