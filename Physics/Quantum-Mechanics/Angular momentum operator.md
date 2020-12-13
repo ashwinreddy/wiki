@@ -29,8 +29,8 @@ L_z | \psi \rangle = \hbar m | \psi \rangle
 
 # Uncertainty
 
-The [[uncertainty principle tells us that]]
+The [[uncertainty principle]] tells us that
 
 $$
-\sigma_{L_x}\sigma_{L_y} \slantgeq
+\sigma_{L_x}\sigma_{L_y} \slantedgeq
 $$
