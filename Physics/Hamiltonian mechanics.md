@@ -3,3 +3,5 @@
 $$
 H = p\dot{x} - L.
 $$
+
+where $L$ is the [[Lagrangian mechanics]].
