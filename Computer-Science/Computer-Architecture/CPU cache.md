@@ -27,7 +27,6 @@ There exists a spectrum of cache types. A fully associative cache is one that al
 |N-way associative||$N$|
 |Fully associative|No index bits for the block||
 
-<<Note("fill above")>>
 
 
 # Implementation
@@ -53,7 +52,9 @@ Since the offset needs to specify a byte in a block, we have
 \text{Offset Bits} = \lg \frac{\text{Bytes}}{\text{Block}}
 \end{equation}
 
-<<Note("index may be wrong")>>
+\begin{equation}
+\text{Index Bits} = \lg \frac{\text{Bytes}/\text{Cache}}{N \times \text{Bytes}/\text{Block}}
+\end{equation}
 
 
 # Policies
