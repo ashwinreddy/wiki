@@ -1,1 +1,1 @@
-**Dijkstra's algorithm**
+**Dijkstra's algorithm** is an [[algorithm]]
