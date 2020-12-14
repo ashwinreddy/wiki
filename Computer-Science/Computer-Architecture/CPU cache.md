@@ -33,6 +33,10 @@ There exists a spectrum of cache types. A fully associative cache is one that al
 |N-way associative||$N$|
 |Fully associative|No index bits for the block||
 
+\begin{equation}
+N \times \text{Num Sets} = \text{Num Blocks}
+\end{equation}
+
 For example, a 4-way set associative cache will index every 4 set of 4 lines in the cache, so it would use 2 fewer index bits than a direct mapped cache.
 
 
