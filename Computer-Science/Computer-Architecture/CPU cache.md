@@ -6,11 +6,7 @@ Temporal locality
 Spatial locality
 : If a memory location was used recently, nearby locations are likely to also be used.
 
-# Implementation
 
-First, there's the [[address space]].
-
-When you make a cache, you choose a **cache size** and a **block size**.
 
 # Types
 
@@ -23,6 +19,12 @@ There exists a spectrum of cache types.
 |Fully associative|No index bits for the block||
 
 <<Note("fill above")>>
+
+
+# Implementation
+
+When you make a cache, you choose a **cache size** and a **block size**. There's also the choice of associativity, as discussed above. Finally, there's the [[address space]], which is separate from our design choices for the cache. 
+
 
 # TIO
 
