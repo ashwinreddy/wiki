@@ -34,7 +34,7 @@ Suppose there's some address you want to access in the cache. Here are the steps
 
 |Address Component|Question|Meaning|
 |-----------------|-------|--------|
-|Tag|Which block do we want to look in?||
+|Tag|Which block do we want to look in?|The tag uniquely identifies the block|
 |Index|Which section of the block do we look in|The index tells which set in the cache|
 |Offset|Which byte of that section should we look at?|The offset is where in the block is your desired data|
 
