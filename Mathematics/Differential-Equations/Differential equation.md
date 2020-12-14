@@ -1,1 +1,1 @@
-A **differential equation** is an equation which involves a [[derivative]] or [[partial derivative]].
+A **differential equation** is an [[equation]] which involves a [[derivative]] or [[partial derivative]].
