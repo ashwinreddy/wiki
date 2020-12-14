@@ -1,4 +1,13 @@
-**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. In Hamiltonian mechanics, the equations of motion follow from the Hamiltonian $H \in C^\infty(\Gamma)$, a function of [[phase space]] $\Gamma$ which roughly corresponds to total energy. Then, we need to turn the Hamiltonian into a [[vector field]] such that the dynamics are flows along [[integral curve]] of that field.
+**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. Suppose we have phase space $\Gamma$.
+
+Hamiltonian
+: A function of the phase space that roughly corresponds to total energy.
+
+# Conceptual Overview
+
+In Hamiltonian mechanics, the equations of motion follow from the Hamiltonian. We need to turn the Hamiltonian into a [[vector field]] $\vec{V}$ such that the dynamics are flows along [[integral curve]] of that field. We know that $\vec{V}$ should depend only on $\dd{H}$ since we only care about local energy changes and that it should depend on $\dd{H}$ linearly since Newton's laws are linear differential equations.
+
+# Equations of Motion
 
 $$
 H(p, q) = p\dot{q} - L.
