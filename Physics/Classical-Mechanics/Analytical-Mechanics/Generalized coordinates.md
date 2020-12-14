@@ -1,1 +1,1 @@
-**Generalized coordinates** for a $N$ DOF system are coordinates $q_1, \dots, q_N$. Then the **generalized velocities** are $\dot{q}_1, \dots, \dot{q}_N$. 
+**Generalized coordinates** are a choice of coordinates for the [[configuration space]].
