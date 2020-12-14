@@ -4,4 +4,4 @@ A **classical observable** is a function $A: \Gamma \to \RR$ for [[phase space]]
 \dv{}{t}A(x(t)) = \\{A, H\\}(x(t))
 \end{equation}
 
-where $\\{A, H\\}$ is the [[Poisson bracket]].
+where $\\{A, H\\}$ is the [[Poisson bracket]], modulo a sign change.
