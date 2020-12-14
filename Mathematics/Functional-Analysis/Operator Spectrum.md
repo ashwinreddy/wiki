@@ -1,1 +1,1 @@
-The **spectrum** of a linear operator $A$ is the set of eigenvalues for $A$, denoted $\sigma(A)$.
+The **spectrum** of a [[linear map]] $A$ is the set of [[eigenvalues|eigenpairs]] for $A$, denoted $\sigma(A)$.
