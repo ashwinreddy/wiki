@@ -1,4 +1,14 @@
-A **CPU cache** makes it faster for read/write to memory by sitting closer to the core. When you make a cache, you choose a **cache size** and a **block size**.
+A **CPU cache** makes it faster for read/write to memory by sitting closer to the core. 
+
+Temporal locality
+: If a memory location was used recently, it is likely to be used soon.
+
+Spatial locality
+: If a memory location was used recently, nearby locations are likely to also be used.
+
+
+
+When you make a cache, you choose a **cache size** and a **block size**.
 
 |Type|Description|
 |----|-----------|
