@@ -1,1 +1,1 @@
-**Phase space** is the space of all possible states, which in physics consists of both position _and_ momentum. If we draw out the configuration space on a manifold $Q$, then the velocity at position $q$ belongs to the tangent space $T_qQ$. Counterintuitive though it may seem, momentum at a position $q$ belongs to the cotangent space $T^*_qQ$. Thus, the phase space is typically $T^* Q$.
+**Phase space** is the space of all possible states, which in physics consists of both position _and_ momentum. 
