@@ -32,21 +32,14 @@ There's also the choice of associativity, as discussed above. Finally, there's t
 
 Suppose there's some address you want to access in the cache. Here are the steps:
 
-|Address Component|Meaning|Question|
+|Address Component|Question|Meaning|
 |-----------------|-------|--------|
-|Tag|Which block do we want to look in?|
-|Index|The index tells which set in the cache|Which section of the block do we look in|
-|Offset||Which byte of that section should we look at?|
+|Tag|Which block do we want to look in?||
+|Index|Which section of the block do we look in|The index tells which set in the cache|
+|Offset|Which byte of that section should we look at?|The offset is where in the block is your desired data|
 
 <<Note("index may be wrong")>>
 
-3. 
-
-Index
-: 
-
-Offset
-: The offset is where in the block is your desired data
 
 # Policies
 
