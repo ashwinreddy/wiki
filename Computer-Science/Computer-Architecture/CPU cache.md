@@ -56,6 +56,10 @@ Since the offset needs to specify a byte in a block, we have
 \text{Index Bits} = \lg \frac{\text{Bytes}/\text{Cache}}{N \times \text{Bytes}/\text{Block}}
 \end{equation}
 
+\begin{equation\*}
+\text{Tag Bits} = \text{Address Bits} - \text{Index Bits} - \text{Offset bits}
+\end{equation\*}
+
 
 # Policies
 
