@@ -1,0 +1,1 @@
+A **classical observable** is a function $A: \Gamma \to \RR$ for [[phase space]] $\Gamma$, which we can take to be $T^*M$ for [[configuration space]] $M$
