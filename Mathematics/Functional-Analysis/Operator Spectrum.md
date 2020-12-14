@@ -1,1 +1,1 @@
-**Spectrum** is set of [[eigenvalues|eigenpairs]].
+The **spectrum** of a linear operator $A$ is the set of eigenvalues for $A$.
