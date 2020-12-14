@@ -1,4 +1,4 @@
-**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. In Hamiltonian mechanics, the equations of motion follow from the Hamiltonian $H$, a function of [[phase space]] which roughly corresponds to total energy.
+**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. In Hamiltonian mechanics, the equations of motion follow from the Hamiltonian $H \in C^\infty(\Gamma)$, a function of [[phase space]] $\Gamma$ which roughly corresponds to total energy.
 
 $$
 H = p\dot{x} - L.
