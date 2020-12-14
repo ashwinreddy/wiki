@@ -67,6 +67,10 @@ Since the offset needs to specify a byte in a block, we have
 \text{Tag Bits} = \text{Address Bits} - \text{Index Bits} - \text{Offset bits}
 \end{equation\*}
 
+# Usage
+
+
+
 
 # Policies
 
