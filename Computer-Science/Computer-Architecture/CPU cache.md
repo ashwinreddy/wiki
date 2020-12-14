@@ -6,7 +6,9 @@ Temporal locality
 Spatial locality
 : If a memory location was used recently, nearby locations are likely to also be used.
 
+# Implementation
 
+First, there's the [[address space]].
 
 When you make a cache, you choose a **cache size** and a **block size**.
 
