@@ -1,0 +1,1 @@
+The **cotangent bundle** of a manifold $M$ is $T^*M$
