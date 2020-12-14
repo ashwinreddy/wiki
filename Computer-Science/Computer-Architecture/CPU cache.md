@@ -47,6 +47,7 @@ Suppose there's some address you want to access in the cache. Here are the steps
 |Index|Which section of the block do we look in|The index tells which set in the cache|
 |Offset|Which byte of that section should we look at?|The offset is where in the block is your desired data|
 
+Since the offset needs to specify a byte in a block, we have
 
 \begin{equation}
 \text{Offset Bits} = \lg \frac{\text{Bytes}}{\text{Block}}
