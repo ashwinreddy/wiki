@@ -10,11 +10,17 @@ Spatial locality
 
 When you make a cache, you choose a **cache size** and a **block size**.
 
-|Type|Description|
-|----|-----------|
-|Direct Mapped Cache|Each block gets its own index|
-|N-way associative|
-|Fully associative|No index bits for the block|
+# Types
+
+There exists a spectrum of cache types.
+
+|Type|Description|Associativity|
+|----|-----------|--------------|
+|Direct Mapped Cache|Each block gets its own index|1|
+|N-way associative|$N$|
+|Fully associative|No index bits for the block||
+
+<<Note("fill above")>>
 
 # TIO
 
