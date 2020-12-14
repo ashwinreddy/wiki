@@ -1,4 +1,4 @@
-A **CPU cache** makes programs more efficient by sitting closer to the core than actual memory and being made of faster hardware. The speed ups are enabled by the following assumptions / principles:
+A **CPU cache** (informal abbreviation $$) makes programs more efficient by sitting closer to the core than actual memory and being made of faster hardware. The speed ups are enabled by the following assumptions / principles:
 
 Temporal locality
 : If a memory location was used recently, it is likely to be used soon.
@@ -29,7 +29,7 @@ When you make a cache, you choose a **cache size** and a **block size**. The cac
 There's also the choice of associativity, as discussed above. Finally, there's the [[address space]], which is separate from our design choices for the cache. 
 
 
-# TIO
+# Accessing the Cache
 
 Tag
 : The tag identifies the block inside the cache entry/slot.
