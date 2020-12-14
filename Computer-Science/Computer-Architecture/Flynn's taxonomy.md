@@ -1,5 +1,6 @@
 **Flynn's taxonomy**
 
-| |A|B|
-|C|||
-|D||
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
