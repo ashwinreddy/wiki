@@ -6,11 +6,20 @@ Temporal locality
 Spatial locality
 : If a memory location was used recently, nearby locations are likely to also be used.
 
+[[_TOC_]]
 
+# Associativity
+
+The cache is organized into **blocks**. When desiging a cache, we have a choice for what to allow in a block. 
+
+Associativity
+: The more associative a cache, the more permissive the block is.
+
+So a fully associative cache will allow data to be stored in any cache block.
 
 # Types
 
-There exists a spectrum of cache types.
+There exists a spectrum of cache types. A fully associative cache is one that allows data to be stored in any cache block.
 
 |Type|Description|Associativity|
 |----|-----------|--------------|
