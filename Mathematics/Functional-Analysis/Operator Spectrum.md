@@ -1,1 +1,1 @@
-The **spectrum** of a linear operator $A$ is the set of eigenvalues for $A$.
+The **spectrum** of a linear operator $A$ is the set of eigenvalues for $A$, denoted $\sigma(A)$.
