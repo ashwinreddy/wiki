@@ -23,7 +23,10 @@ There exists a spectrum of cache types.
 
 # Implementation
 
-When you make a cache, you choose a **cache size** and a **block size**. There's also the choice of associativity, as discussed above. Finally, there's the [[address space]], which is separate from our design choices for the cache. 
+When you make a cache, you choose a **cache size** and a **block size**. The cache size is how large the actual cache. The cache is organized / chunked into entries called blocks; the block size tells us how large each block is.
+
+
+There's also the choice of associativity, as discussed above. Finally, there's the [[address space]], which is separate from our design choices for the cache. 
 
 
 # TIO
