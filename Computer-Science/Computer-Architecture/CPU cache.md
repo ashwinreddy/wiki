@@ -28,14 +28,22 @@ When you make a cache, you choose a **cache size** and a **block size**. The cac
 
 There's also the choice of associativity, as discussed above. Finally, there's the [[address space]], which is separate from our design choices for the cache. 
 
-
 # Accessing the Cache
 
-Tag
-: The tag identifies the block inside the cache entry/slot.
+Suppose there's some address you want to access in the cache. Here are the steps:
+
+|Address Component|Meaning|Question|
+|-----------------|-------|--------|
+|Tag|Which block do we want to look in?|
+|Index|The index tells which set in the cache|Which section of the block do we look in|
+|Offset||Which byte of that section should we look at?|
+
+<<Note("index may be wrong")>>
+
+3. 
 
 Index
-: The index tells which set in the cache
+: 
 
 Offset
 : The offset is where in the block is your desired data
