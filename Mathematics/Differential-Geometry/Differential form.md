@@ -6,4 +6,6 @@ A **differential form** is, roughly speaking, something that we can integrate. R
 
 > a differential form is a rule for assigning to each “infinitesimal $n$-cube” a number. [@df]
 
+A differential 1-form on a manifold $M$ would be a function $\alpha: TM \to \RR$.
+
 ---
