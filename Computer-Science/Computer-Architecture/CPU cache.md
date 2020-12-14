@@ -13,9 +13,9 @@ Spatial locality
 The cache is organized into **blocks**. When desiging a cache, we have a choice for what to allow in a block. 
 
 Associativity
-: The more associative a cache, the more permissive the block is.
+: The number of blocks assigned to an index
 
-So a fully associative cache will allow data to be stored in any cache block.
+The more associative a cache, the more permissive the block is. So a fully associative cache will allow data to be stored in any cache block and will have no need for any index.
 
 # Types
 
