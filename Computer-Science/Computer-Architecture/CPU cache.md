@@ -1,4 +1,4 @@
-A **CPU cache** makes it faster for read/write to memory by sitting closer to the core. 
+A **CPU cache** makes programs more efficient by sitting closer to the core than actual memory and being made of faster hardware. The speed ups are enabled by the following assumptions / principles:
 
 Temporal locality
 : If a memory location was used recently, it is likely to be used soon.
