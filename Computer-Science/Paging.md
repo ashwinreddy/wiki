@@ -2,4 +2,4 @@
 
 
 
-For example, say process A has 6 pages that belong to it. These 6 pages could be anywhere in physical memory. When the operating system switches the active program, it swaps out for the appropriate page table.
+For example, say process A has 6 pages that belong to it. These 6 pages could be anywhere in physical memory. When the operating system switches the active program, it swaps out for the appropriate page table _after_ saving the table and program data to disk.
