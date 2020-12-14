@@ -1,0 +1,1 @@
+An **equation** is an assertion that two things are really the same.
