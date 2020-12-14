@@ -10,7 +10,13 @@ Spatial locality
 
 # Associativity
 
-The cache is organized into **blocks**. When desiging a cache, we have a choice for what to allow in a block. 
+The cache is organized into **blocks**. 
+
+$$
+\text{Cache Size} = \text{Block Size} \times \text{Num Blocks}
+$$
+
+When desiging a cache, we have a choice for what to allow in a block. 
 
 Associativity
 : The number of blocks assigned to an index
