@@ -10,18 +10,18 @@ Spatial locality
 
 # Associativity
 
-The cache is organized into **blocks**. 
+The cache is organized into **blocks**. Naturally, we have
 
 $$
-\text{Cache Size} = \text{Block Size} \times \text{Num Blocks}
+\text{Cache Size} = \text{Block Size} \times \text{Num Blocks}.
 $$
 
-When desiging a cache, we have a choice for what to allow in a block. 
+When desiging a cache, we have a choice for associativity, which roughly controls what to allow in a block. 
 
 Associativity
 : The number of blocks assigned to an index
 
-The more associative a cache, the more permissive the block is. So a fully associative cache will allow data to be stored in any cache block and will have no need for any index.
+The more associative a cache, the more permissive the block is. So a fully associative cache will allow data to be stored in any cache block and will have no need for any index (i.e. just uses 1 index).
 
 # Types
 
