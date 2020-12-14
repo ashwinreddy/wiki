@@ -5,8 +5,8 @@ H(p, q) = p\dot{q} - L.
 $$
 
 \begin{gather}
-\dot{x} = \pdv{H}{p} \\\\
-\dot{p} = -\pdv{H}{x}
+\dot{q} = \pdv{H}{p} \\\\
+\dot{p} = -\pdv{H}{q}
 \end{gather}
 
 where $L$ is the [[Lagrangian mechanics]]. This makes the Hamiltonian the [[Legendre transform]].
