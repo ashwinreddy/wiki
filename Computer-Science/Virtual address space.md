@@ -1,8 +1,9 @@
-The **virtual address space** is the set of virtual addresses. 
+The **virtual address space** is the set of virtual addresses. A virtual address looks like
 
-Virtual address consists of 2 parts:
 
-* Page number
-* Offset (which byte on the page do you want)
+|Virtual page number|Page offset|
+|------------------|-----------|
+|||
+
 
 The virtual address will usually be longer than the physical address.
