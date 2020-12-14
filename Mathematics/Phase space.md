@@ -1,1 +1,1 @@
-**Phase space** is the space of all possible states, which in physics consists of both position _and_ momentum. 
+**Phase space** is the space of all possible states. 
