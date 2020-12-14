@@ -1,4 +1,4 @@
-**Hamiltonian mechanics** is a formulation of Newtonian mechanics where the equations of motion follow from the Hamiltonian
+**Hamiltonian mechanics** is a formulation of Newtonian mechanics where the equations of motion follow from the Hamiltonian, a function of [[phase space]] which roughly corresponds to total energy.
 
 $$
 H = p\dot{x} - L.
