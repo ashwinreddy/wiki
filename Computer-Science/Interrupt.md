@@ -1,0 +1,1 @@
+An **interrupt** asks the OS to notify us when a device has data. The OS will copy data into memory for us.
