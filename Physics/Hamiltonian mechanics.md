@@ -1,7 +1,7 @@
-**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. Suppose we have phase space $\Gamma$.
+**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. 
 
 Hamiltonian
-: A function of the phase space that roughly corresponds to total energy.
+: A function $H$ of the [[phase space]] $\Gamma$ that roughly corresponds to total energy.
 
 # Conceptual Overview
 
