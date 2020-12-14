@@ -1,4 +1,4 @@
-**Action** is [[integral]] of [[energy]], usually the [[Lagrangian]], over [[time]].
+**Action** is [[integral]] of [[energy]], usually the [[Lagrangian|Lagrangian mechanics]], over [[time]].
 
 $$
 S = \int_a^b {L}\\, \dd{t}
