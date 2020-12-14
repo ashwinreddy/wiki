@@ -1,0 +1,1 @@
+**MapReduce** is a programming model where you map then reduce.
