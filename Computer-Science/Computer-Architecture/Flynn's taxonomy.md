@@ -2,5 +2,6 @@
 
 | | | |
 |-|-|-|
-|A|B|C|
-|D|E|F|
+||Single Instruction|Multiple Instruction|
+|Single Data|E|F|
+|Multiple Data|||
