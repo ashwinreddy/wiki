@@ -1,1 +1,1 @@
-**Translation lookaside buffer (TLB)**
+**Translation lookaside buffer (TLB)** is a small, fully asssociate cache that exists in hardware.
