@@ -17,7 +17,7 @@ There exists a spectrum of cache types.
 |Type|Description|Associativity|
 |----|-----------|--------------|
 |Direct Mapped Cache|Each block gets its own index|1|
-|N-way associative|$N$|
+|N-way associative||$N$|
 |Fully associative|No index bits for the block||
 
 <<Note("fill above")>>
