@@ -1,0 +1,1 @@
+A **race condition** is when threads might touch the same memory and give you the wrong result.
