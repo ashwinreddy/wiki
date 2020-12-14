@@ -48,13 +48,13 @@ Suppose there's some address you want to access in the cache. Here are the steps
 
 Since the offset needs to specify a byte in a block, we have
 
-\begin{equation}
+\begin{equation\*}
 \text{Offset Bits} = \lg \frac{\text{Bytes}}{\text{Block}}
-\end{equation}
+\end{equation\*}
 
-\begin{equation}
+\begin{equation\*}
 \text{Index Bits} = \lg \frac{\text{Bytes}/\text{Cache}}{N \times \text{Bytes}/\text{Block}}
-\end{equation}
+\end{equation\*}
 
 \begin{equation\*}
 \text{Tag Bits} = \text{Address Bits} - \text{Index Bits} - \text{Offset bits}
