@@ -36,5 +36,7 @@ endif
 :Translate to page address (PA);
 if (Address exists in cache?) then (HIT)
 else (MISS)
+:Get data from memory, store in cache;
 endif
+:Return Data to Process;
 @enduml
