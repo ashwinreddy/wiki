@@ -8,7 +8,7 @@ There are two conditions we care about for registers.
 
 First, we want to make sure that the updates to a register aren't happening too quickly. When a clock cycle starts and a register begins saving its current input, the input should not change again. So the shortest path needs to take _at least_ as long as the hold time.
 
-Here, $\text{paths}$ is the set of paths that go from input or logic gate to output or register.
+Here, $\text{paths}$ is the set of paths that go from logic gate to output or register.
 
 \begin{equation}
 t_{\mathsf{hold}} \leq \min_{\text{paths}}\left( t_{\mathsf{clk2q}} +  t_{\mathsf{logic}} \tag{Hold time constraint} \right)
