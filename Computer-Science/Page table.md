@@ -21,4 +21,4 @@ Protection Fault
 Page Fault
 : The page table entry for a virtual page has valid bit set to 0.
 
-Let's assume the page fault didn't occur because the address was invalid. If the address maps to a page that was put on the disk, we could transfer that page to memory (evicting another page if needed) and add the mapping to the page table and the [[translation lookaside buffer]]
+Let's assume the page fault didn't occur because the address was invalid. If the address maps to a page that was put on the disk, we could transfer that page to memory (evicting another page if needed) and add the mapping to the page table and the [[translation lookaside buffer]].
