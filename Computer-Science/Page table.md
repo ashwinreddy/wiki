@@ -6,4 +6,6 @@ Page table entry
 @startuml
 [CPU]
 [TLB]
+
+[CPU] -> [TLB]
 @enduml
