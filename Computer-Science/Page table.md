@@ -2,8 +2,8 @@
 
 ||Valid|Dirty|Permission|PPN|
 |-|-----|-----|----------|----|
-| Entry 0 | | |||
-| Entry 1 |
+| Page entry (VPN: 0) | | |||
+| Page Entry (VPN: 1) |
 
 The valid bit is
 
