@@ -7,5 +7,5 @@ $$
 Then the wave function
 
 $$
-\psi_{n_x n_y n_z} = \sqrt{\frac{8}{\ell_x \ell_y \ell_z}}
+\psi_{n_x n_y n_z} = \sqrt{\frac{8}{\ell_x \ell_y \ell_z}} \sin\left(\frac{n_x \pi}{\ell_x}x\right)\sin\left(\frac{n_y \pi}{\ell_y}y\right)\sin\left(\frac{n_z \pi}{\ell_z}z\right)
 $$
