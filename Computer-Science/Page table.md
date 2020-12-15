@@ -2,7 +2,9 @@
 
 ||Valid|Dirty|Permission|PPN|
 |-|-----|-----|----------|----|
-| entry 0 |
+| Entry 0 |
+| Entry 1 |
+
 
 Page table entry
 : A stored row of the page table.
