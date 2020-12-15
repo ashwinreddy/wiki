@@ -6,6 +6,8 @@ Page table entry
 @startuml
 [CPU]
 [TLB]
+[Page Table]
 
 [CPU] -> [TLB]: V. Addr
+[TLB] <-> Page Table
 @enduml
