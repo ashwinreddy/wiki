@@ -1,12 +1,5 @@
 A **vector space** $\mathcal{V}$ is a [[set]] of [[vectors|vector]] you can add together and scale. 
 
-@startuml
-abstract class "Vector Space" {
-    +vector add(vector a, vector b)
-    +vector scale(scalar a, vector b)
-}
-@enduml
-
 The addition operation is a [[binary operation]].
 
 \begin{align\*}
