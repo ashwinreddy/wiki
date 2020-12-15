@@ -23,7 +23,6 @@ package "Memory Unit" {
 
 @startuml
 !pragma useVerticalIf on
-
 start
 :Get virtual page number (VPN) from virtual address (VA);
 if (Translation Lookaside Buffer (TLB) has VPN?) then (HIT)
