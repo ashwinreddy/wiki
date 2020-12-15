@@ -15,7 +15,7 @@ The dirty bit is 1 if the page has been written to, marking that we will need to
 
 # PPN
 
-
+The address is similar in format to a [[virtual address|virtual address space]]
 
 # Errors
 
