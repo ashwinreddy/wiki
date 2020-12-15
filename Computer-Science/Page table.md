@@ -10,7 +10,7 @@ package "Translation Unit" {
   [Page Table]
 }
 
-node "Memory Unit" {
+package "Memory Unit" {
     [Cache]
     [Memory]
 }
