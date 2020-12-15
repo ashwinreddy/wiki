@@ -10,9 +10,12 @@ package "Translation Unit" {
   [Page Table]
 }
 
+package "Memory Unit" {
+    [Cache]
+    [Memory]
+}
+
 [CPU]
-[Cache]
-[Memory]
 
 [CPU] -> [TLB]: V. Addr
 [TLB] <-> [Cache]: P. Addr
