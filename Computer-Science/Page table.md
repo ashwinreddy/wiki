@@ -12,6 +12,6 @@ Page table entry
 The valid bit is
 
 0. Page fault: fetch page from disk, put into memory, and update page table
-1. Entry is valid, page is physical memory
+1. Entry is valid, corresponding physical page is in main memory
 
 The dirty bit is 1 if the page has been written to, marking that we will need to update the disk upon eviction.
