@@ -1,0 +1,1 @@
+**RAID (Redundant Array of Inexpensive Disks)** creates data redundancy
