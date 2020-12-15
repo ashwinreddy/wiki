@@ -1,0 +1,1 @@
+**RISC (reduced instruction set computer)**
