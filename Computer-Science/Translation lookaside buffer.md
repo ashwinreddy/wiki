@@ -24,10 +24,12 @@ package "Memory Unit" {
 @startuml
 start
 :Get virtual page number (VPN) from virtual address (VA);
-if (Translation Lookaside Buffer (TLB) has VPN?) then (yes)
-else (no)
-    if (Page table (PT) contains the VPN?) then (yes)
-    else (no)
+if (Translation Lookaside Buffer (TLB) has VPN?) then (HIT)
+else (MISS)
+    if (Page table (PT) contains the VPN?) then (HIT)
+    :Load page table entry into TLB;
+    else (MISS)
+    :Page Fault: fetch page from disk, store into memory, update page table;
     endif
 endif
 @enduml
