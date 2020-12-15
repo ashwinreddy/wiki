@@ -24,6 +24,7 @@ package "Memory Unit" {
 @startuml
 start
 :Get virtual page number (VPN) from virtual address (VA);
-if (Translation Lookaside Buffer(TLB) has VPN)
+if (Translation Lookaside Buffer (TLB) has VPN) then (yes)
+else (no)
 endif
 @enduml
