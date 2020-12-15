@@ -4,8 +4,5 @@ Page table entry
 : A stored row of the page table.
 
 @startuml
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
+CPU -> TLB
 @enduml
