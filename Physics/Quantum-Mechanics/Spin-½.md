@@ -1,4 +1,4 @@
-**Spin-½** refers to the case where [[spin]] $s = \frac{1}{2}$. Particles with spin $1/2$ include [[electron]], [[proton]], [[neutron]], [[quark]]. Such particles have a permanent magnetic moment along the direction of their spin. 
+**Spin-½** refers to the case where [[spin]] $s = \frac{1}{2}$. Particles with spin $1/2$ include [[electron]], [[proton]], [[neutron]], [[quark]]. Such particles have a permanent [[magnetic moment]] along the direction of their spin. 
 
 
 [[_TOC_]]
