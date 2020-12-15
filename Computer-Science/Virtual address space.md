@@ -4,7 +4,7 @@ The **virtual address space** is the set of virtual addresses. A virtual address
 |Virtual page number (VPN) |Page offset|
 |------------------|-----------|
 
-Let $P_\#$ $O$
+Let $P_{\#}$ $O$
 
 $$
 \text{Offset bits} = \lg \frac{\text{Bytes}}{\text{Page}}
