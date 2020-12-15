@@ -11,8 +11,6 @@ package "Translation Unit" {
 }
 
 [CPU]
-[TLB]
-[Page Table]
 [Cache]
 [Memory]
 
