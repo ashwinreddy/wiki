@@ -7,5 +7,5 @@ Page table entry
 [CPU]
 [TLB]
 
-[CPU] -> [TLB]
+[CPU] -> [TLB]: V. Addr
 @enduml
