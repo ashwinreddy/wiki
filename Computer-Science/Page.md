@@ -1,1 +1,1 @@
-A **page** can be held in RAM or on disk.
+A **page** is a chunk of memory or disk with a fixed size.
