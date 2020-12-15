@@ -5,9 +5,9 @@ Page table entry
 
 @startuml
 
-package "Some Group" {
-  HTTP - [First Component]
-  [Another Component]
+package "Translation Unit" {
+  [TLB]
+  [Page Table]
 }
 
 [CPU]
