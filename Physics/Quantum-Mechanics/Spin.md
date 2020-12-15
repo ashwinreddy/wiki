@@ -1,5 +1,6 @@
 **Spin angular momentum**, abbreviated **spin**, is a kind of internal angular momentum for elementary particles. It is analogous to motion about the center of mass, like the Earth spinning on its own axis. Of course, this analogy is only good up to a point because the electron is a structureless point, but it seems like particles intrinsically have this kind of momentum. 
 
+# Algebra
 
 The commutation relations are algebraically a carbon copy of the [[angular momentum operator]]'s:
 
