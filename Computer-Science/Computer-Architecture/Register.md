@@ -11,10 +11,8 @@ First, we want to make sure that the updates to a register aren't happening too 
 Here, $\text{paths}$ is the set of paths that go from input or logic gate to output or register.
 
 \begin{equation}
-t_{\mathsf{hold}} \leq \min_{\text{paths}} t_{\mathsf{logic}} \tag{Hold time constraint}
+t_{\mathsf{hold}} \leq t_{clk-2-q} \min_{\text{paths}} t_{\mathsf{logic}} \tag{Hold time constraint}
 \end{equation}
-
-<<Warn("Don't forget to include clk-2-q")>>
 
 The clock period needs to be long enough for your new register input to be calculated correctly, which means that you need enough time for the longest path to finish and then to setup the register for updating.
 
