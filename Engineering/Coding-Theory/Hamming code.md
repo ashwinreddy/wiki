@@ -4,4 +4,4 @@ $m$ parity bits can cover bits 1 through $2^m -1$ of which $2^m-m-1$ are data bi
 
 # Resources
 
-* [[https://en.wikipedia.org/wiki/Hamming_code?oldformat=true#General_algorithm]]
+* [[table|https://en.wikipedia.org/wiki/Hamming_code?oldformat=true#General_algorithm]]
