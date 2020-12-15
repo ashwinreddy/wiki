@@ -1,1 +1,1 @@
-A **Hamming code** is an error-correcting code. We have some bitstring $d_1\dots d_n$ and then we interleave parity bits at the indices that are powers of 2. The parity bit $P\\{i\\}$ covers the bits in the new bitstring where the _index_ of the bit, $j$, has a 1 at the same position as $i$ when represented in binary.
+A **Hamming code** is an error-correcting code. We have some bitstring $d_1\dots d_n$ and then we interleave parity bits at the indices that are powers of 2. Parity bit $i$ covers all the bit positions which have the $i$th bit set.
