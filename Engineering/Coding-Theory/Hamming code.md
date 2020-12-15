@@ -1,0 +1,1 @@
+A **Hamming code** is an error-correcting code. We have some bitstring and then add parity bits at the indices that are powers of 2.
