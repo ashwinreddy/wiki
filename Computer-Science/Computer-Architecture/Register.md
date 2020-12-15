@@ -11,11 +11,11 @@ First, we want to make sure that the updates to a register aren't happening too 
 Here, $\text{paths}$ is the set of paths that go from input or logic gate to output or register.
 
 \begin{equation}
-t_{\mathsf{hold}} \leq t_{clk-2-q} \min_{\text{paths}} t_{\mathsf{logic}} \tag{Hold time constraint}
+t_{\mathsf{hold}} \leq t_{clk2q} + \min_{\text{paths}} t_{\mathsf{logic}} \tag{Hold time constraint}
 \end{equation}
 
 The clock period needs to be long enough for your new register input to be calculated correctly, which means that you need enough time for the longest path to finish and then to setup the register for updating.
 
 \begin{equation}
-t_{\mathsf{clk-2-q}} + \max_{\text{paths}} t_{\mathsf{logic}} + t_{\mathsf{setup}} \leq t_{\mathsf{clk-cycle}} \tag{Setup time constraint}
+t_{\mathsf{clk2q}} + \max_{\text{paths}} t_{\mathsf{logic}} + t_{\mathsf{setup}} \leq t_{\mathsf{clk-cycle}} \tag{Setup time constraint}
 \end{equation}
