@@ -16,7 +16,7 @@ $$
 \text{Cache Size} = \text{Block Size} \times \text{Num Blocks}.
 $$
 
-When desiging a cache, we have a choice for associativity, which roughly controls what to allow in a block. 
+When desiging a cache, we have a choice for associativity. Higher associativity means less conflict misses.
 
 Associativity
 : The number of slots a block can potentially map to into our cache.
@@ -96,5 +96,5 @@ Since the offset needs to specify a byte in a block, we have
 |Type|Description|
 |----|-----------|
 |Compulsory|A miss that must occur because it's the first time bringing in that block|
-|Conflict||
-|Capacity|Seeing more unique blocks than blocks in the cache.|
+|Conflict|Two blocks are mapped to the same row/index and there is not enough room to hold both|
+|Capacity|Seeing more unique blocks than blocks in the cache. The cache isn't big enough to hold every block you want to use.|
