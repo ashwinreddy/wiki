@@ -19,6 +19,12 @@ Concretely, we could pick
 \chi_- = \begin{pmatrix} 0 \\\\ 1 \end{pmatrix}
 \end{gather}
 
+Then, the general state of a spin-1/2 particle can be represented by a two-element complex matrix (or **spinor**).
+
+$$
+\chi = \begin{pmatrix} a \\\\ b \end{bmatrix}
+$$
+
 # Spin operators
 
 The spin matrices are related to the [[Pauli matrices]] by a constant scalar:
