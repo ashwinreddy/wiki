@@ -7,7 +7,10 @@ Page table entry
 [CPU]
 [TLB]
 [Page Table]
+[Cache]
+[Memory]
 
 [CPU] -> [TLB]: V. Addr
 [TLB] <..> [Page Table]
+[Cache] <..> [Memory]
 @enduml
