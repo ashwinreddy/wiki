@@ -2,23 +2,3 @@
 
 Page table entry
 : A stored row of the page table.
-
-@startuml
-
-package "Translation Unit" {
-  [TLB]
-  [Page Table]
-}
-
-package "Memory Unit" {
-    [Cache]
-    [Memory]
-}
-
-[CPU]
-
-[CPU] -> [TLB]: V. Addr
-[TLB] <-> [Cache]: P. Addr
-[TLB] <..> [Page Table]
-[Cache] <..> [Memory]
-@enduml
