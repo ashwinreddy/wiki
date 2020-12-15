@@ -4,6 +4,12 @@ Page table entry
 : A stored row of the page table.
 
 @startuml
+
+package "Some Group" {
+  HTTP - [First Component]
+  [Another Component]
+}
+
 [CPU]
 [TLB]
 [Page Table]
