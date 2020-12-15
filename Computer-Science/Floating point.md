@@ -6,6 +6,9 @@
 # Components
 
 
+[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_math.svg]]
+[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_layout.svg]]
+
 The IEEE 754 standard uses 3 parts:
 
 |Shorthand|Name|Num Bits|Meaning|
