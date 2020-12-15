@@ -1,4 +1,4 @@
-**Paging** is a scheme where memory is split into [[pages|page]]. Each process has a table of pages that belong to it, called the [[page table]]. The current page table being used is tracked by the **Page Table Base Register (PTBR)**.
+**Paging** is a scheme where memory is split into [[pages|page]]. Each [[process]] has a table of pages that belong to it, called the [[page table]]. The current page table being used is tracked by the **Page Table Base Register (PTBR)**.
 
 
 
