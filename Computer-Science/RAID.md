@@ -1,1 +1,1 @@
-**RAID (Redundant Array of Inexpensive Disks)** creates data redundancy
+**RAID (Redundant Array of Inexpensive Disks)** "stripes" files multiple disks to create data redundancy, yielding high data availability at the cost of capacity and bandwidth.
