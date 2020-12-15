@@ -14,9 +14,10 @@ There are just 2 eigenstates for $s=1/2$ that we could denote $\left|s, m \right
 
 Concretely, we could pick
 
-$$
-\chi_+ = \begin{bmatrix} 1 \\\\ 0 \end{bmatrix}
-$$
+\begin{gather}
+\chi_+ = \begin{pmatrix} 1 \\\\ 0 \end{pmatrix} \\\\
+\chi_- = \begin{pmatrix} 0 \\\\ 1 \end{pmatrix}
+\end{gather}
 
 # Spin operators
 
