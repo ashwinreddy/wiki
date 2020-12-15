@@ -26,6 +26,12 @@ $$
 \text{PPN bits} = \lg \text{Physical Address Space} - \text{Offset bits}
 $$
 
+where 
+
+$$
+\text{Offset bits} = \lg \frac{\text{Bytes}}{\text{Page}}
+$$
+
 # Errors
 
 Protection Fault
