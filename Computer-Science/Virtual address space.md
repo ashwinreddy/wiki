@@ -1,7 +1,7 @@
 The **virtual address space** is the set of virtual addresses. A virtual address looks like
 
 
-|Virtual page number|Page offset|
+|Virtual page number (VPN) |Page offset|
 |------------------|-----------|
 |||
 
