@@ -21,5 +21,5 @@ node "Memory Unit" {
 [TLB] <-> [Cache]: P. Addr
 [TLB] <..> [Page Table]
 [Cache] <..> [Memory]
-[Memory Unit] -> [CPU]
+"Memory Unit" -> [CPU]
 @enduml
