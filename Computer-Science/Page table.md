@@ -9,5 +9,5 @@ Page table entry
 [Page Table]
 
 [CPU] -> [TLB]: V. Addr
-[TLB] -> Page Table
+[TLB] -> [Page Table]
 @enduml
