@@ -88,8 +88,6 @@ Since the offset needs to specify a byte in a block, we have
 |Write allocate|Pull the block up to cache and write it there|
 |Write back|Write directly to memory|
 
-<<Note("When do we do the update for write back?")>>
-
 # Cache miss
 
 
