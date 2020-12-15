@@ -9,6 +9,10 @@ $$
 $$
 
 $$
+\text{VA bits} = \lg \text{Number of Addresses}
+$$
+
+$$
 \text{Offset bits} + \text{VPN bits} = \text{VA bits}
 $$
 
