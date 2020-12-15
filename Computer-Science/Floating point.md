@@ -4,18 +4,20 @@
 [[_TOC_]]
 
 # Components
-
+The IEEE 754 standard uses 3 parts:
 
 [[https://fabiensanglard.net/floating_point_visually_explained/floating_point_math.svg]]
-[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_layout.svg]]
-
-The IEEE 754 standard uses 3 parts:
 
 |Shorthand|Name|Num Bits|Meaning|
 |---------|----|--------|-------|
 |**S**|Sign|1 bit|0 = +, 1 = -|
 |**E**|Exponent|8 bits|Control the power / range of numbers we can represent.|
 |**M**|Mantissa/Significand|23 bits|Precision of representing the number|
+
+[[https://fabiensanglard.net/floating_point_visually_explained/floating_point_layout.svg]]
+
+
+
 
 Let's just call the number of significand bits $\mathsf{sigfigs}$.
 
