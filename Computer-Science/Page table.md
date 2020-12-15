@@ -2,7 +2,7 @@
 
 ||Valid|Dirty|Permission|PPN|
 |-|-----|-----|----------|----|
-| Entry 0 | 1: valid entry, i.e. page in physical memory. 0 means page fault: fetch page from disk , put into memory and update the page table | 1 if the page has been written to, will need to update the disk upon eviction| read/write abilities||
+| Entry 0 | 1 = valid entry, i.e. page in physical memory. 0 = page fault | 1 if the page has been written to, will need to update the disk upon eviction| read/write abilities||
 | Entry 1 |
 
 
