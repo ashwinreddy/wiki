@@ -29,7 +29,7 @@ else (MISS)
     if (Page table (PT) contains the VPN?) then (HIT)
     :Load page table entry into TLB;
     else (MISS)
-    :Page Fault: fetch page from disk, store into memory, update page table;
+    :**Page Fault**: fetch page from disk, store into memory, update page table;
     endif
 endif
 @enduml
