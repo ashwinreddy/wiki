@@ -22,7 +22,7 @@ Concretely, we could pick
 Then, the general state of a spin-1/2 particle can be represented by a two-element complex matrix (or **spinor**).
 
 $$
-\chi = \begin{pmatrix} a \\\\ b \end{pmatrix}
+\chi = \begin{pmatrix} a \\\\ b \end{pmatrix} = a \chi_+ + b \chi_-
 $$
 
 # Spin operators
