@@ -13,6 +13,10 @@ The valid bit is 1 iff the entry is valid, corresponding physical page is in mai
 
 The dirty bit is 1 if the page has been written to, marking that we will need to update the disk upon eviction.
 
+# PPN
+
+
+
 # Errors
 
 Protection Fault
