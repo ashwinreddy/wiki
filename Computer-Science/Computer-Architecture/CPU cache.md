@@ -95,6 +95,6 @@ Since the offset needs to specify a byte in a block, we have
 
 |Type|Description|
 |----|-----------|
-|Compulsory|First time bringing in a block|
+|Compulsory|A miss that must occur because it's the first time bringing in that block|
 |Conflict||
 |Capacity|Seeing more unique blocks than blocks in the cache.|
