@@ -4,6 +4,6 @@ Page table entry
 : A stored row of the page table.
 
 @startuml
-DataAccess - [First Component]
-[First Component] ..> HTTP : use
+[CPU]
+[TLB]
 @enduml
