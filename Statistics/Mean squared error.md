@@ -1,0 +1,1 @@
+The **mean squared error** of an [[estimator]]
