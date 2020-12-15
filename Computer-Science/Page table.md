@@ -1,7 +1,7 @@
 **Page table** is stored in memory and keeps track of valid VPN to PPN [[page]] mappings. The [[translation lookaside buffer]] is a cache for the page table.
 
-|Valid|Dirty|Permission|PPN|
-|-----|-----|----------|----|
+||Valid|Dirty|Permission|PPN|
+|-|-----|-----|----------|----|
 | entry 0 |
 
 Page table entry
