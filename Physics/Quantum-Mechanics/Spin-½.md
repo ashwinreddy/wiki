@@ -15,7 +15,7 @@ There are just 2 eigenstates for $s=1/2$ that we could denote $\left|s, m \right
 Concretely, we could pick
 
 $$
-\Chi_t
+\chi_+ = \begin{bmatrix} 1 \\\\ 0 \end{bmatrix}
 $$
 
 # Spin operators
