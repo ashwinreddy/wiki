@@ -5,6 +5,10 @@
 | Entry 0 | | |||
 | Entry 1 |
 
+The valid bit is
+
+0. a
+1. b
 
 Page table entry
 : A stored row of the page table.
