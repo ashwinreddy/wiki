@@ -29,9 +29,9 @@ start
 if (Translation Lookaside Buffer (TLB) has VPN?) then (HIT)
 else (MISS)
     if (Page table (PT) contains the VPN?) then (HIT)
-    :Load page table entry into TLB;
     else (MISS)
     :**Page Fault**: fetch page from disk, store into memory, update page table;
     endif
+    :Load page table entry into TLB;
 endif
 @enduml
