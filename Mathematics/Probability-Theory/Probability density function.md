@@ -1,11 +1,11 @@
 A **probability density function (PDF/pdf)** is a [[function]] captures the probability of a continuous [[random variable]] with the [[unit interval]].
 
 $$
-f : \Omega \to [0, 1]
+\varphi : \Omega \to [0, 1]
 $$
 
 \begin{equation}
-\int_\Omega \varphi \\, \dd{x} = 1
+\int_\Omega \varphi(x) \\, \dd{x} = 1
 \end{equation}
 
 \begin{equation}
