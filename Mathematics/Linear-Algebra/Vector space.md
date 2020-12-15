@@ -6,7 +6,7 @@ abstract class "Vector Space" {
     +vector scale(scalar a, vector b)
 }
 
-"Vector Space" <|-- "Set"
+"Set" <|-- "Vector Space"
 @enduml
 
 The addition operation is a [[binary operation]].
