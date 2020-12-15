@@ -3,7 +3,7 @@
 
 [[_TOC_]]
 
-# Notation
+# States
 
 There are just 2 eigenstates for $s=1/2$ that we could denote $\left|s, m \right.\rangle$:
 
@@ -11,6 +11,8 @@ There are just 2 eigenstates for $s=1/2$ that we could denote $\left|s, m \right
 \mid\uparrow \rangle &\doteq \left|\frac{1}{2},\frac{1}{2}\Bigg\rangle\right. \tag{Spin Up} \\\\
 \mid\downarrow \rangle& \doteq \left|\frac{1}{2},-\frac{1}{2}\Bigg\rangle\right. \tag{Spin Down}
 \end{align}
+
+# Spin operators
 
 The spin matrices are related to the [[Pauli matrices]] by a constant scalar:
 
