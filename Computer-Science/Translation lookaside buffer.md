@@ -33,4 +33,8 @@ else (MISS)
     endif
     :Load page table entry into TLB;
 endif
+:Translate to page address (PA);
+if (Address exists in cache?) then (HIT)
+else (MISS)
+endif
 @enduml
