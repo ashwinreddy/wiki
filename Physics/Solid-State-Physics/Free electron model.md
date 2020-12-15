@@ -3,3 +3,9 @@ The **free electron model** describes the free-roaming valence electrons in the 
 $$
 V(x, y, z) = \begin{cases} 0 & (x, y,z) \in [0, \ell_x] \times [0, \ell_y] \times [0, \ell_z] \\\\ \infty & \text{otherwise} \end{cases}
 $$
+
+Then the wave function
+
+$$
+\psi_{n_x n_y n_z} = \sqrt{\frac{8}{\ell_x \ell_y \ell_z}}
+$$
