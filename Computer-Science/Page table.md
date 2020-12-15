@@ -11,6 +11,7 @@ Page table entry
 [Memory]
 
 [CPU] -> [TLB]: V. Addr
+[TLB] <-> [Cache]: P. Addr
 [TLB] <..> [Page Table]
 [Cache] <..> [Memory]
 @enduml
