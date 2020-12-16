@@ -45,3 +45,8 @@ $$\left[ H, Q \right] = 0 \implies \dv{}{t} \langle Q \rangle  = 0$$
 \left[ \hat{H}, \hat{p} \right] &= \cancelto{0}{\left[ \hat{T} , \hat{p} \right]} + \left[ \hat{V} , \hat{p} \right] \\\\
 &= \iota\hbar \pdv{V}{x}
 \end{align}
+
+\begin{align}
+\left[ \hat{H}, \hat{x} ] &= {\left[ \hat{T} , \hat{p} \right]} + \cancelto{0}{\left[ \hat{V} , \hat{p} \right]} \\\\
+&= \left[\sum_j \frac{p_j^2}{2m} ,\hat{x}\right]
+\end{align}
