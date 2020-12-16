@@ -10,6 +10,10 @@ $$
 $$
 
 $$
+\text{PPN bits} = \lg \text{Number Physical Pages}
+$$
+
+$$
 \text{PA bits} = \lg \text{Physical Address Space}
 $$
 
