@@ -1,7 +1,7 @@
 A **stationary state** is a [[quantum state]] $\psi$ that solves the [[time-independent Schrodinger equation]],
 
 $$
-\hat{H} \psi = E \pis
+\hat{H} \psi = E \psi
 $$
 
 In other words, it is an eigenstate for the [[Hamiltonian]].
