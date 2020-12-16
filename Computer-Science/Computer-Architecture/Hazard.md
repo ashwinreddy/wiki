@@ -2,11 +2,9 @@ A **hazard** is a situation that prevents starting the next instruction in the n
 
 |Type|Explanation|Solution|
 |----|-----------|----------|
-|Structural hazard|a required resource is busy.|Double pumping. Hardware|
+|Structural hazard|A required resource is busy.|Double pumping. Hardware|
 |Data hazard|data dependency between instructions|Stalls. Forwarding. Reordering code.|
 |Control hazard|flow of execution depends on previous instruction|Stalling or branch prediction.|
-
-[[_TOC_]]
 
 # Structural Hazard
 
