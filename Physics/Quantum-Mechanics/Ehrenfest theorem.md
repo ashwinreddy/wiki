@@ -12,8 +12,8 @@ The generalized Ehrenfest theorem says
 \dv{}{t} \langle Q \rangle = \frac{\iota}{\hbar} \left\langle\left[\widehat{H}, \widehat{Q}\right] \right\rangle + \left\langle \pdv{\widehat{Q}}{t} \right\rangle \tag{Ehrenfest Theorem}
 \end{equation}
 
-Applying \ref{eq:ehren} to the position operator $\hat{x}$:
+Applying \ref{eq:ehren} to the position operator $\hat{x}_i$:
 
 $$
-\dv{}{t} \langle x \rangle = 
+\dv{}{t} \langle x_i \rangle = \frac{\iota}{\hbar} \langle \hat{p}_i \rangle
 $$
