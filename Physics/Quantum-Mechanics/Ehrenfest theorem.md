@@ -15,5 +15,5 @@ The generalized Ehrenfest theorem says
 Applying \ref{eq:ehren} to the position operator $\hat{x}_i$:
 
 $$
-\dv{}{t} \langle x_i \rangle = \frac{\iota}{\hbar} \langle \hat{p}_i \rangle
+\dv{}{t} \langle x_i \rangle = \langle \hat{p}_i \rangle
 $$
