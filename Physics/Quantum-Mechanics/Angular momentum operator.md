@@ -1,4 +1,4 @@
-The **(orbital) angular momentum operator** takes after classical [[angular momentum]] as both are given by $\vec{L} = \vec{r} \times \vec{p}$. We might also interested in $L^2 \equiv L_x^2 + L_y^2 + L_z^2$. 
+The **(orbital) angular momentum operator** takes after classical [[angular momentum]] as both are given by $\vec{L} = \vec{r} \times \vec{p}$. We might also interested in $L^2 \equiv L_x^2 + L_y^2 + L_z^2$. It is algebraically related to [[spin]].
 
 
 [[_TOC_]]
