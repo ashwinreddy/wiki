@@ -1,11 +1,4 @@
-The **Ehrenfest theorem** tells us that the expectation values seem to obey something akin to classical laws.
-
-\begin{gather}
-\langle p \rangle = m \dv{ \langle x \rangle }{t} \\\\\
-\dv{ \langle p \rangle}{t} = - \left \langle \dv{V}{x} \right\rangle
-\end{gather}
-
-The generalized Ehrenfest theorem says
+The **Ehrenfest theorem** says
 
 \begin{equation}
 \label{eq:ehren}
@@ -16,4 +9,10 @@ Applying \ref{eq:ehren} to the position operator $\hat{x}_i$:
 
 $$
 \dv{}{t} \langle x_i \rangle = \left\langle \hat{p}_i \right\rangle
+$$
+
+Likewise, for $\hat{p}$
+
+$$
+\dv{}{t}\langle \hat{p} \rangle = - \left \langle \dv{V}{x} \right\rangle
 $$
