@@ -48,5 +48,5 @@ $$\left[ H, Q \right] = 0 \implies \dv{}{t} \langle Q \rangle  = 0$$
 
 \begin{align}
 \left[ \hat{H}, \hat{x}_i \right] &= {\left[ \hat{T} , \hat{p} \right]} + \cancelto{0}{\left[ \hat{V} , \hat{p} \right]} \\\\
-&= \left[ \sum_j \frac{\hat{p}_j^2}{2m},  \hat{x]_i \right]
+&= \left[ \sum_j \frac{\hat{p}_j^2}{2m},  \hat{x}_i \right]
 \end{align}
