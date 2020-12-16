@@ -16,7 +16,7 @@ S_{\pm} \equiv S_x \pm \iota S_y
 
 # Eigenstates
 
-It is related to the eigenvalue of $S^2$ operator in the following way:
+The eigenstate of $S^2$ is therefore given by
 
 $$
 S^2 | sm \rangle = \hbar^2 s(s+1) | sm \rangle
