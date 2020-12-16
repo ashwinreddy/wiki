@@ -39,7 +39,7 @@ An operator that commutes with the Hamiltonian is conserved, in expectation.
 
 $$\left[ H, Q \right] = 0 \implies \dv{}{t} \langle Q \rangle  = 0$$
 
-# Commutator
+# [[Commutator]]
 
 \begin{align}
 \left[ \hat{H}, \hat{p} \right] &= \cancelto{0}{\left[ \hat{T} , \hat{p} \right]} + \left[ \hat{V} , \hat{p} \right] \\\\
