@@ -1,0 +1,1 @@
+A **data hazard** occurs when instructions that exhibit data dependency modify data in different stages of the pipeline.
