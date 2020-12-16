@@ -18,7 +18,7 @@ S_{\pm} \equiv S_x \pm \iota S_y
 
 # Eigenstates
 
-The eigenstate of $S^2$ is therefore given by
+The eigenstates are likewise given by analagous equations to angular momentum:
 
 \begin{gather}
 S^2 | sm \rangle = \hbar^2 s(s+1) | sm \rangle \\\\
