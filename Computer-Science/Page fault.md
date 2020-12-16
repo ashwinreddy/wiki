@@ -1,1 +1,1 @@
-A **page fault** occurs when the [[page table entry]] for a [[virtual page]] has valid bit set to 0.
+A **page fault** occurs when the [[page table entry|page table]] for a [[virtual page|page]] has valid bit set to 0.
