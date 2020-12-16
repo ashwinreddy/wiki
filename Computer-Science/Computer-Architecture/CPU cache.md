@@ -64,7 +64,7 @@ Since the offset needs to specify a byte in a block, we have
 \end{equation\*}
 
 \begin{equation\*}
-\text{Index Bits} = = \lg \text{Num Sets} = \lg \frac{\text{Num Blocks}}{N} = \lg \frac{\text{Bytes}/\text{Cache}}{N \times \text{Bytes}/\text{Block}}
+\text{Index Bits} = \lg \text{Num Sets} = \lg \frac{\text{Num Blocks}}{N} = \lg \frac{\text{Bytes}/\text{Cache}}{N \times \text{Bytes}/\text{Block}}
 \end{equation\*}
 
 \begin{equation\*}
