@@ -27,7 +27,7 @@ L^2 f^m_\ell = \hbar^2 \ell (\ell + 1) f^m_\ell \\\\\
 L_z f^m_\ell = \hbar m f^m_\ell
 \end{gather}
 
-where $\ell \in \\{0, 1/2, 1, 3/2, \dots \\}$ and $m \in \\{-\ell, -\ell + 1, \dots, \ell - 1, \ell \\}$.
+where $\ell \in \\{0, 1/2, 1, 3/2, \dots \\}$ and $m \in \\{-\ell, -\ell + 1, \dots, \ell - 1, \ell \\}$. These $f^m_\ell$ are actually the [[spherical harmonics]]
 
 
 # Uncertainty
