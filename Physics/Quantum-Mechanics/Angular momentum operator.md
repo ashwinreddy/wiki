@@ -37,6 +37,11 @@ $$
 L_\pm \equiv L_x \pm \iota L_y
 $$
 
+It turns out that
+
+$$
+[L_z, L_\pm] = \pm \hbar L_\pm
+$$
 
 # Uncertainty
 
