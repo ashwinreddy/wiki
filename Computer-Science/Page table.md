@@ -13,24 +13,6 @@ The valid bit is 1 iff the entry is valid, corresponding physical page is in mai
 
 The dirty bit is 1 if the page has been written to, marking that we will need to update the disk upon eviction.
 
-# PPN
-
-The address is similar in format to a [[virtual address|virtual address space]]:
-
-|Physical page number (PPN) |Page offset|
-|------------------|-----------|
-
-The page offset is shared between the two, but 
-
-$$
-\text{PPN bits} = \lg \text{Physical Address Space} - \text{Offset bits}
-$$
-
-where 
-
-$$
-\text{Offset bits} = \lg \frac{\text{Bytes}}{\text{Page}}
-$$
 
 # Errors
 
