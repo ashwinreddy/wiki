@@ -5,9 +5,8 @@
 The commutation relations are algebraically a carbon copy of the [[angular momentum operator]]'s:
 
 \begin{gather}
-\boxed{
 [S_i, S_j] = \iota\hbar \epsilon_{ijk}S_{i}S_{j} \\\\
-[S^2, S_i] = 0}
+[S^2, S_i] = 0
 \end{gather}
 
 \begin{equation}
