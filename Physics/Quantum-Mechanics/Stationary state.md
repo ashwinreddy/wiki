@@ -4,7 +4,7 @@ $$
 \hat{H} \psi = E \psi
 $$
 
-In other words, it is an eigenstate for the [[Hamiltonian]].
+In other words, it is an eigenstate for the [[Hamiltonian]], which means it has definite energy.
 
 [[_TOC_]]
 
