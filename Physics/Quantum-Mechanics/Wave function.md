@@ -21,3 +21,9 @@ When you have multiple particles, the wave function looks like
 $$
 \Psi(\mathbf{r}_1, \mathbf{r}_2, t)
 $$
+
+Suppose the particles don't interact. Then maybe we call $\psi_a(\mathbf{r})$ the one-particle state for particle number 1 and $\psi_b(\mathbf{r})$ for the second and then say
+
+$$
+\psi(\mathbf{r}_1, \mathbf{r}_2) = \psi_a(\mathbf{r}_1)\psi_b(\mathbf{r}_2)
+$$
