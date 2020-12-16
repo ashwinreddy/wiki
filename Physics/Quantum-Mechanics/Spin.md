@@ -25,6 +25,8 @@ S^2 | sm \rangle = \hbar^2 s(s+1) | sm \rangle \\\\
 S_z | sm \rangle = \hbar m| sm \rangle
 \end{gather}
 
+However, the difference is that the eigenvectors are not the [[spherical harmonics]].
+
 # Addition of Angular Momenta
 
 Suppose you have two particles in state $\mid s_1 m_1 \rangle$ and $\mid s_2 m_2 \rangle$, respectively. 
