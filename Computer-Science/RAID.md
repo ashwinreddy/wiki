@@ -10,3 +10,5 @@
 |RAID5|High I/O rate interleaved pairty|Block-level striping with parity distributed across disks|
 
 [[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RAID_1.svg/640px-RAID_1.svg.png|height=250px,align=center]]
+
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/RAID_5.svg/800px-RAID_5.svg.png|height=250px,align=center]]
