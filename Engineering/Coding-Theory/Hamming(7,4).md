@@ -3,5 +3,5 @@
 \begin{gather}
 x = a \oplus b \oplus d \\\\
 y = a \oplus c \oplus d \\\\
-z = b \oplus b \oplus d \\\\
+z = b \oplus c \oplus d \\\\
 \end{gather}
