@@ -3,9 +3,7 @@ The **(orbital) angular momentum operator** takes after classical [[angular mome
 
 [[_TOC_]]
 
-# Algebra
-
-## Eigenstates
+# Eigenstates
 
 It turns out that the [[eigenstates|eigenstate]] are given by
 
@@ -14,7 +12,7 @@ L^2 | \psi \rangle = \hbar^2 \ell (\ell + 1) | \psi \rangle \\\\\
 L_z | \psi \rangle = \hbar m | \psi \rangle
 \end{gather}
 
-## Commutators
+# Commutators
 
 The algebra is summarized by the following equations
 
