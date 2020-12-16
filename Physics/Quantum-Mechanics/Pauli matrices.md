@@ -7,5 +7,5 @@ The **Pauli matrices** are [[Hermitian|Hermitian matrix]] and [[unitary|unitary 
 \end{gather}
 
 $$
-\sigma_i^2 = 1
+\sigma_i^2 = \mathbb{1}
 $$
