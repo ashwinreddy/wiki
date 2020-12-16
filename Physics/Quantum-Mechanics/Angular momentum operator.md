@@ -40,8 +40,10 @@ $$
 It turns out that
 
 $$
-[L_z, L_\pm] = \pm \hbar L_\pm
+[L_z, L_\pm] = \pm \hbar L_\pm,
 $$
+
+meaning that if $f$ is an eigenfunction of $L^2$ with eigenvalue $\mu$ and an eigenfunction of $L_z$, then $L_\pm f$ is an eigenfunction of $L_z$ with new eigenvalue $\mu \pm \hbar$
 
 # Uncertainty
 
