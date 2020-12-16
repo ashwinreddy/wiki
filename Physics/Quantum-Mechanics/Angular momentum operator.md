@@ -23,8 +23,8 @@ The algebra is summarized by the following equations
 Since $L_z$ and $L^2$ commute, we can look for simultaneous [[eigenstates|eigenstate]], concluding that
 
 \begin{gather}
-L^2 | \psi \rangle = \hbar^2 \ell (\ell + 1) | \psi \rangle \\\\\
-L_z | \psi \rangle = \hbar m | \psi \rangle
+L^2 f^m_\ell = \hbar^2 \ell (\ell + 1) f^m_\ell \\\\\
+L_z f^m_\ell = \hbar m f^m_\ell
 \end{gather}
 
 
