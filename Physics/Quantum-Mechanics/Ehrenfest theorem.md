@@ -1,4 +1,4 @@
-The **Ehrenfest theorem** says
+The **Ehrenfest theorem** describes the [[time derivative]] of the [[expectation]] of an [[observable]] $Q$:
 
 \begin{equation}
 \label{eq:ehren}
