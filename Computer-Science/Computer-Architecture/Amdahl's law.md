@@ -8,7 +8,7 @@ $$
 **Example.** The execution time of 4/5 of a program can be accelerated by a factor of 6. What is the program speed up overall?
 
 $$
-\frac{1}{1/5 + \frac{4/5}{16}}=4
+\mathsf{Speedup} = \frac{1}{1/5 + \frac{4/5}{16}}=4
 $$
 
 $$
