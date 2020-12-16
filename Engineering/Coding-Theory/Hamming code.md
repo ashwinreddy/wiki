@@ -6,7 +6,7 @@ A **Hamming code** is an error-correcting code. We have some bitstring $d_1\dots
 The parity bit $p_i$ covers all the bit positions which have the $i$th bit set.
 
 $$
-p_i = \bigoplus_{j \in \text{Coverage}} d_j
+p_i = \bigoplus_{j \in i\text{th bit is 1}} d_j
 $$
 
 $m$ parity bits can cover bits 1 through $2^m -1$ of which $2^m-m-1$ are data bits.
