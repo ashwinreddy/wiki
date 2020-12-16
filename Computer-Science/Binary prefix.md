@@ -1,1 +1,1 @@
-**Binary prefix**.
+**Binary prefix** like Gi or Ti.
