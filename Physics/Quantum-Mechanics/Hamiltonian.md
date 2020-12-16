@@ -42,5 +42,5 @@ $$\left[ H, Q \right] = 0 \implies \dv{}{t} \langle Q \rangle  = 0$$
 # Commutator
 
 \begin{gather}
-\left[ \hat{H}, \hat{p} \right] = \left[ \hat{T} , \hat{p} \right] + \left[ \hat{V} , \hat{p} \right]
+\left[ \hat{H}, \hat{p} \right] = \cancelto{0}{\left[ \hat{T} , \hat{p} \right]} + \left[ \hat{V} , \hat{p} \right]
 \end{gather}
