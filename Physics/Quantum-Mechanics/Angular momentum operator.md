@@ -23,11 +23,11 @@ The algebra is summarized by the following equations
 Since $L_z$ and $L^2$ commute, we can look for simultaneous [[eigenstates|eigenstate]], concluding that
 
 \begin{gather}
-L^2 f^m_\ell = \hbar^2 \ell (\ell + 1) f^m_\ell \\\\\
-L_z f^m_\ell = \hbar m f^m_\ell
+L^2 Y^m_\ell = \hbar^2 \ell (\ell + 1) Y^m_\ell \\\\\
+L_z Y^m_\ell = \hbar m Y^m_\ell
 \end{gather}
 
-where $\ell \in \\{0, 1/2, 1, 3/2, \dots \\}$ and $m \in \\{-\ell, -\ell + 1, \dots, \ell - 1, \ell \\}$. These $f^m_\ell$ are actually the [[spherical harmonics]] $Y^m_\ell$.
+where $\ell \in \\{0, 1/2, 1, 3/2, \dots \\}$ and $m \in \\{-\ell, -\ell + 1, \dots, \ell - 1, \ell \\}$. These $Y^m_\ell$ are actually the [[spherical harmonics]].
 
 
 # Uncertainty
