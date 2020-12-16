@@ -1,6 +1,6 @@
 **Spin angular momentum**, abbreviated **spin**, is a kind of internal angular momentum for elementary particles. It is analogous to motion about the center of mass, like the Earth spinning on its own axis. Of course, this analogy is only good up to a point because the electron is a structureless point, so it seems like particles intrinsically have this kind of momentum. 
 
-The spin quantum number takes on values $s = 0, \frac{1}{2}, 1, \frac{3}{2}, 2, \dots$.
+The spin quantum number takes on values $s = 0, \frac{1}{2}, 1, \frac{3}{2}, 2, \dots$. Every [[elementary particle]]
 
 # Commutators
 
