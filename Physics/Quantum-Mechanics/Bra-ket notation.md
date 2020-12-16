@@ -1,9 +1,9 @@
 The **bra-ket notation** is a notation used in quantum mechanics. Here, a [[vector]] is called a **ket** $\mid a \rangle = \vec{a}$. A **bra** is written as $\langle a \mid$.
 
-The [[inner product]] of kets $| a \rangle$ and $| b \rangle$ is written $\langle a \mid b \rangle$. 
+The [[inner product]] of kets $| a \rangle$ and $| b \rangle$ is written $\langle a \mid b \rangle$. In a finite-dimensional vector space with a fixed [[orthonormal basis]],
 
 $$
-\langle A|B\rangle \doteq A_{1}\^{*}B_{1}+A_{2}\^{*}B_{2}+\cdots +A_{N}\^{*}B_{N}={\begin{pmatrix}A_{1}\^{*}&A_{2}^{*}&\cdots &A_{N}^{*}\end{pmatrix)){\begin{pmatrix}B_{1}\\B_{2}\\\vdots \\B_{N}\end{pmatrix))
+\langle A \mid B \rangle = \sum_{i} A_i^* B_i
 $$
 
 
