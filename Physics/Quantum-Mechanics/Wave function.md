@@ -13,3 +13,11 @@ $$
 The Schrodinger equation will return normalized wave functions if given normalized wave functions.
 
 A normalizable function will need to have finite area, and is therefore 0 at $\pm \infty$.
+
+# Multiple particles
+
+When you have multiple particles, the wave function looks like
+
+$$
+\Psi(\mathbf{r}_1, \mathbf{r}_2, t)
+$$
