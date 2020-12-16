@@ -21,7 +21,7 @@ S_{\pm} \equiv S_x \pm \iota S_y
 The eigenstate of $S^2$ is therefore given by
 
 \begin{gather}
-S^2 | sm \rangle = \hbar^2 s(s+1) | sm \rangle
+S^2 | sm \rangle = \hbar^2 s(s+1) | sm \rangle \\\\
 S_z | sm \rangle = \hbar m| sm \rangle
 \end{gather}
 
