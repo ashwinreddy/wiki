@@ -29,6 +29,14 @@ L_z Y^m_\ell = \hbar m Y^m_\ell
 
 where $\ell \in \\{0, 1/2, 1, 3/2, \dots \\}$ and $m \in \\{-\ell, -\ell + 1, \dots, \ell - 1, \ell \\}$. These $Y^m_\ell$ are actually the [[spherical harmonics]].
 
+# Raising and lowering
+
+Define raising and lowering operators by
+
+$$
+L_\pm \equiv L_x \pm \iota L_y
+$$
+
 
 # Uncertainty
 
