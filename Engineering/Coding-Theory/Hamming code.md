@@ -9,7 +9,7 @@ $$
 p_i = \bigoplus_{j \in \\{ i\text{th bit is 1} \\} } d_j
 $$
 
-$m$ parity bits can cover bits 1 through $2^m -1$ of which $2^m-m-1$ are data bits. For example, $m=3$ is a [[Hamming(7,4)]]
+$m$ parity bits can cover bits 1 through $2^m -1$ of which $2^m-m-1$ are data bits. For example, $m=3$ is a [[Hamming(7,4)]].
 
 # Resources
 
