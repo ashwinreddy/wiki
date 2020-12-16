@@ -6,7 +6,11 @@
 The page offset is shared between the two, but 
 
 $$
-\text{PPN bits} = \lg \text{Physical Address Space} - \text{Offset bits}
+\text{PPN bits} + \text{Offset bits} = \text{PA bits}
+$$
+
+$$
+\text{PA bits} = \lg \text{Physical Address Space}
 $$
 
 where 
