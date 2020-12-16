@@ -1,0 +1,1 @@
+The **principal quantum number** $n= 1, 2, 3, \dots$
