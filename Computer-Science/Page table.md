@@ -16,7 +16,7 @@ The dirty bit is 1 if the page has been written to, marking that we will need to
 
 # Errors
 
-Protection Fault
+* Protection Fault
 : The page table entry for a virtual page has permission bits prohibiting a requested operation.
 
 * [[Page Fault]]
