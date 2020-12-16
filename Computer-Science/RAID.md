@@ -8,3 +8,5 @@
 |RAID3|Parity disk|High I/O Rate parity|Byte-level striping|
 |RAID4|High I/O rate parity|Block-level striping with single parity disk|
 |RAID5|High I/O rate interleaved pairty|Block-level striping with parity distributed across disks|
+
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/RAID_1.svg/640px-RAID_1.svg.png?1608095731149]]
