@@ -39,4 +39,5 @@ else (MISS)
 :Get data from memory, store in cache;
 endif
 :Return Data to Process;
+stop
 @enduml
