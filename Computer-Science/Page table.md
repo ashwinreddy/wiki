@@ -9,7 +9,7 @@ Page table entry
 | Page entry (VPN: 0) | | |||
 | Page Entry (VPN: 1) |
 
-The valid bit is 1 iff the entry is valid, corresponding physical page is in main memory. Otherwise we have a page fault, explained below.
+The valid bit is 1 iff the entry is valid, corresponding physical page is in main memory.
 
 The dirty bit is 1 if the page has been written to, marking that we will need to update the disk upon eviction.
 
@@ -19,7 +19,4 @@ The dirty bit is 1 if the page has been written to, marking that we will need to
 Protection Fault
 : The page table entry for a virtual page has permission bits prohibiting a requested operation.
 
-[[Page Fault]]
-: The page table entry for a virtual page has valid bit set to 0.
-
-Let's assume the page fault didn't occur because the address was invalid. If the address maps to a page that was put on the disk, we could transfer that page to memory (evicting another page if needed) and add the mapping to the page table and the [[translation lookaside buffer]].
+* [[Page Fault]]
