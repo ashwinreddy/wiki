@@ -13,7 +13,7 @@ The commutation relations are algebraically a carbon copy of the [[angular momen
 \end{equation}
 
 \begin{equation}
-S_{\pm} = S_x \pm \iota S_y
+S_{\pm} \equiv S_x \pm \iota S_y
 \end{equation}
 
 
