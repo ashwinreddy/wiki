@@ -4,13 +4,10 @@
 
 The commutation relations are algebraically a carbon copy of the [[angular momentum operator]]'s:
 
-\begin{equation}
-[S_i, S_j] = \iota\hbar \epsilon_{ijk}S_{i}S_{j}
-\end{equation}
-
-\begin{equation}
+\begin{gather}
+[S_i, S_j] = \iota\hbar \epsilon_{ijk}S_{i}S_{j} \\\\
 [S^2, S_i] = 0
-\end{equation}
+\end{gather}
 
 \begin{equation}
 S_{\pm} \equiv S_x \pm \iota S_y
