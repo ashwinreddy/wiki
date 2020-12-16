@@ -11,6 +11,10 @@ $$
 
 $m$ parity bits can cover bits 1 through $2^m -1$ of which $2^m-m-1$ are data bits. For example, $m=3$ is a [[Hamming(7,4)]].
 
+# Hamming(7,4)
+
+[[include:Hamming(7,4)]]
+
 # Resources
 
 * [[Table|https://en.wikipedia.org/wiki/Hamming_code?oldformat=true#General_algorithm]]
