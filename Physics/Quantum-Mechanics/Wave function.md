@@ -1,6 +1,12 @@
 The **wave function** $\Psi$ is the primary object of study in quantum mechanics. It is a function of [[space]] and [[time]] and contains information about the probability of seeing a particle somewhere. The wave function evolves as the [[Schrodinger equation]]. The [[Born rule]] tells us how to convert the wave function into an empirical prediction.
 
-Formally, we treat it as a [[ray]] in [[Hilbert space]].
+# Formalism
+
+Formally, we treat it as a [[ray]] in [[Hilbert space]]. We define the inner product of functions $f(x)$ and $g(x)$
+
+$$
+\langle f \mid g \rangle \equiv \int_a^b f(x)^* g(x) \dd{x}
+$$
 
 # Normalization
 
