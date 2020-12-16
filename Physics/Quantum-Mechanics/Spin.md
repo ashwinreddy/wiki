@@ -11,11 +11,6 @@ The commutation relations are algebraically a carbon copy of the [[angular momen
 [S^2, S_i] = 0
 \end{gather}
 
-\begin{equation}
-S_{\pm} \equiv S_x \pm \iota S_y
-\end{equation}
-
-
 # Eigenstates
 
 The eigenstates are likewise given by analagous equations to angular momentum:
@@ -24,6 +19,14 @@ The eigenstates are likewise given by analagous equations to angular momentum:
 S^2 | sm \rangle = \hbar^2 s(s+1) | sm \rangle \\\\
 S_z | sm \rangle = \hbar m| sm \rangle
 \end{gather}
+
+There is, of course, still a raising and lowering operator:
+
+
+\begin{equation}
+S_{\pm} \equiv S_x \pm \iota S_y
+\end{equation}
+
 
 However, the difference is that the eigenvectors are not the [[spherical harmonics]].
 
