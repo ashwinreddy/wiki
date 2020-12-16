@@ -14,7 +14,7 @@ $$
 $$
 
 $$
-\text{PA bits} = \lg \text{Physical Address Space}
+\text{PA bits} = \lg \text{Number Physical Addresses}
 $$
 
 where 
