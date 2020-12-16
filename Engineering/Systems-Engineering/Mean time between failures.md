@@ -3,3 +3,5 @@
 $$
 MTBF = MTTF + MTTR
 $$
+
+MTBF affects [[Availability]].
