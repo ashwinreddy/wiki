@@ -28,4 +28,4 @@ $$
 \psi(\mathbf{r}_1, \mathbf{r}_2) = \psi_a(\mathbf{r}_1)\psi_b(\mathbf{r}_2)
 $$
 
-But this is not the case for [[identical particles]]
+But this is not the case for [[identical particles]]! For [[bosons|boson]], we need the state to be symmetric under exchange and for [[fermions|fermion]], we need it to be antisymmetric.
