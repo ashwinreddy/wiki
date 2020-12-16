@@ -1,0 +1,1 @@
+**Hamming(7,4)** is a [[Hamming code]] for 4 bits with 3 bits.
