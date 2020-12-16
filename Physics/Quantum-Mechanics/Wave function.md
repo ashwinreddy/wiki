@@ -27,3 +27,5 @@ Suppose the particles don't interact. Then maybe we call $\psi_a(\mathbf{r})$ th
 $$
 \psi(\mathbf{r}_1, \mathbf{r}_2) = \psi_a(\mathbf{r}_1)\psi_b(\mathbf{r}_2)
 $$
+
+But this is not the case for [[identical particles]]
