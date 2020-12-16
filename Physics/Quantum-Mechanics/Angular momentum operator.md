@@ -3,15 +3,6 @@ The **(orbital) angular momentum operator** takes after classical [[angular mome
 
 [[_TOC_]]
 
-# Eigenstates
-
-It turns out that the [[eigenstates|eigenstate]] are given by
-
-\begin{gather}
-L^2 | \psi \rangle = \hbar^2 \ell (\ell + 1) | \psi \rangle \\\\\
-L_z | \psi \rangle = \hbar m | \psi \rangle
-\end{gather}
-
 # Commutators
 
 The algebra is summarized by the following equations
@@ -26,6 +17,16 @@ The algebra is summarized by the following equations
 \end{equation}
 
 * If $V(\vec{r}) = V(r)$, then $L_x$, $L_y$, and $L_z$ are conserved: $[H, L_x] = [H, L_y] = [H, L_z] = 0$
+
+# Eigenstates
+
+Since $L_z$ and $L^2$ commute, we can look for simultaneous [[eigenstates|eigenstate]], concluding that
+
+\begin{gather}
+L^2 | \psi \rangle = \hbar^2 \ell (\ell + 1) | \psi \rangle \\\\\
+L_z | \psi \rangle = \hbar m | \psi \rangle
+\end{gather}
+
 
 # Uncertainty
 
