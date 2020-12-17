@@ -98,6 +98,12 @@ $$
 2^{-\mathsf{sigfigs}} \times 2^{\mathsf{Bias}+1}
 $$
 
+# Floats in range
+
+Suppose you want to know how many floats there are from $\ell$ to $h$. Suppose you calculate that $\ell$ has a significand of $\ell_{\mathsf{sig}}$ and an exponent of $\ell_{\mathsf{exp}}$ and likewise for $h$.
+
+If $\ell_{\mathsf{exp}} = h_{\mathsf{exp}}$, then the range is the difference between the significands since they're counting on the same scale.
+
 # External links
 
 * [[https://www.johnbcoughlin.com/posts/floating-point-axiom/]]
