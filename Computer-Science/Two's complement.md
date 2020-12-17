@@ -14,6 +14,7 @@ Say you have $N$ bits to represent a two's complement number. Then, you can repr
 
 Suppose we did
 
-$$
-\mathsf{Twos Complement}(\mathsf{Twos Complement}(n))
-$$
+\begin{align\*}
+\mathsf{Twos Complement}(\mathsf{Twos Complement}(n)) &= \mathsf{Twos Complement}(1 + \mathsf{NOT}(n)) \\\\
+&= 1 + \mathsf{NOT}(1 + \mathsf{NOT}(n))
+\end{align\*}
