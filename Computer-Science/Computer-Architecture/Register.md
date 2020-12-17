@@ -16,6 +16,9 @@ t_{\mathsf{hold}} \leq \min_{\text{paths}}\left( t_{\mathsf{clk2q}} +  t_{\maths
 
 The clock period needs to be long enough for your new register input to be calculated correctly, which means that you need enough time for the longest path to finish and then to setup the register for updating.
 
+Critical path
+: Longest delay between elements, i.e. longest path from register or (memory) output to register or (memory) input
+
 \begin{equation}
 t_{\mathsf{clk2q}} + \max_{\text{paths}} t_{\mathsf{logic}} + t_{\mathsf{setup}} \leq t_{\mathsf{clk-cycle}} \tag{Setup time constraint}
 \end{equation}
