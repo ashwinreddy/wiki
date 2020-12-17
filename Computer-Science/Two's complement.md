@@ -9,3 +9,11 @@ The two's complement of a number can be used as a convenient way to represent it
 Say you have $N$ bits to represent a two's complement number. Then, you can represent [[integer]] in the range $[-2^{n-1}, 2^{n-1}-1]$ where the smallest value corresponds to a 1 followed by all 0s and the largest is a 0 followed by all 1s.
 
 > Negative 1 in two's complement is always represented as all 1s in two's complement notation.
+
+# Properties
+
+Suppose we did
+
+$$
+\mathsf{Twos Complement}(\mathsf{Twos Complement}(n))
+$$
