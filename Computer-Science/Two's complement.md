@@ -1,14 +1,4 @@
-The **two's complement** of a [[binary number]] is one plus its [[ones' complement]]. It's one convenient way of trying to represent a negative number. Let's say you have 5 bits: two's complement will let you express integers from -16 to 15.
-
-$$
-d_{n} \times (- 2^n) + \sum_{i=1}^{n-1} d_i \times 2^i
-$$
-
-Heuristically, you can flip the bits and add 1 to find out what the positive version is.
-
-
-
-In fact, all 1s in two's complement system corresponds to -1.
+The **two's complement** of a [[binary number]] is one plus its [[ones' complement]]. 
 
 $$
 \mathsf{Two's Complement}(n) = 1 + \mathsf{NOT}(n)
