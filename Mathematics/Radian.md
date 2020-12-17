@@ -5,3 +5,7 @@ s = r \theta
 $$
 
 where $\theta$ is an angle measured in radians and $r$ is the radius of a circle. Then, $s$ is the arclength covered!
+
+$$
+C = \pi d = 2\pi r
+$$
