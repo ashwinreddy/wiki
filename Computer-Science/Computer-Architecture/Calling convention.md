@@ -1,10 +1,7 @@
-**Calling convention** comprises requirements that ensure smooth running of subroutines: 
+**Calling convention** comprises requirements that ensure smooth running of subroutines. You can think of it as a contract with the following specifications.
 
-* Every [[register]] is _either_ preserved across function calls or not preserved across function calls.
-* The preserved ones are `sp` and `s0-s11`. They need to be restored by the callee so that they are the same after the function call.
-* The ones that are not preserved across function calls the caller _cannot_ rely on values being unchanged. These need to be saved before jumping `jal` if you want to keep using them: `a0-a7`, `t0-t6`, and `ra`. 
-
-
-You need to save the save registers. You have to assume the callee will tamper with any and all argument registers and temporary registers. 
+1. Every [[register]] will belong to one of two classes: a register whose value needs to be preserved across function calls _or_ a register whose value is allowed to mutate arbitrarily between function calls (therefore you should not assume they are the same between calls).
+2. The save registers `sp` and `s0-s11` must be reserved. They need to be restored by the callee so that they are the same after the function call.
+3. You have to assume the callee will tamper with any and all argument registers and temporary registers.  These need to be saved before jumping with `jal` if you want to keep using them because you _cannot_ rely on values being unchanged.: `a0-a7`, `t0-t6`, and `ra`. 
 
 A function often has a prologue where it saves `s` registers so they can be used. Then at the end the epilogue restores them.
