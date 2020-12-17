@@ -1,7 +1,7 @@
 **Momentum operator** in quantum mechanics is an [[operator]] we can apply to the [[wave function]] to get the [[momentum]]. In position space, the operator is the [[gradient]] multiplied by constants:
 
 \begin{equation}
-\boxed{ \hat{p} = -\iota\hbar \nabla }
+\boxed{ \hat{\mathbf{p}} = -\iota\hbar \nabla }
 \end{equation}
 
 In one dimension, we just have
