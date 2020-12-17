@@ -1,11 +1,5 @@
-A **compiler**.
+A **compiler**'s job is to take something like [[C]] code `foo.c` and turn it into assembly language `foo.s`. The output is typically similar to what you might write by hand, e.g. containing pseudo-instructions. Then the [[assembler]] has to do more work.
 
-What are the steps in compiling and running a [[C]] program? The acronym is CALL.
-
-1. Compiler takes `foo.c` and outputs `foo.s` assembly language code (possibly containing pseudo-instructions)
-2. [[Assembler]] takes `foo.s` and outputs `foo.o` object code, replacing pseudo instructions and using directives
-3. [[Linker]] takes object code files and outputs executable code, _linking_ several object files
-4. Loader takes executable code on disk and runs it. It's the job of [[operating system]].
 
 # Resources
 
