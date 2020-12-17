@@ -2,7 +2,7 @@ An **observable** in quantum mechanics is something we can measure for a particl
 
 > Observables are represented by [[Hermitian operator]].
 
-The set of possible outcomes for the measurement are the eigenvalues of the operator.
+The set of possible outcomes for the measurement are the eigenvalues of the operator, although they do participate in the [[uncertainty principle]].
 
 # Properties
 
@@ -17,8 +17,6 @@ It must then be the case that
 $$
 \langle Q \rangle = \langle Q \rangle^*
 $$
-
-Observables participate in [[uncertainty principle]]
 
 # Determinate states
 
