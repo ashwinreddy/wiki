@@ -16,7 +16,7 @@ def epilogue():
     reload any save registers used
     reload ra (if needed)
     increment sp back to previous value
-    jump back to return address
+    jump back to return address (ret = jr ra = jalr x0, ra, 0)
 ```
 
 ```
