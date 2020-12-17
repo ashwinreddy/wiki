@@ -4,6 +4,8 @@ A register has a delay before the output reflects the sampled input. That time i
 
 The clk-to-q delay typically includes the hold time.
 
+# Constraints
+
 There are two conditions we care about for registers.
 
 First, we want to make sure that the updates to a register aren't happening too quickly. When a clock cycle starts and a register begins saving its current input, the input should not change again. So the shortest path needs to take _at least_ as long as the hold time.
