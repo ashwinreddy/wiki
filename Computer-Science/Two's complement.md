@@ -4,16 +4,15 @@ $$
 \mathsf{Twos Complement}(n) \equiv 1 + \mathsf{NOT}(n)
 $$
 
-The two's complement of a number can be used as a convenient way to represent signed [[integer]]. We simply allow the operation
+The two's complement of a number can be used as a convenient way to represent signed [[integer]]. The first bit is taken to be a sign bit: 1 means negative, 0 means positive. Then we simply allow the operation
 
 $$
-\mathsf{Negate}(n) \equiv \mathsf{TwosComplement}(n)
-$$,
+\mathsf{Negate}(n) \equiv \mathsf{TwosComplement}(n).
+$$
 
-you can see by [[Two's complement#properties]]
+to fill in the rest.
 
-
-The first bit is taken to be a sign bit: 1 means negative, 0 means positive.
+# Range
 
 Say you have $N$ bits to represent a two's complement number. Then, you can represent [[integer]] in the range $[-2^{n-1}, 2^{n-1}-1]$ where the smallest value corresponds to a 1 followed by all 0s and the largest is a 0 followed by all 1s.
 
