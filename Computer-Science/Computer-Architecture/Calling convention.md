@@ -7,6 +7,19 @@
 A function often has a prologue where it saves `s` registers so they can be used. Then at the end the epilogue restores them.
 
 ```
+def prologue():
+    decrement sp by num s registers + local var space
+    store any saved registers used
+    store ra if function call is made
+
+def epilogue():
+    reload any save registers used
+    reload ra (if needed)
+    increment sp back to previous value
+    jump back to return address
+```
+
+```
 # Prologue
 addi sp, sp, -8
 sw ra 0(sp)
