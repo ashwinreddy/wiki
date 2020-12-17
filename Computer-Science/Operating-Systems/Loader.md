@@ -1,0 +1,1 @@
+**Loader** is part of [[operating system]] that takes executable code on disk and runs it.
