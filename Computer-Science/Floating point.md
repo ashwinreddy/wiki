@@ -25,6 +25,8 @@ The number is represented in terms of its significant figures (perhaps we could 
 
 # Meaning
 
+The table below tells you how to interpret a floating point number.
+
 |Exponent|Significand|Object|
 |--------|-----------|------|
 |0|0|$\pm 0$ based on the sign|
