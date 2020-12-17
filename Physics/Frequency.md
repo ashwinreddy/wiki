@@ -4,4 +4,4 @@ $$
 f = \frac{1 \text{ cycle}}{T}
 $$
 
-The SI unit for frequency is the hertz (Hz), which is one cycle per second. When there is a rotation involved, [[angular frequency]] contains the same information.
+The SI unit for frequency is the hertz (Hz), which is one cycle per second. When there is a rotation involved, [[angular frequency]] contains the same information but in terms of [[radian]] per sec.
