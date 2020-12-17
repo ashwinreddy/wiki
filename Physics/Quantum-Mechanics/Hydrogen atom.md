@@ -7,7 +7,7 @@ $$
 The radial equation is
 
 $$
--\frac{\hbar^2}{2m_e} \frac{\dd{} ^2 u}{\dd{} r^2} + \left[ - \frac{e^2}{4\pi\epsilon_0}\frac{1}{r} + \frac{\hbar^2}{2m_e}\frac{\ell(\ell + 1)}{r} \right]
+-\frac{\hbar^2}{2m_e} \frac{\dd{} ^2 u}{\dd{} r^2} + \left[ - \frac{e^2}{4\pi\epsilon_0}\frac{1}{r} + \frac{\hbar^2}{2m_e}\frac{\ell(\ell + 1)}{r^2} \right]u = Eu.
 $$
 
 The allowed energies are
