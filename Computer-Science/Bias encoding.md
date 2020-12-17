@@ -4,4 +4,10 @@ $$
 \text{Actual Value Represented} = \text{Binary Representation} + \text{Bias}
 $$
 
-A simple choice for the bias when we have $N$ bits is $-(2^{N-1}-1)$
+Typically, when we have $N$ bits,
+
+$$
+\mathsf{Bias} = -2^{N-1}-1
+$$
+
+The range of values we can represent with $N$ bits is $[b, 2^N - 1 + b]$
