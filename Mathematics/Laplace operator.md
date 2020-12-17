@@ -4,7 +4,7 @@ $$
 \nabla^2 f = \nabla\cdot\nabla f
 $$
 
-In spherical coordinates,
+In [[spherical coordinate system]],
 
 $$
 \nabla^2 = \frac{1}{r\^2}\pdv{}{r}\left(r^2 \pdv{}{r}\right) + \frac{1}{r^2 \sin\theta}\pdv{}{\theta}\left(\sin\theta \pdv{}{\theta}\right) + \frac{1}{r^2 \sin\^2\theta}\left(\frac{\partial^2}{\partial \phi^2}\right)
