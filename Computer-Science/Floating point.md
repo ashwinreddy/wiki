@@ -95,11 +95,21 @@ $$
 
 # Floats in range
 
-Suppose you want to know how many floats there are from $\ell$ to $h$ where $\ell < h$. Suppose you calculate that $\ell$ has a significand of $\ell_{\mathsf{sig}}$ and an exponent of $\ell_{\mathsf{exp}}$ and likewise for $h$.
+Suppose you want to know how many floats there are from $\ell$ to $h$ where $\ell < h$ and we have $m$ mantissa bits. Suppose you calculate that $\ell$ has a significand of $\ell_{\mathsf{sig}}$ and an exponent of $\ell_{\mathsf{exp}}$ and likewise for $h$.
 
 If $\ell_{\mathsf{exp}} = h_{\mathsf{exp}}$, then the range is the difference between the significands since they're counting on the same scale.
 
-If $\ell_{\mathsf{exp}} < h_{\mathsf{exp}}$, then you need to count the excess as well as all the intermediate powers. For any given exponent, there are $2^m$ mantissa choices. Thus, between the powers we would have $(h_{\mathsf{sig}} - \ell_{\mathsf{sig}}) \times 2^m$.
+If $\ell_{\mathsf{exp}} < h_{\mathsf{exp}}$, then you need to count the excess as well as all the intermediate powers. 
+
+$$
+\text{Upper Excess} = h_{\mathsf{sig}} - 0
+$$
+
+$$
+\text{Lower Excess} = 2^m - \ell_{\mathsf{sig}}
+$$
+
+For any given exponent, there are $2^m$ mantissa choices. So between the powers we would have $(h_{\mathsf{sig}} - \ell_{\mathsf{sig}} - 1) \times 2^m$.
 
 # External links
 
