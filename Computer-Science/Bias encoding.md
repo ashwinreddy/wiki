@@ -10,4 +10,4 @@ $$
 \mathsf{Bias} = -2^{N-1}-1
 $$
 
-The range of values we can represent with $N$ bits is $[b, 2^N - 1 + b]$
+The range of values we can represent with $N$ bits is $[\mathsf{Bias}, 2^N - 1 + \mathsf{Bias}]$
