@@ -19,7 +19,7 @@ The algebra is summarized by the following equations
 If you have a central potential, then $L_x$, $L_y$, and $L_z$ are conserved.
 
 $$
-$V(\vec{r}) = V(r) \implies [H, L_x] = [H, L_y] = [H, L_z] = 0
+V(\vec{r}) = V(r) \implies [H, L_x] = [H, L_y] = [H, L_z] = 0
 $$
 
 # Eigenstates
