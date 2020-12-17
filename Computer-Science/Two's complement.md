@@ -1,7 +1,7 @@
 The **two's complement** of a [[binary number]] is one plus its [[ones' complement]]. 
 
 $$
-\mathsf{Two's Complement}(n) = 1 + \mathsf{NOT}(n)
+\mathsf{Twos Complement}(n) = 1 + \mathsf{NOT}(n)
 $$
 
 # Representing negative numbers
