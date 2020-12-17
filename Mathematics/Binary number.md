@@ -1,0 +1,1 @@
+**Binary number** is a number represented in base-2 (i.e. using only 0 or 1).
