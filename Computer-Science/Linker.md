@@ -1,1 +1,1 @@
-**Linker** combines object files into a binary executable. Fulfills missing labels required by examining relocation and symbol tables.
+**Linker** combines object files `foo.o`, `bar.o` into a binary executable code, thereby _linking_ the several object files. It fulfills missing labels required by examining relocation and symbol tables. Running requires a [[loader]]
