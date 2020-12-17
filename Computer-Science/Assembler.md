@@ -1,1 +1,1 @@
-An **assembler** produces machine/object code from assembly code with relocation tables (labels defined in other files) and symbol tables (identifies labels in this file).
+An **assembler** takes assembly code `foo.s` and makes machine/object code `foo.o` with relocation tables (labels defined in other files) and symbol tables (identifies labels in this file). After this, the [[linker]] has more work to do.
