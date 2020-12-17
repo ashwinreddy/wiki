@@ -1,4 +1,7 @@
-**Floating point** is a way of representing [[real number]] on a computer with the same general principle as [[scientific notation]]. In this way, it supports a wide range of values with high precision. 
+**Floating point** is a way of representing [[real number]] on a computer with the same general principle as [[scientific notation]]. Where scientific notation would write a number like $1.9 \times 10^2$, a floating point number would be closer to $1.101 \times 2^8$.
+
+
+In this way, it supports a wide range of values with high precision. 
 
 
 [[_TOC_]]
