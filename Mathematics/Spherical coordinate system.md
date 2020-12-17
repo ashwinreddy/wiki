@@ -1,0 +1,1 @@
+The **spherical coordinate system** conventionally refers to a coordinate system $(r, \theta, \phi)$.
