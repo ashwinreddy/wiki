@@ -7,7 +7,7 @@
 In this way, 
 
 $$
-\langle p \rangle = -i\hbar \int_\RR \dd{x} \left[ \Psi^*(x) \pdv{\Psi(x)}{x}  \right]
+\langle p_x \rangle = -i\hbar \int_\RR \dd{x} \left[ \Psi^*(x) \pdv{\Psi(x)}{x}  \right]
 $$
 
 # Spectrum
