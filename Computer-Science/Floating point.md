@@ -36,6 +36,13 @@ The table below tells you how to interpret a floating point number.
 |255|nonzero|NaN|
 
 
+How does the number map to an actual value? The following formula captures this.
+
+\begin{equation}
+\mathsf{Value} = (-1)^S \times \begin{cases} 1.\mathsf{Significand}_2 \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  0.\mathsf{Significand}_2 \times 2^{\mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = -127
+\end{equation}
+
+
 ## Denormalized numbers
 
 In normalized form, the significand is treated as following a "1."
@@ -54,15 +61,6 @@ Implicit exponent is -126 and we have no implied leading 1.
 A floating-point number is defined in IEEE 754 standard. [This article](https://fabiensanglard.net/floating_point_visually_explained/index.html) provides a good explanation.
 
 https://www.johnbcoughlin.com/posts/floating-point-axiom/
-
-
-## Value
-
-How does the number map to an actual value? The following formula captures this.
-
-\begin{equation}
-\mathsf{Value} = (-1)^S \times \begin{cases} 1.\mathsf{Significand}_2 \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  0.\mathsf{Significand}_2 \times 2^{\mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = -127
-\end{equation}
 
 ## Representable numbers
 
