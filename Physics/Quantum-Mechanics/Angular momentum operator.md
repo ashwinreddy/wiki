@@ -5,16 +5,12 @@ The **(orbital) angular momentum operator** takes after classical [[angular mome
 
 # Commutators
 
-The algebra is summarized by the following equations
+The algebra is summarized by
 
-\begin{equation}
-[L_i, L_j] = \iota\hbar\epsilon_{ijk}L_k
-\end{equation}
-
-
-\begin{equation}
+\begin{gather}
+[L_i, L_j] = \iota\hbar\epsilon_{ijk}L_k \\\\
 \left[L^2, L_i\right] = 0
-\end{equation}
+\end{gather}
 
 If you have a central potential, then $L_x$, $L_y$, and $L_z$ are conserved.
 
