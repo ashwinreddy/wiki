@@ -60,8 +60,6 @@ Implicit exponent is -126 and we have no implied leading 1.
 
 A floating-point number is defined in IEEE 754 standard. [This article](https://fabiensanglard.net/floating_point_visually_explained/index.html) provides a good explanation.
 
-https://www.johnbcoughlin.com/posts/floating-point-axiom/
-
 ## Representable numbers
 
 The largest representable number would have maximum exponent and a mantissa of all 1s. Therefore, the mantissa on its own looks like
@@ -102,4 +100,5 @@ $$
 
 # External links
 
+* [[https://www.johnbcoughlin.com/posts/floating-point-axiom/]]
 * [[https://docs.google.com/document/d/1IVTwu4_epNdfid0_N-XKm4Fr2E-VGCSUGwsCQCWD0C8/edit]]
