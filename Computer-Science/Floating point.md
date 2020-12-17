@@ -36,18 +36,14 @@ The table below tells you how to interpret a floating point number.
 |255|nonzero|NaN|
 
 
+## Denormalized numbers
+
 In normalized form, the significand is treated as following a "1."
-
-
-## Normalized / Denormalized numbers
 
 There could be multiple ways of using a "scientific notation"-style representation for any given number. Therefore, we can normalize the number by asking that we represent it with a prefix of "1." 
 
 
 When we have an exponent of 0, we are looking at denormalized numbers. In particular, we use them when we want to look at numbers below $2^{1-\mathsf{bias}}$.
-
-
-# Denormalized number
 
 When we want to represent numbers without a leading 1, we go to the denormalized numbers.
 
