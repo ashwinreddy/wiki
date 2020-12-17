@@ -109,7 +109,7 @@ $$
 \text{Lower Excess} = 2^m - \ell_{\mathsf{sig}}
 $$
 
-For any given exponent, there are $2^m$ mantissa choices. So between the powers we would have $(h_{\mathsf{sig}} - \ell_{\mathsf{sig}} - 1) \times 2^m$.
+For any given exponent, there are $2^m$ mantissa choices. So between the powers we would have $(h_{\mathsf{exp}} - \ell_{\mathsf{exp}} - 1) \times 2^m$.
 
 # External links
 
