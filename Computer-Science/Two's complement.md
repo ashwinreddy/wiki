@@ -8,7 +8,9 @@ The two's complement of a number can be used as a convenient way to represent si
 
 $$
 \mathsf{Negate}(n) \equiv \mathsf{TwosComplement}(n)
-$$
+$$,
+
+you can see by [[properties]]
 
 
 The first bit is taken to be a sign bit: 1 means negative, 0 means positive.
