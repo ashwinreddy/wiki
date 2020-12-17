@@ -2,5 +2,5 @@ The **Lotka-Volterra equations** or **predator-prey equations** are two [[differ
 
 \begin{align}
 \dv{🐰}{t} &= 🐰\left(\alpha  - \beta 🦊\right) \\\\\
-\dv{🦊}{t} &= \delta 🐰🦊 - \gamma 🦊
+\dv{🦊}{t} &= 🦊\left(\delta 🐰 - \gamma \right)
 \end{align}
