@@ -4,13 +4,6 @@
 \boxed{ \hat{\mathbf{p}} = -\iota\hbar \nabla } \implies \begin{cases} p_x = -\iota\hbar \pdv{}{x} \\\\ p_y = -\iota\hbar \pdv{}{y} \\\\ p_z = -\iota\hbar \pdv{}{z} \end{cases}
 \end{equation}
 
-In one dimension, we just have
-\begin{equation}
-
-\end{equation}
-
-
-
 In this way, 
 
 $$
