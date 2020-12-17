@@ -12,7 +12,7 @@ Say you have $N$ bits to represent a two's complement number. Then, you can repr
 
 # Properties
 
-It is an [[involution]], For proof
+The operation is an [[involution]]:
 
 \begin{align\*}
 \mathsf{Twos Complement}(\mathsf{Twos Complement}(n)) &= \mathsf{Twos Complement}(1 + \mathsf{NOT}(n)) \\\\
