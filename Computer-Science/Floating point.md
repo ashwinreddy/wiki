@@ -104,6 +104,10 @@ Suppose you want to know how many floats there are from $\ell$ to $h$ where $\el
 
 If $\ell_{\mathsf{exp}} = h_{\mathsf{exp}}$, then the range is the difference between the significands since they're counting on the same scale.
 
+If $\ell_{\mathsf{exp}} < h_{\mathsf{exp}}$, then you need to count 
+
+<<Warning('fill out')>>
+
 # External links
 
 * [[https://www.johnbcoughlin.com/posts/floating-point-axiom/]]
