@@ -119,6 +119,6 @@ $$
 2^{-\mathsf{sigfigs}} \times 2^{\mathsf{Bias}+1}
 $$
 
-# See also
+# External links
 
 * [[https://docs.google.com/document/d/1IVTwu4_epNdfid0_N-XKm4Fr2E-VGCSUGwsCQCWD0C8/edit]]
