@@ -106,7 +106,7 @@ If $\ell_{\mathsf{exp}} = h_{\mathsf{exp}}$, then the range is the difference be
 
 If $\ell_{\mathsf{exp}} < h_{\mathsf{exp}}$, then you need to count 
 
-<<Warning('fill out')>>
+<<Warn('fill out')>>
 
 # External links
 
