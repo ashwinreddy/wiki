@@ -1,9 +1,8 @@
 An **observable** in quantum mechanics is something we can measure for a particle, meaning it has [[real|real number]] [[expectation|expected value]]. 
 
-1. Observables are represented by [[Hermitian operator]].
-2. The set of possible outcomes for the measurement are the eigenvalues of the operator.
+> Observables are represented by [[Hermitian operator]].
 
-> The observables of a quantum system are the self-adjoint linear maps $A: \mathcal{D}_A \to \mathcal{H}$
+The set of possible outcomes for the measurement are the eigenvalues of the operator.
 
 # Properties
 
@@ -26,3 +25,7 @@ Observables participate in [[uncertainty principle]]
 A determinate state for an observable $Q$ is one that whenever you measure $Q$, you always get the same value.
 
 > Determinate states of $Q$ are eigenfunctions of $\hat{Q}$.
+
+# Formalism
+
+The observables of a quantum system are the self-adjoint linear maps $A: \mathcal{D}_A \to \mathcal{H}$
