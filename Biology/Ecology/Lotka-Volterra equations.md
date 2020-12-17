@@ -6,5 +6,5 @@ The **Lotka-Volterra equations** or **predator-prey equations** are two [[differ
 \end{align}
 
 $$
-fox)
+🦊
 $$
