@@ -3,7 +3,7 @@
 [[_TOC_]]
 
 # Components
-The IEEE 754 standard uses 3 parts:
+The IEEE 754 standard uses 3 fields:
 
 [[https://fabiensanglard.net/floating_point_visually_explained/floating_point_math.svg]]
 
