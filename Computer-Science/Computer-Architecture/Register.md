@@ -19,6 +19,10 @@ The clock period needs to be long enough for your new register input to be calcu
 Critical path
 : Longest delay between elements, i.e. longest path from register or (memory) output to register or (memory) input
 
+$$
+t_{\text{critical path}} =  \max_{\text{paths}} t_{\mathsf{logic}}
+$$
+
 \begin{equation}
-t_{\mathsf{clk2q}} + \max_{\text{paths}} t_{\mathsf{logic}} + t_{\mathsf{setup}} \leq t_{\mathsf{clk-cycle}} \tag{Setup time constraint}
+t_{\mathsf{clk2q}} + t_{\text{critical path}} + t_{\mathsf{setup}} \leq t_{\mathsf{clk-cycle}} \tag{Setup time constraint}
 \end{equation}
