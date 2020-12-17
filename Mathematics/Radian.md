@@ -1,0 +1,1 @@
+A **radian** is a unit of angle defined such that $2\pi$ is a full rotation.
