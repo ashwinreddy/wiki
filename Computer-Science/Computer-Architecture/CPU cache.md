@@ -39,6 +39,12 @@ N \times \text{Num Sets} = \text{Num Blocks}
 
 For example, a 4-way set associative cache will index every 4 set of 4 lines in the cache, so it would use 2 fewer index bits than a direct mapped cache.
 
+## Design choice
+
+In a direct-mapped cache, every location in main memory has only one place it could possibly go to in the cache. If two locations map to the same entry, they may continually kick each other out.
+
+A fully associative cache will let any location go into any block. 
+
 
 # Implementation
 
@@ -47,9 +53,7 @@ When you make a cache, you choose a **cache size** and a **block size**. The cac
 
 There's also the choice of associativity, as discussed above. Finally, there's the [[address space]], which is separate from our design choices for the cache. 
 
-# Accessing the Cache
-
-Suppose there's some address you want to access in the cache. Here are the steps:
+# TIO
 
 |Address Component|Question|Meaning|
 |-----------------|-------|--------|
@@ -73,7 +77,11 @@ Since the offset needs to specify a byte in a block, we have
 
 # Usage
 
+You will use the cache to access and write to memory, of course. Say you want to read/write to some address $A$. You first break down the address into its TIO components. Then,
 
+1. Check the index.
+2. Check the tag.
+3. Get the block
 
 
 # Policies
@@ -96,3 +104,8 @@ Since the offset needs to specify a byte in a block, we have
 |Compulsory|A miss that must occur because it's the first time bringing in that block|
 |Conflict|Two blocks are mapped to the same row/index and there is not enough room to hold both|
 |Capacity|Seeing more unique blocks than blocks in the cache. The cache isn't big enough to hold every block you want to use.|
+
+# External links
+
+* [[http://csillustrated.berkeley.edu/PDFs/handouts/cache-3-associativity-handout.pdf]]
+
