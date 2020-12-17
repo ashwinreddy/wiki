@@ -6,7 +6,7 @@
 
 A function often has a prologue where it saves `s` registers so they can be used. Then at the end the epilogue restores them.
 
-```
+```py
 def prologue():
     decrement sp by num s registers + local var space
     store any saved registers used
