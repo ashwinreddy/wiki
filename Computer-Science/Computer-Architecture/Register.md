@@ -17,7 +17,7 @@ t_{\mathsf{hold}} \leq \min_{\text{paths}}\left( t_{\mathsf{clk2q}} +  t_{\maths
 The clock period needs to be long enough for your new register input to be calculated correctly, which means that you need enough time for the longest path to finish and then to setup the register for updating.
 
 Critical path
-: Longest delay between elements, i.e. longest path from register or (memory) output to register or (memory) input
+: Longest delay between elements, i.e. longest path from register or memory output to register or memory input
 
 $$
 t_{\text{critical path}} =  \max_{\text{paths}} t_{\mathsf{logic}}
