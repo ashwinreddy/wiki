@@ -4,7 +4,7 @@ $$
 s = r \theta
 $$
 
-where $\theta$ is an angle measured in radians and $r$ is the radius of a circle. Then, $s$ is the arclength covered!
+where $\theta$ is an angle measured in radians and $r$ is the radius of a circle. Then, $s$ is the arclength covered since the circumference is given by
 
 $$
 C = \pi d = 2\pi r
