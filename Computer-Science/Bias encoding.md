@@ -7,7 +7,7 @@ $$
 Typically, when we have $N$ bits,
 
 $$
-\mathsf{Bias} = -2^{N-1}-1
+\mathsf{Bias} = 1-2^{N-1}
 $$
 
 The range of values we can represent with $N$ bits is $[\mathsf{Bias}, 2^N - 1 + \mathsf{Bias}]$
