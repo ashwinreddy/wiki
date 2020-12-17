@@ -9,3 +9,5 @@ For a [[Riemannian manifold]], we write the gradient as the dual to the [[differ
 $$
 \operatorname{grad} f \doteq \left( \dd{f} \right)^\sharp
 $$
+
+The gradient collapses to the [[derivative]] for a $f: \RR \to \RR$ function.
