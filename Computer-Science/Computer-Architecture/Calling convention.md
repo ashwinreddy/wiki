@@ -5,3 +5,13 @@
 3. You have to assume the callee will tamper with any and all argument registers and temporary registers.  These need to be saved before jumping with `jal` if you want to keep using them because you _cannot_ rely on values being unchanged.: `a0-a7`, `t0-t6`, and `ra`. 
 
 A function often has a prologue where it saves `s` registers so they can be used. Then at the end the epilogue restores them.
+
+```
+# Prologue
+addi sp, sp, -8
+sw ra 0(sp)
+sw s0 4(sp)
+lw ra 0(sp)
+lw s0 4(sp)
+addi sp, sp, 8
+```
