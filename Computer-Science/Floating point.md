@@ -39,7 +39,7 @@ The table below tells you how to interpret a floating point number.
 How does the number map to an actual value? The following formula captures this.
 
 \begin{equation}
-\mathsf{Value} = (-1)^S \times \begin{cases} 1.\mathsf{Significand}_2 \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  0.\mathsf{Significand}_2 \times 2^{\mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = -2^{\mathsf{Exponent Bits} -1}-1
+\mathsf{Value} = (-1)^S \times \begin{cases} 1.\mathsf{Significand}_2 \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  0.\mathsf{Significand}_2 \times 2^{\mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = 1-2^{\mathsf{Exponent Bits} -1}
 \end{equation}
 
 
