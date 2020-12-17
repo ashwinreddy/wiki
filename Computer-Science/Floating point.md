@@ -79,14 +79,6 @@ The smallest representable number would be a denormalized number, so we would ha
 
 The smallest positive _integer_ we cannot represent is $2^{\mathsf{sigfigs}+1}+1$.
 
-# Exponent Bias
-
-For a $k$ bit exponent, the bias is given by
-
-$$
-\mathsf{Bias} = -\left(2^{k-1}-1\right)
-$$
-
 # Consequences
 
 * The distance between floating point numbers increase as the absolute value of the numbers increaes
