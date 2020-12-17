@@ -16,7 +16,11 @@ The algebra is summarized by the following equations
 \left[L^2, L_i\right] = 0
 \end{equation}
 
-* If $V(\vec{r}) = V(r)$, then $L_x$, $L_y$, and $L_z$ are conserved: $[H, L_x] = [H, L_y] = [H, L_z] = 0$
+If you have a central potential, then $L_x$, $L_y$, and $L_z$ are conserved.
+
+$$
+$V(\vec{r}) = V(r) \implies [H, L_x] = [H, L_y] = [H, L_z] = 0
+$$
 
 # Eigenstates
 
