@@ -23,24 +23,7 @@ Let's just call the number of significand bits $\mathsf{sigfigs}$.
 
 The number is represented in terms of its significant figures (perhaps we could call this the number's energy) and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
 
-# Normalized / Denormalized numbers
-
-There could be multiple ways of using a "scientific notation"-style representation for any given number. Therefore, we can normalize the number by asking that we represent it with a prefix of "1." 
-
-
-When we have an exponent of 0, we are looking at denormalized numbers. In particular, we use them when we want to look at numbers below $2^{1-\mathsf{bias}}$.
-
-# Value
-
-How does the number map to an actual value? The following formula captures this.
-
-\begin{equation}
-\mathsf{Value} = (-1)^S \times \begin{cases} 1.\mathsf{Significand}_2 \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  0.\mathsf{Significand}_2 \times 2^{\mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = -127
-\end{equation}
-
-
-
-# Format
+# Meaning
 
 |Exponent|Significand|Object|
 |--------|-----------|------|
@@ -54,8 +37,36 @@ How does the number map to an actual value? The following formula captures this.
 In normalized form, the significand is treated as following a "1."
 
 
+## Normalized / Denormalized numbers
 
-# Representable numbers
+There could be multiple ways of using a "scientific notation"-style representation for any given number. Therefore, we can normalize the number by asking that we represent it with a prefix of "1." 
+
+
+When we have an exponent of 0, we are looking at denormalized numbers. In particular, we use them when we want to look at numbers below $2^{1-\mathsf{bias}}$.
+
+
+# Denormalized number
+
+When we want to represent numbers without a leading 1, we go to the denormalized numbers.
+
+The smallest denormalized number would be $2^{-\text{significand bits}} \times 2^{\mathsf{bias}+1}$. The next smallest number would be $2^{1-\mathsf{sigfigs}} \times 2^{\mathsf{bias}+1}$
+
+Implicit exponent is -126 and we have no implied leading 1.
+
+A floating-point number is defined in IEEE 754 standard. [This article](https://fabiensanglard.net/floating_point_visually_explained/index.html) provides a good explanation.
+
+https://www.johnbcoughlin.com/posts/floating-point-axiom/
+
+
+## Value
+
+How does the number map to an actual value? The following formula captures this.
+
+\begin{equation}
+\mathsf{Value} = (-1)^S \times \begin{cases} 1.\mathsf{Significand}_2 \times 2^{\mathsf{Exponent} + \mathsf{Bias}} & \text{normalized} \\\\  0.\mathsf{Significand}_2 \times 2^{\mathsf{Bias} + 1} & \text{denormalized} \end{cases}, \quad \mathsf{Bias} = -127
+\end{equation}
+
+## Representable numbers
 
 The largest representable number would have maximum exponent and a mantissa of all 1s. Therefore, the mantissa on its own looks like
 
@@ -79,18 +90,6 @@ For a $k$ bit exponent, the bias is given by
 $$
 \mathsf{Bias} = -\left(2^{k-1}-1\right)
 $$
-
-# Denormalized number
-
-When we want to represent numbers without a leading 1, we go to the denormalized numbers.
-
-The smallest denormalized number would be $2^{-\text{significand bits}} \times 2^{\mathsf{bias}+1}$. The next smallest number would be $2^{1-\mathsf{sigfigs}} \times 2^{\mathsf{bias}+1}$
-
-Implicit exponent is -126 and we have no implied leading 1.
-
-A floating-point number is defined in IEEE 754 standard. [This article](https://fabiensanglard.net/floating_point_visually_explained/index.html) provides a good explanation.
-
-https://www.johnbcoughlin.com/posts/floating-point-axiom/
 
 # Consequences
 
