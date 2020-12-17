@@ -10,7 +10,7 @@ $$
 \mathsf{Negate}(n) \equiv \mathsf{TwosComplement}(n)
 $$,
 
-you can see by [[properties]]
+you can see by [[#properties]]
 
 
 The first bit is taken to be a sign bit: 1 means negative, 0 means positive.
