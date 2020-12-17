@@ -16,11 +16,6 @@ The IEEE 754 standard uses 3 fields:
 [[https://fabiensanglard.net/floating_point_visually_explained/floating_point_layout.svg]]
 
 
-
-
-Let's just call the number of significand bits $\mathsf{sigfigs}$.
-
-
 The number is represented in terms of its significant figures (perhaps we could call this the number's energy) and an exponent which controls the 'floating point' (so named because changing the exponent will change the decimal point's location).
 
 # Meaning
