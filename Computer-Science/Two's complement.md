@@ -16,5 +16,7 @@ Suppose we did
 
 \begin{align\*}
 \mathsf{Twos Complement}(\mathsf{Twos Complement}(n)) &= \mathsf{Twos Complement}(1 + \mathsf{NOT}(n)) \\\\
-&= 1 + \mathsf{NOT}(1 + \mathsf{NOT}(n))
+&= 1 + \mathsf{NOT}(1 + \mathsf{NOT}(n)) \\\\
+&= 1 + \mathsf{NOT}(\mathsf{NOT}(n)) - 1 \\\\
+&= n
 \end{align\*}
