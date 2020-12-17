@@ -4,8 +4,4 @@ $$
 \mathsf{Twos Complement}(n) \equiv 1 + \mathsf{NOT}(n)
 $$
 
-# Representing negative numbers
-
-The first bit is reserved for the sign. 0 is positive, 1 is negative. 
-
-When you want a number's negative, you take its two's complement.
+The two's complement of a number can be used as a convenient way to represent its negative. The first bit is taken to be a sign bit: 1 means negative, 0 means positive.
