@@ -5,3 +5,5 @@ x = a \oplus b \oplus d \\\\
 y = a \oplus c \oplus d \\\\
 z = b \oplus c \oplus d \\\\
 \end{gather}
+
+And see which fail. 
