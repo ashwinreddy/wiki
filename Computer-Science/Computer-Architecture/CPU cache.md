@@ -21,7 +21,7 @@ When desiging a cache, we have a choice for associativity. Higher associativity 
 Associativity
 : The number of slots a block can potentially map to into our cache.
 
-The more associative a cache, the more permissive the block is. So a fully associative cache will allow data to be stored in any cache block and will have no need for any index (i.e. just uses 1 index).
+The associativity $N$ tells us how many sets there are for each block. So the more associative a cache, the more permissive the cache is. A fully associative cache will allow data to be stored in any cache block and will have no need for any index (i.e. just uses 1 index).
 
 # Types
 
