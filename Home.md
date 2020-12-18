@@ -16,4 +16,4 @@ This is the home page of my wiki! There's lots of topics to explore:
 
 ---
 
-[[include:Philosophy]]
+[[include:Wiki Philosophy]]
