@@ -19,7 +19,7 @@ To find the error,
 3. Sum the $i$'s for which the equation is wrong
 4. That's the wrong bit in the original received message.
 
-# Hamming(7,4)
+# [[Hamming(7,4)]]
 
 [[include:Hamming(7,4)]]
 
