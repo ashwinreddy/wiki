@@ -2,4 +2,4 @@
 
 # Formalism
 
-Let $\mathcal{M}$ be a [[Markov decision process]] without [[reward function]] with examples $\mathcal{S}\_+ = \\{s^k_+\\}_{k=1}^K$.
+Let $\mathcal{M}$ be a [[Markov decision process]] without [[reward function]] with examples $\mathcal{S}\_+ = \\{s^k_+\\}_{k=1}^K$. These examples we assume are sampled from $p(s_t \mid e_t = \mathsf{True})$
