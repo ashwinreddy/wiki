@@ -1,1 +1,1 @@
-**BayCRL** is an algorithm based on [[VICE|Variational Inverse Control with Events]]
+**BayCRL** is an algorithm that tries to do RL using only _successful outcome examples_.
