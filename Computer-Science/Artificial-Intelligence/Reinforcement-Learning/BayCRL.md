@@ -1,1 +1,1 @@
-**BayCRL** is an algorithm that tries to do RL using only _successful outcome examples_.
+**BayCRL** is an algorithm that tries to do RL using only _successful outcome examples_: states in which the desired task has been accomplished successfully..
