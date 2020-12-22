@@ -1,1 +1,1 @@
-**BayCRL** is an algorithm based on [[VICE]]
+**BayCRL** is an algorithm based on [[VICE|Variational Inverse Control with Events]]
