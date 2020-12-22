@@ -2,7 +2,7 @@
 bibliography: "Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib"
 ---
 
-**Variational Inverse Control with Events (VICE)** is an [[algorithm]], introduced in @fu2018variational. Essentially, it is [[inverse reinforcement learning]] without the need for full demonstrations. It is an algorithm that tries to do reward shaping just given samples of desired goal states.
+**Variational Inverse Control with Events (VICE)** is an [[algorithm]], introduced in @fu2018variational that tries to do reward shaping using only given samples of desired goal states. In short, it is [[inverse reinforcement learning]] without the need for full demonstrations.
 
 1. Engineering a reward function is hard.
 2. It is easier to give examples of accomplishing the goal.
