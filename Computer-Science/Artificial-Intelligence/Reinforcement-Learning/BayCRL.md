@@ -2,4 +2,4 @@
 
 # Formalism
 
-Let $\mathcal{M}$ be a [[Markov decision process]] without [[reward function]].
+Let $\mathcal{M}$ be a [[Markov decision process]] without [[reward function]] with examples $\mathcal{S}_+ = \\{s^k_+\\}_{k=1}^K$.
