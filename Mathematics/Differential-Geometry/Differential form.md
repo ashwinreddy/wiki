@@ -6,7 +6,13 @@ A **differential form** is, roughly speaking, an object that we can [[integrate|
 
 > a differential form is a rule for assigning to each “infinitesimal $n$-cube” a number. [@df]
 
-A differential 1-form on a manifold $M$ would be a [[linear map]] on the [[tangent bundle]] $\alpha: TM \to \RR$.
+# Formalism
+
+A differential 1-form on a manifold $M$ would be a [[linear map]] on the [[tangent bundle]] $\alpha: TM \to \RR$:
+
+$$
+\omega = b_1 \dd{x}_1 + b_2 \dd{x}_2
+$$
 
 # Types
 
