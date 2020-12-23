@@ -29,3 +29,4 @@ In each iteration, we do the following:
 
 1. Collect on-policy examples to add to $\mathcal{S}_{-}$ by executing $\pi$.
 2. If iteration $i \mod k \equiv 0$,
+    1. Sample $n_{\mathsf{train}}$ states from $\mathcal{S}_{-}$ to create $2n_{\mathsf{train}}$ meta-training tasks.
