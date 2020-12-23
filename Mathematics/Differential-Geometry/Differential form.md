@@ -8,4 +8,9 @@ A **differential form** is, roughly speaking, an object that we can [[integrate|
 
 A differential 1-form on a manifold $M$ would be a [[linear map]] on the [[tangent bundle]] $\alpha: TM \to \RR$.
 
+# Types
+
+Exact form
+: An $n$-form $\omega$ is exact if $\omega = \dd{\eta}$ for some $\eta$
+
 ---
