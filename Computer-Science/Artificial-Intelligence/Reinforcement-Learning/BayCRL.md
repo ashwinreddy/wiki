@@ -6,7 +6,7 @@ Let $\mathcal{M}$ be a [[Markov decision process]] without [[reward function]] w
 
 # Idea
 
-The reward $r(s)$ assigned to state $s$ can be picked up directly from the classifier:
+The reward $r(s)$ assigned to state $s$ can be picked up directly from the classifier using its parameters $\theta_{\mathcal{R}}$:
 
 $$
 r(s) = p_{\mathsf{meta-NML}}(e=1 \mid s)
