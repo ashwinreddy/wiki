@@ -9,5 +9,5 @@ Let $\mathcal{M}$ be a [[Markov decision process]] without [[reward function]] w
 The reward $r(s)$ assigned to state $s$ can be picked up directly from the classifier:
 
 $$
-r(s) = p_{\mathsf{meta-NML}}(e=1 \mid s)
+r(s) = p_{\mathsf{meta-NML}}(e=1 \mid s) = \frac{p_{\theta_1}(e = 1 \mid s)}{\sum_{i \in \\{0, 1\\}} p_{\theta_i}(e = i \mid s)}
 $$
