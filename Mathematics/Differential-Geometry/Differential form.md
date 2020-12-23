@@ -20,7 +20,7 @@ Exact form
 Every exact form is closed by virtue of 
 
 \begin{equation}
-d^2 = 0
+\dd{}^2 = 0.
 \end{equation}
 
 ---
