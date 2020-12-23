@@ -1,10 +1,10 @@
-The **rank-nullity theorem** says that for a [[linear map]] $T: V \to W$, every [[dimension]] is either filled or not. By the pigenhole principle, we can simply say that the sum of [[rank]] and nullity, the dimension of the [[kernel]], is appropriate:
+The **rank-nullity theorem** says that for a [[linear map]] $T: V \to W$, every [[dimension]] either contributes to rank or does not. By the pigenhole principle, we can simply say that the sum of [[rank]] and nullity, the dimension of the [[kernel]], is appropriate:
 
 \begin{equation}
-\operatorname{rank} T + \operatorname{nullity} T = \operatorname{dim} V
+\operatorname{rank} T + \operatorname{nullity} T = n
 \end{equation}
 
-where 
+where $n = \dim V$ and 
 
 $$
 \operatorname{nullity} T = \dim \ker T
