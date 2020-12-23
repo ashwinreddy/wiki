@@ -1,0 +1,1 @@
+**Probability current** is the flow of probability per unit time per unit area.
