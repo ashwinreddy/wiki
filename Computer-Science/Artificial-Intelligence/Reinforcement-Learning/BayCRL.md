@@ -11,3 +11,10 @@ The reward $r(s)$ assigned to state $s$ can be picked up directly from the class
 $$
 r(s) = p_{\mathsf{meta-NML}}(e=1 \mid s) = \frac{p_{\theta_1}(e = 1 \mid s)}{\sum_{i \in \\{0, 1\\}} p_{\theta_i}(e = i \mid s)}
 $$
+
+> rewards start off at an uninformative value of 0.5 for all unvisited states at the beginning, and close to
+1 for successful outcomes. As training progresses, more states are visited, added to the buffer and
+BayCRL starts to assign them progressively lower reward as they get visited more and more, thereby
+encouraging visiting of under-visited states. At convergence, all the non successful states will have a
+reward of close to 0 and states at the goal will have a reward of 0.5, since the numbers of positive and
+negative labels for successful outcomes will be balanced as described above
