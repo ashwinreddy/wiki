@@ -14,7 +14,7 @@ $$
 \omega^1 = b_1 \dd{x}_1 + b_2 \dd{x}_2 + \ldots + b_n \dd{x}_n.
 $$
 
-where $b_i$ is a function of the $x_i$'s.
+where $b_i$ is a function of the $x_j$'s.
 
 # Types
 
