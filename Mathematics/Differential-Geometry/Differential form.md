@@ -10,7 +10,17 @@ A differential 1-form on a manifold $M$ would be a [[linear map]] on the [[tange
 
 # Types
 
+Closed form
+: An $n$-form $\omega$ is closed if $\dd{\omega} = 0$.
+
 Exact form
 : An $n$-form $\omega$ is exact if $\omega = \dd{\eta}$ for some $\eta$
+
+
+Every exact form is closed by virtue of 
+
+\begin{equation}
+d^2 = 0
+\end{equation}
 
 ---
