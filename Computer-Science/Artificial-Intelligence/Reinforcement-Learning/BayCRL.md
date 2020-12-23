@@ -27,4 +27,5 @@ negative labels for successful outcomes will be balanced as described above
 
 In each iteration, we do the following:
 
-1. Collect on-policy examples to add to $\mathcal{S}_{-}$.
+1. Collect on-policy examples to add to $\mathcal{S}_{-}$ by executing $\pi$.
+2. If iteration $i \mod k \equiv 0$,
