@@ -11,7 +11,7 @@ A **differential form** is, roughly speaking, an object that we can [[integrate|
 A differential 1-form on a manifold $M$ would be a [[linear map]] on the [[tangent bundle]] $\alpha: TM \to \RR$:
 
 $$
-\omega = b_1 \dd{x}_1 + b_2 \dd{x}_2
+\omega = b_1 \dd{x}_1 + b_2 \dd{x}_2 + \ldots + b_n \dd{x}_n
 $$
 
 # Types
