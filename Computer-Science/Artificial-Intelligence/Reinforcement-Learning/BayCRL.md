@@ -4,7 +4,7 @@
 
 Let $\mathcal{M}$ be a [[Markov decision process]] without [[reward function]] with examples $\mathcal{S}\_+ = \\{s^k_+\\}_{k=1}^K$. These examples we assume are sampled from $p(s_t \mid e_t = \mathsf{True})$.
 
-# Algorithm
+# Idea
 
 The reward $r(s)$ assigned to state $s$ can be picked up directly from the classifier:
 
@@ -22,3 +22,9 @@ BayCRL starts to assign them progressively lower reward as they get visited more
 encouraging visiting of under-visited states. At convergence, all the non successful states will have a
 reward of close to 0 and states at the goal will have a reward of 0.5, since the numbers of positive and
 negative labels for successful outcomes will be balanced as described above
+
+# Algorithm
+
+In each iteration, we do the following:
+
+1. Collect on-policy examples to add to $\mathcal{S}_{-}$.
