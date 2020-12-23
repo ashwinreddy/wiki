@@ -30,4 +30,7 @@ In each iteration, we do the following:
 1. Collect on-policy examples to add to $\mathcal{S}_{-}$ by executing $\pi$.
 2. If iteration $i \mod k \equiv 0$,
     1. Sample $n_{\mathsf{train}}$ states from $\mathcal{S}\_{-}$ to create $2n_{\mathsf{train}}$ meta-training tasks.
-    2. Samples $n_{\mathsf{test}}$ total test points equally from $\mathcal{S}\_{+}$ and $\mathcal{S}_{-}$.
+    2. Sample $n_{\mathsf{test}}$ total test points equally from $\mathcal{S}\_{+}$ and $\mathcal{S}_{-}$.
+    3. Meta-train $\theta_{\mathcal{R}}$ via meta-nml
+3. Assign state rewards
+4. Train $\pi$ with RL algorithm
