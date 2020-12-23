@@ -1,4 +1,4 @@
-The **reward function** is a [[function]] that assigns scalar reward to state
+The **reward function** is a [[function]] that assigns scalar reward to state and action
 
 \begin{align\*}
 r: \mathcal{S} \times \mathcal{A} &\to \RR \\\\\
