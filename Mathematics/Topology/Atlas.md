@@ -1,7 +1,7 @@
 An **atlas** is a collection of [[charts|coordinate system]]:
 
 \begin{equation}
-\mathscr{A} = \\{\left(U_\alpha, \varphi_\alpha \right) \mid \alpha \in A \\}
+\mathscr{A} = \big \\{\left(U_\alpha, \varphi_\alpha \right) \mid \alpha \in A \big \\}
 \end{equation}
 
 We would want our atlas to be a complete map, known as an open cover, for a [[manifold]] $M$.
