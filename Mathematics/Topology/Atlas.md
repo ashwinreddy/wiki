@@ -1,10 +1,10 @@
-An **atlas** collects [[charts|coordinate system]] into a complete map, known as an open cover, for a [[manifold]] $M$.
+An **atlas** is a collection of [[charts|coordinate system]]:
 
 \begin{equation}
 \mathscr{A} = \\{\left(U_\alpha, \varphi_\alpha \right) \mid \alpha \in A \\}
 \end{equation}
 
-
+We would want our atlas to be a complete map, known as an open cover, for a [[manifold]] $M$.
 
 \begin{equation}
 \bigcup_{\alpha \in \mathcal{A}} \mathcal{U}_\alpha = M.
