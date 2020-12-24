@@ -1,0 +1,1 @@
+A **Lagrange polynomial** interpolates a set of $\\{(x_i, y_i)\\}_{i = 0, \dots, k}$
