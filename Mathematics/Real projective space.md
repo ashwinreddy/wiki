@@ -1,1 +1,1 @@
-The **real projective space**
+The **real projective space** consists of all lines going through the origin in $\RR^{n+1}$
