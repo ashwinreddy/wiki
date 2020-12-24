@@ -1,0 +1,1 @@
+A **continuous symmetry**
