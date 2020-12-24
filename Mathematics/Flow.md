@@ -7,5 +7,5 @@ A **flow** on a [[set]] $X$ is a [[group action]] of the additive group of [[rea
 
 \begin{gather}
 \varphi^0(x) = \varphi \\\\
-\varphi^s(\varphi^t(x)) = \varphi^{s+t}(x)
+\varphi\^s(\varphi^t(x)) = \varphi^{s+t}(x)
 \end{gather}
