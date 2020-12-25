@@ -1,4 +1,4 @@
-The **expected value** or **expectation** is a [[functional]] that collapses the [[probability distribution]] of a [[random variable]] to a single representative, which we understand to be its [[mean]]. Notationally, the expectation tells you where to draw samples from and then an expression to compute with those samples and will then tell you what the expected average value of that expression is.
+The **expected value** or **expectation** collapses the [[probability distribution]] of a [[random variable]] to a single representative, which we understand to be its [[mean]]. Notationally, the expectation tells you where to draw samples from and then an expression to compute with those samples and will then tell you what the expected average value of that expression is.
 
 \begin{equation}
 \mathbb{E}\left[X\right] = \sum_{x \in \mathcal{X}} xp(x)
