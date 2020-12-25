@@ -3,3 +3,5 @@ A **projective Hilbert space** is a [[Hilbert space]] that loses notion of lengt
 $$
 v \sim w \iff v = \lambda w, \quad \lambda \neq 0 \in \mathbb{C}
 $$
+
+The elements of the space are called **rays**.
