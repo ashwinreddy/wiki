@@ -3,3 +3,5 @@
 \begin{equation}
 \int_{\partial M} \omega = \int_{M} \dd{\omega} \tag{Stokes' theorem}
 \end{equation}
+
+[[Fundamental theorem of calculus]]
