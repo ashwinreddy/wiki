@@ -1,0 +1,1 @@
+A **differentiable function** is one that can be locally approximated by linear functions.
