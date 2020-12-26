@@ -1,1 +1,1 @@
-**Measure space** is a [[measurable space]] along with a choice of [[measure]].
+A **measure space** $(X, \mathcal{M}, \mu)$ is a [[measurable space]] $(X, \mathcal{M})$ along with a choice of [[measure]] $\mu$.
