@@ -1,7 +1,7 @@
 The **magnetic vector potential** is a kind of artificial potential in the form of a [[vector field]] we can give to the [[magnetic field]]. In particular, it generates the [[magnetic field]] through a [[curl]].
 
 \begin{equation}
-\nabla \times \mathbf{A} = \mathbf{B}
+\nabla \times \mathbf{A} \equiv \mathbf{B}
 \end{equation}
 
 Then,
