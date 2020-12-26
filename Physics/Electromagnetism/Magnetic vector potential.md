@@ -7,7 +7,7 @@ The **magnetic vector potential** is a kind of artificial potential in the form 
 The Maxwell-Faraday equation is then
 
 \begin{gather}
-\nabla\times\mathbf{E} + \pdv{\mathbf{B}}{t} &= \nabla\times\mathbf{E} + \pdv{}{t}\left(\nabla \times \mathbf{A}\right) \\\\
+\nabla\times\mathbf{E} + \pdv{\mathbf{B}}{t} = \nabla\times\mathbf{E} + \pdv{}{t}\left(\nabla \times \mathbf{A}\right) \\\\
 \nabla\times\left(\mathbf{E} + \dot{\mathbf{A}} \right) = 0
 \end{gather}
 
