@@ -1,0 +1,1 @@
+A **Matrix Lie group** is a [[Lie group]] of [[matrices|matrix]].
