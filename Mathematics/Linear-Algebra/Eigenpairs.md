@@ -19,10 +19,14 @@ Notice that if $(\lambda, \vec{v})$ is an eigenpair then $(\lambda, \alpha\vec{v
 
 # Properties
 
-The determinant of a triangular matrix is the product of diagonals. 
+The [[trace]]
+
 $$
 \operatorname{tr}  A = \sum_{i=1}^n \lambda_i
 $$
+
+The [[determinant]] of a triangular matrix is the product of diagonals. 
+
 \begin{equation}
 \det A = \prod_{i=1}^n \lambda_i
 \end{equation}
