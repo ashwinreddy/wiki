@@ -1,7 +1,7 @@
-A **capacitor** stores [[electric charge]].
+A **capacitor** stores [[electric charge]]. The physical configuration of capacitor determines its capacitance $C$, which tells us how much charge will accumulate for a given potential difference across the plates.
 
 $$
-q = Cv
+C = q/V
 $$
 
 
