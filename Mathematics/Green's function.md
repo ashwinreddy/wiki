@@ -4,4 +4,4 @@ $$
 \operatorname{L} G(x, s) = \delta(s - x)
 $$
 
-The motivation is that if we know $G$, then $\operatorname{L} u  = f(x)$ means $u(x) = \int G(x, s) f(s) \dd{s}$.
+The motivation is that if we know $G$, then $\operatorname{L} u  = f(x)$ means the following is a solution: $u(x) = \int G(x, s) f(s) \dd{s}$.
