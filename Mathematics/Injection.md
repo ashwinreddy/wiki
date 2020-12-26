@@ -1,13 +1,7 @@
-An **injection** is a [[function]] $f$ where
+An **injection** (perhaps could be called a distinction) is a [[function]] $f$ which maps each inputs to a unique output, i.e.
 
 $$
 f(x) = f(y) \implies x = y
-$$
-
-By definition, it must be the case that if $x = y$, then $f(x)=f(y)$, but this says we can do run the rule in reverse. So we can also say
-
-$$
-f(x) = f(y) \iff x = y
 $$
 
 An injective function is invertible on its range.
