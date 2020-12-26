@@ -2,5 +2,5 @@ The **transpose** of a [[matrix]] $A$ represents the same information with rows 
 
 
 $$
-A^\mathsf{T}_{ij} = A_{ji}
+A^\mathsf{T}\_{ij} = A_{ji}
 $$
