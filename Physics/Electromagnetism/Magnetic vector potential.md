@@ -4,6 +4,11 @@ The **magnetic vector potential** is a kind of artificial potential in the form 
 \nabla \times \mathbf{A} \equiv \mathbf{B}
 \end{equation}
 
+The Maxwell-Faraday equation is
+
+$$
+\nabla\times\vec{E} = -\pdv{\vec{B}}{t}
+$$
 
 
 Then,
