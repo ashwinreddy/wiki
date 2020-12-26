@@ -10,6 +10,12 @@ $$
 \nabla\times\mathbf{E} = -\pdv{\mathbf{B}}{t} = -\pdv{}{t}\left(\nabla \times \mathbf{A}\right)
 $$
 
+We can say
+
+$$
+\nabla\times\left(\mathbf{E} + \dot\mathbf{A}\right) = 0
+$$
+
 
 Then,
 
