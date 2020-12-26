@@ -7,5 +7,5 @@ C = q/v
 Therefore, the [[electric current]] $i$ obeys the equation
 
 $$
-i = C \dv{v}{t} \implies v(t) = \int_{t_0}^\infty i(t) \\, \dd{t}
+i = C \dv{v}{t} \implies v(t) = \int_{t_0}^t i(\xi) \\, \dd{\xi}
 $$
