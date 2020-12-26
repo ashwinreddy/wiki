@@ -15,3 +15,9 @@ The Maxwell-Faraday equation is then
 &= \nabla\times\left(\mathbf{E} + \dot{\mathbf{A}} \right)
 \end{align}
 
+So we introduce a potential $\varphi$ such that
+
+$$
+-\nabla \varphi = \mathbf{E} + \dot{\mathbf{A}}
+$$
+
