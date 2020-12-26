@@ -7,7 +7,7 @@ x &\mapsto x^\mathsf{T} M x,
 
 always returns values that are always either positive or negative.
 
-Positive definite
+Positive definite (PD)
 : A matrix that always returns positive values.
 
 Positive semi-definite (PSD)
