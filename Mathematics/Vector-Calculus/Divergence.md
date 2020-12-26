@@ -10,3 +10,9 @@ For this reason, it is typical to write the divergence in a notationally attract
 $$
 \vec\nabla \cdot \vec{F} = \operatorname{div} \vec{F}
 $$
+
+The divergence of a [[curl]] is identically zero:
+
+$$
+\operatorname{div} \operatorname{curl} \vec{A} \equiv 0.
+$$
