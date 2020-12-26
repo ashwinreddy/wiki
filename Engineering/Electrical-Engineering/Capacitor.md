@@ -1,9 +1,10 @@
 A **capacitor** stores [[electric charge]]. The physical configuration of capacitor determines its capacitance $C$, which tells us how much charge will accumulate for a given potential difference across the plates.
 
-$$
-C = q/V
-$$
+\begin{equation}
+C = q/v
+\end{equation}
 
+Therefore, the [[electric current]]
 
 $$
 i = C \dv{v}{t}
