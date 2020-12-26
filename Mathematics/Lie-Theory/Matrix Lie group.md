@@ -1,1 +1,1 @@
-A **Matrix Lie group** is a [[Lie group]] of [[matrices|matrix]]. The [[General linear group]] $\operatorname{GL}(n, F)$
+A **matrix Lie group** is a [[Lie group]] of [[matrices|matrix]]. The [[general linear group]] $\operatorname{GL}(n, F)$ is the largest such group.
