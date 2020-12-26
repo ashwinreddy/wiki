@@ -6,21 +6,10 @@ The **magnetic vector potential** is a kind of artificial potential in the form 
 
 The Maxwell-Faraday equation is then
 
-$$
-\nabla\times\mathbf{E} + \pdv{\mathbf{B}}{t} = \nabla\times\mathbf{E} + \pdv{}{t}\left(\nabla \times \mathbf{A}\right)
-$$
-
-We can say
-
-$$
+\begin{gather}
+\nabla\times\mathbf{E} + \pdv{\mathbf{B}}{t} &= \nabla\times\mathbf{E} + \pdv{}{t}\left(\nabla \times \mathbf{A}\right) \\\\
 \nabla\times\left(\mathbf{E} + \dot{\mathbf{A}} \right) = 0
-$$
+\end{gather}
 
-
-Then,
-
-$$
-\mathbf{E} = -\nabla \phi - \pdv{\mathbf{A}}{t}
-$$
 
 However, we are free to choose what we want $\nabla\cdot\mathbf{A}$ to be, and the choice is called **fixing the gauge**. It can help us write [[Maxwell's equations]] nicely.
