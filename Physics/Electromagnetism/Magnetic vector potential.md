@@ -13,7 +13,7 @@ $$
 We can say
 
 $$
-\nabla\times\left(\mathbf{E} + \dot\mathbf{A}\right) = 0
+\nabla\times\left(\mathbf{E} + \dot{\mathbf{A}} \right) = 0
 $$
 
 
