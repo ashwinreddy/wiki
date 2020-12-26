@@ -1,1 +1,1 @@
-The **cotangent bundle** of a manifold $M$ is $T^*M$ is the [[dual bundle]]
+The **cotangent bundle** of a manifold $M$ is $T^*M$ is the [[dual bundle]] to the [[tangent bundle]]
