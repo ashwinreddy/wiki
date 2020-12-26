@@ -1,0 +1,1 @@
+**Charge density** is the density of [[charge]] in space.
