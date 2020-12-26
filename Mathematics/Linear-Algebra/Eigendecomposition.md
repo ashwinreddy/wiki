@@ -1,0 +1,1 @@
+**Eigendecomposition** of a matrix $A$ gives **eigenbasis**
