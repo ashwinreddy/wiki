@@ -1,4 +1,4 @@
-A **multilinear map** is a function $f$ that is linear separately in each of its arguments. 
+A **multilinear map** is a [[function]] $f$ that is linear separately in each of its arguments. 
 
 $$f: V_1 \times \dots \times V_k \to W$$
 
