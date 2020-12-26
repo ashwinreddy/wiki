@@ -4,7 +4,7 @@ $$
 \tilde{x}^{\mu} = \Lambda^\mu{}_\nu x^\nu
 $$
 
-The [[norm]] is given by
+The [[normed vector space]] is given by
 
 # Classification
 
