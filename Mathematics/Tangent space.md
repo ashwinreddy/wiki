@@ -10,7 +10,7 @@ A choice of coordinate system $x^i$ induces a [[basis]] for the tangent space:
 e_i = \pdv{}{x^i}
 \end{equation}
 
-The [[cotangent space]] is the [[dual space]] of the tangent space.
+The [[cotangent space]] is the [[dual vector space]] of the tangent space.
 
 # Formal construction
 
