@@ -14,4 +14,4 @@ The signature of a symmetric matrix is the triple $(n_0, n_+, n_-)$ of the count
 # Properties
 
 * A real symmetric matrix has only real eigenvalues.
-* $$x^\mathsf{T} A y = y^\mathsf{T} A x$$
+* $x^\mathsf{T} A y = y^\mathsf{T} A x$
