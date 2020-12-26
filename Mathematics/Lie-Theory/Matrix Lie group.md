@@ -1,1 +1,1 @@
-A **Matrix Lie group** is a [[Lie group]] of [[matrices|matrix]]. [[General linear group]]
+A **Matrix Lie group** is a [[Lie group]] of [[matrices|matrix]]. The [[General linear group]] $\operatorname{GL}(n, F)$
