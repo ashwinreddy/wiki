@@ -17,3 +17,5 @@ $$
 $$
 c_k = \frac{1}{T} \int_0^T f(t) e^{-\iota k \omega_0 t}\dd{t} \tag{Analysis Equation}
 $$
+
+Then, $c_0$ is the [[average value]]
