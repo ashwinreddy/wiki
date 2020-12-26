@@ -4,9 +4,7 @@ $$
 \tilde{x}^{\mu} = \Lambda^\mu{}_\nu x^\nu
 $$
 
-# Classification
 
-Spacelike if the norm is positive.
 
 # See also
 
