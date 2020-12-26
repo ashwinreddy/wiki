@@ -7,13 +7,13 @@ $$
 # Identities
 
 $$
-\left[\widehat{A}, \widehat{B}\widehat{C}\right]=\left[\widehat{A}, \widehat{B}\right]\widehat{C} + \widehat{B}\left[\widehat{A}, \widehat{C}\right]
+\left[\widehat{A}, \widehat{B}\widehat{C}\right]\equiv\left[\widehat{A}, \widehat{B}\right]\widehat{C} + \widehat{B}\left[\widehat{A}, \widehat{C}\right]
 $$
 
 $$
-\left[\widehat{A}\widehat{B}, \widehat{C}\right]= \widehat{A}\left[\widehat{B}, \widehat{C}\right] + \left[\widehat{A}, \widehat{C}\right]\widehat{B}
+\left[\widehat{A}\widehat{B}, \widehat{C}\right]\equiv \widehat{A}\left[\widehat{B}, \widehat{C}\right] + \left[\widehat{A}, \widehat{C}\right]\widehat{B}
 $$
 
 $$
-\left[\widehat{A} + \widehat{B}, \widehat{C}\right] = \left[ \widehat{A}, \widehat{C} \right] + \left[ \widehat{B}, \widehat{C} \right]
+\left[\widehat{A} + \widehat{B}, \widehat{C}\right] \equiv \left[ \widehat{A}, \widehat{C} \right] + \left[ \widehat{B}, \widehat{C} \right]
 $$
