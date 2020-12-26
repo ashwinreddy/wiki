@@ -4,7 +4,7 @@ A **capacitor** stores [[electric charge]]. The physical configuration of capaci
 C = q/v
 \end{equation}
 
-Therefore, the [[electric current]]
+Therefore, the [[electric current]] $i$ obeys the equation
 
 $$
 i = C \dv{v}{t}
