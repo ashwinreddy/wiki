@@ -4,4 +4,4 @@ $$
 \operatorname{supp}(f) \triangleq \\{ x \in X \mid f(x) \neq 0 \\}.
 $$
 
-It is the [[set complement]]
+It is the [[complement]] to the [[kernel]].
