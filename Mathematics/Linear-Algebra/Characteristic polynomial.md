@@ -1,4 +1,4 @@
-The **characteristic polynomial** of a [[square matrix]] matrix $A$ of order $n$ is an $n$-th degree [[polynomial]] of a parameter $\lambda$ given by
+The **characteristic polynomial** of a [[square matrix]] $A$, which we'll say is $n \times n$, is an $n$-th degree [[polynomial]] of a parameter $\lambda$ given by
 
 \begin{equation}
 p(\lambda) = \det(A - \lambda I).
