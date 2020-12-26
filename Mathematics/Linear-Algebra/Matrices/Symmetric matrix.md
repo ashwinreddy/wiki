@@ -1,7 +1,7 @@
 A **symmetric matrix** is a [[square matrix]] that is equal to its [[transpose]].
 
 \begin{equation}
-A = A^\mathsf{T}
+A \equiv A^\mathsf{T}
 \end{equation}
 
 The term "symmetric" can be internalized by realizing that
