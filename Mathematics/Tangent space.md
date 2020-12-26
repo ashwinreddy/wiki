@@ -10,6 +10,8 @@ A choice of coordinate system $x^i$ induces a [[basis]] for the tangent space:
 e_i = \pdv{}{x^i}
 \end{equation}
 
+The [[cotangent space]] is the [[dual space]] of the tangent space.
+
 # Formal construction
 
 The tangent space is the set of derivations $X_p: C^\infty(M) \to \mathbb{R}$. In other words, to fashion a tangent space we just need to be able to take derivatives of vectors?
