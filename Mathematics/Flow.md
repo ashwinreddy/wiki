@@ -1,9 +1,9 @@
 A **flow** on a [[set]] $X$ describes a way of how $X$ might evolve over "time." Formally, let a flow be a [[group action]] of the additive group of [[real number]] on $X$.
 
-\begin{align}
+\begin{align\*}
 \varphi: X \times \RR &\to X \\\\
 (x, t) &\mapsto \varphi^t(x)
-\end{align}
+\end{align\*}
 
 The constraints are that
 
