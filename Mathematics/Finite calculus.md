@@ -8,6 +8,8 @@ Discrete Antiderivative
 
 The discrete derivative shares many similarities with the actual [[derivative]].
 
+The power rule depends on [[falling factorial]]:
+
 $$
 \Delta x^{ \underline{m} } = mx^{ \underline{m-1} }
 $$
