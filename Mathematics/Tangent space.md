@@ -7,7 +7,7 @@ $$
 A choice of coordinate system $x^i$ induces a [[basis]] for the tangent space:
 
 \begin{equation}
-e_i = \pdv{}{x^i}
+T_p M = \operatorname{span}\left\\{ \right\\}
 \end{equation}
 
 The [[cotangent space]] is the [[dual vector space]] of the tangent space.
