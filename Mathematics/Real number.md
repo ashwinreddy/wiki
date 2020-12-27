@@ -5,7 +5,7 @@ We have [[binary operations|binary operation]] of $+, -, \times, \div$ and an in
 
 # Properties
 
-The completeness axiom says that every non-empty [[subset]] of $\RR$ bounded above admits a supremum.
+The completeness axiom says that every non-empty [[subset]] of $\RR$ bounded above admits a [[supremum]].
 
 * Archimedean property
 : For any real numbers $a$ and $b$, there is an integer $n$ such that $an > b$.
