@@ -6,5 +6,5 @@ $$
 
 \begin{align}
 T \otimes S: V \times W &\to \RR \\\\
-(T \otimes S)(X, Y) &= T(X)S(Y)
+(X, Y) &mapsto (T \otimes S)(X,Y) = T(X)S(Y)
 \end{align}
