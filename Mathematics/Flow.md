@@ -5,6 +5,8 @@ A **flow** on a [[set]] $X$ describes a way of how $X$ might evolve over "time."
 (x, t) &\mapsto \varphi^t(x)
 \end{align}
 
+The constraints are that
+
 \begin{gather}
 \varphi^0(x) = \varphi \\\\
 \varphi\^s(\varphi^t(x)) = \varphi^{s+t}(x)
