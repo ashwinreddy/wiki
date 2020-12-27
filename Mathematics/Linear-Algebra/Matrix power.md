@@ -1,7 +1,7 @@
 **Matrix power** for a [[square matrix]] $A$ is given
 
 $$
-A^n = \underbrace{AAA}
+A^n = \underbrace{AAA}{n}
 $$
 
 $$
