@@ -5,7 +5,7 @@ The **gamma function** $\Gamma$ is [[function]] extending the domain of the [[fa
 \end{equation}
 
 $$
-\Gamma(n) = (n-1)!
+\Gamma(n+1) = n!
 $$
 
 The digamma function is its [[derivative]]
