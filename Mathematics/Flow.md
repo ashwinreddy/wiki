@@ -7,7 +7,7 @@ A **flow** on a [[set]] $X$ describes a way of how $X$ might evolve over "time."
 
 The constraints are that
 
-\begin{gather}
+\begin{gather\*}
 \varphi^0(x) = \varphi \\\\
 \varphi\^s(\varphi^t(x)) = \varphi^{s+t}(x)
-\end{gather}
+\end{gather\*}
