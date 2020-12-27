@@ -3,3 +3,8 @@ The **tensor product** is an operation that merges its inputs into a composite o
 $$
 \vec{v} \otimes \vec{w} = \vec{v}\vec{w}^\mathsf{T}
 $$
+
+\begin{align}
+T \otimes S: V \times W &\to \RR \\\\
+(T \otimes S)(X, Y) &= T(X)S(Y)
+\end{align}
