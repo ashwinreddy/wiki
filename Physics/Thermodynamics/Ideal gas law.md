@@ -1,4 +1,4 @@
-**Ideal gas law**
+**Ideal gas law** says the [[volume]]
 
 $$
 PV = nRT
