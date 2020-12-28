@@ -4,5 +4,5 @@ We can take the "wedge" of two [[one-forms|one-form]] in the following way:
 
 \begin{align}
 \omega_1 \wedge \omega_2: T_p \RR^n \times T_p \RR^n &\to \RR \\\\
-(v_1, v_2) &\mapsto \det \begin{bmatrix}\omega_1(v_1) & \omega_2(v_1) \\\\ \omega_1(v_2) & \omega_2(v_2) \end{bmatrix}
+(v_1, v_2) &\mapsto \begin{vmatrix}\omega_1(v_1) & \omega_2(v_1) \\\\ \omega_1(v_2) & \omega_2(v_2) \end{vmatrix}
 \end{align}
