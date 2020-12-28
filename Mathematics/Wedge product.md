@@ -13,3 +13,5 @@ This gives us the signed area spanned by the application of the $\omega$'s on th
 
 Anticommutativity
 : $$\omega_1 \wedge \omega_2 = - \omega_2 \wedge \omega_1$$
+
+This property tells us that $\omega \wedge \omega = 0$.
