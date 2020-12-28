@@ -1,5 +1,5 @@
 **LaTeX** is Turing complete!
 
 $$
-\rlap{\sum\integral}
+\rlap{\sum\int}
 $$
