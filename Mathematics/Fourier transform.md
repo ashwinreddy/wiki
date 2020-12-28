@@ -2,7 +2,7 @@ The **Fourier transform (FT)** is closely related to the [[Laplace transform]].
 
 
 $$
-\mathsrcc{F}\\{g(t)\\} = G(\omega) = \int_\RR \dd{t}\cdot g(t)e^{-\iota\omega t}
+\mathscr{F}\\{g(t)\\} = G(\omega) = \int_\RR \dd{t}\cdot g(t)e^{-\iota\omega t}
 $$
 
 $$
