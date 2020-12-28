@@ -3,3 +3,5 @@ A **one-form** is a [[linear map]] $\omega$ that we could take to be $T_p M \to 
 $$
 \omega(\langle \dd{x}, \dd{y} \rangle ) = a\\, \dd{x} + b \\, \dd{y} = \langle a, b \rangle \cdot \langle \dd{x}, \dd{y} \rangle
 $$
+
+You can take products of one-forms using the [[wedge product]].
