@@ -15,3 +15,10 @@ For example, if $f$ is a 0-form, meaning a smooth function, then $\dd{f}$ is the
 \dd{}^2  \equiv 0
 \end{equation}
 
+# Types
+
+Closed form
+: An $n$-form $\omega$ is closed if $\dd{\omega} = 0$.
+
+Exact form
+: An $n$-form $\omega$ is exact if $\omega = \dd{\eta}$ for some $\eta$
