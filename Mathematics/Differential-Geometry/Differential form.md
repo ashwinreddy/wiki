@@ -8,7 +8,7 @@ $$
 \omega: (T_p \RR\^n)^m \to \RR
 $$
 
-> a differential form is a rule for assigning to each “infinitesimal $m$-cube” a number. [@df]
+> a differential form is a rule for assigning to each “infinitesimal $n$-cube” a number. [@df]
 
 
 
