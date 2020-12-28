@@ -2,5 +2,4 @@
 
 $$
 a\mathrel{\rlap{\;/}{=}}b
-
 $$
