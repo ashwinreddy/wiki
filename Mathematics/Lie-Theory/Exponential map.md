@@ -2,7 +2,7 @@ The **exponential map** is a [[function]] that is a "delinearization" portal fro
 
 \begin{align}
 \exp: \mathfrak{g} &\to G \\\\
-X &\mapsto \exp(X) = \gamma(1)
+X &\mapsto \gamma(1)
 \end{align}
 
 where $\gamma: \RR \to G$ is the unique [[one-parameter group]] of $G$ whose [[tangent vector]] at the identity is $X$.
