@@ -1,5 +1,5 @@
 **LaTeX** is Turing complete!
 
 $$
-a\mathrel{\rlap{\sum}{\int}}b
+a\mathrel{\rlap{\Sigma}{\int}}b
 $$
