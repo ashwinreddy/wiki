@@ -1,0 +1,1 @@
+An **alternating multilinear map** is a [[multilinear map]] that is "alternating," i.e. swapping arguments introduces a negative sign.
