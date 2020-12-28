@@ -2,7 +2,7 @@
 bibliography: "./Mathematics/math.bib"
 ---
 
-A **differential $n$-form** on a [[tangent space]] $T_p \RR^n$ is an [[alternating multilinear map]]
+A **differential $m$-form** on a [[tangent space]] $T_p \RR^n$ is an [[alternating multilinear map]]
 
 $$
 \omega: (T_p \RR\^n)^m \to \RR
