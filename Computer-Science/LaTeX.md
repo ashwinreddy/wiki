@@ -1,5 +1,5 @@
 **LaTeX** is Turing complete!
 
 $$
-\mathrel{\rlap{\sum\int}}
+a\mathrel{\rlap{\;/}{=}}b
 $$
