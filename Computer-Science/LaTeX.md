@@ -1,5 +1,5 @@
 **LaTeX** is Turing complete!
 
 $$
-\rlap{\sum\int}
+\mathrel{\rlap{\sum\int}}
 $$
