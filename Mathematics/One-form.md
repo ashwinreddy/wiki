@@ -1,1 +1,1 @@
-A **one-form** is a [[linear map]] $\omega$ of [[vector]].
+A **one-form** is a [[linear map]] $\omega$ that we could take to be $T_p M \to \RR$, making it a part of the [[cotangent space]]
