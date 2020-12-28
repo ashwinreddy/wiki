@@ -1,1 +1,1 @@
-**Noether's theorem**
+**Noether's theorem** associates a conserved charge with a [[continuous symmetry]]
