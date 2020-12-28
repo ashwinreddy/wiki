@@ -1,5 +1,5 @@
 **LaTeX** is Turing complete!
 
 $$
-a\mathrel{\rlap{\;/}{=}}b
+a\mathrel{\rlap{\\;/}{=}}b
 $$
