@@ -1,4 +1,4 @@
-The **Fourier transform (FT)** is closely related to the [[Laplace transform]].
+The **Fourier transform (FT)** is an [[integral transform]] closely related to the [[Laplace transform]].
 
 
 $$
