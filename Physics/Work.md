@@ -2,7 +2,7 @@
 
 \begin{gather}
 \mathbf{F} =  m\mathbf{a} \\\\
-\int \mathbf{F} \cdot \dd{\mathbf{r}} = \int m\mathbf{a}\cdot \dd{\mathbf{r}}
+\int \mathbf{F} \cdot \dd{\mathbf{r}} = \int m\dv{\mathbf{v}}{t}\cdot \dd{\mathbf{r}}
 \end{gather}
 
 
