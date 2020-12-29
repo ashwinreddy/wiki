@@ -10,6 +10,8 @@ A choice of coordinate system $x^i$ induces a [[basis]] for the tangent space:
 T_p M = \operatorname{span}\left\\{  \pdv{}{x^i}\bigg|\_{p} \right\\}_{i=1}^n
 \end{equation}
 
+If we take dimensions of the equation above,
+
 $$
 \dim T_p \mathcal{M} = \dim \mathcal{M}
 $$
