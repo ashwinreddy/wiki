@@ -2,8 +2,8 @@
 
 \begin{gather}
 \mathbf{F} =  m\mathbf{a} \\\\
-\int \mathbf{F} \cdot \dd{\mathbf{r}} = \int m\dv{\mathbf{v}}{t}\cdot \dd{\mathbf{r}} \\\\
-\int \mathbf{F} \cdot \dd{\mathbf{r}} = m \int \mathbf{v} \cdot \dd{\mathbf{v}}
+\int_{\gamma} \mathbf{F} \cdot \dd{\mathbf{r}} = \int_\gamma m\dv{\mathbf{v}}{t}\cdot \dd{\mathbf{r}} \\\\
+\int_\gamma \mathbf{F} \cdot \dd{\mathbf{r}} = m \int \mathbf{v} \cdot \dd{\mathbf{v}}
 \end{gather}
 
 
