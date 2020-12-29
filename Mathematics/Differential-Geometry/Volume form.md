@@ -1,0 +1,1 @@
+A **volume form** for a [[manifold]] measures the [[volume]] using [[metric tensor]] $g$.
