@@ -1,0 +1,1 @@
+A **cover** of a [[set]] $X$ is a collection of sets whose union includes $X$ as a [[subset]].
