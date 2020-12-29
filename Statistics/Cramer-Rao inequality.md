@@ -7,10 +7,8 @@ The **Cramer-Rao inequality** or **Cramer-Rao Lower Bound (CRLB)** says the [[me
 Thus, high Fisher information means the possibility of a lower variance estimator. The CRLB allows us to define the efficiency of an estimator
 
 Efficiency
-: The ratio of inverse Fisher information to variance. $$e \doteq {\mathcal{I}(\theta)^{-1} \over \sigma^2_\theta}$$
-
-The Cramer-Rao inequality tells us that efficiency has an upper bound of 1.
+: The ratio of inverse Fisher information to variance. 
 
 $$
-e \leq 1
+e \doteq {\mathcal{I}(\theta)^{-1} \over \sigma^2_\theta} \implies e \leq 1
 $$
