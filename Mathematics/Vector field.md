@@ -1,4 +1,4 @@
-A **vector field** is a [[tensor field]] that assigns [[tangent vectors|tangent vector]] to points on a [[manifold]] $M$. Say, for example, that $X$ is a vector field on $M$. Then, for every point $p$ on the manifold, the [[vector]] outputted from the field must belong to the [[tangent space]] for $p$.
+A **vector field** assigns [[vectors|vector]] to a [[manifold]] is a [[tensor field]]. Formally, it is a [[tensor field]] that assigns [[tangent vectors|tangent vector]]. Say, for example, that $X$ is a vector field on $M$. Then, for every point $p$ on the manifold, the [[vector]] outputted from the field must belong to the [[tangent space]] for $p$.
 
 $$
 X(p) \in T_p M
