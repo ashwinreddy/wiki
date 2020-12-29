@@ -2,7 +2,7 @@
 
 \begin{gather}
 \mathbf{F} =  m\mathbf{a} \\\\
-\int_{\gamma} \mathbf{F} \cdot \dd{\mathbf{r}} = m \int_\gamma \mathbf{a} \cdot \dv{\mathbf{r}}{t}\dd{t} \\\\
+\int_{\gamma} \mathbf{F} \cdot \dd{\mathbf{r}} = m \int_{t_1}^{t_2} \mathbf{a} \cdot \dv{\mathbf{r}}{t}\dd{t} \\\\
 \int_{\gamma} \mathbf{F} \cdot \dd{\mathbf{r}} = m \int_\gamma \mathbf{a} \cdot \mathbf{v} \dd{t} \\\\
 \end{gather}
 
