@@ -1,4 +1,4 @@
-**Work** is a change in [[energy]]. Net work is a change in [[kinetic energy]].
+**Work** is a change in [[energy]]. The work done by net force is a change in [[kinetic energy]].
 
 \begin{equation}
 \sum_i W_i = \Delta K
