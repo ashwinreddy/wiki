@@ -1,1 +1,1 @@
-The **contrapositive** of $P \implies Q$ is $\neg Q \implies \neg P$. The contrapositive is logically equivalent to the original statement.
+The **contrapositive** of [[implication]] $P \implies Q$ is $\neg Q \implies \neg P$. The contrapositive is logically equivalent to the original statement.
