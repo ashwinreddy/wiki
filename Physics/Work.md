@@ -1,6 +1,7 @@
 **Work** is a change in [[energy]]. 
 
 \begin{gather}
+\mathbf{F} =  m\mathbf{a} \\\\
 \int \mathbf{F} \cdot \dd{\mathbf{r}} = \int m\mathbf{a}\cdot \dd{\mathbf{r}}
 \end{gather}
 
