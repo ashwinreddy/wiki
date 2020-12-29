@@ -1,4 +1,4 @@
-The **tangent space** $T_p \mathcal{M}$ for a [[manifold]] $\mathcal{M}$ at a point $p$ consists of all the [[tangent vectors|tangent vector]] going through $p$.  Compactly, we write 
+The **tangent space** $T_p \mathcal{M}$ for a $n$-dimensional [[manifold]] $\mathcal{M}$ at a point $p$ consists of all the [[tangent vectors|tangent vector]] going through $p$.  Compactly, we write 
 
 $$
 T_pM \triangleq \left \\{\dot\gamma(0) \mid \gamma(0) = p\right\\}.
