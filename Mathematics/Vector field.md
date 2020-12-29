@@ -1,8 +1,4 @@
-A **vector field** assigns [[vectors|vector]] to a [[manifold]] is a [[tensor field]]. Formally, it is a [[tensor field]] that assigns [[tangent vectors|tangent vector]]. Say, for example, that $X$ is a vector field on $M$. Then, for every point $p$ on the manifold, the [[vector]] outputted from the field must belong to the [[tangent space]] for $p$.
-
-$$
-X(p) \in T_p M
-$$
+A **vector field** is a [[tensor field]] assigning to manifold $M$ [[vectors|vector]], in fact [[tangent vectors|tangent vector]]. Suppose $p \in M$ is a point on a a manifold $M$. Then the vector field $X$ is such that
 
 The signature is therefore manifold (where points live) to [[tangent bundle]] (where tangent vectors live). A common notation for the set of vector fields on $M$ is $\mathfrak{X}(M)$.
 
