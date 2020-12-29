@@ -1,4 +1,4 @@
-The **wedge product** or **exterior product**.
+The **wedge product** or **exterior product** takes a $p$-[[differential form]] and a $q$-form and returns a $(p+q)$-form
 
 We can take the "wedge" of two [[one-forms|one-form]] in the following way:
 
