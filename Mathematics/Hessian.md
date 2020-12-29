@@ -1,4 +1,4 @@
-The **Hessian matrix** of a [[function]] $f: \RR^n \to \RR$ is the [[Jacobian]] of the [[gradient]], yielding a [[square matrix]] where each entry is a second [[derivative]] of $f$.
+The **Hessian matrix** of a [[function]] $f: \RR^n \to \RR$ is like the [[Jacobian]] of the [[gradient]], yielding a [[square matrix]] where each entry is a second [[derivative]] of $f$.
 
 $$
 H_{ij} = \frac{\partial^2 f}{\partial x_i \partial x_j}
