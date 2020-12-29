@@ -1,0 +1,1 @@
+The **pullback** of a $n$-[[differential form]] $\omega \in \Omega^n(Y)$ on a manifold $Y$ by a function $f: X \to Y$ is written $f^* \omega \in \Omega^n(X)$.
