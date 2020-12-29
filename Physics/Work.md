@@ -1,4 +1,12 @@
-**Work** is a change in [[energy]]. The work done by net force is a change in [[kinetic energy]].
+**Work** is a change in [[energy]]. 
+
+\begin{gather}
+\int \mathbf{F} \cdot \dd{\mathbf{r}} = \int m\mathbf{a}\cdot \dd{\mathbf{r}}
+\end{gather}
+
+
+
+The work done by net force is a change in [[kinetic energy]].
 
 \begin{equation}
 \sum_i W_i = \Delta K
