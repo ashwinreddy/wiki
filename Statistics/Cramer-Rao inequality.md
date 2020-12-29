@@ -1,4 +1,4 @@
-The **Cramer-Rao inequality** or **Cramer-Rao Lower Bound (CRLB)** gives a lower bound for the [[mean squared error]] of any unbiased estimator ([[variance]]) is at least the reciprocal [[Fisher information]].
+The **Cramer-Rao inequality** or **Cramer-Rao Lower Bound (CRLB)** says the [[mean squared error]] of any unbiased estimator (i.e. the [[variance]] of the estimator) is at least the reciprocal [[Fisher information]].
 
 \begin{equation}
 \sigma^2_\theta \geq \mathsf{CRLB} = \frac{1}{ \mathcal{I}(\theta)} \tag{Cramer-Rao Inequality}
