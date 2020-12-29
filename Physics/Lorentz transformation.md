@@ -1,4 +1,4 @@
-A **Lorentz transformation** is a [[linear transformation]]
+A **Lorentz transformation** translates between [[coordinate systems]] that are moving at constant velocities relative to each other.
 
 
 $\Lambda$ must keep the [[spacetime interval|Spacetime#spacetime interval]] the same. In other words, we require that it satisfy the following, where $\eta$ is the [[Minkowski metric]].
