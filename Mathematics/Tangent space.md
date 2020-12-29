@@ -4,7 +4,7 @@ $$
 T_pM \triangleq \left \\{\dot\gamma(0) \mid \gamma(0) = p\right\\}.
 $$
 
-A choice of coordinate system $x^i$ induces a [[basis]] for the tangent space:
+A choice of [[coordinate system]] $\\{x^i\\}_{i=1}^n$ induces a [[basis]] for the tangent space:
 
 \begin{equation}
 T_p M = \operatorname{span}\left\\{  \pdv{}{x^i}\bigg|\_{p} \right\\}_{i=1}^n
