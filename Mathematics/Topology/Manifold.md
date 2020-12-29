@@ -8,3 +8,7 @@ For example, a [[circle|circle group]] is a manifold.
 
 
 [[http://bjlkeng.github.io/images/manifold_circle.png|align=center]]
+
+# Orientability
+
+A manifold is orientable if the atlas has transition functions with positive [[determinant]].
