@@ -1,0 +1,1 @@
+The **contrapositive** of $P \implies Q$ is $\neg Q \implies \neg P$.
