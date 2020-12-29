@@ -1,4 +1,4 @@
-A **vector field** is a [[tensor field]] that assigns a [[tangent vector]] to each point on a [[manifold]]. Suppose $p \in M$ is a point on a a manifold $M$. Let's say $F \in \mathfrak{X}(M)$, meaning $F$ is a vector field on $M$. Then, $F$ outputs vectors in the [[tangent space]] $T_pM$.
+A **vector field** is a [[tensor field]] that assigns a [[tangent vector]] to each point on a [[manifold]]. Suppose $p \in M$ is a point on a a manifold $M$. Let's say $F \in \mathfrak{X}(M)$, meaning $F$ is a vector field on $M$. Then, $F(p)$ outputs vectors in the [[tangent space]] $T_pM$.
 \begin{align}
 F: M &\to TM \\\\\
 p &\mapsto F(p) \in T_p M
