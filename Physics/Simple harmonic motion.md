@@ -1,14 +1,8 @@
 **Simple harmonic motion** has [[differential equation]]
 
-$$
-\ddot{x} + \omega_0^2 x = 0
-$$
-
-The more mathematical notation would write
-
-$$
+\begin{equation}
 \frac{\dd{}^2 x}{\dd{}x^t} = -\omega_0^2 x
-$$
+\end{equation}
 
 The solution is a [[sine wave]] of appropriate [[frequency]].
 
