@@ -1,1 +1,1 @@
-A **holomorphic function** is a [[function]]
+A **holomorphic function** is a [[complex|complex number]]-valued [[function]] that is complex differentiable.
