@@ -7,7 +7,7 @@ $$
 The more mathematical notation would write
 
 $$
-\frac{\dd{}^2 f}{\dd{}x^2} = -\alpha^2 f
+\frac{\dd{}^2 x}{\dd{}x^t} = -\omega_0^2 x
 $$
 
 The solution is a [[sine wave]] of appropriate [[frequency]].
