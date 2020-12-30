@@ -1,7 +1,7 @@
 **Simple harmonic motion** has [[differential equation]]
 
 \begin{equation}
-\frac{\dd{}^2 x}{\dd{}x^t} = -\omega_0^2 x
+\frac{\dd{}^2 x}{\dd{}t} = -\omega_0^2 x
 \end{equation}
 
 The solution is a [[sine wave]] of appropriate [[frequency]].
