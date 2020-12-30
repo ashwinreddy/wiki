@@ -10,11 +10,11 @@ The **Ehrenfest theorem** describes the [[time derivative]] of the [[expected va
 Applying \ref{eq:ehren} to the position operator $\hat{x}_i$:
 
 $$
-\dv{}{t} \langle x_i \rangle = \left\langle \hat{p}_i \right\rangle
+\dv{}{t} \langle x_i \rangle = \left\langle p_i \right\rangle.
 $$
 
-Likewise, for $\hat{p}$
+Likewise, for $p$
 
 $$
-\dv{}{t}\langle \hat{p} \rangle = - \left \langle \dv{V}{x} \right\rangle
+\dv{}{t}\langle p \rangle = - \left \langle \dv{V}{x} \right\rangle
 $$
