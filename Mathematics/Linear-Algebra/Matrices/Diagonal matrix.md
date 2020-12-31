@@ -4,6 +4,17 @@ $$
 D = \operatorname{diag}(d_1, \dots, d_n)
 $$
 
+$$
+D = 
+\left(
+ \begin{array}{ccccc}
+   \lambda_1 & & \huge0 \\
+    & \ddots  & \\
+   \huge0 & & \lambda_n \\
+ \end{array}
+\right)
+$$
+
 # Properties
 
 * The [[eigenvalues|eigenpairs]] of a diagonal matrix are given by the elements on the diagonal.
