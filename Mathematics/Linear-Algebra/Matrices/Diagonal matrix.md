@@ -6,4 +6,4 @@ $$
 
 # Properties
 
-* The [[eigenvalues|eigenpairs]]
+* The [[eigenvalues|eigenpairs]] of a diagonal matrix are given by the elements on the diagonal.
