@@ -3,3 +3,7 @@ A **diagonal matrix** is a [[matrix]] that has only nonzero elements on the diag
 $$
 D = \operatorname{diag}(d_1, \dots, d_n)
 $$
+
+# Properties
+
+* The [[eigenvalues|eigenpairs]]
