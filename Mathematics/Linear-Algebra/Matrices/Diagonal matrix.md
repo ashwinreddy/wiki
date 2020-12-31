@@ -8,9 +8,9 @@ $$
 D = 
 \left(
  \begin{array}{ccccc}
-   \lambda_1 & & \huge0 \\
-    & \ddots  & \\
-   \huge0 & & \lambda_n \\
+   \lambda_1 & & \huge0 \\\\
+    & \ddots  & \\\\
+   \huge0 & & \lambda_n \\\\
  \end{array}
 \right)
 $$
