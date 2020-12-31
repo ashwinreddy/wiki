@@ -1,3 +1,5 @@
 * [[Vector space]]
 * [[Basis]]
 * [[Eigenpairs]]
+* [[Linear map]]
+* [[Determinant]]
