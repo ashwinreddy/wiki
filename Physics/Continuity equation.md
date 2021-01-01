@@ -4,4 +4,4 @@ $$
 \pdv{\rho}{t} = - \nabla \cdot \vec\jmath,
 $$
 
-where $\rho$ is the [[charge density]] and $\vec\jmath$ is the [[current density]]
+where $\rho$ is the [[charge density]] and $\vec\jmath$ is the [[current density]]. If we [[integrate|integral]] and use the [[divergence theorem]]
