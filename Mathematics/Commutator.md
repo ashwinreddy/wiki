@@ -1,7 +1,7 @@
-The **commutator** of [[operator]] $\widehat{A}$ and $\widehat{B}$ measures the failure to commute.
+The **commutator** of [[operator]] ${A}$ and ${B}$ measures the failure to commute.
 
 $$
-\left[ \widehat{A}, \widehat{B} \right] \equiv \widehat{A}\widehat{B} - \widehat{B}\widehat{A}
+\left[ {A}, {B} \right] \equiv {A}{B} - {B}{A}
 $$
 
 # Identities
@@ -11,13 +11,13 @@ $$
 $$
 
 $$
-\left[\widehat{A}, \widehat{B}\widehat{C}\right]\equiv\left[\widehat{A}, \widehat{B}\right]\widehat{C} + \widehat{B}\left[\widehat{A}, \widehat{C}\right]
+\left[{A}, {B}{C}\right]\equiv\left[{A}, {B}\right]{C} + {B}\left[{A}, {C}\right]
 $$
 
 $$
-\left[\widehat{A}\widehat{B}, \widehat{C}\right]\equiv \widehat{A}\left[\widehat{B}, \widehat{C}\right] + \left[\widehat{A}, \widehat{C}\right]\widehat{B}
+\left[{A}{B}, {C}\right]\equiv {A}\left[{B}, {C}\right] + \left[{A}, {C}\right]{B}
 $$
 
 $$
-\left[\widehat{A} + \widehat{B}, \widehat{C}\right] \equiv \left[ \widehat{A}, \widehat{C} \right] + \left[ \widehat{B}, \widehat{C} \right]
+\left[{A} + {B}, {C}\right] \equiv \left[ {A}, {C} \right] + \left[ {B}, {C} \right]
 $$
