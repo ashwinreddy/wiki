@@ -14,8 +14,4 @@ $$
 
 # Identities
 
-The divergence of a [[curl]] is identically zero:
-
-$$
-\operatorname{div} \operatorname{curl} \vec{A} \equiv 0.
-$$
+* The divergence of a [[curl]] is identically zero: $\operatorname{div} \operatorname{curl} \vec{A} \equiv 0.$
