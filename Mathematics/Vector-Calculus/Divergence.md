@@ -11,6 +11,9 @@ $$
 \vec\nabla \cdot \vec{F} = \operatorname{div} \vec{F}
 $$
 
+
+# Identities
+
 The divergence of a [[curl]] is identically zero:
 
 $$
