@@ -15,7 +15,7 @@ $$
 The bundle naturally comes with a _natural_ projection
 
 \begin{align}
-\pi : TM &\twoheadrightarrow M \\\\\
+\pi : TM &\rightarrow M \\\\\
 (v,x) &\mapsto x
 \end{align}
 
