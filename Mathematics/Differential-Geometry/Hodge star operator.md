@@ -1,0 +1,1 @@
+The **Hodge star operator** is an operator
