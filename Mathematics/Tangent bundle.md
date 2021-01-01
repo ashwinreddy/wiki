@@ -12,7 +12,7 @@ $$
 \dim TM = 2 \dim M
 $$
 
-The bundle naturally comes with a projection 
+The bundle naturally comes with a _natural_ projection
 
 \begin{align}
 \pi : TM &\twoheadrightarrow M \\\\\
