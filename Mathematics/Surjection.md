@@ -1,1 +1,1 @@
-A **surjection** is a [[function]] that fills its codomain completely.
+A **surjection** is a [[function]] $f: X \twoheadrightarrow Y$ that fills its codomain completely.
