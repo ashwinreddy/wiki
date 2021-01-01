@@ -1,1 +1,1 @@
-A **diffeomorphism** (abbr. diffeo) is an [[isomorphism]] between [[smooth manifold]]
+A **diffeomorphism** (abbr. diffeo) is an [[isomorphism]] between smooth manifolds. 
