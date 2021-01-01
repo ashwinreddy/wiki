@@ -1,0 +1,1 @@
+A **diffeomorphism** (abbr. diffeo) is an [[isomorphism]]
