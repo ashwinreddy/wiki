@@ -4,12 +4,9 @@ $$
 C = \underbrace{\pdv{L}{\dot{q}}}\_{p}\dv{h^s(q)}{s}\Bigg|_{s=0}
 $$
 
-
-
-
-
 |Translation Symmetry|Conservation Law|
 |--------------------|----------------|
 |Time|Energy|
 |Space translation|Momentum|
 |Rotation|Angular momentum|
+
