@@ -14,7 +14,7 @@ $$
 # Coordinate-free definition
 
 $$
-\nabla \cdot \mathbf{F} = \star \dd{} \star (\mathbf{F}^\flat)
+\nabla \cdot \mathbf{F} = \star \dd{} \star \left(\mathbf{F}^\flat\right)
 $$
 
 
