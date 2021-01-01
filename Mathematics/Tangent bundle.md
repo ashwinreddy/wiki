@@ -2,7 +2,7 @@
 bibliography: 'Mathematics/math.bib'
 ---
 
-The **tangent bundle** for a manifold is the collection of [[tangent spaces|tangent space]] as a [[bundle]].
+The **tangent bundle** for a manifold $M$ is a [[manifold]] $TM$ which collects the [[tangent spaces|tangent space]] as a [[bundle]].
 
 \begin{equation}
 TM \doteq \bigsqcup_{p \in M} T_p M
