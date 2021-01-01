@@ -7,6 +7,10 @@ $$
 # Identities
 
 $$
+[A,B]=0 \iff [B,A] = 0
+$$
+
+$$
 \left[\widehat{A}, \widehat{B}\widehat{C}\right]\equiv\left[\widehat{A}, \widehat{B}\right]\widehat{C} + \widehat{B}\left[\widehat{A}, \widehat{C}\right]
 $$
 
