@@ -11,6 +11,12 @@ $$
 \vec\nabla \cdot \vec{F} = \operatorname{div} \vec{F}
 $$
 
+# Coordinate-free definition
+
+$$
+\nabla \cdot \mathbf{F} = \star \dd{} \star (\mathbf{F}^\flat)
+$$
+
 
 # Identities
 
