@@ -8,6 +8,10 @@ The **tangent bundle** for a manifold is the collection of [[tangent spaces|tang
 TM \doteq \bigsqcup_{p \in M} T_p M
 \end{equation}
 
+$$
+\dim TM = 2 \dim M
+$$
+
 The bundle naturally comes with a projection 
 
 \begin{align}
