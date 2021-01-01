@@ -4,7 +4,7 @@ $$
 C = p \dv{q(s)}{s}
 $$
 
-where $p = \pdv_{\dot{q}} L$.
+where $p = \partial_{\dot{q}} L$.
 
 
 
