@@ -1,6 +1,7 @@
 **Regular expression**
 
-# Resources
+# External links
 
+* [[https://amitness.com/regex/]]
 * [[https://regexone.com/]]
 * [[https://regexcrossword.com/]]
