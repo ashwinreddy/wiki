@@ -1,1 +1,0 @@
-A **ribosome** can make a [[protein]].
