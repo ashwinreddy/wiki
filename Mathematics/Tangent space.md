@@ -7,7 +7,7 @@ $$
 A choice of [[coordinate system]] $\\{x^i\\}_{i=1}^n$ induces a [[basis]] for the tangent space:
 
 \begin{equation}
-T_p M = \operatorname{span}\left\\{  \pdv{}{x^i}\bigg|\_{p} \right\\}_{i=1}^n
+T_p M = \operatorname{span}\left\\{  \pdv{}{x^i}\Bigg|\_{p} \right\\}_{i=1}^n
 \end{equation}
 
 If we take dimensions of the equation above,
