@@ -5,7 +5,7 @@ bibliography: 'Mathematics/math.bib'
 The **tangent bundle** for a [[manifold]] $M$ is a manifold $TM$ which collects the [[tangent spaces|tangent space]] as a [[bundle]].
 
 \begin{equation}
-TM \triangleq \bigsqcup_{p \in M} T_p M
+\operatorname{T} M \equiv \bigsqcup_{p \in M} \operatorname{T}_p M
 \end{equation}
 
 $$
