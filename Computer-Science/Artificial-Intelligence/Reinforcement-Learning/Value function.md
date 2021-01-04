@@ -8,7 +8,7 @@ $$
 V^\pi(s) = \mathbb{E}_{\tau \sim \pi}\left[R(\tau) \mid s_0 = s\right]
 \end{equation}
 
-It is the [[expected value]] of the [[action-value function]].
+It is the [[expected value]] of the [[Q function]].
 
 \begin{equation}
 V^\pi(s) = \mathbb{E}_{a \sim \pi}\left[ Q^\pi(s,a) \right]
