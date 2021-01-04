@@ -3,3 +3,4 @@ A **probability distribution** gives the probabilities of outcomes for an [[expe
 * [[Bernoulli distribution]]
 * [[Binomial distribution]]
 * [[Exponential distribution]]
+* [[Poisson distribution]]
