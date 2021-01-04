@@ -1,6 +1,6 @@
 * [[Vector space]]
 * [[Basis]]
 * [[Eigenpairs]]
-* [[Gaussian Elimination]]
+* [[Gaussian elimination]]
 * [[Linear map]]
 * [[Determinant]]
