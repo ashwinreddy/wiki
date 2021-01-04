@@ -24,3 +24,5 @@ but this is a [[geometric series]] where since $v_T < v_A$, we can guarantee con
 $$
 \text{Total Catch Up Time} = \frac{v_T}{v_A - v_T}
 $$
+
+<<Warn("Something doesn't add up here")>>
