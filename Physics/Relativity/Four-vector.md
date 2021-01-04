@@ -4,7 +4,7 @@ $$
 \tilde{x}^{\mu} = \Lambda^\mu{}_\nu x^\nu
 $$
 
-[[Lorentz transformation]]
+where $\Lambda$ is a [[Lorentz transformation]].
 
 # See also
 
