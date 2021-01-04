@@ -16,5 +16,11 @@ $$
 So there can't really be a problem here. The issue is that we have to compute
 
 $$
-\text{Total Catch Up Time} = \sum_{n=1}^\infty \left(\frac{v_T}{v_A}\right)^n
+\text{Total Catch Up Time} = \sum_{n=1}^\infty \left(\frac{v_T}{v_A}\right)^n,
+$$
+
+but this is a [[geometric series]] where since $v_T < v_A$, we can guarantee convergence with
+
+$$
+\text{Total Catch Up Time} = \frac{v_T}{v_A - v_T}
 $$
