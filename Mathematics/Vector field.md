@@ -1,8 +1,8 @@
 A **vector field** is a [[tensor field]] that assigns a [[tangent vector]] to each point on a [[manifold]] $\mathcal{M}$. Suppose $p \in \mathcal{M}$ is a point. Let's say $F \in \mathfrak{X}(\mathcal{M})$, meaning $F$ is a vector field on $\mathcal{M}$. Then, $F(p)$ outputs vectors in the [[tangent space]] $T_pM$.
-\begin{align}
+\begin{align\*}
 F: \mathcal{M} &\to T\mathcal{M} \\\\\
 p &\mapsto F(p) \in T_p \mathcal{M}
-\end{align}
+\end{align\*}
 
 A vector field on $\RR^n$ can be written
 
