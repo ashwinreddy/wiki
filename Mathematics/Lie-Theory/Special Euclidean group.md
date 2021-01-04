@@ -1,1 +1,1 @@
-The **special Euclidean group** $\operatorname{SE}(n)$
+The **special Euclidean group** $\operatorname{SE}(n)$ are [[rigid motion]]
