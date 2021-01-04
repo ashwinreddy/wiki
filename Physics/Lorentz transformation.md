@@ -3,6 +3,7 @@ A **Lorentz transformation** translates between [[coordinate systems|coordinate 
 $$
 X' = \Lambda X
 $$
+
 The transformation must keep the [[spacetime interval|Spacetime#spacetime interval]] the same. In other words, we require that it satisfy the following, where $\eta$ is the [[Minkowski metric]].
 
 \begin{equation}
