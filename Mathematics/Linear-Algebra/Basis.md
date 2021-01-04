@@ -5,10 +5,10 @@ A **basis** $\mathcal{B}$ for a [[vector space]] is a minimal [[set]] of [[vecto
 \end{equation}
 
 
-In other words, any $\vec{v} \in V$ can be written as
+In other words, any $\vec{v} \in V$ can be written with appropriate choice of $\alpha_i$
 
 \begin{equation}
-\vec{v} = \sum_{i=1}^{\dim V} a_i \vec{b}_i
+\vec{v} = \sum_{i=1}^{\dim V} \alpha_i \vec{b}_i
 \end{equation}
 
 # Change of basis
