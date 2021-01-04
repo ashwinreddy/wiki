@@ -1,0 +1,1 @@
+The **Lie derivative** takes a [[tensor field]] $T$ and a [[vector field]] $X$ and tells us how $T$ changes along $X$.
