@@ -1,1 +1,1 @@
-**Phase space** is the space of all possible states for a dynamical system. In physics, this can often be the [[cotangent bundle]] $T^*Q$ if $Q$ is the [[configuration space]].
+**Phase space** is the space of all possible states for a dynamical system. In physics, this can often be the [[cotangent bundle]] $T^*Q$ if $Q$ is the [[configuration space]]. This bundle tracks position and its conjugate, momentum.
