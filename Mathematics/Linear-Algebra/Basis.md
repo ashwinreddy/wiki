@@ -1,4 +1,4 @@
-A **basis** $\mathcal{B}$ for a [[vector space]] is a minimal [[set]] of [[vectors|vector]] $\left\\{ \vec{b}_1, \ldots, \vec{b}_n\right\\}$ needed to [[span]] the entirety of the space. A basis need not be unique, but every basis will have the same number of elements $n$, which defines the [[dimension]] of the vector space.
+A **basis** $\mathcal{B}$ for a [[vector space]] is a minimal [[set]] of [[vectors|vector]] $\left\\{ \vec{b}\right\\}_{i=1}^n$ needed to [[span]] the entirety of the space. A basis need not be unique, but every basis will have the same number of elements $n$, which defines the [[dimension]] of the vector space.
 
 \begin{equation}
 \dim V \triangleq | \mathcal{B} |
