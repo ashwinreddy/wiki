@@ -1,1 +1,0 @@
-An RBG image has 3 channels. A grayscale image has 1 channel.
