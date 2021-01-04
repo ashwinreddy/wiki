@@ -16,4 +16,4 @@ The set of transformations forms the [[Lorentz group]].
 
 # Properties
 
-* If we take the [[determinant]] of Equation \ref{eq:lorentz-condition}, $1 = (\det \Lambda)^2 \implies \det \Lambda = \pm 1$
+* If we take the [[determinant]] of Equation \ref{eq:lorentz-condition}, $1 = (\det \Lambda)^2 \implies \det \Lambda = \pm 1$.
