@@ -1,6 +1,6 @@
 A **vector field** is a [[tensor field]] that assigns a [[tangent vector]] to each point on a [[manifold]] $\mathcal{M}$.
 
-[[https://www.whitman.edu/mathematics/calculus_online/images/vfield.png]]
+[[https://www.whitman.edu/mathematics/calculus_online/images/vfield.png|align=center,width=200px]]
 
 Suppose $p \in \mathcal{M}$ is a point. Let's say $F \in \mathfrak{X}(\mathcal{M})$, meaning $F$ is a vector field on $\mathcal{M}$. Then, $F(p)$ outputs vectors in the [[tangent space]] $T_p \mathcal{M}$.
 \begin{align\*}
