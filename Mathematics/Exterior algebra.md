@@ -1,1 +1,1 @@
-The **exterior algebra** of a [[vector space]] $V$ is denoted $\Lambda (V)$
+The **exterior algebra** of a [[vector space]] $V$ is denoted $\bigwedge (V)$
