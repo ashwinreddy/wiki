@@ -1,1 +1,1 @@
-The **exterior algebra** of a [[vector space]] $V$ is denoted $\bigwedge (V)$ and consists of all the $\bigwedge^k(V)$ for $k=0, 1, 2, \dots$ along with the [[exterior product]].
+The **exterior algebra** of a [[vector space]] $V$ is denoted $\bigwedge (V)$ and consists of all the $\bigwedge^k(V)$ for $k=0, 1, 2, \dots$ along with the [[wedge product]].
