@@ -1,1 +1,1 @@
-The **electromagnetic tensor** collects the [[electric field]] and [[magnetic field]] into a tensor. Let $\Phi$ be the [[four potential]]
+The **electromagnetic tensor** collects the [[electric field]] and [[magnetic field]] into a tensor. Let $\Phi$ be the [[electromagnetic four-potential]]
