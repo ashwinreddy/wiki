@@ -5,7 +5,7 @@ bibliography: "./Mathematics/math.bib"
 A **differential $p$-form** is an element of the space
 
 $$
-\Omega^p(M) = C\^\infty(\bigwedge^p T^* M)
+\Omega^p(M) = C\^\infty\left(\bigwedge^p T^* M\right)
 $$
 
 
