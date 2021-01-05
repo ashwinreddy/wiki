@@ -21,3 +21,8 @@ $$
 -\nabla \varphi = \mathbf{E} + \dot{\mathbf{A}}
 $$
 
+Compactly,
+
+\begin{align}
+\mathbf{E} = -\nabla\varphi - \pdv{\mathbf{A}}{t}
+\end{align}
