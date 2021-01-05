@@ -5,7 +5,7 @@ This is the home page of my wiki! There's lots of topics to explore:
 ||
 |-|-|-|
 |[Mathematics](./Mathematics/Home)|[Computer Science](./Computer-Science/)|[Engineering](./Engineering/)|
-|[Physics](./Physics/)|[Chemistry](./Chemistry/)|[Biology](./Biology/)|
+|[Physics](./Physics/)||[Biology](./Biology/)|
 |[Statistics](./Statistics/)|[Economics](./Economics/)|[Linguistics](./Linguistics)|
 |[Psychology](./Psychology/)|[Philosophy](./Philosophy/)|
 
