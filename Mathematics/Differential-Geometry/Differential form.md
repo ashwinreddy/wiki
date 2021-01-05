@@ -2,7 +2,15 @@
 bibliography: "./Mathematics/math.bib"
 ---
 
-A **differential $m$-form** on a [[tangent space]] $T_p \RR^n$ is an [[alternating multilinear map]]
+A **differential $p$-form** is an element of the space
+
+$$
+\Omega^p(M) = C^\infty(\bigwedge^p T^* M)
+$$
+
+
+
+An $m$-form could be on a [[tangent space]] $T_p \RR^n$ is an [[alternating multilinear map]]
 
 $$
 \omega: (T_p \RR\^n)^m \to \RR
