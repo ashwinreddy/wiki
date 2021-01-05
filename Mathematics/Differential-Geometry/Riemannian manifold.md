@@ -1,1 +1,1 @@
-A **Riemannian manifold** is a [[manifold]] with a well-formed [[metric tensor]] $g$.
+A **Riemannian manifold** is a [[manifold]] with a well-formed [[metric tensor]] $g$: $(\mathcal{M}, g)$.
