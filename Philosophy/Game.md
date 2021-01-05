@@ -1,0 +1,3 @@
+---
+bibliography: "./Philosophy/philosophy.bib"
+---
