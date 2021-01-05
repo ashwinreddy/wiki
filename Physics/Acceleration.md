@@ -1,4 +1,4 @@
-**Acceleration** is the [[time derivative]] of [[velocity]].
+**Acceleration** is the [[time derivative]] of [[velocity]], but also a [[net force]], scaled down by [[mass]].
 
 $$
 a \triangleq \dot{v} = \dv{v}{t}
