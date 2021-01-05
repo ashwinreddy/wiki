@@ -7,5 +7,5 @@ $$
 The curl of a [[gradient]] is zero.
 
 $$
-\operatorname{curl} \operatorname{grad} \vec{F} = \vec{0}
+\nabla \times \left(\nabla \varphi \right) = \vec{0}
 $$
