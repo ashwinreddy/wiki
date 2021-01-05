@@ -24,5 +24,6 @@ $$
 Compactly,
 
 \begin{align}
-\mathbf{E} = -\nabla\varphi - \pdv{\mathbf{A}}{t}
+\mathbf{E} &= -\nabla\varphi - \pdv{\mathbf{A}}{t} \\\\
+\mathbf{B} &= \nabla \times \mathbf{A}
 \end{align}
