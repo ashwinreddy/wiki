@@ -1,1 +1,0 @@
-**Hydronium** is the [[ion]] $\ce{H3O+}$.
