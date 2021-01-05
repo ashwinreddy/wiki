@@ -1,1 +1,0 @@
-**Carbon** $\ce{C}$ has atomic number 6.
