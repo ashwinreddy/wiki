@@ -13,16 +13,9 @@ $$
 t = \frac{v_A - v_T}{h_0}
 $$
 
-So there can't really be a problem here. The issue is that we have to compute
+So there can't really be a problem here. Let's try to understand Zeno's argument. 
 
-$$
-\text{Distance to catch up} = h_0 \sum_{n=1}^\infty \left(\frac{v_T}{v_A}\right)^n,
-$$
-
-but this is a [[geometric series]] where since $v_T < v_A$, we can guarantee convergence with
-
-$$
-\text{Distance to catch up} = h_0 \frac{v_T}{v_A - v_T}
-$$
-
-<<Warn("Something doesn't add up here")>>
+1. It takes $h_0 / v_A$ time for Achilles to cover the headstart.
+2. In that time, the tortoise will have covered $v_T h_0 / v_A$.
+3. So then Achilles will have to cover $v_T h_0 / v_A^2$
+4. So on and so forth
