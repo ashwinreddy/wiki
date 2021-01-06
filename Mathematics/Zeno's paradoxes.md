@@ -20,6 +20,10 @@ So there can't really be a problem here. Let's try to understand Zeno's argument
 3. So then Achilles will have to cover $v_T h_0 / v_A^2$
 4. So on and so forth
 
+$$
+\text{Distance Tortoise Covers} = h_0 \sum_{n=1}^\infty \left(\frac{v_T}{v_A}\right)^n
+$$
+
 But this process converges:
 
 $$
