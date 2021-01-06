@@ -29,5 +29,5 @@ $$
 
 
 $$
-t_{\mathsf{matched}} = { h_0 \sum_{n=1}^\infty \left(\frac{v_T}{v_A}\right)^n \over v_T }
+t_{\mathsf{matched}} = { \text{Distance Tortoise Covers} \over v_T }
 $$
