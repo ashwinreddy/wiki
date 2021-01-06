@@ -1,5 +1,5 @@
 Measures of **central tendency** include mean, [[median]], and [[mode]]. The similarity between these is striking.
 
 $$
-E_p = \sum_k \left|x_k - s\right|^p
+\arg\min_{s} \sum_k \left|x_k - s\right|^p
 $$
