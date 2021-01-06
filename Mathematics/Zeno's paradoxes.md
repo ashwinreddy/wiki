@@ -10,7 +10,7 @@ x_T(t) &= h_0 + v_T t
 By inspection, we can notice that the two will reach each other at 
 
 $$
-t = \frac{v_A - v_T}{h}
+t = \frac{v_A - v_T}{h_0}
 $$
 
 So there can't really be a problem here. The issue is that we have to compute
