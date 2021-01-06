@@ -22,7 +22,7 @@ $$
 but this is a [[geometric series]] where since $v_T < v_A$, we can guarantee convergence with
 
 $$
-\text{Total Catch Up Time} = \frac{v_T}{v_A - v_T}
+\text{Distance to catch up} = h_0 \frac{v_T}{v_A - v_T}
 $$
 
 <<Warn("Something doesn't add up here")>>
