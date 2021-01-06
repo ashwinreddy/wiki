@@ -33,10 +33,18 @@ Here are some of the topics I'd like to develop further:
 * What is Bayesian data analysis/statistics?
 * How do we get to generalized Stoke's theorem?
 * What is geometric algebra? [[https://crypto.stanford.edu/~blynn/haskell/ga.html]]
-* What is category theory?
 * What is general relativity?
 * [[https://arxiv.org/abs/1001.1778]]
 
-Miscellaneous
+# math
 
-* Natural wonders every child should know?
+* What is category theory?
+* manifolds
+* lie groups and algebra
+* tensors
+* analytic mechanics
+* differential forms
+* info theory
+* rep theory
+* quaternions
+* godel's theorems
