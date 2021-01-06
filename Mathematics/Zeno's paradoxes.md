@@ -19,3 +19,9 @@ So there can't really be a problem here. Let's try to understand Zeno's argument
 2. In that time, the tortoise will have covered $v_T h_0 / v_A$.
 3. So then Achilles will have to cover $v_T h_0 / v_A^2$
 4. So on and so forth
+
+But this process converges:
+
+$$
+\sum_{n=1}^\infty \left(\frac{v_T}{v_A}\right)^n
+$$
