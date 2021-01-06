@@ -23,7 +23,7 @@ So there can't really be a problem here. Let's try to understand Zeno's argument
 But this process converges:
 
 $$
-\text{Distance Tortoise Covers} = h_0 \sum_{n=1}^\infty \left(\frac{v_T}{v_A}\right)^n = h_0 \frac{v_T}{v_A - v_t}
+\text{Distance Tortoise Covers} = h_0 \sum_{n=1}^\infty \left(\frac{v_T}{v_A}\right)^n = h_0 \frac{v_T}{v_A - v_T}
 $$
 
 
