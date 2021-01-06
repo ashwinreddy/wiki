@@ -3,3 +3,5 @@ Measures of **central tendency** include mean, [[median]], and [[mode]]. The sim
 $$
 \arg\min_{s} \sum_k \left|x_k - s\right|^p
 $$
+
+[[http://www.johnmyleswhite.com/notebook/2013/03/22/modes-medians-and-means-an-unifying-perspective/]]
