@@ -10,7 +10,7 @@ x_T(t) &= h_0 + v_T t
 By inspection, we can notice that the two will reach each other at 
 
 $$
-t = \frac{v_A - v_T}{h_0}
+t_{\mathsf{matched}} = \frac{v_A - v_T}{h_0}
 $$
 
 So there can't really be a problem here. Let's try to understand Zeno's argument. 
@@ -23,5 +23,5 @@ So there can't really be a problem here. Let's try to understand Zeno's argument
 But this process converges:
 
 $$
-\sum_{n=1}^\infty \left(\frac{v_T}{v_A}\right)^n
+t_{\mathsf{matched}} = { h_0 \sum_{n=1}^\infty \left(\frac{v_T}{v_A}\right)^n \over v_T }
 $$
