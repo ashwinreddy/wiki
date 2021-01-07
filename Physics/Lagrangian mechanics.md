@@ -1,5 +1,1 @@
-**Lagrangian mechanics** is a reformulation of classical mechanics using [[Euler-Lagrange equation]]. Usually,
-
-$$
-\mathcal{L} = K - V
-$$
+**Lagrangian mechanics** is a reformulation of classical mechanics. Suppose $M$ is the [[configuration space]]
