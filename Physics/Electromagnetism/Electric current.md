@@ -1,4 +1,4 @@
-**Electric current** is the [[time derivative]] of [[electric charge]].
+**Electric current** is the [[time derivative]] (rate of change over time) of [[electric charge]] in an area.
 
 \begin{equation}
 i \triangleq \dot{q}
