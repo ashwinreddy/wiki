@@ -4,6 +4,14 @@ $$
 C = \underbrace{\pdv{L}{\dot{q}}}\_{p}\dv{h^s(q)}{s}\Bigg|_{s=0}
 $$
 
+# Proof
+
+$$
+\dv{C}{t} = \dv{}{t}\left( \pdv{L}{\dot{q}}\dv{h^s(q)}{s}\Bigg|_{s=0} \right)
+$$
+
+# Examples
+
 |Translation Symmetry|Conservation Law|
 |--------------------|----------------|
 |Time|Energy|
