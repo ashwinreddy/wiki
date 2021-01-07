@@ -1,0 +1,1 @@
+The **direct product** is the [[Cartesian product]] with additional equipment.
