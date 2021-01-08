@@ -1,1 +1,0 @@
-**Apoptosis** is a [[cell]] death.
