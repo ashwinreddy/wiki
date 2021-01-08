@@ -1,1 +1,1 @@
-[[/uploads/cytosine-guanine.jpg]]
+[[uploads/cytosine-guanine.jpg]]
