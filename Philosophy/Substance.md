@@ -3,3 +3,7 @@
 # Descartes
 
 Descartes believes that there are two kinds of substance: _res extensa_ (extended things) and _res cogitans_ (thinking things).
+
+# Spinoza
+
+Spinoza believes that God/Nature is the only substance.
