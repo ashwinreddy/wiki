@@ -1,0 +1,1 @@
+**Substance** might be thought of as the "stuff" that makes up the world.
