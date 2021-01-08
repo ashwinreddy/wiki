@@ -1,1 +1,0 @@
-./uploads/cytosine-guanine.jpg
