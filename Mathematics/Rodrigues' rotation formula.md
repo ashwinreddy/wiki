@@ -5,7 +5,7 @@
 \end{equation}
 
 $$
-\vec{v} = \vec{v}_\parallel + \vec{v}_\pperp
+\vec{v} = \vec{v}_\parallel + \vec{v}_\perp
 $$
 
 \begin{gather}
