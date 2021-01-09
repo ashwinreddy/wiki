@@ -1,1 +1,0 @@
-**Carbon dioxide** $\ce{CO2}$ has [[carbon]] and [[oxygen]].
