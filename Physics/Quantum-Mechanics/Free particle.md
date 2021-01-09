@@ -1,4 +1,4 @@
-The **free particle** is a particle where the potential is not changing.
+The **free particle** is a particle where the potential is not changing. If the energy is $E$ and the momentum is $\vec{p}$,
 
 $$
 \psi_{\text{free particle}}(\vec{r}, t) = A e^{\iota\left(\vec{p}\cdot\vec{r} - Et\right)/\hbar}
