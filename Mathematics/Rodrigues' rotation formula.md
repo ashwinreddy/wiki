@@ -15,3 +15,5 @@ $$
 \vec{v}\_\parallel = \vec{u}(\vec{u}\cdot\vec{v}) \\\\\
 \vec{v}\_\perp + \vec{v}_\parallel = \vec{v} 
 \end{gather}
+
+<<Warn("fix")>>
