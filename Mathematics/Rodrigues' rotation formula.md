@@ -4,6 +4,10 @@
 \vec{v}' = \vec{v}\_\parallel + \vec{v}\_\perp\cos\theta + (\vec{u} \times \vec{v}\_\perp)\sin\theta
 \end{equation}
 
+$$
+\vec{v} = \vec{v}_\parallel + \vec{v}_\pperp
+$$
+
 \begin{gather}
 \vec{v}' = \vec{v}\_\parallel + \vec{v}\_\perp\cos\theta + (\vec{u} \times \vec{v}\_\perp)\sin\theta \\\\\
 \vec{v}\_\parallel = \vec{u}(\vec{u}\cdot\vec{v}) \\\\\
