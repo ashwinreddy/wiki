@@ -6,10 +6,12 @@ bibliography: "./Mathematics/math.bib"
 
 @10.5555/1146355 describes $a$-for-1 and $b$-to-1 odds. 
 
-$$
-\text{Payoff} = \begin{cases} & \text{win} \\\\ & \text{lose} \end{cases}
-$$
 
-In $a$-for-1 odds, you put down 1 dollar before the game, and win $a$ dollars if you're right and nothing otherwise. With $b$-to-1 odds, you pay 1 dollar if you lose and gain $b$ dollars if you win.
+
+In $a$-for-1 odds, you put down 1 dollar before the game, and win $a$ dollars if you're right and nothing otherwise. With $b$-to-1 odds, you pay 1 dollar if you lose and gain $b$ dollars if you win:
+
+$$
+\text{Payoff} = \begin{cases} b & \text{win} \\\\ -1 & \text{lose} \end{cases}
+$$
 
 ---
