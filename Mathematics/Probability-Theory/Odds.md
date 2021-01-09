@@ -4,4 +4,4 @@ bibliography: "./Mathematics/math.bib"
 
 **Odds** are an alternate way of describing probability. Suppose you're interested in event $p$ whose complement has probability $q$. Then, the probability is $\frac{p}{p+q}$ whereas the odds are simply $p: q$.
 
-Cover
+@10.5555/1146355
