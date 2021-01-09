@@ -4,6 +4,8 @@
 \vec{v}' = \vec{v}\_\parallel + \vec{v}\_\perp\cos\theta + (\vec{u} \times \vec{v}\_\perp)\sin\theta
 \end{equation}
 
+First, consider a decomposition
+
 $$
 \vec{v} = \vec{v}\_\parallel + \vec{v}_\perp
 $$
