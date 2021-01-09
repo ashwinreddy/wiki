@@ -4,6 +4,9 @@ bibliography: "./Mathematics/math.bib"
 
 **Odds** are an alternate way of describing probability. Suppose you're interested in event $p$ whose complement has probability $q$. Then, the probability is $\frac{p}{p+q}$ whereas the odds are simply $p: q$.
 
+Even odds
+: Even odds are $1/1$.
+
 @10.5555/1146355 describes $a$-for-1 and $b$-to-1 odds. 
 
 
