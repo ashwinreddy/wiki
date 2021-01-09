@@ -4,6 +4,8 @@ $$
 \psi_{\text{free particle}}(\vec{r}, t) = A e^{\iota\left(\vec{p}\cdot\vec{r} - Et\right)/\hbar}
 $$
 
+But this has $|\psi|^2=1$, so it's not a localized particle.
+
 # Energy
 
 > There is no such thing as a free particle with definite energy.
