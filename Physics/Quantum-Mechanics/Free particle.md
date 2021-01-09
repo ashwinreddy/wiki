@@ -1,4 +1,10 @@
-The **free particle** is a particle under no influence of a potential, i.e $V(x) = 0$. 
+The **free particle** is a particle where the potential is not changing.
+
+$$
+\psi_{\text{free particle}}(\vec{r}, t) = A e^{\iota\left(\vec{p}\cdot\vec{r} - Et\right)/\hbar}
+$$
+
+# Energy
 
 > There is no such thing as a free particle with definite energy.
 
