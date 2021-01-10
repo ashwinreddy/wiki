@@ -17,10 +17,8 @@ Here are some of the topics I'd like to develop further:
 * What is the philosophy of science?
 * What are the basic ideas of music theory? Can I approach it from a mathematical background?
 * Computational music synthesis by Sean Luke, George Mason Uni
-* How can we explain calculus simply (Calculus Made Easy by Silvanus Thompson)
 * What structures do we actually need for the cool generalizations in Riemannian geometry?
 * Is it worth exploring the mathematics of robotic manipulation (Murray, Li, Sastry) ? 
-* What's the point of representation theory?
 * What are tensors?
 * What is semiotics?
 * What is differential geometry?
