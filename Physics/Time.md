@@ -2,4 +2,4 @@
 
 # External links
 
-* [[Is|https://www.youtube.com/watch?v=PdL8CudJTcs]]
+* [[Is Time Real?|https://www.youtube.com/watch?v=PdL8CudJTcs]]
