@@ -15,3 +15,7 @@ Since our goal is often to maximize likelihood (see [[maximum likelihood estimat
 $$
 \ell(\theta) \doteq \log L(\theta) = \sum_i \log p_\theta \left( y_i \right)
 $$
+
+# External links
+
+* [[StatQuest: Probability vs Likelihood|https://www.youtube.com/watch?v=pYxNSUDSFH4]]
