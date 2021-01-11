@@ -1,1 +1,1 @@
-The **Lorentz group** is the [[Lie group]] of every [[Lorentz transformation]]. It is closely related to the [[orthogonal group]] $\mathrm{O}(3)$, rotations in 3D space.
+The **Lorentz group** $\operatorname{O}(d-1,1)$ is the [[Lie group]] of every [[Lorentz transformation]]. 
