@@ -1,1 +1,1 @@
-The **Lorentz group** $\operatorname{O}(d-1,1)$ is the [[Lie group]] of every [[Lorentz transformation]]. 
+The **Lorentz group** is the [[orthogonal group]] $\operatorname{O}(d-1,1)$ with every [[Lorentz transformation]]. 
