@@ -8,7 +8,7 @@ The transformation must keep the [[spacetime interval|Spacetime#spacetime interv
 
 \begin{equation}
 \label{eq:lorentz-condition}
-\eta = \Lambda^\mathsf{T} \eta \Lambda
+\boxed{\eta = \Lambda^\mathsf{T} \eta \Lambda}
 \end{equation}
 
 
