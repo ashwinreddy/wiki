@@ -1,1 +1,1 @@
-**Empiricism** 
+**Empiricism** contrasts with [[rationalism]].
