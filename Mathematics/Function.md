@@ -10,6 +10,9 @@ x &\mapsto y = f(x)
 
 We call $x$ the independent variable and $y$ the dependent variable.
 
+Range
+: The range of $f$ is $\\{f(x) \mid x \in \mathsf{Domain}\\}$
+
 # Classifications
 
 * [[Surjection]], [[injection]], and [[bijection]]
