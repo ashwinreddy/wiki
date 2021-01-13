@@ -1,1 +1,1 @@
-In 1931, Kurt Godel published the **Godel's incompleteness theorems**.
+> But now, in headline terms, _Gödel’s First Incompleteness Theorem shows that the entirely natural idea that we can give a complete theory of basic arithmetic with a tidy set of axioms is wrong._
