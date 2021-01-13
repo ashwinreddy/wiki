@@ -8,7 +8,7 @@ $$
 \omega: (T_p M)^k \to \RR
 $$
 
-
+Let us denote the set of differential $k$-forms at $p$ with $\bigwedge_k T^*_p M$.
 
 
 ---
