@@ -10,5 +10,10 @@ $$
 
 Let us denote the set of differential $k$-forms at $p$ with $\bigwedge_k T^*_p M$. This set can be easily upgraded to a [[vector space]].
 
+|$k$|Object|
+|---|------|
+|0|Real number|
+|1|[[Cotangent space]]|
+
 
 ---
