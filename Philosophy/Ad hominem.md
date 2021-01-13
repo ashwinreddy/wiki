@@ -1,5 +1,1 @@
-**_Argumentum ad hominem_**. It is logically fallacious when you attempt to "[undermine] a speaker's argument by attacking the speaker instead of adddressing the argument." [[THE AD HOMINEM FALLACY FALLACY|https://laurencetennant.com/bonds/adhominem.html]]
-
-# External links
-
-* [[]]
+**_Argumentum ad hominem_**. It is logically fallacious when you attempt to "[undermine] a speaker's argument by attacking the speaker instead of adddressing the argument." ([[THE AD HOMINEM FALLACY FALLACY|https://laurencetennant.com/bonds/adhominem.html]]). 
