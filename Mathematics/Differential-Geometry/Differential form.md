@@ -12,7 +12,7 @@ Let us denote the set of differential $k$-forms at $p$ with $\bigwedge_k T^*_p M
 
 A differential form can be defined over the manifold by making sure its defined at each point. 
 
-A differential 0-form is just a function while a differential 1-form is a linear combination of the $\dd{x}^i$'s in local coordinates.
+A differential 0-form is just a function while a differential 1-form is a linear combination of the $\dd{x}^i$'s in local coordinates. Higher order forms are formed (pun intended) with the [[wedge product]].
 
 
 
