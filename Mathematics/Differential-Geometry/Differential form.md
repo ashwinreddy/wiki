@@ -2,10 +2,10 @@
 bibliography: "./Mathematics/math.bib"
 ---
 
-A **differential $p$-form** is an element of the space
+A **differential $k$-form** at $p$ for a [[manifold]] $M$ is a
 
 $$
-\Omega^p(M) = C\^\infty\left(\bigwedge^p T^* M\right)
+\omega: T_p M \times \dots \times T_p M \to \RR
 $$
 
 
