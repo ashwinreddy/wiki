@@ -1,5 +1,11 @@
-The **Euler-Lagrange equation** gives extremal paths for a $L(\mathbf{q}, \dot{\mathbf{q}})$.
+The **Euler-Lagrange equation** says that the [[integral]]
 
-\begin{equation}
-\dv{}{t}\left(\pdv{L}{\dot{q}_i}\right) - \pdv{L}{q_i} = 0
-\end{equation}
+$$
+J = \int f(t, y, \dot{y}) \dd{t},
+$$
+
+has stationary value when
+
+$$
+\pdv{f}{y} - \dd{}{t}\left(\pdv{f}{\dot{y}}\right) = 0
+$$
