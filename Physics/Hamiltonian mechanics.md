@@ -3,7 +3,7 @@
 In relation to [[Lagrangian mechanics]],
 
 $$
-H = p\dot{q} - L
+H(q,p) = p\dot{q} - L(q, \dot{q})
 $$
 
 
