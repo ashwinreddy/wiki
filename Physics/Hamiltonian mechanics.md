@@ -1,7 +1,9 @@
-**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. In Hamiltonian mechanics, the equations of motion flow from the Hamiltonian $H : M \to \RR$ where $M$ is the [[configuration space]]. If $x(t) = \begin{bmatrix}q(t) & p(t)\end{bmatrix}^\mathsf{T}$,
+**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. In Hamiltonian mechanics, the equations of motion flow from the Hamiltonian $H : M \to \RR$ where $M$ is the [[configuration space]]. 
+
+In relation to [[Lagrangian mechanics]],
 
 $$
-\dot{x}(t) = \nabla_\omega H(x(t))
+H = p\dot{q} - L
 $$
 
 
@@ -15,9 +17,6 @@ $$
 \dd{H} = \pdv{H}{p}\dd{p} + \pdv{H}{q}\dd{q} + \pdv{H}{t}\dd{t}
 $$
 
-$$
-H(p, q) = p\dot{q} - L.
-$$
 
 \begin{gather}
 \dot{q} = \pdv{H}{p} \\\\
