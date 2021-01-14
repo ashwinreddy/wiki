@@ -4,4 +4,4 @@ $$
 \Phi(\gamma) \triangleq \int_{t_0}^{t_1} L(\dot\gamma) \dd{t}
 $$
 
-The solution is given by the [[Euler-Lagrange equation]].
+The stationary solution is given by the [[Euler-Lagrange equation]].
