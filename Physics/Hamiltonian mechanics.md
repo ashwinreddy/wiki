@@ -1,10 +1,8 @@
-**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. In Hamiltonian mechanics, the equations of motion flow from the Hamiltonian $H : M \to \RR$ where $M$ is the [[configuration space]]. If $x(t) = \langle q(t), p(t) \rangle$,
+**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. In Hamiltonian mechanics, the equations of motion flow from the Hamiltonian $H : M \to \RR$ where $M$ is the [[configuration space]]. If $x(t) = \begin{bmatrix}q(t) & p(t)\end{bmatrix}^\mathsf{T}$,
 
 $$
 \dot{x}(t) = \nabla_\omega H(x(t))
 $$
-
-Matrix $\begin{bmatrix}a & b\end{bmatrix}$
 
 
 # Conceptual Overview
