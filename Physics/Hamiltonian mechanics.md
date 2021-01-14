@@ -1,10 +1,14 @@
-**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. 
+**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. In Hamiltonian mechanics, the equations of motion flow from the Hamiltonian $H : M \to \RR$ where $M$ is the [[configuration space]]. If $x(t) = \langle q(t), p(t) \rangle$,
+
+$$
+\dot{x}(t) = \nabla_\omega H(x(t))
+$$
 
 
 
 # Conceptual Overview
 
-In Hamiltonian mechanics, the equations of motion follow from the Hamiltonian. We need to turn the Hamiltonian into a [[vector field]] $\vec{V}$ such that the dynamics are flows along [[integral curve]] of that field. We know that $\vec{V}$ should depend only on $\dd{H}$ since we only care about local energy changes and that it should depend on $\dd{H}$ linearly since Newton's laws are linear differential equations.
+We need to turn the Hamiltonian into a [[vector field]] $\vec{V}$ such that the dynamics are flows along [[integral curve]] of that field. We know that $\vec{V}$ should depend only on $\dd{H}$ since we only care about local energy changes and that it should depend on $\dd{H}$ linearly since Newton's laws are linear differential equations.
 
 # Equations of Motion
 
