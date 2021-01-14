@@ -14,6 +14,10 @@ The transformation must keep the [[spacetime interval|Spacetime#spacetime interv
 
 The set of transformations forms the [[Lorentz group]].
 
+# Boosts
+
+A Lorentz boost is a rotation in the plane of a space unit vector and a time unit vector.
+
 # Properties
 
 * If we take the [[determinant]] of Equation \ref{eq:lorentz-condition}, $1 = (\det \Lambda)^2 \implies \det \Lambda = \pm 1$.
