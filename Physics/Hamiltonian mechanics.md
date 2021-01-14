@@ -4,6 +4,7 @@ $$
 \dot{x}(t) = \nabla_\omega H(x(t))
 $$
 
+Matrix $\begin{bmatrix}a & b\end{bmatrix}$
 
 
 # Conceptual Overview
