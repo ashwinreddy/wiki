@@ -1,7 +1,7 @@
-A **coordinate system** or **chart** for a [[manifold]] $M$ helps map out part of the manifold (or possibly even all of it) using Cartesian space. Let $U$ be an [[open set]] in $M$. The chart is a region $U$ and a [[homomorphism]] $\varphi$.[^order]
+A **coordinate system** or **chart** maps out an [[open set]] $U$ in a [[manifold]] $M$ using a [[homeomorphism]] to Cartesian space. Let $U$ be an [[open set]] in $M$. [^order]
 
 \begin{align}
-\varphi: M \supset U &\to V \subset \RR^n \\\\\
+\varphi: U &\to V \subset \RR^n \\\\\
 x &\mapsto \begin{bmatrix} \varphi_1(x) \\\\\ \vdots \\\\ \varphi_n(x) \end{bmatrix}
 \end{align}
 
