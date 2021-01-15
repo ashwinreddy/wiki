@@ -1,7 +1,7 @@
 A **coordinate system** or **chart** maps out an [[open set]] $U$ in a [[manifold]] $M$ using a [[homeomorphism]] to Cartesian space. [^order]
 
 \begin{align}
-\varphi: U &\to V \subset \RR^n \\\\\
+\varphi: U &\to V \subseteq \RR^n \\\\\
 x &\mapsto \begin{bmatrix} \varphi_1(x) \\\\\ \vdots \\\\ \varphi_n(x) \end{bmatrix}
 \end{align}
 
