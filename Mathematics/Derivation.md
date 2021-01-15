@@ -4,4 +4,4 @@ $$
 v(fg) = f(p)vg + g(p)vf, \qquad \forall f, g \in C^\infty(M)
 $$
 
-The set of all derivations of $C^\infty(M)$ at $p$ is the [[tangent space]].
+The set of all derivations of $C^\infty(M)$ at $p$ is the [[tangent space]] $T_p M$.
