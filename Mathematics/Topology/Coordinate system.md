@@ -5,6 +5,7 @@ A **coordinate system** or **chart** maps out an [[open set]] $U$ in a [[manifol
 x &\mapsto \begin{bmatrix} \varphi_1(x) \\\\\ \vdots \\\\ \varphi_n(x) \end{bmatrix}
 \end{align}
 
+If $\varphi(p)=0$, the chart is **centered at $p$**.
 
 Coordinate (function)
 : The $k$th coordinate of $\varphi$ is $\varphi_k$.
