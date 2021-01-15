@@ -4,6 +4,8 @@ $$
 T_p\mathcal{M} \triangleq \left \\{\dot\gamma(0) \mid \gamma(0) = p\right\\}.
 $$
 
+The tangent vectors are [[derivation]].
+
 A choice of [[coordinate system]] $\\{x^i\\}_{i=1}^n$ induces a [[basis]] for the tangent space:
 
 \begin{equation}
@@ -18,6 +20,3 @@ $$
 
 The **[[cotangent space]]** is the [[dual vector space]] of the tangent space.
 
-# Formal construction
-
-The tangent space is the set of derivations $X_p: C^\infty(M) \to \mathbb{R}$. In other words, to fashion a tangent space we just need to be able to take derivatives of vectors?
