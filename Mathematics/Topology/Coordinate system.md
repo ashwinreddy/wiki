@@ -1,4 +1,4 @@
-A **coordinate system** or **chart** maps out an [[open set]] $U$ in a [[manifold]] $M$ using a [[homeomorphism]] to Cartesian space. Let $U$ be an [[open set]] in $M$. [^order]
+A **coordinate system** or **chart** maps out an [[open set]] $U$ in a [[manifold]] $M$ using a [[homeomorphism]] to Cartesian space. [^order]
 
 \begin{align}
 \varphi: U &\to V \subset \RR^n \\\\\
