@@ -16,7 +16,7 @@ $$
 \dim T_p \mathcal{M} = \dim \mathcal{M}
 $$
 
-The [[cotangent space]] is the [[dual vector space]] of the tangent space.
+The **[[cotangent space]]** is the [[dual vector space]] of the tangent space.
 
 # Formal construction
 
