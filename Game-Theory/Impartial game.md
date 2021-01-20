@@ -5,3 +5,5 @@ For an impartial, progressively bounded combinatorial game, and $N$ the set of p
 $$
 X = N \cup P.
 $$
+
+Simply put, someone has to be able to force a win.
