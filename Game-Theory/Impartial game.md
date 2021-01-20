@@ -3,5 +3,5 @@ An **impartial game** is a [[combinatorial game]] whose [[set]] of moves is inde
 For an impartial, progressively bounded combinatorial game, and $N$ the set of positions where the next player can guarantee a win and $P$ the set of positions where the other player can guarantee a win, provided they play optimally:
 
 $$
-X = N \cup P
+X = N \cup P.
 $$
