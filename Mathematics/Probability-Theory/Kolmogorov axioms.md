@@ -23,8 +23,10 @@ $$
 
 # Consequences
 
-If $\Omega$ is countable, then
+* If $\Omega$ is countable with each $\omega \in \Omega$ being an event,
 
 $$
 \sum_{\omega \in \Omega} \mathbb{P}(\omega) = 1.
 $$
+
+* $$\mathbb{P}(A^c) = 1 - \mathbb{P}(A)$$
