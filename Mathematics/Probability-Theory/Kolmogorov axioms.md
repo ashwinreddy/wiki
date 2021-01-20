@@ -37,8 +37,11 @@ $$
 
 * $1 \overset{\text{Axiom 2}}{=} \mathbb{P}(\Omega) = \mathbb{P}(A \cup A^c) \overset{\text{Axiom 3}}{=} \mathbb{P}(A) + \mathbb{P}(A^c) \implies \boxed{\mathbb{P}(A^c) = 1 - \mathbb{P}(A)}$
 
-* 
+*  $P(A \cup B) = P(A) + P(B) - P(A \cap B)$
 
-$$
-P(A \cup B) = P(A) + P(B) - P(A \cap B)
-$$
+The proof goes
+
+\begin{align\*}
+P(A \cup B) &= P(A \setminus (A cap B)) + P(B) \\\\
+&= P(A) - P(A \cap B) + P(B)
+\end{align\*}
