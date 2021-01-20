@@ -15,3 +15,5 @@ X = N \cup P.
 $$
 
 Simply put, someone has to be able to force a win.
+
+If a state is $P$, it _must_ lead to a $N$ state. If a state is $N$, then it must lead to at least one winning strategy.
