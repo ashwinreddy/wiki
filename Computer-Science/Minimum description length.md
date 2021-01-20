@@ -2,7 +2,7 @@
 bibliography: "./mathematics/math.bib"
 ---
 
-**Minimum description length (MDL)**  is an information theoretic approach to inductive inference with roots in algorithmic coding theory. It has become one of the most popular means for [[model selection]].
+**Minimum description length (MDL)**  is an information theoretic approach to inductive inference with roots in algorithmic coding theory. It has become one of the most popular means for [[model selection]] [@[@zhang2012model]].
 
 
 casts statistical inference/prediction in terms of information theory and optimal coding. The key idea is that
