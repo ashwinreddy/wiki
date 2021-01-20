@@ -1,1 +1,3 @@
-**EECS 126 - Probability and Random Processes**
+**EECS 126 - Probability and Random Processes**.
+
+* [[Probability space]]
