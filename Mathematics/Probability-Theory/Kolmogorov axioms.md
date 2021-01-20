@@ -5,5 +5,5 @@ The **Kolmogorov axioms**
 The first axiom says that probabilities are non-negative.
 
 $$
-\forall A \in \mathcal{F}, P(A) \geqslant 0
+\forall A \in \mathcal{F}: P(A) \geqslant 0
 $$
