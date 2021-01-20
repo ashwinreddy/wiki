@@ -15,10 +15,16 @@ $$
 \mathbb{P}(\Omega) = 1.
 $$
 
-3. Suppose you have events $A_1, A_2, \dots \in \mathcal{F}$ and they are mutually exclusive, i.e. $A_i \cap A_j = \emptyset$ for $i \neq j$. Then,
+3. Suppose you have countable events $A_1, A_2, \dots \in \mathcal{F}$ and they are mutually exclusive, i.e. $A_i \cap A_j = \emptyset$ for $i \neq j$. Then,
 
 $$
 \mathbb{P}\left(\bigcup_{i \geqslant 1} A_i \right) = \sum_{i \geqslant 1} \mathbb{P}(A_i).
+$$
+
+We say countable because you can imagine sampling a [[real number]] on the interval $[0, 1]$. The real numbers are an uncountable set, but distinct numbers, as samples, are mutually exclusive events. So,
+
+$$
+1 = \mathbb{P}\big ( [0, 1] \big )
 $$
 
 # Consequences
