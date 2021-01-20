@@ -21,3 +21,10 @@ $$
 \mathbb{P}\left(\bigcup_{i \geqslant 1} A_i \right) = \sum_{i \geqslant 1} \mathbb{P}(A_i).
 $$
 
+# Consequences
+
+If $\Omega$ is countable, then
+
+$$
+\sum_{\omega \in \Omega} \mathbb{P}(\omega) = 1.
+$$
