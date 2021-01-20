@@ -11,3 +11,5 @@ Simply put, someone has to be able to force a win.
 # Subtraction
 
 Starting with a pile of $x \in \mathbb{N}$ chips, two players alternate taking 1 to 4 chips. Removing the last chip is a win.
+
+Note that $B(x) = x$ since at least 1 chip is removed each step.
