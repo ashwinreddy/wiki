@@ -15,7 +15,7 @@ $$
 Then, a valid probability measure could have
 
 \begin{align\*}
-P(\\{ \mathsf{Heads} \\}) &= p \\\\
+P \big (\\{ \mathsf{Heads} \\} \big ) &= p \\\\
 P( \\{ \mathsf{Tails} \\} ) &= 1-p \\\\
 P( \emptyset ) &= 0 \\\\
 P( \\{ \mathsf{Heads}, \mathsf{Tails} \\} ) &= 1
