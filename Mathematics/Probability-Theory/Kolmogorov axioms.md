@@ -21,7 +21,7 @@ $$
 \mathbb{P}\left(\bigcup_{i \geqslant 1} A_i \right) = \sum_{i \geqslant 1} \mathbb{P}(A_i).
 $$
 
-We say countable because you can imagine sampling a [[real number]] on the interval $[0, 1]$. The real numbers are an uncountable set, but distinct numbers, as samples, are mutually exclusive events. So,
+We say countable because you can imagine sampling a [[real number]] on the interval $[0, 1]$. The real numbers are an uncountable set, but distinct numbers, as samples, are mutually exclusive events. However, sampling any given number has probability 0. So,
 
 $$
 1 = \mathbb{P}\big ( [0, 1] \big ) \neq \sum_{x \in [0,1 ]} \mathbb{P}\big( \\{x\\} \big) = 0
