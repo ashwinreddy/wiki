@@ -1,4 +1,4 @@
-**EECS 126 - Probability and Random Processes** give us tools to quantify and model uncertainty and randomness, which appear in many applications like
+**EECS 126 - Probability and Random Processes** give us tools to quantify and model uncertainty and randomness (since life is uncertain), which appear in many applications like
 
 * Decision making under uncertainty
 * Communication systems
