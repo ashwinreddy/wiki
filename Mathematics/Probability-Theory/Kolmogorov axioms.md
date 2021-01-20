@@ -43,5 +43,5 @@ The proof goes
 
 \begin{align\*}
 P(A \cup B) &\overset{\text{Axiom 3}}{=} P(A \setminus (A \cap B)) + P(B) \\\\
-&= P(A) - P(A \cap B) + P(B)
+&\overset{\text{Axiom 3}}{=} P(A) - P(A \cap B) + P(B)
 \end{align\*}
