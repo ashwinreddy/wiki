@@ -3,3 +3,7 @@ A **probability space** is a triple $(\Omega, \mathcal{F}, P)$ with $\Omega$ a [
 The elements of $\mathcal{F}$ are called "events." Because $\mathcal{F}$ is a $\sigma$-algebra, the complements, unions, and intersections of events must also be an event.
 
 The probability measure $P: \mathcal{F} \to [0,1]$ assigns probabilities to events.
+
+# Examples
+
+Say you flip a coin. Then $\Omega = \\{ \mathsf{Heads}, \mathsf{Tails} \\}$.
