@@ -7,6 +7,8 @@
 * Faster performance in algorithms
 * AI / ML
 
+Mathematicians ask, given a model, what can you say about the experiments. Statisticians ask, given outcomes of an experiment, what is a good model. Engineers / scientists choose a model to capture a problem we're faced with and analyze it.
+
 # Index
 
 * [[Probability space]]
