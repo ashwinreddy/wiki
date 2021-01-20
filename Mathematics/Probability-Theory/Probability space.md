@@ -27,4 +27,6 @@ Then, a valid probability measure could have
 
 ---
 
-Say you flip two coins. Then $\Omega = \\{ HH, HT, TH, TT \\}$. We could have $$\mathcal{F} = \\{\emptyset, A := \text{First toss heads}, B := \text{First toss tails}, \Omega \\}.$$ Then, $\mathbb{P}(A) = p$ and $\mathbb{P}(B) = 1-p$ is fine.
+Say you flip two coins. Then $\Omega = \\{ HH, HT, TH, TT \\}$. We could have $$\mathcal{F} = \\{\emptyset, A := \text{First toss heads}, B := \text{First toss tails}, \Omega \\}.$$ Then, $\mathbb{P}(A) = p$ and $\mathbb{P}(B) = 1-p$ is fine. 
+
+Or, we could have $P(HH) = pq$, $P(HT) = p(1-q)$, $P(TH) = (1-p)q$, $P(TT) = (1-p)(1-q)$.
