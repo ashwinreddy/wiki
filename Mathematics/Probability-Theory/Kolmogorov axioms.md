@@ -40,3 +40,9 @@ $$
 $$
 1 \overset{\text{Axiom 2}}{=} \mathbb{P}(\Omega) = \mathbb{P}(A \cup A^c) \overset{\text{Axiom 3}}{=} \mathbb{P}(A) + \mathbb{P}(A^c)
 $$
+
+* 
+
+$$
+P(A \cup B) = P(A) + P(B) - P(A \cap B)
+$$
