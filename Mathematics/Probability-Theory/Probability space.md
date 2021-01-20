@@ -6,4 +6,4 @@ The probability measure $P: \mathcal{F} \to [0,1]$ assigns probabilities to even
 
 # Examples
 
-Say you flip a coin. Then $\Omega = \\{ \mathsf{Heads}, \mathsf{Tails} \\}$.
+Say you flip a coin. Then $\Omega = \\{ \mathsf{Heads}, \mathsf{Tails} \\}$, and we can take $\mathcal{F}$ to be the [[power set]] of $\Omega$.
