@@ -1,0 +1,1 @@
+A **partisan game** is a [[combinatorial game]] that is not an [[impartial game]].
