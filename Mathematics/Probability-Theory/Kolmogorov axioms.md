@@ -24,7 +24,7 @@ $$
 We say countable because you can imagine sampling a [[real number]] on the interval $[0, 1]$. The real numbers are an uncountable set, but distinct numbers, as samples, are mutually exclusive events. So,
 
 $$
-1 = \mathbb{P}\big ( [0, 1] \big ) \neq \sum_{x \in [0,1 ]} \mathbb{P}\left( \\{x\\} \right) = 0
+1 = \mathbb{P}\big ( [0, 1] \big ) \neq \sum_{x \in [0,1 ]} \mathbb{P}\big( \\{x\\} \big) = 0
 $$
 
 # Consequences
