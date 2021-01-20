@@ -1,4 +1,4 @@
-The **Kolmogorov axioms** are the bedrock for [[probability theory]]
+The **Kolmogorov axioms** constrain a [[probability space]].
 
 # First axiom
 
