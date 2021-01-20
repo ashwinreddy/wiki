@@ -1,1 +1,1 @@
-A **$\sigma$-algebra** for a [[set]] $X$ is a collection of [[subsets|subset]] of $X$ that includes the [[empty set]] and $X$ itself and is closed under complement and countable unions and [[intersection]].
+A **$\sigma$-algebra** for a [[set]] $X$ is a collection of [[subsets|subset]] of $X$ that includes the [[empty set]] and $X$ itself and is closed under [[set complement]] and countable [[union]] and [[intersection]].
