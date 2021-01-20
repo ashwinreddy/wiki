@@ -35,11 +35,7 @@ $$
 \sum_{\omega \in \Omega} \mathbb{P}(\omega) = 1.
 $$
 
-* $$\mathbb{P}(A^c) = 1 - \mathbb{P}(A)$$
- 
-$$
-1 \overset{\text{Axiom 2}}{=} \mathbb{P}(\Omega) = \mathbb{P}(A \cup A^c) \overset{\text{Axiom 3}}{=} \mathbb{P}(A) + \mathbb{P}(A^c)
-$$
+* $1 \overset{\text{Axiom 2}}{=} \mathbb{P}(\Omega) = \mathbb{P}(A \cup A^c) \overset{\text{Axiom 3}}{=} \mathbb{P}(A) + \mathbb{P}(A^c) \implies \boxed{\mathbb{P}(A^c) = 1 - \mathbb{P}(A)}$
 
 * 
 
