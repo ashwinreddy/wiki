@@ -4,6 +4,10 @@ The elements of $\mathcal{F}$ are called "events." Because $\mathcal{F}$ is a $\
 
 The probability measure $\mathbb{P}: \mathcal{F} \to [0,1]$ assigns probabilities to events.
 
+# Sample Space Choice
+
+There's flexibility in our choice of $\Omega$ and $\mathcal{F}$. For a coin flip, $\Omega$ could be the configuration space of atoms in the universe. In general, we should just pick the simplest choice with high enough resolution for the problem at hand.
+
 # Examples
 
 Say you flip a coin. Then $\Omega = \\{ \mathsf{Heads}, \mathsf{Tails} \\}$, and we can take $\mathcal{F}$ to be the [[power set]] of $\Omega$:
