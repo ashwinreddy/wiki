@@ -2,7 +2,7 @@ A **probability space** is a triple $(\Omega, \mathcal{F}, \mathbb{P})$ with $\O
 
 The elements of $\mathcal{F}$ are called "events." Because $\mathcal{F}$ is a $\sigma$-algebra, the complements, unions, and intersections of events must also be an event.
 
-The probability measure $P: \mathcal{F} \to [0,1]$ assigns probabilities to events.
+The probability measure $\mathbb{P}: \mathcal{F} \to [0,1]$ assigns probabilities to events.
 
 # Examples
 
@@ -15,8 +15,8 @@ $$
 Then, a valid probability measure could have
 
 \begin{align\*}
-P \big (\\{ \mathsf{Heads} \\} \big ) &= p \\\\
-P \big( \\{ \mathsf{Tails} \\} \big) &= 1-p \\\\
-P \big( \emptyset \big) &= 0 \\\\
-P \big( \\{ \mathsf{Heads}, \mathsf{Tails} \\} \big) &= 1
+\mathbb{P} \big (\\{ \mathsf{Heads} \\} \big ) &= p \\\\
+\mathbb{P} \big( \\{ \mathsf{Tails} \\} \big) &= 1-p \\\\
+\mathbb{P} \big( \emptyset \big) &= 0 \\\\
+\mathbb{P} \big( \\{ \mathsf{Heads}, \mathsf{Tails} \\} \big) &= 1
 \end{align\*}
