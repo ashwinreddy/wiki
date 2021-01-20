@@ -30,3 +30,7 @@ $$
 $$
 
 * $$\mathbb{P}(A^c) = 1 - \mathbb{P}(A)$$
+ 
+$$
+1 = \mathbb{P}(\Omega) = \mathbb{P}(A \cup A^c) = \mathbb{P}(A) + \mathbb{P}(A^c)
+$$
