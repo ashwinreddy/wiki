@@ -1,1 +1,2 @@
-A **probability space** is a triple $(\Omega, \mathcal{F}, P)$ with $\Omega$ a [[sample space]], $\mathcal{F}$ a suitable [[σ-algebra]], and $P$ a [[probability measure]]. They must satisfy the [[Kolmogorov axioms]]
+A **probability space** is a triple $(\Omega, \mathcal{F}, P)$ with $\Omega$ a [[sample space]], $\mathcal{F}$ a suitable [[σ-algebra]], and $P$ a [[probability measure]]. They must satisfy the [[Kolmogorov axioms]].
+
