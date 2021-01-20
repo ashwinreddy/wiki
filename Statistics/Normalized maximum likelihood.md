@@ -12,3 +12,4 @@ $$
 2. When it comes to evaluate/use your model, do the following.
     1. Append the point with one of the labels, and then do more training steps. Then, record the probability.
     2. Repeat for every other label it could be. Now you have a set of unnormalized probabilities.
+
