@@ -9,5 +9,14 @@ The probability measure $P: \mathcal{F} \to [0,1]$ assigns probabilities to even
 Say you flip a coin. Then $\Omega = \\{ \mathsf{Heads}, \mathsf{Tails} \\}$, and we can take $\mathcal{F}$ to be the [[power set]] of $\Omega$:
 
 $$
-\mathcal{F} = \big \\{ \emptyset, \\{\mathsf{Heads}\\}, \\{\mathsf{Tails}\\}, \\{ \mathsf{Heads}, \mathsf{Tails} \\} \big \\}
+\mathcal{F} = \big \\{ \emptyset, \\{\mathsf{Heads}\\}, \\{\mathsf{Tails}\\}, \\{ \mathsf{Heads}, \mathsf{Tails} \\} \big \\}.
 $$
+
+Then, a valid probability measure could have
+
+\begin{align*}
+P(\\{ \mathsf{Heads} \\}) &= p \\\\
+P( \\{ \mathsf{Tails} \\} ) &= 1-p \\\\
+P( \emptyset ) = 0 \\\\
+P( \\{ \mathsf{Heads}, \mathsf{Tails} \\} ) = 1
+\end{align*}
