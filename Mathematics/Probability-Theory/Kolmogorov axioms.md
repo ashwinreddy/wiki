@@ -35,9 +35,9 @@ $$
 1 = \mathbb{P}(\Omega) = \mathbb{P}(A \cup A^c) = \mathbb{P}(A) + \mathbb{P}(A^c)
 $$
 
-\begin{displaymath}
+$$
   T=\sum_{
     \mathclap{\substack{i_1,\ldots,i_n=1 \ j_1,\ldots,j_m=1}}}^d
     T_{j_1,\ldots,j_m}^{i_1,\ldots,i_n}
     E_{i_1,\ldots,i_n}^{j_1,\ldots,j_m}
-\end{displaymath}
+$$
