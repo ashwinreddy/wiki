@@ -1,0 +1,1 @@
+A **combinatorial game** has 2 players, a [[set]] of positions, a subset of positions called terminal sets that indicate a win for a player, and legal moves from each player and position.
