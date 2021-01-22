@@ -6,3 +6,7 @@
 * aesthetics
 
 > I coalesce the vapor of human experience into a viable and logical comprehension.
+
+# Resources
+
+[[https://www.reddit.com/r/philosophy/wiki/readinglist]]
