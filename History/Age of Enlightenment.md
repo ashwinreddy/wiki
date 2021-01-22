@@ -1,0 +1,1 @@
+The **Enlightenment** mostly took place in Europe in the 18th century.
