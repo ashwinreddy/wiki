@@ -1,4 +1,10 @@
-The **Lorentz factor** tells you how much many seconds pass for a runner when his coach measures one second on his stopwatch. This factor depends on one measurement only: the runner's [[speed]] as a fraction of the speed of light. Therefore, it is natural to define the quantity
+The **Lorentz factor** $\gamma$ tells us the instantaneous ratio of coordinate time $t$ to [[proper time]] $\tau$:
+
+$$
+\gamma = \dv{t}{\tau}
+$$
+
+It tells you how much many seconds pass for a runner when his coach measures one second on his stopwatch. This factor depends on one measurement only: the runner's [[speed]] as a fraction of the speed of light. Therefore, it is natural to define the quantity
 
 \begin{equation}
 \beta \doteq \frac{v}{c}
