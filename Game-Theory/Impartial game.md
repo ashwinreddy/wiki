@@ -18,7 +18,7 @@ Assume that if you start from a terminal position, you lose.
 
 # Theorem
 
-For an impartial, progressively bounded combinatorial game,
+For an impartial, progressively bounded combinatorial game, let $\mathscr{N}$ and $\mathscr{P}$ be the set of next and previous states.
 
 $$
 X = \mathscr{N} \cup \mathscr{P}.
