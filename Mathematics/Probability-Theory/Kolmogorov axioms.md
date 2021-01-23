@@ -18,6 +18,8 @@ $$
 \mathbb{P}(\Omega) = 1.
 $$
 
+## Axiom 3
+
 3. Suppose you have countable events $A_1, A_2, \dots \in \mathcal{F}$ and they are mutually exclusive, i.e. $A_i \cap A_j = \emptyset$ for $i \neq j$. Then,
 
 $$
