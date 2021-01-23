@@ -8,4 +8,4 @@ We say $A$ and $B$  are conditionally independent given $C$.
 
 # Example
 
-Let $A$ be the event of a random person being lactose intolerant and $B$ is the event that he is shorter than average. A famous study showed that $\mathbb{P}(A \mid B) \ggt \mathbb{P}(A)$
+Let $A$ be the event of a random person being lactose intolerant and $B$ is the event that he is shorter than average. A famous study showed that $\mathbb{P}(A \mid B) \gg \mathbb{P}(A)$
