@@ -10,3 +10,5 @@ The **law of total probability**
 &= \mathbb{P}\left(\bigcup_{i \geqslant 1} B \cap A_i \right) \\\\
 &\overset{\text{Axiom 3}}{=} \sum_{i \geqslant 1} \mathbb{P}(B \cap A_i)
 \end{align\*}
+
+The last step uses [[Kolmogorov axioms]]
