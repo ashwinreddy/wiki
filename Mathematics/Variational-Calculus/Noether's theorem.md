@@ -19,10 +19,10 @@ $$
 constrained by the conditions $f_j(\mathbf{x}) = 0$. We assume that the system admits translations along the $\mathbf{e}_1$ axis:
 
 $$
-h^s(\mathbf{x}_i) = \mathbf{x}_i + s \mathbf{e}_1, \quad \forall i
+\forall i, h^s(\mathbf{x}_i) = \mathbf{x}_i + s \mathbf{e}_1
 $$
 
-
+In other words, the constraints admit motions of the system as a whole along the $\mathbf{e}_1$ axis, and the potential energy does not change under these.
 
 # Symmetries
 
