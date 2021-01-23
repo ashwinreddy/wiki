@@ -2,10 +2,10 @@ A **vector field** is a [[tensor field]] that assigns a [[tangent vector]] to ea
 
 [[https://www.whitman.edu/mathematics/calculus_online/images/vfield.png|align=center,width=200px]]
 
-A vector field $V$ on $\RR^n$ can be written as
+A vector field $\vec{V}$ on $\RR^n$ can be written as
 
 $$
-V = \sum_{i=1}^n v_i \pdv{}{x_i}
+\vec{V} = \sum_{i=1}^n v_i \pdv{}{x_i}
 $$
 
 # Formal Construction
