@@ -1,1 +1,1 @@
-**Spinozim** claims that God is a single substance of both matter and thought.
+**Spinozim** claims that God is a single substance of both matter and thought and infinite attributes.
