@@ -1,6 +1,6 @@
 [[Maxwell's equations]] [[Electric field]]
 
-The [[Lorentz force]]
+
 
 
 \begin{equation}
