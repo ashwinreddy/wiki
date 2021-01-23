@@ -1,4 +1,4 @@
-**Conditional probability** is the probability of an event occuring given that another event is true.
+The **conditional probability** of an event $A$ given event $B$ with $\Pr(B) > 0$ is 
 
 $$
 \Pr(A \mid B) \triangleq \frac{\Pr(A \cap B)}{\Pr(B)}
