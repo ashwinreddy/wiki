@@ -37,5 +37,6 @@ X &= \bigcup_{i} \chi_i
 Thus, it will suffice to show that $\chi_i = \rho_i \cap \eta_i$. To see that,
 
 \begin{align}
-\bigcup_i \chi_i = \bigcup_i \left( \rho_i \cup \eta_i \right)
+\bigcup_i \chi_i &= \bigcup_i \left( \rho_i \cup \eta_i \right) \\\\
+&= \bigcup_i \rho_i \cup \bigcup_i \eta_i
 \end{align}
