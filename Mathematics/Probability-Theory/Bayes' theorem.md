@@ -30,12 +30,10 @@ $$
 \Pr(\text{Evidence}) = \sum_{h \in \text{Hypothesis}} \Pr(\text{Evidence}\mid h) \Pr(h)
 $$
 
-# Derivation
-
-Just notice that
+# Proof
 
 $$
-p(a \mid b)p(b) = p(b \mid a)p(a)
+\frac{\mathbb{P}(B \mid A) \mathbb{P}(A)}{\mathbb{P}(B)} = \frac{\mathbb{P}(A \cap B)}{\mathbb{P}(A)} \frac{\cancel{\mathbb{P}(A)}}{\mathbb{P}(B)}
 $$
 
 # Resources
