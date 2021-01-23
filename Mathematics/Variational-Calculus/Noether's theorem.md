@@ -10,19 +10,7 @@ The presentation in @vogtmann2013mathematical says:
 
 # Examples
 
-Consider a system of point masses with masses $m_i$:
-
-$$
-L = \sum m_i \frac{\mathbf{x_i}^2}{2} - U(\mathbf{x}), \qquad \mathbf{x}_i = x\_{i1}\mathbf{e}_1 + x\_{i2}\mathbf{e}_2 + x\_{i3}\mathbf{e}_3
-$$
-
-constrained by the conditions $f_j(\mathbf{x}) = 0$. We assume that the system admits translations along the $\mathbf{e}_1$ axis:
-
-$$
-\forall i:\quad h^s(\mathbf{x}_i) = \mathbf{x}_i + s \mathbf{e}_1
-$$
-
-In other words, the constraints admit motions of the system as a whole along the $\mathbf{e}_1$ axis, and the potential energy does not change under these.
+> Consider a system of point masses with masses $m_i$: $$L = \sum m_i \frac{\mathbf{x_i}^2}{2} - U(\mathbf{x}), \qquad \mathbf{x}_i = x\_{i1}\mathbf{e}_1 + x\_{i2}\mathbf{e}_2 + x\_{i3}\mathbf{e}_3,$$ constrained by the conditions $f_j(\mathbf{x}) = 0$. We assume that the system admits translations along the $\mathbf{e}_1$ axis: $$\forall i:\quad h^s(\mathbf{x}_i) = \mathbf{x}_i + s \mathbf{e}_1.$$ In other words, the constraints admit motions of the system as a whole along the $\mathbf{e}_1$ axis, and the potential energy does not change under these.
 
 # Symmetries
 
