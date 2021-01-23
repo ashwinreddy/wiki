@@ -33,7 +33,7 @@ $$
 # Proof
 
 $$
-\frac{\mathbb{P}(B \mid A) \mathbb{P}(A)}{\mathbb{P}(B)} = \frac{\mathbb{P}(A \cap B)}{\mathbb{P}(A)} \frac{\cancel{\mathbb{P}(A)}}{\mathbb{P}(B)}
+\frac{\mathbb{P}(B \mid A) \mathbb{P}(A)}{\mathbb{P}(B)} = \frac{\mathbb{P}(A \cap B)}{\cancel{\mathbb{P}(A)}} \frac{\cancel{\mathbb{P}(A)}}{\mathbb{P}(B)}
 $$
 
 # Resources
