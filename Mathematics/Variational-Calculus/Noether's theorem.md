@@ -17,3 +17,4 @@ The presentation in @vogtmann2013mathematical says:
 |Space translation|Momentum|
 |Rotation|Angular momentum|
 
+---
