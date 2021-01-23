@@ -1,5 +1,5 @@
 **Independence** means [[event]] $A$ and $B$ have no bearing on each other.
 
 $$
-\Pr(A \cap B) = \Pr(A)\Pr(B)
+\mathbb{P}(A \cap B) = \mathbb{P}(A)\mathbb{P}(B)
 $$
