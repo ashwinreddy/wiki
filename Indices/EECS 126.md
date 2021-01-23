@@ -17,3 +17,4 @@ Mathematicians ask, given a model, what can you say about the experiments. Stati
 * [[Conditional probability]]
 * [[Chain rule]]
 * [[Birthday paradox]]
+* [[Independence]]
