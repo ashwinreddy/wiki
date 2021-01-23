@@ -3,3 +3,5 @@
 $$
 \mathbb{P}(A \cap B) = \mathbb{P}(A)\mathbb{P}(B)
 $$
+
+<<Warn("This does not mean $A \cap B = \emptyset$ ")>>
