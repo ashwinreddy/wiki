@@ -2,3 +2,5 @@
 
 * [[Combinatorial game]]
 * [[Impartial game]] / [[Partisan game]]
+* [[Normal play convention]]
+* [[Strategy]]
