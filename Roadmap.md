@@ -12,21 +12,15 @@ Here are some of the topics I'd like to develop further:
 * What do socialism, neoliberalism, etc. actually mean?
 * What were Marx's criticisms of capitalism?
 * Develop general understanding of AI (e.g. DeepMind's AtHomeWithAI Curated Resource List)
-* How do differential forms work?
-* What are some of the cool applications of information theory?
 * What is the philosophy of science?
 * What are the basic ideas of music theory? Can I approach it from a mathematical background?
 * Computational music synthesis by Sean Luke, George Mason Uni
 * What structures do we actually need for the cool generalizations in Riemannian geometry?
 * Is it worth exploring the mathematics of robotic manipulation (Murray, Li, Sastry) ? 
-* What are tensors?
 * What is semiotics?
-* What is differential geometry?
 * What do Noether's theorems say?
 * What are the basic ideas in economics?
-* What is Lie theory? What can you do with it?
 * Can you understand optimal transport without heavy math?
-* How do quaternions work?
 * What is the math of special relativity?
 * What is Bayesian data analysis/statistics?
 * How do we get to generalized Stoke's theorem?
@@ -41,7 +35,7 @@ Here are some of the topics I'd like to develop further:
 * lie groups and algebra
 * tensors
 * analytic mechanics
-* differential forms
+* differential forms / geometry
 * info theory
 * rep theory
 * quaternions
