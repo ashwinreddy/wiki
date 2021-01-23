@@ -34,4 +34,8 @@ N &= \bigcup_{i} \eta_i \\\\
 X &= \bigcup_{i} \chi_i
 \end{align\*}
 
-Thus, it will suffice to show that $\chi_i = \rho_i \cap \eta_i$.
+Thus, it will suffice to show that $\chi_i = \rho_i \cap \eta_i$. To see that,
+
+\begin{align}
+\bigcup_i \chi_i = \bigcup_i \left( \rho_i \cup \eta_i \right)
+\end{align}
