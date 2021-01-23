@@ -14,7 +14,7 @@ Then,
 &= \prod_{i=1}^n \left( 1 - \frac{\left(i-1\right)}{365} \right) \\\\
 & \lesssim \prod_{i=1}^n e^{-(i-1)/365} \\\\
 &= e^{- \sum_{i=1}^n (i-1) / 365 } \\\\
-&= e^{- \binom{n}{2} }
+&= e^{- \binom{n}{2} / 365}
 \end{align\*}
 
 We assume every birthday is equiprobable. The sample space has size $365^n$ since each person can have any birthday. But we are only in the permutations of the 365 will we have _different_ birthdays for everyone. The complement of our event is
