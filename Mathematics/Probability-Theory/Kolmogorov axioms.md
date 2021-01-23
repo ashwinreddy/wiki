@@ -2,12 +2,15 @@ The **Kolmogorov axioms** constrain a [[probability space]].
 
 # Axioms
 
+## Axiom 1
 
 1. Probabilities are non-negative.
 
 $$
 \forall A \in \mathcal{F}: \mathbb{P}(A) \geqslant 0.
 $$
+
+## Axiom 2
 
 2. Probabilities sum to unity.
 
