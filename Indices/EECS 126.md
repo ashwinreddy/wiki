@@ -15,3 +15,5 @@ Mathematicians ask, given a model, what can you say about the experiments. Stati
 * [[Kolmogorov axioms]]
 * [[Law of total probability]]
 * [[Conditional probability]]
+* [[Chain rule]]
+* [[Birthday paradox]]
