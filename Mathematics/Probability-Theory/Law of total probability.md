@@ -8,5 +8,5 @@ The **law of total probability**
 \mathbb{P}(B) &= \mathbb{P}(B \cap \Omega) \\\\
 &= \mathbb{P}\left(B \cap \bigcup_{i \geqslant 1} A_i \right) \\\\
 &= \mathbb{P}\left(\bigcup_{i \geqslant 1} B \cap A_i \right) \\\\
-&= \sum_{i \geqslant 1} \mathbb{P}(B \cap A_i)
+&\overset{\text{Axiom 3}}{=} \sum_{i \geqslant 1} \mathbb{P}(B \cap A_i)
 \end{align\*}
