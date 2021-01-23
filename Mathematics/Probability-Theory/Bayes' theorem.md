@@ -1,6 +1,6 @@
 **Bayes' theorem**.
 
-> If events $A$ and $B$ have positive probability, then $$\mathbb{P}(A \mid B) = \frac{ \mathbb{P}(B \mid A)\mathbb{P}(A) }{\mathbb{P}(B)}$$
+> If events $A$ and $B$ have positive probability, then $$\mathbb{P}(A \mid B) = \frac{ \Pr{P}(B \mid A)\Pr{P}(A) }{\mathbb{P}(B)}$$
 
 
 is an elementary and very handy tool in computing a [[conditional probability]].
