@@ -26,12 +26,12 @@ X = N \cup P.
 
 ## Proof
 
-Let $\rho_i$ and $\eta_i$ be the set of $P$ and $N$ states respectively such that starting from there, the game ends in at most $i$ steps. If $x_i$ is defined similarly, then
+Let $\rho_i$ and $\eta_i$ be the set of $P$ and $N$ states respectively such that starting from there, the game ends in at most $i$ steps. If $\chi_i$ is defined similarly, then
 
 \begin{align\*}
 P &= \bigcup_{i} \rho_i \\\\
 N &= \bigcup_{i} \eta_i \\\\
-X &= \bigcup_{i} x_i
+X &= \bigcup_{i} \chi_i
 \end{align\*}
 
-Thus, it will suffice to show that $x_i = \rho_i \cap \eta_i$.
+Thus, it will suffice to show that $\chi_i = \rho_i \cap \eta_i$.
