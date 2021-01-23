@@ -16,6 +16,14 @@ $$
 L = \sum m_i \frac{\mathbf{x_i}^2}{2} - U(\mathbf{x}), \qquad \mathbf{x}_i = x\_{i1}\mathbf{e}_1 + x\_{i2}\mathbf{e}_2 + x\_{i3}\mathbf{e}_3
 $$
 
+constrained by the conditions $f_j(\mathbf{x}) = 0$. We assume that the system admits translations along the $\mathbf{e}_1$ axis:
+
+$$
+h^s(\mathbf{x}_i) = \mathbf{x}_i + s \mathbf{e}_1, \quad \forall i
+$$
+
+
+
 # Symmetries
 
 |Translation Symmetry|Conservation Law|
