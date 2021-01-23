@@ -43,7 +43,7 @@ X &= \bigcup_i \chi_i \\\\
 &= \rho \cup \eta
 \end{align}
 
-Note that $\rho_0 = \rho_1$ consists of all terminal states. On the other hand, $\eta_0 = \emptset$ and $\eta_1$ is the set of all states that lead to the terminal state in at most 1 step.
+Note that $\rho_0 = \rho_1$ consists of all terminal states. On the other hand, $\eta_0 = \emptyset$ and $\eta_1$ is the set of all states that lead to the terminal state in at most 1 step.
 
 <<Warn("There's a good counterexample in your Stat 155 Notability notes.")>>
 
