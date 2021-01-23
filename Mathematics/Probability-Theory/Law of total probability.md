@@ -2,6 +2,12 @@ The **law of total probability** provides a way to compute the probability of an
 
 > Suppose disjoint events $A_1, A_2, \dots$ partition $\Omega$. Then, for any event B, $$\mathbb{P}(B) = \sum_{i \geqslant 1} \mathbb{P}(B \cap A_i).$$
 
+The events must satisfy
+
+$$
+\bigcup_{i \geqslant 1} A_i = \Omega
+$$
+
 # Proof
 
 \begin{align\*}
