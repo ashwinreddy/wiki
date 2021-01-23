@@ -1,7 +1,3 @@
-[[Maxwell's equations]] [[Electric field]]
-
-
-
 
 \begin{equation}
 \boxed{
@@ -11,3 +7,8 @@
 U \@<\times q<< V
 \end{CD}}
 \end{equation}
+
+[[Maxwell's equations]] [[Electric field]]
+
+
+
