@@ -47,4 +47,4 @@ Note that $\rho_0 = \rho_1$ consists of all terminal states. On the other hand, 
 
 <<Warn("There's a good counterexample in your Stat 155 Notability notes.")>>
 
-Now, we can use induction since we clearly have $\chi_0 = \rho_0 \cup \eta_0$.
+Now, we can use induction since we clearly have $\chi_0 = \rho_0 \cup \eta_0$. Now we have to show that $\chi_i = \rho_i \cup \eta_i \implies \chi_{i+1} = \rho_{i+1} \cup \eta_{i + 1}$.
