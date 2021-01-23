@@ -8,6 +8,11 @@ $$
 \bigcup_{i \geqslant 1} A_i = \Omega
 $$
 
+If $\mathbb{P}(A_i) > 0$ for all $i$, then the law of total probability says
+
+$$
+\mathbb{P}(B) = \sum_{i \geqslant 1} \mathbb{P}(B \mid A_i) \mathbb{P}(A_i)
+$$
 
 
 # Proof
