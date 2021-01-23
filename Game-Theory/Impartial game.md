@@ -26,4 +26,9 @@ X = \mathscr{N} \cup \mathscr{P}.
 
 ## Proof
 
-Let $\rho_i$ and $\eta_i$ be the set of 
+Let $\rho_i$ and $\eta_i$ be the set of $P$ and $N$ states respectively such that starting from there, the game ends in at most $i$ steps. Then,
+
+\begin{align\*}
+P &= \bigcup_{i} \rho_i \\\\
+N &= \bigcup_{i} \eta_i
+\end{align\*}
