@@ -13,7 +13,7 @@ The presentation in @vogtmann2013mathematical says:
 Consider a system of point masses with masses $m_i$:
 
 $$
-L = \sum m_i \frac{\mathbf{x_i}^2}{2} - U(\mathbf{x}), \qquad \mathbf{x}_i = x_{i1}\mathbf{e}_1 + x_{i2}\mathbf{e}_2 + x_{i3}\mathbf{e}_3
+L = \sum m_i \frac{\mathbf{x_i}^2}{2} - U(\mathbf{x}), \qquad \mathbf{x}_i = x\_{i1}\mathbf{e}_1 + x_{i2}\mathbf{e}_2 + x_{i3}\mathbf{e}_3
 $$
 
 # Symmetries
