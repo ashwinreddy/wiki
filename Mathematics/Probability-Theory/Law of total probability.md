@@ -6,5 +6,5 @@ The **law of total probability**
 
 \begin{align\*}
 \mathbb{P}(B) &= \mathbb{P}(B \cap \Omega) \\\\
-&= \mathbb{P}(B \cap \bigcup_{i \geqslant 1} A_i )
+&= \mathbb{P}\left(B \cap \bigcup_{i \geqslant 1} A_i \right)
 \end{align\*}
