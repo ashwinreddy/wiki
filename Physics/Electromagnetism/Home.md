@@ -1,4 +1,3 @@
-
 \begin{equation}
 \boxed{
 \begin{CD}
@@ -8,7 +7,7 @@ U \@<\times q<< V
 \end{CD}}
 \end{equation}
 
-[[Maxwell's equations]] [[Electric field]]
+[[Maxwell's equations]] relate [[Electric field]] and [[magnetic field]] along with [[Lorentz force]]
 
 
 
