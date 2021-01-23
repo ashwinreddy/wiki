@@ -49,6 +49,6 @@ Note that $\rho_0 = \rho_1$ consists of all terminal states. On the other hand, 
 
 Now, we can use induction since we clearly have $\chi_0 = \rho_0 \cup \eta_0$. Let's take $x \in X_i \setminus X_{i-1}$, meaning it takes exactly $i$ steps. We want to show that $x \in \rho_i$ or $x \in \eta_i$. To figure this out, we'll have to look at its neighbors, which we'll label $y_j$. But each of these $y_j \in X_{i-1}$. There are two cases, and both fit what we want:
 
-1. $\forall j: y_j \in \eta_{i-1} \implies x \in \rho_i$.
-2. $\exists j: y_j \in \rho_{i-1} \implies x \in \eta_i$.
+1. $\forall j: y_j \in \eta_{i-1} \implies x \in \rho_i$. Every neighbor is an N state, so this one is a P state.
+2. $\exists j: y_j \in \rho_{i-1} \implies x \in \eta_i$. One neighbor is a P state, so this is an N state.
 
