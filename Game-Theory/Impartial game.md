@@ -20,10 +20,10 @@ Assume that if you start from a terminal position, you lose.
 
 For an impartial, progressively bounded combinatorial game, let $\mathscr{N}$ and $\mathscr{P}$ be the set of next and previous states.
 
-$$
+\begin{equation}
 X = \mathscr{N} \cup \mathscr{P}.
-$$
+\end{equation}
 
-Simply put, someone has to be able to force a win.
+## Proof
 
-If a state is $P$, it _must_ lead to a $N$ state. If a state is $N$, then it must lead to at least one winning strategy.
+Let $\rho_i$ and $\eta_i$ be the set of 
