@@ -6,4 +6,10 @@ $$
 
 <<Warn("This does not mean the events are disjoint: $A \cap B = \emptyset$.")>>
 
-If $\mathbb{P}(B) > 0$, then $A$ and $B$ are independent iff $\mathbb{P}(A \mid B) = \mathbb{P}(A)$.
+If $\mathbb{P}(B) > 0$, then $A$ and $B$ are independent iff $\mathbb{P}(A \mid B) = \mathbb{P}(A)$, which means knowing $B$ gives no information about $B$.
+
+In general, events $A_1, A_2, \dots$ are independent if 
+
+$$
+\mathbb{P}\left( \bigcap_{i \in S} A_i \right) = \prod_{i \in S} \mathbb{P}(A_i)
+$$
