@@ -1,1 +1,3 @@
-The **subtraction game**.
+The **subtraction game**. Starting with a pile of $x \in \mathbb{N}$ chips, two players alternate taking 1 to 4 chips. Removing the last chip is a win. Note that $B(x) = x$ since at least 1 chip is removed each step.
+
+Suppose there are 5 chips. Then, player A cannot take the last chip, no matter what they do. Player B is guaranteed to win. If there are 6 chips, then player A can force a win by just taking 1 chip.
