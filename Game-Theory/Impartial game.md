@@ -18,10 +18,10 @@ Assume that if you start from a terminal position, you lose.
 
 # Theorem
 
-Suppose we're playing an impartial, progressively bounded combinatorial game. Let $N$ be the set of positions where the next player (the player who arrives at this state) can guarantee a win and $P$ the set of positions where the other player can guarantee a win, provided they play optimally:
+For an impartial, progressively bounded combinatorial game,
 
 $$
-X = N \cup P.
+X = \mathcal{N} \cup \mathcal{P}.
 $$
 
 Simply put, someone has to be able to force a win.
