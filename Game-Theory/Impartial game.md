@@ -21,7 +21,7 @@ Assume that if you start from a terminal position, you lose.
 For an impartial, progressively bounded combinatorial game,
 
 $$
-X = \mathcal{N} \cup \mathcal{P}.
+X = \mathscr{N} \cup \mathcscr{P}.
 $$
 
 Simply put, someone has to be able to force a win.
