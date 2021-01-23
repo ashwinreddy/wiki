@@ -1,0 +1,1 @@
+A **strategy** for a [[combinatorial game]] is a map from positions to arrows incident on that position.
