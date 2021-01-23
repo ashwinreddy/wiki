@@ -18,17 +18,20 @@ Assume that if you start from a terminal position, you lose.
 
 # Theorem
 
-For an impartial, progressively bounded combinatorial game, let $\mathscr{N}$ and $\mathscr{P}$ be the set of next and previous states.
+For an impartial, progressively bounded combinatorial game, let $N$ and $P$ be the set of next and previous states.
 
 \begin{equation}
-X = \mathscr{N} \cup \mathscr{P}.
+X = N \cup P.
 \end{equation}
 
 ## Proof
 
-Let $\rho_i$ and $\eta_i$ be the set of $P$ and $N$ states respectively such that starting from there, the game ends in at most $i$ steps. Then,
+Let $\rho_i$ and $\eta_i$ be the set of $P$ and $N$ states respectively such that starting from there, the game ends in at most $i$ steps. If $x_i$ is defined similarly, then
 
 \begin{align\*}
 P &= \bigcup_{i} \rho_i \\\\
-N &= \bigcup_{i} \eta_i
+N &= \bigcup_{i} \eta_i \\\\
+X &= \bigcup_{i} x_i
 \end{align\*}
+
+Thus, it will suffice to show that $x_i = \rho_i \cap \eta_i$.
