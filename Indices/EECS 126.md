@@ -13,3 +13,4 @@ Mathematicians ask, given a model, what can you say about the experiments. Stati
 
 * [[Probability space]]
 * [[Kolmogorov axioms]]
+* [[Law of total probability]]
