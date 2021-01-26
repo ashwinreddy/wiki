@@ -1,0 +1,1 @@
+**Coupling** is a proof technique for comparing two [[random variable|random variables]] $X$ and $Y$
