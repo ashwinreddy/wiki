@@ -4,4 +4,8 @@ $$
 u(t) \equiv \begin{cases} 0 & t < 0 \\\\ 1 & t \geqslant 0 \end{cases}
 $$
 
-We could also have $u[n]$ for discrete input.
+The discrete version is the same.
+
+$$
+u[n] \equiv \begin{cases} 0 & t < 0 \\\\ 1 & t \geqslant 0 \end{cases}
+$$
