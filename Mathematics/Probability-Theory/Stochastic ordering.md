@@ -1,1 +1,1 @@
-**Stochastic ordering**. [[Random variable]] $X$ is _stochastically smaller_ than $Y$ (perhaps written $X \succ Y$)
+**Stochastic ordering**. [[Random variable]] $X$ is _stochastically smaller_ than $Y$ (perhaps written $X \prec Y$)
