@@ -1,4 +1,4 @@
-**Coupling** is a [[proof]] technique for comparing two [[random variables|random variable]] $X$ and $Y$. 
+**Coupling** is a [[proof]] technique for comparing two [[random variables|random variable]] $X$ and $Y$ where you pick suitable $Z_1$ and $Z_2$ s.t. $Z_1$ has the same distribution as $X$ and $Z_2$ has the same distribution as $Y$, but $Z_1$ and $Z_2$ are dependent (thus, coupling). 
 
 # Examples
 
