@@ -5,3 +5,5 @@ $$
 $$
 
 That is, $X$ is less likely to bigger than $Y$.
+
+**Lemma**. A random variable $X$ is stochastically smaller than $Y$ iff there exists a [[coupling]] $(\tilde{X})$
