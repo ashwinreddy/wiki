@@ -1,1 +1,1 @@
-**Coupling** is a proof technique for comparing two [[random variable|random variables]] $X$ and $Y$
+**Coupling** is a proof technique for comparing two [[random variables|random variable]] $X$ and $Y$.
