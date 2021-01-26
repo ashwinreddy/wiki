@@ -8,4 +8,4 @@ $$
 Z_1 \sim \mathsf{Binomial}(m, p), \quad Z_2 \sim \mathsf{Binomial}(n - m, p)
 $$
 
-Then, $\sim{X} = Z_1 \sim \mathsf{Binomial}(m, p)$ and $\sim{Y} = Z_1 + Z_2$ so that $\sim{Y} - \sim{X} = Z_2 \geqslant 0$ with probability 1.
+Then, $\tilde{X} = Z_1 \sim \mathsf{Binomial}(m, p)$ and $\tilde{Y} = Z_1 + Z_2$ so that $\sim{Y} - \sim{X} = Z_2 \geqslant 0$ with probability 1.
