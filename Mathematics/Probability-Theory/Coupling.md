@@ -1,4 +1,4 @@
-**Coupling** is a proof technique for comparing two [[random variables|random variable]] $X$ and $Y$. 
+**Coupling** is a [[proof]] technique for comparing two [[random variables|random variable]] $X$ and $Y$. 
 
 # Examples
 
