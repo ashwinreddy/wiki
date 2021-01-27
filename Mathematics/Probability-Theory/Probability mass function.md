@@ -1,4 +1,4 @@
-A **probability mass function (PMF)** is a [[function]] $p : \mathbb{R} \to [0,1]$ assigns probability to a discrete [[random variable]].
+A **probability mass function (PMF)** a.k.a **the distribution** of a discrete [[random variable]] $X$ is a [[function]] $p : \mathbb{R} \to [0,1]$ assigns probability.
 
 \begin{equation}
 p_X (x) = \Pr(\\{X = x\\}) =  \mathbb{P}(\\{\omega : X(\omega) = x\\})
