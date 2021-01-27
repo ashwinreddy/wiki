@@ -1,0 +1,1 @@
+**Linear time-invariant system** is a [[linear system]] and [[time-invariant system]].
