@@ -1,3 +1,3 @@
 **Nim** is a [[combinatorial game]] where player can remove arbitrary number of positive chips from any pile of many piles. The terminal state is that no chips are left.
 
-For any $n$, $(n, n)$ is a P state. Clearly, $(0,0)$ and $(1, 1)$ are P states. We can proceed with induction. So we have $(k, k)$ a P state for some $k$. Now consider $(k+1, k+1)$. W.l.o.g. a player at this state will have to take it to `[k+1, l]` for some `l` < `k`.
+For any $n$, $(n, n)$ is a P state. Clearly, $(0,0)$ and $(1, 1)$ are P states. We can proceed with induction. So we have $(k, k)$ a P state for some $k$. Now consider $(k+1, k+1)$. W.l.o.g. a player at this state will have to take it to $(k+1, l)$ for some $l < k$.
