@@ -19,5 +19,5 @@ The discrete version (c.f. prev definition, it is different) is
 \begin{align\*}
 \mathsf{rect}\left[\frac{n}{N}\right] &= \begin{cases} 1 & |n| \leqslant N \\\\ 0 & |n| > N \end{cases} \\\\
 &= u[n + N] - u[n - 1 + N]
-\end{align\*
+\end{align\*}
 
