@@ -1,0 +1,1 @@
+If $x(t)$ turns into $y(t)$, then $x(t - T)$ turns into $y(t - T)$.
