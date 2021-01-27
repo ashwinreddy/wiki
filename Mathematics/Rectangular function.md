@@ -7,5 +7,5 @@ $$
 It can be formed from the [[Heaviside step function]]:
 
 $$
-\mathsf{rect}(t) = u(t + \frac{1}{2}) - u(t - \frac{1}{2})
+\mathsf{rect}(t) = u\left(t + \frac{1}{2}\right) - u\left(t - \frac{1}{2}\right)
 $$
