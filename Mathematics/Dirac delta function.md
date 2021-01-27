@@ -14,6 +14,14 @@ $$
 
 We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$. [[Kronecker delta]]
 
+# Relationships
+
+[[derivative]] of the [[Heaviside step function]]
+
+$$
+\delta(t) = \dv{u(t)}{t}
+$$
+
 # Properties
 
 \begin{equation}
