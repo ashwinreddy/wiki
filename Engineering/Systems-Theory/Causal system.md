@@ -1,0 +1,1 @@
+A **causal system** depends on past and current inputs but not future inputs.
