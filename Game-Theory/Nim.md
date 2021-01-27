@@ -13,4 +13,7 @@ If $x$ and $y$ are configurations, then $(x \in P, y \in P) \in P$ and $(x \in N
 Say the chips configuration is given by $x_1, \dots, x_k$
 
 1. Expand each $x_i$ in binary
-2. 
+
+$$
+x_i = \sum_{j=0}^{\ell} a_{ij}2^j
+$$
