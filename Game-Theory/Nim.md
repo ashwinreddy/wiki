@@ -23,3 +23,5 @@ Define a new operation
 $$
 x_1 \oplus x_2 \oplus \dots \oplus x_k = \sum_{j=0} 2^j \left( a_{ij} \oplus a_{2j} \oplus a_{kj} \right)
 $$
+
+If this nim sum is 0, then the configuration is P.
