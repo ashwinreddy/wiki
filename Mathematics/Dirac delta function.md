@@ -16,7 +16,7 @@ We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 
 
 # Relationships
 
-[[derivative]] of the [[Heaviside step function]]
+It is the [[derivative]] of the [[Heaviside step function]]:
 
 $$
 \delta(t) = \dv{u(t)}{t}
