@@ -4,6 +4,7 @@ $$
 \forall \alpha \in \RR: \\{ \omega: X(\omega) \leqslant \alpha \\} \in \mathcal{F}
 $$
 
+so that $\Pr(X \in B)$ makes sense for any $B$ we're likely to encounter.
 
 Random variables are the building block of probability. Simply put, they represent a discrete or continuous quantity (more technically, the outcome of an [[experiment]]) whose value is uncertain. Mechanically, the variable annotates each possible outcome with a probability, typically in the form of a [[probability mass function]] (pmf) or [[probability density function]] (pdf). 
 
