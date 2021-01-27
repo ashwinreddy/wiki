@@ -14,20 +14,20 @@ $$
 
 We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$. [[Kronecker delta]]
 
-# Relationships
+# Properties
 
-It is the [[derivative]] of the [[Heaviside step function]]:
+* It is the [[derivative]] of the [[Heaviside step function]]:
 
 $$
 \delta(t) = \dv{u(t)}{t}
 $$
 
-# Properties
+* $$\delta(t)=\int_\RR e^{j2\pi f t} \dd{f}$$
 
-\begin{equation}
+* \begin{equation}
 \int_\RR \delta(x - x_0)f(x) \\,\dd{x} = f(x_0) \tag{Sifting property}
 \end{equation}
 
-$$
+* $$
 t \neq T \implies \delta(t - T) = 0 
 $$
