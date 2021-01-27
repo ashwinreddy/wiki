@@ -17,7 +17,7 @@ We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 
 # Properties
 
 \begin{equation}
-\int_\RR \delta(x)f(x) \\,\dd{x} = f(0) \tag{Sifting property}
+\int_\RR \delta(x - x_0)f(x) \\,\dd{x} = f(x_0) \tag{Sifting property}
 \end{equation}
 
 $$
