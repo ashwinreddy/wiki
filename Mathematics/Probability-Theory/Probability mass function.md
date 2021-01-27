@@ -1,7 +1,7 @@
 A **probability mass function (PMF)** is a [[function]] $p : \mathbb{R} \to [0,1]$ assigns probability to a discrete [[random variable]].
 
 \begin{equation}
-p_X (x_i) = \mathbb{P}(X = x_i)
+p_X (x) = \Pr(\\{X = x\\}) =  \mathbb{P}(\\{\omega : X(\omega) = x\\})
 \end{equation}
 
 The conditions for the function are that
