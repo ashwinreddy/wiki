@@ -16,6 +16,13 @@ Suppose $X$ can take on values $x_1, \dots, x_n$. Then,
 
 Formally, $X$ is a function.
 
+# Discrete random variable
+
+Discrete random variable
+: A r.v. that takes countably many values
+
+[[Probability mass function]]
+
 # Properties
 
 * If $X$ and $Y$ are r.v.'s then so is $X+Y$.
