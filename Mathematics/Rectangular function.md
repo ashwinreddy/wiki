@@ -16,6 +16,8 @@ $$
 
 The discrete version (c.f. prev definition, it is different) is
 
-$$
-\mathsf{rect}\left[\frac{n}{N}\right] = \begin{cases} 1 & |n| \leqslant N \\\\ 0 & |n| > N \end{cases}
-$$
+\begin{align\*}
+\mathsf{rect}\left[\frac{n}{N}\right] &= \begin{cases} 1 & |n| \leqslant N \\\\ 0 & |n| > N \end{cases} \\\\
+&= u[n + N] - u[n - 1 + N]
+\end{align\*
+
