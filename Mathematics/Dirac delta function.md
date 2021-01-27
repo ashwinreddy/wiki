@@ -15,3 +15,9 @@ $$
 $$
 
 We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$. [[Kronecker delta]]
+
+# Properties
+
+$$
+t \neq T \implies \delta(t - T) = 0 
+$$
