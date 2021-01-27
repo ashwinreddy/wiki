@@ -15,3 +15,7 @@ Suppose $X$ can take on values $x_1, \dots, x_n$. Then,
 \end{equation}
 
 Formally, $X$ is a function.
+
+# Properties
+
+* If $X$ and $Y$ are r.v.'s then so is $X+Y$.
