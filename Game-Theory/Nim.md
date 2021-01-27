@@ -17,3 +17,9 @@ Say the chips configuration is given by $x_1, \dots, x_k$
 $$
 x_i = \sum_{j=0}^{\ell} a_{ij}2^j
 $$
+
+Define a new operation
+
+$$
+x_1 \oplus x_2 \oplus \dots \oplus x_k = \sum_{j=0} 2^j \left( a_{ij} \oplus a_{2j} \oplus a_{kj} \right)
+$$
