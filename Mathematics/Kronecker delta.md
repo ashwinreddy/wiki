@@ -3,3 +3,10 @@ The **Kronecker delta** $\delta$ is symbolically written using the [[Iverson bra
 \begin{equation}
 \delta_{ij} \triangleq [i = j].
 \end{equation}
+
+Similar to [[Dirac delta function]].
+
+$$
+\sum_{n = -\infty}^\infty x[n]\delta[n - k] = x[k]
+$$
+
