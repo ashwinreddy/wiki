@@ -1,0 +1,1 @@
+**Cold War** was the bipolar world order by the US and Soviet Union.
