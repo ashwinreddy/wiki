@@ -14,7 +14,7 @@ Interestingly,
 2. If a state is P, it must lead to all N states. No matter what you do, the next player _can_ force a win if they want.
 
 
-Assume that if you start from a terminal position, you lose.
+Assume that if you start from a terminal position, you lose. So terminal states are P states.
 
 # Theorem
 
