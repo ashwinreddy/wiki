@@ -1,7 +1,7 @@
 The **action-value function** or **state-action value function** or **Q-function** for a [[Markov decision process]] is the expected return as [[function]] of following policy $\pi$ after taking action $a$ in state $s$. 
 
 $$
-Q: \mathcal{S} \times \mathcal{A} \to \mathbb{R}
+Q^\pi: \mathcal{S} \times \mathcal{A} \to \mathbb{R}
 $$
 
 \begin{equation}
