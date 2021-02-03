@@ -24,12 +24,12 @@ $$
 
 # Properties
 
-Clearly,
-
-$$
-\mathbb{V}[X] \geqslant 0
-$$
+* A variance is always non-negative: $$\mathbb{V}[X] \geqslant 0$$
 
 $$
 \mathbb{V}[\alpha X] = \alpha^2 \mathbb{V}[X]
+$$
+
+$$
+\mathbb{V}[c + X] = \mathbb{V}[X]
 $$
