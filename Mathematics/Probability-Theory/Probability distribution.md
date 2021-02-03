@@ -2,5 +2,9 @@ A **probability distribution** gives the probabilities of outcomes for an [[expe
 
 * [[Bernoulli distribution]]
 * [[Binomial distribution]]
+* [[Geometric distribution]]
+
+
+
 * [[Exponential distribution]]
 * [[Poisson distribution]]
