@@ -27,7 +27,7 @@ $$
 Clearly,
 
 $$
-\mathbb{V}[X] \geq 0
+\mathbb{V}[X] \geqslant 0
 $$
 
 $$
