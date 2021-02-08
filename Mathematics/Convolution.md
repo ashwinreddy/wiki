@@ -5,3 +5,12 @@
 \end{equation}
 
 It can be easier to compute a convolution by means of a [[Laplace transform]].
+
+# Properties
+
+* Commutative
+* Distributive
+
+# Examples
+
+* Convolution of two [[rectangle function]] is [[triangle function]]
