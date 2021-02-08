@@ -11,5 +11,5 @@ $$
 $$
 
 $$
-y(t) = y_{\mathsf{homogeneous}}(t) + y_{\mathsf{particular}}(t)
+y(t) = y_{\mathsf{homogeneous}}(t) + A \cdot y_{\mathsf{particular}}(t)
 $$
