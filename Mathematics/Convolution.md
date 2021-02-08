@@ -13,4 +13,4 @@ It can be easier to compute a convolution by means of a [[Laplace transform]].
 
 # Examples
 
-* Convolution of two [[rectangle function]] is [[triangle function]]
+* Convolution of two [[rectangular function]] is [[triangular function]]
