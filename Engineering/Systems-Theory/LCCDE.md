@@ -13,3 +13,17 @@ $$
 $$
 y(t) = y_{\mathsf{homogeneous}}(t) + A \cdot y_{\mathsf{particular}}(t)
 $$
+
+# Example
+
+Suppose we want to solve
+
+$$
+\dv{y(t)}{t} + a y(t) = u(t)
+$$
+
+The homogeneous equation will encapsulate 
+
+$$
+\dv{y_{\mathsf{homogeneous}}(t)}{t} + a y_{\mathsf{homogeneous}}(t) = 0 \implies y_{\mathsf{homogeneous}}(t) = Ae^{-at}
+$$
