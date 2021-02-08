@@ -4,6 +4,8 @@ $$
 \mathsf{rect}(t) = \Pi(t) = \begin{cases} 1 & |t| \leqslant \frac{1}{2} \\\\ 0 & |t| > \frac{1}{2} \end{cases}
 $$
 
+If you want the rectangle centered at $\tau$ with length $T$:
+
 $$
 \mathsf{rect}\left(\frac{t-\tau}{T}\right) = \begin{cases}0 & t \leqslant \left(\tau - \frac{T}{2}\right) \\\\ 1 & T - \frac{\tau}{2} \leqslant t \leqslant T + \frac{\tau}{2} \\\\ 0 & t > \tau + \frac{T}{2} \end{cases}
 $$
