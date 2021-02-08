@@ -1,1 +1,1 @@
-If $x(t)$ turns into $y(t)$, then $x(t - T)$ turns into $y(t - T)$.
+A **time-invariant system** is a system such that $\hat{x}(t) = x(t + \tau)$ results in an output shifted by an equal amount, i.e. $\hat{y}=y(t + \tau)$.
