@@ -27,3 +27,10 @@ The homogeneous equation will encapsulate
 $$
 \dv{y_{\mathsf{homogeneous}}(t)}{t} + a y_{\mathsf{homogeneous}}(t) = 0 \implies y_{\mathsf{homogeneous}}(t) = Ae^{-at}
 $$
+
+The particular solution has
+
+$$
+y_p(t) = \left(\frac{k}{a} + Be^{-at}\right)u(t)
+$$
+$$
