@@ -1,4 +1,4 @@
 A **zero-sum game**.
 
 Saddle point
-: An outcome that is minimal in its row and maximal in its column.
+: An outcome $C_{ij}$ that is minimal in row $i$ and maximal in column $j$.
