@@ -1,0 +1,1 @@
+The **Sprague-Grundy theorem**.
