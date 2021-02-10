@@ -1,0 +1,1 @@
+The **nim-sum** of $x$ and $y$, denoted $x \xor y$
