@@ -5,7 +5,7 @@
 \end{equation}
 
 \begin{equation}
-(f * g)[n] \doteq \sum_{\tau = -\infty}^\infty f(\tau)g(t-\tau)
+(f * g)[n] \doteq \sum_{k = -\infty}^\infty f[k]g[n-k]
 \end{equation}
 
 It can be easier to compute a convolution by means of a [[Laplace transform]].
