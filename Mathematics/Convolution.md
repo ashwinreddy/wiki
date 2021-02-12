@@ -4,6 +4,10 @@
 (f * g)(t) \doteq \int_\RR f(\tau)g(t-\tau)\dd{\tau}
 \end{equation}
 
+\begin{equation}
+(f * g)[n] \doteq \sum_{\tau = -\infty}^\infty f(\tau)g(t-\tau)\dd{\tau}
+\end{equation}
+
 It can be easier to compute a convolution by means of a [[Laplace transform]].
 
 # Properties
