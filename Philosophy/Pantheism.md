@@ -1,0 +1,1 @@
+**Pantheism** associates God with the reality and totality of the universe.
