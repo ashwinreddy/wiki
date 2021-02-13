@@ -1,4 +1,4 @@
-**Convolution** is a [[binary operation]] for [[functions|function]].
+The **convolution** of two signals is given by
 
 \begin{equation}
 (f * g)(t) \doteq \int_\RR f(\tau)g(t-\tau)\dd{\tau}
@@ -12,7 +12,7 @@ It can be easier to compute a convolution by means of a [[Laplace transform]].
 
 # Properties
 
-* Suppose $y(t) = h(t) * x(t)$
+Suppose $y(t) = h(t) * x(t)$
 
 Time-shift property
 : $h(t-T_1) * x(t-T_2) = y(t - T_1 - T_2)$.
