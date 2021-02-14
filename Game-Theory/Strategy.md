@@ -8,4 +8,4 @@ Mixed strategy
 
 # Safety Strategy
 
-For a zero-sum game, player I is picking a maximum for $x \mapsto x^\mathsf{T} A y$.
+For a zero-sum game, player I is picking $\argmax_x x^\mathsf{T} A y$ and player II is picking $\argmin_y x^\mathsf{T}Ay$.
