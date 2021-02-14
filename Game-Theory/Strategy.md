@@ -5,3 +5,7 @@ Pure strategy
 
 Mixed strategy
 : Assignment of probability to each pure strategy.
+
+# Safety Strategy
+
+For a zero-sum game, player I is picking a maximum for $x \mapsto x^\mathsf{T} A y$.
