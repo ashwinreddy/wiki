@@ -8,4 +8,4 @@ Mixed strategy
 
 # Safety Strategy
 
-For a zero-sum game, player I is picking $\arg\max_x x^\mathsf{T} A y$ and player II is picking $\arg\min_y x^\mathsf{T}Ay$. A safety strategy will yield an expected gain/loss of at least/most $V$, the value of the game.
+For a [[zero-sum game]], player I is picking $\arg\max_x x^\mathsf{T} A y$ and player II is picking $\arg\min_y x^\mathsf{T}Ay$. A safety strategy will yield an expected gain/loss of at least/most $V$, the value of the game.
