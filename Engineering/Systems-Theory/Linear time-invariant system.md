@@ -1,8 +1,10 @@
 A **linear time-invariant (LTI) system** is a [[linear system]] and [[time-invariant system]].
 
-# Properties
+# Causality
 
-## Convolution
+A causal system has $h(t) = 0$ or $h[n]=0$ \forall t < 0, n < 0$
+
+# Convolution
 
 The output of an LTI system is given by the [[convolution]] with the [[impulse response]]
 
