@@ -1,1 +1,1 @@
-**Nash equilibrium**
+**Nash equilibrium** is a pair of strategies that are best responses to each other / are optimal strategies.
