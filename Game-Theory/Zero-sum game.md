@@ -4,6 +4,8 @@ A **zero-sum game**.
 V = \max_x \min_y x^\mathsf{T} C y = \min_y \max_x x^\mathsf{T} C y \tag{Value}
 \end{equation}
 
+[[_TOC_]]
+
 # Solutions
 
 ## Saddle points
