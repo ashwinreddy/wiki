@@ -9,5 +9,5 @@ $$
 # Proof
 
 $$
-\mathbb{E}X \geqslant t\cdot \mathbb{E}\left[ \mathbf{1}_{X \geq t} \right]
+\mathbb{E}X \geqslant t\cdot \mathbb{E}\left[ \mathbf{1}_{X \geqslant t} \right]
 $$
