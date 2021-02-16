@@ -4,7 +4,10 @@ Mixed strategy
 : Assignment of probability to each pure strategy.
 
 Pure strategy
-: A deterministic mixed strategy.
+: A deterministic mixed strategy (think standard basis vector).
+
+Fully mixed strategy
+: A mixed strategy that has positive weight on all options.
 
 # Safety Strategy
 Say we're playing a [[zero-sum game]]. For player 1, safety strategy $x_*$ has
