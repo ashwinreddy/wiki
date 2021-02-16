@@ -1,5 +1,5 @@
 **Almost surely**
 
 $$
-X_n \to X \text{a.s.}
+X_n \to X \text{ a.s.}
 $$
