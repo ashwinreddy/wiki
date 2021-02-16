@@ -7,10 +7,10 @@ Pure strategy
 : A deterministic mixed strategy.
 
 # Safety Strategy
-Say we're playing a [[zero-sum game]]. For player 1, safety strategy has
+Say we're playing a [[zero-sum game]]. For player 1, safety strategy $x_*$ has
 
 $$
-\min_y x^\mathsf{T} Cy = V.
+\min_y x_*^\mathsf{T} Cy = V.
 $$
 
 
