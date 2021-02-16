@@ -9,5 +9,5 @@ $$
 # Proof
 
 $$
-\mathbb{E}X \geqslant t \mathbb{E}\mathbb{1}
+\mathbb{E}X \geqslant t \mathbb{E}\mathbf{1}_{X \geq t}
 $$
