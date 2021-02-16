@@ -13,5 +13,10 @@ $$
 \min_y x_*^\mathsf{T} Cy = V.
 $$
 
+For player II,
+
+$$
+\max_x x^\mathsf{T} Cy_* = V.
+$$
 
 A safety strategy will yield an expected gain/loss of at least/most $V$, the value of the game.
