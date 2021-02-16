@@ -5,3 +5,9 @@ $$
 $$
 
 [[Chebyshev's inequality]] uses this.
+
+# Proof
+
+$$
+\mathbb{E}X \geqslant t \mathbb{E}\mathbb{1}
+$$
