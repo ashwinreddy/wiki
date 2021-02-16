@@ -1,10 +1,12 @@
-A **zero-sum game**.
+A **zero-sum game** is one where the cost of losing is the benefit of winning so that the total payoff across players is 0.
+
+[[_TOC_]]
+
+# Value
 
 \begin{equation}
 V = \max_x \min_y x^\mathsf{T} C y = \min_y \max_x x^\mathsf{T} C y \tag{Value}
 \end{equation}
-
-[[_TOC_]]
 
 # Solutions
 
