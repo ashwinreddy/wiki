@@ -1,1 +1,1 @@
-**Almost surely** 
+**Almost surely** [[convergence of random variables]]
