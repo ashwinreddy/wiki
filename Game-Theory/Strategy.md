@@ -13,7 +13,7 @@ $$
 \min_y x_*^\mathsf{T} Cy = V.
 $$
 
-For player II,
+For player II, $y_*$ such that
 
 $$
 \max_x x^\mathsf{T} Cy_* = V.
