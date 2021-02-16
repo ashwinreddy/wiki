@@ -4,4 +4,4 @@ $$
 \Pr(X \geqslant \lambda) \leqslant \frac{\mu}{\lambda}
 $$
 
-[[Chebyshev's inequality]]
+[[Chebyshev's inequality]] uses this.
