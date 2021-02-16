@@ -1,4 +1,4 @@
-**Convergence of random variables** refers to different conceptions of [[convergence]] [[limit]] for a [[random variable]].
+**Convergence of random variables** refers to different conceptions of [[convergence]] of a [[limit]] for a [[random variable]].
 
 # Converge in probability
 
