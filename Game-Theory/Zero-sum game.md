@@ -28,3 +28,5 @@ If one row is less than or equal to another row (elementwise), remove it. If one
 This idea can also apply to convex combinations.
 
 ## Principle of Indifference
+
+## Symmetry
