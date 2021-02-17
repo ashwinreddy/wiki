@@ -11,5 +11,5 @@ For example, there is at most 10% chance that a value sits outside 3 standard de
 Consider $Y = |X - \mathbb{E}X|$. [[Markov's inequality]] says
 
 $$
-\mathbb{P}\left[Y \geqslant c\right] \leqslant \frac{\mathbb{E}[Y]}{c}
+\mathbb{P}\left(Y \geqslant c\right) = \mathbb{P}(|X - \mathbb{E}X| \geqslant c) \leqslant \frac{\mathbb{E}[Y]}{c}
 $$
