@@ -5,5 +5,5 @@ X \sim \mathsf{Exponential}(\lambda) \iff \varphi(x) = \begin{cases} \lambda e^{
 \end{equation}
 
 $$
-F_X(x) = \begin{cases} 1-e^{-\lambda x} & x \geqslant 0 \\\ 0\end{cases}
+F_X(x) = \begin{cases} 1-e^{-\lambda x} & x \geqslant 0 \\\\ 0\end{cases}
 $$
