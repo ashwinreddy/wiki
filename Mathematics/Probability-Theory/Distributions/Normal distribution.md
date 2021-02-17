@@ -50,7 +50,7 @@ Roughly 68% of the probability mass falls within 1 standard deviation of the mea
 |[[Expected value]]|$\mu$|
 |[[Variance]]|$\sigma^2$|
 
-* $X \sim \mathcal{N}(\mu_x, \sigma_x^2)$, $Y \sim \mathcal{N}(\mu_y, \sigma_y^2)$ then $X+Y \sim \mathcal{N}(\mu_x + \mu_y, \sigma_x^2+\sigma_y^2)$.
+* $X \sim \mathcal{N}(\mu_x, \sigma_x^2)$, $Y \sim \mathcal{N}(\mu_y, \sigma_y^2)$ then $X+Y \sim \mathcal{N}(\mu_x + \mu_y, \sigma_x\^2+\sigma_y^2)$.
 
 # Characteristics
 
