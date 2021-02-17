@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-\text{Uncorrelated} \not\implies \text{Independence}
+\text{Independence} \implies \text{Uncorrelated}
 $$
