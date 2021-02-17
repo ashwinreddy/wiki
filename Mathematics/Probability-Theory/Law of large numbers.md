@@ -8,4 +8,4 @@ The weak law says that for i.i.d $X_i$, that for any $\epsilon > 0$,
 
 # Strong
 
-If i.i.d. $X_i$ with finite mean, then empirical mean converges to true mean [[almost surely]].
+The empirical mean of i.i.d. $X_i$ with finite mean converges to the true mean [[almost surely]].
