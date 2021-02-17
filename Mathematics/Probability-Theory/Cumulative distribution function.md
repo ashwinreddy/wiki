@@ -1,7 +1,7 @@
 The **cumulative distribution function (CDF)** is a [[function]]
 
 \begin{equation}
-F_X(x) = \Pr(X \leq x)
+F_X(x) = \Pr(X \leqslant x)
 \end{equation}
 
 For a continuous distribution, we can just write then
