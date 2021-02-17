@@ -10,6 +10,6 @@ For example, there is at most 10% chance that a value sits outside 3 standard de
 
 \begin{align}
 \sigma^2 &= \mathbb{E}\left[(X - \mu)^2\right] \\\\
-&= \mathbb{E}\left[(X - \mu)^2 \mid k\sigma \leqslant |X - \mu| \right] \mathbb{P}\left(k \sigma \leqslant |X - \mu|\right) + \\\\
-&\mathbb{E}\left[(X - \mu)^2 \mid k\sigma > |X - \mu| \right] \mathbb{P}\left(k \sigma > |X - \mu|\right)
+&= \mathbb{E}\left[(X - \mu)^2 \mid k\sigma \leqslant |X - \mu| \right] \mathbb{P}\left(k \sigma \leqslant |X - \mu|\right) +
+\mathbb{E}\left[(X - \mu)^2 \mid k\sigma > |X - \mu| \right] \mathbb{P}\left(k \sigma > |X - \mu|\right)
 \end{align}
