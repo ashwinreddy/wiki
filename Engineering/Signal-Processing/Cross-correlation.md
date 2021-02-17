@@ -3,3 +3,8 @@
 \begin{equation}
 (f \circ g)(t) \doteq \int_\RR f(\tau)g(t + \tau)\dd{\tau}
 \end{equation}
+
+$$
+f(t) \circ g(t) = f(t) * g(-t)
+$$
+
