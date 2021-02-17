@@ -13,9 +13,7 @@ $$
 
 # Properties
 
-* Expectation is a [[linear map]]
-
-For _any_ random variables $X$ and $Y$,
+* Expectation is a [[linear map]]. For _any_ random variables $X$ and $Y$,
 
 \begin{equation}
 \mathbb{E}[X+Y] = \mathbb{E}[X] + \mathbb{E}[Y]
@@ -25,6 +23,4 @@ For _any_ random variables $X$ and $Y$,
 \mathbb{E}\left[\alpha X\right] = \alpha \mathbb{E}[X]
 \end{equation}
 
-Suppose $X$ and $Y$ are independent, then
-
-* $\mathbb{E}[XY] = \mathbb{E}[X] \cdot \mathbb{E}[Y]$
+* Suppose $X$ and $Y$ are independent, then $\mathbb{E}[XY] = \mathbb{E}[X] \cdot \mathbb{E}[Y]$.
