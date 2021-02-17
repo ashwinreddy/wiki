@@ -5,7 +5,7 @@ $$
 $$
 
 $$
--1 \leqslant \rho_{X,Y} \geqslant 1
+-1 \leqslant \rho_{X,Y} \leqslant 1
 $$
 
 $$
