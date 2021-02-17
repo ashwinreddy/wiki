@@ -13,3 +13,9 @@ $$
 $$
 
 # Convergence in distribution
+
+$X_n \to X$ in distribution if for all $x$,
+
+$$
+\lim_{n \to\infty} F_{X_n}(x) = F_X(x)
+$$
