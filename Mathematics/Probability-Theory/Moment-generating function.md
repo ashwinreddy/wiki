@@ -9,5 +9,5 @@ This function _uniquely_ determines the [[distribution]].
 It encodes the moments of a distribution in the coefficients of a [[power series]].
 
 $$
-\frac{\dd{}\^n}{\dd{t^n}} M_X(t)\big|_{t=0}
+\left(\frac{\dd{}\^n}{\dd{t^n}} M_X(t)\right)\big|_{t=0}
 $$
