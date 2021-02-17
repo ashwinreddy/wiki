@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-\mathbb{E}\left[\mathbb{V}[X \mid Y = y]\right] = \mathbb{E}\left[(X - \mathbb{E}(X \mid Y) )^2\right]
+\mathbb{E}(left[\mathbb{V}[X \mid Y = y]\right) = \mathbb{E}\left[(X - \mathbb{E}(X \mid Y) )^2\right]
 $$
