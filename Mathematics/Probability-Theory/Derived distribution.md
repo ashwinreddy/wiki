@@ -5,3 +5,5 @@ If you want the expectation, you don't need to know the derived distribution; by
 $$
 \mathbb{E}[Y] = \mathbb{E}[g(X)].
 $$
+
+If you really do need the derived distribution, consider using [[cumulative distribution function]].
