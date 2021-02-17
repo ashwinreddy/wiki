@@ -23,7 +23,7 @@ If there's a saddle point, then it's the value of the game -- neither player has
 
 ## Domination
 
-If one row is less than or equal to another row (elementwise), remove it. If one column is greater than or equal to another column (elementwise), remove it.
+If one row is less than or equal to another row (elementwise), remove it. If a convex combination of columns is greater than or equal to another column (elementwise), remove them.
 
 This idea can also apply to convex combinations.
 
