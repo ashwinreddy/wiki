@@ -1,5 +1,5 @@
 **Almost sure** is a kind of [[convergence of random variables]]. We say $X_n \to X$ almost surely if
 
 $$
-\Pr(\lim_{n \to \infty} X_n = X) = 1.
+\Pr \left(\lim_{n \to \infty} X_n = X\right) = 1.
 $$
