@@ -15,7 +15,7 @@ $$
 
 * Expectation is a linear operator.
 
-For any random variables $X$ and $Y$,
+For _any_ random variables $X$ and $Y$,
 
 \begin{equation}
 \mathbb{E}[X+Y] = \mathbb{E}[X] + \mathbb{E}[Y]
