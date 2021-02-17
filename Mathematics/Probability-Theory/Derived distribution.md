@@ -6,4 +6,8 @@ $$
 \mathbb{E}[Y] = \mathbb{E}[g(X)].
 $$
 
-If you really do need the derived distribution, consider using [[cumulative distribution function]].
+For a discrete random variable,
+
+$$
+p_Y(y) = p_X(g^{-1}(y))
+$$
