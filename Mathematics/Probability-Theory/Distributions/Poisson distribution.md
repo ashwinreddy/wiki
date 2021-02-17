@@ -11,3 +11,5 @@ X \sim \mathsf{Poisson}(\lambda) \iff \Pr(X = k) = \begin{cases} \frac{\lambda^ 
 |--------|-----|
 |[[Expected value]]|$\lambda$|
 |[[Variance]]|$\lambda$|
+
+* * If $X \sim \mathsf{Poisson}(\lambda)$ and $Y \sim \mathsf{Poisson}(\mu)$, then $X+Y \sim \mathsf{Poisson}(\lambda +mu)$
