@@ -1,4 +1,8 @@
-A **normal distribution** or **Gaussian distribution** [[probability distribution]] is a very common continuous distribution with parameters $\mu$ and $\sigma$ that control the mean and [[standard deviation]]. The general form is a little more involved, with a [[normalizing constant]] of $1/\sqrt{2\pi}$. It is a [[Gaussian function]]
+A **normal distribution** or **Gaussian distribution** [[probability distribution]] is a very common continuous distribution with parameters $\mu$ and $\sigma$ that control the [[mean]] and [[standard deviation]]. 
+
+
+
+The general form is a little more involved, with a [[normalizing constant]] of $1/\sqrt{2\pi}$. It is a [[Gaussian function]]
 
 
 \begin{equation}
