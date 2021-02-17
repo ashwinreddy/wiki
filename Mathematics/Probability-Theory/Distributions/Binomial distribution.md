@@ -10,3 +10,5 @@ X \sim \mathsf{Binomial}(n, p) \iff  \mathbb{P}_X(x = k; n, p) = \binom{n}{k} p^
 |--------|-----|
 |[[Expected value]]|$np$|
 |[[Variance]]|$np(1-p)$|
+
+* If $X \sim \mathsf{Binomial}(n,p)$ and $Y \sim \mathsf{Binomial}(m,p)$, then $X+Y \sim \mathsf{Binomial}(n+m, p)$
