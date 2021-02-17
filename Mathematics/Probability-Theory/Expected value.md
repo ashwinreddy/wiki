@@ -24,3 +24,9 @@ $$
 \end{equation}
 
 * Suppose $X$ and $Y$ are independent, then $\mathbb{E}[XY] = \mathbb{E}[X] \cdot \mathbb{E}[Y]$.
+
+# Tail Sum Formula
+
+$$
+\mathbb{E}[X] = \sum_{k=1}^\infty \Pr(X \geqslant k).
+$$
