@@ -9,7 +9,7 @@
 $X_n \to X$ in probability if for every $\epsilon > 0$,
 
 $$
-\lim_{n \to \infty} \Pr( \left|right| > \epsilon) = 0.
+\lim_{n \to \infty} \Pr( |X_n - X| > \epsilon) = 0.
 $$
 
 # Convergence in distribution
