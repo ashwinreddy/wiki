@@ -13,7 +13,7 @@ $$
 
 # Properties
 
-* Expectation is a linear operator.
+* Expectation is a [[linear map]]
 
 For _any_ random variables $X$ and $Y$,
 
