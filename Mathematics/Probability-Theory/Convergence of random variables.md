@@ -1,8 +1,12 @@
 **Convergence of random variables** refers to different conceptions of [[convergence]] of a [[limit]] for a [[random variable]].
 
-* [[Almost sure convergence]]
+
 
 [[_TOC_]]
+
+# Almost sure convergence
+
+* [[Almost sure convergence]]
 
 # Convergence in probability
 
