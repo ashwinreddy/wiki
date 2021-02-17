@@ -1,4 +1,8 @@
-A **normal distribution** or **Gaussian distribution** [[probability distribution]] is a very common continuous distribution with parameters $\mu$ and $\sigma$ that control the [[mean]] and [[standard deviation]]. 
+A **normal distribution** or **Gaussian distribution** [[probability distribution]] is a very common continuous distribution with parameters $\mu$ and $\sigma$ that control the [[mean]] and [[standard deviation]]. The standard normal $Z \sim \mathcal{N}(0,1)$ has [[cumulative distribution function]]
+
+$$
+\Phi(x) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^x \exp(-u^2/2) \dd{u}
+$$
 
 
 
