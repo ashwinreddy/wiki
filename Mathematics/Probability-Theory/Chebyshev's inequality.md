@@ -5,3 +5,11 @@
 \end{equation}
 
 For example, there is at most 10% chance that a value sits outside 3 standard deviations from the mean.
+
+# Proof
+
+Consider $Y = |X - \mathbb{E}X|$. [[Markov's inequality]] says
+
+$$
+\mathbb{P}\left[Y \geqslant c\right] \leqslant \frac{\mathbb{E}[Y]}{c}
+$$
