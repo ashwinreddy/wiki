@@ -4,9 +4,6 @@ The **expected value** or **expectation** collapses the [[probability distributi
 \mathbb{E}\left[X\right] = \begin{cases} \sum_{x \in \mathcal{X}} xp(x) & X \text{ discrete} \\\\ \int_\RR x p(x)\\, \dd{x} & X \text{ continuous} \end{cases}
 \end{equation}
 
-\begin{equation}
-\mathbb{E}\left[X\right] = 
-\end{equation}
 
 In terms of the [[cumulative distribution function]],
 
