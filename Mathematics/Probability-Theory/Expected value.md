@@ -1,11 +1,11 @@
 The **expected value** or **expectation** collapses the [[probability distribution]] of a [[random variable]] to a single representative, which we understand to be its [[mean]]. Notationally, the expectation tells you where to draw samples from and then an expression to compute with those samples and will then tell you what the expected average value of that expression is.
 
 \begin{equation}
-\mathbb{E}\left[X\right] = \sum_{x \in \mathcal{X}} xp(x)
+\mathbb{E}\left[X\right] = \begin{cases} \sum_{x \in \mathcal{X}} xp(x) & X \text{ discrete} \\\\ \int_\RR x p(x)\\, \dd{x} & x \text{ continuous} \end{cases}
 \end{equation}
 
 \begin{equation}
-\mathbb{E}\left[X\right] = \int_\RR x p(x)\\, \dd{x}
+\mathbb{E}\left[X\right] = 
 \end{equation}
 
 In terms of the [[cumulative distribution function]],
