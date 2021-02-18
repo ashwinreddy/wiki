@@ -15,3 +15,9 @@ It encodes the moments of a distribution in the coefficients of a [[power series
 $$
 \left( \left. \frac{\dd{}\^n}{\dd{t^n}} M_X(t) \right)\right|_{t=0} = \mathbb{E}(X^n)
 $$
+
+# Computation
+
+$$
+M_X(t) = \begin{cases} \sum_i e^{tx_i} p_i \\\\ \int_\RR e^{tx} f(x) \dd{x} \end{cases}
+$$
