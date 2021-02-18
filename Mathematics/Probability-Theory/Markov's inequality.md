@@ -14,6 +14,8 @@ $$
 Y(\omega) = \begin{cases} \epsilon & X(\omega) \geqslant 0 \\\\ 0 \end{cases}
 $$
 
+This makes $Y \leqslant X$ such that
+
 $$
-\mathbb{E}X \geqslant t\cdot \mathbb{E}\left[ \mathbf{1}_{X \geqslant t} \right]
+\mathbb{E}X \geqslant \mathbb{E}[Y] = \mathbb{E}[\epsilon\mathbb{1}_{X \geqslant \epsilon}] = \epsilon \Pr(X \geqslant \epsilon)
 $$
