@@ -21,5 +21,5 @@ $$
 Then, we differentiate to yield
 
 $$
-f_X(x) = \dv{F_X(x)}{x} = f_X(\ln x) \cancelto{\ln'(x)}{} \frac{1}{x}
+f_X(x) = \dv{F_X(x)}{x} = f_X(\ln x) \cancelto{\frac{1}{x}}{\ln'(x)}
 $$
