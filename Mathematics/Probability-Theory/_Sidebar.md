@@ -4,6 +4,6 @@
 * [[Concentration inequality]]
 * [[Probability distribution]]
 
-# Expectations
+### Expectations
 
 * [[Conditional expectation]]
