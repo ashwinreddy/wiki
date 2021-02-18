@@ -34,3 +34,5 @@ $$
 
 Uniqueness
 : The m.g.f uniquely determines the [[probability distribution]]. That is, if two r.v.s have the same m.g.f., they have the same distribution.
+
+* $M_X(0) \equiv 1$, identically.
