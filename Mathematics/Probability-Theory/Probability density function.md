@@ -7,7 +7,7 @@ $$
 We know that the total probability mass is 1 by the Kolmogorov axioms, which puts a restriction:
 
 $$
-\frac{\text{Density}}{\text{Total Area}} = 1.
+\text{Density}\times\text{Area} = 1.
 $$
 
 $$
