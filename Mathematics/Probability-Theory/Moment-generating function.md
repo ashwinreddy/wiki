@@ -32,6 +32,12 @@ $$
 M_Z(t) = M_X(at)M_Y(bt)
 $$
 
+If we have $\alpha X + \beta$, then
+
+$$
+M_{\alpha X + \beta}(t) = e^{\beta t} M_X(\alpha t)
+$$
+
 Uniqueness
 : The m.g.f uniquely determines the [[probability distribution]]. That is, if two r.v.s have the same m.g.f., they have the same distribution.
 
