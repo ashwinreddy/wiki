@@ -7,7 +7,7 @@ $$
 We know that the total probability mass is 1 by the Kolmogorov axioms, which puts a restriction:
 
 $$
-\int \text{Density}\dd{\text{Measure}} = 1.
+\int \text{Density}\cdot\dd{\text{Measure}} = 1.
 $$
 
 $$
