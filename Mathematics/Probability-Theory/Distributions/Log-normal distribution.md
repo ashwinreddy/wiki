@@ -12,10 +12,10 @@ $$
 
 # Density
 
-Let $Y = \exp X$. Work with the [[cumulative distribution function]] $F_Y$.
+Let $Y = \exp X \iff X = \ln Y$. Work with the [[cumulative distribution function]] $F_Y$.
 
 $$
-F_Y(x) = \Pr(\exp X \leqslant x) = \Pr( X \leqslant \ln x ) = F_X(\ln x)
+F_Y(x) = \Pr(Y \leqslant x) = \Pr(\exp X \leqslant x) = \Pr( X \leqslant \ln x ) = F_X(\ln x)
 $$
 
 Then, we differentiate to yield
