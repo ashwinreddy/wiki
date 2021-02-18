@@ -23,3 +23,4 @@ $$
 
 $$
 \Pr(X_i = \min_k X_k) = \frac{\lambda_i }{\sum_j \lambda_j}
+$$
