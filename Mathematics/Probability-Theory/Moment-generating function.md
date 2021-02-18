@@ -21,3 +21,15 @@ $$
 $$
 M_X(t) = \begin{cases} \sum_{i=1}^\infty e^{tx_i} p_i \\\\ \int_\RR e^{tx} f(x) \dd{x} \end{cases}
 $$
+
+# Examples
+
+The m.g.f. of a constant $c$ is $e^{ct}$.
+
+# Properties
+
+If $Z = aX + bY$, then 
+
+$$
+M_Z(t) = M_X(at)M_Y(bt)
+$$
