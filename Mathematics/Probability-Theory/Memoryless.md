@@ -1,0 +1,1 @@
+A **memoryless** [[probability distribution]]
