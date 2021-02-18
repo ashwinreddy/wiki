@@ -4,6 +4,10 @@
 \boxed{\Pr \big ( | X - \mu| \geqslant k\sigma \big ) \leqslant \frac{1}{k^2}} \tag{Chebyshev's Inequality}
 \end{equation}
 
+\begin{equation}
+\Pr \big ( | X - \mu| \geqslant c \big ) \leqslant \frac{\mathbb{V}X}{c^2}
+\end{equation}
+
 For example, there is at most 10% chance that a value sits outside 3 standard deviations from the mean.
 
 # Proof
