@@ -28,9 +28,7 @@ So that if $X$ and $Y$ are independent, the variance of sums is the sum of varia
 
 * A variance is always non-negative: $$\mathbb{V}[X] \geqslant 0$$
 
-$$
-\mathbb{V}[\alpha X] = \alpha^2 \mathbb{V}[X]
-$$
+* $$\mathbb{V}[\alpha X] = \alpha^2 \mathbb{V}[X].$$ In particular, this means that $\mathbb{V}[-X] = \mathbb{V}[X]$.
 
 $$
 \mathbb{V}[c + X] = \mathbb{V}[X]
