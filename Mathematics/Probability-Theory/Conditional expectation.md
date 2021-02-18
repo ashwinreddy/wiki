@@ -1,4 +1,4 @@
-**Conditional expectation** is the [[expected value]] of a [[random variable]] as a [[conditional distribution]].
+**Conditional expectation** is the [[expected value]] of a [[random variable]] as a [[conditional probability]].
 
 $$
 \mathbb{E}\left( X \mid Y = y \right) = \begin{cases} \sum_{x \in \mathcal{X}} xp_{X\mid Y}(x \mid y) \\\\ \int_{\mathcal{X}} xf_{X\mid Y}(x \mid y)\dd{x} \end{cases}
