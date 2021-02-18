@@ -9,3 +9,7 @@ X \sim \mathsf{Exponential}(\lambda) \iff \varphi(x) = \begin{cases} \lambda e^{
 $$
 F_X(x) = \begin{cases} 1-e^{-\lambda x} & x \geqslant 0 \\\\ 0\end{cases}
 $$
+
+# Properties
+
+* If $n$ independent exponential variables indexed as $X_k$ with parameters $\lambda_k$, then $\min_k X_k \sim \mathsf{Exponential}(\sum_j \lambda_j )$
