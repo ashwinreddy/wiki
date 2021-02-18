@@ -14,7 +14,7 @@ $$
 
 |Property|Value|
 |--------|-----|
-|[[Expected value]]|$\lambda$|
-|[[Variance]]|$\lambda$|
+|[[Expected value]]|$\frac{1}{\lambda}$|
+|[[Variance]]|$\frac{1}{\lambda^2}$|
 
 * If $n$ independent exponential variables indexed as $X_k$ with parameters $\lambda_k$, then $\min_k X_k \sim \mathsf{Exponential}\left(\sum_j \lambda_j \right)$
