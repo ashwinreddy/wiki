@@ -9,5 +9,5 @@ For example, there is at most 10% chance that a value sits outside 3 standard de
 # Proof
 
 $$
-\Pr(\left(X - \mathbb{E}X \right)^2 \geqslant \epsilon^2) \leqslant \frac{ \mathbb{E}\left[\left(X - \mathbb{E}X \right)^2\right]  }{\epsilon^2}
+\Pr(\left(X - \mathbb{E}X \right)^2 \geqslant \epsilon^2) \leqslant \frac{ \mathbb{E}\left[\left(X - \mathbb{E}X \right)^2\right]  }{\epsilon^2} = \frac{\mathbb{V}X}{\epsilon^2}
 $$
