@@ -7,9 +7,9 @@ $$
 We know that the total probability mass is 1 by the Kolmogorov axioms, which puts a restriction:
 
 $$
-\int_{\RR} \varphi(x) \dd{x} = 1.
+\frac{\text{Density}}{\text{Total Area}} = 1.
 $$
 
 $$
-\frac{\text{Density}}{\text{Total Area}} = 1.
+\int_{\RR} \varphi(x) \dd{x} = 1.
 $$
