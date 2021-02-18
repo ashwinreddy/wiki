@@ -3,3 +3,6 @@ A **memoryless** [[probability distribution]] for a [[random variable]] $X$ is o
 \begin{equation}
 \Pr(X > m + n \mid X > m) = \Pr(X > n).
 \end{equation}
+
+* [[Geometric distribution]]
+* [[Exponential distribution]]
