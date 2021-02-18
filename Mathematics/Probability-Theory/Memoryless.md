@@ -6,3 +6,7 @@ A **memoryless** [[probability distribution]] for a [[random variable]] $X$ is o
 
 * [[Geometric distribution]]
 * [[Exponential distribution]]
+
+$$
+\mathbb{E}\left(X \mid X > c\right) = \mathbb{E}(X) + c
+$$
