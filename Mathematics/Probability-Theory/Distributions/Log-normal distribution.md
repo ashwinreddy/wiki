@@ -12,14 +12,14 @@ $$
 
 # Density
 
-Work with the [[cumulative density function]] $F_X$.
+Let $Y = \exp X$. Work with the [[cumulative density function]] $F_Y$.
 
 $$
-\Pr(\exp X \leqslant x) = \Pr( X \leqslant \ln x ) = F_X(\ln x)
+F_Y(x) = \Pr(\exp X \leqslant x) = \Pr( X \leqslant \ln x ) = F_X(\ln x)
 $$
 
 Then, we differentiate to yield
 
 $$
-f_{\exp X}(x) = \dv{F_X(x)}{x} = f_X(\ln x) \cancelto{\frac{1}{x}}{\ln'(x)}
+f_{Y}(x) = \dv{F_X(x)}{x} = f_X(\ln x) \cancelto{\frac{1}{x}}{\ln'(x)}
 $$
