@@ -4,8 +4,12 @@ $$
 \text{Density} = \frac{\text{Mass}}{\text{Area}}
 $$
 
-We know that the total area is 1 by the Kolmogorov axioms, which puts a restriction:
+We know that the total probability mass is 1 by the Kolmogorov axioms, which puts a restriction:
 
 $$
 \int_{\RR} \varphi(x) \dd{x} = 1.
+$$
+
+$$
+\frac{\text{Density}}{\text{Total Area}} = 1.
 $$
