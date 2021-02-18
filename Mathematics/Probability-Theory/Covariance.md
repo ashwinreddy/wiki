@@ -4,4 +4,8 @@ The **covariance** of [[random variables|random variable]] $X$ and $Y$ is the [[
 \operatorname{cov}(X, Y) = \mathbb{E}\left[(X - \mu_X)(Y- \mu_Y)\right]
 \end{equation}
 
-Covariance is [[bilinear map]].
+Covariance is [[bilinear map]], so
+
+$$
+\operatorname{cov}(cX,Y) = \operatorname{cov}(X,cY) = c\operatorname{cov}(X,Y)
+$$
