@@ -5,5 +5,9 @@ $$
 $$
 
 $$
+\mathbb{E}\left(X \mid Y = y\right) = \frac{\sum_{x} x P(X=x,Y=y) \dd{x} }{ \sum_x P(Y=y) \dd{x} }
+$$
+
+$$
 \mathbb{E}\left(X \mid Y = y\right) = \frac{\int_\RR x f_{X,Y}(x,y) \dd{x} }{ \int_\RR f_{X,Y}(x,y)\dd{x} }
 $$
