@@ -27,8 +27,8 @@ $$
 
 # Tail Sum Formula
 
-Suppose $X \geqslant 0$
+Suppose $X \geqslant 0$.
 
 $$
-\mathbb{E}[X] = \sum_{k=0}^\infty \Pr(X \geqslant k).
+\mathbb{E}[X] = \sum_{k=0}^\infty \Pr(X > k).
 $$
