@@ -13,5 +13,5 @@ This function _uniquely_ determines the [[probability distribution]].
 It encodes the moments of a distribution in the coefficients of a [[power series]].
 
 $$
-\left. \frac{\dd{}\^n}{\dd{t^n}} M_X(t)\right|_{t=0} = \mathbb{E}(X^n)
+\left. \frac{\dd{}\^n}{\dd{t^n}}\right|_{t=0} M_X(t) = \mathbb{E}(X^n)
 $$
