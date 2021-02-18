@@ -1,6 +1,10 @@
 **Conditional expectation** is the [[expected value]] of a [[random variable]] as a [[conditional probability]].
 
 $$
+\mathbb{E}(X \mid A) = \sum_x \frac{\Pr(X = x \cap A)}{\Pr(A)}
+$$
+
+$$
 \mathbb{E}\left( X \mid Y = y \right) = \begin{cases} \sum_{x \in \mathcal{X}} xp_{X\mid Y}(x \mid y) \\\\ \int_{\mathcal{X}} xf_{X\mid Y}(x \mid y)\dd{x} \end{cases}
 $$
 
