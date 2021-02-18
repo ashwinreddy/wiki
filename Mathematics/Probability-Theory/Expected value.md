@@ -30,5 +30,5 @@ $$
 Suppose $X \geqslant 0$.
 
 $$
-\mathbb{E}[X] = \sum_{k=0}^\infty \Pr(X > k).
+\mathbb{E}[X] = \begin{cases} \sum_{k=0}^\infty \Pr(X > k) \\\\ \int_{k=0}^\infty \Pr(X > k) \end{cases}
 $$
