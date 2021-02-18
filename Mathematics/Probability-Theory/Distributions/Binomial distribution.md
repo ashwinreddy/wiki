@@ -13,3 +13,4 @@ X \sim \mathsf{Binomial}(n, p) \iff  \mathbb{P}_X(x = k; n, p) = \binom{n}{k} p^
 |[[Moment-generating function]]|$(1-p+pe\^t)^n$|
 
 * If $X \sim \mathsf{Binomial}(n,p)$ and $Y \sim \mathsf{Binomial}(m,p)$, then $X+Y \sim \mathsf{Binomial}(n+m, p)$
+* If $p=\frac{1}{2}$, then $\mathbb{P}_X(x = k; n, p) = 2^{-n}\binom{n}{k}$.
