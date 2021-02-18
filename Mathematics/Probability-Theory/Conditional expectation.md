@@ -5,7 +5,7 @@ $$
 $$
 
 $$
-\mathbb{E}\left(X \mid Y = y\right) = \frac{\sum_{x} x P(X=x,Y=y)  }{ \sum_x P(Y=y) }
+\mathbb{E}\left(X \mid Y = y\right) = \sum_{x} x \frac{P(X=x,Y=y)}{P(Y=y) }
 $$
 
 $$
