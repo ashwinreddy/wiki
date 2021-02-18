@@ -8,7 +8,7 @@ $$
 M_X(t) = 1 + t \mathbb{E}(X) + \frac{t\^2}{2!}\mathbb{E}\left(X\^2\right) + \frac{t^3}{3!}\mathbb{E}\left(X\^3\right) + \dots
 $$
 
-This function _uniquely_ determines the [[distribution]].
+This function _uniquely_ determines the [[probability distribution]].
 
 It encodes the moments of a distribution in the coefficients of a [[power series]].
 
