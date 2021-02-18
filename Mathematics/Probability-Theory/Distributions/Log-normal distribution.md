@@ -12,7 +12,7 @@ $$
 
 # Density
 
-Let $Y = \exp X$. Work with the [[cumulative density function]] $F_Y$.
+Let $Y = \exp X$. Work with the [[cumulative distribution function]] $F_Y$.
 
 $$
 F_Y(x) = \Pr(\exp X \leqslant x) = \Pr( X \leqslant \ln x ) = F_X(\ln x)
