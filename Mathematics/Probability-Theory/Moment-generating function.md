@@ -19,5 +19,5 @@ $$
 # Computation
 
 $$
-M_X(t) = \begin{dcases} \sum_{i=1}^\infty e^{tx_i} p_i \\\\ \int_\RR e^{tx} f(x) \dd{x} \end{dcases}
+M_X(t) = \begin{cases} \sum_{i=1}^\infty e^{tx_i} p_i \\\\ \int_\RR e^{tx} f(x) \dd{x} \end{cases}
 $$
