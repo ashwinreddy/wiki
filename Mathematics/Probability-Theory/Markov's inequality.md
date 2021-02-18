@@ -8,6 +8,12 @@ $$
 
 # Proof
 
+Let's define 
+
+$$
+Y(\omega) = \begin{cases} \epsilon & X(\omega) \geqslant 0 \\\\ 0 \end{cases}
+$$
+
 $$
 \mathbb{E}X \geqslant t\cdot \mathbb{E}\left[ \mathbf{1}_{X \geqslant t} \right]
 $$
