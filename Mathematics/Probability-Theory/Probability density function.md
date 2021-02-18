@@ -3,3 +3,9 @@ A **probability density function (PDF/pdf)** is a [[function]] that assigns prob
 $$
 \text{Density} = \frac{\text{Mass}}{\text{Area}}
 $$
+
+We know that the total area is 1 by the Kolmogorov axioms, which puts a restriction:
+
+$$
+\int_{x} \varphi(x) \dd{x} = 1.
+$$
