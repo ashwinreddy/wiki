@@ -27,7 +27,7 @@ $$
 
 # Tail Sum Formula
 
-Suppose $X \geqslant 0$.
+The tail sum formula applies when we suppose $X \geqslant 0$.
 
 $$
 \mathbb{E}[X] = \begin{cases} \sum_{k=0}^\infty \Pr(X > k) \\\\ \int_{0}^\infty \Pr(X > k) \dd{k} \end{cases}
