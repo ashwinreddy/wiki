@@ -24,7 +24,7 @@ $$
 $$
 
 $$
-\mathcal{F}\\{\dv{x(t)}{t}\\} = j\omega X(\omega)
+\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = j\omega X(\omega)
 $$
 
 # Common transforms
