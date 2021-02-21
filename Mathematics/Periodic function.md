@@ -7,7 +7,7 @@ $$
 The smallest such $T$ is the **fundamental period**. Then, the **fundamental frequency** $f$ is the reciprocal. 
 
 $$
-fT = 1
+fT \equiv 1.
 $$
 
 
