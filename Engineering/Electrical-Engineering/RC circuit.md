@@ -1,0 +1,1 @@
+An **RC circuit** has a [[resistor]] and a [[capacitor]].
