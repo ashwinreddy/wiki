@@ -16,4 +16,4 @@ $$
 
 |Time|Frequency|
 |----|---------|
-|$\delta(t)$|1|
+|[[Dirac delta]] $\delta(t)$|1|
