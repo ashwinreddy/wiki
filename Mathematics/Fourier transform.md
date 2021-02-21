@@ -7,3 +7,13 @@ $$
 $$
 \mathcal{F}^{-1}\\{X(\omega)\\} = \frac{1}{2\pi}\int_\RR X(\omega) e^{\iota \omega t} \dd{\omega}
 $$
+
+# Properties
+
+* [[Linear map]]
+
+# Common transforms
+
+|Time|Frequency|
+|----|---------|
+|$\delta(t)$|1|
