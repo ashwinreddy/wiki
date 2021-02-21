@@ -17,6 +17,10 @@ We are going to assume that $x(t)$ is absolutely integrable.
 * [[Linear map]] means $$\mathcal{F}\\{\alpha x(t) + \beta y(t)\\} = \alpha \mathcal{F}\\{x(t)\\} + \beta \mathcal{F}\\{y(t)\\}$$.
 * Time shift means $$\mathcal{F}\\{x(t-t_0)\\} = e^{-j\omega t_0}\mathcal{F}\\{x(t)\\}$$.
 
+$$
+\mathcal{F}\\{x^*(t)\\} = X^*(-\omega).
+$$
+
 # Common transforms
 
 |Time|Frequency|
