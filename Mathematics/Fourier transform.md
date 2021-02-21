@@ -16,4 +16,5 @@ $$
 
 |Time|Frequency|
 |----|---------|
-|[[Dirac delta function]] $\delta(t)$|1|
+|[[Dirac delta function]]: $\delta(t)$|1|
+|$\exp(j\omega_0 t)$|$2\pi \delta(\omega_0 - 1)$|
