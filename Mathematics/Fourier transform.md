@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-\mathcal{F}^{-1}\\{X(\omega)\\} = \int_\RR X(\omega) e^{\iota \omega t} \dd{\omega}
+\mathcal{F}^{-1}\\{X(\omega)\\} = \frac{1}{2\pi}\int_\RR X(\omega) e^{\iota \omega t} \dd{\omega}
 $$
