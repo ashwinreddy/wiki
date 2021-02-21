@@ -8,6 +8,10 @@ $$
 \mathcal{F}^{-1}\\{X(\omega)\\} = \frac{1}{2\pi}\int_\RR X(\omega) e^{\iota \omega t} \dd{\omega}
 $$
 
+# Technical Details
+
+We are going to assume that $x(t)$ is absolutely integrable.
+
 # Properties
 
 * [[Linear map]]
