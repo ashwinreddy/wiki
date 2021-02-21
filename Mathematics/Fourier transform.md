@@ -27,6 +27,12 @@ $$
 \mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = j\omega X(\omega)
 $$
 
+# Convolutions
+
+$$
+\mathcal{F}\\{ x(t) * h(t) \\}  = X(\omega)H(\omega)
+$$
+
 # Common transforms
 
 |Time|Frequency|
