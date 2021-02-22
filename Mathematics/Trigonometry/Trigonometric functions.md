@@ -15,3 +15,7 @@ $$
 $$
 \sin x = \frac{\iota \left(e^{-\iota x} - e^{\iota x} \right)}{2}
 $$
+
+$$
+\cos x = \frac{e^{-\iota x} + e^{\iota x}}{2}
+$$
