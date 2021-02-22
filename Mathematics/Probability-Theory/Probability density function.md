@@ -1,4 +1,4 @@
-A **probability density function (PDF/pdf)** is a [[function]] that assigns probability densities to a continuous [[random variable]]. Since the probability of any given value is 0, we need a function that assigns densities as opposed to [[mass|probability mass function]]:
+A **probability density function (PDF/pdf)** or **density** is a [[function]] that assigns probability densities to a continuous [[random variable]] $X$. Since the probability of any given value is 0, we need a function that assigns densities as opposed to [[mass|probability mass function]]:
 
 $$
 \text{Density} = \frac{\text{Mass}}{\text{Measure}}
@@ -11,5 +11,9 @@ $$
 $$
 
 $$
-\int_{\RR} \varphi(x) \dd{x} = 1.
+\int_{\RR} f_X(x) \dd{x} = 1.
+$$
+
+$$
+f_X(x) \geqslant 0
 $$
