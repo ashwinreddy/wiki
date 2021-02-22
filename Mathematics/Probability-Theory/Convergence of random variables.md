@@ -16,6 +16,8 @@ $$
 \lim_{n \to \infty} \Pr( |X_n - X| > \epsilon) = 0.
 $$
 
+e.g. [[law of large numbers]]
+
 # Convergence in distribution
 
 $X_n \to X$ in distribution if for all $x$,
