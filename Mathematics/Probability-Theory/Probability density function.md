@@ -18,7 +18,7 @@ We know that the total probability mass is 1 by the Kolmogorov axioms, which put
 
 # Technical details
 
-Adapt equation \ref{eq:kol-req}
+Adapting equation \ref{eq:kol-req},
 
 \begin{gather}
 \int_{\RR} f_X(x) \dd{x} = 1. \\\\
