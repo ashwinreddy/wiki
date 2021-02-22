@@ -3,7 +3,7 @@ A **random variable (RV / r.v. / R.V.)** assigns a [[real number]] to every outc
 However, we don't usually think about $X(\omega)$ directly. Instead, the r.v. annotates each possible outcome with a probability, typically in the form of a [[probability mass function]] (pmf) or [[probability density function]] (pdf). 
 
 
-Random variables are the building block of probability. 
+R.V.s are the building block of probability. 
 
 
 
