@@ -5,7 +5,7 @@
 That is, all observed realizations of the sequence converge to the limit.
 
 $$
-\Pr \left(\\{ \omega: \lim_{n \to \infty} X_n(\omega) = X(\omega) \\} \right) = 1,
+\Pr \left(\left \\{ \omega: \lim_{n \to \infty} X_n(\omega) = X(\omega) \right\\} \right) = 1,
 $$
 
 so that as functions $X_n \to X$ converge pointwise. We say _almost_ surely because you can imagine an example like a dartboard. Landing a dart on the exact diagonal happens with probability 0, so it almost surely will not happen (part of the sample space, but has probability 0).
