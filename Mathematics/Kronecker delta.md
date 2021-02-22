@@ -11,6 +11,6 @@ Similar to [[Dirac delta function]].
 
 
 $$
-\sum_{n = -\infty}^\infty x[n]\delta[n - k] = x[k]
+\sum_{n = -\infty}^\infty x[n]\delta[n - k] \equiv x[k]
 $$
 
