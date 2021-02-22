@@ -1,7 +1,7 @@
 **Integration by substitution** is a technique for computing an [[integral]] by running the [[chain rule]] in reverse. In one dimension,
 
 \begin{equation}
-\int_a^b \left[ f\left(\phi\left(x\right)\right)\dv{\phi}{x}\right] \dd{x} = \int_{\phi(a)}^{\phi(b)} f(u)\\, \dd{u}
+\int_a^b \left[ f\left(\phi\left(x\right)\right)\dv{\phi}{x}\right] \dd{x} = \int_{\phi(a)}^{\phi(b)} f(\xi)\\, \dd{\xi}
 \end{equation}
 
 # Example
