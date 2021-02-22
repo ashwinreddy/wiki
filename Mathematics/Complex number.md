@@ -6,6 +6,12 @@ $$
 
 We denote the [[set]] of complex numbers $\mathbb{C}$, which naturally forms a 2-dimensional [[vector space]]. 
 
+# Magnitude
+
+$$
+|z| = \sqrt{z \bar{z}}
+$$
+
 # Notation
 
 It is useful to refer to the real and imaginary parts of a complex number without needing to label these explictly. 
