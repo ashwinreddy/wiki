@@ -6,6 +6,10 @@ The **Kronecker delta** $\delta$ is symbolically written using the [[Iverson bra
 
 Similar to [[Dirac delta function]].
 
+# Properties
+
+
+
 $$
 \sum_{n = -\infty}^\infty x[n]\delta[n - k] = x[k]
 $$
