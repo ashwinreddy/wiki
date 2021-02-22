@@ -8,3 +8,4 @@ A **probability distribution** gives the probabilities of outcomes for an [[expe
 
 * [[Exponential distribution]]
 * [[Poisson distribution]]
+* [[Normal distribution]]
