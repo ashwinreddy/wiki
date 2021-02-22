@@ -21,7 +21,7 @@ Commutative property
 : $y(t) = x(t) * h(t)$.
 
 Distributive
-: $f * (g+h) = (f*g) + (f*h)$
+: $f * (g+h) = (f\*g) + (f*h)$
 
 $$
 x(t) * \alpha \delta(t - T) = \alpha x(t - T)
