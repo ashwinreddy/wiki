@@ -11,3 +11,11 @@ p_X(x) \geq 0 \\\\\ \sum_x p_X(x) = 1
 \end{gather}
 
 You could imagine the pmf as a vector.
+
+# Example
+
+Suppose $X$ can take on values $x_1, \dots, x_n$. Then,
+
+\begin{equation}
+\Pr(X = x) = \begin{cases} p_1 & x= x_1 \\\\ \vdots & \vdots \\\\ p_n & x = x_n \end{cases}
+\end{equation}
