@@ -14,6 +14,10 @@ $$
 
 We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$. [[Kronecker delta]]
 
+# [[Support]]
+
+Suppose we have $\delta(t - f(t))$, then it's support is only when $t = f(t)$.
+
 # Properties
 
 * It is the [[derivative]] of the [[Heaviside step function]]:
@@ -30,9 +34,6 @@ $$
 \int_\RR \delta(x - x_0)f(x) \\,\dd{x} = f(x_0) \tag{Sifting property}
 \end{equation}
 
-* $$
-t \neq T \implies \delta(t - T) = 0 
-$$
 
 * $\delta(at) = \frac{\delta(t)}{|a|}$
 * If there is unique solution to $g(x_0) = 0$, $\delta(g(x)) = \frac{\delta(x-x_0)}{| g'(x_0) |}$
