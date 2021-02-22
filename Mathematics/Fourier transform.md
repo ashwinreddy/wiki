@@ -41,4 +41,4 @@ $$
 |Complex exponential|$\exp(j\omega_0 t)$|$2\pi \delta(\omega_0 - 1)$|
 |One-sided decaying exponential|$e^{-at}u(t)$, $a > 0$|$\frac{1}{a + \iota \omega}$|
 |[[Dirac comb]] of period $T$||$\sum_{n=-\infty}^\infty e^{-\iota\omega n T}$|
-|[[Rectangular function]]|$\mathsf{rect}(t) = u(t + 0.5) - u(t - 0.5)$||
+|[[Rectangular function]]|$\mathsf{rect}(t) = u(t + 1/2) - u(t - 1/2)$|$\operatorname{sinc}(\omega / 2)$|
