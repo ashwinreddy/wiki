@@ -27,9 +27,6 @@ $$
 x(t) * \alpha \delta(t - T) = \alpha x(t - T)
 $$
 
-* Convolution between two same-size rectangles is triangle
-* Convolution between two different size rectangles is trapezoid
-
 # Examples
 
-* Convolution of two [[rectangular function]] is [[triangular function]]
+* Convolution of two [[rectangular function]] is [[triangular function]] (same size) or a trapezoid (different size)
