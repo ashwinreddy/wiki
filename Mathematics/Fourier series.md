@@ -6,11 +6,10 @@ $$
 e^{\iota k \omega x} = \cos(k \omega x) + \iota \sin(k \omega x)
 $$
 
-$$
+\begin{equation}
 f(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis Equation}
-$$
+\end{equation}
 
-Then, $c_0$ is the average value of the function over one period.
 
 # CTFS
 
@@ -18,6 +17,9 @@ Then, $c_0$ is the average value of the function over one period.
 $$
 c_k = \frac{1}{T} \int_{\text{1 period}} f(t) e^{-\iota k \omega_0 t}\dd{t} \tag{Analysis Equation}
 $$
+
+Then, $c_0$ is the average value of the function over one period.
+
 
 $$
 X(\omega) = 2\pi \sum_{k=-\infty}^\infty c_k \delta \left( \omega - \omega_0 k \right)
