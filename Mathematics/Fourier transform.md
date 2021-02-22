@@ -15,20 +15,20 @@ We are going to assume that $x(t)$ is absolutely integrable.
 # Properties
 
 
-* [[Linear map]] means $$\mathcal{F}\\{\alpha x(t) + \beta y(t)\\} = \alpha \mathcal{F}\\{x(t)\\} + \beta \mathcal{F}\\{y(t)\\}.$$
-* Time shift means $$\mathcal{F}\\{x(t-t_0)\\} = e^{-\iota\omega t_0}\mathcal{F}\\{x(t)\\}.$$
+Linearity
+: As a [[linear map]], $$\mathcal{F}\\{\alpha x(t) + \beta y(t)\\} = \alpha \mathcal{F}\\{x(t)\\} + \beta \mathcal{F}\\{y(t)\\}.$$
 
-The transform of the conjugate of a function is given by
+Time shift property
+: $$\mathcal{F}\\{x(t-t_0)\\} = e^{-\iota\omega t_0}\mathcal{F}\\{x(t)\\}.$$
 
-$$
-\mathcal{F}\\{x^\*(t)\\} = X^*(-\omega).
-$$
+Conjugate property
+: $$\mathcal{F}\\{x^\*(t)\\} = X^*(-\omega).$$
 
-$$
-\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = \iota\omega X(\omega)
-$$
+Time derivative property
+: $$\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = \iota\omega X(\omega)$$
 
-* Time reversal: $$\mathcal{F}\\{x(-t)\\}=X(-\omega).$$
+Time reversal property
+: $$\mathcal{F}\\{x(-t)\\}=X(-\omega).$$
 
 # Convolutions
 
