@@ -1,4 +1,4 @@
-The **Fourier transform (FT)** is an [[integral transform]] closely related to the [[Laplace transform]].
+The **Fourier transform (FT)** is an [[integral transform]] when the [[Laplace transform]] variable $s = j \omega$.
 
 $$
 \mathcal{F}\\{x(t)\\} = \int_\RR x(t) e^{-\iota \omega t} \dd{t} \tag{CTFT Analysis}
