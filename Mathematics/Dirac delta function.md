@@ -22,7 +22,9 @@ $$
 \delta(t) = \dv{u(t)}{t}
 $$
 
-* $$\delta(t) = \int_\RR e^{j\omega t} \dd{\omega}$$
+$$
+\delta(t - t_0) = \int_\RR e^{j\omega(t - t_0)} \dd{\omega}
+$$
 
 * \begin{equation}
 \int_\RR \delta(x - x_0)f(x) \\,\dd{x} = f(x_0) \tag{Sifting property}
