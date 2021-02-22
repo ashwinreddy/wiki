@@ -16,7 +16,7 @@ We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 
 
 # [[Support]]
 
-Suppose we have $\delta(t - f(t))$, then it's support is only when $t = f(t)$.
+Suppose we have $\delta(t - f(t))$, then it's supported only when $t = f(t)$.
 
 # Properties
 
