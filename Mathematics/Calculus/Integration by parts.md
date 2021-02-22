@@ -5,20 +5,10 @@ $$
 $$
 
 $$
-uv = \int u \\, \dd{v} + \int v \\, \dd{u}
+uv = \int u \\, \dd{v} + \int v \\, \dd{u} \tag{Product Rule}
 $$
 
-Then, if you have a complicated integral, the actual technique is
 
-$$
-\int u \\, \dd{v}  = uv - \int v \\, \dd{u} 
-$$
-
-Of course, the technique can be adapted to include limits.
-
-$$
-\int_a^b u \\, \dd{v}  = \left[uv\right]_a^b - \int_a^b v \\, \dd{u} 
-$$
 
 # Quantum Mechanics
 
