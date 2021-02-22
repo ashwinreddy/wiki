@@ -20,5 +20,5 @@ c_k = \frac{1}{T} \int_{\text{1 period}} f(t) e^{-\iota k \omega_0 t}\dd{t} \tag
 $$
 
 $$
-X(\omega) = 2\pi \sum_{k=-\infty}^\infty c_k \delta( \omega - \frac{2\pi k}{T} )
+X(\omega) = 2\pi \sum_{k=-\infty}^\infty c_k \delta \left( \omega - \omega_0 k \right)
 $$
