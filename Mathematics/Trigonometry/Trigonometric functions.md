@@ -9,3 +9,9 @@ $$
 $$
 \sin^2 \theta + \cos^2\theta = 1
 $$
+
+# Exponential form
+
+$$
+\sin x = \frac{\iota(\exp(-\iota x) - \exp(\iota x) )}{2}
+$$
