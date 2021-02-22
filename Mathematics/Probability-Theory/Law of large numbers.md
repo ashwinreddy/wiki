@@ -10,4 +10,4 @@ The weak law says that for i.i.d $X_i$, that for any $\epsilon > 0$,
 
 # Strong
 
-The empirical mean of pairwise independent and identically distributed random variables converges to the true mean [[almost surely|almost sure convergence]].
+The empirical mean of pairwise independent and identically distributed random variables with finite mean converges to the true mean [[almost surely|almost sure convergence]].
