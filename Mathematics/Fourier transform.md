@@ -1,4 +1,4 @@
-The **Fourier transform (FT)** is an [[integral transform]] when the [[Laplace transform]] variable $s = j \omega$.
+The **Fourier transform (FT)** is an [[integral transform]] when the [[Laplace transform]] variable $s = \iota\omega$.
 
 $$
 \mathcal{F}\\{x(t)\\} = \int_\RR x(t) e^{-\iota \omega t} \dd{t} \tag{CTFT Analysis}
@@ -24,7 +24,7 @@ $$
 $$
 
 $$
-\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = j\omega X(\omega)
+\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = \iota\omega X(\omega)
 $$
 
 # Convolutions
