@@ -25,10 +25,13 @@ Conjugate property
 : $$\mathcal{F}\\{x^\*(t)\\} = X^*(-\omega).$$
 
 Time derivative property
-: $$\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = \iota\omega X(\omega)$$
+: $$\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = \iota\omega X(\omega).$$
 
 Time reversal property
 : $$\mathcal{F}\\{x(-t)\\}=X(-\omega).$$
+
+Time scaling
+: $$\mathcal{F}\\{x(at)\\}=\frac{1}{a}X\left(\frac{\omega}{a}\right)$$
 
 # Convolutions
 
