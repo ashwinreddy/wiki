@@ -18,3 +18,7 @@ Then, $c_0$ is the average value of the function over one period.
 $$
 c_k = \frac{1}{T} \int_{\text{1 period}} f(t) e^{-\iota k \omega_0 t}\dd{t} \tag{Analysis Equation}
 $$
+
+$$
+X(\omega) = 2\pi \sum_{k=-\infty}^\infty c_k \delta( \omega - \frac{2\pi k}{T} )
+$$
