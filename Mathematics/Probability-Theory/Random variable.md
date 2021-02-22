@@ -1,6 +1,10 @@
-A **random variable (RV / r.v. / R.V.)** assigns a [[real number]] to every outcome in a [[sample space]] $\Omega$. Formally, we write it as a [[function]] $X: \Omega \to \RR$.
+A **random variable (RV / r.v. / R.V.)** assigns a [[real number]] to every outcome in a [[sample space]] $\Omega$. Formally, we write it as a [[function]] $X: \Omega \to \RR$. So, they assign a discrete or continuous quantity to outcomes. 
 
-Random variables are the building block of probability. Simply put, they represent a discrete or continuous quantity (more technically, the outcome of an [[experiment]]) whose value is uncertain. Mechanically, the variable annotates each possible outcome with a probability, typically in the form of a [[probability mass function]] (pmf) or [[probability density function]] (pdf). 
+However, we don't usually think about $X(\omega)$ directly. Instead, the r.v. annotates each possible outcome with a probability, typically in the form of a [[probability mass function]] (pmf) or [[probability density function]] (pdf). 
+
+
+Random variables are the building block of probability. 
+
 
 
 # Technical details
