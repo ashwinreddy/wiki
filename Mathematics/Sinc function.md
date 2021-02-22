@@ -1,5 +1,5 @@
 The **sinc function**
 
 $$
-\operatorname{sinc} x = \frac{\sin x}{x}
+\operatorname{sinc} x \triangleq \frac{\sin x}{x}
 $$
