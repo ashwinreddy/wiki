@@ -15,6 +15,10 @@ $$
 \angle\left(e^{\iota \omega}\right) = \omega
 $$
 
+$$
+\angle\left(a + b \iota \right) = \arctan b / a
+$$
+
 # Notation
 
 It is useful to refer to the real and imaginary parts of a complex number without needing to label these explictly. 
