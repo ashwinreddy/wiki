@@ -8,3 +8,10 @@ $$
 f(t) \circ g(t) = f(t) * g(-t)
 $$
 
+# Properties
+
+If $R_{x,y}(t)$ is the cross-correlation between $x(t)$ and $y(t)$, then
+
+$$
+R_{x,y}(t) = - R_{y,x}(t)
+$$
