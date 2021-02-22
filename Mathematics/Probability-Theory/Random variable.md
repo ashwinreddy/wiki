@@ -1,4 +1,4 @@
-A **random variable (RV / r.v. / R.V.)** assigns a [[real number]] to every event in a [[probability space]]. Formally, we write it as a [[function]] $X: \Omega \to \RR$.
+A **random variable (RV / r.v. / R.V.)** assigns a [[real number]] to every event in a [[probability space]] $(\Omega, \mathcal{F}, \mathbb{P})$. Formally, we write it as a [[function]] $X: \Omega \to \RR$.
 
 Random variables are the building block of probability. Simply put, they represent a discrete or continuous quantity (more technically, the outcome of an [[experiment]]) whose value is uncertain. Mechanically, the variable annotates each possible outcome with a probability, typically in the form of a [[probability mass function]] (pmf) or [[probability density function]] (pdf). 
 
