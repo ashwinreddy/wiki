@@ -1,4 +1,4 @@
-**Almost sure** is a kind of [[convergence of random variables]]. We say $X_n a \overset{p}{\to} b X$ almost surely if
+**Almost sure** is a kind of [[convergence of random variables]]. We say $X_n \overset{\text{a.s.}}{\to} X$ almost surely if
 
 $$
 \Pr \left(\lim_{n \to \infty} X_n = X\right) = 1,
