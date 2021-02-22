@@ -10,4 +10,4 @@ The weak law says that for i.i.d $X_i$, that for any $\epsilon > 0$,
 
 # Strong
 
-The empirical mean of i.i.d. $X_i$ with finite mean converges to the true mean [[almost sure convergence]].
+The empirical mean of i.i.d. random variables converges to the true mean [[almost surely|almost sure convergence]].
