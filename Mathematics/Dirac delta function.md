@@ -23,7 +23,7 @@ $$
 $$
 
 $$
-\delta(t - t_0) = \int_\RR e^{j\omega(t - t_0)} \dd{\omega}
+\delta(t) = \int_\RR e^{j\omega t} \dd{\omega}
 $$
 
 * \begin{equation}
