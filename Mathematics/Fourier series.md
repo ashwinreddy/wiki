@@ -21,6 +21,8 @@ $$
 Then, $c_0$ is the average value of the function over one period.
 
 
+The [[Fourier transform]] given the coefficients $c_k$ is
+
 $$
 X(\omega) = 2\pi \sum_{k=-\infty}^\infty c_k \delta \left( \omega - \omega_0 k \right)
 $$
