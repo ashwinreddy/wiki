@@ -33,6 +33,11 @@ $$
 \mathcal{F}\\{ x(t) * h(t) \\}  = X(\omega)H(\omega)
 $$
 
+
+$$
+\mathcal{F}\\{ x(t) h(t) \\}  = X(\omega) * H(\omega)
+$$
+
 # Common transforms
 
 |Time|Expression|Frequency|
