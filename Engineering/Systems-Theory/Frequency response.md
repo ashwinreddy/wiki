@@ -1,0 +1,1 @@
+The **frequency response** for a system is the output when a harmonic $e^{\iota \omega t}$ is fed in.
