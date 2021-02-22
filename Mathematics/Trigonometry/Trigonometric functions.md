@@ -13,5 +13,5 @@ $$
 # Exponential form
 
 $$
-\sin x = \frac{\iota \left(\exp(-\iota x) - \exp(\iota x) \right)}{2}
+\sin x = \frac{\iota \left(e^{-\iota x} - e^{\iota x} \right)}{2}
 $$
