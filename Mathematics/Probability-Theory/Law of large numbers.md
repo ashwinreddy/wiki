@@ -1,4 +1,6 @@
-# Weak
+# Weak Law
+
+> The empirical mean of i.i.d. random variables converges in probability to the [[expected value]] of one of the variables.
 
 The weak law says that for i.i.d $X_i$, that for any $\epsilon > 0$,
 
