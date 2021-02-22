@@ -7,7 +7,7 @@ $$
 meaning the set of outcomes $\omega \in \Omega$ for which $X_n(\omega) \longrightarrow X(\omega)$ forms an event of probability 1. That is, all observed realizations of the sequence converge to the limit and $X_n \to X$ converge pointwise. 
 
 $$
-\Pr \left( \lim_{n \to \infty} X_n = X \right) = 1.
+\Pr \left( \lim_{n \to \infty} X_n = X \right) = 1. \tag{Almost Sure Convergence Test}
 $$
 
 # Strength
