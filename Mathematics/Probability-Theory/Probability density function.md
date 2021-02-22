@@ -1,7 +1,7 @@
 A **probability density function (PDF/pdf)** or **density** is a [[function]] $f_X$ that assigns probability densities to a continuous [[random variable]] $X$. 
 
 $$
-\Pr(a < x < b) = \int_a^b f_X(x) \dd{x}
+\Pr(a < x < b) = \int_a^b f_X(x) \dd{x}.
 $$
 
 # Density vs. Mass
