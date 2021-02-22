@@ -10,12 +10,15 @@ $$
 
 We know that the total probability mass is 1 by the Kolmogorov axioms, which puts a restriction:
 
-$$
+\begin{equation}
+\label{eq:kol-req}
 \int \text{Density}\cdot\dd{\text{Measure}} = 1.
-$$
+\end{equation}
 
 
 # Technical details
+
+Adapt equation \ref{eq:kol-req}
 
 \begin{gather}
 \int_{\RR} f_X(x) \dd{x} = 1. \\\\
