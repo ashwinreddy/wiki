@@ -6,10 +6,14 @@ $$
 
 meaning the set of outcomes $\omega \in \Omega$ for which $X_n(\omega) \longrightarrow X(\omega)$ forms an event of probability 1. That is, all observed realizations of the sequence converge to the limit and $X_n \to X$ converge pointwise. 
 
-# Technical details
+# Strength
 
-We say _almost_ surely because you can imagine an example like a dartboard. Landing a dart on the exact diagonal happens with probability 0, so it almost surely will not happen (part of the sample space, but has probability 0).
+Almost sure convergence is the strongest kind of convergence in probability.
 
 $$
 \text{Almost sure convergence} \implies \text{Convergence in probability} \implies \text{Convergence in distribution}
 $$
+
+# Technical details
+
+We say _almost_ surely because you can imagine an example like a dartboard. Landing a dart on the exact diagonal happens with probability 0, so it almost surely will not happen (part of the sample space, but has probability 0).
