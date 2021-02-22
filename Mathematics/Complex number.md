@@ -6,10 +6,13 @@ $$
 
 We denote the [[set]] of complex numbers $\mathbb{C}$, which naturally forms a 2-dimensional [[vector space]]. 
 
-# Magnitude
 
 $$
 |z| = \sqrt{z \bar{z}}
+$$
+
+$$
+\angle\left(e^{\iota \omega}\right) = \omega
 $$
 
 # Notation
