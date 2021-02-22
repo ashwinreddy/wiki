@@ -1,4 +1,4 @@
-The **Fourier series** is a [[series]] decomposition of a [[periodic function]] $f(x)$ with fundamental period $T$ using a [[linear combination]] of [[sine waves|sine wave]] and cosine waves. For simplicity, let $\omega_0 \equiv \frac{2\pi}{T}$.
+The **Fourier series** is a [[series]] decomposition of a [[periodic function]] $f(t)$ with fundamental period $T$ using a [[linear combination]] of [[sine waves|sine wave]] and cosine waves. For simplicity, let $\omega_0 \equiv \frac{2\pi}{T}$.
 
 We can allow a [[complex number]] to carry both the sine and cosine amplitudes in a meaningful way since
 
