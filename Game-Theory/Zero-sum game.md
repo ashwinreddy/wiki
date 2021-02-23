@@ -1,4 +1,4 @@
-A **zero-sum game** is one where the cost of losing is the benefit of winning so that the total payoff across players is 0.
+A **zero-sum game** is a [[general-sum game]] where the cost of losing is the benefit of winning so that the total payoff across players is 0.
 
 [[_TOC_]]
 
