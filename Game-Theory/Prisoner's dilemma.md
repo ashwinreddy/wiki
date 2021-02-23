@@ -1,4 +1,4 @@
-||Silent|Confess|
+|Payoff|Silent|Confess|
 ||------|-------|
 |Silent||
 |Confess||
