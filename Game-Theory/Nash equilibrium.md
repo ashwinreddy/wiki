@@ -1,1 +1,1 @@
-**Nash equilibrium** is a pair of strategies that are best responses to each other. For zero-sum game, this means they are optimal strategies.
+**Nash equilibrium** is a pair of [[strategies|strategy]] that are best responses to each other. For zero-sum game, this means they are optimal strategies.
