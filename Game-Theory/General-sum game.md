@@ -1,0 +1,1 @@
+A **general-sum game** gives payoffs $a_{ij}$ and $b_{ij}$ to its players. We often want to find [[Nash equilibrium]]
