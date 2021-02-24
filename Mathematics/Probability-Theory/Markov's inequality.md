@@ -11,7 +11,7 @@ $$
 Let's define 
 
 $$
-Y(\omega) = \begin{cases} \epsilon & X(\omega) \geqslant 0 \\\\ 0 \end{cases}
+Y(\omega) = \begin{cases} \epsilon & X(\omega) \geqslant 0 \\\\ 0 & \text{otherwise} \end{cases}
 $$
 
 This makes $Y \leqslant X$ such that
