@@ -12,13 +12,13 @@ $$
 \varphi_Z(z) = {\exp\left( - x^2 / 2 \right) \over \sqrt{2\pi}}   
 $$
 
-We can write that
+It turns out that $X \sim \mathcal{N}(\mu, \sigma^2)$ means
 
 \begin{equation}
 X = \mu + \sigma Z
 \end{equation}
 
-Roughly 68% of the probability mass falls within 1 standard deviation of the mean.
+
 
 # Standard Normal Distribution
 
@@ -40,6 +40,7 @@ $$
 * $X \sim \mathcal{N}(\mu_x, \sigma_x^2)$, $Y \sim \mathcal{N}(\mu_y, \sigma_y^2)$ then $X+Y \sim \mathcal{N}(\mu_x + \mu_y, \sigma_x\^2+\sigma_y^2)$.
 * If the sum of independent r.v.s is Gaussian, the r.v.s are Gaussian
 
+* Roughly 68% of the probability mass falls within 1 standard deviation of the mean.
 
 Possibly the simplest normal distribution to write down is the one with 0 mean and variance $(2\pi)^{-1}$.
 
