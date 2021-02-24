@@ -12,8 +12,10 @@ $$
 \varphi_Z(z) = {\exp\left( - x^2 / 2 \right) \over \sqrt{2\pi}}   
 $$
 
+We can write that
+
 \begin{equation}
-X = \mu + \sigma Z \iff Z = { X - \mu \over \sigma}
+X = \mu + \sigma Z
 \end{equation}
 
 Roughly 68% of the probability mass falls within 1 standard deviation of the mean.
