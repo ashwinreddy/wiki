@@ -28,6 +28,3 @@ This idea can also apply to convex combinations.
 
 Say the optimal strategy is fully mixed. Then, you can find strategies by equating the payoffs. If you end up with pure strategies, then this method "fails."
 
-## Principle of Indifference
-
-## Symmetry
