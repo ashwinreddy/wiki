@@ -5,5 +5,5 @@ Suppose $X_1, \dots, X_n$ are [[iid]] [[random variables|random variable]]  of m
 As $n \to \infty$,
 
 $$
-\frac{X_1 + \dots + X_n - n\mu}{\sigma \sqrt{n}} \overset{}{\longleftarrow}
+\frac{X_1 + \dots + X_n - n\mu}{\sigma \sqrt{n}} \overset{\mathsf{d}}{\longrightarrow}
 $$
