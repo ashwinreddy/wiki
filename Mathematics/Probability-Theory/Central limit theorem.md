@@ -1,1 +1,1 @@
-The **central limit theorem (CLT)** roughly says that the sum of [[iid]] [[random variables|random variable]] of mean $\mu$ and [[variance]] $\sigma^2$ tends to become [[normal distribution]].
+The **central limit theorem (CLT)** roughly says that for [[iid]] [[random variables|random variable]] $X_1, \dots, X_n$ of mean $\mu$ and [[variance]] $\sigma^2$, $\sqrt{n}\left(\right)$ tends to become [[normal distribution]].
