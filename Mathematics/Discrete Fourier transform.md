@@ -1,1 +1,1 @@
-The **discrete Fourier transform (DFT)**
+The **discrete Fourier transform (DFT)** is like the [[Fourier transform]].
