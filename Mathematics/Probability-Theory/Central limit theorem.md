@@ -1,1 +1,1 @@
-The **central limit theorem (CLT)** roughly says that for [[iid]] [[random variables|random variable]] $X_1, \dots, X_n$ of mean $\mu$ and [[variance]] $\sigma^2$, $\sqrt{n}\left(\right)$ tends to become [[normal distribution]].
+The **central limit theorem (CLT)** roughly says that for [[iid]] [[random variables|random variable]] $X_1, \dots, X_n$ of mean $\mu$ and [[variance]] $\sigma^2$, $\sqrt{n}\left(\bar{X}_n - \mu \right)$ converges in distribution to $\mathcal{N}(0, \sigma^2)$.
