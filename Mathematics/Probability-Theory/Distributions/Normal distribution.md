@@ -1,28 +1,8 @@
-A **normal distribution** or **Gaussian distribution** is a very common [[probability distribution]]. 
+A **normal distribution** or **Gaussian distribution** is a very common [[probability distribution]] with [[probability density function]] a [[Gaussian function]]. 
 
 
 \begin{equation}
 X \sim \mathcal{N}(\mu, \sigma^2) \iff \varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
-\end{equation}
-
-
-
-
-
-The general form is a little more involved, with a [[normalizing constant]] of $1/\sqrt{2\pi}$. It is a [[Gaussian function]]
-
-
-
-
-
-
-
-
-
-Possibly the simplest normal distribution to write down is the one with 0 mean and variance $(2\pi)^{-1}$.
-
-\begin{equation}
-\varphi(x) = e^{-\pi x^2}
 \end{equation}
 
 
@@ -57,6 +37,14 @@ $$
 
 * $X \sim \mathcal{N}(\mu_x, \sigma_x^2)$, $Y \sim \mathcal{N}(\mu_y, \sigma_y^2)$ then $X+Y \sim \mathcal{N}(\mu_x + \mu_y, \sigma_x\^2+\sigma_y^2)$.
 * If the sum of independent r.v.s is Gaussian, the r.v.s are Gaussian
+
+
+Possibly the simplest normal distribution to write down is the one with 0 mean and variance $(2\pi)^{-1}$.
+
+\begin{equation}
+\varphi(x) = e^{-\pi x^2}
+\end{equation}
+
 
 # Characteristics
 
