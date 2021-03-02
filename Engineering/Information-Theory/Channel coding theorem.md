@@ -1,0 +1,1 @@
+**Channel coding theorem** says that a [[channel]] C
