@@ -5,5 +5,5 @@ $$
 We want
 
 $$
-\nabla J = 0
+\nabla J(\vec{x}) = 0
 $$
