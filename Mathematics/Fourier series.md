@@ -26,3 +26,9 @@ The [[Fourier transform]] given the coefficients $c_k$ is
 $$
 X(\omega) = 2\pi \sum_{k=-\infty}^\infty c_k \delta \left( \omega - \omega_0 k \right)
 $$
+
+# DTFS
+
+$$
+a_k = \frac{1}{N} \sum_{n=0}^{N-1} x[n] e^{-\iota k \omega_0 n}
+$$
