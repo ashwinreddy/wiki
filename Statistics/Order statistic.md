@@ -5,3 +5,5 @@ The $n$th order statistic is the biggest.
 $$
 F_{X_{(n)}}(x) = \left[ F_X(x) \right]^n
 $$
+
+Because if $\max \leq t$, then every one is $\leq t$.
