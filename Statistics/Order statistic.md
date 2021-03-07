@@ -3,5 +3,5 @@ The $k$th **order statistic** $X_{(k)}$ is the $k$th smallest of a set of [[rand
 The $n$th order statistic is the biggest.
 
 $$
-F_{X_{(n)}}(x) = F_X(x)^n
+F_{X_{(n)}}(x) = \left(F_X(x)\right)^n
 $$
