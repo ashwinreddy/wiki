@@ -7,3 +7,7 @@ X(e^{\iota\omega}) = \sum_{n \in \mathbb{Z}} x[n] e^{-\iota\omega n} \tag{Analys
 \begin{equation}
 x[n] = \frac{1}{2\pi} \int_{-\pi}^\pi X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{Synthesis}
 \end{equation}
+
+# Properties
+
+* [[Linear map]]
