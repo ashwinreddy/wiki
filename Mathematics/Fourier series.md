@@ -1,4 +1,4 @@
-The **Fourier series** is a [[series]] decomposition of a [[periodic function]] $f(t)$ with fundamental period $T$ using a [[linear combination]] of [[sine waves|sine wave]] and cosine waves. For simplicity, let the fundamental frequency be $\omega_0 \equiv \frac{2\pi}{T}$.
+The **Fourier series** is a [[series]] decomposition of a [[periodic signal|periodic function]] using a [[linear combination]] of complex exponentials, which carry [[sine waves|sine wave]] and cosine waves. For continuous time, say $f(t)$ with fundamental period $T$. For simplicity, let the fundamental frequency be $\omega_0 \equiv \frac{2\pi}{T}$.
 
 We can allow a [[complex number]] to carry both the sine and cosine amplitudes in a meaningful way since
 
@@ -10,7 +10,7 @@ $$
 x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis Equation}
 \end{equation}
 
-In discrete time, we have the following:
+In discrete time, we have the following for a $x[n]$ with period $N$.
 
 \begin{equation}
 x[n] = \sum_{k=0}^{N-1} c_k e^{\iota k\omega_0 n}
