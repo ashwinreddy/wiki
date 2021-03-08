@@ -30,5 +30,5 @@ $$
 The tail sum formula applies when we suppose $X \geqslant 0$.
 
 $$
-\mathbb{E}[X] = \begin{cases} \sum_{k=0}^\infty \Pr(X > k) & X \text{ discrete} \\\\ \int_{0}^\infty \Pr(X > k) \dd{k} & X \text{ continuous} \end{cases}
+\mathbb{E}(X) = \begin{cases} \sum_{k=0}^\infty \Pr(X > k) & X \text{ discrete} \\\\ \int_{0}^\infty \Pr(X > k) \dd{k} & X \text{ continuous} \end{cases}
 $$
