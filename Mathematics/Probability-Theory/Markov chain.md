@@ -17,5 +17,5 @@ Recurrent state
 : A state $i \in S$ is recurrent if given that $X_0 = i$, the process revisits state $i$ with probability one.
 
 $$
-T_i = \min \left{ n \geqslant 1: X_n = i \right}
+T_i = \min \left\\{ n \geqslant 1: X_n = i \right\\}
 $$
