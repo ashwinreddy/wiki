@@ -7,7 +7,7 @@ e^{\iota k \omega x} = \cos(k \omega x) + \iota \sin(k \omega x)
 $$
 
 \begin{equation}
-f(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis Equation}
+x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis Equation}
 \end{equation}
 
 
