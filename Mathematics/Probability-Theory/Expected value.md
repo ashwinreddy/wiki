@@ -8,7 +8,7 @@ The **expected value** or **expectation** collapses the [[probability distributi
 In terms of the [[cumulative distribution function]],
 
 $$
-\mathbb{E}[X] = \int_{\RR} x\\, \dd{F(x)}
+\mathbb{E}(X) = \int_{\RR} x\\, \dd{F(x)}
 $$
 
 # Properties
@@ -16,14 +16,14 @@ $$
 * Expectation is a [[linear map]]. For _any_ random variables $X$ and $Y$,
 
 \begin{equation}
-\mathbb{E}[X+Y] = \mathbb{E}[X] + \mathbb{E}[Y]
+\mathbb{E}(X+Y) = \mathbb{E}(X) + \mathbb{E}(Y)
 \end{equation}
 
 \begin{equation}
-\mathbb{E}\left[\alpha X\right] = \alpha \mathbb{E}[X]
+\mathbb{E}\left(\alpha X\right) = \alpha \mathbb{E}(X)
 \end{equation}
 
-* Suppose $X$ and $Y$ are independent, then $\mathbb{E}[XY] = \mathbb{E}[X] \cdot \mathbb{E}[Y]$.
+* Suppose $X$ and $Y$ are independent, then $\mathbb{E}(XY) = \mathbb{E}(X) \cdot \mathbb{E}(Y)$.
 
 # Tail Sum Formula
 
