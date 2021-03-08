@@ -1,5 +1,7 @@
 The **Fourier transform (FT)** is an [[integral transform]] when the [[Laplace transform]] variable $s = \iota\omega$.
 
+[[Fourier series]]
+
 # CTFT
 
 $$
