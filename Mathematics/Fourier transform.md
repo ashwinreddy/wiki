@@ -1,5 +1,7 @@
 The **Fourier transform (FT)** is an [[integral transform]] when the [[Laplace transform]] variable $s = \iota\omega$.
 
+# CTFT
+
 $$
 \mathcal{F}\\{x(t)\\} = \int_\RR x(t) e^{-\iota \omega t} \dd{t} \tag{CTFT Analysis}
 $$
@@ -8,9 +10,16 @@ $$
 \mathcal{F}^{-1}\\{X(\omega)\\} = \frac{1}{2\pi}\int_\RR X(\omega) e^{\iota \omega t} \dd{\omega} \tag{CTFT Synthesis}
 $$
 
-# Technical Details
+
+## Technical Details
 
 We are going to assume that $x(t)$ is absolutely integrable.
+
+# DTFT
+
+$$
+X(\omega) = \sum_{n=-\infty}^\infty x[n]e^{-\iota\omega n}
+$$
 
 # Properties
 
