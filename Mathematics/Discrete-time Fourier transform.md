@@ -1,4 +1,4 @@
-The **discrete Fourier transform (DFT)** is like the [[Fourier transform]].
+The **discrete-time Fourier transform (DTFT / DFT)** is the [[Fourier transform]] applied to a discrete signal.
 
 \begin{equation}
 X(e^{\iota\omega}) = \sum_{n \in \mathbb{Z}} x[n] e^{-\iota\omega n} \tag{Analysis}
