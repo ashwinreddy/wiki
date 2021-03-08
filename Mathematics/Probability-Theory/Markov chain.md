@@ -13,4 +13,9 @@ States $i$ and $j$ communicate if we have $i \longleftrightarrow j$, and defines
 Irreducible
 : An irreducible Markov chain is one that has only one class, meaning all states communicate with each other.
 
-A state $i \in S$ is recurrent if given that $X_0 = i$, the process revisits state $i$ with probability one.
+Recurrent state
+: A state $i \in S$ is recurrent if given that $X_0 = i$, the process revisits state $i$ with probability one.
+
+$$
+T_i = \min \left{ n \geqslant 1: X_n = i \right}
+$$
