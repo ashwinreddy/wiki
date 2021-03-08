@@ -10,6 +10,8 @@ $$
 x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis Equation}
 \end{equation}
 
+In discrete time, we have the following:
+
 \begin{equation}
 x[n] = \sum_{k=0}^{N-1} c_k e^{\iota k\omega_0 n}
 \end{equation}
