@@ -15,14 +15,17 @@ x[n] = \sum_{k=0}^{N-1} c_k e^{\iota k\omega_0 n}
 
 # CTFS
 
+Our claim is that a continuous periodic function can be written like
+
 \begin{equation}
 x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Continuous Synthesis Equation}
 \end{equation}
 
+Then, we must have
 
-$$
+\begin{equation}
 c_k = \frac{1}{T} \int_{\text{1 period}} x(t) e^{-\iota k \omega_0 t}\dd{t} \tag{Analysis Equation}
-$$
+\end{equation}
 
 Then, $c_0$ is the average value of the function over one period.
 
