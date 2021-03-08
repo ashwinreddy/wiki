@@ -16,6 +16,14 @@ Irreducible
 Recurrent state
 : A state $i \in S$ is recurrent if given that $X_0 = i$, the process revisits state $i$ with probability one.
 
+Define a [[random variable]] to track the first time entering state $i$:
+
 $$
 T_i = \min \left\\{ n \geqslant 1: X_n = i \right\\}
 $$
+
+Positive recurrent
+: A recurrent state where $\mathbb{E}(T_i \mid X_0 = i) < \infty$
+
+Null recurrent
+: A recurrent state where $\mathbb{E}(T_i \mid X_0 = i) = \infty$
