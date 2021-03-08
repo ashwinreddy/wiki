@@ -6,8 +6,11 @@ A **Markov chain** is a random process $X_n$ where $X_i \in S$ where $S$ is a st
 
 # Classification
 
-## Accessibility
-
 If there is a path in state-transition diagram from $i$ to $j$ (i.e. $P_{ij}^n > 0$ for some $n \geqslant 1$), then $j$ is _accessible_ from $i$, and we write $i \rightarrow j$. 
 
 States $i$ and $j$ communicate if we have $i \longleftrightarrow j$, and defines an [[equivalence relation]] and [[equivalence class]]
+
+Irreducible
+: An irreducible Markov chain is one that has only one class.
+
+A state $i \in S$ is recurrent if given that $X_0 = i$, the process revisits state $i$ with probability one.
