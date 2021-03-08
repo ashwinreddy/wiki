@@ -30,7 +30,7 @@ $$
 # DTFS
 
 $$
-a_k = \frac{1}{N} \sum_{n=0}^{N-1} x[n] e^{-\iota k \omega_0 n}
+c_k = \frac{1}{N} \sum_{n=0}^{N-1} x[n] e^{-\iota k \omega_0 n}
 $$
 
 Although you can take the sum over any length $N$ interval.
