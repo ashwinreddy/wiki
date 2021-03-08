@@ -5,7 +5,7 @@ $$
 $$
 
 \begin{equation}
-\mathcal{H}(X \mid Y) +  \mathcal{H}(X) = \mathcal{H}(X, Y)
+\mathcal{H}(Y \mid X)  + \mathcal{H}(X) = \mathcal{H}(X, Y)
 \end{equation}
 
 [[Bayes' theorem]] becomes
