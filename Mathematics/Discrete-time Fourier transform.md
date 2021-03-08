@@ -10,4 +10,5 @@ x[n] = \frac{1}{2\pi} \int_{-\pi}^\pi X(e^{\iota\omega}) e^{\iota\omega n} \dd{\
 
 # Properties
 
-* [[Linear map]]
+[[Linearity|Linear map]]
+: $$ax[n] + by[n] \rightarrow aX(\omega) + bY(\omega)$$
