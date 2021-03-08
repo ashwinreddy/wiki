@@ -1,6 +1,4 @@
-The (continuous time) **Fourier transform (CTFT / FT)** is an [[integral transform]] when the [[Laplace transform]] variable $s = \iota\omega$.
-
-[[Fourier series]]
+The (continuous time) **Fourier transform (CTFT / FT)** is an [[integral transform]] when the [[Laplace transform]] variable $s = \iota\omega$. It is related to the [[Fourier series]]
 
 $$
 \mathcal{F}\\{x(t)\\} = \int_\RR x(t) e^{-\iota \omega t} \dd{t} \tag{CTFT Analysis}
