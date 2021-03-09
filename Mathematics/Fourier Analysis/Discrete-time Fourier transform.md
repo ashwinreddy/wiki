@@ -35,4 +35,4 @@ X(\omega) &= \mathcal{F}\\{x(t)\\} \\\\
 |Time|Expression|Frequency|
 |----|----|---------|
 |[[Kronecker delta]]|$\delta[n]$|1|
-|Constant|1|$Shah$|
+|Constant|1|$Ш(f)$|
