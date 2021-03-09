@@ -2,7 +2,6 @@ The **Fourier series** is a [[series]] decomposition of a [[periodic signal|peri
 
 \end{align}
 x(t) &= a_0 + \sum_{n=-\infty}^\infty \left[ a_n \cos(n \omega_0 t) + b_n \sin(n \omega_0 t) \right] \\\\
-
 \end{align}
 
 
