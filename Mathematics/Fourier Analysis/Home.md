@@ -5,4 +5,5 @@
 
 ||Transform|Series|
 |-|--------|------|
-|
+|**Continuous time**|
+|**Discrete time**|
