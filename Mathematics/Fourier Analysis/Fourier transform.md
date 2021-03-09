@@ -9,7 +9,9 @@ $$
 $$
 
 
-## Technical Details
+[[_TOC_]]
+
+# Technical Details
 
 We are going to assume that $x(t)$ is absolutely integrable.
 
