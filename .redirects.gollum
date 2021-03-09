@@ -68,3 +68,5 @@ Game-Theory/Normal play convention .md: Game-Theory/Normal play convention.md
 Mathematics/Probability-Theory/Almost surely.md: Mathematics/Probability-Theory/Almost
   sure convergence.md
 Mathematics/Discrete Fourier transform.md: Mathematics/Discrete-time Fourier transform.md
+Mathematics/Fourier Analysis/Discrete Fourier series.md: Mathematics/Fourier Analysis/Discrete
+  time Fourier series.md
