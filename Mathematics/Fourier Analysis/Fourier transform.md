@@ -37,7 +37,7 @@ Time reversal property
 : $$\mathcal{F}\\{x(-t)\\}=X(-\omega).$$
 
 Time scaling
-: $$\mathcal{F}\\{x(at)\\}=\frac{1}{a}X\left(\frac{\omega}{a}\right).$$
+: $$\mathcal{F}\\{x(at)\\}=\frac{1}{|a|}X\left(\frac{\omega}{a}\right).$$
 
 # Convolutions
 
