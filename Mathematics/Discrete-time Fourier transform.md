@@ -1,7 +1,7 @@
 The **discrete-time Fourier transform (DTFT / DFT)** is the [[Fourier transform]] applied to a discrete signal.
 
 \begin{equation}
-X(e^{\iota\omega}) = \sum_{n \in \mathbb{Z}} x[n] e^{-\iota\omega n} \tag{Analysis}
+X[k] = \sum_{n =0}^{N-1} x[n] e^{-\iota\omega_0 k n}, \qquad \omega_0 = \frac{2\pi}{N} \tag{Analysis}
 \end{equation}
 
 \begin{equation}
