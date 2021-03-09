@@ -1,7 +1,7 @@
 The **Fourier series** is a [[series]] decomposition of a [[periodic signal|periodic function]] using a [[linear combination]] of fixed frequency waves. In other words, we posit that all of the following formulations make sense
 
 $$
-x(t) &= a_0 + \sum_{n=-\infty}^\infty \left[ a_n \cos(n \omega_0 t) + b_n \sin(n \omega_0 t) \right]
+x(t) = a_0 + \sum_{n=-\infty}^\infty \left[ a_n \cos(n \omega_0 t) + b_n \sin(n \omega_0 t) \right]
 $$
 
 \end{align}
