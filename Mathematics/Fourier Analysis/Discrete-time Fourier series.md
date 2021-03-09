@@ -1,6 +1,4 @@
-
-# DTFS
-
+The **discrete time Fourier series** is a special case of the [[Discrete-time Fourier transform]] when the signal is periodic.
 
 In discrete time, we have the following for a $x[n]$ with period $N$.
 
