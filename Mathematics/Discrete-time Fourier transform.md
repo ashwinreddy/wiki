@@ -18,7 +18,7 @@ $$
 
 \begin{align}
 X(\omega) &= \mathcal{F}\\{x(t)\\} \\\\
-&= \mathcal{F}\\{ \sum_{n=-\infty}^\infty x[n] \delta(t-n) \\}  \\\\
+&= \mathcal{F}\left\\{ \sum_{n=-\infty}^\infty x[n] \delta(t-n) \right\\}  \\\\
 &= \sum_{n=-\infty}^\infty x[n] \delta(t-n)
 \end{align}
 
