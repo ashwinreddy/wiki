@@ -19,7 +19,7 @@ $$
 \begin{align}
 X(\omega) &= \mathcal{F}\\{x(t)\\} \\\\
 &= \mathcal{F}\left\\{ \sum_{n=-\infty}^\infty x[n] \delta(t-n) \right\\}  \\\\
-&= \sum_{n=-\infty}^\infty x[n] \delta(t-n)
+&= \sum_{n=-\infty}^\infty x[n] e^{-\iota \omega n}
 \end{align}
 
 # Properties
