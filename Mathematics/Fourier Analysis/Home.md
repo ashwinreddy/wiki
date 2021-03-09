@@ -1,9 +1,9 @@
-* [[Fourier transform]]
-* [[Fourier series]]
+
+
 * [[Discrete-time Fourier transform]]
 * [[Discrete Fourier series]]
 
 ||Transform|Series|
 |-|--------|------|
-|**Continuous time**|
+|**Continuous time**|[[Fourier transform]]|[[Fourier series]]|
 |**Discrete time**|
