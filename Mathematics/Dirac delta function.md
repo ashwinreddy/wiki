@@ -18,6 +18,12 @@ We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 
 
 Suppose we have $\delta(t - f(t))$, then it's supported only when $t = f(t)$.
 
+# Technical Formulation
+
+$$
+\delta(t - \tau) = \int_{-\infty}^\infty e^{\iota 2\pi f(t - \tau)} \dd{f}
+$$
+
 # Properties
 
 * It is the [[derivative]] of the [[Heaviside step function]]:
