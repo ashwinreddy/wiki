@@ -1,13 +1,13 @@
 **Entropy** is the [[expected value]] of [[surprisal]] in a [[random variable]].  
 
 $$
-\mathcal{H}(X) \triangleq \mathbb{E}[I_X(x)]
+\mathcal{H}(X) \triangleq \mathbb{E}(I_X(x))
 $$
 
 If we expose the underlying value we are trying to take the expectation over,
 
 $$
-\mathcal{H}(X) = -\mathbb{E}_{x \sim X}[\log p(x) ]
+\mathcal{H}(X) = -\mathbb{E}_{x \sim X}(\log p(x) )
 $$
 
 Intuitively, it tells you how many bits it takes to describe the random variable. For example, a fair [[Bernoulli distribution]] takes 1 bit. However, a coin that always lands heads or one that always lands tails has zero entropy because there is no surprise.
