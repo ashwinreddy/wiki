@@ -1,1 +1,1 @@
-The **discrete Fourier transform**
+The **discrete Fourier transform (DFT)** takes a length $N$ discrete signal $x[n]$ for $n \in \\{0, \dots, N-1\\}$.
