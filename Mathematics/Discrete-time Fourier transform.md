@@ -2,7 +2,7 @@ The **discrete-time Fourier transform (DTFT / DFT)** is the [[Fourier transform]
 
 \begin{equation} X(e^{\iota\omega}) = \sum_{n = -\infty}^\infty x[n] e^{-\iota\omega n} \tag{Analysis} \end{equation}
 
-<<Note()>>
+Despite $x[n]$ being discrete, $X$ is a continuous function of frequency.
 
 \begin{equation}
 x[n] = \frac{1}{2\pi} \int_{-\pi}^\pi X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{Synthesis}
