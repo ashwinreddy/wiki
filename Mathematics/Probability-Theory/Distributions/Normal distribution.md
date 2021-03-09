@@ -4,24 +4,11 @@ A **normal distribution** or **Gaussian distribution** is a very common [[probab
 Z \sim \mathcal{N}(0, 1) \iff \varphi_Z(z) = {\exp\left( - z^2 / 2 \right) \over \sqrt{2\pi}}   
 \end{equation}
 
+Such that
 
 \begin{equation}
-X \sim \mathcal{N}(\mu, \sigma^2) \iff \varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
+X \sim \mathcal{N}(\mu, \sigma^2) \iff X = \mu + \sigma Z \iff \varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
 \end{equation}
-
-
-However, we can write $X$ using the standard normal $Z \sim \mathcal{N}(0, 1)$.
-
-$$
-
-$$
-
-It turns out that $X \sim \mathcal{N}(\mu, \sigma^2)$ means
-
-\begin{equation}
-X = \mu + \sigma Z
-\end{equation}
-
 
 
 # Standard Normal Distribution
