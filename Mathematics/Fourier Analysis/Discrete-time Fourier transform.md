@@ -1,4 +1,4 @@
-The **discrete-time Fourier transform (DTFT / DFT)** is the [[Fourier transform]] applied to a discrete signal $x[n]$ of length $N$.
+The **discrete-time Fourier transform (DTFT)** is the [[Fourier transform]] applied to a discrete signal $x[n]$ of length $N$.
 
 \begin{equation} X(e^{\iota\omega}) = \sum_{n = -\infty}^\infty x[n] e^{-\iota\omega n} \tag{Analysis} \end{equation}
 
