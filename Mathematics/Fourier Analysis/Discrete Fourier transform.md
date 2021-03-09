@@ -7,3 +7,7 @@ $$
 $$
 x[n] = \frac{1}{N} \sum_{k=0}^{N-1} X[k] e^{\iota \omega_0 k n}, \qquad n = 0, \dots, N-1
 $$
+
+$$
+\vec{X} = F \vec{x}
+$$
