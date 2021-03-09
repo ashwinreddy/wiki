@@ -1,4 +1,4 @@
-**Parseval's theorem**. Consider the energy per unit frequency interval:
+**Parseval's theorem**. Consider the energy per unit frequency interval (power):
 
 $$
 \mathcal{E}(\omega_0) = \lim_{\delta \omega \to 0}\frac{E(\omega_0 + \delta\omega) - E(\omega_0)}{\delta \omega}
