@@ -8,12 +8,15 @@ x(t) &= a_0 + \sum_{n=1}^\infty \left[ a_n \cos(n \omega_0 t) + b_n \sin(n \omeg
 
 For simplicity, let the fundamental frequency be $\omega_0 \equiv \frac{2\pi}{T}$.
 
+# Synthesis
 
 Our claim is that a continuous periodic function can be written like
 
 \begin{equation}
 x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Continuous Synthesis Equation}
 \end{equation}
+
+# Analysis
 
 Then, we must have
 
@@ -29,18 +32,3 @@ The [[Fourier transform]] given the coefficients $c_k$ is
 $$
 X(\omega) = 2\pi \sum_{k=-\infty}^\infty c_k \delta \left( \omega - \omega_0 k \right)
 $$
-
-# DTFS
-
-
-In discrete time, we have the following for a $x[n]$ with period $N$.
-
-\begin{equation}
-x[n] = \sum_{k=0}^{N-1} c_k e^{\iota k\omega_0 n}
-\end{equation}
-
-$$
-c_k = \frac{1}{N} \sum_{n=0}^{N-1} x[n] e^{-\iota k \omega_0 n}
-$$
-
-Although you can take the sum over any length $N$ interval.
