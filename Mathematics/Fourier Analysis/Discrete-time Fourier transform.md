@@ -31,3 +31,7 @@ X(\omega) &= \mathcal{F}\\{x(t)\\} \\\\
 
 # Common transforms
 
+
+|Time|Expression|Frequency|
+|----|----|---------|
+|[[Kronecker delta function]]|$\delta(t)$|1|
