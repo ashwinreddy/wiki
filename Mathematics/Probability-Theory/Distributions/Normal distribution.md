@@ -1,4 +1,8 @@
-A **normal distribution** or **Gaussian distribution** is a very common [[probability distribution]] with [[probability density function]] a [[Gaussian function]]. 
+A **normal distribution** or **Gaussian distribution** is a very common [[probability distribution]] with [[probability density function]] a [[Gaussian function]].  The standard normal distribution is defined by
+
+\begin{equation}
+\varphi_Z(z) = {\exp\left( - x^2 / 2 \right) \over \sqrt{2\pi}}   
+\end{equation}
 
 
 \begin{equation}
@@ -9,7 +13,7 @@ X \sim \mathcal{N}(\mu, \sigma^2) \iff \varphi(x; \mu, \sigma) = {\exp\left( - \
 However, we can write $X$ using the standard normal $Z \sim \mathcal{N}(0, 1)$.
 
 $$
-\varphi_Z(z) = {\exp\left( - x^2 / 2 \right) \over \sqrt{2\pi}}   
+
 $$
 
 It turns out that $X \sim \mathcal{N}(\mu, \sigma^2)$ means
