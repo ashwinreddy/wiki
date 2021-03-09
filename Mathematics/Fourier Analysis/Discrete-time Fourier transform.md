@@ -29,6 +29,8 @@ X(\omega) &= \mathcal{F}\\{x(t)\\} \\\\
 [[Linearity|Linear map]]
 : $$ax[n] + by[n] \rightarrow aX(\omega) + bY(\omega)$$
 
+
+
 # Common transforms
 
 
