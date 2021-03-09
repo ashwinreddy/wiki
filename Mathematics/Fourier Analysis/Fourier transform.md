@@ -24,6 +24,9 @@ Linearity
 Time shift property
 : $$\mathcal{F}\\{x(t-t_0)\\} = e^{-\iota\omega t_0}\mathcal{F}\\{x(t)\\}.$$
 
+Frequency shift property
+: $$\mathcal{F}\\{x(t)e^{\iota\omega_0 t}\\} = X(\omega - \omega_0).$$
+
 Conjugate property
 : $$\mathcal{F}\\{x^\*(t)\\} = X^*(-\omega).$$
 
