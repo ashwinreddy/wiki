@@ -1,4 +1,4 @@
-The **Fourier series** is a [[series]] decomposition of a [[periodic signal|periodic function]] $f(t)$ with fundamental period $T$ using a [[linear combination]] of fixed frequency waves. In other words, we posit that all of the following formulations make sense
+The **Fourier series** is a [[series]] decomposition of a [[periodic signal|periodic function]] $f(t)$ with fundamental period $T$ using a [[linear combination]] of fixed frequency waves. In other words, we posit that all of the following formulations make sense.
 
 \begin{align}
 x(t) &= a_0 + \sum_{n=1}^\infty \left[ a_n \cos(n \omega_0 t) + b_n \sin(n \omega_0 t) \right] \\\\
@@ -32,3 +32,7 @@ The [[Fourier transform]] given the coefficients $c_k$ is
 $$
 X(\omega) = 2\pi \sum_{k=-\infty}^\infty c_k \delta \left( \omega - \omega_0 k \right)
 $$
+
+# See also
+
+* [[Discrete Fourier series]]
