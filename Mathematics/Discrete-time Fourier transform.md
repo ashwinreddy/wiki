@@ -8,6 +8,10 @@ Despite $x[n]$ being discrete, $X$ is a continuous function of frequency.
 x[n] = \frac{1}{2\pi} \int_{-\pi}^\pi X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{Synthesis}
 \end{equation}
 
+# Extension of [[Fourier Transform]]
+
+Let's push our discrete signal $x[n]$ into continuous time using a train of deltas.
+
 # Properties
 
 [[Linearity|Linear map]]
