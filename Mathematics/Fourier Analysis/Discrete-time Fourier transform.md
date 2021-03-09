@@ -34,4 +34,5 @@ X(\omega) &= \mathcal{F}\\{x(t)\\} \\\\
 
 |Time|Expression|Frequency|
 |----|----|---------|
-|[[Kronecker delta function]]|$\delta(t)$|1|
+|[[Kronecker delta]]|$\delta[n]$|1|
+|Constant|1|$Shah$|
