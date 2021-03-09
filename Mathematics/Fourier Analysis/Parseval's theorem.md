@@ -9,5 +9,5 @@ $$
 \end{equation}
 
 \begin{equation}
-\sum_{n = -\infty}^\infty | x[n] |^2 = \frac{1}{2\pi} \int_{-\infty}^\infty |X(\omega)|^2 \dd{\omega} \tag{Parseval's theorem}
+\sum_{n = -\infty}^\infty | x[n] |^2 = \frac{1}{2\pi} \int_{-\infty}^\infty |X(\omega)|^2 \dd{\omega} \tag{Parseval's theorem for discrete signal}
 \end{equation}
