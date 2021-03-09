@@ -7,3 +7,7 @@ $$
 \begin{equation}
 \int_{-\infty}^\infty | x(t) |^2 \dd{t} = \frac{1}{2\pi} \int_{-\infty}^\infty |X(\omega)|^2 \dd{\omega} \tag{Parseval's theorem}
 \end{equation}
+
+\begin{equation}
+\sum_{n = -\infty}^\infty | x[n] |^2 = \frac{1}{2\pi} \int_{-\infty}^\infty |X(\omega)|^2 \dd{\omega} \tag{Parseval's theorem}
+\end{equation}
