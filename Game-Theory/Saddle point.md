@@ -2,7 +2,7 @@ A **saddle point** is a value in a [[payoff matrix]] that is minimal in its row 
 
 $$
 \begin{bmatrix}
-4 & 5 \\\\
+\underline{4} & 5 \\\\
 3 & 2 
 \end{bmatrix}
 $$
