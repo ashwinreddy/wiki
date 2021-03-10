@@ -46,8 +46,8 @@ $$
 1 \cdot x + (-3)(1-x) = (-2)x + 5(1-x)
 $$
 
-Let the $i$th column of the payoff matrix be $\vec{c}_i$
+Let the $i$th column of the payoff matrix be $\vec{c}_i$. We are trying to solve
 
-$$
-\langle x, \vec{c}_1 \rangle = \dots = \langle x, \vec{c}_n \rangle
-$$
+\begin{equation}
+\langle \vec{x}, \vec{c}_1 \rangle = \dots = \langle \vec{x}, \vec{c}_n \rangle \tag{Row Player Equalization}
+\end{equation}
