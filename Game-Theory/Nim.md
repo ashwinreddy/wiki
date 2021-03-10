@@ -2,7 +2,7 @@
 
 # Classification
 
-Since it's progressively bounded in normal play, every state is N or P. To find out, take the [[nim-sum]]
+Since it's progressively bounded in normal play, every state is N or P. To find out, take the [[nim-sum]]. If it is 0, the state is P.
 
 ## Bouton's solution
 
