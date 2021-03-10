@@ -5,10 +5,10 @@ The **discrete-time Fourier transform (DTFT)** is the [[Fourier transform]] appl
 Despite $x[n]$ being discrete, $X$ is a continuous function of frequency. It is also $2\pi$-periodic.
 
 \begin{equation}
-x[n] = \frac{1}{2\pi} \int_{<2\pi>} X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{DTFT Synthesis}
+x[n] = \frac{1}{2\pi} \int_{\langle 2\pi\rangle} X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{DTFT Synthesis}
 \end{equation}
 
-where $<2\pi>$ is any contiguous interval of length $2\pi$.
+where $\langle 2\pi\rangle$ is any contiguous interval of length $2\pi$.
 
 [[_TOC_]]
 
