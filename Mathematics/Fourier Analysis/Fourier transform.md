@@ -40,6 +40,8 @@ $$
 X^*(-\omega) = X_r(-\omega) - \iota X_\iota(-\omega)
 $$
 
+This tells us that $X_r(\omega)$ is [[even function]] while $X_\iota(\omega)$ is [[odd function]].
+
 As a corollary, let's say $x(t)$ is strictly real. Then $x(t)$ is its own conjugate, so $X(\omega) = X^*(-\omega)$.
 
 Time derivative property
