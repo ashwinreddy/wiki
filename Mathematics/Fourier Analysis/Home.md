@@ -3,4 +3,4 @@
 |**Continuous time**|[[Fourier transform]]|[[Fourier series]]|
 |**Discrete time**|[[Discrete-time Fourier transform]]|[[Discrete-time Fourier series]] / [[Discrete Fourier transform]]|
 
-[[uploads/fourier.png|height=300px]]
+[[uploads/fourier.png|height=300px,align=center]]
