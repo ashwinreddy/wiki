@@ -8,7 +8,7 @@ Despite $x[n]$ being discrete, $X$ is a continuous function of frequency. It is 
 x[n] = \frac{1}{2\pi} \int_{\langle 2\pi\rangle} X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{DTFT Synthesis}
 \end{equation}
 
-where $\langle 2\pi\rangle$ is any contiguous interval of length $2\pi$.
+where $\langle 2\pi\rangle$ is any contiguous interval of length $2\pi$. It is similar to the [[DFT|Discrete Fourier transform]].
 
 [[_TOC_]]
 
