@@ -31,3 +31,9 @@ If you did a DTFS analysis on the signal, you would get a sequence $c_k$. It tur
 $$
 X_k = N a_k
 $$
+
+# Properties
+
+$$
+\mathsf{DFT}^{-1} \\{ X_1[k]X_2[k] \\} = \sum_{n=0}^{N-1} x_1[n_1] x_2[(n-n_1)_N]
+$$
