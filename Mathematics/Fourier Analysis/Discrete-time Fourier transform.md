@@ -8,6 +8,8 @@ Despite $x[n]$ being discrete, $X$ is a continuous function of frequency.
 x[n] = \frac{1}{2\pi} \int_{<2\pi>} X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{Synthesis}
 \end{equation}
 
+where $<2\pi>$ is any contiguous interval of length $2\pi$.
+
 [[_TOC_]]
 
 # Extension of Fourier Transform
