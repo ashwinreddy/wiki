@@ -45,3 +45,7 @@ As the row player, you can go top or bottom.
 $$
 1 \cdot x + (-3)(1-x) = (-2)x + 5(1-x)
 $$
+
+$$
+x^* \vec{column 1}
+$$
