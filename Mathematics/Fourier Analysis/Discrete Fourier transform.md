@@ -14,7 +14,7 @@ $$
 \vec{X} = F \vec{x}
 $$
 
-# Connection to [[Discrete-time Fourier Series]]
+# Connection to [[DTFS|Discrete-time Fourier Series]]
 
 If you did a DTFS analysis on the signal, you would get a sequence $c_k$. It turns out that
 
