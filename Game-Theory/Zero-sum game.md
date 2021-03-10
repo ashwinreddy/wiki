@@ -4,7 +4,7 @@ A **zero-sum game** is a [[general-sum game]] where the cost of losing is the be
 
 # Value
 
-The value of the game is given by
+The **value** of the game is given by
 
 \begin{equation}
 V = \max_x \min_y x^\mathsf{T} C y = \min_y \max_x x^\mathsf{T} C y. \tag{Value}
