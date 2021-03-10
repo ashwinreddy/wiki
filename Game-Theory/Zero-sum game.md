@@ -27,5 +27,14 @@ This idea can also apply to convex combinations.
 
 ## Equalizing payoff
 
-Say the optimal strategy is fully mixed. Then, you can find strategies by equating the payoffs. If you end up with pure strategies, then this method "fails."
+Assume the optimal strategy is fully mixed. Then, you can find strategies by equating the payoffs. If you end up with pure strategies, then this method "fails."
+
+Let's look at an example.
+
+$$
+\begin{bmatrix}
+1 & -2 \\\\
+-3 & 5
+\end{bmatrix}
+$$
 
