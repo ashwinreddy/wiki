@@ -28,7 +28,7 @@ Frequency shift property
 : $$x(t)e^{\iota \omega_0 t} \longleftrightarrow X(\omega - \omega_0).$$
 
 Conjugate property
-: Let $x\^\*(t) \longleftrightarrow X\^*(-\omega).$$
+: $$x\^\*(t) \longleftrightarrow X\^*(-\omega).$$
 
 Time derivative property
 : $$\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = \iota\omega X(\omega).$$
