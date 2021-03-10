@@ -30,6 +30,8 @@ Frequency shift property
 Conjugate property
 : $$x\^\*(t) \longleftrightarrow (X(-\omega))^*.$$
 
+Let's say $x(t)$ is strictly real. Then $x(t)$ is its own conjugate, so $X(\omega) = X^*(-\omega)$.
+
 Time derivative property
 : $$\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = \iota\omega X(\omega).$$
 
