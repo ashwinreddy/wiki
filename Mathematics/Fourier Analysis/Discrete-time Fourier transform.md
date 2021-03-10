@@ -40,6 +40,14 @@ $$
 X(e^{\iota\omega}) = 2\pi \sum_{k=-\infty}^\infty a_k \delta(\omega - k \omega_0)
 $$
 
+Differentiation
+: $$n x[n] \longleftrightarrow \iota \dv{X(e^{\iota\omega})}{\omega} $$
+
+# Even and Odd
+
+* If $x[n]$ is real and even, then DTFT is real and even.
+* If $x[n]$ is real and odd, the DTFT is imaginary and odd.
+
 # Properties
 
 [[Linearity|Linear map]]
