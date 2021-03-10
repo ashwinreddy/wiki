@@ -1,8 +1,13 @@
 An **impartial game** is a [[combinatorial game]] whose [[set]] of moves is independent of player. Chess is _not_ an impartial game since the players control mutually exclusive pieces.
 
+
 # N and P states
 
-Every impartial, progressively bounded game has each state either N or P:
+For an impartial, progressively bounded combinatorial game, let $N$ and $P$ be the set of next and previous states.
+
+\begin{equation}
+X = N \cup P.
+\end{equation}
 
 N state
 : A position is an N state if a player starting there can ensure a win.
@@ -18,13 +23,6 @@ Interestingly,
 
 Assume that if you start from a terminal position, you lose. So terminal states are P states.
 
-# Theorem
-
-For an impartial, progressively bounded combinatorial game, let $N$ and $P$ be the set of next and previous states.
-
-\begin{equation}
-X = N \cup P.
-\end{equation}
 
 ## Proof
 
