@@ -29,7 +29,7 @@ X(\omega) &= \mathcal{F}\\{x(t)\\} \\\\
 # Properties
 
 [[Linearity|Linear map]]
-: $$ax[n] + by[n] \leftrightarrow aX(\omega) + bY(\omega)$$
+: $$ax[n] + by[n] \longleftrightarrow aX(\omega) + bY(\omega)$$
 
 
 
