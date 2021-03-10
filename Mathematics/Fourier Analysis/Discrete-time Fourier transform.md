@@ -5,7 +5,7 @@ The **discrete-time Fourier transform (DTFT)** is the [[Fourier transform]] appl
 Despite $x[n]$ being discrete, $X$ is a continuous function of frequency.
 
 \begin{equation}
-x[n] = \frac{1}{2\pi} \int_{-\pi}^\pi X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{Synthesis}
+x[n] = \frac{1}{2\pi} \int_{<2\pi>} X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{Synthesis}
 \end{equation}
 
 [[_TOC_]]
