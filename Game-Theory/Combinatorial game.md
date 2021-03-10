@@ -1,5 +1,10 @@
 A **combinatorial game** has 2 players, a [[set]] of positions $X$, a subset of positions called terminal sets that indicate a win for a player, and legal moves from each player and position. Combinatorial games can either be [[impartial|impartial game]] or [[partisan|partisan game]].
 
+# Gameplay
+
+Normal play
+: Game ends when somebody can't move and so loses.
+
 # Progressive bounding
 
 Let $B(x)$ be the maximum number of moves from starting state $x \in X$ to a terminal position.
