@@ -65,7 +65,7 @@ Differentiation
 : $$n x[n] \longleftrightarrow \iota \dv{X(e^{\iota\omega})}{\omega} $$
 
 Multiplication
-: $$x_1[n]x_2[n] \longleftrightarrow \frac{1}{2\pi}\int_{\langle 2\pi \rangle} X_1(e^{\iota\omega}) X_2(e^{\iota(\omega - \theta)}) \dd{\theta}$$
+: $$x_1[n]x_2[n] \longleftrightarrow \frac{1}{2\pi}\int_{\langle 2\pi \rangle} X_1(e^{\iota\omega}) X_2\left(e^{\iota(\omega - \theta)}\right) \dd{\theta}$$
 
 # Common transforms
 
