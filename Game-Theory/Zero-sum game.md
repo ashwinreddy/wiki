@@ -46,8 +46,14 @@ $$
 1 \cdot x + (-3)(1-x) = (-2)x + 5(1-x)
 $$
 
-Let the $i$th column of the payoff matrix be $\vec{c}_i$. We are trying to solve
+Let the $i$th column of the payoff matrix be $\vec{c}_i$. We are trying to solve for strategy $\vec{x}$ such that
 
 \begin{equation}
 \langle \vec{x}, \vec{c}_1 \rangle = \dots = \langle \vec{x}, \vec{c}_n \rangle \tag{Row Player Equalization}
+\end{equation}
+
+For the column player, we'd have for $i$th row $\vec{r}_i$ a strategy $\vec{y}$ such that
+
+\begin{equation}
+\langle \vec{y}, \vec{r}_1 \rangle = \dots = \langle \vec{y}, \vec{r}_n \rangle \tag{Column Player Equalization}
 \end{equation}
