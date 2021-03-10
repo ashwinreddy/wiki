@@ -47,5 +47,5 @@ $$
 $$
 
 $$
-x^* \vec{column 1}
+\langle x\^*, \vec{column 1} \rangle = \dots = \langle x\^*, \vec{column n}\rangle
 $$
