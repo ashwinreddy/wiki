@@ -46,6 +46,8 @@ $$
 1 \cdot x + (-3)(1-x) = (-2)x + 5(1-x)
 $$
 
+Let the $i$th column of the payoff matrix be $\vec{c}_i$
+
 $$
-\langle x, \vec{column 1} \rangle = \dots = \langle x, \vec{column n}\rangle
+\langle x, \vec{c}_1 \rangle = \dots = \langle x, \vec{c}_n \rangle
 $$
