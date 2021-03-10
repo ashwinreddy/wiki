@@ -21,12 +21,11 @@ How do we solve the game?
 
 ## Domination
 
-1. If one row is less than or equal to another row (elementwise), remove it. 
-2. If one column is greater than or equal to another row, remove it.
-3. 
-4. If a convex combination of columns is greater than or equal to another column (elementwise), remove them.
+* A row is (strictly) dominated if there exists a convex combination of other rows that is elementwise (strictly) larger than it.
+* A column is (strictly) dominated if there exists a convex combination of other columns that is elementwise (strictly) smaller than it.
 
-This idea can also apply to convex combinations.
+If a row/column is dominated, that means that the corresponding player can do better without needing to use it. If there is strict domination, the row/column can be discarded without changing the game at all.
+
 
 ## Equalizing payoff
 
