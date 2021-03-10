@@ -8,4 +8,4 @@ x[n] = \sum_{k=0}^{N-1} c_k e^{\iota k\omega_0 n}, \quad \omega_0 = \frac{2\pi}{
 c_k = \frac{1}{N} \sum_{n\in \langle N \rangle} x[n] e^{-\iota k \omega_0 n}
 \end{equation}
 
-Although you can take the sum over any length $N$ interval.
+where $\langle N \rangle$ denotes an interval of $N$ integers.
