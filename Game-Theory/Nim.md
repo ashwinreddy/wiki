@@ -1,4 +1,4 @@
-**Nim** is an impartial [[combinatorial game]] where player can remove arbitrary number of positive chips from any pile of many piles. The terminal state is that no chips are left.
+**Nim** is an impartial [[combinatorial game]] where players alternate removing an arbitrary number of positive chips from a tuple $(n_1, \dots, n_k)$. The terminal state is that no chips are left.
 
 # Classification
 
