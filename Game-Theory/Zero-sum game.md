@@ -10,12 +10,13 @@ The **value** of the game is given by
 V = \max_x \min_y x^\mathsf{T} C y = \min_y \max_x x^\mathsf{T} C y. \tag{Value}
 \end{equation}
 
-# Solutions
+# Safety Strategies
 
 How do we solve the game?
 
-1. Look for [[saddle point]]
-
+1. Look for [[saddle point]]. If there is one, that's the value of the game. 
+2. Domination
+3. Equalize payoffs
 
 
 ## Domination
