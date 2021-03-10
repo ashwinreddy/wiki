@@ -21,7 +21,10 @@ How do we solve the game?
 
 ## Domination
 
-If one row is less than or equal to another row (elementwise), remove it. If a convex combination of columns is greater than or equal to another column (elementwise), remove them.
+1. If one row is less than or equal to another row (elementwise), remove it. 
+2. If one column is greater than or equal to another row, remove it.
+3. 
+4. If a convex combination of columns is greater than or equal to another column (elementwise), remove them.
 
 This idea can also apply to convex combinations.
 
