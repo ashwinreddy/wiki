@@ -8,4 +8,4 @@ $$
 $$
 
 
-If there's a saddle point, then it's the value of the game -- neither player has incentive to deviate. It's a pure [[Nash equilibrium]]
+If there's a saddle point, then it's the value of the game -- neither player has incentive to deviate. It's a pure [[Nash equilibrium]].
