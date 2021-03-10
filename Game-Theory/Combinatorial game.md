@@ -19,4 +19,4 @@ A game with "loops" between states won't be progressively bounded.
 # Examples
 
 * [[Chomp]]
-* [[Subtraction]]
+* [[Subtraction game]]
