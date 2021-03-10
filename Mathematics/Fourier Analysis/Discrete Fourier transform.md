@@ -37,5 +37,5 @@ $$
 Circular convolution (treating $x_1$ and $x_2$ as periodic),
 
 $$
-\mathsf{DFT}^{-1} \left \\{ X_1[k]X_2[k] \right \\} = \sum_{n=0}^{N-1} x_1[n_1] x_2[(n-n_1)_N]
+\mathsf{DFT}^{-1} \left \\{ X_1[k]X_2[k] \right \\} = \sum_{n_1=0}^{N-1} x_1[n_1] x_2[(n-n_1)_N]
 $$
