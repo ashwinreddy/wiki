@@ -54,4 +54,4 @@ $$
 |----|----|---------|
 |[[Kronecker delta]]|$\delta[n]$|1|
 |Constant|1|$Ш(2\pi \omega)$|
-|Decaying step|$\alpha^n u[n]$|$\frac{1}{1 - \alpha e^{-\iota\omega}}$, $|\alpha| < 1$|
+|Decaying step|$\alpha^n u[n]$|$\frac{1}{1 - \alpha e^{-\iota\omega}}$, $\vert \alpha \vert < 1$|
