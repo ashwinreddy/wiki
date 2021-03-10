@@ -19,7 +19,7 @@ We are going to assume that $x(t)$ is absolutely integrable.
 
 
 [[Linearity|linear map]]
-: $$\mathcal{F}\\{\alpha x(t) + \beta y(t)\\} = \alpha \mathcal{F}\\{x(t)\\} + \beta \mathcal{F}\\{y(t)\\}.$$
+: $$ax(t)+by(t) \longleftrightarrow aX(\omega) + bY(\omega)$$
 
 Time shift property
 : $$\mathcal{F}\\{x(t-t_0)\\} = e^{-\iota\omega t_0}\mathcal{F}\\{x(t)\\}.$$
