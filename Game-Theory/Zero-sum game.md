@@ -29,7 +29,7 @@ If a row/column is dominated, that means that the corresponding player can do be
 
 ## Equalizing payoff
 
-Assume the optimal strategy is fully mixed. Then, you can find strategies by equating the payoffs. If you don't end up with fully mixed strategies, then this method "fails."
+Assume the optimal strategy is [[fully mixed|strategy]]. Then, you can find strategies by equating the payoffs. If you don't end up with fully mixed strategies, then this method "fails."
 
 Let's look at an example. Say the payoff matrix is
 
