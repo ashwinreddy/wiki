@@ -1,7 +1,7 @@
 An **impartial game** is a [[combinatorial game]] whose [[set]] of moves is independent of player. Chess is _not_ an impartial game since the players control mutually exclusive pieces.
 
 
-# N and P states
+# State Classification
 
 For an impartial, progressively bounded combinatorial game, let $N$ and $P$ be the set of next and previous states.
 
@@ -23,6 +23,11 @@ Interestingly,
 
 Assume that if you start from a terminal position, you lose. So terminal states are P states.
 
+## Techniques
+
+1. Try small examples to find a pattern.
+2. Map to a known game.
+3. Strategy stealing.
 
 ## Proof
 
