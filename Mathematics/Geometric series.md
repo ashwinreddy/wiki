@@ -1,9 +1,5 @@
 **Geometric series** is a [[series]]
 
 $$
-S = a + ar + ar^2 + \dots
-$$
-
-$$
-S = \frac{a}{1-r}
+\sum_{n=0}^\infty q^n = \frac{1}{1-q} \iff |q| < 1
 $$
