@@ -19,16 +19,16 @@ We are going to assume that $x(t)$ is absolutely integrable.
 
 
 [[Linearity|linear map]]
-: $$ax(t)+by(t) \longleftrightarrow aX(\omega) + bY(\omega)$$
+: $$ax(t)+by(t) \longleftrightarrow aX(\omega) + bY(\omega).$$
 
 Time shift property
-: $$\mathcal{F}\\{x(t-t_0)\\} = e^{-\iota\omega t_0}\mathcal{F}\\{x(t)\\}.$$
+: $$x(t-t_0) \longleftrightarrow X(\omega)e^{-\iota\omega t_0}.$$
 
 Frequency shift property
-: $$\mathcal{F}\\{x(t)e^{\iota\omega_0 t}\\} = X(\omega - \omega_0).$$
+: $$x(t)e^{\iota \omega_0 t} \longleftrightarrow X(\omega - \omega_0).$$
 
 Conjugate property
-: $$\mathcal{F}\\{x^\*(t)\\} = X^*(-\omega).$$
+: Let $x^*(t) = X^*(-\omega).$$
 
 Time derivative property
 : $$\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = \iota\omega X(\omega).$$
