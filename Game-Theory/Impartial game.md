@@ -2,6 +2,8 @@ An **impartial game** is a [[combinatorial game]] whose [[set]] of moves is inde
 
 # N and P states
 
+Every impartial, progressively bounded game has each state either N or P:
+
 N state
 : A position is an N state if a player starting there can ensure a win.
 
