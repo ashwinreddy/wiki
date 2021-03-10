@@ -26,6 +26,20 @@ X(\omega) &= \mathcal{F}\\{x(t)\\} \\\\
 &= \sum_{n=-\infty}^\infty x[n] e^{-\iota \omega n}
 \end{align}
 
+# DTFT of a DTFS
+
+Suppose you have a signal $x[n]$ that has DTFS expansion
+
+$$
+x[n] = \sum_{k=0}^{N-1} a_k e^{\iota \omega_0 k n}.
+$$
+
+Then the DTFT is given by
+
+$$
+X(e^{\iota\omega}) = 2\pi \sum_{k=-\infty}^\infty a_k \delta(\omega - k \omega_0)
+$$
+
 # Properties
 
 [[Linearity|Linear map]]
