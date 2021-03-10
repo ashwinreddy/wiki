@@ -43,9 +43,16 @@ $$
 # Properties
 
 [[Linearity|Linear map]]
-: $$ax[n] + by[n] \longleftrightarrow aX(\omega) + bY(\omega)$$
+: $$ax[n] + by[n] \longleftrightarrow aX(\omega) + bY(\omega).$$
 
+Time shift
+: $$x[n-n_0] \longleftrightarrow e^{-\iota\omega n_0}X(e^{\iota\omega}).$$
 
+Frequency shift
+: $$e^{\iota\omega_0 n}x[n] \longleftrightarrow X(e^{\iota(\omega - \omega_0)}).$$
+
+Time reversal
+: $$x[-n] \longleftrightarrow X(e^{-\iota \omega}).$$
 
 # Common transforms
 
