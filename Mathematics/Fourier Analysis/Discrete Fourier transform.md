@@ -8,6 +8,8 @@ $$
 x[n] = \frac{1}{N} \sum_{k=0}^{N-1} X_k e^{\iota \omega_0 k n}, \qquad n = 0, \dots, N-1 \tag{DFT Synthesis}
 $$
 
+These equations are almost the same (modulo the location of the $1/N$ factor) to the [[Discrete-time Fourier transform]]
+
 # Matrix multiplication
 
 $$
