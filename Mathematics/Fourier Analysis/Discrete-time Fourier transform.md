@@ -8,7 +8,9 @@ Despite $x[n]$ being discrete, $X$ is a continuous function of frequency. Since 
 x[n] = \frac{1}{2\pi} \int_{\langle 2\pi\rangle} X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{DTFT Synthesis}
 \end{equation}
 
-where $\langle 2\pi\rangle$ is any contiguous interval of length $2\pi$. It is similar to the [[DFT|Discrete Fourier transform]].
+where $\langle 2\pi\rangle$ is any contiguous interval of length $2\pi$. 
+
+
 
 [[_TOC_]]
 
@@ -75,3 +77,7 @@ Multiplication
 |[[Kronecker delta]]|$\delta[n]$|1|
 |Constant|1|$Ш(2\pi \omega)$|
 |Decaying step|$\alpha^n u[n]$|$\frac{1}{1 - \alpha e^{-\iota\omega}}$, $\vert \alpha \vert < 1$|
+
+# See also
+
+* [[DFT|Discrete Fourier transform]].
