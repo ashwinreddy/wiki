@@ -8,10 +8,20 @@ $$
 x[n] = \frac{1}{N} \sum_{k=0}^{N-1} X_k e^{\iota \omega_0 k n}, \qquad n = 0, \dots, N-1 \tag{DFT Synthesis}
 $$
 
+# Matrix multiplication
+
+$$
+F_{kn} = e^{-\iota \omega_0 kn}
+$$
+
 This would enable a [[matrix multiplication]]
 
 $$
-\vec{X} = F \vec{x}
+X_k = \sum_{n=0}^{N-1} F_{kn} x[n]
+$$
+
+$$
+X = F \vec{x}
 $$
 
 # Connection to [[DTFS|Discrete-time Fourier Series]]
