@@ -36,6 +36,10 @@ $$
 X(\omega) = X_r(\omega) + \iota X_\iota(\omega)
 $$
 
+$$
+X^*(-\omega) = X_r(-\omega) - \iota X_\iota(-\omega)
+$$
+
 As a corollary, let's say $x(t)$ is strictly real. Then $x(t)$ is its own conjugate, so $X(\omega) = X^*(-\omega)$.
 
 Time derivative property
