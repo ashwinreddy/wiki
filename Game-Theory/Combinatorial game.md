@@ -2,7 +2,7 @@ A **combinatorial game** has 2 players, a [[set]] of positions $X$, a subset of 
 
 # Gameplay
 
-Players take turns making moves, which we can think of as happening on a [[digraph]]
+Players take turns making moves, which we can think of as happening on a [[directed graph]]
 
 Normal play
 : Game ends when somebody can't move and so loses.
