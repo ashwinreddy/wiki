@@ -29,7 +29,7 @@ This idea can also apply to convex combinations.
 
 Assume the optimal strategy is fully mixed. Then, you can find strategies by equating the payoffs. If you end up with pure strategies, then this method "fails."
 
-Let's look at an example.
+Let's look at an example. Say the payoff matrix is
 
 $$
 \begin{bmatrix}
@@ -38,3 +38,8 @@ $$
 \end{bmatrix}
 $$
 
+As the row player, you can go top or bottom. 
+
+$$
+1 \cdot x + (-3)(1-x) = (-2)x + 5(1-x)
+$$
