@@ -45,7 +45,7 @@ This tells us that $X_r(\omega)$ is [[even function]] while $X_\iota(\omega)$ is
 As a corollary, let's say $x(t)$ is strictly real. Then $x(t)$ is its own conjugate, so $X(\omega) = X^*(-\omega)$.
 
 Time derivative property
-: $$\mathcal{F}\left\\{\dv{x(t)}{t}\right\\} = \iota\omega X(\omega).$$
+: $$\mathcal{F}\left\\{\frac{\dd{}^n x(t)}{ \dd{} t^n}\right\\} = (\iota\omega)^n  X(\omega).$$
 
 Time reversal property
 : $$\mathcal{F}\\{x(-t)\\}=X(-\omega).$$
