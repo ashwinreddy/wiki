@@ -55,5 +55,5 @@ Let the $i$th column of the payoff matrix be $\vec{c}_i$. We are trying to solve
 For the column player, we'd have for $i$th row $\vec{r}_i$ a strategy $\vec{y}$ such that
 
 \begin{equation}
-\langle \vec{y}, \vec{r}_1 \rangle = \dots = \langle \vec{y}, \vec{r}_n \rangle \tag{Column Player Equalization}
+\langle \vec{y}, \vec{r}_1 \rangle = \dots = \langle \vec{y}, \vec{r}_m \rangle \tag{Column Player Equalization}
 \end{equation}
