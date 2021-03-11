@@ -27,3 +27,13 @@ Connects [[imaginary unit]] and [[pi]].
 $$
 e^{i\pi} = -1
 $$
+
+# Sine and Cosine as Exponential
+
+$$
+\cos \theta = \frac{1}{2}\left(e^{\iota\theta} + e^{-\iota\theta} \right)
+$$
+
+$$
+\sin \theta = \frac{1}{2\iota}\left(e^{\iota\theta} - e^{-\iota\theta} \right)
+$$
