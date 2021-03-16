@@ -47,12 +47,14 @@ As a corollary, let's say $x(t)$ is strictly real. Then $x(t)$ is its own conjug
 Time derivative property
 : $$\mathcal{F}\left\\{\frac{\dd{}^n x(t)}{ \dd{} t^n}\right\\} = (\iota\omega)^n  X(\omega).$$
 
-Time reversal property
-: $$\mathcal{F}\\{x(-t)\\}=X(-\omega).$$
 
 Time scaling
 : $$\mathcal{F}\\{x(at)\\}=\frac{1}{|a|}X\left(\frac{\omega}{a}\right).$$
 
+As a corollary to the above,
+
+Time reversal property
+: $$\mathcal{F}\\{x(-t)\\}=X(-\omega).$$
 
 $$
 \mathcal{F}\\{ x(t) * h(t) \\}  = X(\omega)H(\omega)
