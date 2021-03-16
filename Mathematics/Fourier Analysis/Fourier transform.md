@@ -53,7 +53,6 @@ Time reversal property
 Time scaling
 : $$\mathcal{F}\\{x(at)\\}=\frac{1}{|a|}X\left(\frac{\omega}{a}\right).$$
 
-# Convolutions
 
 $$
 \mathcal{F}\\{ x(t) * h(t) \\}  = X(\omega)H(\omega)
