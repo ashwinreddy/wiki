@@ -5,7 +5,7 @@ $$
 $$
 
 $$
-\psi: S_1 \times \dots \times S_k &\to \RR
+\psi: S\_1 \times \dots \times S_k \to \RR
 $$
 
 Let $u_i$ be the utility function for the $i$th player.
