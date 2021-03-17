@@ -1,0 +1,1 @@
+**Poisson process** is a [[counting process]] with [[iid]] interarrival time $S_i \sim_{\mathsf{IID}} \mathsf{Exp}(\lambda)$.
