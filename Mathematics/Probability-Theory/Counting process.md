@@ -1,5 +1,13 @@
 A **counting process** $(N_t)_{t \geqslant 0}$ is a continuous-time integer-valued random process, which has right-continuous sample paths.
 
+The time of $i$th arrival is given by
+
 $$
 T_i = \min \\{ t \geqslant 0: N_t \geqslant i \\}.
+$$
+
+The interarrival time is
+
+$$
+S_i = T_i - T_{i-1},\qquad i \geqslant 1, \quad (T_0 = 0)
 $$
