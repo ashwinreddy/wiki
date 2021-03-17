@@ -56,3 +56,11 @@ An irreducible MC is reversible if there's a $\pi$ s.t.
 # Stationary distribution
 
 [[include:stationary-distribution]]
+
+# Cut Property
+
+Cut
+: A cut of a Markov chain is a partition
+of the states into two disjoint subsets. 
+
+> If a Markov Chain is in stationarity, the net flow across every cut must be 0. 
