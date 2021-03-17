@@ -45,6 +45,7 @@ Null recurrent
 Period
 : $\mathsf{period}(i) = \mathsf{GCD}\\{ n \geqslant 1: P_{ii}^n > 0\\}.$
 
+[[include:stationary-distribution]]
 
 # Reversibility
 
