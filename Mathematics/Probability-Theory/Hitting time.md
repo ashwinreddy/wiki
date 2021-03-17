@@ -6,7 +6,7 @@ $$
 
 # First Step Equations
 
-This distribution is hard to compute. We can try to find
+This distribution is hard to compute. We can try to find the [[expected value]].
 
 \begin{align}
 t_i &= \mathbb{E}(T_A \mid X_0 = i) \\\\
