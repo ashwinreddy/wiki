@@ -12,6 +12,8 @@ $$
 
 So $p_{ij}$ is the probability going from state $i$ to state $j$. Of course, $p_{ij} \geqslant 0$ and $\sum_{j \in S} p_{ij} = 1$.
 
+[[_TOC_]]
+
 # Classification
 
 If there is a path in state-transition diagram from $i$ to $j$ (i.e. $P_{ij}^n > 0$ for some $n \geqslant 1$), then $j$ is _accessible_ from $i$, and we write $i \rightarrow j$. 
@@ -47,3 +49,4 @@ Let $X_n$ be an irreducible Markov chain. Exactly one of the following is true:
 
 1. Either all states are transient or all are null-recurrent. A stationary distribution does not exist. $\lim_{n\to \infty} P_{ij}^n = 0.$
 2. All states are positive recurrent. A unique stationary distribution $\pi$ exists with $$\pi_j = \lim_{n\to\infty} \frac{1}{n}\sum_{k=1}^n P_{ij}^k = \frac{1}{\mathbb{E}(T_j \mid X_0 = j)}.$$ Moreover, if it is aperiodic, then $\forall i, j \in S: \lim_{n \to\infty} P_{ij}^n = \pi_j.$
+
