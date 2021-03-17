@@ -13,5 +13,5 @@ $$
 Let $u_i$ be the utility function for the $i$th player.
 
 $$
-\psi(s_1, \dots, s_i, \dots, s_k) - \psi(s_1, \dots, s_i', s_k) = u_i(s_1, \dots, s_i, \dots, s_k) - u_i(s_1, \dots, s_i', \dots, s_k)
+\psi(s_1, \dots, s_i, \dots, s_k) - \psi(s_1, \dots, s_i', \dots, s_k) = u_i(s_1, \dots, s_i, \dots, s_k) - u_i(s_1, \dots, s_i', \dots, s_k)
 $$
