@@ -8,7 +8,7 @@ which is the first time I hit a state in $A$.
 
 # First Step Equations
 
-This distribution is hard to compute. We can try to find the [[expected value]].
+The distribution in Equation \ref{eq:hitting-time} is hard to compute. We can try to find the [[expected value]].
 
 \begin{align}
 t_i &= \mathbb{E}(T_A \mid X_0 = i) \\\\
