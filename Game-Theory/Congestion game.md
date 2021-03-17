@@ -15,3 +15,9 @@ Let $u_i$ be the utility function for the $i$th player.
 $$
 \psi(s_1, \dots, s_i, \dots, s_k) - \psi(s_1, \dots, s_i', \dots, s_k) = u_i(s_1, \dots, s_i, \dots, s_k) - u_i(s_1, \dots, s_i', \dots, s_k)
 $$
+
+If $(s_1, \dots, s_k)$ is a [[Nash equilibrium]] if for all $i$,
+
+$$
+u_i(s_1, \dots, s_i, \dots, s_k) \geqslant u_i(s_1, \dots, s_i', \dots, s_k)
+$$
