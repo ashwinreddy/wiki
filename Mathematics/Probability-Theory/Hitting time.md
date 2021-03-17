@@ -4,6 +4,8 @@ $$
 T_A = \min \\{ n \geqslant 0 : X_n \in A\\}.
 $$
 
+# First Step Equations
+
 This distribution is hard to compute. We can try to find
 
 $$
