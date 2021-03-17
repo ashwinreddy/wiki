@@ -7,3 +7,7 @@ $$
 \begin{equation}
 \pi = \pi P
 \end{equation}
+
+$$
+\Pr \\{ X_1 = j \\} = \sum \Pr \\{ X_1 = j \mid X_0 = i \\} \Pr \\{ X_0 = i \\}.
+$$
