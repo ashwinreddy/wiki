@@ -7,7 +7,7 @@ T_A = \min \\{ n \geqslant 0 : X_n \in A\\}, \label{eq:hitting-time}
 which is the first time I hit a state in $A$.
 
 $$
-\Pr \\{ T_A < T_B  \mid X_0 = i\\} = \sum_j p_{ij} \Pr \\{ T_A < T_B \mid X_0 = j\\} \forall i \not\in A \cup B.
+\Pr \left \\{ T_A < T_B  \mid X_0 = i \right \\} = \sum_j p_{ij} \Pr \\{ T_A < T_B \mid X_0 = j\\} \forall i \not\in A \cup B.
 $$
 
 # First Step Equations
