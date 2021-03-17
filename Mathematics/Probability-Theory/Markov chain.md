@@ -31,7 +31,10 @@ T_i = \min \left\\{ n \geqslant 1: X_n = i \right\\}
 $$
 
 Positive recurrent
-: A recurrent state where $\mathbb{E}(T_i \mid X_0 = i) < \infty$
+: A recurrent state where $\mathbb{E}(T_i \mid X_0 = i) < \infty.$
 
 Null recurrent
-: A recurrent state where $\mathbb{E}(T_i \mid X_0 = i) = \infty$
+: A recurrent state where $\mathbb{E}(T_i \mid X_0 = i) = \infty.$
+
+Period
+: $\mathsf{period}(i) = \mathsf{GCD}\\{ n \geqslant 1: P_{ii}^n > 0\\}.$
