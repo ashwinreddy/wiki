@@ -53,3 +53,11 @@ Let $X_n$ be an irreducible Markov chain. Exactly one of the following is true:
 2. All states are positive recurrent. A unique stationary distribution $\pi$ exists with $$\pi_j = \lim_{n\to\infty} \frac{1}{n}\sum_{k=1}^n P_{ij}^k = \frac{1}{\mathbb{E}(T_j \mid X_0 = j)}.$$ Moreover, if it is aperiodic, then $\forall i, j \in S: \lim_{n \to\infty} P_{ij}^n = \pi_j.$
 
 If finite state MC, only #2 is possible.
+
+# Reversibility
+
+An irreducible MC is reversible if there's a $\pi$ s.t.
+
+\begin{equation}
+\pi_j P_{ji} \equiv \pi_i P_{ij} \tag{Detailed Balance Equations}
+\end{equation}
