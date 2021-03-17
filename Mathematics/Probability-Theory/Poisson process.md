@@ -6,4 +6,4 @@ $$
 N_t \sim \mathsf{Poisson}(\lambda t)
 $$
 
-By memoryless property, $(N_{t+s}-N_s)_{t \geqslant 0}$ is also a Poisson process for all $s \geqslant 0$. Moreover, $(N_{t+s}-N_s)_{t \geqslant 0}$ is independent of $(N_\tau)_{0 \leqslant \tau \leqslant s}$.
+By memoryless property, $(N_{t+s}-N_s)\_{t \geqslant 0}$ is also a Poisson process for all $s \geqslant 0$. Moreover, $(N_{t+s}-N_s)_{t \geqslant 0}$ is independent of $(N_\tau)_{0 \leqslant \tau \leqslant s}$.
