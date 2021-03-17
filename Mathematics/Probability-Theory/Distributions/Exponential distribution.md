@@ -22,5 +22,5 @@ $$
 * If $n$ independent exponential variables indexed as $X_k$ with parameters $\lambda_k$, then $\min_k X_k \sim \mathsf{Exponential}\left(\sum_j \lambda_j \right)$. Also, 
 
 $$
-\Pr(X_i = \min_k X_k) = \frac{\lambda_i }{\sum_j \lambda_j}
+\Pr \left( X_i = \min_k X_k \right) = \frac{\lambda_i }{\sum_j \lambda_j}
 $$
