@@ -19,5 +19,7 @@ $$
 If $(s_1, \dots, s_k)$ is a [[Nash equilibrium]] if for all $i$,
 
 $$
-u_i(s_1, \dots, s_i, \dots, s_k) \geqslant u_i(s_1, \dots, s_i', \dots, s_k)
+u_i(s_1, \dots, s_i, \dots, s_k) \geqslant u_i(s_1, \dots, s_i', \dots, s_k).
 $$
+
+This condition is equivalent to saying that $(s_1, \dots, s_k)$ obtains a maximum of the potential function.
