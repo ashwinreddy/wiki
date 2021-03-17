@@ -14,7 +14,7 @@ So $p_{ij}$ is the probability going from state $i$ to state $j$. Of course, $p_
 
 [[_TOC_]]
 
-[[include:stationary-distribution]]
+[[include:stationary-distribution#existence-and-uniqueness-of-stationary-distributions]]
 
 # Classification
 
