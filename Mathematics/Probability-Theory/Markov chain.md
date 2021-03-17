@@ -25,6 +25,8 @@ Irreducible
 
 Every irreducible finite-state MC is positive recurrent.
 
+# Class properties
+
 Recurrent state
 : A state $i \in S$ is recurrent if given that $X_0 = i$, the process revisits state $i$ with probability one.
 
