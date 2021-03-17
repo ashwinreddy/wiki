@@ -45,7 +45,7 @@ Null recurrent
 Period
 : $\mathsf{period}(i) = \mathsf{GCD}\\{ n \geqslant 1: P_{ii}^n > 0\\}.$
 
-# Big Theorem
+# Existence and Uniqueness of Stationary Distributions
 
 Let $X_n$ be an irreducible Markov chain. Exactly one of the following is true:
 
