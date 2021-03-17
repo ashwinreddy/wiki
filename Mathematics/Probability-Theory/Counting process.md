@@ -1,0 +1,1 @@
+A **counting process** $(N_t)_{t \geqslant 0}$ is a continuous-time integer-valued random process, which has right-continuous sample paths.
