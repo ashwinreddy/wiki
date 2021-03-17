@@ -3,3 +3,13 @@ A **congestion game** is a game where the $j$th player aims to drive from city $
 $$
 \mathsf{cost}\_i(\mathbf{P}) = \sum_{r \in P_i} c_r(n_r(\mathbf{P}))
 $$
+
+$$
+\psi: S_1 \times \dots \times S_k &\to \RR
+$$
+
+Let $u_i$ be the utility function for the $i$th player.
+
+$$
+\psi(s_1, \dots, s_i, \dots, s_k) - \psi(s_1, \dots, s_i', s_k) = u_i(\dots s_i \dots) - u_i(\dots s_i' \dots)
+$$
