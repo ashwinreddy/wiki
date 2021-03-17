@@ -14,6 +14,8 @@ So $p_{ij}$ is the probability going from state $i$ to state $j$. Of course, $p_
 
 [[_TOC_]]
 
+[[include:stationary-distribution]]
+
 # Classification
 
 If there is a path in state-transition diagram from $i$ to $j$ (i.e. $P_{ij}^n > 0$ for some $n \geqslant 1$), then $j$ is _accessible_ from $i$, and we write $i \rightarrow j$. 
