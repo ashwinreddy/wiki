@@ -9,7 +9,7 @@ $$
 This distribution is hard to compute. We can try to find
 
 $$
-t_i = \mathbb{E}(T_A \mid X_0 = i) = \begin{cases}\mathbb{E}(T_A \mid X_0 = i) = 1 + \sum_{j \in S} p_{ij}\mathbb{E}(T_A \mid X_0 = j) & i \not\in A \\\\  \mathbb{E}(T_A \mid X_0 = i) = 0 & i \in A\end{cases}
+t_i = \mathbb{E}(T_A \mid X_0 = i) = \begin{cases} 1 + \sum_{j \in S} p_{ij}\mathbb{E}(T_A \mid X_0 = j) & i \not\in A \\\\   0 & i \in A\end{cases}
 $$
 
 For $i \not\in A$,
