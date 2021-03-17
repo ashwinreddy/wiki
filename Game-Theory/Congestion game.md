@@ -22,4 +22,8 @@ $$
 u_i(s_1, \dots, s_i, \dots, s_k) \geqslant u_i(s_1, \dots, s_i', \dots, s_k).
 $$
 
-This condition is equivalent to saying that $(s_1, \dots, s_k)$ obtains a maximum of the potential function.
+This condition is equivalent to saying that 
+
+$$
+\psi(s_1, \dots, s_i, \dots s_k) \geqslant \psi(s_1, \dots, s_i', \dots, s_k)
+$$
