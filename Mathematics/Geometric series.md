@@ -1,6 +1,7 @@
 **Geometric series** is a [[series]]
 
 $$
+\sum_{k=0}^n ar^k = a\left(\frac{1-r^{n+1}}{1-r}\right)
 $$
 
 $$
