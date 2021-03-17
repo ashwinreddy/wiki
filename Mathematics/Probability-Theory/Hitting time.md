@@ -6,6 +6,10 @@ T_A = \min \\{ n \geqslant 0 : X_n \in A\\}, \label{eq:hitting-time}
 
 which is the first time I hit a state in $A$.
 
+$$
+\Pr \\{ T_A < T_B  \mid X_0 = i\\} = \sum_j p_{ij} \Pr \\{ T_A < T_B \mid X_0 = j\\} \forall i \not\in A \cup B.
+$$
+
 # First Step Equations
 
 The distribution in Equation \ref{eq:hitting-time} is hard to compute. We can try to find the [[expected value]].
