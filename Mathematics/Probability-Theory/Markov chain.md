@@ -10,6 +10,8 @@ $$
 p_{ij} \triangleq \Pr(X_{n+1} = j \mid X_n = i)
 $$
 
+Of course, $p_{ij} \geqslant 0$ and $\sum_{j \in S} p_{ij} = 1$.
+
 # Classification
 
 If there is a path in state-transition diagram from $i$ to $j$ (i.e. $P_{ij}^n > 0$ for some $n \geqslant 1$), then $j$ is _accessible_ from $i$, and we write $i \rightarrow j$. 
