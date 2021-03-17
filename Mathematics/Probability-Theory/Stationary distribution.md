@@ -1,5 +1,9 @@
 A **stationary distribution** for a [[Markov chain]] is a row vector $\pi$ where
 
+$$
+\pi_j = \sum_{i \in S} \pi_i P_{ij}
+$$
+
 \begin{equation}
 \pi = \pi P
 \end{equation}
