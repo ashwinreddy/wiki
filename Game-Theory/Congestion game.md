@@ -27,3 +27,7 @@ This condition is equivalent to saying that
 $$
 \psi(s_1, \dots, s_i, \dots, s_k) \geqslant \psi(s_1, \dots, s_i', \dots, s_k)
 $$
+
+$$
+\psi(S) = \sum_{i=1}^m \sum_{j=1}^{n_i} c_i(j).
+$$
