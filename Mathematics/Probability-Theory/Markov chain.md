@@ -52,3 +52,7 @@ An irreducible MC is reversible if there's a $\pi$ s.t.
 \begin{equation}
 \pi_j P_{ji} \equiv \pi_i P_{ij} \tag{Detailed Balance Equations}
 \end{equation}
+
+# Stationary distribution
+
+[[include:stationary-distribution]]
