@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-J(\pi) = \mathbb{E}\left[ \sum_t r(s_t, a_t) + \alpha \mathcal{H}\left( \pi(\cdot \mid s_t) \right) \right]
+J(\pi) = \mathbb{E}\left[ \sum_t \underbrace{r(s_t, a_t)}_{\text{Reward}} + \alpha \mathcal{H}\left( \pi(\cdot \mid s_t) \right) \right]
 $$
