@@ -1,5 +1,8 @@
 A **set** is the weakest way to group a bunch of objects, with no notion of order or repetition. 
 
+$$
+A = B \iff (x \in A \iff x \in B)
+$$
 
 # Examples
 
