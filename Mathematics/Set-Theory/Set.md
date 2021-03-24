@@ -4,7 +4,7 @@ $$
 A = B \iff (x \in A \iff x \in B)
 $$
 
-That leads us to [[subset]].
+That leads us to the concept of [[subset]].
 
 # Examples
 
