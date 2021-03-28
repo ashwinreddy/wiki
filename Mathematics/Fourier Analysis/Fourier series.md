@@ -1,4 +1,4 @@
-The **Fourier series** is a [[series]] decomposition of a [[periodic signal|periodic function]] $x(t)$ using a [[linear combination]] of fixed frequency waves. In other words, we posit that all of the following formulations make sense:
+The **(Continuous time) Fourier series (CTFS)** is a [[series]] decomposition of a [[periodic signal|periodic function]] $x(t)$ using a [[linear combination]] of fixed frequency waves. In other words, we posit that all of the following formulations make sense:
 
 \begin{align}
 x(t) &= a_0 + \sum_{n=1}^\infty \left[ a_n \cos(n \omega_0 t) + b_n \sin(n \omega_0 t) \right] \\\\
