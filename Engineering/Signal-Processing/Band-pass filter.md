@@ -1,0 +1,1 @@
+**Band-pass filter**. An ideal bandpass would be a rectangle at $\omega_0$.
