@@ -11,7 +11,7 @@ $$
 $$
 
 $$
-\delta(t - \tau) = \int_{-\infty}^\infty e^{\iota 2\pi f(t - \tau)} \dd{f} \label{Technical Formulation}
+\delta(t - \tau) = \int_{-\infty}^\infty e^{\iota 2\pi f(t - \tau)} \dd{f} \tag{Technical Formulation}
 $$
 
 We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$. [[Kronecker delta]]
