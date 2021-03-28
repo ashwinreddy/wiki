@@ -1,1 +1,1 @@
-A **filter** modifies a signal to achieve some desired property. Let's suppose our filters are [[LTI]].
+A **filter** modifies a signal to achieve some desired property. Let's suppose our filters are [[linear time-invariant system]].
