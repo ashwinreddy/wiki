@@ -11,7 +11,7 @@ $$
 $$
 
 $$
-\delta(t - \tau) = \int_\RR e^{\iota 2\pi f(t - \tau)} \dd{f} \tag{Technical Formulation}
+\delta(t) = \int_\RR e^{\iota 2\pi ft} \dd{f} \tag{Technical Formulation}
 $$
 
 We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$. [[Kronecker delta]]
