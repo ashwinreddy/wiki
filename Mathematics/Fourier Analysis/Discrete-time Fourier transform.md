@@ -28,6 +28,14 @@ X(\omega) &= \mathcal{F}\\{x(t)\\} \\\\
 &= \sum_{n=-\infty}^\infty x[n] e^{-\iota \omega n}
 \end{align}
 
+# Sampling the DTFT
+
+Suppose you sampled $N$ samples from one cycle of the $X(e^{\iota\omega})$, which we know is periodic.
+
+$$
+X_{1/T}\left(\frac{k}{NT}\right) = \sum_{n=-\infty}^\infty x[n] e^{-\iota 2\pi \frac{k}{N}n}
+$$
+
 # DTFT of a DTFS
 
 Suppose you have a signal $x[n]$ that has DTFS expansion
