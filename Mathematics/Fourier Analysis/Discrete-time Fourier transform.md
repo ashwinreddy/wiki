@@ -36,7 +36,7 @@ $$
 X_{1/T}\left(\frac{k}{NT}\right) = \sum_{n=-\infty}^\infty x[n] e^{-\iota 2\pi \frac{k}{N}n}
 $$
 
-That's just the [[DFT]].
+That's just the [[Discrete Fourier Transform]].
 
 # DTFT of a DTFS
 
