@@ -10,6 +10,10 @@ $$
 
 These equations reference [[angular frequency]] $\omega$, but we can also relate them to the ordinary frequency $f = \frac{\omega}{2\pi}$.
 
+$$
+X(f) = \int_\RR x(t) e^{-\iota 2\pi f t}\dd{t}
+$$
+
 [[_TOC_]]
 
 # Technical Details
