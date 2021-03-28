@@ -3,3 +3,5 @@ A **low-pass filter** allows low frequency signals to pass through. An ideal low
 $$
 \Pi\left(\frac{\omega - \frac{\omega_c}{2}}{\omega_c}\right)
 $$
+
+# [[RC circuit]]
