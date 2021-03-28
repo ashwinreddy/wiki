@@ -1,0 +1,1 @@
+A **low-pass filter** allows low frequency signals to pass through.
