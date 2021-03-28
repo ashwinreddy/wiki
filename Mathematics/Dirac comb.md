@@ -4,6 +4,12 @@ $$
 Ш(t) = \sum_{k=-\infty}^\infty \delta(t - k)
 $$
 
+If you want the impulses separated by $T$, you use
+
+$$
+p(t) = \frac{1}{T}Ш\left(\frac{t}{T}\right)
+$$
+
 $$
 Ш[n] = \sum_{k=-\infty}^\infty \delta[n-k]
 $$
