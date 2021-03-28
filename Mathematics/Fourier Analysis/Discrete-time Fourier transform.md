@@ -36,6 +36,8 @@ $$
 X_{1/T}\left(\frac{k}{NT}\right) = \sum_{n=-\infty}^\infty x[n] e^{-\iota 2\pi \frac{k}{N}n}
 $$
 
+That's just the [[DFT]].
+
 # DTFT of a DTFS
 
 Suppose you have a signal $x[n]$ that has DTFS expansion
