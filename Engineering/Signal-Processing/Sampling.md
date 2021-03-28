@@ -6,3 +6,8 @@ $$
 x_p(t) = \sum_{n=-\infty}^\infty x(nT)\delta(t- nT)
 $$
 
+Or, more compactly,
+
+$$
+x_p(t) = x(t) \cdot f_s Ш(t f_s)
+$$
