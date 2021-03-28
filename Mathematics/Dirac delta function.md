@@ -1,8 +1,13 @@
 The **Dirac delta function** $\delta$ is roughly given by
 
-$$
-\delta(x) = \begin{cases} +\infty & x= 0 \\\\\ 0 & x \neq 0\end{cases}
-$$
+\begin{equation}
+\delta(x) = \begin{cases} +\infty & x= 0 \\\\\ 0 & x \neq 0\end{cases} \tag{Heuristic}
+\end{equation}
+
+
+\begin{equation}
+\delta(t) = \int_\RR e^{\iota 2\pi ft} \dd{f} \tag{Technical Formulation}
+\end{equation}
 
 with its [[integral]]
 
@@ -10,9 +15,6 @@ $$
 \int_\RR \delta(x - x_0)\\,\dd{x} = 1.
 $$
 
-$$
-\delta(t) = \int_\RR e^{\iota 2\pi ft} \dd{f} \tag{Technical Formulation}
-$$
 
 We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$. [[Kronecker delta]]
 
