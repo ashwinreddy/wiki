@@ -5,3 +5,4 @@ These samples $\\{ x(nT) \\}$ for $n \in \mathbb{Z}$ make up a discrete-time sig
 $$
 x_p(t) = \sum_{n=-\infty}^\infty x(nT)\delta(t- nT)
 $$
+
