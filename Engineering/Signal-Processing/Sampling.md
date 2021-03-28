@@ -1,0 +1,1 @@
+**Sampling** a continuous time signal at discrete time intervals
