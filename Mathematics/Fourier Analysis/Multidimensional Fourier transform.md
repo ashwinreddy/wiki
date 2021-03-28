@@ -1,5 +1,10 @@
 2D Fourier transform. 
 
-$$
-F(f_x, f_y) = \iint_{\RR^2 } f(x, y) e^{-\iota 2\pi (f_x x + f_y y)}\dd{x}\dd{y}
-$$
+\begin{equation}
+F(f_x, f_y) = \iint_{\RR^2 } f(x, y) e^{-\iota 2\pi (f_x x + f_y y)}\dd{x}\dd{y} \tag{Analysis}
+\end{equation}
+
+
+\begin{equation}
+f(x, y) = \iint_{\RR^2 } F(x, y) e^{\iota 2\pi (f_x x + f_y y)}\dd{x}\dd{y} \tag{Synthesis}
+\end{equation}
