@@ -83,4 +83,4 @@ $$
 |One-sided decaying exponential|$e^{-at}u(t)$, $a > 0$|$\frac{1}{a + \iota \omega}$|
 |[[Dirac comb]] of period $T$||$\sum_{n=-\infty}^\infty e^{-\iota\omega n T}$|
 |[[Rectangular function]]|$\mathsf{rect}(t) = u(t + 1/2) - u(t - 1/2)$|$\operatorname{sinc}(\omega / 2)$|
-|Sine|$\sin(at)$||
+|Sine|$\sin(at)$|$\frac{\pi}{\iota}\left( \delta(\omega - 3) - \delta(\omega + 3) \right)$|
