@@ -1,1 +1,1 @@
-**Sampling** a continuous time signal at discrete time intervals
+**Sampling** a continuous time signal to make a discrete time signal $f_s = \frac{1}{T}$.
