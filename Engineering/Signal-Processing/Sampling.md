@@ -6,7 +6,7 @@ $$
 x_p(t) = \sum_{n=-\infty}^\infty x(nT)\delta(t- nT)
 $$
 
-Or, more compactly with the [[Shah function]]
+Or, more compactly with the [[Dirac comb]]
 
 $$
 x_p(t) = x(t) \cdot f_s Ш(t f_s)
