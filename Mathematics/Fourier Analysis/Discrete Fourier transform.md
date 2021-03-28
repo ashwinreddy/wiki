@@ -12,8 +12,10 @@ These equations are almost the same (modulo the location of the $1/N$ factor) to
 
 # Matrix multiplication
 
+Suppose we defined a [[matrix]]
+
 $$
-F_{kn} = e^{-\iota \omega_0 kn}
+F_{kn} \triangleq e^{-\iota \omega_0 kn}
 $$
 
 This would enable a [[matrix multiplication]]
