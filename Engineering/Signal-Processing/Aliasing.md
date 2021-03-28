@@ -1,1 +1,1 @@
-**Aliasing**
+**Aliasing** is when the frequency spectrum folds over with other frequency components due to replication as a result of sampling
