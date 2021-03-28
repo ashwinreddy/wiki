@@ -1,5 +1,5 @@
 The **sinc function**
 
 $$
-\operatorname{sinc} x \triangleq \frac{\sin x}{x}
+\operatorname{sinc} x = \frac{\sin z}{z}, \qquad z = \begin{cases} x \\\ \pi x\end{cases}
 $$
