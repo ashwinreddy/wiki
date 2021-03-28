@@ -5,7 +5,7 @@ X_k = \sum_{n=0}^{N-1} x[n] e^{-\iota \frac{2\pi}{N} k n}, \qquad k = 0, \dots, 
 $$
 
 $$
-x[n] = \frac{1}{N} \sum_{k=0}^{N-1} X_k e^{\iota \omega_0 k n}, \qquad n = 0, \dots, N-1 \tag{DFT Synthesis}
+x[n] = \frac{1}{N} \sum_{k=0}^{N-1} X_k e^{\iota \frac{2\pi}{N} k n}, \qquad n = 0, \dots, N-1 \tag{DFT Synthesis}
 $$
 
 These equations are almost the same (modulo the location of the $1/N$ factor) to the [[Discrete-time Fourier series]].
