@@ -78,7 +78,7 @@ $$
 
 |Time|Expression|Frequency|
 |----|----|---------|
-|[[Dirac delta function]]|$\delta(t)$|1|
+|[[Dirac delta function]]|$\delta(t-t_0)$|$e^{-\iota t_0 \omega}$|
 |Complex exponential|$\exp(j\omega_0 t)$|$2\pi \delta(\omega_0 - \omega)$|
 |One-sided decaying exponential|$e^{-at}u(t)$, $a > 0$|$\frac{1}{a + \iota \omega}$|
 ||$e^{-a\|t\|}$|$\frac{2a}{a^2 + \omega^2}$|
