@@ -10,7 +10,9 @@ $$
 \int_\RR \delta(x - x_0)\\,\dd{x} = 1.
 $$
 
-
+$$
+\delta(t - \tau) = \int_{-\infty}^\infty e^{\iota 2\pi f(t - \tau)} \dd{f} \label{Technical Formulation}
+$$
 
 We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$. [[Kronecker delta]]
 
@@ -18,11 +20,6 @@ We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 
 
 Suppose we have $\delta(t - f(t))$, then it's supported only when $t = f(t)$.
 
-# Technical Formulation
-
-$$
-\delta(t - \tau) = \int_{-\infty}^\infty e^{\iota 2\pi f(t - \tau)} \dd{f}
-$$
 
 # Properties
 
