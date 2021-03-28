@@ -1,5 +1,1 @@
-**Sampling** a continuous time signal to make a discrete time signal $f_s = \frac{1}{T}$, $\omega_s = \frac{2\pi}{T}$.
-
-$$
-x_p(t) = \sum_{n = -\infty}^\infty x(nT) \delta(t - nT)
-$$
+**Sampling** is selecting values periodically from a continuous-time signal $x(t)$ at some fixed time interval $T$. Equivalently, we can talk about a sampling frequency $f_s = \frac{1}{T}$ and $\omega = \frac{2\pi}{T}$.
