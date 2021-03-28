@@ -8,3 +8,7 @@ F(f_x, f_y) = \iint_{\RR^2 } f(x, y) e^{-\iota 2\pi (f_x x + f_y y)}\dd{x}\dd{y}
 \begin{equation}
 f(x, y) = \iint_{\RR^2 } F(x, y) e^{\iota 2\pi (f_x x + f_y y)}\dd{x}\dd{y} \tag{Synthesis}
 \end{equation}
+
+$$
+f(x)g(y) \longleftrightarrow F(f_x)G(f_y)
+$$
