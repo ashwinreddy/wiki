@@ -65,14 +65,16 @@ As a corollary to the above,
 Time reversal property
 : $$\mathcal{F}\\{x(-t)\\}=X(-\omega).$$
 
+Convolution / multiplication property
+
 $$
 \mathcal{F}\\{ x(t) * h(t) \\}  = X(\omega)H(\omega)
 $$
 
 
-$$
-\mathcal{F}\\{ x(t) h(t) \\}  = X(\omega) * H(\omega)
-$$
+\begin{equation}
+\mathcal{F}\\{ f(t)g(t) \\}  = \frac{1}{2\pi} F(\omega) * G(\omega).
+\end{equation}
 
 # Common transforms
 
