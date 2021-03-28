@@ -81,7 +81,7 @@ $$
 |[[Dirac delta function]]|$\delta(t)$|1|
 |Complex exponential|$\exp(j\omega_0 t)$|$2\pi \delta(\omega_0 - \omega)$|
 |One-sided decaying exponential|$e^{-at}u(t)$, $a > 0$|$\frac{1}{a + \iota \omega}$|
-||$e^{-a|t|}$|$\frac{2a}{a^2 + \omega^2}$|
+||$e^{-a\|t\|}$|$\frac{2a}{a^2 + \omega^2}$|
 |[[Dirac comb]] of period $T$||$\sum_{n=-\infty}^\infty e^{-\iota\omega n T}$|
 |[[Rectangular function]]|$\mathsf{rect}(t) = u(t + 1/2) - u(t - 1/2)$|$\operatorname{sinc}(\omega / 2)$|
 |Sine|$\sin(\omega_0 t)$|$\frac{\pi}{\iota}\left( \delta(\omega - \omega_0 ) - \delta(\omega + \omega_0 ) \right)$|
