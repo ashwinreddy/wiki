@@ -1,4 +1,4 @@
-The **Dirac delta function** $\delta$ is roughly given by
+The **Dirac delta function** $\delta$ is roughly a sharp peak at input 0. Alternatively, we can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$.
 
 \begin{equation}
 \delta(x) = \begin{cases} +\infty & x= 0 \\\\\ 0 & x \neq 0\end{cases} \tag{Heuristic}
@@ -16,7 +16,7 @@ $$
 $$
 
 
-We can think of it as a [[normal distribution]] with [[variance]] $\sigma^2 \to 0$. [[Kronecker delta]]
+ [[Kronecker delta]]
 
 # [[Support]]
 
