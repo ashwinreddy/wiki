@@ -1,4 +1,4 @@
-The **Dirac comb** or **Shah function**
+The **Dirac comb** or **Shah function** is a train of impulses
 
 $$
 Ш(t) = \sum_{k=-\infty}^\infty \delta(t - k)
