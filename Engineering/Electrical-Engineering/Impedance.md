@@ -1,0 +1,1 @@
+**Impedance** allows for the analysis of circuits with [[resistor]] and [[capacitor]] and [[inductor]] by giving each one a [[complex number]] that can be treated like its [[resistance]].
