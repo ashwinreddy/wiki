@@ -5,7 +5,7 @@ We have two ways of modeling this:
 1. $$x_p(t) = p(t) x(t)$$
 
 $$
-p(t) = \sum_{k=-\infty}^\infty \delta(t- kT)
+p(t) \equiv \sum_{k=-\infty}^\infty \delta(t- kT) \tag{Sampling Operation}
 $$
 
 2. $$x_d[n] = x_c(nT)$$
