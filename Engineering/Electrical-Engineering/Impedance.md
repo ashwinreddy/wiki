@@ -8,6 +8,10 @@ $$
 Z_L = \iota \omega L
 $$
 
+The inductor gives a 90 degree phase shift
+
 $$
 Z_C = \frac{1}{\iota \omega C}
 $$
+
+As $\omega$ increases, $|Z_C|$ decreases so that as $\omega \to 0$, $Z_c \to \infty$ and $\omega \to \infty$, $Z_C \to 0$.
