@@ -1,5 +1,5 @@
 **Decibel**
 
 $$
-M \, [dB] = 20 \log M
+M \\, [dB] = 20 \log M
 $$
