@@ -78,7 +78,7 @@ $$
 
 # Common transforms
 
-|Time|Expression|Frequency|
+|Time|Expression|Frequency $\omega$|
 |----|----|---------|
 |[[Dirac delta function]]|$\delta(t-t_0)$|$e^{-\iota t_0 \omega}$|
 |Dirac comb|$\mathsf{DiracComb}(t)$|$\mathsf{DiracComb}\left(\frac{\omega }{2 \pi }\right)$|
