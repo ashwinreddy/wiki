@@ -1,4 +1,4 @@
-The **(continuous time) Fourier series (CTFS)** is a [[series]] decomposition of a [[periodic signal|periodic function]] $x(t)$ using a [[linear combination]] of fixed frequency waves. 
+The **(continuous time) Fourier series (CTFS)** is a [[series]] decomposition of a [[periodic signal|periodic function]] $x(t)$ using a [[linear combination]] of fixed frequency waves. Let the fundamental frequency be $\omega_0 \equiv \frac{2\pi}{T}$ where $T$ is the fundamental period of $x(t)$.
 
 
 \begin{equation}
@@ -21,7 +21,7 @@ x(t) &= a_0 + \sum_{n=1}^\infty \left[ a_n \cos(n \omega_0 t) + b_n \sin(n \omeg
 &= \sum_{n=-\infty}^\infty x_n e^{\iota n \omega_0 t}
 \end{align}
 
-For simplicity, let the fundamental frequency be $\omega_0 \equiv \frac{2\pi}{T}$ where $T$ is the fundamental period of $x(t)$.
+
 
 # Synthesis
 
