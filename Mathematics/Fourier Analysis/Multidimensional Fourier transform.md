@@ -12,3 +12,9 @@ f(x, y) = \iint_{\RR^2 } F(x, y) e^{\iota 2\pi (f_x x + f_y y)}\dd{x}\dd{y} \tag
 $$
 f(x)g(y) \longleftrightarrow F(f_x)G(f_y)
 $$
+
+# Examples
+
+$$
+\sin(ax + by) \longleftrightarrow -2\im\pi^2 \delta(a - \omega_x, b - \omega_y) + 2\im\pi^2 \delta(a + \omega_x, b+\omega_y)
+$$
