@@ -2,10 +2,16 @@
 
 We have two ways of modeling this:
 
-1. $$x_p(t) = p(t) x(t)$$
+1. $$x_p(t) = p(t) x_c(t)$$
 
 $$
 p(t) \equiv \sum_{k=-\infty}^\infty \delta(t- kT) \tag{Sampling Operation}
 $$
 
 2. $$x_d[n] = x_c(nT)$$
+
+# Fourier Transform
+
+$$
+X_p(\omega) = \frac{1}{T}\sum_{n=-\infty}^\infty X_c(\omega - n \omega_s)
+$$
