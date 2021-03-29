@@ -16,7 +16,7 @@ $$
 * Expectation is a [[linear map]]. For _any_ random variables $X$ and $Y$,
 
 \begin{equation}
-\mathbb{E}(X+Y) = \mathbb{E}(X) + \mathbb{E}(Y)
+\expectation{X+Y} = \expectation{X} + \expectation{Y}
 \end{equation}
 
 \begin{equation}
