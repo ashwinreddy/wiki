@@ -2,12 +2,12 @@ The **(continuous time) Fourier series (CTFS)** is a [[series]] decomposition of
 
 
 \begin{equation}
-x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis Equation}
+x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis}
 \end{equation}
 
 
 \begin{equation}
-c_k = \frac{1}{T} \int_{\text{1 period}} x(t) e^{-\iota k \omega_0 t}\dd{t} \tag{Analysis Equation}
+c_k = \frac{1}{T} \int_{\langle T \rangle} x(t) e^{-\iota k \omega_0 t}\dd{t} \tag{Analysis}
 \end{equation}
 
 
