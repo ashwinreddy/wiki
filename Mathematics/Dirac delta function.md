@@ -20,10 +20,6 @@ $$
 
 The discrete cousin is [[Kronecker delta]].
 
-# [[Support]]
-
-Suppose we have $\delta(t - f(t))$, then it's supported only when $t = f(t)$.
-
 
 # Properties
 
