@@ -5,10 +5,6 @@ The **Dirac delta function** $\delta$ is roughly a sharp peak at input 0. Altern
 \end{equation}
 
 
-\begin{equation}
-\delta(t) = \int_\RR e^{\iota 2\pi ft} \dd{f} = \frac{1}{2\pi}\int_\RR e^{j\omega t} \dd{\omega}\tag{Technical Formulation}
-\end{equation}
-
 with its [[integral]]
 
 $$
@@ -16,7 +12,13 @@ $$
 $$
 
 
- [[Kronecker delta]]
+
+\begin{equation}
+\delta(t) = \int_\RR e^{\iota 2\pi ft} \dd{f} = \frac{1}{2\pi}\int_\RR e^{j\omega t} \dd{\omega}\tag{Technical Formulation}
+\end{equation}
+
+
+The discrete cousin is [[Kronecker delta]].
 
 # [[Support]]
 
