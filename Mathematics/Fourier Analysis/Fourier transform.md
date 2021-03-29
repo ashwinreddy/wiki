@@ -82,10 +82,10 @@ If $x(t) \leftrightarrow X(\omega)$, then taking that $X(t) \leftrightarrow 2\pi
 |----|----|---------|
 |[[Dirac delta function]]|$\delta(t-t_0)$|$e^{-\iota t_0 \omega}$|
 |[[Dirac comb]]|$\mathsf{DiracComb}(t)$|$\mathsf{DiracComb}\left(\frac{\omega }{2 \pi }\right)$|
+|[[Dirac comb]] of period $T$||$\sum_{n=-\infty}^\infty e^{-\iota\omega n T}$|
 |Complex exponential|$\exp(\iota \omega_0 t)$|$2\pi \delta(\omega_0 - \omega)$|
 |One-sided decaying exponential|$e^{-at}u(t)$, $a > 0$|$\frac{1}{a + \iota \omega}$|
 ||$e^{-a\|t\|}$|$\frac{2a}{a^2 + \omega^2}$|
-|[[Dirac comb]] of period $T$||$\sum_{n=-\infty}^\infty e^{-\iota\omega n T}$|
 |[[Rectangular function]]|$\mathsf{rect}_1(t) = u(t + 1/2) - u(t - 1/2)$|$\operatorname{sinc}(\omega / 2)$|
 |Sine|$\sin(\omega_0 t)$|$\frac{\pi}{\iota}\left( \delta(\omega - \omega_0 ) - \delta(\omega + \omega_0 ) \right)$|
 |Cosine|$\cos(\omega_0 t)$|$\pi\left( \delta(\omega - \omega_0) + \delta(\omega + \omega_0) \right)$|
