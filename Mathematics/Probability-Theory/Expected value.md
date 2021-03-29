@@ -20,7 +20,7 @@ $$
 \end{equation}
 
 \begin{equation}
-\mathbb{E}\left(\alpha X\right) = \alpha \mathbb{E}(X)
+\expectation{\alpha X} = \alpha \expectation{X)
 \end{equation}
 
 * Suppose $X$ and $Y$ are independent, then $\mathbb{E}(XY) = \mathbb{E}(X) \cdot \mathbb{E}(Y)$.
