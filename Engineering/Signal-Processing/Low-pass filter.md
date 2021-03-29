@@ -15,7 +15,7 @@ $$
 If we pass it through a ideal unit-gain LPF with cutoff frequency $\omega = \pi$, we would get
 
 $$
-y(t) = 20 + \cos(t) + \sin(t+2)
+y(t) = 20 + \cos(t) + \sin(t+2).
 $$
 
 # [[RC circuit]]
