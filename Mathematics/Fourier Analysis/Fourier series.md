@@ -8,7 +8,7 @@ x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis}
 
 \begin{equation}
 \label{eq:analysis}
-c_k = \frac{1}{T} \int_{\langle T \rangle} x(t) e^{-\iota k \omega_0 t}\dd{t} \tag{Analysis}
+c_k = \frac{1}{T} \int_{\langle T \rangle} x(t) e^{-\iota k \omega_0 t}\dd{t} \tag{Analysis Equation}
 \end{equation}
 
 where $\langle T \rangle$ denotes any contiguous interval of length $T$.
