@@ -5,7 +5,7 @@ A **linear time-invariant (LTI) system** is a [[linear system]] and [[time-invar
 The eigenfunctions for LTI systems are complex exponential.
 
 $$
-z \rightarrow \boxed{H} \rightarrow H z
+z \rightarrow \boxed{H} \rightarrow H(\omega) z
 $$
 
 # Causality
