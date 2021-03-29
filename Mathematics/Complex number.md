@@ -11,12 +11,18 @@ $$
 |z| = \sqrt{z \bar{z}}
 $$
 
+# Phase
+
 $$
 \angle\left(e^{\iota \omega}\right) = \omega
 $$
 
 $$
 \angle\left(a + b \iota \right) = \arctan b / a
+$$
+
+$$
+\angle z^* = -\angle z
 $$
 
 # Notation
