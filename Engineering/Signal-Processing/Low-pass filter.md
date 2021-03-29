@@ -1,7 +1,21 @@
-A **low-pass filter** allows low frequency signals to pass through. An ideal low-pass would look like
+A **low-pass filter (LPF)** allows low frequency signals to pass through. An ideal low-pass would look like
 
 $$
 \Pi\left(\frac{\omega - \frac{\omega_c}{2}}{\omega_c}\right)
+$$
+
+# Example
+
+Let's say we have a signal
+
+$$
+x(t) = 20 + \cos(t) + \sin(t+2) + \sin(40 t).
+$$
+
+If we pass it through a ideal unit-gain LPF with cutoff frequency $\omega = \pi$, we would get
+
+$$
+y(t) = 20 + \cos(t) + \sin(t+2)
 $$
 
 # [[RC circuit]]
