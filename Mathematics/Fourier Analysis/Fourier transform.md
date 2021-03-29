@@ -82,7 +82,7 @@ $$
 |----|----|---------|
 |[[Dirac delta function]]|$\delta(t-t_0)$|$e^{-\iota t_0 \omega}$|
 |Dirac comb|$\mathsf{DiracComb}(t)$|$\mathsf{DiracComb}\left(\frac{\omega }{2 \pi }\right)$|
-|Complex exponential|$\exp(j\omega_0 t)$|$2\pi \delta(\omega_0 - \omega)$|
+|Complex exponential|$\exp(\iota \omega_0 t)$|$2\pi \delta(\omega_0 - \omega)$|
 |One-sided decaying exponential|$e^{-at}u(t)$, $a > 0$|$\frac{1}{a + \iota \omega}$|
 ||$e^{-a\|t\|}$|$\frac{2a}{a^2 + \omega^2}$|
 |[[Dirac comb]] of period $T$||$\sum_{n=-\infty}^\infty e^{-\iota\omega n T}$|
