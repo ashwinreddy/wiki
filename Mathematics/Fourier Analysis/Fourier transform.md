@@ -88,4 +88,4 @@ $$
 |[[Dirac comb]] of period $T$||$\sum_{n=-\infty}^\infty e^{-\iota\omega n T}$|
 |[[Rectangular function]]|$\mathsf{rect}_1(t) = u(t + 1/2) - u(t - 1/2)$|$\operatorname{sinc}(\omega / 2)$|
 |Sine|$\sin(\omega_0 t)$|$\frac{\pi}{\iota}\left( \delta(\omega - \omega_0 ) - \delta(\omega + \omega_0 ) \right)$|
-|Cosine|$\cos(at)$|$\pi\left( \delta(\omega - \omega_0) + \delta(\omega + \omega_0) \right)$|
+|Cosine|$\cos(\omega_0 t)$|$\pi\left( \delta(\omega - \omega_0) + \delta(\omega + \omega_0) \right)$|
