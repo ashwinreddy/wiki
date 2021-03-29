@@ -10,6 +10,8 @@ x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis}
 c_k = \frac{1}{T} \int_{\langle T \rangle} x(t) e^{-\iota k \omega_0 t}\dd{t} \tag{Analysis}
 \end{equation}
 
+where $\langle T \rangle$ denotes any contiguous interval of length $T$.
+
 
 In other words, we posit that all of the following formulations make sense:
 
