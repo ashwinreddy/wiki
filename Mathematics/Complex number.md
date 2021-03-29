@@ -22,7 +22,7 @@ $$
 $$
 
 $$
-\angle z^* \equiv -\angle z
+\angle(z)^* \equiv -\angle z
 $$
 
 # Notation
