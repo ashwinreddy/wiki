@@ -18,3 +18,7 @@ $$
 $$
 \sin(ax + by) \longleftrightarrow 2\im\pi^2 (  \delta(a + \omega_x, b+\omega_y) - \delta(a - \omega_x, b - \omega_y))
 $$
+
+$$
+\cos(ax + by) \longleftrightarrow 2\pi^2 (  \delta(a - \omega_x, b-\omega_y) + \delta(a + \omega_x, b + \omega_y))
+$$
