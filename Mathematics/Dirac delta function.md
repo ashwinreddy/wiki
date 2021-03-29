@@ -32,7 +32,7 @@ $$
 $$
 
 $$
-\delta(t) = \int_\RR e^{j\omega t} \dd{\omega}
+\delta(t) = \frac{1}{2\pi}\int_\RR e^{j\omega t} \dd{\omega}
 $$
 
 * \begin{equation}
