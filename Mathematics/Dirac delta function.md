@@ -6,7 +6,7 @@ The **Dirac delta function** $\delta$ is roughly a sharp peak at input 0. Altern
 
 
 \begin{equation}
-\delta(t) = \int_\RR e^{\iota 2\pi ft} \dd{f} \tag{Technical Formulation}
+\delta(t) = \int_\RR e^{\iota 2\pi ft} \dd{f} = \frac{1}{2\pi}\int_\RR e^{j\omega t} \dd{\omega}\tag{Technical Formulation}
 \end{equation}
 
 with its [[integral]]
@@ -31,9 +31,6 @@ $$
 \delta(t) = \dv{u(t)}{t}
 $$
 
-$$
-\delta(t) = \frac{1}{2\pi}\int_\RR e^{j\omega t} \dd{\omega}
-$$
 
 * \begin{equation}
 \int_\RR \delta(x - x_0)f(x) \\,\dd{x} = f(x_0) \tag{Sifting property}
