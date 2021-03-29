@@ -5,7 +5,7 @@ The **discrete-time Fourier transform (DTFT)** is the [[Fourier transform]] appl
 Despite $x[n]$ being discrete, $X$ is a continuous function of frequency. Since the time signal is discrete, the frequency domain is $2\pi$-periodic. 
 
 \begin{equation}
-x[n] = \frac{1}{2\pi} \int_{\langle 2\pi\rangle} X(e^{\iota\omega}) e^{\iota\omega n} \dd{\omega} \tag{DTFT Synthesis}
+x[n] = \frac{1}{2\pi} \int_{\langle 2\pi\rangle} X(e^{\im\omega}) e^{\im\omega n} \dd{\omega} \tag{DTFT Synthesis}
 \end{equation}
 
 where $\langle 2\pi\rangle$ is any contiguous interval of length $2\pi$. 
@@ -25,15 +25,15 @@ $$
 \begin{align}
 X(\omega) &= \mathcal{F}\\{x(t)\\} \\\\
 &= \mathcal{F}\left\\{ \sum_{n=-\infty}^\infty x[n] \delta(t-n) \right\\}  \\\\
-&= \sum_{n=-\infty}^\infty x[n] e^{-\iota \omega n}
+&= \sum_{n=-\infty}^\infty x[n] e^{-\im \omega n}
 \end{align}
 
 # Sampling the DTFT
 
-Suppose you sampled $N$ samples from one cycle of the $X(e^{\iota\omega})$, which we know is periodic.
+Suppose you sampled $N$ samples from one cycle of the $X(e^{\im\omega})$, which we know is periodic.
 
 $$
-X_{1/T}\left(\frac{k}{NT}\right) = \sum_{n=-\infty}^\infty x[n] e^{-\iota 2\pi \frac{k}{N}n}
+X_{1/T}\left(\frac{k}{NT}\right) = \sum_{n=-\infty}^\infty x[n] e^{-\im 2\pi \frac{k}{N}n}
 $$
 
 That's just the [[Discrete Fourier Transform]].
@@ -43,13 +43,13 @@ That's just the [[Discrete Fourier Transform]].
 Suppose you have a signal $x[n]$ that has DTFS expansion
 
 $$
-x[n] = \sum_{k=0}^{N-1} a_k e^{\iota \omega_0 k n}.
+x[n] = \sum_{k=0}^{N-1} a_k e^{\im \omega_0 k n}.
 $$
 
 Then the DTFT is given by
 
 $$
-X(e^{\iota\omega}) = 2\pi \sum_{k=-\infty}^\infty a_k \delta(\omega - k \omega_0)
+X(e^{\im\omega}) = 2\pi \sum_{k=-\infty}^\infty a_k \delta(\omega - k \omega_0)
 $$
 
 
@@ -64,23 +64,23 @@ $$
 : $$ax[n] + by[n] \longleftrightarrow aX(\omega) + bY(\omega).$$
 
 Time shift
-: A delay of $n_0$ steps introduces a complex exponential factor. $$x[n-n_0] \longleftrightarrow e^{-\iota\omega n_0}X(e^{\iota\omega}).$$
+: A delay of $n_0$ steps introduces a complex exponential factor. $$x[n-n_0] \longleftrightarrow e^{-\im\omega n_0}X(e^{\im\omega}).$$
 
 Frequency shift
-: $$e^{\iota\omega_0 n}x[n] \longleftrightarrow X(e^{\iota(\omega - \omega_0)}).$$
+: $$e^{\im\omega_0 n}x[n] \longleftrightarrow X(e^{\im(\omega - \omega_0)}).$$
 
 Time reversal
-: $$x[-n] \longleftrightarrow X(e^{-\iota \omega}).$$
+: $$x[-n] \longleftrightarrow X(e^{-\im \omega}).$$
 
 
 Differentiation
-: $$n x[n] \longleftrightarrow \iota \dv{X(e^{\iota\omega})}{\omega} $$
+: $$n x[n] \longleftrightarrow \im \dv{X(e^{\im\omega})}{\omega} $$
 
 Multiplication
-: $$x_1[n]x_2[n] \longleftrightarrow \frac{1}{2\pi}\int_{\langle 2\pi \rangle} X_1(e^{\iota\omega}) X_2\left(e^{\iota(\omega - \theta)}\right) \dd{\theta}$$
+: $$x_1[n]x_2[n] \longleftrightarrow \frac{1}{2\pi}\int_{\langle 2\pi \rangle} X_1(e^{\im\omega}) X_2\left(e^{\im(\omega - \theta)}\right) \dd{\theta}$$
 
 Conjugate symmetry
-: $$x\^*[n] \longleftrightarrow X^*(e^{-\iota\omega})$$
+: $$x\^*[n] \longleftrightarrow X^*(e^{-\im\omega})$$
 
 # Common transforms
 
@@ -89,7 +89,7 @@ Conjugate symmetry
 |----|----|---------|
 |[[Kronecker delta]]|$\delta[n]$|1|
 |Constant|1|$Ш(2\pi \omega)$|
-|Decaying step|$\alpha^n u[n]$|$\frac{1}{1 - \alpha e^{-\iota\omega}}$, $\vert \alpha \vert < 1$|
+|Decaying step|$\alpha^n u[n]$|$\frac{1}{1 - \alpha e^{-\im\omega}}$, $\vert \alpha \vert < 1$|
 
 # See also
 
