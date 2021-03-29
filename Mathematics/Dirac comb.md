@@ -7,9 +7,15 @@ $$
 If you want the impulses separated by $T$, you use
 
 $$
-p(t) = \frac{1}{T}Ш\left(\frac{t}{T}\right)
+Ш_T(t) = \frac{1}{T}Ш\left(\frac{t}{T}\right)
 $$
 
 $$
 Ш[n] = \sum_{k=-\infty}^\infty \delta[n-k]
+$$
+
+# [[Fourier Transform]]
+
+$$
+\mathcal{F}\\{ Ш(t) \\} = 
 $$
