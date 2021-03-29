@@ -7,6 +7,7 @@ x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis}
 
 
 \begin{equation}
+\label{eq:analysis}
 c_k = \frac{1}{T} \int_{\langle T \rangle} x(t) e^{-\iota k \omega_0 t}\dd{t} \tag{Analysis}
 \end{equation}
 
@@ -24,8 +25,9 @@ x(t) &= a_0 + \sum_{n=1}^\infty \left[ a_n \cos(n \omega_0 t) + b_n \sin(n \omeg
 
 # Analysis
 
-Then, $c_0$ is the average value of the function over one period.
+You can see from \ref{eq:analysis} that $c_0$ is the average value of the function over one period.
 
+# Fourier Transform
 
 The [[Fourier transform]] given the coefficients $c_k$ is
 
