@@ -8,7 +8,7 @@ $$
 x(t) = \mathcal{F}^{-1}\\{X(\omega)\\} = \frac{1}{2\pi}\int_\RR X(\omega) e^{\iota \omega t} \dd{\omega} \tag{CTFT Synthesis}
 $$
 
-These equations reference [[angular frequency]] $\omega$, but you can freely substitute $\omega = 2\pi f$ or $f = \frac{\omega}{2\pi}$ for the forward transform.
+These equations reference [[angular frequency]] $\omega$, but you can freely substitute [[frequency]] through $\omega = 2\pi f$ or $f = \frac{\omega}{2\pi}$ for the forward transform.
 
 $$
 x(t) = \int_\RR X(f) e^{\im 2\pi f t} \dd{f}
