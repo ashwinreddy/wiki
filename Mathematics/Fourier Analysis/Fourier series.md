@@ -22,15 +22,7 @@ x(t) &= a_0 + \sum_{n=1}^\infty \left[ a_n \cos(n \omega_0 t) + b_n \sin(n \omeg
 \end{align}
 
 
-
-# Synthesis
-
-Our claim is that a continuous periodic function can be written like
-
 # Analysis
-
-Then, we must have
-
 
 Then, $c_0$ is the average value of the function over one period.
 
