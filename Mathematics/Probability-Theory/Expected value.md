@@ -8,7 +8,7 @@ The **expected value** or **expectation** collapses the [[probability distributi
 In terms of the [[cumulative distribution function]],
 
 $$
-\mathbb{E}(X) = \int_{\RR} x\\, \dd{F(x)}
+\expectation{X} = \int_{\RR} x\\, \dd{F(x)}
 $$
 
 # Properties
