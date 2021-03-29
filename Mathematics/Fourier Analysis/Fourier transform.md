@@ -73,7 +73,7 @@ $$
 
 
 \begin{equation}
-\mathcal{F}\\{ f(t)g(t) \\}  = \frac{1}{2\pi} F(\omega) * G(\omega).
+\mathcal{F}\\{ f(t)\cdot g(t) \\}  = \frac{1}{2\pi} F(\omega) * G(\omega).
 \end{equation}
 
 # Common transforms
