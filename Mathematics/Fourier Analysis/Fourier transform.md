@@ -72,6 +72,10 @@ $$
 \mathcal{F}\\{ f(t)\cdot g(t) \\}  = \frac{1}{2\pi} F(\omega) * G(\omega).
 \end{equation}
 
+# Duality
+
+If $x(t) \leftrightarrow X(\omega)$, then taking that $X(t) \leftrightarrow 2\pi x(-\omega)$.
+
 # Common transforms
 
 |Time|Expression|Frequency $\omega$|
