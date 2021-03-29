@@ -15,7 +15,3 @@ $$
 $$
 
 # [[Fourier Transform]]
-
-$$
-\mathcal{F}\\{ Ш(t) \\} = 
-$$
