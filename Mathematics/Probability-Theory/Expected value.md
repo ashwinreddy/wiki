@@ -23,7 +23,7 @@ $$
 \expectation{\alpha X} = \alpha \expectation{X)
 \end{equation}
 
-* Suppose $X$ and $Y$ are independent, then $\mathbb{E}(XY) = \mathbb{E}(X) \cdot \mathbb{E}(Y)$.
+* Suppose $X$ and $Y$ are independent, then $\expectation{XY} = \mathbb{E}(X) \cdot \mathbb{E}(Y)$.
 
 # Tail Sum Formula
 
