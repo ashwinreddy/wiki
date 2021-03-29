@@ -2,7 +2,11 @@ A **linear time-invariant (LTI) system** is a [[linear system]] and [[time-invar
 
 # Eigenfunctions
 
-The eigenfunctions for LTI systems are [[complex exponential]]
+The eigenfunctions for LTI systems are complex exponential.
+
+$$
+\box{H}
+$$
 
 # Causality
 
