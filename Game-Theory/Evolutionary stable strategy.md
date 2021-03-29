@@ -1,0 +1,1 @@
+An **evolutionary stable strategy**
