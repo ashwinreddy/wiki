@@ -2,7 +2,7 @@ The **(continuous time) Fourier series (CTFS)** is a [[series]] decomposition of
 
 
 \begin{equation}
-x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Continuous Synthesis Equation}
+x(t) = \sum_{k = -\infty}^\infty c_k e^{\iota k\omega_0 t} \tag{Synthesis Equation}
 \end{equation}
 
 
