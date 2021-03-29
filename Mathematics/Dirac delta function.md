@@ -37,5 +37,5 @@ $$
 \end{equation}
 
 
-* $\delta(at) = \frac{\delta(t)}{|a|}$
+* $$\delta(at) = \frac{\delta(t)}{|a|}$$
 * If there is unique solution to $g(x_0) = 0$, $\delta(g(x)) = \frac{\delta(x-x_0)}{| g'(x_0) |}$
