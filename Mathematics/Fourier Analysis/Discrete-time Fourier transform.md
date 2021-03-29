@@ -55,8 +55,12 @@ $$
 
 # Even and Odd
 
+* $x[n]$ is real, then DTFT is conjugate symmetric.
 * If $x[n]$ is real and even, then DTFT is real and even.
 * If $x[n]$ is real and odd, the DTFT is imaginary and odd.
+
+
+If DTFT is real and odd, $x[n]$ is imaginary and odd.
 
 # Properties
 
