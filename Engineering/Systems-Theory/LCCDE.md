@@ -1,8 +1,8 @@
 **Linear constant coefficient differential / difference equation**
 
-$$
-\sum_{k=0}^N a_k \frac{\dd{}^k y(t)}{\dd{} t^k} = \sum_{k=0}^M b_k \frac{\dd{}^k x(t)}{\dd{} t^k}
-$$
+\begin{equation}
+\sum_{k=0}^N a_k \frac{\dd{}^k y(t)}{\dd{} t^k} = \sum_{k=0}^M b_k \frac{\dd{}^k x(t)}{\dd{} t^k} \tag{LCCDE}
+\end{equation}
 
 The homogenous solution $y_{\mathsf{homogeneous}}(t)$ solves
 
@@ -34,3 +34,6 @@ $$
 y_p(t) = \left(\frac{k}{a} + Be^{-at}\right)u(t)
 $$
 $$
+
+# Fourier Transform
+
