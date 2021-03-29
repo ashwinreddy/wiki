@@ -64,7 +64,7 @@ $$
 : $$ax[n] + by[n] \longleftrightarrow aX(\omega) + bY(\omega).$$
 
 Time shift
-: $$x[n-n_0] \longleftrightarrow e^{-\iota\omega n_0}X(e^{\iota\omega}).$$
+: A delay of $n_0$ steps introduces a complex exponential factor. $$x[n-n_0] \longleftrightarrow e^{-\iota\omega n_0}X(e^{\iota\omega}).$$
 
 Frequency shift
 : $$e^{\iota\omega_0 n}x[n] \longleftrightarrow X(e^{\iota(\omega - \omega_0)}).$$
