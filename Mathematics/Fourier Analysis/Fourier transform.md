@@ -11,7 +11,7 @@ $$
 These equations reference [[angular frequency]] $\omega$, but you can freely substitute $\omega = 2\pi f$ or $f = \frac{\omega}{2\pi}$ for the forward transform.
 
 $$
-x(t) = \frac{1}{2\pi} \int_\RR X(\omega) e^{\im \omega t} \dd{\omega}
+x(t) = \int_\RR X(f) e^{\im 2\pi f t} \dd{f}
 $$
 
 [[_TOC_]]
