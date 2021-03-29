@@ -15,3 +15,7 @@ $$
 $$
 X_p(\omega) = \frac{1}{T}\sum_{n=-\infty}^\infty X_c(\omega - n \omega_s)
 $$
+
+$$
+X_d(e^{\im \Omega}) = \frac{1}{T}\sum_{n=-\infty}^\infty X_c\left( \frac{\Omega}{T} - n \frac{2\pi}{T} \right).
+$$
