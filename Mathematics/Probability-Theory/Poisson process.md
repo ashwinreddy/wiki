@@ -13,7 +13,7 @@ $$
 By memoryless property, $N(t+s) - N(s)$ is also a Poisson process (some qualification on the value of $t$ and $s$). Moreover, $N(t+s)-N(s)$ is independent of $N(\tau)$ for $0 \leqslant \tau \leqslant s$.
 
 $$
-(N_{t_i} - N_{t_{i-1}}) \sim \mathsf{Poisson}(\lambda(t_i - t_{i - 1})), \qquad \forall i
+(N(t_i) - N(t_{i-1})) \sim \mathsf{Poisson}(\lambda(t_i - t_{i - 1})), \qquad \forall i
 $$
 
 # Merging
