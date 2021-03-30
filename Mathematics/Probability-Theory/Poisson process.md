@@ -16,6 +16,16 @@ $$
 (N(t_i) - N(t_{i-1})) \sim \mathsf{Poisson}(\lambda(t_i - t_{i - 1})), \qquad \forall i
 $$
 
+# Distributions
+
+$$
+S_n \sim \mathsf{Exp}(\lambda)
+$$
+
+$$
+T_n \sim \mathsf{Erlang}(n, \lambda)
+$$
+
 # Merging
 
 If $N_1(t)$ and $N_2(t)$ are independent Poisson processes with rates $\lambda_1$ and $\lambda_2$ respectively, then $N(t) = N_1(t) + N_2(t)$ is also a Poisson process with rate $\lambda_1 + \lambda_2$:
