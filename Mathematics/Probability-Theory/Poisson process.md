@@ -10,7 +10,7 @@ $$
 N(t) \sim \mathsf{Poisson}(\lambda t), \qquad t \geqslant 0
 $$
 
-By memoryless property, $(N_{t+s}-N_s)\_{t \geqslant 0}$ is also a Poisson process for all $s \geqslant 0$. Moreover, $(N\_{t+s}-N\_s)\_{t \geqslant 0}$ is independent of $(N_\tau)_{0 \leqslant \tau \leqslant s}$.
+By memoryless property, $N(t+s) - N(s)$ is also a Poisson process (some qualification on the value of $t$ and $s$). Moreover, $N(t+s)-N(s)$ is independent of $N(\tau)$ for $0 \leqslant \tau \leqslant s$.
 
 $$
 (N_{t_i} - N_{t_{i-1}}) \sim \mathsf{Poisson}(\lambda(t_i - t_{i - 1})), \qquad \forall i
