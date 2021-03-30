@@ -14,4 +14,4 @@ $$
 
 # Merging
 
-If $N_1(t)$ and $N_2(t)$ are independent Poisson processes with rates $\lambda_1$ and $\lambda_2$ respectively, then $N(t) = N_1(t) + N_2(t)$ is also a Poisson process with rate $\lambda_1 + \lambda_2.
+If $N_1(t)$ and $N_2(t)$ are independent Poisson processes with rates $\lambda_1$ and $\lambda_2$ respectively, then $N(t) = N_1(t) + N_2(t)$ is also a Poisson process with rate $\lambda_1 + \lambda_2$.
