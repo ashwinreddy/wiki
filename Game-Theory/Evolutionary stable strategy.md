@@ -7,5 +7,5 @@ where a mutant strategy means a population of $\epsilon \mathbf{z} + (1- \epsilo
 
 # Example
 
-Rock, paper, scissors has a Nash equilibrium $(\frac{1}{3}, \frac{1}{3}, \frac{1}{3})$ that is not an ESS because an invasion of a small population will cause a cycle of violence (increase in Rocks leads to increase in Paper, leads to increase in Scissors, ad infinitum).
+Rock, paper, scissors has a Nash equilibrium $\left(\frac{1}{3}, \frac{1}{3}, \frac{1}{3}\right)$ that is not an ESS because an invasion of a small population will cause a cycle of violence (increase in Rocks leads to increase in Paper, leads to increase in Scissors, ad infinitum).
 
