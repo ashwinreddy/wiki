@@ -6,4 +6,8 @@ $$
 F_{X_{(n)}}(x) = \left[ F_X(x) \right]^n
 $$
 
+$$
+F_{X_{(1)}}(x) = \left[ F_X(x) \right]^n
+$$
+
 Because if $\max \leq t$, then every one is $\leq t$.
