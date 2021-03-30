@@ -1,0 +1,1 @@
+A **continuous-time Markov chain (CTMC)**
