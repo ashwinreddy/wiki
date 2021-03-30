@@ -18,3 +18,7 @@ A probability vector $\pi$ is a [[stationary distribution]] for a CTMC with rate
 $$
 \pi Q = 0. \tag{Rate Conservation Principle}
 $$
+
+# Jump Chain
+
+The jump chain captures the sequence if we ignore holding time.
