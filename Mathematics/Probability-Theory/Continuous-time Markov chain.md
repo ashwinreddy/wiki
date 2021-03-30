@@ -9,7 +9,7 @@ A **continuous-time Markov chain (CTMC)** is a random process where transitions 
 
 The CTMC evolves by 
 
-* Draw proposed jump times $\tau_1 \sim \mathsf{Exp}(\lambda), tau_2 \sim \mathsf{Exp}(\lambda_2), \dots, \tau_n \sim \mathsf{Exp}(\lambda)$ and jump to the state that comes up first. 
+* Draw proposed jump times $\tau_1 \sim \mathsf{Exp}(\lambda), \tau_2 \sim \mathsf{Exp}(\lambda_2), \dots, \tau_n \sim \mathsf{Exp}(\lambda)$ and jump to the state that comes up first. 
 
 # Stationary Distribution
 
