@@ -32,4 +32,4 @@ $$
 (T_1, T_2, \dots, T_n) \stackrel{d}{=} \left( U_{(1)}, U_{(2)}, \dots, U_{(n)} \right).
 $$
 
-where the $U$ are [[order statistic]]
+where the $U$ are [[order statistic]] of $n$ $\mathsf{Uniform}(0, t)$ random variables.
