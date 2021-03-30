@@ -7,4 +7,8 @@ A **continuous-time Markov chain (CTMC)** is a random process where transitions 
 
 # Stationary Distribution
 
-A probability vector $\pi$ is a [[stationary distribution]]
+A probability vector $\pi$ is a [[stationary distribution]] for a CTMC with rate matrix $Q$ if 
+
+$$
+\pi Q = 0. \tag{Rate Conservation Principle}
+$$
