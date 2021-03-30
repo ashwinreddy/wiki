@@ -14,4 +14,8 @@ $$
 
 # Merging
 
-If $N_1(t)$ and $N_2(t)$ are independent Poisson processes with rates $\lambda_1$ and $\lambda_2$ respectively, then $N(t) = N_1(t) + N_2(t)$ is also a Poisson process with rate $\lambda_1 + \lambda_2$.
+If $N_1(t)$ and $N_2(t)$ are independent Poisson processes with rates $\lambda_1$ and $\lambda_2$ respectively, then $N(t) = N_1(t) + N_2(t)$ is also a Poisson process with rate $\lambda_1 + \lambda_2$:
+
+# Splitting / Thinning
+
+Let $N(t)$ be a Poisson process with rate $\lambda$. If each arrival is assigned a probability $p$ of being special, then the process of arrivals of special events is a Poisson process of rate $p\lambda$ and independently, arrivals of non-special events is a Poisson process of rate $(1-p)\lambda$.
