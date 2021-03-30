@@ -1,5 +1,7 @@
 A **Poisson process** represents counting arrivals in a [[memoryless]] way (i.e. how many you saw in the past doesn't affect how many you will see). 
 
+[[_TOC_]]
+
 # Technical Construction
 
 A Poisson process is a [[counting process]] with [[iid]] interarrival times distributed [[exponentially|exponential distribution]]: $S_i \sim_{\mathsf{IID}} \mathsf{Exp}(\lambda).$ 
