@@ -6,8 +6,9 @@ $$
 F_{X_{(n)}}(x) = \left[ F_X(x) \right]^n
 $$
 
+
+Because if $\max \leq t$, then every one is $\leq t$.
+
 $$
 F_{X_{(1)}}(x) = 1 - \left[1 - F_X(x) \right]^n
 $$
-
-Because if $\max \leq t$, then every one is $\leq t$.
