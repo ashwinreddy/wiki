@@ -3,7 +3,7 @@ A **counting process** $N(t) \in \mathbb{Z}$ gives us a count at time $t \in \RR
 The time of $i$th arrival is given by
 
 $$
-T_i = \min \\{ t \geqslant 0: N(t) \geqslant i \\}.
+T_i = \min \\{ t \geqslant 0 \mid N(t) \geqslant i \\}.
 $$
 
 The interarrival time is
