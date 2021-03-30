@@ -23,3 +23,12 @@ If $N_1(t)$ and $N_2(t)$ are independent Poisson processes with rates $\lambda_1
 # Splitting / Thinning
 
 Let $N(t)$ be a Poisson process with rate $\lambda$. If each arrival is assigned a probability $p$ of being special, then the process of arrivals of special events is a Poisson process of rate $p\lambda$ and independently, arrivals of non-special events is a Poisson process of rate $(1-p)\lambda$.
+
+# Conditional Distribution of Arrivals
+
+Conditioned on $N(t)=n$, 
+
+$$
+(T_1, T_2, \dots, T_n) \stackrel{d}{=} \left( U_{(1)}, U_{(2)}, \dots, U_{(n)} \right).
+$$
+
