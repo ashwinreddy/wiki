@@ -1,7 +1,7 @@
 A **memoryless** [[probability distribution]] for a [[random variable]] $X$ is one such that
 
 \begin{equation}
-\Pr(X > m + n \mid X > m) = \Pr(X > n). \tag{Memoryless}
+\Pr(X > m + n \mid X > m) = \Pr(X > n). \tag{Memoryless property}
 \end{equation}
 
 * [[Geometric distribution]]
