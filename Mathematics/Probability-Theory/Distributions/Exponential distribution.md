@@ -1,10 +1,10 @@
 **Exponential distribution** is a [[probability distribution]] of the time between events in a [[Poisson process]]. The [[probability density function]] is given by
 
 \begin{equation}
-X \sim \mathsf{Exponential}(\lambda) \iff \varphi_X(x) = \begin{cases} \lambda e^{-\lambda x} & x \geq 0 \\\\ 0 & x < 0 \end{cases}
+X \sim \mathsf{Exponential}(\lambda) \iff \varphi_X(x) = \lambda e^{-\lambda x} u(x),
 \end{equation}
 
-[[Cumulative distribution function]]
+where $u(x)$ is the [[Heaviside step function]]. The [[cumulative distribution function]] of the exponential distribution is
 
 $$
 F_X(x) = \begin{cases} 1-e^{-\lambda x} & x \geqslant 0 \\\\ 0\end{cases}
