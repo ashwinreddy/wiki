@@ -7,7 +7,7 @@ X \sim \mathsf{Exponential}(\lambda) \iff \varphi_X(x) = \lambda e^{-\lambda x} 
 where $u(x)$ is the [[Heaviside step function]]. The [[cumulative distribution function]] of the exponential distribution is
 
 $$
-F_X(x) = (1-e^{-\lambda x})u(x)
+F_X(x) = \left(1-e^{-\lambda x}\right)u(x)
 $$
 
 # Properties
