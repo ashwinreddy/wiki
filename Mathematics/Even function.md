@@ -4,4 +4,4 @@ $$
 f(-x) = f(x).
 $$
 
-In other words, an even function cares only about the magnitude of its input.
+In other words, an even function cares only about the magnitude of its input, if it is real.
