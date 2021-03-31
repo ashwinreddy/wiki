@@ -1,4 +1,4 @@
-A **Poisson process** is a [[counting process]], meaning it counts arrivals that are random in a [[memoryless]] way (i.e. how many you saw in the past doesn't affect how many you will see). In particular, this means the interarrival times are distributed [[exponentially|exponential distribution]]: $S_i \sim_{\mathsf{IID}} \mathsf{Exp}(\lambda).$ 
+A **Poisson process** is a [[counting process]], meaning it counts arrivals that are random in a [[memoryless]] way (i.e. how many you saw in the past doesn't affect how many you will see). In particular, this means the interarrival times are distributed [[exponentially|exponential distribution]]: $$S_i \sim_{\mathsf{IID}} \mathsf{Exp}(\lambda).$$
 
 [[_TOC_]]
 
