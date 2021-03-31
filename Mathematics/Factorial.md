@@ -4,6 +4,9 @@ $$
 n! = \prod_{j=1}^n j
 $$
 
+$$
+n! = n\cdot (n-1)!
+$$
 
 We can also use [[recursion]]:
 
