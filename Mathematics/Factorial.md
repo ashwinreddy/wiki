@@ -4,11 +4,7 @@ $$
 n! = \prod_{j=1}^n j
 $$
 
-$$
-n! = n\cdot (n-1)!
-$$
-
-We can also use [[recursion]]:
+Note that $n! = n\cdot (n-1)!$, so we can also use [[recursion]]:
 
 $$
 n! = \begin{cases} 1 & n = 0 \\\\\ n \cdot (n-1)! & n > 0 \end{cases}
