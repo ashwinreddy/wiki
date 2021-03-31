@@ -1,10 +1,13 @@
-A **Poisson process** is a [[counting process]], meaning it counts arrivals that are random in a [[memoryless]] way (i.e. how many you saw in the past doesn't affect how many you will see). In particular, this means the interarrival times are distributed [[exponentially|exponential distribution]]: $$S_i \sim_{\mathsf{IID}} \mathsf{Exp}(\lambda).$$
+A **Poisson process** is a [[counting process]], meaning it counts arrivals that are random in a [[memoryless]] way (i.e. how many you saw in the past doesn't affect how many you will see). The process has a rate $\lambda$.
+
+
+Let the count at time $t \in \RR$ be $N(t)$. In particular, this means the interarrival times are distributed [[exponentially|exponential distribution]]: $$S_i \sim_{\mathsf{IID}} \mathsf{Exp}(\lambda).$$
 
 [[_TOC_]]
 
-# Technical Construction
+# Distributions
 
-If the count $N(t)$ is a Poisson process with parameter $\lambda$, then it is distributed [[Poisson distribution]].
+$N(t)$ is [[Poisson distribution]].
 
 $$
 N(t) \sim \mathsf{Poisson}(\lambda t), \qquad t \geqslant 0
@@ -15,8 +18,6 @@ By memoryless property, $N(t+s) - N(s)$ is also a Poisson process (some qualific
 $$
 (N(t_i) - N(t_{i-1})) \sim \mathsf{Poisson}(\lambda(t_i - t_{i - 1})), \qquad \forall i
 $$
-
-# Distributions
 
 $$
 S_n \sim \mathsf{Exp}(\lambda)
