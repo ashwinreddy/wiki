@@ -5,7 +5,7 @@ X \sim \mathsf{Geometric}(p) \iff \Pr(X =k ) = (1-p)^{k-1}p
 $$
 
 $$
-F_X(x) = \Pr(X \leqslant x) = 1 - (1-p)^{x+1}
+F_X(x) = \Pr(X \leqslant k) = 1 - (1-p)^{k+1}
 $$
 
 
