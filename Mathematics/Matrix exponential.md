@@ -13,3 +13,5 @@ It turns out the [[determinant]] and [[trace]] are
 \begin{equation}
 \det e^A = e^{\operatorname{tr} A}
 \end{equation}
+
+If matrix is diagonal, then exponential is just taking exponentials of the diagonal.
