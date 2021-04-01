@@ -20,7 +20,7 @@ $$
 $$
 
 $$
-\mathbb{P}\\{ N(t) = n \\} = \frac{\left(\lambda t\right)^n}{n!}e^{-\lambda t}
+\mathbb{P}\\{ N(t) = n \\} = \frac{\left(\lambda t\right)\^n}{n!}e^{-\lambda t}
 $$
 
 By memoryless property, $N(t+s) - N(s)$ is also a Poisson process (some qualification on the value of $t$ and $s$). Moreover, $N(t+s)-N(s)$ is independent of $N(\tau)$ for $0 \leqslant \tau \leqslant s$.
