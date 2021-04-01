@@ -33,3 +33,7 @@ So that if $X$ and $Y$ are independent, the variance of sums is the sum of varia
 $$
 \mathbb{V}[c + X] = \mathbb{V}[X]
 $$
+
+$$
+\Pr(X = 0) \leqslant \frac{\mathbb{V}(X)}{(\mathbb{E}X)^2}
+$$
