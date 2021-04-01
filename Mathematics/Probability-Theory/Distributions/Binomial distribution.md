@@ -1,7 +1,7 @@
 The **binomial distribution** [[probability distribution]] gives the probability of getting $k$ heads out of $n$ flips from a [[Bernoulli distribution]] with probability of heads $p$. Using the [[binomial coefficient]],
 
 \begin{equation}
-X \sim \mathsf{Binomial}(n, p) \iff  \mathbb{P}_X(x = k; n, p) = \binom{n}{k} p^k (1-p)^{n-k}
+X \sim \mathsf{Binomial}(n, p) \iff  \Pr(X = k; n, p) = \binom{n}{k} p^k (1-p)^{n-k}
 \end{equation}
 
 # Properties
