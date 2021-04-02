@@ -4,6 +4,8 @@ $$
 \mathsf{CrossEntropy}(p,q) = \mathbb{E}_p\left[-\log q\right] = - \sum_x p(x) \log q(x)
 $$
 
+[[Kullback-Leibler divergence]]
+
 $$
 \mathsf{CrossEntropy}(p, q) = H(p) + D_{KL}(p \parallel q)
 $$
