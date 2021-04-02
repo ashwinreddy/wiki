@@ -2,7 +2,7 @@
 bibliography: "Computer-Science/Artificial-Intelligence/Machine-Learning/papers.bib"
 ---
 
-A **variational autoencoder (VAE)** [@kingma2013autoencoding] is an [[autoencoder]] whose latent space is a probability distribution. It outputs a vector of means and standard deviations for the decoder. This forces the decoder to treat the small space around the latent code as belonging to the same class. 
+A **variational autoencoder (VAE)** [@kingma2013autoencoding] is an [[autoencoder]] whose latent space is a [[probability distribution]]. It outputs a vector of means and standard deviations for the decoder. This forces the decoder to treat the small space around the latent code as belonging to the same class. 
 
 [[https://miro.medium.com/max/1400/1*96ho7qSyW0nKrLvSoZHOtA.png|align=center, height=200px]]
 
