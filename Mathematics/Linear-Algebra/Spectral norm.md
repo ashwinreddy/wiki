@@ -1,0 +1,1 @@
+The **spectral norm** of a [[matrix]] is a [[nrom]]
