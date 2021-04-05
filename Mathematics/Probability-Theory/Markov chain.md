@@ -51,7 +51,7 @@ If the original $X_n$ has stationary distribution $\pi$, then $Y_n$ has transiti
 
 \begin{equation}
 \label{eq:dbe}
-\hat{P}(x, y) = { \pi(y)P(y, x) \over \pi(x) } \tag{Detailed Balance Equations}
+\hat{P}(x, y) = { \pi(y)P(y, x) \over \pi(x) } 
 \end{equation}
 
 The stationary distribution is also $\pi$. 
@@ -60,7 +60,7 @@ A **reversible MC** is one that has $\hat{P} = P$, therefore equation \ref{eq:db
 
 \begin{equation}
 \label{eq:reversible}
-\forall x, y \in \mathcal{X}: \pi(x) P(x,y) = \pi(y)P(y, x) \tag{Reversible}
+\pi(x) P(x,y) \equiv \pi(y)P(y, x) \tag{Detailed Balance Equations}
 \end{equation}
 
 
