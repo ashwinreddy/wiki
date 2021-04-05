@@ -1,13 +1,17 @@
 A **Poisson process** is a [[counting process]], meaning it counts arrivals that are random in a [[memoryless]] way (i.e. how many you saw in the past doesn't affect how many you will see). The process has a rate $\lambda$.
 
 
-Let the count at time $t \in \RR$ be $N(t)$. In particular, this means the interarrival times are distributed [[exponentially|exponential distribution]]: $$S_i \sim_{\mathsf{IID}} \mathsf{Exp}(\lambda).$$
-
 [[_TOC_]]
 
 # Distributions
 
-$N(t)$ is [[Poisson distribution]].
+First, we need that the interarrival times are distributed [[exponentially|exponential distribution]]: 
+
+$$
+S_i \sim_{\mathsf{IID}} \mathsf{Exp}(\lambda).
+$$
+
+Let the count at time $t \in \RR$ be $N(t)$, which turns out to be a [[Poisson distribution]].
 
 $$
 N(t) \sim \mathsf{Poisson}(\lambda t), \qquad t \geqslant 0
