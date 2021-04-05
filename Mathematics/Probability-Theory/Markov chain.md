@@ -51,7 +51,7 @@ If the original $X_n$ has stationary distribution $\pi$, then $Y_n$ has transiti
 
 \begin{equation}
 \label{eq:dbe}
-\forall x, y \in \mathcal{X}: \hat{P}(x, y) = { \pi(y)P(y, x) \over \pi(x) } \tag{DBE}
+\hat{P}(x, y) = { \pi(y)P(y, x) \over \pi(x) } \tag{Detailed Balance Equations}
 \end{equation}
 
 The stationary distribution is also $\pi$. 
