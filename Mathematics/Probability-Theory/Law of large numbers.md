@@ -10,4 +10,6 @@ In short, the weak law says that empirical means converge to true means in proba
 
 # Strong Law
 
+In short, the strong law says empirical means converge to true means almost surely, which is a stronger statement than the weak law.
+
 The empirical mean of pairwise independent and identically distributed random variables with finite mean converges to the true mean [[almost surely|almost sure convergence]].
