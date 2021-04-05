@@ -1,9 +1,7 @@
-A **Markov chain** is a [[random process]] $(X_n)_{n \in \mathbb{N}}$ on a state space $\mathcal{X}$, satisfying the [[Markov property]].
-
-The $X_n$ is the state of the process at a discrete time. We'll consider temporally homogenous Markov chains, which means
+A **Markov chain** is a [[random process]] $(X_n)_{n \in \mathbb{N}}$ on a state space $\mathcal{X}$, satisfying the [[Markov property]]. We'll consider temporally homogenous Markov chains, which means
 
 $$
-p_{ij} \triangleq \Pr(X_{n+1} = j \mid X_n = i)
+p_{ij} \triangleq \Pr(X_{n+1} = j \mid X_n = i) \tag{Transition Probability Matrix}
 $$
 
 So $p_{ij}$ is the probability going from state $i$ to state $j$. Of course, these form a [[probability mass function]] so that $p_{ij} \geqslant 0$ and $\sum_{j \in S} p_{ij} = 1$.
