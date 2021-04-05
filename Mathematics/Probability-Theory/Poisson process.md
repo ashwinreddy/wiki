@@ -11,6 +11,13 @@ $$
 S_i \sim_{\mathsf{IID}} \mathsf{Exp}(\lambda).
 $$
 
+Immediately, it follows that the arrivla times are Erlang-distributed.
+
+
+$$
+T_n \sim \mathsf{Erlang}(n, \lambda)
+$$
+
 Let the count at time $t \in \RR$ be $N(t)$, which turns out to be a [[Poisson distribution]].
 
 $$
@@ -23,13 +30,6 @@ $$
 (N(t_i) - N(t_{i-1})) \sim \mathsf{Poisson}(\lambda(t_i - t_{i - 1})), \qquad \forall i
 $$
 
-$$
-S_n \sim \mathsf{Exp}(\lambda)
-$$
-
-$$
-T_n \sim \mathsf{Erlang}(n, \lambda)
-$$
 
 # Merging
 
