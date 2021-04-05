@@ -1,10 +1,10 @@
 A **Markov chain** is a [[random process]] $(X_n)_{n \in \mathbb{N}}$ on a state space $\mathcal{X}$, satisfying the [[Markov property]]. We'll consider temporally homogenous Markov chains, which means
 
 $$
-p_{ij} \triangleq \Pr(X_{n+1} = j \mid X_n = i) \tag{Transition Probability Matrix}
+p_{ij} \triangleq \Pr(X_{n+1} = j \mid X_n = i), \tag{Transition Probability Matrix}
 $$
 
-So $p_{ij}$ is the probability going from state $i$ to state $j$. Of course, these form a [[probability mass function]] so that $p_{ij} \geqslant 0$ and $\sum_{j \in S} p_{ij} = 1$.
+so $p_{ij}$ is the probability going from state $i$ to state $j$. Of course, these form a [[probability mass function]] so that $p_{ij} \geqslant 0$ and $\sum_{j \in S} p_{ij} = 1$.
 
 [[_TOC_]]
 
@@ -41,6 +41,12 @@ Period
 
 Reversible MC
 : An irreducible MC is reversible if there's a $\pi$ s.t. \begin{equation}\forall x, y \in \mathcal{X}: \pi(x) P(x,y) \equiv \pi(y) P(y,x) \tag{Detailed Balance Equations}\end{equation}
+
+# Reversibility
+
+\begin{equation}
+Y_n \triangleq X_{N - n},\qquad n = 0, 1, \dots N.
+\end{equation}
 
 # Stationary distribution
 
