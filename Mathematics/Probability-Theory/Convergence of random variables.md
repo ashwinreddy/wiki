@@ -6,7 +6,7 @@
 
 # Almost sure convergence
 
-* [[Almost sure convergence]]
+[[include:Almost sure convergence]]
 
 # Convergence in probability
 
