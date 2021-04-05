@@ -1,4 +1,4 @@
-A **Markov chain** is a random process $(X_n)_{n \in \mathbb{N}}$ on a state space $\mathcal{X}$, satisfying the [[Markov property]].
+A **Markov chain** is a [[random process]] $(X_n)_{n \in \mathbb{N}}$ on a state space $\mathcal{X}$, satisfying the [[Markov property]].
 
 The $X_n$ is the state of the process at a discrete time. We'll consider temporally homogenous Markov chains, which means
 
