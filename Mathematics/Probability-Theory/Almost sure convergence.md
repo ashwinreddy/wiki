@@ -16,5 +16,6 @@ $$
 \Pr \left( \lim_{n \to \infty} X_n = X \right) = 1. \tag{A.S. Test}
 $$
 
+Alternatively, you imagine that the sequence $X^{(n)}$ deviates only a finite number times from $X$.
 
 [^1]: We say _almost_ surely because you can imagine an example like a dartboard. Landing a dart on the exact diagonal happens with probability 0, so it almost surely will not happen (part of the sample space, but has probability 0).
