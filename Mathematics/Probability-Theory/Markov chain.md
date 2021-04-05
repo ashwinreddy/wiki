@@ -51,13 +51,15 @@ If the original $X_n$ has stationary distribution $\pi$, then $Y_n$ has transiti
 
 \begin{equation}
 \label{eq:dbe}
-\forall x, y \in \mathcal{X}: \hat{P}(x, y) = { \pi(y)P(y, x) \over \pi(x) }
+\forall x, y \in \mathcal{X}: \hat{P}(x, y) = { \pi(y)P(y, x) \over \pi(x) } \tag{DBE}
 \end{equation}
 
 The stationary distribution is also $\pi$. 
 
+A **reversible MC** is one that has $\hat{P} = P$, therefore equation \ref{eq:dbe} reads the condition
+
 \begin{equation}
-\forall x, y \in \mathcal{X}: \pi(x) P(x,y) \tag{Reversible}
+\forall x, y \in \mathcal{X}: \pi(x) P(x,y) = \pi(y)P(y, x) \tag{Reversible}
 \end{equation}
 
 
