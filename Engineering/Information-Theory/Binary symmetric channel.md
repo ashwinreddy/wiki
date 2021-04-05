@@ -6,8 +6,8 @@ $$
 
 \begin{align\*}
 C_{\text{BSC}} &= H(Y) - H(Y \mid X) \\\\
-&= H(Y) - \sum_{x \in \mathcal{X}} \mathbb{P}(X = i) H(Y \mid X = i)
-&= H(Y) - \sum_{x \in \mathcal{X}} \mathbb{P}(X = i) H(p)
+&= H(Y) - \sum_{x \in \mathcal{X}} \mathbb{P}(X = i) H(Y \mid X = i) \\\\
+&= H(Y) - \sum_{x \in \mathcal{X}} \mathbb{P}(X = i) H(p) \\\\
 &= H(Y) - H(p) \\\\
 \leqslant 1 - H(p)
 \end{align\*}
