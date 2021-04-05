@@ -41,13 +41,8 @@ Null recurrent
 Period
 : $\mathsf{period}(i) = \mathsf{GCD}\\{ n \geqslant 1: P_{ii}^n > 0\\}.$
 
-# Reversibility
-
-An irreducible MC is reversible if there's a $\pi$ s.t.
-
-\begin{equation}
-\pi_j P_{ji} \equiv \pi_i P_{ij} \tag{Detailed Balance Equations}
-\end{equation}
+Reversible MC
+: An irreducible MC is reversible if there's a $\pi$ s.t. \begin{equation}\pi_j P_{ji} \equiv \pi_i P_{ij} \tag{Detailed Balance Equations}\end{equation}
 
 # Stationary distribution
 
