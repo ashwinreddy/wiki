@@ -1,1 +1,6 @@
-A **Markov chain**. [[Discrete-time Markov chain]] or [[Continuous-time markov chain]]
+A **Markov chain**. 
+
+|Time|Chain|
+|----|------|
+|Discrete|[[Discrete-time Markov chain]]|
+|Continuous|[[Continuous-time markov chain]]|
