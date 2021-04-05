@@ -51,4 +51,4 @@ where the $U$ are [[order statistic]] of $n$ $\mathsf{Uniform}(0, t)$ random var
 
 # Random Incidence Paradox
 
-From the perspective of a given point, the expected interarrival time is doubled.
+From the perspective of a given point, the expected interarrival time is doubled. A Poisson process backwards is still a Poisson process (?).
