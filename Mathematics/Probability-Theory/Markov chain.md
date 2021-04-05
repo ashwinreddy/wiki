@@ -59,12 +59,13 @@ The stationary distribution is also $\pi$.
 A **reversible MC** is one that has $\hat{P} = P$, therefore equation \ref{eq:dbe} reads the condition
 
 \begin{equation}
+\label{eq:reversible}
 \forall x, y \in \mathcal{X}: \pi(x) P(x,y) = \pi(y)P(y, x) \tag{Reversible}
 \end{equation}
 
 
 Reversible MC
-: An irreducible MC is reversible if there's a $\pi$ s.t. \begin{equation}\forall x, y \in \mathcal{X}: \pi(x) P(x,y) \equiv \pi(y) P(y,x) \tag{Detailed Balance Equations}\end{equation}
+: An irreducible MC is reversible if there's a $\pi$ s.t. \ref{eq:reversible}
 
 # Stationary distribution
 
