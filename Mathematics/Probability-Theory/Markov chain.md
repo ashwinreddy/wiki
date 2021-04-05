@@ -1,0 +1,1 @@
+A **Markov chain**. [[Discrete-time Markov chain]] or [[Continuous-time markov chain]]
