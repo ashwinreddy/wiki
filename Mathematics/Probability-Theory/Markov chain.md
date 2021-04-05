@@ -42,7 +42,7 @@ Period
 : $\mathsf{period}(i) = \mathsf{GCD}\\{ n \geqslant 1: P_{ii}^n > 0\\}.$
 
 Reversible MC
-: An irreducible MC is reversible if there's a $\pi$ s.t. \begin{equation}\pi_j P_{ji} \equiv \pi_i P_{ij} \tag{Detailed Balance Equations}\end{equation}
+: An irreducible MC is reversible if there's a $\pi$ s.t. \begin{equation}\forall x, y \in \mathcal{X}: \pi(x) P(x,y) \equiv \pi(y) P(y,x) \tag{Detailed Balance Equations}\end{equation}
 
 # Stationary distribution
 
