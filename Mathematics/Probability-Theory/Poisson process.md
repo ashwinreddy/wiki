@@ -48,3 +48,7 @@ $$
 $$
 
 where the $U$ are [[order statistic]] of $n$ $\mathsf{Uniform}(0, t)$ random variables.
+
+# Random Incidence Paradox
+
+From the perspective of a given point, the expected interarrival time is doubled.
