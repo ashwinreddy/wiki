@@ -1,6 +1,6 @@
 The **law of large numbers (LLN)** is a theorem that deals with [[convergence of random variables]] for an empirical average.
 
-[_TOC_]
+[[_TOC_]]
 
 # Weak Law
 
