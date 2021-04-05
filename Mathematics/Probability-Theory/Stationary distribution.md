@@ -1,10 +1,12 @@
 A **stationary distribution** for a [[Markov chain]] is a row vector $\pi$ where
 
 \begin{equation}
+\label{eq:be}
 \pi_j = \sum_{i \in \mathcal{X}} \pi_i P_{ij}. \tag{Balance Equations}
 \end{equation}
 
 \begin{equation}
+\label{eq:dbe}
 \pi_i P_{ij} = \pi_j P_{ji}. \tag{Detailed Balance Equations}
 \end{equation}
 
