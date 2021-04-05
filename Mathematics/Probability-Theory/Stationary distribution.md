@@ -1,7 +1,7 @@
 A **stationary distribution** for a [[Markov chain]] is a row vector $\pi$ where
 
 \begin{equation}
-\forall y \in \mathcal{X}: \pi(y) = \sum_{x \in \mathcal{X}} \pi(x) P(x,y) \tag{General Stationarity}
+\pi_j = \sum_{i \in \mathcal{X}} \pi_i P_{ij} \tag{General Stationarity}
 \end{equation}
 
 Succinctly, we can write $\pi = \pi P$.
