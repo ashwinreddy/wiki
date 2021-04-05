@@ -4,7 +4,7 @@ $$
 C_{\text{BSC}} = 1 - H(p)
 $$
 
-\begin{align*}
+\begin{align\*}
 C_{\text{BSC}} &= H(Y) - H(Y \mid X) \\\\
 &= H(Y) - \sum_{x \in \mathcal{X}} \mathbb{P}(X = i) H(Y \mid X = i)
-\end{align*}
+\end{align\*}
