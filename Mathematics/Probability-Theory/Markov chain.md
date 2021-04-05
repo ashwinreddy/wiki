@@ -44,9 +44,19 @@ Reversible MC
 
 # Reversibility
 
+We can run an irreducible Markov chain in reverse by defining
+
 \begin{equation}
 Y_n \triangleq X_{N - n},\qquad n = 0, 1, \dots N.
 \end{equation}
+
+If the original $X_n$ has stationary distribution $\pi$, then $Y_n$ has transition probabilities
+
+\begin{equation}
+\forall x, y \in \mathcal{X}: \hat{P}(x, y) = { \pi(y)P(y, x) \over \pi(x) }
+\end{equation}
+
+The stationary distribution is also $\pi$.
 
 # Stationary distribution
 
