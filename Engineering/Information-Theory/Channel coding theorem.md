@@ -1,7 +1,4 @@
-**Channel coding theorem** says that a [[channel capacity]] $C$ with rate $R$ has the following:
-
-1. If $R < C$, there are codes with arbitrarily low probability of error.
-2. If $R > C$, the above will not be the case.
+**Channel coding theorem** says that any rate $R$ below the [[channel capacity]] $C$ is achievable, i.e. there are codes with arbitrarily low probability of error. On the other hand, if $R$ is above $C$, this is not true.
 
 # Example
 
