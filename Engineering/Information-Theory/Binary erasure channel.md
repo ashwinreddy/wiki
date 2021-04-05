@@ -1,5 +1,5 @@
-A **binary erasure channel** is a [[channel|channel capacity]] that erases an input bit with probability $p$.
+A **binary erasure channel (BEC)** is a [[channel|channel capacity]] that erases an input bit with probability $p$.
 
 $$
-C = \max_{p_X} I(X;Y) = 1 - p
+C_{\text{BEC}} = \max_{p_X} I(X;Y) = 1 - p
 $$
