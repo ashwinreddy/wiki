@@ -1,4 +1,4 @@
-The **law of large numbers (LLN)** is a theorem that deals with [[convergence of random variable]]
+The **law of large numbers (LLN)** is a theorem that deals with [[convergence of random variables]] for an empirical average.
 
 # Weak Law
 
