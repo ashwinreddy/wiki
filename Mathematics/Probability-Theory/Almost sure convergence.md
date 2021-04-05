@@ -1,4 +1,13 @@
-**Almost sure** is a mode of [[convergence of random variables]] that says $X_n \overset{\text{a.s.}}{\longrightarrow} X$ almost surely if
+**Almost sure** is the strongest mode of [[convergence of random variables]] in the sense that
+
+
+$$
+\text{Almost sure convergence} \implies \text{Convergence in probability} \implies \text{Convergence in distribution}
+$$
+
+
+
+that says $X_n \overset{\text{a.s.}}{\longrightarrow} X$ almost surely if
 
 $$
 \Pr \left(\left \\{ \omega: \lim_{n \to \infty} X_n(\omega) = X(\omega) \right\\} \right) = 1,
@@ -10,13 +19,6 @@ $$
 \Pr \left( \lim_{n \to \infty} X_n = X \right) = 1. \tag{A.S. Test}
 $$
 
-# Strength
-
-Almost sure convergence is the strongest kind of convergence in probability.
-
-$$
-\text{Almost sure convergence} \implies \text{Convergence in probability} \implies \text{Convergence in distribution}
-$$
 
 # Technical details
 
