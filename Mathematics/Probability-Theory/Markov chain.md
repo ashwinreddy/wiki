@@ -6,7 +6,7 @@ $$
 p_{ij} \triangleq \Pr(X_{n+1} = j \mid X_n = i)
 $$
 
-So $p_{ij}$ is the probability going from state $i$ to state $j$. Of course, these form a [[probability distribution]] so that $p_{ij} \geqslant 0$ and $\sum_{j \in S} p_{ij} = 1$.
+So $p_{ij}$ is the probability going from state $i$ to state $j$. Of course, these form a [[probability mass function]] so that $p_{ij} \geqslant 0$ and $\sum_{j \in S} p_{ij} = 1$.
 
 [[_TOC_]]
 
