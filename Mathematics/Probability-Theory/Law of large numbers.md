@@ -1,3 +1,5 @@
+The **law of large numbers (LLN)** is a theorem that deals with [[convergence of random variable]]
+
 # Weak Law
 
 > The empirical mean of i.i.d. random variables [[converges in probability|convergence of random variables]] to the [[expected value]] of one of the variables.
