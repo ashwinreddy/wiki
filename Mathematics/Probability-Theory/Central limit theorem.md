@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-\sqrt{n}\frac{\bar{X}_n - \mu}{\sigma} \overset{\mathsf{d}}{\longrightarrow} \mathcal{N}(0, 1)
+\sqrt{n}\left(\bar{X}_n - \mu\right) \overset{\mathsf{d}}{\longrightarrow} \mathcal{N}(0, \sigma^2)
 $$
