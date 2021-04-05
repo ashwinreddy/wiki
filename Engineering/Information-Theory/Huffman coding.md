@@ -1,1 +1,1 @@
-The **Huffman code** is a [[prefix code]].
+**Huffman coding** is a way of compressing a [[random variable]] $X$ to roughly $H(X)$ bits.
