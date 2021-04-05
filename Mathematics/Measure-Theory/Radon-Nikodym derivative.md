@@ -1,5 +1,5 @@
 **Radon-Nikodym derivative**
 
 $$
-\lambda(E) = \int_E f \dd{\mu}
+\lambda(E) = \int_E f\\, \dd{\mu}
 $$
