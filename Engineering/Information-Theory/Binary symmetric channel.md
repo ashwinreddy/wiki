@@ -4,6 +4,7 @@ $$
 C_{\text{BSC}} = 1 - H_b(p)
 $$
 
-$$
-I(X; Y) = H(Y) - H(Y \mid X) = H(Y) - \sum_x p(x) H(Y \mid X = x) = H(Y) - \sum_x p(x)H(p, 1-p)
-$$
+\begin{align}
+I(X; Y) &= H(Y) - H(Y \mid X) \\\\
+&= H(Y) - \sum_x p(x) H(Y \mid X = x) = H(Y) - \sum_x p(x)H(p, 1-p)
+\end{align}
