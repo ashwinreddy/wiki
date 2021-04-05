@@ -4,9 +4,7 @@ A **stationary distribution** for a [[Markov chain]] is a row vector $\pi$ where
 \forall y \in \mathcal{X}: \pi(y) = \sum_{x \in \mathcal{X}} \pi(x) P(x,y) \tag{General Stationarity}
 \end{equation}
 
-\begin{equation}
-\pi = \pi P
-\end{equation}
+Succinctly, we can write $\pi = \pi P$.
 
 $$
 \Pr \\{ X_1 = j \\} = \sum \Pr \\{ X_1 = j \mid X_0 = i \\} \Pr \\{ X_0 = i \\}.
