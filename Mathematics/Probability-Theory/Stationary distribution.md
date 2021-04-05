@@ -5,7 +5,7 @@ A **stationary distribution** for a [[Markov chain]] is a row vector $\pi$ where
 \end{equation}
 
 \begin{equation}
-\pi_j P_{ji} = \pi_i P_{ij}. \tag{Detailed Balance Equations}
+\pi_i P_{ij} = \pi_j P_{ji}. \tag{Detailed Balance Equations}
 \end{equation}
 
 Succinctly, we can write $\pi = \pi P$. Intuitively, here is what it means:
