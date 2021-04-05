@@ -1,11 +1,5 @@
-The **central limit theorem (CLT)** says the following: 
-
-Suppose $X_1, \dots, X_n$ are [[iid]] [[random variables|random variable]]  of mean $\mu$ and [[variance]] $\sigma^2$.
-
-As $n \to \infty$,
+The **central limit theorem (CLT)** says that for [[iid]] [[random variables|random variable]] $X_1, \dots, X_n$ of mean $\mu$ and [[variance]] $\sigma^2$ that as $n \to \infty$, the empirical mean (normalized sum) tends to a [[normal distribution]]:
 
 $$
 \frac{X_1 + \dots + X_n - n\mu}{\sigma \sqrt{n}} \overset{\mathsf{d}}{\longrightarrow} \mathcal{N}(0, 1)
 $$
-
-[[normal distribution]]
