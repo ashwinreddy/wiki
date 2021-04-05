@@ -17,5 +17,6 @@ The distribution in Equation \ref{eq:hitting-time} is hard to compute. We can tr
 \begin{align}
 t_i &= \mathbb{E}(T_A \mid X_0 = i) \\\\
 &= \begin{cases} 1 + \sum_{j \in S} p_{ij}\mathbb{E}(T_A \mid X_0 = j) & i \not\in A \\\\   0 & i \in A\end{cases} \\\\
-&= \begin{cases} 1 + \sum_{j \in S} p_{ij}t_j & i \not\in A \\\\ 0 & i \in A\end{cases}
+&= \begin{cases} 1 + \sum_{j \in S} p_{ij}t_j & i \not\in A \\\\ 0 & i \in A\end{cases} \tag{FSE
 \end{align}
+
