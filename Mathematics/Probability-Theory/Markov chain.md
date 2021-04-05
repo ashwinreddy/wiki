@@ -39,9 +39,6 @@ Null recurrent
 Period
 : $\mathsf{period}(i) = \mathsf{GCD}\\{ n \geqslant 1: P_{ii}^n > 0\\}.$
 
-Reversible MC
-: An irreducible MC is reversible if there's a $\pi$ s.t. \begin{equation}\forall x, y \in \mathcal{X}: \pi(x) P(x,y) \equiv \pi(y) P(y,x) \tag{Detailed Balance Equations}\end{equation}
-
 # Reversibility
 
 We can run an irreducible Markov chain in reverse by defining
@@ -53,10 +50,19 @@ Y_n \triangleq X_{N - n},\qquad n = 0, 1, \dots N.
 If the original $X_n$ has stationary distribution $\pi$, then $Y_n$ has transition probabilities
 
 \begin{equation}
+\label{eq:dbe}
 \forall x, y \in \mathcal{X}: \hat{P}(x, y) = { \pi(y)P(y, x) \over \pi(x) }
 \end{equation}
 
-The stationary distribution is also $\pi$.
+The stationary distribution is also $\pi$. 
+
+\begin{equation}
+\forall x, y \in \mathcal{X}: \pi(x) P(x,y) \tag{Reversible}
+\end{equation}
+
+
+Reversible MC
+: An irreducible MC is reversible if there's a $\pi$ s.t. \begin{equation}\forall x, y \in \mathcal{X}: \pi(x) P(x,y) \equiv \pi(y) P(y,x) \tag{Detailed Balance Equations}\end{equation}
 
 # Stationary distribution
 
