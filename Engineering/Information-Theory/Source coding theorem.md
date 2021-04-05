@@ -1,0 +1,1 @@
+**Source coding theorem** says you cannot compress $X$ in less than $H(X)$ bits.
