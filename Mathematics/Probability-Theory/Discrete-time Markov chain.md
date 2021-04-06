@@ -22,7 +22,10 @@ Every irreducible finite-state MC is positive recurrent.
 # Class properties
 
 Recurrent state
-: A state $i \in S$ is recurrent if given that $X_0 = i$, the process revisits state $i$ with probability one.
+: A state that returns to itself with probability one.
+
+Transient state
+: A state that returns to itself with probability less than one.
 
 Define a [[random variable]] to track the first time entering state $i$:
 
