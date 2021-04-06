@@ -1,8 +1,8 @@
 **Conditional expectation** is the [[expected value]] of a [[random variable]] as a [[conditional probability]].
 
-$$
-\mathbb{E}(X \mid A) = \frac{1}{\Pr(A)} \sum_x \Pr(X = x \cap A)
-$$
+\begin{equation}
+\mathbb{E}(X \mid A) = \frac{1}{\Pr(A)} \sum_x \Pr(X = x \cap A) \tag{Event-conditioned expectation}
+\end{equation}
 
 $$
 \mathbb{E}\left( X \mid Y = y \right) = \begin{cases} \sum_{x \in \mathcal{X}} xp_{X\mid Y}(x \mid y) \\\\ \int_{\mathcal{X}} xf_{X\mid Y}(x \mid y)\dd{x} \end{cases}
