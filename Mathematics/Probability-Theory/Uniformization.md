@@ -10,6 +10,8 @@ $$
 P \equiv I + \frac{1}{\gamma}Q
 \end{equation}
 
+This transition matrix forces that
+
 $$
 \pi P = \pi
 $$
