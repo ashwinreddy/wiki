@@ -1,4 +1,4 @@
-A **Markov chain**. 
+A **Markov chain** is a [[random process]] that obeys the [[Markov property]].
 
 |Time|Chain|
 |----|------|
