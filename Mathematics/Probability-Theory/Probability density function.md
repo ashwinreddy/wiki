@@ -4,6 +4,14 @@ $$
 \Pr(a < x < b) = \int_a^b f_X(x) \dd{x}.
 $$
 
+
+Adapting equation \ref{eq:kol-req},
+
+\begin{gather}
+\int_{\RR} f_X(x) \dd{x} = 1. \\\\
+f_X(x) \geqslant 0.
+\end{gather}
+
 # Density vs. Mass
 
 Since the probability of any given value is 0, we need a function that assigns densities as opposed to [[mass|probability mass function]]:
@@ -20,11 +28,3 @@ We know that the total probability mass is 1 by the Kolmogorov axioms, which put
 \end{equation}
 
 
-# Technical details
-
-Adapting equation \ref{eq:kol-req},
-
-\begin{gather}
-\int_{\RR} f_X(x) \dd{x} = 1. \\\\
-f_X(x) \geqslant 0.
-\end{gather}
