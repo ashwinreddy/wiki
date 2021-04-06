@@ -1,1 +1,1 @@
-A **transition rate matrix** $Q$
+A **transition rate matrix** $Q \in \mathbb{R}^{ |\mathcal{X}| \times |\mathcal{X}| }$
