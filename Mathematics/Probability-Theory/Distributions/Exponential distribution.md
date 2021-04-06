@@ -30,3 +30,5 @@ $$
 $$
 \Pr \left( X_i = \min_k X_k \right) = \frac{\lambda_i }{\sum_j \lambda_j}
 $$
+
+* $$\mathbb{E}\left(X^k\right) = \frac{k!}{\lambda^k}$$
