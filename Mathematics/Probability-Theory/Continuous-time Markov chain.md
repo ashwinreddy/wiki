@@ -5,7 +5,7 @@ A **continuous-time Markov chain (CTMC)** is a [[Markov chain]] where transition
 
 The CTMC evolves by 
 
-* Drawing proposed jump times $\tau_1 \sim \mathsf{Exp}(\lambda), \tau_2 \sim \mathsf{Exp}(\lambda_2), \dots, \tau_n \sim \mathsf{Exp}(\lambda)$ and jump to the state that comes up first. 
+* Drawing proposed jump times $\tau_1 \sim \mathsf{Exp}(\lambda), \tau_2 \sim \mathsf{Exp}(\lambda_2), \dots, \tau_n \sim \mathsf{Exp}(\lambda_n)$ and jump to the state that comes up first. 
 
 # Stationary Distribution
 
