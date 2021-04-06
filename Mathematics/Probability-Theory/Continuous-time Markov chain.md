@@ -27,6 +27,10 @@ P(i, i) = 0. \\\\
 P(i, j) = \frac{Q(i, j)}{q_i}.
 \end{gather}
 
+$$
+q_i = -Q(i, i)
+$$
+
 # Classifications
 
 We write $i \leftrightarrow j$ if they're connected in the jump chain.
