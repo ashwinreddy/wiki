@@ -1,4 +1,10 @@
-A **continuous-time Markov chain (CTMC)** is a [[Markov chain]] where transitions occur according to an [[exponential distribution]]. It is made up of
+A **continuous-time Markov chain (CTMC)** is a [[Markov chain]] where transitions occur according to an [[exponential distribution]]. 
+
+[[_TOC_]]
+
+# Technical Construction
+
+It is made up of
 
 1. Set of states $\mathcal{X}$ with an initial distribution over $\mathcal{X}$
 2. A **rate matrix** $Q \in \mathbb{R}^{ |\mathcal{X}| \times |\mathcal{X}| }$ such that $Q(i,j) \geqslant 0$ for $i \neq j$ and $\sum_j Q(i, j) = 0$. This implies $Q(i,i) = -\sum_{j \neq i}Q(i, j)$.
@@ -7,8 +13,6 @@ The CTMC evolves by
 
 * Drawing proposed jump times $\tau_1 \sim \mathsf{Exp}(\lambda), \tau_2 \sim \mathsf{Exp}(\lambda_2), \dots, \tau_n \sim \mathsf{Exp}(\lambda_n)$ and jump to the state that comes up first. 
 * Draw a jump time $\tau \sim \mathsf{Exp}\left(\sum_{i=1}^n \lambda_i\right)$ and then jump to distribution $\Pr(X_j = k) = { \lambda_k \over \sum_{i=1}^n \lambda_i}$.
-
-[[_TOC_]]
 
 # Stationary Distribution
 
