@@ -8,6 +8,10 @@ $$
 F_X(x) = \begin{cases} 0 & x < a \\\\ \frac{x-a}{b-a} & a \leq x \leq b \\\\ 1 & x > b \end{cases}
 $$
 
+$$
+M_X(t) = \begin{cases} { e^{tb}-e^{ta} \over {t(b-a)}} & t \neq 0 \\\\ 1& t = 0 \end{cases}
+$$
+
 # Properties
 
 |Property|Value|
