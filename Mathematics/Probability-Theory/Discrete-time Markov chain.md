@@ -72,7 +72,7 @@ Reversible MC
 
 # Stationary distribution
 
-[[include:stationary-distribution]]
+[[Stationary distribution]]
 
 # Cut Property
 
