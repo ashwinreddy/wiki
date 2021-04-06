@@ -47,6 +47,8 @@ We can convert the jump chain stationary distribution to CTMC stationary distrib
 \pi_{\mathsf{CTMC}}(x) \propto \frac{1}{Q(x)} \pi_{\mathsf{jump}}(x) \tag{Jump to CTMC Stationary}
 \end{equation}
 
+where $Q(x)$ is the sum of rates leaving state $x$.
+
 # Classifications
 
 We write $i \leftrightarrow j$ if they're connected in the jump chain.
