@@ -6,7 +6,7 @@ $$
 \pi Q = 0.
 $$
 
-We need a fixed rate $\gamma \geqslant \max_i |q_{ii}|$.
+We need a fixed rate $\gamma \geqslant \max_i |q_{ii}|$ (i.e. the largest sum of outgoing rates of any state in the CTMC or larger).
 
 \begin{equation}
 P \equiv I + \frac{1}{\gamma}Q
