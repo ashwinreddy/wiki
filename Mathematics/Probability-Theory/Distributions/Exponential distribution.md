@@ -18,6 +18,12 @@ $$
 |[[Variance]]|$\frac{1}{\lambda^2}$|
 |[[Moment-generating function]]|$\frac{\lambda}{\lambda - t}$ for $t < \lambda$|
 
+If $X \sim \mathsf{Exp}(\lambda)$ and $Y \sim \mathsf{Exp}(\mu)$ are independent, then
+
+$$
+\mathbb{P}(X < Y) = \frac{\lambda}{\lambda + \mu}
+$$
+
 
 * If $n$ independent exponential variables indexed as $X_k$ with parameters $\lambda_k$, then $\min_k X_k \sim \mathsf{Exponential}\left(\sum_j \lambda_j \right)$. Also, 
 
