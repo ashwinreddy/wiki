@@ -26,7 +26,7 @@ A probability vector $\pi$ is a [[stationary distribution]] for a CTMC with rate
 # Detailed Balance
 
 \begin{equation}
-\pi_i q_{ij} = \pi_j q_{ji}.
+\pi_i q_{ij} = \pi_j q_{ji} \tag{Detailed Balance Equations}
 \end{equation}
 
 # Jump Chain
