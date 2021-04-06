@@ -23,7 +23,7 @@ The jump chain captures the sequence if we ignore holding time.
 Transition probabilities
 
 \begin{gather}
-P(i, i) = 0.
+P(i, i) = 0. \\\\
 P(i, j) = \frac{Q(i, j)}{q_i} \\\\
 \end{gather}
 
