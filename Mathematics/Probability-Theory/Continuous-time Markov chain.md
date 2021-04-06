@@ -41,6 +41,12 @@ $$
 q_i = -Q(i, i)
 $$
 
+We can convert the jump chain stationary distribution to CTMC stationary distribution.
+
+$$
+\pi_{\mathsf{CTMC}} = \frac{1}{Q(x)} \pi_{\mathsf{jump}}(x)
+$$
+
 # Classifications
 
 We write $i \leftrightarrow j$ if they're connected in the jump chain.
