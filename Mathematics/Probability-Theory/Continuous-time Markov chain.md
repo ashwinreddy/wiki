@@ -6,7 +6,7 @@ A **continuous-time Markov chain (CTMC)** is a [[Markov chain]] where transition
 
 It is made up of
 
-1. Set of states $\mathcal{X}$ with an initial distribution over $\mathcal{X}$
+1. Set of states $\mathcal{X}$ with an initial distribution over $\mathcal{X}$.
 2. A [[transition rate matrix]] $Q$.
 
 The CTMC evolves by 
