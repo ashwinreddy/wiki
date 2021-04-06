@@ -1,0 +1,1 @@
+**Uniformization** creates a [[discrete-time markov chain]] that has the same [[stationary distribution]] as the [[continuous-time markov chain]].
