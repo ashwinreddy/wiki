@@ -8,6 +8,8 @@ The CTMC evolves by
 * Drawing proposed jump times $\tau_1 \sim \mathsf{Exp}(\lambda), \tau_2 \sim \mathsf{Exp}(\lambda_2), \dots, \tau_n \sim \mathsf{Exp}(\lambda_n)$ and jump to the state that comes up first. 
 * Draw a jump time $\tau \sim \mathsf{Exp}\left(\sum_{i=1}^n \lambda_i\right)$ and then jump to distribution $\Pr(X_j = k) = { \lambda_k \over \sum_{i=1}^n \lambda_i}$.
 
+[[_TOC_]]
+
 # Stationary Distribution
 
 A probability vector $\pi$ is a [[stationary distribution]] for a CTMC with rate matrix $Q$ if 
