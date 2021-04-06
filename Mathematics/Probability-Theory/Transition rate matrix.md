@@ -1,0 +1,1 @@
+A **transition rate matrix** $Q$
