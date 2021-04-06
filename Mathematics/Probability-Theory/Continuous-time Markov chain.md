@@ -16,6 +16,10 @@ $$
 \pi Q = 0. \tag{Rate Conservation Principle}
 $$
 
+$$
+\sum_i \pi_i = 1
+$$
+
 # Jump Chain
 
 The jump chain captures the sequence if we ignore holding time.
