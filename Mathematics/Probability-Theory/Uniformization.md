@@ -13,5 +13,5 @@ P \equiv I + \frac{1}{\gamma}Q
 This transition matrix forces that
 
 $$
-\pi P = \pi
+\pi P = \pi.
 $$
