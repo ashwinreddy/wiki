@@ -34,7 +34,7 @@ A probability vector $\pi$ is a [[stationary distribution]] for a CTMC with rate
 The jump chain captures the sequence if we ignore holding time. It is a [[discrete-time markov chain]] with no self-loops whose transition probabilities are given as
 
 \begin{gather}
-P(i, i) = 0. \\\\
+P(i, i) = 0 \tag{No self-loops} \\\\
 P(i, j) = \frac{Q(i, j)}{q_i}.
 \end{gather}
 
