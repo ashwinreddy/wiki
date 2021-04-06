@@ -1,7 +1,7 @@
 **Conditional expectation** is the [[expected value]] of a [[random variable]] as a [[conditional probability]].
 
 $$
-\mathbb{E}(X \mid A) = \frac{1}{\Pr(A)} \sum_x \Pr(X = x \cap A)}
+\mathbb{E}(X \mid A) = \frac{1}{\Pr(A)} \sum_x \Pr(X = x \cap A)
 $$
 
 $$
