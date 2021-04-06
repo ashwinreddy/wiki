@@ -41,10 +41,10 @@ $$
 q_i = -Q(i, i)
 $$
 
-We can convert the jump chain stationary distribution to CTMC stationary distribution.
+We can convert the jump chain stationary distribution to CTMC stationary distribution. If you include the appropriate normalization constant,
 
 $$
-\pi_{\mathsf{CTMC}} = \frac{1}{Q(x)} \pi_{\mathsf{jump}}(x)
+\pi_{\mathsf{CTMC}} \propto \frac{1}{Q(x)} \pi_{\mathsf{jump}}(x)
 $$
 
 # Classifications
