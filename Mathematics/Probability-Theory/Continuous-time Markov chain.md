@@ -43,9 +43,9 @@ $$
 
 We can convert the jump chain stationary distribution to CTMC stationary distribution. If you include the appropriate normalization constant,
 
-$$
-\pi_{\mathsf{CTMC}} \propto \frac{1}{Q(x)} \pi_{\mathsf{jump}}(x)
-$$
+\begin{equation}
+\pi_{\mathsf{CTMC}}(x) \propto \frac{1}{Q(x)} \pi_{\mathsf{jump}}(x) \tag{Jump to CTMC Stationary}
+\end{equation}
 
 # Classifications
 
