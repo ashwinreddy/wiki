@@ -31,9 +31,7 @@ A probability vector $\pi$ is a [[stationary distribution]] for a CTMC with rate
 
 # Jump Chain
 
-The jump chain captures the sequence if we ignore holding time.
-
-Transition probabilities
+The jump chain captures the sequence if we ignore holding time. It is a [[discrete-time markov chain]] with no self-loops whose transition probabilities are given as
 
 \begin{gather}
 P(i, i) = 0. \\\\
