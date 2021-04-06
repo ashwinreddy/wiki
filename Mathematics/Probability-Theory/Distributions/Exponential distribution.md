@@ -21,7 +21,7 @@ $$
 If $X \sim \mathsf{Exp}(\lambda)$ and $Y \sim \mathsf{Exp}(\mu)$ are independent, then
 
 $$
-\mathbb{P}(X < Y) = \frac{\lambda}{\lambda + \mu}
+\Pr(X < Y) = \frac{\lambda}{\lambda + \mu}
 $$
 
 
