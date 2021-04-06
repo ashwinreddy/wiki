@@ -12,6 +12,8 @@ We need a fixed rate $\gamma \geqslant \max_i |q_{ii}|$ (i.e. the largest sum of
 P \equiv I + \frac{1}{\gamma}Q
 \end{equation}
 
+**N.B.** This is _not_ the transition probabilities of jump chain.
+
 This transition matrix forces that
 
 $$
