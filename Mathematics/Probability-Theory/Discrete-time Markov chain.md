@@ -59,7 +59,6 @@ The stationary distribution is also $\pi$.
 A **reversible MC** is one that has $\hat{P} = P$, therefore equation \ref{eq:dbe} reads the condition
 
 \begin{equation}
-\label{eq:reversible}
 \pi(x) P(x,y) \equiv \pi(y)P(y, x) \tag{Detailed Balance Equations}
 \end{equation}
 
