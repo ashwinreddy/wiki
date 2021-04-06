@@ -4,6 +4,8 @@
 X \sim \mathsf{Poisson}(\lambda) \iff \Pr(X = k) = \begin{cases} \frac{\lambda^ k e^{-\lambda}}{k!} & k = 0, 1, 2, \dots \\\\ 0 \end{cases}
 \end{equation}
 
+[[Poisson process]]
+
 
 # Properties
 
