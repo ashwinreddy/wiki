@@ -11,7 +11,7 @@ $$
 S_i \sim_{\mathsf{IID}} \mathsf{Exp}(\lambda).
 $$
 
-Immediately, it follows that the arrivla times are Erlang-distributed.
+Immediately, it follows that the arrivla times are [[Erlang distribution]].
 
 
 $$
