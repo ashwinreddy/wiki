@@ -6,9 +6,9 @@ $$
 \pi Q = 0.
 $$
 
-$$
-P = I + \frac{1}{\gamma}Q
-$$
+\begin{equation}
+P \equiv I + \frac{1}{\gamma}Q
+\end{equation}
 
 $$
 \pi P = \pi
