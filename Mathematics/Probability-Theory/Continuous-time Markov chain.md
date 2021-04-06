@@ -23,6 +23,10 @@ A probability vector $\pi$ is a [[stationary distribution]] for a CTMC with rate
 \sum_i \pi_i = 1
 \end{align}
 
+$$
+\pi_j q_{j} = \sum_{i \in \mathcal{X}} \pi_i q_{ij}
+$$
+
 # Detailed Balance
 
 \begin{equation}
