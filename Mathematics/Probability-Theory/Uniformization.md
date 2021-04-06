@@ -6,6 +6,8 @@ $$
 \pi Q = 0.
 $$
 
+We need a fixed rate $\gamma \geqslant \max_i |q_{ii}|$.
+
 \begin{equation}
 P \equiv I + \frac{1}{\gamma}Q
 \end{equation}
