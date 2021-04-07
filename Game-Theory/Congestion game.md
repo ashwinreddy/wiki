@@ -4,7 +4,9 @@ $$
 \mathsf{cost}\_i(\mathbf{P}) = \sum_{r \in P_i} c_r(n_r(\mathbf{P}))
 $$
 
-We have **potential function**
+# Potential function
+
+We have [[potential function]]
 
 $$
 \psi: S\_1 \times \dots \times S_k \to \RR
