@@ -4,6 +4,8 @@ $$
 \text{PoA} = \frac{\text{average travel time in worst Nash equilibrium}}{\text{average travel time in socially optimal outcome}}
 $$
 
+Let $\ell_e(x)$ be the latency on edge $e$ as a function of $x$, the amount of traffic on the edge.
+
 $$
 L_P(f) = \sum_{e \in P}\ell_e(F_e)
 $$
