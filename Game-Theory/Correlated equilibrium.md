@@ -9,7 +9,7 @@ Consider a game
 |*A*|(4,1)|(0,0)|
 |*B*|(0,0)|(1,4)|
 
-The [[Nash equilibria]] are AA and BB as well as $(\frac{4}{5}, \frac{1}{5})$ and $(\frac{1}{5}, \frac{4}{5})$.
+The [[Nash equilibrium]] are AA and BB as well as $(\frac{4}{5}, \frac{1}{5})$ and $(\frac{1}{5}, \frac{4}{5})$.
 
 
 # Technical Construction
