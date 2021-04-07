@@ -1,1 +1,1 @@
-A **correlated equilibrium** is a correlated strategy pair in a two-player game with payoff matrices $A$ and $B$.
+A **correlated equilibrium** is a correlated strategy pair ($z_{ij} = \mathbb{P}(\mathcal{R}=i, \mathcal{C}=j)$) in a two-player game with payoff matrices $A$ and $B$.
