@@ -1,0 +1,1 @@
+A **correlated equilibrium** is a correlated strategy pair in a two-player game with payoff matrices $A$ and $B$.
