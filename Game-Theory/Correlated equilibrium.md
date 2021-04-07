@@ -7,6 +7,7 @@ A **correlated equilibrium** is a correlated strategy pair ($z_{ij} = \mathbb{P}
 
 Alternatively, we want
 
-$$
+\begin{gather}
 \sum_j z_{ij}a_{ij} \geqslant \sum_j z_{ij}a_{\ell j}, \qquad \forall i, \ell
-$$
+\sum_{i} z_{ij}b_{ij} \geqslant \sum_i z_{ij}b_{i,k}, \qquad \forall j,k
+\end{gather}
