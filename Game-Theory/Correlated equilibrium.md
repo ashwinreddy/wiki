@@ -2,12 +2,12 @@ A **correlated equilibrium**
 
 # Motivation
 
-Consider a game
+Consider a "battle of the sexes" game where the row player is wife and column player is husband and they are deciding what to do for the evening:
 
-||A|B|
+||Opera|Baseball|
 |-|-|-|
-|**A**|(4,1)|(0,0)|
-|**B**|(0,0)|(1,4)|
+|**Opera**|(4,1)|(0,0)|
+|**Baseball**|(0,0)|(1,4)|
 
 The [[Nash equilibria|Nash equilibrium]] are AA and BB as well as $\left(\frac{4}{5}, \frac{1}{5}\right)$ and $\left(\frac{1}{5}, \frac{4}{5}\right)$.
 
