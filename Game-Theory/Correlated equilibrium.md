@@ -14,6 +14,7 @@ The [[Nash equilibria|Nash equilibrium]]:
 * pure; do the same thing (opera/opera or baseball/baseball)
 * mixed; $\left(\frac{4}{5}, \frac{1}{5}\right)$ and $\left(\frac{1}{5}, \frac{4}{5}\right)$.
 
+But notice that the mixed equilibrium gives a worse expected payoff than if they decided to just do what the other one does. So a simple solution is to flip a coin and let that decide where both are going.
 
 # Technical Construction
 
