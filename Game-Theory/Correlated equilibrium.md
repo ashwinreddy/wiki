@@ -1,4 +1,4 @@
-A **correlated equilibrium** 
+A **correlated equilibrium** is a [[probability mass function]] $z_{ij} = \mathbb{P}(\mathcal{R}=i, \mathcal{C}=j)$
 
 # Motivation
 
@@ -18,7 +18,7 @@ But notice that the mixed equilibrium gives a worse expected payoff than if they
 
 # Technical Construction
 
-It is a correlated strategy pair ($z_{ij} = \mathbb{P}(\mathcal{R}=i, \mathcal{C}=j)$) in a two-player game with payoff matrices $A$ and $B$ such that
+It is a correlated strategy pair () in a two-player game with payoff matrices $A$ and $B$ such that
 
 \begin{gather}
 \mathbb{P}(\mathcal{R} = i) > 0 \implies \mathbb{E}\left( a_{i,\mathcal{C}} \mid \mathcal{R} = i\right) \geqslant \mathbb{E}\left( a_{\ell, \mathcal{C}} \mid \mathcal{R} = i\right), \qquad \forall i,\ell \in [n] \\\\
