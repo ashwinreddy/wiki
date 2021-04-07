@@ -1,4 +1,4 @@
-A **correlated equilibrium** is a [[probability mass function]] $z_{ij} = \mathbb{P}(\mathcal{R}=i, \mathcal{C}=j)$
+A **correlated equilibrium** is a kind of [[probability mass function]] $z_{ij} = \mathbb{P}(\mathcal{R}=i, \mathcal{C}=j)$ in a two-player game.
 
 # Motivation
 
