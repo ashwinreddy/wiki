@@ -6,7 +6,7 @@ $$
 
 # Potential function
 
-We have [[potential function]]
+We have a potential function
 
 $$
 \psi: S\_1 \times \dots \times S_k \to \RR
