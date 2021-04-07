@@ -9,7 +9,10 @@ Consider a "battle of the sexes" game where the row player is wife and column pl
 |**Opera**|(4,1)|(0,0)|
 |**Baseball**|(0,0)|(1,4)|
 
-The [[Nash equilibria|Nash equilibrium]] are AA and BB as well as $\left(\frac{4}{5}, \frac{1}{5}\right)$ and $\left(\frac{1}{5}, \frac{4}{5}\right)$.
+The [[Nash equilibria|Nash equilibrium]]:
+
+* pure; do the same thing (opera/opera or baseball/baseball)
+* mixed; $\left(\frac{4}{5}, \frac{1}{5}\right)$ and $\left(\frac{1}{5}, \frac{4}{5}\right)$.
 
 
 # Technical Construction
