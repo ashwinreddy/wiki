@@ -1,0 +1,1 @@
+A **road network** is a [[graph]] with latency functions.
