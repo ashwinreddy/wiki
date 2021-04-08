@@ -2,8 +2,8 @@
 
 # Algorithm
 
-1. Sample trajectories by running policy \ref{eq:sample}.
-2. Estimate policy gradient using samples given \ref{eq:estimate}.
+1. Sample trajectories by running policy according to \ref{eq:sample}.
+2. Estimate policy gradient using samples according to \ref{eq:estimate}.
 3. Take step in direction of gradient according to \ref{eq:gradient-update}.
 
 \begin{equation}
