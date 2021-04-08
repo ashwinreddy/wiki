@@ -7,7 +7,8 @@
 3. Take step in direction of gradient according to \ref{eq:gradient-update}.
 
 \begin{equation}
-\nabla_\theta J(\theta) \approx \sum_i \left( \sum_t \nabla_\theta \log \pi_\theta(a_t^i \mid s_t^i) \right)\left( \sum_t r(s_t^i, a_t^i) \right).
+\label{eq:estimate}
+\nabla_\theta J(\theta) \approx \sum_i \left( \sum_t \nabla_\theta \log \pi_\theta(a_t^i \mid s_t^i) \right)\left( \sum_t r(s_t^i, a_t^i) \right) \tag{Estimate}
 \end{equation}
 
 \begin{equation}
