@@ -7,7 +7,7 @@
 3. Take step in direction of gradient according to \ref{eq:gradient-update}.
 
 \begin{equation}
-\label{eq:sampel}
+\label{eq:sample}
 \\{ \tau^i \\} \sim \pi_\theta(a_t \mid s_t)
 \end{equation}
 
