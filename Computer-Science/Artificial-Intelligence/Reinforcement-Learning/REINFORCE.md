@@ -1,14 +1,5 @@
 **REINFORCE** is a simple implementation of a [[policy gradient]] [[algorithm]]. Recall that the goal is to find
 
-$$
-\theta^\star = \arg\max_\theta J(\theta)
-$$
-
-\begin{align}
-J(\theta) &= \mathbb{E}\_{\tau \sim p_\theta(\tau)}\left[ \sum_t r(s_t, a_t) \right] \\\\
-&\approx \frac{1}{N}\sum_i \sum_t r(s_{i,t}, a_{i,t})
-\end{align}
-
 # Algorithm
 
 1. Perform \ref{eq:sample}.
@@ -29,3 +20,7 @@ J(\theta) &= \mathbb{E}\_{\tau \sim p_\theta(\tau)}\left[ \sum_t r(s_t, a_t) \ri
 \label{eq:gradient-update}
 \theta \leftarrow \theta + \alpha \nabla_\theta J(\theta) \tag{Gradient Update}
 \end{equation}
+
+# Proof
+
+How do we obtain \ref{eq:estimate}?
