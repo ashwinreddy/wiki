@@ -24,3 +24,7 @@
 # Proof
 
 How do we obtain \ref{eq:estimate}?
+
+\begin{align}
+\nabla_\theta J(\theta) = \mathbb{E}_{\tau \sim \pi_theta(\tau)}
+\end{align}
