@@ -1,7 +1,7 @@
 **REINFORCE** is a simple implementation of a [[policy gradient]] [[algorithm]]. Recall that the goal is to find
 
 $$
-\theta^\star = \arg\max_\theta \mathbb{E}_{\tau \sim p_\theta(\tau)}\left[ \sum_t r(s_t, a_t) \right]
+\theta^\star = \arg\max_\theta \mathbb{E}\_{\tau \sim p_\theta(\tau)}\left[ \sum_t r(s_t, a_t) \right]
 $$
 
 # Algorithm
