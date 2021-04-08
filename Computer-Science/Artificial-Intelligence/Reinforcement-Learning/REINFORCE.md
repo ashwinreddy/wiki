@@ -4,9 +4,10 @@ $$
 \theta^\star = \arg\max_\theta J(\theta)
 $$
 
-$$
-J(\theta) = \mathbb{E}\_{\tau \sim p_\theta(\tau)}\left[ \sum_t r(s_t, a_t) \right]
-$$
+\begin{align}
+J(\theta) &= \mathbb{E}\_{\tau \sim p_\theta(\tau)}\left[ \sum_t r(s_t, a_t) \right] \\\\
+&= \frac{1}{N}\sum_i \sum_t r(s_{i,t}, a_{i,t})
+\end{align}
 
 # Algorithm
 
