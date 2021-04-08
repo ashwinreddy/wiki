@@ -4,9 +4,10 @@
 
 1. Sample trajectories by running policy.
 2. Estimate policy gradient using samples.
-3. Take step in direction of gradient.
+3. Take step in direction of gradient. \ref{eq:gradient-update}
 
 
 \begin{equation}
+\label{eq:gradient-update}
 \theta \leftarrow \theta + \alpha \nabla_\theta J(\theta)
 \end{equation}
