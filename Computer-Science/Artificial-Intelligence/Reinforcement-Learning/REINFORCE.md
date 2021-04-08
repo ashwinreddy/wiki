@@ -9,5 +9,5 @@
 
 \begin{equation}
 \label{eq:gradient-update}
-\theta \leftarrow \theta + \alpha \nabla_\theta J(\theta)
+\theta \leftarrow \theta + \alpha \nabla_\theta J(\theta) \tag{Gradient Update}
 \end{equation}
