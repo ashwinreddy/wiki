@@ -26,5 +26,5 @@
 How do we obtain \ref{eq:estimate}?
 
 \begin{align}
-\nabla_\theta J(\theta) = \mathbb{E}_{\tau \sim \pi\_\theta(\tau)}\left( \nabla_\theta \log \pi_\theta(\tau) r(\tau) \right)
+\nabla_\theta J(\theta) = \mathbb{E}_{\tau \sim \pi_\theta(\tau)}\left( \nabla_\theta \log \pi_\theta(\tau) r(\tau) \right)
 \end{align}
