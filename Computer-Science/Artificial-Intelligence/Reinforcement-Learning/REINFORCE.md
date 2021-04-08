@@ -1,4 +1,4 @@
-**REINFORCE** is a [[policy gradient]] [[algorithm]].
+**REINFORCE** is a simple implementation of a [[policy gradient]] [[algorithm]].
 
 1. Sample trajectories by running policy.
 2. Estimate policy gradient using samples.
