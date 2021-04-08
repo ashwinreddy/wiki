@@ -8,7 +8,7 @@
 
 \begin{equation}
 \label{eq:estimate}
-\nabla_\theta J(\theta) \approx \sum_i \left( \sum_t \nabla_\theta \log \pi_\theta(a_t^i \mid s_t^i) \right)\left( \sum_t r(s_t^i, a_t^i) \right) \tag{Estimate}
+\nabla_\theta J(\theta) \approx \sum_i \left( \sum_t \nabla_\theta \log \pi_\theta(a_t^i \mid s_t^i) \right)\left( \sum_t r(s_t^i, a_t^i) \right) \tag{Gradient Estimate}
 \end{equation}
 
 \begin{equation}
