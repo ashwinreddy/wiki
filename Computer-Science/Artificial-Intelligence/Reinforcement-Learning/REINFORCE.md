@@ -8,7 +8,7 @@
 
 \begin{equation}
 \label{eq:sample}
-\\{ \tau^i \\} \sim \pi_\theta(a_t \mid s_t)
+\\{ \tau^i \\} \sim \pi_\theta(a_t \mid s_t) \tag{Trajectory Sampling}
 \end{equation}
 
 \begin{equation}
