@@ -2,11 +2,12 @@
 
 # Algorithm
 
-1. Sample trajectories by running policy \ref{eq:}.
+1. Sample trajectories by running policy \ref{eq:sample}.
 2. Estimate policy gradient using samples given \ref{eq:estimate}.
 3. Take step in direction of gradient according to \ref{eq:gradient-update}.
 
 \begin{equation}
+\label{eq:sampel}
 \\{ \tau^i \\} \sim \pi_\theta(a_t \mid s_t)
 \end{equation}
 
