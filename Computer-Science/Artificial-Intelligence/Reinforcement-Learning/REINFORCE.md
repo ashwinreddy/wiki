@@ -4,7 +4,7 @@
 
 1. Sample trajectories by running policy.
 2. Estimate policy gradient using samples.
-3. Take step in direction of gradient. \ref{eq:gradient-update}
+3. Take step in direction of gradient according to \ref{eq:gradient-update}.
 
 
 \begin{equation}
