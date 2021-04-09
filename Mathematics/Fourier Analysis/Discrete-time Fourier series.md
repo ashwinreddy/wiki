@@ -1,4 +1,4 @@
-The **discrete time Fourier series (DTFS)** represents a [[periodic function]] (period $N$ / $\omega_0 = \frac{2\pi}{N}$) discrete signal $x[n]$ as a sum of complex exponentials. It is a special case of the [[discrete-time Fourier transform]]. Then, the fundamental frequency is
+The **discrete time Fourier series (DTFS)** represents a [[periodic function]] (fundamental period $N$; fundamental frequency $\omega_0 = \frac{2\pi}{N}$) discrete signal $x[n]$ as a sum of complex exponentials. It is a special case of the [[discrete-time Fourier transform]]. Then, the fundamental frequency is
 
 $$
 \omega_0 = \frac{2\pi}{N}
