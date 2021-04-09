@@ -10,6 +10,6 @@ The coefficients are given by
 X_k = \frac{1}{N} \sum_{n\in \langle N \rangle} x[n] e^{-\iota k \omega_0 n}, \tag{DTFS Analysis}
 \end{equation}
 
-where $\langle N \rangle$ denotes an interval of $N$ integers. The coefficients are periodic: notice that $c_k$ corresponds to $\omega_0 k$, so therefore $c_{k+N} = \omega_0 k + \cancelto{2\pi}{\omega_0 N}$, which is the same frequency as $c_k$.
+where $\langle N \rangle$ denotes an interval of $N$ integers. The coefficients are periodic: notice that $X_k$ corresponds to $\omega_0 k$, so therefore $X_{k+N} = \omega_0 k + \cancelto{2\pi}{\omega_0 N}$, which is the same frequency as $X_k$.
 
 
