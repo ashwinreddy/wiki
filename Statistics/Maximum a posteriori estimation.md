@@ -1,5 +1,5 @@
-**Maximum a posteriori estimation (MAP)** is [[maximum likelihood estimation]] with a [[prior probability]]. We estimate $\theta$ by
+**Maximum a posteriori estimation (MAP)** is [[maximum likelihood estimation]] with a [[prior probability]]. 
 
 $$
-\theta_{\text{MAP}} = \arg\max_\theta \prod_{i=1}^n p( y^{(i)} \mid x^{(i)}, \theta )p (\theta)
+\arg\max_x \Pr(X =x \mid Y =y ) = \arg\max_x \Pr(Y =y \mid X = x) \pi(x).
 $$
