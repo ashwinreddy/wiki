@@ -1,1 +1,1 @@
-An **Erdos-Renyi (ER) graph** $G(n,p)$ is a [[random graph]] with $n$ vertices and probability $p$ of connection.
+An **Erdos-Renyi (ER) graph** $\mathcal{G}(n,p)$ is a [[random graph]] with $n$ vertices and probability $p$ of connection.
