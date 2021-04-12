@@ -54,7 +54,7 @@ Time derivative property
 
 
 Time scaling
-: $$\mathcal{F}\\{x(at)\\}=\frac{1}{|a|}X\left(\frac{\omega}{a}\right).$$
+: $$\mathcal{F}\\{x(at)\\}=\frac{1}{|a|}X\left(\frac{\omega}{a}\right).$$ $$\mathcal{F}\\{x(at)\\}=\frac{1}{|a|}X\left(\frac{\omega}{a}\right).$$
 
 As a corollary to the above,
 
