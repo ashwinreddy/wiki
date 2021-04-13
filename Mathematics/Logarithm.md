@@ -22,7 +22,11 @@ The logarithm in any base of 0 is undefined.
 
 # Properties
 
-> The log of products is the sum of logs.
+$$
+\log(ab) = \log(a) + \log(b)
+$$
+
+The log of products is the sum of logs.
 
 \begin{equation}
 \log \prod_i x_i = \sum_i \log x_i
