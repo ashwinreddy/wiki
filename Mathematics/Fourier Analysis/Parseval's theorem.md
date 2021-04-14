@@ -1,4 +1,4 @@
-**Parseval's theorem**. Consider the energy per unit frequency interval (sort of like power):
+**Parseval's theorem**. [[Fourier transform]] Consider the energy per unit frequency interval (sort of like power):
 
 
 \begin{equation}
