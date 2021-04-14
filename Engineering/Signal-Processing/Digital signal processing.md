@@ -4,6 +4,6 @@
 
 
 @startuml
-ContinuousSignal - [First Component]
+ContinuousSignal - [C/D]
 [First Component] ..> HTTP : use
 @enduml
