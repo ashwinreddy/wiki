@@ -7,5 +7,5 @@ $$
 The [[Fourier transform]] pair is
 
 $$
-\frac{\sin(\pi t)}{\pi t} \longleftrightarrow \mathsf{rect}(\omega)
+\frac{\sin(\pi t)}{\pi t} \longleftrightarrow \mathsf{rect}\left(\frac{\omega}{2\pi}\right)
 $$
