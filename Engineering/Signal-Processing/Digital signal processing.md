@@ -4,7 +4,7 @@
 
 
 @startuml
-ContinuousSignal - [C/D]
+Continuous Signal - [C/D]
 [C/D] <-- T
 [C/D] -> [DT System]
 @enduml
