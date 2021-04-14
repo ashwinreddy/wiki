@@ -1,4 +1,4 @@
-**Rectangular function**
+**Rectangular function** is a [[function]].
 
 In terms of [[Iverson bracket]],
 
