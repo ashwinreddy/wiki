@@ -4,8 +4,9 @@
 
 
 @startuml
-ContinuousSignal - [C/D]
+Input - [C/D]
 [C/D] <-- T
 [C/D] -> [DT System]
 [DT System] -> [D/C]
+[D/C] -> Output
 @enduml
