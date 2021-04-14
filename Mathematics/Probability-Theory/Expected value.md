@@ -25,6 +25,10 @@ $$
 
 * Suppose $X$ and $Y$ are independent, then $\expectation{XY} = \mathbb{E}(X) \cdot \mathbb{E}(Y)$.
 
+\begin{equation}
+\mathbb{E}\left(1_A\right) = \Pr(A)
+\end{equation}
+
 # Tail Sum Formula
 
 The tail sum formula applies when we suppose $X \geqslant 0$.
