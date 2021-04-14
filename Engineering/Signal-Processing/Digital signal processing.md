@@ -8,5 +8,6 @@ Input - [C/D]
 [C/D] <-- T
 [C/D] -> [DT System]
 [DT System] -> [D/C]
+[D/C] <-- T
 [D/C] -> Output
 @enduml
