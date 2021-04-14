@@ -3,7 +3,7 @@
 In terms of [[Iverson bracket]],
 
 $$
-\mathsf{rect}(t) = \Pi(t) = [|t| \leqslant \frac{1}{2}] \end{cases}
+\mathsf{rect}(t) = \Pi(t) = [|t| \leqslant \frac{1}{2}]
 $$
 
 If you want the rectangle centered at $\tau$ with length $T$:
