@@ -37,5 +37,5 @@ $$
 This gets us
 
 $$
-x_r(t) = \cos(\frac{\omega_0}{3}t)
+x_r(t) = \cos\left(\frac{\omega_0}{3}t\right)
 $$
