@@ -3,7 +3,7 @@
 Aliasing happens if 
 
 * the signal doesn't have a find bandwidth, or
-* the sampling rate is too low.
+* the [[sampling]] rate is too low.
 
 The [[Nyquist theorem]] tells us how to avoid aliasing.
 
