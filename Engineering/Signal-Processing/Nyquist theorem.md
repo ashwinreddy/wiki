@@ -1,7 +1,7 @@
 The **Nyquist theorem** answers the question "can we reconstruct a continuous-time signal from discrete samples without loss of information?"
 
 
-says that if you want to reproduce a continuous signal from its samples, you should sample it at a rate that is twice the highest frequency you want to record.
+The answer is that you should sample it at a rate that is twice the highest frequency you want to record.
 
 # Formal Statement
 
