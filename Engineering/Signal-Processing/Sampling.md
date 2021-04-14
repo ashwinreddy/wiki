@@ -12,7 +12,11 @@ $$
 p(t) \equiv \sum_{k=-\infty}^\infty \delta(t- kT) \tag{Sampling Operation}
 $$
 
-2. $$x_d[n] = x_c(nT)$$
+2. 
+
+\begin{equation}
+x_d[n] = x_c(nT)
+\end{equation}
 
 # Fourier Transform
 
