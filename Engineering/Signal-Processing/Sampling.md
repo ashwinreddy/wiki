@@ -2,7 +2,11 @@
 
 We have two ways of modeling this:
 
-1. $$x_p(t) = p(t) x_c(t)$$
+1. An impulse train
+
+\begin{equation}
+x_p(t) = p(t) x_c(t)
+\end{equation}
 
 $$
 p(t) \equiv \sum_{k=-\infty}^\infty \delta(t- kT) \tag{Sampling Operation}
