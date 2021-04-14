@@ -22,4 +22,4 @@ $$
 
 # Example
 
-Consider sampling from $x(t) = \cos(\omega_0 t)$.
+Consider sampling from $x(t) = \cos(\omega_0 t)$. Suppose we sample at $\omega_s = \frac{4}{3}\omega_0$.
