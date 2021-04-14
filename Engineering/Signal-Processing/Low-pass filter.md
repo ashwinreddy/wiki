@@ -1,4 +1,4 @@
-A **low-pass filter (LPF)** is a [[filter]] allows low frequency signals to pass through. 
+A **low-pass filter (LPF)** is a [[filter]] that allows low frequency signals to pass through. 
 
 
 # Ideal
