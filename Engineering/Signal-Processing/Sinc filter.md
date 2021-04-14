@@ -1,0 +1,1 @@
+A **sinc filter** is a [[low-pass filter]] that is "ideal."
