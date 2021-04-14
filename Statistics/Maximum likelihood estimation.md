@@ -4,12 +4,12 @@ $$
 \arg\max_x \Pr(X = x \mid Y = y) = \arg\max_x \Pr(Y= y \mid X =x)
 $$
 
-[[Maximum a posteriori estimation]]
+When we have a prior, we call this [[maximum a posteriori estimation]].
 
 
 
 
-is a method for finding the parameters to a [[statistical model]] by evaluating how likely they are to be right with the data $y$ on hand via the [[likelihood function]].
+We can use MLE to find the parameters to a [[statistical model]] by evaluating how likely they are to be right with the data $y$ on hand via the [[likelihood function]].
 
 $$
 \hat\theta = \arg\max_{\theta \in \Theta} \hat{L}(\theta ; y)
