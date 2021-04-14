@@ -2,6 +2,8 @@
 
 # $N$-fold downsampler
 
+This downsampler takes a discrete signal $x: \mathbb{Z} \to \RR$ and outputs
+
 $$
 y[n] = x[nN]
 $$
