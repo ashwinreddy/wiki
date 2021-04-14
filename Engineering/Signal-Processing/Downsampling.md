@@ -2,8 +2,9 @@
 
 # $N$-fold downsampler
 
-This downsampler takes a discrete signal $x: \mathbb{Z} \to \RR$ and outputs
+This downsampler takes a discrete signal $x: \mathbb{Z} \to \RR$ and outputs for fixed $N$,
 
 $$
-y[n] = x[nN]
+y[n] = x[nN].
 $$
+
