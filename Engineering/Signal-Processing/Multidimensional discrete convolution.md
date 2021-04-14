@@ -1,5 +1,1 @@
-**Multidimensional discrete convolution** is a [[convolution]]
-
-$$
-(f ** g)
-$$
+**Multidimensional discrete convolution** is a [[convolution]]. If $A \in \mathbb{R}^{2 \times 3}$
