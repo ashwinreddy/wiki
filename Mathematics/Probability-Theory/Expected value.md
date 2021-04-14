@@ -25,6 +25,8 @@ $$
 
 * Suppose $X$ and $Y$ are independent, then $\expectation{XY} = \mathbb{E}(X) \cdot \mathbb{E}(Y)$.
 
+
+The expected value of an indicator is just its probability.
 \begin{equation}
 \mathbb{E}\left(1_A\right) = \Pr(A)
 \end{equation}
