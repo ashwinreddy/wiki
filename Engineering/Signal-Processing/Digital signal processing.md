@@ -6,5 +6,5 @@
 @startuml
 ContinuousSignal - [C/D]
 [C/D] <-- T
-[C/D] -> DTSystem
+[C/D] -> [DTSystem]
 @enduml
