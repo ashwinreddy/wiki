@@ -17,5 +17,5 @@ $$
 This makes $Y \leqslant X$ such that
 
 $$
-\mathbb{E}X \geqslant \mathbb{E}[Y] = \mathbb{E}[\epsilon\mathbb{1}_{X \geqslant \epsilon}] = \epsilon \Pr(X \geqslant \epsilon)
+\mathbb{E}(X) \geqslant \mathbb{E}(Y) = \mathbb{E}\left(\epsilon\mathbb{1}_{X \geqslant \epsilon}\right) = \epsilon \Pr(X \geqslant \epsilon)
 $$
