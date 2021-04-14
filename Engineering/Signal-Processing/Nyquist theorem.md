@@ -3,7 +3,9 @@ The **Nyquist theorem** answers the question "can we reconstruct a continuous-ti
 
 The answer is that you should sample it at a rate that is twice the highest frequency you want to record, then do a sinc interpolation.
 
-1. Push $x[n]$ into its frequency domain.
+1. Push $x[n]$ into its [[frequency domain]] by [[Discrete-Time Fourier transform]].
+2. Run this through an ideal low-pass filter (sinc interpolation).
+3. Run the inverse Fourier transform to get $x(t)$.
 
 # Formal Statement
 
