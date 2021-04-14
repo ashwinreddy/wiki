@@ -1,4 +1,4 @@
-The **Dirac comb** or **Shah function** is a [[periodic function]] train of [[Dirac delta]] or [[Kronecker delta]] impulses
+The **Dirac comb** or **Shah function** is a [[periodic function]] train of [[Dirac delta function]] or [[Kronecker delta]] impulses
 
 $$
 Ш(t) = \sum_{k=-\infty}^\infty \delta(t - k)
