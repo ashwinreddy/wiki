@@ -1,1 +1,5 @@
-**Multidimensional discrete convolution** is a [[convolution]]. If $A \in \mathbb{R}^{2 \times 3}$
+**Multidimensional discrete convolution** is a [[convolution]]. 
+
+$$
+(A \times B) ** (C \times D) = (A+C-1)\times(B+D-1)
+$$
