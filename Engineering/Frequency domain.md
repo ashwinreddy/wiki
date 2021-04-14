@@ -1,0 +1,1 @@
+**Frequency domain** is where a [[Fourier transform]] takes us, from the time domain.
