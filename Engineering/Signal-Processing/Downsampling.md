@@ -8,7 +8,12 @@ $$
 y[n] = x[nN]
 $$
 
+We can rewrite this with
 
 $$
 p[n] = \sum_{k=-\infty}^\infty \delta[n - kN].
+$$
+
+$$
+y[n] = x[n]p[n]
 $$
