@@ -1,1 +1,1 @@
-**Downsampling** is the [[sampling]] of a signal
+**Downsampling** is the [[sampling]] of a signal in a way that compresses the information.
