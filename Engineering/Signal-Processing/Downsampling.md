@@ -17,3 +17,9 @@ $$
 $$
 y[n] = x[n]p[n]
 $$
+
+It turns out that the [[discrete-time Fourier transform]]
+
+$$
+p[n] \longleftrightarrow P(e^{\im \omega}) = \omega_s \sum_{k=-\infty}^\infty \delta(\omega - k \omega_s)
+$$
