@@ -1,1 +1,1 @@
-**Time domain** is where [[functions]] are of [[time]].
+**Time domain** is where [[function]] are of [[time]].
