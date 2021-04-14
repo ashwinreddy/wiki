@@ -18,8 +18,10 @@ $$
 y[n] = x[n]p[n]
 $$
 
-It turns out that the [[discrete-time Fourier transform]]
+It turns out that the [[discrete-time Fourier transform]] pair is the following:
 
 $$
-p[n] \longleftrightarrow P(e^{\im \omega}) = \omega_s \sum_{k=-\infty}^\infty \delta(\omega - k \omega_s)
+p[n] \longleftrightarrow P(e^{\im \omega}) = \omega_s \sum_{k=-\infty}^\infty \delta(\omega - k \omega_s),
 $$
+
+where $\omega_s = \frac{2\pi}{N}$.
