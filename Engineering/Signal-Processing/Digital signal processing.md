@@ -5,5 +5,5 @@
 
 @startuml
 ContinuousSignal - [C/D]
-[C/D] ..> HTTP : use
+[C/D] ..> HTTP 
 @enduml
