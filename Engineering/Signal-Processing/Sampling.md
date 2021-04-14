@@ -19,3 +19,7 @@ $$
 $$
 X_d(e^{\im \Omega}) = \frac{1}{T}\sum_{n=-\infty}^\infty X_c\left( \Omega -  2\pi n \right).
 $$
+
+# Example
+
+Consider sampling from $x(t) = \cos(\omega_0 t)$.
