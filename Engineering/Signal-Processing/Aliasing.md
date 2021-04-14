@@ -6,3 +6,5 @@ Aliasing happens if
 * the sampling rate is too low.
 
 The [[Nyquist theorem]] tells us how to avoid aliasing.
+
+> A sufficient condition for avoiding aliasing is for the adjacent spectral replicas in frequency space to not overlap since we can always pass it through a [[sinc filter]] to recover the original frequencies and signal, exactly.
