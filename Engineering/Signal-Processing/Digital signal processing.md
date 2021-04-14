@@ -4,6 +4,6 @@
 
 
 @startuml
-DataAccess - [First Component]
+x(t) - [First Component]
 [First Component] ..> HTTP : use
 @enduml
