@@ -25,5 +25,5 @@ $$
 Consider sampling from $x(t) = \cos(\omega_0 t)$. Suppose we sample at $\omega_s = \frac{4}{3}\omega_0$. We get
 
 $$
-X_p\left(\omega\right) = \frac{\pi}{T_s} \sum_{k=-\infty}^\infty \delta\left(\omega - \left(k + \frac{3}{4}\right)\omega_s\right) +  \delta\left(\omega - (k - \frac{3}{4})\omega_s\right)
+X_p\left(\omega\right) = \frac{\pi}{T_s} \sum_{k=-\infty}^\infty \delta\left(\omega - \left(k + \frac{3}{4}\right)\omega_s\right) +  \delta\left(\omega - \left(k - \frac{3}{4}\right)\omega_s\right)
 $$
