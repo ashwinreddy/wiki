@@ -4,6 +4,6 @@
 
 
 @startuml
-x(t) - [First Component]
+Continuous Signal - [First Component]
 [First Component] ..> HTTP : use
 @enduml
