@@ -1,0 +1,1 @@
+**Downsampling** is the [[sampling]] of a signal
