@@ -5,7 +5,7 @@
 This downsampler takes a discrete signal $x: \mathbb{Z} \to \RR$ and outputs for fixed $N$,
 
 $$
-y[n] = x[nN]
+x_{\downarrow N}[n] = x[nN]
 $$
 
 We can rewrite this with
