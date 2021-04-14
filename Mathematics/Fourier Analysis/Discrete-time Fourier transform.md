@@ -4,7 +4,7 @@ The **discrete-time Fourier transform (DTFT)** is the [[Fourier transform]] appl
 
 Despite $x[n]$ being discrete, $X$ is a continuous function of frequency. 
 
-<<Note("Since the time signal is discrete, the frequency domain is $2\pi$-periodic.")>> 
+<<Note("DTFT is $2\pi$-periodic since the time signal is discrete.")>> 
 
 \begin{equation}
 x[n] = \frac{1}{2\pi} \int_{\langle 2\pi\rangle} X(e^{\im\omega}) e^{\im\omega n} \dd{\omega} \tag{DTFT Synthesis}
