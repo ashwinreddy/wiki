@@ -67,10 +67,8 @@ $$
 \mathcal{F}\\{ x(t) * h(t) \\}  = X(\omega)H(\omega)
 $$
 
-
-\begin{equation}
-\mathcal{F}\\{ f(t)\cdot g(t) \\}  = \frac{1}{2\pi} F(\omega) * G(\omega).
-\end{equation}
+Modulation property
+: \begin{equation}\mathcal{F}\\{ f(t)\cdot g(t) \\}  = \frac{1}{2\pi} F(\omega) * G(\omega).\end{equation}
 
 # Duality
 
