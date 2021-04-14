@@ -5,5 +5,5 @@
 
 @startuml
 ContinuousSignal - [C/D]
-[C/D] --> T
+[C/D] <-- T
 @enduml
