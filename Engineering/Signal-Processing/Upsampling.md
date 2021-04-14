@@ -1,5 +1,9 @@
 **Upsampling** is expanding a [[signal]] by expanding by a factor of $N$ and inserting 0s. Then you can [[sinc]] interpolate to recover.
 
 $$
-y_{\leftrightarrow N} = \begin{cases}y[n/N] & n = 0, \pm N, \pm 2N, \dots \\\\ 0\end{cases}
+y_{\leftrightarrow N}[n] = \begin{cases}y[n/N] & n = 0, \pm N, \pm 2N, \dots \\\\ 0\end{cases}
+$$
+
+$$
+y_{\uparrow N}[n] = y_{\leftrightarrow N}[n] * \left(\frac{2\pi}{N}\mathsf{sinc}\left(\frac{2\pi}{N}n\right)\right)
 $$
