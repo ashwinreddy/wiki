@@ -33,3 +33,9 @@ Now say we try to do a sinc interpolation by
 $$
 X_r(\omega) = T_s \mathsf{rect}(\omega / \omega_s) X_p(\omega)
 $$
+
+This gets us
+
+$$
+x_r(t) = \cos(\frac{\omega_0}{3}t)
+$$
