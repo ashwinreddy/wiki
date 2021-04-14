@@ -2,6 +2,9 @@
 
 # Discrete-time processing of continuous signal
 
+\begin{equation}
+\Omega = \omega T
+\end{equation}
 
 @startuml
 Input - [C/D]
