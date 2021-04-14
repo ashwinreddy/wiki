@@ -34,5 +34,3 @@ $$
 $$
 \angle H_c(\omega) = - \arctan\left( \omega RC \right)
 $$
-
-![](https://lh3.googleusercontent.com/proxy/voBKaT1DE3yonz9Ajadn2pbbr9inaYvQVSJP3BurqdDLn_BpJXgLK7JlBFjq27Gj8_eCl5TmYZdpAvCx7Cmfx_iIREQxHbI4V7unA3Nomrn-MfocLPS_9bIyng)
