@@ -6,9 +6,6 @@ The **Neyman-Pearson lemma** tells us how to do inference for [[binary hypothesi
 
 
 
-
-
-
 says that given $\beta \in [0, 1]$, optimal decision rule is a (randomized) threshold test.
 
 $$
