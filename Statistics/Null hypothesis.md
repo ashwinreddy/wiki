@@ -1,0 +1,1 @@
+The **null hypothesis** $H_0$.
