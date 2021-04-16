@@ -1,7 +1,7 @@
 The **Neyman-Pearson lemma** says that given $\beta \in [0, 1]$, optimal decision rule is a (randomized) threshold test.
 
 $$
-L(y) = \frac{P_{Y \mid X}(y \mid 1)}{p_{Y \mid X}(y \mid 0)}
+L(y) = \frac{P_{Y \mid X}(y \mid 1)}{P_{Y \mid X}(y \mid 0)}
 $$
 
 \begin{equation}
