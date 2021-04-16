@@ -1,4 +1,5 @@
-The **Neyman-Pearson lemma** says that when the likelihood ratio is monotonically increasing, that [[null hypothesis]] $H_0$
+The **Neyman-Pearson lemma** says that given $\beta \in [0, 1]$, optimal decision rule is a (randomized) threshold test.
 
-1. should be accepted if $X < c$
-2. rejected if $X > c$
+$$
+\hat{X}_\beta(y) = \begin{cases}  1 & L(y) > \lambda \\\\ 0 if L(y) < \lambda \\\\ \mathsf{Bern}(\gamma) & L(y) = \lambda \end{cases}
+$$
