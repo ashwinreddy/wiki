@@ -1,5 +1,9 @@
 The **Neyman-Pearson lemma** tells us how to do inference for [[binary hypothesis testing]]. Our goal is to maximize the probability of correct detection such that the probability of false alarm is less than $\beta$.
 
+1. Observe $Y$
+2. Two hypotheses: $H_0$ and $H_1$
+3. Formalize some decision rule $r: \RR \to {0, 1}$.
+
 
 
 
