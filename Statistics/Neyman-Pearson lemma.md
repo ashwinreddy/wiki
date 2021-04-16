@@ -1,4 +1,11 @@
-The **Neyman-Pearson lemma** says that given $\beta \in [0, 1]$, optimal decision rule is a (randomized) threshold test.
+The **Neyman-Pearson lemma** tells us how to do inference for [[binary hypothesis testing]]. Our goal is to maximize the probability of correct detection such that the probability of false alarm is less than $\beta$.
+
+
+
+
+
+
+says that given $\beta \in [0, 1]$, optimal decision rule is a (randomized) threshold test.
 
 $$
 L(y) = \frac{P_{Y \mid X}(y \mid 1)}{P_{Y \mid X}(y \mid 0)}
