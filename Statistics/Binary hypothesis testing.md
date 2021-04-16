@@ -1,0 +1,1 @@
+**Binary hypothesis testing**. [[Null hypothesis]] $H_0$ and $H_1$
