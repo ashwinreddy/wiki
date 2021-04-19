@@ -9,7 +9,7 @@ We want a decision rule $\hat{X}: Y \to \\{0, 1\\}$ to get
 
 \begin{equation}
 \begin{aligned}
-\min_{w,b,\xi} \quad & \frac{1}{2}w^{t}w+C\sum_{i=1}^{N}{\xi_{i}}\\
+\min_{w,b,\xi} \quad & \frac{1}{2}w\^{t}w+C\sum_{i=1}^{N}{\xi_{i}}\\
 \textrm{s.t.} \quad & y_{i}(w\phi(x_{i}+b))+\xi_{i}-1\\
   &\xi\geq0    \\
 \end{aligned}
