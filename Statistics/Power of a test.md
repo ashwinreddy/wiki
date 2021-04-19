@@ -1,0 +1,1 @@
+The **power** of a test is the probability it correctly rejects the null, which is $1-\beta$ for type II error probability $\beta$
