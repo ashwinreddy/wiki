@@ -1,4 +1,4 @@
-A **type I error** is a false positive. The probability is
+A **type I error** or **probability of false alarm (PFA)** is
 
 $$
 \Pr\left(\hat{X}(Y) = 1 \mid X = 0\right)
