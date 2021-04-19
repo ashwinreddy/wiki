@@ -1,8 +1,8 @@
 A **type I error** or **probability of false alarm (PFA)** is
 
-$$
-\Pr\left(\hat{X}(Y) = 1 \mid X = 0\right)
-$$
+\begin{equation}
+\alpha = \Pr\left(\hat{X}(Y) = 1 \mid X = 0\right) \tag{Significance Level}
+\end{equation}
 
 A **type II error** is a false negative.
 
