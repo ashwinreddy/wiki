@@ -9,7 +9,7 @@ We want a decision rule $\hat{X}: Y \to \\{0, 1\\}$ to get
 
 \begin{equation}
 \begin{aligned}
-q = \max_{A} \quad & \frac{1}{2}w\^{t}w+C\sum_{i=1}^{N}{\xi_{i}}\\\\
+q = \max_{A} \quad & 1 - \beta(A) \\\\
 \textrm{s.t.} \quad & y_{i}(w\phi(x_{i}+b))+\xi_{i}-1\\\\
   &\xi\geq0    \\
 \end{aligned}
