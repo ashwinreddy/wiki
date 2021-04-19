@@ -6,6 +6,6 @@ A **type I error** or **probability of false alarm (PFA)** is
 
 A **type II error** is a false negative.
 
-$$
-\Pr\left(\hat{X}(Y) = 0 \mid X = 1\right)
-$$
+\begin{equation}
+\beta = \Pr\left(\hat{X}(Y) = 0 \mid X = 1\right) \tag{Type-II error}
+\end{equation}
