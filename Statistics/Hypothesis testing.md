@@ -2,4 +2,6 @@
 
 # Formalization
 
-You are given some observations $x \sim X$ and told that there is some $\theta^* \in \Theta$ for which the data was drawn as $X \sim \mathbb{P}_{\theta^\*}$, and the task is to determine whether $\theta^*$ is in $\Theta_0$ or in $\Theta_1$ (which are MECE). If $\theta^\* \in \Theta_0$, we say $H_0$ is correct.
+You are given some observations $x \sim X$ and told that there is some $\theta^* \in \Theta$ for which the data was drawn as $X \sim \mathbb{P}_{\theta^\*}$, and the task is to determine whether $\theta^*$ is in $\Theta_0$ or in $\Theta_1$ (which are MECE). If $\theta^\* \in \Theta_0$, we say $H_0$ is correct else $H_1$ is correct.
+
+A hypothesis $H_i$ is simple if $\Theta_i$ has only one item.
