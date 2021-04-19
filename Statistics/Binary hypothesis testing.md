@@ -9,7 +9,7 @@ We want a decision rule $\hat{X}: Y \to \\{0, 1\\}$ to get
 
 \begin{equation}
 \begin{aligned}
-q = \max_{A} \quad & 1 - \beta(A) \\\\
-\textrm{s.t.} \quad & \alpha(A) \leqslant z \\\\
+q = \max_{A} \quad & \text{PCD} = 1 - \beta(A) \\\\
+\textrm{s.t.} \quad & \text{Significance Level} = \alpha(A) \leqslant z \\\\
 \end{aligned}
 \end{equation}
