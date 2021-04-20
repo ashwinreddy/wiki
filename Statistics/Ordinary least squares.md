@@ -21,7 +21,7 @@ $$
 We can also consider a [[maximum likelihood estimation]] of the form
 
 $$
-y = mx + b + \epsilon
+y = mx + b + \epsilon, \quad \epsilon \sim \mathsf{Normal}(0, \sigma^2)
 $$
 
 Then, our likelihood function is
