@@ -9,3 +9,9 @@ The closed form solution is
 $$
 \beta = (X\^\mathsf{T}X)\^{-1}X^\mathsf{T}y
 $$
+
+To see it, hit both sides with $X^\mathsf{T}$:
+
+$$
+X^\mathsf{T}\beta = X^\mathsf{T}X \beta
+$$
