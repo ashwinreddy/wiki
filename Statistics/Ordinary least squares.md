@@ -27,5 +27,5 @@ $$
 Then, our likelihood function is
 
 $$
-L()
+L = \prod_{i=1}^n \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2\sigma^2}\sum_{i=1}^n (\hat{y}_i - y_i)^2}
 $$
