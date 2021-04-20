@@ -32,5 +32,6 @@ $$
 
 \begin{align}
 \theta^* &= \arg\max_{\theta} \log L(\theta)  \\\\
-&= \arg\max_{\theta} \log \left( \prod_{i=1}^n \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}_i - y_i)^2} \right)
+&= \arg\max_{\theta} \log \left( \prod_{i=1}^n \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}_i - y_i)^2} \right) \\\\
+&= \arg\max_{\theta} \sum_{i=1}^n \log \left( \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}_i - y_i)^2} \right)
 \end{align}
