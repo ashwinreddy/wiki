@@ -15,3 +15,17 @@ To see it, hit both sides with $X^\mathsf{T}$:
 $$
 X^\mathsf{T}y = X^\mathsf{T}X \beta \implies (X\^\mathsf{T}X)^{-1} X^\mathsf{T}y =  \beta
 $$
+
+# MLE
+
+We can also consider a [[maximum likelihood estimation]] of the form
+
+$$
+y = mx + b + \epsilon
+$$
+
+Then, our likelihood function is
+
+$$
+L()
+$$
