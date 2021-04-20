@@ -13,5 +13,5 @@ $$
 To see it, hit both sides with $X^\mathsf{T}$:
 
 $$
-X^\mathsf{T}\beta = X^\mathsf{T}X \beta
+X^\mathsf{T}y = X^\mathsf{T}X \beta
 $$
