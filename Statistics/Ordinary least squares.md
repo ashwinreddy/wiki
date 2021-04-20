@@ -13,5 +13,5 @@ $$
 To see it, hit both sides with $X^\mathsf{T}$:
 
 $$
-X^\mathsf{T}y = X^\mathsf{T}X \beta \implies (X^\mathsf{T}X)^{-1} X^\mathsf{T}y =  \beta
+X^\mathsf{T}y = X^\mathsf{T}X \beta \implies (X\^\mathsf{T}X)^{-1} X^\mathsf{T}y =  \beta
 $$
