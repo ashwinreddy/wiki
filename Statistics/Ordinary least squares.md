@@ -27,5 +27,10 @@ $$
 Then, our likelihood function is
 
 $$
-L = \prod_{i=1}^n \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}_i - y_i)^2}
+L(\theta) = \prod_{i=1}^n \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}_i - y_i)^2}
 $$
+
+\begin{align}
+\theta^* &= \arg\max_{\theta} \log L(\theta) 
+&= \log \left( \prod_{i=1}^n \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}_i - y_i)^2} \right)
+\end{align}
