@@ -1,4 +1,4 @@
-**Traffic flow**. A latency function $\ell_e(x)$ gives the cost if $x$ amount of traffic uses edge $e$.
+**Traffic flow**. The latency function $\ell_e(x)$ gives the cost if $x$ amount of traffic uses edge $e$.
 
 Socially optimal traffic flow
 : Partition of traffic minimizing average latency.
