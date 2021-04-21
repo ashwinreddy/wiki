@@ -1,1 +1,1 @@
-A **cooperative game**
+A **cooperative game** is a game players can talk to each other and come up with joint strategies often involving side payoffs.
