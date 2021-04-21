@@ -2,7 +2,7 @@ A **congestion game**
 
 
 
-[[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Congestion-diagram.svg/640px-Congestion-diagram.svg.png?1618985489049]]
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Congestion-diagram.svg/640px-Congestion-diagram.svg.png]]
 
 
 
