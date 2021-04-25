@@ -1,0 +1,1 @@
+**Minimum mean square error (MMSE)** provides [[estimator]].
