@@ -1,4 +1,4 @@
-A **complex number** is a number of the form $$z = a+ b \iota,$$ where $\iota$ is the [[imaginary unit]] and $a$ and $b$ are [[real numbers|real number]]. Or, by [[Euler's formula]], we can also say
+A **complex number** is a number of the form $$z = a+ b \iota,$$ where $\iota = \sqrt{-1}$ is the [[imaginary unit]] and $a$ and $b$ are [[real numbers|real number]]. Or, by [[Euler's formula]], we can also say
 
 $$
 z = re^{\iota\theta}.
