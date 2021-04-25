@@ -1,1 +1,1 @@
-**Minimum mean square error (MMSE)** provides [[estimator]].
+**Minimum mean square error (MMSE)** provides [[estimator]] for $Y$ given observations $X_1, \dots, X_n$.
