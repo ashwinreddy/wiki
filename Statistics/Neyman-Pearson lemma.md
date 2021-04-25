@@ -19,7 +19,7 @@ L(y) = \frac{P_{Y \mid X}(y \mid 1)}{P_{Y \mid X}(y \mid 0)} \tag{Likelihood rat
 where $\lambda, \gamma$ chosen so that
 
 $$
-\Pr\left(\hat{X}(Y) = 1 \mid X = 0 \right) = \beta.
+\Pr\left(\hat{X}(Y) = 1 \mid X = 0 \right) \leqslant \beta.
 $$
 
 # Strategy
