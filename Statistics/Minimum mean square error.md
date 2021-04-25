@@ -4,4 +4,4 @@
 \arg\min_{\phi} \mathbb{E}\left[(Y - \phi(X))^2\right] \tag{MMSE objective}
 \end{equation}
 
-This translates
+This translates into $Y-\phi(X)$ being orthogonal to all other functions of $X$.
