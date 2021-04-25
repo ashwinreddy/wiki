@@ -22,3 +22,6 @@ $$
 \Pr\left(\hat{X}(Y) = 1 \mid X = 0 \right) = \beta.
 $$
 
+# Strategy
+
+1. Calculate likelihood ratio $L(y)$
