@@ -5,3 +5,9 @@ X(z) = \sum_{n=-\infty}^\infty x[n] z^{-n}
 $$
 
 The region of convergence is $R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}$.
+
+# [[Discrete Fourier Transform]]
+
+$$
+X[k]= X(z)|_{z = e^{\iota \frac{2\pi}{N} k}}
+$$
