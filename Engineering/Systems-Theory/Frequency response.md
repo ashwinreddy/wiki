@@ -7,5 +7,5 @@ $$
 If a system is LTI, the frequency response is simply the [[Fourier transform]] of [[impulse response]].
 
 $$
-H(e^{\iota\omega})
+H\left(e^{\iota\omega}\right) = \mathcal{F}\\{h(t)\\}
 $$
