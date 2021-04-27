@@ -1,0 +1,1 @@
+**Final value theorem** is similar to [[initial value theorem]].
