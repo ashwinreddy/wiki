@@ -1,6 +1,6 @@
 The **Nyquist theorem** answers the question "can we reconstruct a continuous-time signal $x(t)$ from discrete samples without loss of information?"
 
-The answer is yes if $X(\omega) = 0$ for $|\omega| > \omega_M$ for some finite frequency.
+The answer is yes if $X(\omega) = 0$ for $|\omega| > \omega_M$ for some finite frequency $\omega_M$ and $\omega_s > 2\omega_M$.
 
 The answer is that you should sample it at a rate that is twice the highest frequency you want to record, then do a sinc interpolation.
 
