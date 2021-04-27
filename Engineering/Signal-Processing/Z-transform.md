@@ -16,6 +16,8 @@ X(z) &= \sum_{n=0}^\infty a^n z^{-n} \\\\
 &= \frac{1}{1-az^{-1}}
 \end{align}
 
+where in the last step we spotted a [[geometric series]] and had to assume $|az^{-1}| < 1$, so we require $|z| > |a|$.
+
 # Fourier Transform
 
 It is connected to the [[Discrete Fourier Transform]] by
