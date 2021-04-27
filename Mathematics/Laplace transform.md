@@ -40,6 +40,9 @@ We replace $x^t$ with $e^{-st}$ to make it easier to work with.
 [[Linearity|Linear map]]
 : 
 
+Time Shift
+: $$x(t-t_0) \leftrightarrow e^{-st_0}X(s)$$
+
 # Table
 
 |$f(t)$|$F(s)$|
