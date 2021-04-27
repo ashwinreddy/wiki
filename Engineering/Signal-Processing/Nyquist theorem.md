@@ -5,7 +5,7 @@ The answer is yes if $X(\omega) = 0$ for $|\omega| > \omega_M$ for some finite f
 The answer is that you should sample it at a rate that is twice the highest frequency you want to record, then do a sinc interpolation.
 
 $$
-x_r(t) = \sum_{n=-\infty}^\infty x(nT)\sinc
+x_r(t) = \sum_{n=-\infty}^\infty x(nT)\operatorname{sinc}\left(\frac{t - nT}{T}\right)
 $$
 
 1. Push $x[n]$ into its [[frequency domain]] by [[Discrete-Time Fourier transform]].
