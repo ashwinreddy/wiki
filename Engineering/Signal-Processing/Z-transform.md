@@ -11,3 +11,9 @@ The region of convergence is $R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}
 $$
 X[k]= X(z)|_{z = e^{\iota \frac{2\pi}{N} k}}
 $$
+
+# Common Transforms
+
+|Signal|Transform|ROC|
+|------|---------|---|
+|$\delta[n]$|1|all $z$|
