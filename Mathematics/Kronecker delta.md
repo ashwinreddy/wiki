@@ -8,7 +8,9 @@ Similar to [[Dirac delta function]].
 
 # Properties
 
-
+$$
+\delta_{ij} = \delta_{ji}
+$$
 
 $$
 \sum_{n = -\infty}^\infty x[n]\delta[n - k] \equiv x[k]
