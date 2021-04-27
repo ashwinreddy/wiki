@@ -44,7 +44,7 @@ Time Shift
 : $$x(t-t_0) \leftrightarrow e^{-st_0}X(s)$$
 
 Differentiation
-: $$-tx(t) \leftrightarrow \dv{X(s)}{s}$$
+: $$-tx(t) \longleftrightarrow \dv{X(s)}{s}$$
 
 # Common Transforms
 
