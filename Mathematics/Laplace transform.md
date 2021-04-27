@@ -15,7 +15,7 @@ The transform can be used to turn [[differential equation]] into algebraic ones 
 # [[Fourier Transform]]
 
 $$
-\mathscr{L}\\{ x(t) \\} = \mathcal{F}\\{x(t)e^{-\sigma t}\\} where $\sigma = \Re$
+\mathscr{L}\\{ x(t) \\} = \mathcal{F}\\{x(t)e^{-\sigma t}\\} \quad \text{where} \sigma = \Re\\{s\\}$
 $$
 
 
