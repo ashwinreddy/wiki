@@ -4,7 +4,17 @@ $$
 X(z) \equiv \sum_{n=-\infty}^\infty x[n] z^{-n},\qquad z \in \mathbb{C}
 $$
 
-The region of convergence is $R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}$.
+# Region of Convergence
+
+The region of convergence is 
+
+$$
+R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}
+$$
+
+* The RoC is a ring/disk centered at the origin
+* It does not contain any poles
+* If $x[n]$ is right-sided, RoC extends from the outmost pole to infinity.
 
 # Example
 
