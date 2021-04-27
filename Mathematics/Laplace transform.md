@@ -43,7 +43,10 @@ We replace $x^t$ with $e^{-st}$ to make it easier to work with.
 Time Shift
 : $$x(t-t_0) \leftrightarrow e^{-st_0}X(s)$$
 
-Differentiation
+[[Time Differentiation|Time derivative]]
+:$$\dv{x(t)}{t} \longleftrightarrow sX(s)$$
+
+Differentiation in $s$-Domain
 : $$-tx(t) \longleftrightarrow \dv{X(s)}{s}$$
 
 # Common Transforms
