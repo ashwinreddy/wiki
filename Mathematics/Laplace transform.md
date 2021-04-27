@@ -1,4 +1,4 @@
-The **Laplace transform** is an [[integral transform]] using a decaying [[exponential function]]. It is a generalization of the [[Fourier transform]] that admits a [[complex number]] as the variable.
+The **Laplace transform** is an [[integral transform]] using a decaying [[exponential function]]. 
 
 \begin{equation}
 \mathscr{L} \left\\{ f(t) \right\\} \triangleq \int_0^\infty f(t) e^{-st} \dd{t} \tag{Unilateral Laplace}
@@ -8,7 +8,9 @@ The **Laplace transform** is an [[integral transform]] using a decaying [[expone
 \mathscr{L} \left\\{ f(t) \right\\} \triangleq \int_{-\infty}^\infty f(t) e^{-st} \dd{t} \tag{Bilateral Laplace}
 \end{equation}
 
-where $s$ is a [[complex number]]. The transform can be used to turn [[differential equation]] into algebraic ones that can be solved easily and converted back into solutions.
+where $s$ is a [[complex number]]. The [[Fourier transform]] is recovered for the bilateral Laplace if $s = \iota \omega$. 
+
+The transform can be used to turn [[differential equation]] into algebraic ones that can be solved easily and converted back into solutions.
 
 
 # Origin
