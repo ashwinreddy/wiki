@@ -8,7 +8,7 @@ The **convolution** of two signals is given by
 (f * g)[n] \doteq \sum_{k = -\infty}^\infty f[k]g[n-k]
 \end{equation}
 
-It can be easier to compute a convolution by means of a [[Laplace transform]].
+It can be easier to convolve two signals with a [[Laplace transform]].
 
 # Properties
 
