@@ -15,3 +15,9 @@ In many applications, a quadratic approximation tends to be "good enough."
 \begin{equation}
 f(x) \approx f(x_0) + f'(x_0)(x-x_0) + \frac{1}{2}f''(x_0)(x-x_0)^2
 \end{equation}
+
+# Common Series
+
+$$
+e^x = \sum_{k=0}^\infty \frac{x^k}{k!}
+$$
