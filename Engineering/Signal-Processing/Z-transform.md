@@ -6,6 +6,14 @@ $$
 
 The region of convergence is $R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}$.
 
+# Example
+
+Consider $x[n] = \alpha^n u[n]$. Then,
+
+$$
+X(z) = sum_{n=0}^\infty a^n z^{-n}
+$$
+
 # Fourier Transform
 
 It is connected to the [[Discrete Fourier Transform]] by
