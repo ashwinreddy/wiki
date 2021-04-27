@@ -15,5 +15,5 @@ $$
 $$
 
 $$
-\sum_{n} |h[n]| \dd{t} < \infty
+\sum_{n \in \mathbb{Z}} |h[n]| \dd{t} < \infty
 $$
