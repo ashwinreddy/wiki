@@ -1,0 +1,1 @@
+The **initial value theorem** for [[z-transform]]
