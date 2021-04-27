@@ -13,3 +13,7 @@ If the [[linear time-invariant system]] has [[impulse response]] $h(t)$ or $h[n]
 $$
 \int_\RR |h(t)| \dd{t} < \infty
 $$
+
+$$
+\sum_{n} |h[n]| \dd{t} < \infty
+$$
