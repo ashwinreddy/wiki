@@ -1,4 +1,4 @@
-The **Heaviside step function** $u$
+The **Heaviside step function** $u$ using [[Iverson bracket]] is given by
 
 $$
 u(t) \equiv \begin{cases} 0 & t < 0 \\\\ 1 & t \geqslant 0 \end{cases}
