@@ -1,5 +1,5 @@
-**Linear least squares estimation**. The estimate of $Y$ given $X$ is
+**Linear least squares estimation (LLSE)**. The estimate of $Y$ given $X$ is
 
 $$
-L[Y \mid X] = \mathbb{E}[Y] + \frac{\operatorname{cov}(X,Y)}{\operatorname{var}X}\left(X - \mathbb{E}[X]\right)
+L[X \mid Y] = \mu_x + \Sigma_{xy}\Sigma_y^{-1}(Y - \mu_y)
 $$
