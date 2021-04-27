@@ -29,6 +29,9 @@ $$
 Accumulation
 : $$\mathcal{Z}\left\\{\sum_{k=-\infty}^n x[k] \right\\}=\frac{1}{1-z^{-1}}X(z)$$
 
+Differentiation
+: $\mathcal{Z}\\{nx[n]\\} = -z\dv{X(z)}{z}, \quad \mathsf{RoC} = R$
+
 # Common Transforms
 
 |Name|Signal|Transform|ROC|
