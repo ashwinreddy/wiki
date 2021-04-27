@@ -4,4 +4,4 @@ $$
 H(s) = \frac{Y(s)}{X(s)}
 $$
 
-where $H(s)$ is the [[Laplace transform]] of [[impulse response]]
+where $H(s)$ is the [[Laplace transform]] of [[impulse response]] $h(t)$.
