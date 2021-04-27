@@ -17,7 +17,7 @@ $$
 * [[Linearity|linear map]]
 
 Accumulation
-: $$\mathcal{Z}\left\\{\sum_{k=-\infty}^n x[k] \right\\}$$
+: $$\mathcal{Z}\left\\{\sum_{k=-\infty}^n x[k] \right\\}=\frac{1}{1-z^{-1}}X(z)$$
 
 # Common Transforms
 
