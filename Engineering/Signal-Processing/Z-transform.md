@@ -11,7 +11,7 @@ The region of convergence is $R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}
 Consider $x[n] = \alpha^n u[n]$. Then,
 
 $$
-X(z) = sum_{n=0}^\infty a^n z^{-n}
+X(z) = \sum_{n=0}^\infty a^n z^{-n}
 $$
 
 # Fourier Transform
