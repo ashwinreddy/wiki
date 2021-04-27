@@ -43,7 +43,10 @@ We replace $x^t$ with $e^{-st}$ to make it easier to work with.
 Time Shift
 : $$x(t-t_0) \leftrightarrow e^{-st_0}X(s)$$
 
-# Table
+Differentiation
+: $$-tx(t) \leftrightarrow \dv{X(s)}{s}$$
+
+# Common Transforms
 
 |$f(t)$|$F(s)$|
 |------|:------:|
