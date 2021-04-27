@@ -12,8 +12,8 @@ $$
 R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}
 $$
 
-* The RoC is a ring/disk centered at the origin
-* It does not contain any poles
+* The RoC is a ring/disk centered at the origin.
+* It does not contain any poles.
 * If $x[n]$ is right-sided, RoC extends from the outmost pole to infinity.
 
 # Example
