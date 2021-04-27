@@ -8,9 +8,15 @@ The **Laplace transform** is an [[integral transform]] using a decaying [[expone
 \mathscr{L} \left\\{ f(t) \right\\} \triangleq \int_{-\infty}^\infty f(t) e^{-st} \dd{t} \tag{Bilateral Laplace}
 \end{equation}
 
-where $s$ is a [[complex number]]. The [[Fourier transform]] is recovered for the bilateral Laplace if $s = \iota \omega$. 
+where $s$ is a [[complex number]]. 
 
 The transform can be used to turn [[differential equation]] into algebraic ones that can be solved easily and converted back into solutions.
+
+# [[Fourier Transform]]
+
+$$
+\mathscr{L}\\{ x(t) \\} = \mathcal{F}\\{x(t)e^{-\sigma t}\\} where $\sigma = \Re$
+$$
 
 
 # Origin
