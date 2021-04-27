@@ -9,7 +9,7 @@ x_r(t) = \sum_{n=-\infty}^\infty x(nT)\operatorname{sinc}\left(\frac{t - nT}{T}\
 $$
 
 1. Push $x[n]$ into its [[frequency domain]] by [[Discrete-Time Fourier transform]].
-2. Run this through an ideal low-pass filter.
+2. Run this through an ideal low-pass filter (sinc interpolate).
 3. Run the inverse Fourier transform to get $x(t)$.
 
 # Formal Statement
