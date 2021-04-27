@@ -47,4 +47,4 @@ Time Shift
 
 |$f(t)$|$F(s)$|
 |------|:------:|
-|[[Dirac delta function]] $\delta(t-a)$|$e^{-sa}$|
+|[[Dirac delta function]] $\delta(t-T)$|$e^{-sT}$|
