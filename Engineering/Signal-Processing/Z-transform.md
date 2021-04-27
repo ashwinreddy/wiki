@@ -17,7 +17,7 @@ $$
 * [[Linearity|linear map]]
 
 $$
-\mathcal{Z}\left\\{ x[n]*y[n] \right\\} = X(z)Y(z)
+\mathcal{Z}\left\\{ x[n]*y[n] \right\\} = X(z)Y(z),\qquad \mathsf{RoC} \supseteq \left( R_x \cap R_y \right)
 $$
 
 Accumulation
