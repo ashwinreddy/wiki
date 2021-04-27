@@ -44,7 +44,7 @@ Time Shift
 : $$x(t-t_0) \leftrightarrow e^{-st_0}X(s)$$
 
 [[Time Differentiation|Time derivative]]
-:$$\dv{x(t)}{t} \longleftrightarrow sX(s)$$
+: $$\dv{x(t)}{t} \longleftrightarrow sX(s)$$
 
 Differentiation in $s$-Domain
 : $$-tx(t) \longleftrightarrow \dv{X(s)}{s}$$
