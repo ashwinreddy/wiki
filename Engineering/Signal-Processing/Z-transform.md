@@ -21,9 +21,9 @@ Accumulation
 
 # Common Transforms
 
-|Signal|Transform|ROC|
-|------|---------|---|
-|$\delta[n]$|1|all $z$|
-|$\delta[n-m]$|$z^{-m}$|all $z$ except ($z=0$ if $m>0$, $z=\infty$ if $m < 0$)|
-|$u[n]$|$1 \over 1 - z^{-1}$| when $\vert z\vert > 1$ |
+|Name|Signal|Transform|ROC|
+|-----|------|---------|---|
+|[[Kronecker Delta]]|$\delta[n]$|1|all $z$|
+|Shifted Delta|$\delta[n-m]$|$z^{-m}$|all $z$ except ($z=0$ if $m>0$, $z=\infty$ if $m < 0$)|
+|[[Unit step]]|$u[n]$|$1 \over 1 - z^{-1}$| when $\vert z\vert > 1$ |
 |$\alpha^n u[n]$|$1 \over 1 - \alpha z^{-1}$| when $\vert z\vert > \alpha$ |
