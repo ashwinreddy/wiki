@@ -18,6 +18,10 @@ $$
 \mathscr{L}\\{ x(t) \\} = \mathcal{F}\\{x(t)e^{-\sigma t}\\} \quad \text{where } \sigma = \Re\\{s\\}
 $$
 
+# Region of Convergence
+
+The Region of Convergence is the set $s \in \mathbb{C}$ whose real part $\sigma$ is such that the Fourier integral of $x(t)e^{-\sigma t}$ converges. If the ROC includes $\sigma=0$, the Fourier transform exists.
+
 
 # Origin
 
