@@ -6,6 +6,8 @@ $$
 
 The region of convergence is $R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}$.
 
+# Fourier Transform
+
 It is connected to the [[Discrete Fourier Transform]] by
 
 $$
