@@ -1,7 +1,11 @@
 **Linear constant coefficient differential / difference equation**
 
 \begin{equation}
-\sum_{k=0}^N a_k \frac{\dd{}^k y(t)}{\dd{} t^k} = \sum_{k=0}^M b_k \frac{\dd{}^k x(t)}{\dd{} t^k} \tag{LCCDE}
+\sum_{k=0}^N a_k \frac{\dd{}^k y(t)}{\dd{} t^k} = \sum_{k=0}^M b_k \frac{\dd{}^k x(t)}{\dd{} t^k} \tag{LCC Differential}
+\end{equation}
+
+\begin{equation}
+\sum_{k=0}^N a_k y[n-k] = \sum_{k=0}^M b_k x[n-k] \tag{LCC Difference}
 \end{equation}
 
 The homogenous solution $y_{\mathsf{homogeneous}}(t)$ solves
