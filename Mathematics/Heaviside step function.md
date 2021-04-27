@@ -7,5 +7,9 @@ $$
 The discrete version is the same.
 
 $$
-u[n] \equiv [n \geqslant 0]
+u[n] \equiv [n \geqslant 0].
 $$
+
+# Properties
+
+* $u(\alpha t) = u(t)$ for $\alpha > 0$.
