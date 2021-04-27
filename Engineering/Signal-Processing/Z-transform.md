@@ -1,7 +1,7 @@
 The **Z-transform** $X$ of a discrete time signal $x[n]$ is the [[Laplace transform]] applied to a discrete signal.
 
 $$
-X(z) = \sum_{n=-\infty}^\infty x[n] z^{-n},\qquad z \in \mathbb{C}
+X(z) \triangleq \sum_{n=-\infty}^\infty x[n] z^{-n},\qquad z \in \mathbb{C}
 $$
 
 The region of convergence is $R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}$.
