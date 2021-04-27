@@ -1,4 +1,4 @@
-The **Heaviside step function** $u$ using [[Iverson bracket]] is given by
+The **Heaviside step function** or **unit step function** is a [[function]] that steps for positive inputs. In terms of the [[Iverson bracket]],
 
 $$
 u(t) \equiv [t \geqslant 0].
