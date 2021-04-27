@@ -18,6 +18,8 @@ $$
 Y(z) = H(z)X(z)
 $$
 
+where $H(z) = \mathcal{Z}\\{ h[n] \\}$.
+
 # Eigenfunctions
 
 The eigenfunctions for LTI systems are complex exponential.
