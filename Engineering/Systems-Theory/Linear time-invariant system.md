@@ -18,7 +18,7 @@ $$
 Y(z) = H(z)X(z)
 $$
 
-where $H(z) = \mathcal{Z}\\{ h[n] \\} = \sum_{n=-\infty}^\infty h[n] z^{-n}$.
+where the [[transfer function]] is $H(z) = \mathcal{Z}\\{ h[n] \\} = \sum_{n=-\infty}^\infty h[n] z^{-n}$.
 
 # Eigenfunctions
 
