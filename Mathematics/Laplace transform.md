@@ -25,7 +25,7 @@ We replace $x^t$ with $e^{-st}$ to make it easier to work with.
 
 # Properties
 
-* Linear
+* [[Linear map]]
 
 # Table
 
