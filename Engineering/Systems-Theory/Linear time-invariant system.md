@@ -8,9 +8,8 @@ $$
 z \rightarrow \boxed{H} \rightarrow H(\omega) z
 $$
 
-# Causality
-
-A causal system has $\forall t < 0, n < 0$ that $h(t) = 0$ or $h[n]=0$.
+Causality
+: A causal system has $\forall t < 0, n < 0$ that $h(t) = 0$ or $h[n]=0$.
 
 # Convolution
 
