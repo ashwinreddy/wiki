@@ -6,6 +6,6 @@
 
 This translates into $Y-\phi(X)$ being orthogonal to all other functions of $X$.
 
-$$
-\hat{Y} = \mathbb{E}\left[ Y \mid X\right]
-$$
+\begin{equation}
+\hat{Y} = \mathbb{E}\left[ Y \mid X\right] \tag{MMSE}
+\end{equation}
