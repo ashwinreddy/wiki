@@ -13,3 +13,4 @@ $$
 # Properties
 
 * $u(\alpha t) = u(t)$ for $\alpha > 0$.
+* Its [[derivative]] is the [[Dirac delta function]]. $$\delta(x) = \dv{u(x)}{x}$$
