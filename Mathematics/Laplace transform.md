@@ -22,6 +22,8 @@ $$
 
 The Region of Convergence is the set $s \in \mathbb{C}$ whose real part $\sigma$ is such that the Fourier integral of $x(t)e^{-\sigma t}$ converges. If the ROC includes $\sigma=0$, the Fourier transform exists.
 
+The time domain $x(t)$ can't be determined uniquely unless the ROC is specified. $1 \over s + 1$ could be $e^{-t}u(t)$ with $\Re\\{s\\} > -1$ or $-e^{-t}u(t)$ for $\Re\\{s\\} < -1$
+
 
 # Origin
 
