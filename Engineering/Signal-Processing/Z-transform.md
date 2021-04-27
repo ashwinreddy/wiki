@@ -17,3 +17,5 @@ $$
 |Signal|Transform|ROC|
 |------|---------|---|
 |$\delta[n]$|1|all $z$|
+|$\delta[n-m]$|$z^{-m}$|all $z$ except $z=0$ if $m>0$, all $z$ except $z=\infty$ if $m < 0$|
+|$u[n]$|$1 \over 1 - z^{-1}$|$|z| > 1$|
