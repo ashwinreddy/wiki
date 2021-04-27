@@ -51,7 +51,8 @@ Differentiation in $s$-Domain
 
 # Common Transforms
 
-|$f(t)$|$F(s)$|
-|------|:------:|
-|[[Dirac delta function]] $\delta(t)$|$1$|
-|$\delta(t-T)$|$e^{-sT}$|
+|Name|$f(t)$|$F(s)$|
+|----|------|:------:|
+|[[Dirac delta function]]|$\delta(t)$|$1$|
+||$\delta(t-T)$|$e^{-sT}$|
+||$\cos(\omega_0)u(t)$|$s \over s^2 + \omega_0^2$||
