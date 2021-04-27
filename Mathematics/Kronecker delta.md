@@ -8,6 +8,8 @@ Similar to [[Dirac delta function]].
 
 # Properties
 
+By symmetry,
+
 $$
 \delta_{ij} = \delta_{ji}
 $$
