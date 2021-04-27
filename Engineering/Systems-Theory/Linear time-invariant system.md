@@ -8,7 +8,7 @@ Causality
 
 
 $$
-x[n] \leftarrow \boxed{h[n]} \leftarrow y[n] = (h*x)[n]
+x[n] \rightarrow \boxed{h[n]} \rightarrow y[n] = (h*x)[n]
 $$
 
 # Eigenfunctions
