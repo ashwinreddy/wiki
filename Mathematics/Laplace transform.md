@@ -48,4 +48,3 @@ Time Shift
 |$f(t)$|$F(s)$|
 |------|:------:|
 |[[Dirac delta function]] $\delta(t-a)$|$e^{-sa}$|
-|$e^{at}$|$\frac{1}{s-a}$|
