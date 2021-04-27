@@ -24,4 +24,4 @@ $$
 H(s) = \frac{Y(s)}{X(s)} = \frac{b_M s^M + \dots + b_0}{a_N s^N + \dots + a_0}
 $$
 
-The [[zeros and poles]]
+The [[zeros and poles]] are roots of $Y(s)$ and $X(s)$ respectively.
