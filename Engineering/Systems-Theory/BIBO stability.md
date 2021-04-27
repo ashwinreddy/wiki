@@ -3,3 +3,7 @@
 $$
 |x(t)| \leqslant B , \quad \forall t\in \RR 
 $$
+
+$$
+|x[n]| \leqslant B, \quad \forall n \in \mathbb{Z}
+$$
