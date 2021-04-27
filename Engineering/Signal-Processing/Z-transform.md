@@ -12,7 +12,7 @@ $$
 X[k]= X(z)|_{z = e^{\iota \frac{2\pi}{N} k}}
 $$
 
-and the [[Discrete-time Fourier transform by]]
+and the [[Discrete-time Fourier transform]] by
 
 $$
 X(z)|_{z=e^{\iota\omega}} = X(e^{\iota\omega})
