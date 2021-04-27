@@ -33,7 +33,3 @@ The particular solution has
 $$
 y_p(t) = \left(\frac{k}{a} + Be^{-at}\right)u(t)
 $$
-$$
-
-# Fourier Transform
-
