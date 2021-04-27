@@ -11,3 +11,9 @@ where $H(s)$ is the [[Laplace transform]] of [[impulse response]] $h(t)$.
 $$
 \sum_{k=0}^N a_k \frac{\dd{}^k y(t)}{\dd{t^k}} = \sum_{k=0}^M b_k \frac{\dd{}^k x(t)}{\dd{t^k}}
 $$
+
+In $s$-space,
+
+$$
+\sum_{k=0}^N a_k s^K Y(s) = \sum_{k=0}^M b_k s^k X(s)
+$$
