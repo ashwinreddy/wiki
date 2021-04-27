@@ -32,6 +32,10 @@ $$
 \mathsf{RoC} = \left\\{ |az^{-1}| < 1 \right\\} = \left\\{ |z| > |a| \right\\}.
 $$
 
+# Inverse Z-transform
+
+We can compute it through [[partial fraction decomposition]].
+
 # Fourier Transform
 
 It is connected to the [[Discrete Fourier Transform]] by
