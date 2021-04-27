@@ -8,4 +8,6 @@ So $m$ is the degree of numerator and $n$ for the denominator.
 
 |Condition|Name|
 |---------|----|
-|$m<n$|strictly proper rational function
+|$m<n$|strictly proper rational function|
+|$m=n$|proper rational function|
+|$m>n$|improper rational function|
