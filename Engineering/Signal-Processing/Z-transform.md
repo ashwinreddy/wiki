@@ -16,6 +16,10 @@ $$
 
 * [[Linearity|linear map]]
 
+$$
+\mathcal{Z}\left\\{ x[n]*y[n] \right\\} = X(z)Y(z)
+$$
+
 Accumulation
 : $$\mathcal{Z}\left\\{\sum_{k=-\infty}^n x[k] \right\\}=\frac{1}{1-z^{-1}}X(z)$$
 
