@@ -17,3 +17,5 @@ $$
 $$
 \sum_{n \in \mathbb{Z}} |h[n]| \dd{t} < \infty
 $$
+
+A causal LTI system with rational transfer function $H(s)$ is stable iff all [[poles|zeros and poles]] of $H(s)$ have strictly negative real parts.
