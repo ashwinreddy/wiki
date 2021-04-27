@@ -5,6 +5,7 @@
 \end{equation}
 
 \begin{equation}
+\label{eq:diff}
 \sum_{k=0}^N a_k y[n-k] = \sum_{k=0}^M b_k x[n-k] \tag{LCC Difference}
 \end{equation}
 
@@ -37,3 +38,12 @@ The particular solution has
 $$
 y_p(t) = \left(\frac{k}{a} + Be^{-at}\right)u(t)
 $$
+
+# Z-transform
+
+Applying the [[z-transform]] to \ref{eq:diff} yields
+
+$$
+H(z) = {\sum_{k=0}^M b_k z^{-k} \over \sum_{k=0}^N a_k z^{-k}}
+$$
+
