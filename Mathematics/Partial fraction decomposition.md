@@ -1,5 +1,5 @@
-**Partial fraction decomposition**
+**Partial fraction decomposition** is taking a rational expression and turning it into a sum of simpler rational expressions.
 
 $$
-\frac{f(x)}{g(x)} = \underbrace{p(x)}_{\text{polynomial}} + \sum_j \frac{f_j(x)}{g_j(x)}
+X(s) = \frac{N(s)}{D(s)} = \frac{b_m s^m + \dots + b_0}{a_ns^n + \dots + a_0}
 $$
