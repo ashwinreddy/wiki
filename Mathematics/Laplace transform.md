@@ -47,7 +47,7 @@ Time Shift
 
 |$f(t)$|$F(s)$|
 |------|:------:|
-|[[Dirac delta function]] $\delta(t-a)$|$e^{-sa}$ when $a>0$|
+|[[Dirac delta function]] $\delta(t-a)$|$e^{-sa}$|
 |[[Derivative]] $f'(t)$|$s F(s) -f(0)$|
 |$e^{at}$|$\frac{1}{s-a}$|
 |[[Convolution]]|Multiplication|
