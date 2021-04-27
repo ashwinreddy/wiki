@@ -1,0 +1,1 @@
+An **augmented matrix** is a [[matrix]]
