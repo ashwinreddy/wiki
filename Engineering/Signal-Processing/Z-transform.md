@@ -29,7 +29,7 @@ X(z) &= \sum_{n=0}^\infty a^n z^{-n} \\\\
 where in the last step we spotted a [[geometric series]], so
 
 $$
-\mathsf{RoC} = \\{ |az^{-1}| < 1 \\} = \\{ |z| > |a| \\}.
+\mathsf{RoC} = \left\\{ |az^{-1}| < 1 \right\\} = \left\\{ |z| > |a| \right\\}.
 $$
 
 # Fourier Transform
