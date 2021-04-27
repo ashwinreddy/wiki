@@ -6,9 +6,16 @@ Causality
 
 # Discrete-Time LTI System
 
+A block diagram shows
 
 $$
 x[n] \rightarrow \boxed{h[n]} \rightarrow y[n] = (h*x)[n]
+$$
+
+From the convolution property of the [[z-transform]],
+
+$$
+Y(z) = H(z)X(z)
 $$
 
 # Eigenfunctions
