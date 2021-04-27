@@ -6,11 +6,18 @@ $$
 
 The region of convergence is $R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}$.
 
-# [[Discrete Fourier Transform]]
+It is connected to the [[Discrete Fourier Transform]] by
 
 $$
 X[k]= X(z)|_{z = e^{\iota \frac{2\pi}{N} k}}
 $$
+
+# Properties
+
+* [[Linearity|linear map]]
+
+Accumulation
+: $$\mathcal{Z}$$
 
 # Common Transforms
 
