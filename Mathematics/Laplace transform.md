@@ -53,4 +53,5 @@ Differentiation in $s$-Domain
 
 |$f(t)$|$F(s)$|
 |------|:------:|
-|[[Dirac delta function]] $\delta(t-T)$|$e^{-sT}$|
+|[[Dirac delta function]] $\delta(t)$|$1$|
+|$\delta(t-T)$|$e^{-sT}$|
