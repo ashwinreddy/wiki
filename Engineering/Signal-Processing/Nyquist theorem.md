@@ -4,6 +4,10 @@ The answer is yes if $X(\omega) = 0$ for $|\omega| > \omega_M$ for some finite f
 
 The answer is that you should sample it at a rate that is twice the highest frequency you want to record, then do a sinc interpolation.
 
+$$
+x_r(t) = \sum_{n=-\infty}^\infty x(nT)\sinc
+$$
+
 1. Push $x[n]$ into its [[frequency domain]] by [[Discrete-Time Fourier transform]].
 2. Run this through an ideal low-pass filter.
 3. Run the inverse Fourier transform to get $x(t)$.
