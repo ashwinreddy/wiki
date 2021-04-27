@@ -1,7 +1,7 @@
 **Gamma distribution**
 
 \begin{equation}
-X \sim \Gamma(\alpha, \beta) \iff f(x; \alpha, \beta) = \frac{\beta^\alpha x^{\alpha-1}e^{-\beta x}}{\Gamma(\alpha)}
+X \sim \Gamma(\alpha, \beta) \iff f(x; \alpha, \beta) = \frac{\beta^\alpha x\^{\alpha-1}e^{-\beta x}}{\Gamma(\alpha)}
 \end{equation}
 
 If $X_i \sim \mathsf{Exp}(\lambda)$, then
