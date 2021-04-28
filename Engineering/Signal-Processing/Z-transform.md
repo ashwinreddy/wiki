@@ -12,14 +12,19 @@ $$
 R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}
 $$
 
+Generally, the RoC is a ring/disk (or its complement??) centered at the origin in the $z$-plane.
+
+
+* If the RoC includes the unit circle, then the DTFT will converge
+
 Naturally, the region of convergence will not contain any poles since poles are where the function explodes.
 
-If $x[n]$ is finite, then the ROC contains everything except possible $z=0$ or $|z| = \infty$.
+If $x[n]$ is finite, then the ROC contains everything except possible $z=0$ or $|z| = \infty$. It is more interesting to consider infinite sequences:
 
-* The RoC is a ring/disk (or its complement??) centered at the origin in the $z$-plane.
+
 * If $x[n]$ is right-sided, RoC extends from the outmost pole to infinity.
 * If $x[n]$ is left-sided, RoC extends inward from the innermost pole.
-* If the RoC includes the unit circle, then the DTFT will converge
+
 
 # Example
 
