@@ -8,7 +8,7 @@ The **Laplace transform** is an [[integral transform]] using a decaying [[comple
 \mathscr{L} \left\\{ f(t) \right\\} \triangleq \int_{-\infty}^\infty f(t) e^{-st} \dd{t} \tag{Bilateral Laplace}
 \end{equation}
 
-where $s$ is a [[complex number]]. 
+where $s$ is a [[complex number]]. When you apply it to a discrete signal, you get the [[z-transform]]
 
 The transform can be used to turn [[differential equation]] into algebraic ones that can be solved easily and converted back into solutions.
 
