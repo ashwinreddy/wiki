@@ -46,7 +46,7 @@ We replace $x^t$ with $e^{-st}$ to make it easier to work with.
 # Properties
 
 [[Linearity|Linear map]]
-: 
+: $$ax_1(t) + bx_2(t) \leftrightarrow aX_1(s) + bX_2(s)$$ with $\mathsf{RoC} = R_1 \cap R_2$.
 
 Time Shift
 : $$x(t-t_0) \leftrightarrow e^{-st_0}X(s)$$
