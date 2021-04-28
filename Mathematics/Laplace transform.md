@@ -12,6 +12,8 @@ where $s$ is a [[complex number]].
 
 The transform can be used to turn [[differential equation]] into algebraic ones that can be solved easily and converted back into solutions.
 
+[[_TOC_]]
+
 # [[Fourier Transform]]
 
 The Laplace Transform is related to the Fourier Transform in
