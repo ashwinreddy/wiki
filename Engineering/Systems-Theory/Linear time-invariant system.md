@@ -24,14 +24,6 @@ $$
 H(z) = \mathcal{Z}\\{ h[n] \\} = \sum_{n=-\infty}^\infty h[n] z^{-n}.
 $$
 
-# Eigenfunctions
-
-The eigenfunctions for LTI systems are complex exponential.
-
-$$
-z \rightarrow \boxed{H} \rightarrow H(\omega) z
-$$
-
 
 # Convolution
 
