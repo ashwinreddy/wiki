@@ -24,7 +24,7 @@ If $x[n]$ is finite, then the ROC contains everything except possible $z=0$ or $
 
 * If $x[n]$ is right-sided, RoC extends from the outmost pole to infinity.
 * If $x[n]$ is left-sided, RoC extends inward from the innermost pole.
-
+* If $x[n]$ extends infinitely on both sides, then RoC is bounded on the interior and exterior by poles.
 
 # Example
 
