@@ -43,6 +43,11 @@ For example, take $e^{-at}u(t)$. The Fourier transform is $$X(\omega) = {1\over 
 
 The time domain $x(t)$ can't (always??) be determined uniquely unless the ROC is specified. $1 \over s + 1$ could be $e^{-t}u(t)$ with $\Re\\{s\\} > -1$ or $-e^{-t}u(t)$ for $\Re\\{s\\} < -1$.
 
+Let's say RoC is a half-plane, either to left or right. Then, for two signals we have a matrix of typical possibilities.
+
+||Left|Right|
+|**Left**|Further left|No overlap|
+|**Right**|Overlap|Further Right|
 
 # Properties
 
