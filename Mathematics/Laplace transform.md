@@ -22,7 +22,7 @@ $$
 
 The Region of Convergence is the set $s \in \mathbb{C}$ whose real part $\sigma$ is such that the Fourier integral of $x(t)e^{-\sigma t}$ converges. If the ROC includes $\sigma=0$, the Fourier transform exists.
 
-For example, take $e^{-at}u(t)$. The Fourier transform is $$X(\omega) = {1\over \iota\omega + a}$$ for $a>0$. On the other hand, the Laplace transform is $$\frac{1}{s+a}=\frac{1}{\iota\omega + (s+a)}.$$
+For example, take $e^{-at}u(t)$. The Fourier transform is $$X(\omega) = {1\over \iota\omega + a}$$ for $a>0$. On the other hand, the Laplace transform is $$\frac{1}{s+a}=\frac{1}{\iota\omega + (\sigma+a)}.$$ So we require $\sigma + a > 0$ or $\sigma > -a$.
 
 The time domain $x(t)$ can't (always??) be determined uniquely unless the ROC is specified. $1 \over s + 1$ could be $e^{-t}u(t)$ with $\Re\\{s\\} > -1$ or $-e^{-t}u(t)$ for $\Re\\{s\\} < -1$.
 
