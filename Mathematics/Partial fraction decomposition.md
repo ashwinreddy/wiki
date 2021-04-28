@@ -23,5 +23,7 @@ $$
 We propose a decomposition
 
 $$
-X(s) = \frac{A}{s+1} + \frac{B}{s+2} = \frac{A(s+2)+B(s+1)}{(s+1)(s+2)}
+X(s) = \frac{A}{s+1} + \frac{B}{s+2} = \frac{A(s+2)+B(s+1)}{(s+1)(s+2)} = \frac{(A+B)s + (2A+B)}{(s+1)(s+2)}
 $$
+
+That tells us $A+B=0$ and $2A+B=1$, so $A=1$ and $B=-1$.
