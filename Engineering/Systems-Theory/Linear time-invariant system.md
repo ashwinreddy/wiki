@@ -34,3 +34,7 @@ $$
 y(t) &= \int_\RR x(t) h(t - \tau) \dd{\tau} \\\\
 &= h(t) * x(t)
 \end{align}
+
+# Stable & Causal
+
+By considering [[BIBO stability]] and [[causality]] together, we conclude
