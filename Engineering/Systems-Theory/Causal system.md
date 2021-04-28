@@ -7,3 +7,7 @@ $$
 $$
 \forall n < 0 : h[n] = 0.
 $$
+
+# Conditions for LTI System
+
+If a [[linear time-invariant system]] is causal, then the region of convergence of its [[transfer function]] $H(s)$ is a right-sided plane.
