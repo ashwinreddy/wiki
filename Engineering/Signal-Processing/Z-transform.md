@@ -68,6 +68,9 @@ Accumulation
 Differentiation
 : $$\mathcal{Z}\\{nx[n]\\} = -z\dv{X(z)}{z}, \quad \mathsf{RoC} = R$$
 
+Time Reversal
+: $$x[-n] \leftrightarrow X\left(\frac{1}{z}\right),$$ with $\mathsf{RoC} = \frac{1}{R}$.
+
 # Common Transforms
 
 |Name|Signal|Transform|ROC|
