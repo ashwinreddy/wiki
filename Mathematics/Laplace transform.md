@@ -1,4 +1,4 @@
-The **Laplace transform** is an [[integral transform]] using a decaying [[exponential function]]. 
+The **Laplace transform** is an [[integral transform]] using a decaying [[complex exponential]]. 
 
 \begin{equation}
 \mathscr{L} \left\\{ f(t) \right\\} \triangleq \int_0^\infty f(t) e^{-st} \dd{t} \tag{Unilateral Laplace}
