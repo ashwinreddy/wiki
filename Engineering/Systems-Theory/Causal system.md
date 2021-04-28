@@ -10,4 +10,4 @@ $$
 
 # Conditions for LTI System
 
-If a [[linear time-invariant system]] is causal, then the region of convergence of its [[transfer function]] $H(s)$ is a right-sided plane.
+If a [[linear time-invariant system]] is causal, then it has a right-sided impulse. So the region of convergence of its [[transfer function]] $H(s)$ is a right-sided plane.
