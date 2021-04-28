@@ -27,9 +27,3 @@ $$
 $$
 
 A LTI system is stable iff the frequency response exists, meaning the region of convergence for [[transfer function]] $H(z)$ includes the unit circle $|z|=1$.
-
-# Causality
-
-A causal LTI system with rational transfer function $H(s)$ is stable iff all [[poles|zeros and poles]] of $H(s)$ have strictly negative real parts.
-
-A causal LTI system with transfer function (from [[z-transform]]) $H(z)$ is stable iff all poles of $H(z)$ lie strictly inside the unit circle.
