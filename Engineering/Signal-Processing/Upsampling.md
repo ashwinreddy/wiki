@@ -1,4 +1,4 @@
-**Upsampling** is expanding a [[signal]] by expanding by a factor of $N$ and inserting 0s, opposite of [[downsampling]]. Then you can [[sinc]] interpolate to recover the upsampled version.
+**Upsampling** is expanding a [[signal]] by expanding by a factor of $N$ and inserting 0s, opposite of [[downsampling]]. Then you can [[low pass filter]] (sinc interpolate) to recover the upsampled version.
 
 $$
 y_{\leftrightarrow N}[n] = \begin{cases}y[n/N] & n = 0, \pm N, \pm 2N, \dots \\\\ 0\end{cases}
