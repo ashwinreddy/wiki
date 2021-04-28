@@ -2,7 +2,7 @@ A **linear time-invariant (LTI) system** is a [[linear system]] and [[time-invar
 
 
 Causality
-: A causal system has $\forall t < 0, n < 0$ that $h(t) = 0$ or $h[n]=0$.
+: A causal system has a right-sided signal, i.e. $\forall t < 0, n < 0$ that $h(t) = 0$ or $h[n]=0$.
 
 # Discrete-Time LTI System
 
