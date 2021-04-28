@@ -22,4 +22,4 @@ $$
 
 A causal LTI system with rational transfer function $H(s)$ is stable iff all [[poles|zeros and poles]] of $H(s)$ have strictly negative real parts.
 
-A causal LTI system with transfer function (from [[z-transform]]) $H(z)$ is stable iff all poles of $H(z)$ lie inside the unit circle.
+A causal LTI system with transfer function (from [[z-transform]]) $H(z)$ is stable iff all poles of $H(z)$ lie strictly inside the unit circle.
