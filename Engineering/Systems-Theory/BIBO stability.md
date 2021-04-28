@@ -12,13 +12,21 @@ $$
 
 If the [[linear time-invariant system]] has [[impulse response]] $h(t)$ or $h[n]$ then the condition is that
 
+## Continuous Time
+
 $$
 \int_\RR |h(t)| \dd{t} < \infty
 $$
 
+## Discrete Time
+
 $$
 \sum_{n \in \mathbb{Z}} |h[n]| \dd{t} < \infty
 $$
+
+A LTI system is stable iff the frequency response exists, meaning the region of convergence for [[transfer function]] $H(z)$ includes the unit circle $|z|=1$.
+
+# Causality
 
 A causal LTI system with rational transfer function $H(s)$ is stable iff all [[poles|zeros and poles]] of $H(s)$ have strictly negative real parts.
 
