@@ -1,1 +1,1 @@
-A **pole-zero plot** shows [[zeros and poles]] for a [[complex function]]
+A **pole-zero plot** shows [[zeros and poles]] for a [[rational function]] [[transfer function]]
