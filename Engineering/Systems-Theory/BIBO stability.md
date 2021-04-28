@@ -18,7 +18,7 @@ $$
 \int_\RR |h(t)| \dd{t} < \infty
 $$
 
-A LTI system is stable iff the region of convergence of $H(s)$ includes the $\iota\omega$-axis $\Re\\{s\\} = \sigma = 0$,
+A LTI system is stable iff the region of convergence of $H(s)$ includes the $\iota\omega$-axis $\Re\\{s\\} = \sigma = 0$.
 
 ## Discrete Time
 
