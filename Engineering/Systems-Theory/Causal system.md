@@ -16,3 +16,4 @@ We know that $h(t) = 0$ for $t<0$, so the region of convergence of $H(s)$ is a r
 
 ## Discrete Time
 
+We know that $h[n] = 0$ for $n<0$, so the region of convergence of $H(z)$ is the exterior of a circle including infinity. In particular, when $H(z)$ is rational, then the system is causal iff its ROC is the exterior of a circle outside the out-most pole, and the order of numerator is no greater than the order of the denominator.
