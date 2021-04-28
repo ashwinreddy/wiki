@@ -37,4 +37,4 @@ y(t) &= \int_\RR x(t) h(t - \tau) \dd{\tau} \\\\
 
 # Stable & Causal
 
-By considering [[BIBO stability]] and [[causality]] together, we conclude
+By considering [[BIBO stability]] and [[causal system]] together, we conclude
