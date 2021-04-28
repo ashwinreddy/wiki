@@ -79,5 +79,6 @@ Differentiation in $s$-Domain
 |----|------|------|---|
 |[[Dirac delta function]]|$\delta(t)$|$1$|all $s$|
 ||$\delta(t-T)$|$e^{-sT}$|all $s$|
+||$e^{aT}u(t)$|$\frac{1}{s-a}$|
 ||$\cos(\omega_0)u(t)$|$s \over s^2 + \omega_0^2$|$\Re\\{ s\\} > 0$|
 ||$\sin(\omega_0)u(t)$|$\omega_0 \over s^2 + \omega_0^2$|$\Re \\{s\\} > 0$|
