@@ -4,7 +4,7 @@ $$
 H(f) = \mathsf{rect}
 $$
 
-The [[impulse response]] is the [[sinc]]
+The [[impulse response]] is the [[sinc function]]:
 
 $$
 h(t) = \operatorname{sinc}
