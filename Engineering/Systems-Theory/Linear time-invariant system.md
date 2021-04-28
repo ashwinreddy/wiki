@@ -42,4 +42,4 @@ By considering [[BIBO stability]] and [[causal system]] together, we conclude
 
 * **Continuous time**: A causal LTI system with rational transfer function $H(s)$ is stable iff all [[poles|zeros and poles]] of $H(s)$ have strictly negative real parts.
 
-* **Discrete time** A causal LTI system with transfer function (from [[z-transform]]) $H(z)$ is stable iff all poles of $H(z)$ lie strictly inside the unit circle.
+* **Discrete time**: A causal LTI system with transfer function (from [[z-transform]]) $H(z)$ is stable iff all poles of $H(z)$ lie strictly inside the unit circle.
