@@ -15,7 +15,7 @@ $$
 Y(z) = H(z)X(z)
 $$
 
-where the [[transfer function]] is 
+where the transform is
 
 $$
 H(z) = \mathcal{Z}\\{ h[n] \\} = \sum_{n=-\infty}^\infty h[n] z^{-n}.
