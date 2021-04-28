@@ -18,7 +18,7 @@ $$
 
 # Technical Details
 
-We are going to assume that $x(t)$ is absolutely integrable.
+We are going to assume that $x(t)$ is absolutely integrable. In addition, we are sometimes concerned with convergence. For example $e^{-at}u(t)$ needs $a > 0$ to converge.
 
 # Properties
 
