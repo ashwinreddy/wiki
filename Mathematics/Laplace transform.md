@@ -46,7 +46,7 @@ The time domain $x(t)$ can't (always??) be determined uniquely unless the ROC is
 Let's say RoC is a half-plane, either to left or right. Then, for two signals we have a matrix of typical possibilities.
 
 ||Left|Right|
-||----|-----|
+|---|----|-----|
 |**Left**|Further left|No overlap|
 |**Right**|Overlap|Further Right|
 
