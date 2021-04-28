@@ -14,9 +14,13 @@ The transform can be used to turn [[differential equation]] into algebraic ones 
 
 # [[Fourier Transform]]
 
+The Laplace Transform is related to the Fourier Transform in
+
 $$
 \mathscr{L}\\{ x(t) \\} = \mathcal{F}\\{x(t)e^{-\sigma t}\\} \quad \text{where } \sigma = \Re\\{s\\}
 $$
+
+The transform has similar properties. It can exist even when the Fourier Transform does not. Finally, it can solve integro-differential equations.
 
 # Region of Convergence
 
