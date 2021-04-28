@@ -12,7 +12,7 @@ $$
 R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}
 $$
 
-Generally, the RoC is a ring/disk (or its complement??) centered at the origin in the $z$-plane.
+Generally, the RoC is a ring / disk (possibly infinitely large) centered at the origin in the $z$-plane.
 
 
 * If the RoC includes the unit circle, then the DTFT will converge
