@@ -11,3 +11,17 @@ So $m$ is the degree of numerator and $n$ for the denominator.
 |$m<n$|strictly proper rational function|
 |$m=n$|proper rational function|
 |$m>n$|improper rational function|
+
+# Example
+
+Take 
+
+$$
+X(s) = \frac{1}{(s+1)(s+2)}
+$$
+
+We propose a decomposition
+
+$$
+X(s) = \frac{A}{s+1} + \frac{B}{s+2} = \frac{A(s+2)+B(s+1)}{(s+1)(s+2)}
+$$
