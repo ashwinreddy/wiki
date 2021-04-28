@@ -54,6 +54,12 @@ Time Shift
 Time Scaling
 : $$x(at) \leftrightarrow \frac{1}{|a|}X\left(\frac{s}{a}\right)$$ with $\mathsf{RoC} = aR$.
 
+Conjugation
+: $$x^*(t) \leftrightarrow X^*\left(s^*\right)$$ with RoC unchanged.
+
+Convolution
+: $$x_1(t) * x_2(t) \leftrightarrow X_1(s)X_2(s),$$ with $\mathsf{RoC} = R_1 \cap R_2$.
+
 [[Time Differentiation|Time derivative]]
 : $$\dv{x(t)}{t} \longleftrightarrow sX(s)$$
 
