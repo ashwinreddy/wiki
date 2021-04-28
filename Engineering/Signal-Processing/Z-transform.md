@@ -23,7 +23,7 @@ Consider $x[n] = \alpha^n u[n]$. Then,
 \begin{align}
 X(z) &= \sum_{n=0}^\infty a^n z^{-n} \\\\
 &= \sum_{n=0}^\infty \left(a z\^{-1}\right)^n \\\\
-&= \frac{1}{1-az^{-1}}
+&= \frac{1}{1-az^{-1}} \\\\
 &= \frac{z}{z-a}
 \end{align}
 
