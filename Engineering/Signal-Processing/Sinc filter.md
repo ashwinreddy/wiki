@@ -4,6 +4,8 @@ $$
 H(f) = \mathsf{rect}
 $$
 
+The [[impulse response]] is the [[sinc]]
+
 $$
 h(t) = \operatorname{sinc}
 $$
