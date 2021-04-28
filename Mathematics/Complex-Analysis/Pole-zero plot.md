@@ -1,0 +1,1 @@
+A **pole-zero plot** shows [[zeros and poles]] for a [[complex function]]
