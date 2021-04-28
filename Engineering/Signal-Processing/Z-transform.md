@@ -33,6 +33,8 @@ $$
 \mathsf{RoC} = \left\\{ |az^{-1}| < 1 \right\\} = \left\\{ |z| > |a| \right\\}.
 $$
 
+The pole is $z=a$ and the zero is $z=0$.
+
 # Inverse Z-transform
 
 We can compute it through [[partial fraction decomposition]].
