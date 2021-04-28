@@ -6,7 +6,7 @@ $$
 
 # Region of Convergence
 
-The region of convergence is 
+The region of convergence is the set of $z$ for which $X(z)$ actually converges:
 
 $$
 R_x = \\{z\in \mathbb{C} \mid  |X(z)| < \infty \\}
