@@ -4,6 +4,8 @@ $$
 I = \int_\mathbb{R} e\^{-x^2} \dd{x}
 $$
 
+A general approach is to push this into polar coordinates:
+
 \begin{align\*}
 I &= \sqrt{I^2} \\\\\
 &= \sqrt{\left(\int_\mathbb{R} e\^{-x^2} \dd{x}\right)\left(\int_\mathbb{R} e\^{-x^2} \dd{x}\right)} \\\\\
