@@ -52,7 +52,7 @@ Time Shift
 : $$x(t-t_0) \leftrightarrow e^{-st_0}X(s)$$ with RoC unchanged.
 
 Time Scaling
-: $$x(at) \leftrightarrow \frac{1}{|a|}X\left(\frac{s}{a}\right)$ with $\mathsf{RoC} = aR$.
+: $$x(at) \leftrightarrow \frac{1}{|a|}X\left(\frac{s}{a}\right)$$ with $\mathsf{RoC} = aR$.
 
 [[Time Differentiation|Time derivative]]
 : $$\dv{x(t)}{t} \longleftrightarrow sX(s)$$
