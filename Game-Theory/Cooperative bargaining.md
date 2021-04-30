@@ -10,12 +10,9 @@ $$
 
 Where $\mathbf{a}=(a_1, a_2)$, payoffs for both players. The **Nash bargaining solution is**
 
-$$
-\max (x_1 - d_1)(x_2 - d_2) 
-$$
 
 \begin{aligned}
-\max \quad & \frac{1}{2}w+C\sum_{i=1}^{N}{\xi_{i}}\\\\
+\max \quad & (x_1 - d_1)(x_2 - d_2) \\\\
 \textrm{s.t.} \quad & y_{i}(w\phi(x_{i}+b))+\xi_{i}-1\\
   &\xi\geq0    \\
 \end{aligned}
