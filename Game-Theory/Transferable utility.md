@@ -20,3 +20,4 @@ Properties
 
 Monotonicity
 : $$S \subseteq T \implies v(S) \leqslant v(T).$$
+
