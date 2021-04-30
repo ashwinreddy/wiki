@@ -19,4 +19,4 @@ v(\emptyset) = 0.
 $$
 
 Monotonicity
-: $S \subseteq T \implies v(S) \leqslant v(T).$
+: $$S \subseteq T \implies v(S) \leqslant v(T).$$
