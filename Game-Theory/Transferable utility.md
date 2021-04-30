@@ -17,3 +17,6 @@ and every other subset is 0.
 $$
 v(\emptyset) = 0.
 $$
+
+Monotonicity
+: $S \subseteq T \implies v(S) \leqslant v(T).$
