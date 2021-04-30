@@ -13,6 +13,6 @@ Where $\mathbf{a}=(a_1, a_2)$, payoffs for both players. The **Nash bargaining s
 
 \begin{aligned}
 \max \quad & (x_1 - d_1)(x_2 - d_2) \\\\
-\textrm{s.t.} \quad & y_{i}(w\phi(x_{i}+b))+\xi_{i}-1\\
+\textrm{s.t.} \quad & x_1 \geqslant d_1, \quad x_2 \geqslant d_2, \\
   &\xi\geq0    \\
 \end{aligned}
