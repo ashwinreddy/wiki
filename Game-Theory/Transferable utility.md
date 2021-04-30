@@ -11,3 +11,9 @@ v\left(\\{A, B, C \\}\right) = v\left(\\{A, B\\}\right) = v\left(\\{A, C\\}\righ
 $$
 
 and every other subset is 0.
+
+# Characteristic Function
+
+$$
+v(\nullset) = 0.
+$$
