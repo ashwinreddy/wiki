@@ -8,4 +8,8 @@ $$
 F(S, \mathbf{d}) = \mathbf{a} \in S.
 $$
 
-Where $\mathbf{a}=(a_1, a_2)$, payoffs for both players.
+Where $\mathbf{a}=(a_1, a_2)$, payoffs for both players. The **Nash bargaining solution is**
+
+$$
+\max (x_1 - d_1)(x_2 - d_2) 
+$$
