@@ -2,10 +2,10 @@
 
 # Example
 
-For example, if a right-handed glove seller and two left-handed glove sellers want to sell a pair of gloves to a customer, they will need to split the profit stably. 
+For example, if a right-handed glove seller _A_ and two left-handed glove sellers _B_ and _C_ want to sell a pair of gloves to a customer, they will need to split the profit stably. 
 
 We introduce a **characteristic function** $v$ defined on any subset of the the three players. Then,
 
 $$
-v\left(\\{1, 2, 3 \\}\right) = v\left(\\{1, 2\\}\right) = v\left(\\{1, 3\\}\right) = 1.
+v\left(\\{A, B, C \\}\right) = v\left(\\{A, B\\}\right) = v\left(\\{A, C\\}\right) = 1.
 $$
