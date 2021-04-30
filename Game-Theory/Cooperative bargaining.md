@@ -5,5 +5,7 @@
 Let $S$ be a bounded convex set in $\RR^2$ and $\mathbf{d}=(d_1, d_2)$. A solution is a
 
 $$
-F(S, \mathbf{d}) = \mathbf{a} \in S
+F(S, \mathbf{d}) = \mathbf{a} \in S.
 $$
+
+Where $\mathbf{a}=(a_1, a_2)$, payoffs for both players.
