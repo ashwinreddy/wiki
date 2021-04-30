@@ -1,1 +1,1 @@
-A **core** in a [[cooperative game]] is an allocation when the [[characteristic function|transferable utility#characteristic-function]]
+A **core** in a [[cooperative game]] is an allocation $\mathbf{\psi}(v)$ when the [[characteristic function|transferable utility#characteristic-function]] $v$ has been supplied.
