@@ -1,1 +1,1 @@
-**Shapley value**
+**Shapley value** is an allocation $\psi(v)$ in a [[cooperative game]].
