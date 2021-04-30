@@ -15,7 +15,7 @@ $$
 $$
 
 \begin{aligned}
-\max \quad & \frac{1}{2}w^{t}w+C\sum_{i=1}^{N}{\xi_{i}}\\
+\max \quad & \frac{1}{2}w+C\sum_{i=1}^{N}{\xi_{i}}\\
 \textrm{s.t.} \quad & y_{i}(w\phi(x_{i}+b))+\xi_{i}-1\\
   &\xi\geq0    \\
 \end{aligned}
