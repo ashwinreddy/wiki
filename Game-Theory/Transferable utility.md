@@ -7,5 +7,5 @@ For example, if a right-handed glove seller and two left-handed glove sellers wa
 We introduce a **characteristic function** $v$ defined on any subset of the the three players. Then,
 
 $$
-v(123) = v(12) = v(13) = 1.
+v(\\{1, 2, 3 \\}) = v(12) = v(13) = 1.
 $$
