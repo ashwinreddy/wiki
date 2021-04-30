@@ -1,0 +1,1 @@
+A **core** in a [[cooperative game]]
