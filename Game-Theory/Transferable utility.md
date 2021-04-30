@@ -9,3 +9,5 @@ We introduce a **characteristic function** $v$ defined on any subset of the the 
 $$
 v\left(\\{A, B, C \\}\right) = v\left(\\{A, B\\}\right) = v\left(\\{A, C\\}\right) = 1.
 $$
+
+and every other subset is 0.
