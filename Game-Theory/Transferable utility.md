@@ -1,0 +1,1 @@
+**Transferable utility** in a [[cooperative game]] means that players can trade utility on the side.
