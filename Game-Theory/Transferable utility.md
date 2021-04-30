@@ -15,5 +15,5 @@ and every other subset is 0.
 # Characteristic Function
 
 $$
-v(\nullset) = 0.
+v(\emptyset) = 0.
 $$
