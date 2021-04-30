@@ -14,9 +14,9 @@ and every other subset is 0.
 
 # Characteristic Function
 
-$$
-v(\emptyset) = 0.
-$$
+Properties
+
+* $$v(\emptyset) = 0.$$
 
 Monotonicity
 : $$S \subseteq T \implies v(S) \leqslant v(T).$$
