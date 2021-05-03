@@ -4,6 +4,8 @@ $$
 \sum_j z_{ij}a_{ij} \geqslant \sum_j z_{ij}a_{\ell j}, \qquad \forall i, \ell
 $$
 
+In other words, it is better to follow the moderator than do something different.
+
 
 ~~([[probability mass function]]) $z_{ij} = \mathbb{P}(\mathcal{R}=i, \mathcal{C}=j)$ in a two-player game where a person has no reason to deviate when a mediator tells them which move they should take.~~
 
