@@ -1,4 +1,4 @@
-A **congestion game** is one where players are trying to get from a start point to an end point while minimizing their time.
+A **congestion game** is a [[potential game]] where players are trying to get from a start point to an end point while minimizing their time.
 
 
 
