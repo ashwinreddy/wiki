@@ -2,7 +2,7 @@ A **congestion game** is a [[potential game]] where players are trying to get fr
 
 
 
-[[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Congestion-diagram.svg/640px-Congestion-diagram.svg.png]]
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Congestion-diagram.svg/640px-Congestion-diagram.svg.png|align=center]]
 
 
 
