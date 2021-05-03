@@ -1,4 +1,4 @@
-A **correlated equilibrium** is an equilibrium in a [[game]] where it's better for players to not work independently.
+A **correlated equilibrium** is an equilibrium in a [[game]] where it's better for players to not make choices independently.
 
 
 
