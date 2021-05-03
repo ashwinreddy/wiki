@@ -1,10 +1,11 @@
 A **correlated equilibrium** is an equilibrium in a [[general sum game]] where it's better for players to not make choices independently. We have a correlated equilibrium if the strategy 
 
-$$
+\begin{align}
 \sum_j z_{ij}a_{ij} \geqslant \sum_j z_{ij}a_{\ell j}, \qquad \forall i, \ell
-$$
+\sum_{i} z_{ij}b_{ij} \geqslant \sum_i z_{ij}b_{ik}, \qquad \forall j,k
+\end{align}
 
-In other words, it is better to follow the moderator than do something different.
+In other words, player 1 has no incentive to deviate from the moderator's instruction.
 
 
 ~~([[probability mass function]]) $z_{ij} = \mathbb{P}(\mathcal{R}=i, \mathcal{C}=j)$ in a two-player game where a person has no reason to deviate when a mediator tells them which move they should take.~~
