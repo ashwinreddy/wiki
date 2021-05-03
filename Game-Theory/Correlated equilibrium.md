@@ -5,7 +5,7 @@ A **correlated equilibrium** is an equilibrium in a [[general sum game]] where i
 \sum_{i} z_{ij}b_{ij} \geqslant \sum_i z_{ij}b_{ik}, \qquad \forall j,k \tag{Player 2}
 \end{align}
 
-In other words, neither player has incentive to deviate from the moderator's instruction.
+In other words, neither player has incentive to deviate from the moderator's instruction. We can also see if player $i$'s expected payoff conditioned on being told to play $j$ is at least as large as the expected payoff when playing $l$ conditioned on being told to play $j$.
 
 
 ~~([[probability mass function]]) $z_{ij} = \mathbb{P}(\mathcal{R}=i, \mathcal{C}=j)$ in a two-player game where a person has no reason to deviate when a mediator tells them which move they should take.~~
