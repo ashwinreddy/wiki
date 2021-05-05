@@ -7,6 +7,10 @@ Socially optimal traffic flow
 
 [[Price of anarchy]]
 
+# [[Nash equilibrium]]
+
+We want no driver to be able to take another path that has lower cost.
+
 # Braess Paradox
 
 Adding capacity to a system can result in increase of average driver travel time in equilibrium.
