@@ -1,5 +1,7 @@
 **Traffic/network flow game** consists of a [[directed graph]] with edges annotated by latency function $\ell_e(x)$ gives the cost if $x$ amount of traffic uses edge $e$ as well as a start and end node.
 
+A strategy here is a probability distribution over paths from start to end.
+
 Socially optimal traffic flow
 : Partition of traffic minimizing average latency.
 
