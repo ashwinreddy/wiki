@@ -12,6 +12,8 @@ A socially optimal traffic flow is partition of traffic minimizing average laten
 
 We want no driver to be able to take another path that has lower cost whenever a path has positive probability of being used.
 
+there's always a NE, provided some basic assumptions about the functions.
+
 # Price of anarchy
 
 Compare the cost for Nash to socially optimal.
