@@ -12,7 +12,7 @@ A socially optimal traffic flow is partition of traffic minimizing average laten
 
 We want no driver to be able to take another path that has lower cost whenever a path has positive probability of being used.
 
-# [[Price of anarchy]]
+# Price of anarchy
 
 Compare the cost for Nash to socially optimal.
 
@@ -20,7 +20,7 @@ $$
 \text{PoA} = \frac{\text{average travel time in worst Nash equilibrium}}{\text{average travel time in socially optimal outcome}}
 $$
 
-Often upper bounded by $4/3$.
+Often upper bounded by $4/3$ (e.g. affine latency functions).
 
 # Braess Paradox
 
