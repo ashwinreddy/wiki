@@ -2,10 +2,11 @@
 
 A strategy here is an element of $\Delta_N$, a [[probability mass function]] over the $N$ paths from start to end.
 
-Socially optimal traffic flow
-: Partition of traffic minimizing average latency.
-
 [[Price of anarchy]]
+
+# Socially optimal
+
+A socially optimal traffic flow is partition of traffic minimizing average latency.
 
 # [[Nash equilibrium]]
 
