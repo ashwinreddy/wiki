@@ -16,6 +16,12 @@ We want no driver to be able to take another path that has lower cost whenever a
 
 Compare the cost for Nash to socially optimal.
 
+$$
+\text{PoA} = \frac{\text{average travel time in worst Nash equilibrium}}{\text{average travel time in socially optimal outcome}}
+$$
+
+Often upper bounded by $4/3$.
+
 # Braess Paradox
 
 Adding capacity to a system can result in increase of average driver travel time in equilibrium.
