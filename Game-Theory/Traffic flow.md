@@ -9,7 +9,11 @@ Socially optimal traffic flow
 
 # [[Nash equilibrium]]
 
-We want no driver to be able to take another path that has lower cost.
+We want no driver to be able to take another path that has lower cost. So $f_p > 0$, then
+
+$$
+\sum_{e \in p} F_e \ell_e(F_e)
+$$
 
 # Braess Paradox
 
