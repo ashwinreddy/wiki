@@ -5,5 +5,5 @@ The **standard deviation** $\sigma$ is the square root of [[variance]].
 \end{equation}
 
 $$
-\sigma_X = \sqrt{\frac{1}{n}\sum_i (x_i - \bar{x})^2}
+\sigma_X = \sqrt{\frac{1}{n}\sum_{i=1}^N (x_i - \bar{x})^2}
 $$
