@@ -2,7 +2,7 @@
 
 A strategy here is an element of $\Delta_N$, a [[probability mass function]] over the $N$ paths from start to end.
 
-[[Price of anarchy]]
+
 
 # Socially optimal
 
@@ -11,6 +11,10 @@ A socially optimal traffic flow is partition of traffic minimizing average laten
 # [[Nash equilibrium]]
 
 We want no driver to be able to take another path that has lower cost whenever a path has positive probability of being used.
+
+# [[Price of anarchy]]
+
+Compare the cost for Nash to socially optimal.
 
 # Braess Paradox
 
