@@ -4,14 +4,14 @@
 \mathbf{X} \sim \mathcal{N}(\mathbf{\mu}, \mathbf{\Sigma})
 \end{equation}
 
-for mean vector $\mathbf{\mu}$ and [[covariance matrix]] $\mathbf{\Sigma}$.
+for mean vector $\mathbf{\mu}$ and [[covariance matrix]] $\mathbf{\Sigma}$. Then we can write
 
 
 \begin{equation}
-\mathbf{X} = \mathbf{\mu_x} + \mathbf{AW}
+\mathbf{X} = \mathbf{\mu_x} + \mathbf{AZ}
 \end{equation}
 
-where $A$ is an [[invertible matrix]] and $W$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
+where $A$ is an [[invertible matrix]] and $\mathbf{Z}$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
 
 # Properties
 
