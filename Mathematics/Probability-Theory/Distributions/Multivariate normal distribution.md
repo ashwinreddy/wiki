@@ -9,4 +9,4 @@ where $A$ is a full-rank matrix and $W$ is a column vector of [[iid]] [[standard
 
 # Properties
 
-* If $X$ and $Y$ are jointly Gaussian, the [[minimum mean square error]]
+* If $X$ and $Y$ are jointly Gaussian, the [[minimum mean square error]] is the [[Linear least squares estimation]]
