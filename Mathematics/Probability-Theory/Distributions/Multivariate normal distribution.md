@@ -5,7 +5,7 @@ $$
 X = \mu_x + AW
 $$
 
-where $A$ is an [[invertible]] matrix and $W$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
+where $A$ is an [[invertible matrix]] and $W$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
 
 # Properties
 
