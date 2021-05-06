@@ -10,4 +10,4 @@ This translates into $Y-\phi(X)$ being orthogonal to all other functions of $X$.
 \hat{Y} = \mathbb{E}\left[ Y \mid X\right] \tag{MMSE}
 \end{equation}
 
-This is the projection of $X$ onto all functions of $Y$.
+This is the projection of $X$ onto all functions of $Y$. If this turns out to be a linear (what about affine??) function, then it is also the [[LLSE|Linear least squares estimation]]
