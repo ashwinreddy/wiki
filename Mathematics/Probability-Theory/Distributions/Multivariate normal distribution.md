@@ -1,7 +1,7 @@
 **Multivariate normal distribution** generalizes the [[normal distribution]] to higher dimensions. We might also call this a **Gaussian vector** or **jointly Gaussian** [[random variable]].
 
 \begin{equation}
-\mathbf{X}
+\mathbf{X} \sim \mathcal{N}(\mathbf{\mu}, \mathbf{\Sigma})
 \end{equation}
 
 
