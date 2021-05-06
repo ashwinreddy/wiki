@@ -13,6 +13,14 @@ for mean vector $\mathbf{\mu}$ and [[covariance matrix]] $\mathbf{\Sigma}$. Then
 
 where $A$ is an [[invertible matrix]] and $\mathbf{Z}$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
 
+# Technical Details
+
+The joint density is given by
+
+$$
+f(x) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}exp\left(-\frac{1}{2}(x-\mu)^\mathsf{T}\Sigma^{-1}(x-\mu)\right)
+$$
+
 # Properties
 
 * If $X$ and $Y$ are jointly Gaussian, the [[MMSE|minimum mean square error]] is the [[LLSE|Linear least squares estimation]]
