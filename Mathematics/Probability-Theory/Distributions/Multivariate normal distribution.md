@@ -6,3 +6,7 @@ X = \mu_x + AW
 $$
 
 where $A$ is a full-rank matrix and $W$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
+
+# Properties
+
+* If $X$ and $Y$ are jointly Gaussian, the [[minimum mean square error]]
