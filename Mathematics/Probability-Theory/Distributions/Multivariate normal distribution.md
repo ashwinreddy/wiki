@@ -1,8 +1,10 @@
-**Multivariate normal distribution** generalizes the [[normal distribution]] to higher dimensions. We might also call this a **Gaussian vector** or **jointly Gaussian** [[random variable]].
+**Multivariate normal distribution** generalizes the [[normal distribution]] to higher dimensions. We might also call this a **Gaussian vector** or **jointly Gaussian** [[random variable]]. We would denote
 
 \begin{equation}
 \mathbf{X} \sim \mathcal{N}(\mathbf{\mu}, \mathbf{\Sigma})
 \end{equation}
+
+for mean vector $\mathbf{\mu}$ and [[covariance matrix]] $\mathbf{\Sigma}$.
 
 
 \begin{equation}
