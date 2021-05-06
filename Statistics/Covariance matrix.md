@@ -1,5 +1,5 @@
-The **covariance matrix** for a [[random vector]] $\vec{X}$ is the positive semi-[[definite symmetric matrix]] of the [[covariance]] of each pair of elements in the vector.
+The **covariance matrix** for a [[random vector]] $\mathbf{X}$ is the positive semi-[[definite symmetric matrix]] of the [[covariance]] of each pair of elements in the vector.
 
 $$
-\Sigma = \mathbb{E}\left[\left(\vec{X}-\mu_\vec{X}\right)\left(\vec{X}-\mu_\vec{X}\right)^\mathsf{T}\right]
+\Sigma = \mathbb{E}\left[\left(\mathbf{X}-\mu_\mathbf{X}\right)\left(\mathbf{X}-\mu_\mathbf{X}\right)^\mathsf{T}\right]
 $$
