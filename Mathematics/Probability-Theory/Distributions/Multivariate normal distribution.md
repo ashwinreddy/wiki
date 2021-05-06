@@ -18,7 +18,7 @@ where $A$ is an [[invertible matrix]] and $\mathbf{Z}$ is a column vector of [[i
 The joint density is given by
 
 $$
-f(x) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}exp\left(-\frac{1}{2}(x-\mu)\^\mathsf{T}\Sigma^{-1}(x-\mu)\right)
+f(x) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}\exp\left(-\frac{1}{2}(x-\mu)\^\mathsf{T}\Sigma^{-1}(x-\mu)\right)
 $$
 
 # Properties
