@@ -5,4 +5,6 @@
 L[X \mid Y] = \mu_X + \Sigma_{X,Y}\Sigma_Y^{-1}\left(Y - \mu_y\right) \tag{LLSE}
 \end{equation}
 
+We have three vectors 1, $X$, and $Y$ -- we want to find $Y$ given the data $X$, it terms of a linear combination of $X$ and 1.
+
 Equation \ref{eq:lsse} projects onto affine functions of $Y$ (c.f. [[minimum mean square error]]).
