@@ -23,7 +23,12 @@ $$
 
 # Properties
 
-* If $X$ and $Y$ are jointly Gaussian, the [[MMSE|minimum mean square error]] is the [[LLSE|Linear least squares estimation]]
+* If $X$ and $Y$ are jointly Gaussian, the [[MMSE|minimum mean square error]] is the [[LLSE|Linear least squares estimation]] and we have
+
+$$
+\mathbb{E}[Y|X] = \mu_Y + \Sigma_{Y,X}\Sigma^{-1}_X X
+$$
+
 * Also we can write
 
 $$
