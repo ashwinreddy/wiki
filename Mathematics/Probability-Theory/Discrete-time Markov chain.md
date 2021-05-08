@@ -1,6 +1,7 @@
 A **discrete-time Markov chain (DTMC)** is a [[random process]] $(X_n)_{n \in \mathbb{N}}$ on a state space $\mathcal{X}$, satisfying the [[Markov property]]. 
 
 [[https://miro.medium.com/max/594/1*udOn3pR6SqrKU37KujfdPg.png|align=center]]
+
 > Example of chain
 
 We'll consider temporally homogenous Markov chains, which means
