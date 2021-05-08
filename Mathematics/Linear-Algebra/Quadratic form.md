@@ -9,5 +9,5 @@ Q(v_1, v_2, \dots, v_n) = Q_{ij}v_i v_j
 $$
 
 $$
-\begin{bmatrix} x_1 & x_2 \end{bmatrix} \begin{bmatrix} a_{11} & a_{12} \\\\ a_{21} & a_{22} \end{bmatrix} \begin{bmatrix} x_1 \\\\ x_2 \end{bmatrix}
+\begin{bmatrix} x_1 & x_2 \end{bmatrix} \begin{bmatrix} a_{11} & a_{12} \\\\ a_{21} & a_{22} \end{bmatrix} \begin{bmatrix} x_1 \\\\ x_2 \end{bmatrix} = a_11 x_1^2
 $$
