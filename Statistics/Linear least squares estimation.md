@@ -7,7 +7,7 @@ L[Y \mid X] = \mu_Y + \frac{\sigma_{XY}}{\sigma_X^2}(X - \mu_X)
 This estimator is unbiased in the sense that
 
 $$
-\mathbb{E}[Y - a - bX] = 0,
+\mathbb{E}[Y - L[Y \mid X]] = 0,
 $$
 
 and it achieves error of
