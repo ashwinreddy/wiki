@@ -3,3 +3,5 @@ The **linear least squares estimator (LLSE)** estimates a [[random variable]] $Y
 \begin{equation}
 L[Y \mid X] = \mu_Y + \frac{\sigma_{XY}}{\sigma_X^2}(X - \mu_X)
 \end{equation}
+
+where $\mu$ is mean and $\sigma_{XY}$ is [[covariance]] while $\sigma_X^2$ is [[variance]]
