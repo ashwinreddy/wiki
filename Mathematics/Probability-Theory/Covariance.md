@@ -12,4 +12,4 @@ $$
 
 # Properties
 
-* If $X$ and $Y$ are [[independent|independence]], then $\operatorname{cov}(X, Y) = 0$.
+* If $X$ and $Y$ are [[independent|independence]], then $\operatorname{cov}(X, Y) = 0$. But you can't assume the converse in general!
