@@ -1,4 +1,6 @@
-A **vector space** $\mathcal{V}$ is a [[set]] of [[vectors|vector]] you can add together and scale. 
+A **vector space** $\mathcal{V}$ is a [[set]] of [[vectors|vector]] you can add together and scale. Any finitely dimensional vector space is essentially identical to $\RR^n$.
+
+# Technical Details
 
 The addition operation is a [[binary operation]].
 
