@@ -1,4 +1,8 @@
-The **linear least squares estimator (LLSE)** is the [[affine function]]
+The **linear least squares estimator (LLSE)** is the affine function of a [[random variable]] $X$ that is closest to random variable $Y$, i.e. the
+
+$$
+\arg\min \mathbb{E}\left[(Y -a  - bX)^2\right]
+$$
 
 
 
