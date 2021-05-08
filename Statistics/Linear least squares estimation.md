@@ -7,7 +7,7 @@ L[Y \mid X] = \mu_Y + \frac{\sigma_{XY}}{\sigma_X^2}(X - \mu_X)
 This estimator achieves error of
 
 $$
-\mathbb{E}[(Y - L[Y \mid X])^2] = \sigma_Y^2 - \frac{\operatorname{cov}(X,Y)^2}{\sigma_X^2}
+\mathbb{E}[(Y - L[Y \mid X])^2] = \sigma_Y^2 - \frac{\operatorname{cov}(X,Y)\^2}{\sigma_X^2}
 $$
 
 where $\mu$ is mean and $\sigma_{XY}$ is [[covariance]] while $\sigma_X^2$ is [[variance]].
