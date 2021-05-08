@@ -1,4 +1,10 @@
-The **linear least squares estimator (LLSE)** is the affine function of a [[random variable]] $X$ that is closest to random variable $Y$, i.e. minimizing $\mathbb{E}\left[(Y -a  - bX)^2\right]$. The estimate is
+The **linear least squares estimator (LLSE)** estimates a [[random variable]] $Y$ given a correlated random variable $X$ by finding the best affine/linear function of $X$. In other words we're trying to project $Y$ onto $U = \operatorname{span}\\{1, X\\}$.
+
+
+
+
+
+is the affine function of a [[random variable]] $X$ that is closest to random variable $Y$, i.e. minimizing $\mathbb{E}\left[(Y -a  - bX)^2\right]$. The estimate is
 
 \begin{equation}
 \label{eq:lsse}
