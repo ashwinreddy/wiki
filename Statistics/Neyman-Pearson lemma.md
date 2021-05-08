@@ -13,7 +13,7 @@ L(y) = \frac{P_{Y \mid X}(y \mid x = 1)}{P_{Y \mid X}(y \mid x = 0)} \tag{Likeli
 where $\lambda, \gamma$ chosen so that
 
 $$
-\Pr\left(\hat{X}(Y) = 1 \mid X = 0 \right) \leqslant \beta.
+\Pr\left(Y = 1 \mid X = 0 \right) \leqslant \beta.
 $$
 
 # Example
