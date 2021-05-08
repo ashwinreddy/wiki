@@ -4,7 +4,13 @@ The **linear least squares estimator (LLSE)** estimates a [[random variable]] $Y
 L[Y \mid X] = \mu_Y + \frac{\sigma_{XY}}{\sigma_X^2}(X - \mu_X)
 \end{equation}
 
-This estimator achieves error of
+This estimator is unbiased in the sense that
+
+$$
+\mathbb{E}[Y - a - bX] = 0,
+$$
+
+and it achieves error of
 
 $$
 \mathbb{E}[(Y - L[Y \mid X])^2] = \sigma_Y^2 - \frac{\sigma_{XY}\^2}{\sigma_X^2}
