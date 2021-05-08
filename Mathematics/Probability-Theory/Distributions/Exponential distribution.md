@@ -12,6 +12,8 @@ $$
 
 # Properties
 
+<<Note("The most interesting thing about exponential distributions are that they are memoryless!")>>
+
 |Property|Value|
 |--------|-----|
 |[[Expected value]]|$\frac{1}{\lambda}$|
