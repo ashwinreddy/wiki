@@ -10,7 +10,7 @@ $$
 Computationally, it is more convenient to write
 
 $$
-\mathbb{V}[X] = \mathbb{E}\left[X^2\right] - \mu^2
+\mathbb{V}[X] = \mathbb{E}\left[X^2\right] - \mu_X^2
 $$
 
 # Covariance
