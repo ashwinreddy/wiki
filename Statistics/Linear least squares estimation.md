@@ -1,4 +1,10 @@
-**Linear least squares estimation (LLSE)**. The estimate of $Y$ given $X$ is
+The **linear least squares estimator (LLSE)** is the [[affine function]]
+
+
+
+
+
+. The estimate of $Y$ given $X$ is
 
 \begin{equation}
 \label{eq:lsse}
