@@ -5,3 +5,5 @@ If $p_n$ is a sequence of real numbers in $[0, 1]$ such that the sequence $np_n$
 $$
 \lim_{n \to \infty} \binom{n}{k} p_n^k (1-p_n)^{n-k} = e\^{-\lambda}\frac{\lambda^k}{k!}
 $$
+
+In other words, $Binomial(n, p)$ reaches $\mathsf{Poisson}$
