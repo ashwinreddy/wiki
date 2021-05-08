@@ -1,4 +1,8 @@
-A **discrete-time Markov chain (DTMC)** is a [[random process]] $(X_n)_{n \in \mathbb{N}}$ on a state space $\mathcal{X}$, satisfying the [[Markov property]]. We'll consider temporally homogenous Markov chains, which means
+A **discrete-time Markov chain (DTMC)** is a [[random process]] $(X_n)_{n \in \mathbb{N}}$ on a state space $\mathcal{X}$, satisfying the [[Markov property]]. 
+
+[[https://miro.medium.com/max/594/1*udOn3pR6SqrKU37KujfdPg.png]]
+
+We'll consider temporally homogenous Markov chains, which means
 
 $$
 p_{ij} \triangleq \Pr(X_{n+1} = j \mid X_n = i), \tag{Transition Probability Matrix}
