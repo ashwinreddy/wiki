@@ -12,7 +12,7 @@ $$
 
 # Properties
 
-<<Note("The most interesting thing about exponential distributions are that they are memoryless!")>>
+<<Note("The most interesting thing about exponential distributions are that they are [[memoryless]]!")>>
 
 |Property|Value|
 |--------|-----|
