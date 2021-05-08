@@ -10,6 +10,10 @@ Such that
 X \sim \mathcal{N}(\mu, \sigma^2) \iff X = \mu + \sigma Z \iff \varphi(x; \mu, \sigma) = {\exp\left( - \frac{1}{2\sigma^2}(x- \mu)^2 \right) \over \sigma \sqrt{2\pi}}   
 \end{equation}
 
+\begin{equation}
+\mathcal{N}(0, \sigma^2) = \sigma \mathcal{N}(0, 1)
+\end{equation}
+
 
 # Standard Normal Distribution
 
