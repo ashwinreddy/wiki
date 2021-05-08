@@ -11,3 +11,13 @@ $$
 $$
 
 where $\mu$ is mean and $\sigma_{XY}$ is [[covariance]] while $\sigma_X^2$ is [[variance]].
+
+# Orthogonal Updates
+
+Suppose we want to find $L[Y \mid X, Z]$. It turns out that
+
+$$
+L[Y \mid X, Z] = L[Y \mid X] + L[Y \mid \tilde{Z}]
+$$
+
+where $\tilde{Z} = Z - L[Z \mid X]$
