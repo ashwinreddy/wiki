@@ -1,4 +1,4 @@
-A [[random variable]] is **memoryless** if
+A **memoryless** [[random variable]] $X$ has the property that
 
 $$
 {\displaystyle \Pr(X>t+s\mid X>t)=\Pr(X>s).}
