@@ -1,0 +1,1 @@
+The **Gram-Schmidt process** generates orthonormal vectors spanning the same space as a set of given finite, linearly independent vectors.
