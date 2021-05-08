@@ -8,10 +8,10 @@ for mean vector $\mathbf{\mu}$ and [[covariance matrix]] $\mathbf{\Sigma}$. Then
 
 
 \begin{equation}
-\mathbf{X} = \mathbf{\mu}_x + \mathbf{AZ}
+\mathbf{X} = \mathbf{\mu}_x + \mathbf{AW}
 \end{equation}
 
-where $A$ is an [[invertible matrix]] and $\mathbf{Z}$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
+where $A$ is an [[invertible matrix]] and $\mathbf{W}$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
 
 
 # Technical Details
