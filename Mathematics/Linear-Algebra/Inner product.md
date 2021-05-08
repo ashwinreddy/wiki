@@ -1,4 +1,4 @@
-An **inner product** for a [[vector space]] $\mathcal{V}$ is any symmetric, PSD, bilinear map
+An **inner product** for a [[vector space]] $\mathcal{V}$ is any symmetric, [[PSD|definite symmetric matrix]], bilinear map
 
 \begin{align}
 \langle\cdot , \cdot \rangle: \mathcal{V} \times \mathcal{V} &\to \RR \\\\
