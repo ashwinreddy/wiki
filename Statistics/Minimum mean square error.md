@@ -12,4 +12,10 @@ This translates into
 \hat{Y} = \mathbb{E}\left[ Y \mid X\right] \tag{MMSE}
 \end{equation}
 
-This is the projection of $X$ onto all functions of $Y$. If this turns out to be a linear (what about affine??) function, then it is also the [[LLSE|Linear least squares estimation]]
+This is the projection of $X$ onto all functions of $Y$. If this turns out to be a linear (what about affine??) function, then it is also the [[LLSE|Linear least squares estimation]].
+
+The necessary and sufficient condition
+
+$$
+\mathbb{E}\left[Y - \phi(X)\mid X\right] = 0.
+$$
