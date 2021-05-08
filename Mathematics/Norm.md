@@ -1,5 +1,6 @@
 A **norm** is a [[function]]
 
-$$
-\lVert \cdot \rVert: V \to [0, \infty)
-$$
+\begin{align}
+\lVert \cdot \rVert: V &\to [0, \infty) \\\\
+\lVert v \rVert &\mapsto \sqrt{\langle v, v \rangle}
+\end{align}
