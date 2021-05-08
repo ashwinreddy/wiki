@@ -20,4 +20,4 @@ $$
 L[Y \mid X, Z] = L[Y \mid X] + L[Y \mid \tilde{Z}]
 $$
 
-where $\tilde{Z} = Z - L[Z \mid X]$
+where $\tilde{Z} = Z - L[Z \mid X]$ is the **innovation**.
