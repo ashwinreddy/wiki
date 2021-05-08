@@ -24,7 +24,7 @@ $$
 
 # Properties
 
-* The linear combination of jointly Gaussian random variables is distributed [[normally|normal distribution]]
+* The linear combination of jointly Gaussian random variables $v^\mathsf{T}X$ is distributed [[normally|normal distribution]] as a single-variate.
 
 * If $X$ and $Y$ are jointly Gaussian, the [[MMSE|minimum mean square error]] is the [[LLSE|Linear least squares estimation]] and we have
 
