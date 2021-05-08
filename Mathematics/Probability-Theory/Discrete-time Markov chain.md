@@ -1,4 +1,4 @@
-A **discrete-time Markov chain (DTMC)** is a [[random process]] $(X_n)_{n \in \mathbb{N}}$ on a state space $\mathcal{X}$, satisfying the [[Markov property]]. 
+A **discrete-time Markov chain (DTMC)** is a [[random process]] $(X_n)_{n \in \mathbb{N}}$ on a state space $\mathcal{X}$, satisfying the [[Markov property]]. Typically, we visualize it as a [[graph]]
 
 [[https://miro.medium.com/max/594/1*udOn3pR6SqrKU37KujfdPg.png|align=center]]
 
