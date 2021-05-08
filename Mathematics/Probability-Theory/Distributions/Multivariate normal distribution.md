@@ -13,6 +13,7 @@ for mean vector $\mathbf{\mu}$ and [[covariance matrix]] $\mathbf{\Sigma}$. Then
 
 where $A$ is an [[invertible matrix]] and $\mathbf{Z}$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
 
+
 # Technical Details
 
 The joint density is given by
@@ -22,6 +23,8 @@ f(x) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}\exp\left(-\frac{1}{2}(x-\mu)\^\math
 $$
 
 # Properties
+
+* The linear combination of jointly Gaussian random variables is distributed [[normally|normal distribution]]
 
 * If $X$ and $Y$ are jointly Gaussian, the [[MMSE|minimum mean square error]] is the [[LLSE|Linear least squares estimation]] and we have
 
