@@ -9,7 +9,7 @@ The **Neyman-Pearson lemma** tells us how to do inference for [[binary hypothesi
 says that given $\beta \in [0, 1]$, optimal decision rule is a (randomized) threshold test.
 
 \begin{equation}
-L(y) = \frac{P_{Y \mid X}(y \mid 1)}{P_{Y \mid X}(y \mid 0)} \tag{Likelihood ratio}
+L(y) = \frac{P_{Y \mid X}(y \mid x = 1)}{P_{Y \mid X}(y \mid x = 0)} \tag{Likelihood ratio}
 \end{equation}
 
 \begin{equation}
