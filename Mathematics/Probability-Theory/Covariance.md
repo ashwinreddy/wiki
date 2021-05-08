@@ -9,3 +9,7 @@ Covariance is [[bilinear map]], so
 $$
 \operatorname{cov}(cX,Y) = \operatorname{cov}(X,cY) = c\operatorname{cov}(X,Y)
 $$
+
+# Properties
+
+* If $X$ and $Y$ are [[independent|independence]], then $\operatorname{cov}(X, Y) = 0$.
