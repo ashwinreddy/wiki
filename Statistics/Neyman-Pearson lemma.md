@@ -16,3 +16,6 @@ $$
 \Pr\left(\hat{X}(Y) = 1 \mid X = 0 \right) \leqslant \beta.
 $$
 
+# Example
+
+Let's say the null hypothesis is $Y$ is a $\mathsf{Bernoulli}(1/4)$ and the alternate is $Y$ is a $\mathsf{Bernoulli}(3/4)$.
