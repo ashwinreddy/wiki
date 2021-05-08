@@ -27,7 +27,7 @@ $$
 
 # Properties
 
-* The linear combination of jointly Gaussian random variables $v^\mathsf{T}X$ is distributed [[normally|normal distribution]] as a single-variate. It has mean $v^\mathsf{T}\mathbf{\mu}$ and the variance is 
+* The linear combination of jointly Gaussian random variables $v^\mathsf{T}X$ is distributed [[normally|normal distribution]] as a single-variate. It has mean $v^\mathsf{T}\mathbf{\mu}$ and the variance is $v^\mathsf{T}\mathbf{A}\mathbf{A}^\mathsf{T}\mathsf{v}$
 
 * If $X$ and $Y$ are jointly Gaussian, the [[MMSE|minimum mean square error]] is the [[LLSE|Linear least squares estimation]] and we have
 
