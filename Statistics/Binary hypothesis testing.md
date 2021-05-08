@@ -1,4 +1,4 @@
-**Binary hypothesis testing** is [[hypothesis testing]]. We have $X \in \\{0, 1\\}$ and
+**Binary hypothesis testing** is [[hypothesis testing]] where we have $X \in \\{0, 1\\}$ and
 
 \begin{align}
 H_0: Y \sim P_{Y \mid X = 0} \tag{Null Hypothesis} \\\\
