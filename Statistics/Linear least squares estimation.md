@@ -1,7 +1,7 @@
 The **linear least squares estimator (LLSE)** is the affine function of a [[random variable]] $X$ that is closest to random variable $Y$, i.e. the
 
 $$
-L[X \mid Y] = \arg\min_{a, b \in \RR} \mathbb{E}\left[(Y -a  - bX)^2\right]
+L[Y \mid X] = \arg\min_{a, b \in \RR} \mathbb{E}\left[(Y -a  - bX)^2\right]
 $$
 
 
