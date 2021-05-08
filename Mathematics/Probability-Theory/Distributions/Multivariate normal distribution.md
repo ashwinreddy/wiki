@@ -6,9 +6,12 @@
 
 for mean vector $\mathbf{\mu}$ and [[covariance matrix]] $\mathbf{\Sigma}$. Then we can write
 
+$$
+\mathbf{Z} = \mathbf{AW}
+$$
 
 \begin{equation}
-\mathbf{X} = \mathbf{\mu}_x + \mathbf{AW}
+\mathbf{X} = \mathbf{\mu}_x + \mathbf{Z} 
 \end{equation}
 
 where $A$ is an [[invertible matrix]] and $\mathbf{W}$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
