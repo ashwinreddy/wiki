@@ -21,5 +21,5 @@ $$
 Let's say the null hypothesis is $Y$ is a $\mathsf{Bernoulli}(1/4)$ and the alternate is $Y$ is a $\mathsf{Bernoulli}(3/4)$. Then the likelihood ratio is
 
 $$
-L(y) = \frac{P_{Y \mid X}(y \mid x = 1)}{P_{Y \mid X}(y \mid x = 0)} = \begin{cases} y = 1 \\\\ y = 0\end{cases}
+L(y) = \frac{P_{Y \mid X}(y \mid x = 1)}{P_{Y \mid X}(y \mid x = 0)} = \begin{cases} \frac{3/4}{1/4} = 3 & y = 1 \\\\ \frac{1/4}{3/4} = \frac{1}{3} & y = 0\end{cases}
 $$
