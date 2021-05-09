@@ -6,7 +6,8 @@ Suppose $\lambda_i = \lambda$ and $\mu_i = \mu$. The balance equation tells us
 
 \begin{gather}
 \pi(k-1)\lambda - \pi(k)\mu = 0 \\\\
-\pi(k) = \left(\frac{\lambda}{\mu}\right)\pi(k-1)
+\pi(k) = \left(\frac{\lambda}{\mu}\right)\pi(k-1) \\\\
+\pi(k) = \left(\frac{\lambda}{\mu}\right)^k \pi(0)
 \end{gather}
 
 
