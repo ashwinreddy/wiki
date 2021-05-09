@@ -59,5 +59,5 @@ Let's say a Poisson process bus stop has been running for a long time. Let's say
 Say that the last arrival is $U$, you showed up at $t\^\*$ and the next arrival is $V$. The interarrival time is given by 
 
 $$
-V - U = (V - t^*) + (t^* - U)
+V - U = (V - t^\*) + (t^* - U)
 $$
