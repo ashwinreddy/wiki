@@ -29,6 +29,8 @@ Every irreducible finite-state MC is positive recurrent.
 
 A state $i$ is **recurrent** if starting in state $i$ the chain will revisit $i$ at some point with probability one. It is **positive recurrent** if that return will happen after finite time and **null recurrent** if not. If the state will not be revisisted almost surely, then it is a **transient state**.
 
+<<Note("The states in a class are either all recurrent or all transient.")>>
+
 $$
 T_i = \min \left\\{ n \geqslant 1: X_n = i \right\\} \tag{Time to return}
 $$
