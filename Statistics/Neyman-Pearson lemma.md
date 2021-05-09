@@ -17,3 +17,5 @@ $$
 $$
 
 # Example
+
+We flip a coin until we see heads. The null hypothesis is that the bias is $p$ and the alternate is that the bias is $q > p$.
