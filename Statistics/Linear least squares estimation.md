@@ -4,7 +4,7 @@ The **linear least squares estimator (LLSE)** estimates a [[random variable]] $Y
 L[Y \mid X] = \mu_Y + \frac{\sigma_{XY}}{\sigma_X^2}(X - \mu_X)
 \end{equation}
 
-If $X$ and $Y$ are uncorrelated, then $L[Y \mid X] = \mu_Y$
+If $X$ and $Y$ are uncorrelated, then $L[Y \mid X] = \mu_Y$.
 
 The sufficient and neccessary conditions:
 
