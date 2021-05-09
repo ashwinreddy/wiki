@@ -11,7 +11,7 @@ y_n &= cx_n + w_n
 
 \begin{align}
 \hat{x}\_{n \mid n} = \hat{x}_{n \mid n - 1} + k_n \tilde{y}_n \\\\
-\tilde{y}_n  = y_n - a\hat{x}_{n - 1\mid n - 1}
+\tilde{y}\_n  = y_n - a\hat{x}_{n - 1\mid n - 1}
 \end{align}
 
 # Matrix model
