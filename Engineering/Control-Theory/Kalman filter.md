@@ -13,6 +13,8 @@ First, let $\hat{x}_{0 \mid 0} = \mathbb{E}[X_0]$ and $\hat{\sigma}^2\_{0 \mid 0
 1. Compute $\hat{x}_{1 \mid 0}$ and $\hat{\sigma}^2\_{1 \mid 0}$.
 2. Compute $k_1$
 3. Compute $\hat{x}_{1 \mid 1}$.
+4. Compute $\hat{\sigma}^2_{1 \mid 1}$
+5. Compute $\hat{x}_{2 \mid 1}$
 
 \begin{align}
 \hat{x}\_{n \mid n} &= \hat{x}_{n \mid n - 1} + k_n \tilde{y}_n \\\\
