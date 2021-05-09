@@ -10,6 +10,8 @@ Suppose $\lambda_i = \lambda$ and $\mu_i = \mu$. The balance equation tells us
 \pi(k) = \left(\frac{\lambda}{\mu}\right)^k \pi(0)
 \end{gather}
 
+We need to ensure that $\sum_i \pi(i) = 1$
+
 
 Then, the stationary distribution $\pi$ looks like
 
