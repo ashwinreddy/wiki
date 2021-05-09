@@ -6,10 +6,6 @@ The **linear least squares estimator (LLSE)** estimates a [[random variable]] $Y
 \boxed{L[Y \mid X] = \mu_Y + \frac{\sigma_{XY}}{\sigma_X^2}(X - \mu_X)}
 \end{equation}
 
-\begin{equation}
-L[Y \mid X] = \mathbb{E}[Y] + \frac{\mathbb{E}[XY] - \mathbb{E}[X]\mathbb{E}[Y]}{\mathbb{V}[X]}(X - \mathbb{E}[X])
-\end{equation}
-
 
 If $X$ and $Y$ are uncorrelated, then $L[Y \mid X] = \mu_Y$.
 
