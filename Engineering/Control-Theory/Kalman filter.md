@@ -24,7 +24,7 @@ $$
 First, let $\hat{x}_{0 \mid 0} = \mathbb{E}[X_0]$ and $\hat{\sigma}^2\_{0 \mid 0} = \mathbb{V}[X_0]$. 
 
 $$
-\hat{x}_{n \mid n - 1} = a\hat{x}_{n-1 \mid n-1}
+\hat{x}\_{n \mid n - 1} = a\hat{x}_{n-1 \mid n-1}
 $$
 
 \begin{align}
