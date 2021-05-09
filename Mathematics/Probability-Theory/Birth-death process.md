@@ -10,7 +10,11 @@ Suppose $\lambda_i = \lambda$ and $\mu_i = \mu$. The balance equation tells us
 \pi(k) = \left(\frac{\lambda}{\mu}\right)^k \pi(0)
 \end{gather}
 
-We need to ensure that $\sum_i \pi(i) = 1$
+We need to ensure that $\sum_{i=0}^\infty \pi(i) = 1$, which means
+
+$$
+\pi(0) \cdot \frac{1}{1 - \frac{\lambda}{\mu}} = 1
+$$
 
 
 Then, the stationary distribution $\pi$ looks like
