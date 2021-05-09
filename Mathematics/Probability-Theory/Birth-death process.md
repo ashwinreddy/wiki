@@ -5,5 +5,5 @@
 Suppose $\lambda_i = \lambda$ and $\mu_i = \mu$. Then, the stationary distribution $\pi$ looks like
 
 $$
-\pi(k) = (1 - \frac{\lambda}{\mu})\left(\frac{\lambda}{\mu}\right)^k
+\pi(k) = \left(1 - \frac{\lambda}{\mu}\right)\left(\frac{\lambda}{\mu}\right)^k
 $$
