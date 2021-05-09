@@ -1,4 +1,4 @@
-**Hitting time** for [[Markov chain]] $X_n$ with states $S$ for some subset $A \subset S$ is [[random variable]]
+The **hitting time** for [[Markov chain]] $X_n$ with states $S$ for some subset $A \subset S$ is [[random variable]]
 
 \begin{equation}
 T_A = \min \\{ n \geqslant 0 : X_n \in A\\}, \label{eq:hitting-time}
