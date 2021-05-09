@@ -27,3 +27,4 @@ t_i &= \mathbb{E}(T_A \mid X_0 = i) \\\\
 \end{align}
 
 # [[Continuous-time Markov chain]]
+
