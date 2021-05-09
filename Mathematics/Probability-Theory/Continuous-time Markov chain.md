@@ -2,7 +2,7 @@ A **continuous-time Markov chain (CTMC)** is a [[Markov chain]] where transition
 
 [[_TOC_]]
 
-# Technical Construction
+# Construction
 
 It is made up of
 
