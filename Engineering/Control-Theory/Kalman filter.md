@@ -5,11 +5,10 @@ X_n &= AX_{n-1} + V_n \tag{System Evolution} \\\\
 Y_n &= CX_n + W_n \tag{Observation}
 \end{align}
 
-[[_TOC_]]
 
 # Scalar filter
 
-The filter estimates are given by
+The filter estimates if we collapse these to scalars are given by
 
 \begin{align}
 \hat{x}\_{n \mid n} &= \hat{x}_{n \mid n - 1} + k_n \tilde{y}_n \\\\
