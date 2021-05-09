@@ -54,4 +54,4 @@ where the $U$ are [[order statistic]] of $n$ $\mathsf{Uniform}(0, t)$ random var
 From the perspective of a given point, the expected interarrival time is doubled. A Poisson process backwards is still a Poisson process (?).
 
 
-Let's say a Poisson process has been running for a long time. Let's say the rate is $4$ per hour. So the expected arrival time is 15 minutes.
+Let's say a Poisson process bus stop has been running for a long time. Let's say the rate is $4$ per hour. So the expected arrival time is 15 minutes. Now you try to test it out yourself by showing up to the bus stop. You'll actually find that it takes about 30 minutes, on average, for the bus to come.
