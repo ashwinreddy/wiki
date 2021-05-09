@@ -19,6 +19,7 @@ $$
 # Algorithm
 
 1. Find the likelihood function $L(y)$
+2. Decide to reject $H_0$ if $y > \alpha$ or $y < \alpha$, denote as $f(y,\alpha)$
 2. Determine the $\alpha$ for which $P(f(y, \alpha) \mid X = 0) \leqslant \beta$
 
 # Example
