@@ -23,6 +23,10 @@ $$
 
 First, let $\hat{x}_{0 \mid 0} = \mathbb{E}[X_0]$ and $\hat{\sigma}^2\_{0 \mid 0} = \mathbb{V}[X_0]$. 
 
+$$
+\hat{x}_{n \mid n - 1} = a\hat{x}_{n-1 \mid n-1}
+$$
+
 \begin{align}
 \hat{x}\_{n \mid n} &= \hat{x}_{n \mid n - 1} + k_n \tilde{y}_n \\\\
 \tilde{y}\_n  &= y_n - a\hat{x}\_{n - 1\mid n - 1} \\\\
