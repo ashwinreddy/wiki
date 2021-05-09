@@ -9,6 +9,8 @@ x_n  &= ax_{n-1} + v_n \\\\
 y_n &= cx_n + w_n
 \end{align}
 
+The filter estimates are given by
+
 \begin{align}
 \hat{x}\_{n \mid n} = \hat{x}_{n \mid n - 1} + k_n \tilde{y}_n \\\\
 \tilde{y}\_n  = y_n - a\hat{x}\_{n - 1\mid n - 1}
