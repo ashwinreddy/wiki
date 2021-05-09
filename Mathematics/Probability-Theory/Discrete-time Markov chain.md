@@ -2,7 +2,7 @@ A **discrete-time Markov chain (DTMC)** is a [[random process]] $(X_n)_{n \in \m
 
 [[https://miro.medium.com/max/594/1*udOn3pR6SqrKU37KujfdPg.png|align=center]]
 
-> Example of chain
+> Figure 1: Example of a DTMC
 
 We'll consider temporally homogenous Markov chains, which means
 
