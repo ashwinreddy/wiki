@@ -1,1 +1,1 @@
-A **M/M/c** queue.
+A **M/M/c** queue is a [[CTMC|continuous-time Markov chain]]
