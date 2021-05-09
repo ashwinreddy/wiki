@@ -6,6 +6,8 @@ The **linear least squares estimator (LLSE)** estimates a [[random variable]] $Y
 \boxed{L[Y \mid X] = \mu_Y + \frac{\sigma_{XY}}{\sigma_X^2}(X - \mu_X)}
 \end{equation}
 
+$L[Y \mid X]$ is a [[linear map]] in $Y$!
+
 If $X$ and $Y$ are uncorrelated, then $L[Y \mid X] = \mu_Y$.
 
 The sufficient and neccessary conditions:
