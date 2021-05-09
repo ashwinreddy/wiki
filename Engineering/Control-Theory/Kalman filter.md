@@ -13,7 +13,7 @@ $$
 \hat{x}_{n \mid n} = L[x_n \mid y_1, \dots, y_n]
 $$
 
-where $L$ represents the [[LLSE|linear least squares estimation]].
+where $L$ represents the [[LLSE|linear least squares estimation]]. To do this, we can decompose into innovations $\tilde{y}_n = y_n - L[y_n \mid y_1, \ldots, y_{n-1}]$
 
 # Scalar filter
 
