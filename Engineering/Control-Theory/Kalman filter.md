@@ -10,10 +10,14 @@ Y_n &= CX_n + W_n \tag{Observation}
 Our goal is to find
 
 $$
-\hat{x}_{n \mid n} = L[x_n \mid y_1, \dots, y_n]
+\hat{x}_{n \mid n} = L[x_n \mid y_1, \ldots, y_n]
 $$
 
-where $L$ represents the [[LLSE|linear least squares estimation]]. To do this, we can decompose into innovations $\tilde{y}_n = y_n - L[y_n \mid y_1, \ldots, y_{n-1}]$
+where $L$ represents the [[LLSE|linear least squares estimation]]. To do this, we can decompose into innovations $\tilde{y}_n = y_n - L[y_n \mid y_1, \ldots, y_{n-1}]$. This enables
+
+$$
+\hat{x}_{n \mid n} = \hat{x}_{n \mid n-1} + k_n \tilde{y}_n
+$$
 
 # Scalar filter
 
