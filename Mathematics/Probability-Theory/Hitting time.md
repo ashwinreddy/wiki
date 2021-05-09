@@ -28,3 +28,6 @@ t_i &= \mathbb{E}(T_A \mid X_0 = i) \\\\
 
 # [[Continuous-time Markov chain]]
 
+$$
+t_i = \begin{cases} 1 + \sum_{j \in S} p_{ij}t_j & i \not\in A \\\\ 0 & i \in A\end{cases}
+$$
