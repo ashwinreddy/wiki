@@ -59,5 +59,7 @@ Let's say a Poisson process bus stop has been running for a long time. Let's say
 Say that the last arrival is $U$, you showed up at $t\^\*$ and the next arrival is $V$. The interarrival time is given by 
 
 $$
-V - U = \underbrace{(V - t^\*)}_{\mathsf{Exp}(\lambda)} + (t^* - U)
+V - U = \underbrace{(V - t^\*)}_{\mathsf{Exp}(\lambda)} + \underbrace{(t^* - U)}_{\mathsf{Exp}(\lambda)}
 $$
+
+So the expected interrarival time is actually doubled!
