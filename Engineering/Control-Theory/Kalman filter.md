@@ -7,7 +7,13 @@ Y_n &= CX_n + W_n \tag{Observation}
 
 # Mathematical idea
 
-From the [[linear least squares estimate]]
+Our goal is to find
+
+$$
+\hat{x}_{n \mid n} = L[x_n \mid y_1, \dots, y_n]
+$$
+
+where $L$ represents the [[LLSE|linear least squares estimation]].
 
 # Scalar filter
 
