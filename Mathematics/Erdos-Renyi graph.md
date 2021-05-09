@@ -1,4 +1,4 @@
-An **Erdos-Renyi (ER) graph** $\mathcal{G}(n,p)$ is a [[random graph]] with $n$ vertices and probability $p$ of connection. We need the connections to be [[iid]] for a [[Bernoulli distribution]] with $p$.
+An **Erdos-Renyi (ER) graph** $\mathcal{G}(n,p)$ is an undirected [[random graph]] with $n$ vertices and each of the $\binom{n}{2}$ edges has independent probability $p$ of connection. 
 
 
 
