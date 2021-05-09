@@ -16,7 +16,7 @@ $$
 \Pr \left \\{ T_A < T_B  \mid X_0 = i \right \\} = \sum_j p_{ij} \Pr \\{ T_A < T_B \mid X_0 = j\\}, \quad \forall i \not\in A \cup B.
 $$
 
-# First Step Equations
+## First Step Equations
 
 The distribution in Equation \ref{eq:hitting-time} is hard to compute. We can try to find the [[expected value]].
 
@@ -26,3 +26,4 @@ t_i &= \mathbb{E}(T_A \mid X_0 = i) \\\\
 &= \begin{cases} 1 + \sum_{j \in S} p_{ij}t_j & i \not\in A \\\\ 0 & i \in A\end{cases} \tag{FSE}
 \end{align}
 
+# [[Continuous-time Markov chain]]
