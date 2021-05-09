@@ -1,4 +1,4 @@
-**Birth-death process** is a [[CTMC|continuous time Markov chain]]
+**Birth-death process** is an important example of [[CTMC|continuous time Markov chain]].
 
 [[https://upload.wikimedia.org/wikipedia/commons/2/28/BD-proces.png]]
 
