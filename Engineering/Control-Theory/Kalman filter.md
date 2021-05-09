@@ -7,7 +7,7 @@ Y_n &= CX_n + W_n \tag{Observation}
 
 # Mathematical idea
 
-From the [[linear least squares estimator]]
+From the [[linear least squares estimate]]
 
 # Scalar filter
 
