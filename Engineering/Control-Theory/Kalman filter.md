@@ -8,7 +8,7 @@ Y_n &= CX_n + W_n \tag{Observation}
 
 # Scalar filter
 
-The filter estimates if we collapse these to scalars are given by
+First, let $\hat{x}_{0 \mid 0} = \mathbb{E}[X_0]$ and $\hat{\sigma}^2_{0 \mid 0} = \mathbb{V}[X_)]$
 
 \begin{align}
 \hat{x}\_{n \mid n} &= \hat{x}_{n \mid n - 1} + k_n \tilde{y}_n \\\\
