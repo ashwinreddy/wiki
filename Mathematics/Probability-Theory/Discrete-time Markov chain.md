@@ -14,9 +14,9 @@ so $p_{ij}$ is the probability going from state $i$ to state $j$. Of course, the
 
 [[_TOC_]]
 
-# Classification
+# Classes
 
-If there is a path in state-transition diagram from $i$ to $j$ (i.e. $P_{ij}^n > 0$ for some $n \geqslant 1$), then $j$ is _accessible_ from $i$, and we write $i \rightarrow j$. 
+If there is a path in the state-transition diagram from $i$ to $j$ (i.e. $P_{ij}^n > 0$ for some $n \geqslant 1$), then $j$ is _accessible_ from $i$, and we write $i \rightarrow j$. 
 
 States $i$ and $j$ communicate if we have $i \longleftrightarrow j$, and defines an [[equivalence relation]] and [[equivalence class]]
 
@@ -25,25 +25,17 @@ Irreducible
 
 Every irreducible finite-state MC is positive recurrent.
 
-# Class properties
+## Class properties
 
-Recurrent state
-: A state that returns to itself with probability one.
-
-Transient state
-: A state that returns to itself with probability less than one.
-
-Define a [[random variable]] to track the first time entering state $i$:
+A state $i$ is **recurrent** if starting in state $i$ the chain will revisit $i$ at some point with probability one. It is **positive recurrent** if that return will happen after finite time and **null recurrent** if not. If the state will not be revisisted almost surely, then it is a **transient state**.
 
 $$
 T_i = \min \left\\{ n \geqslant 1: X_n = i \right\\}
 $$
 
-Positive recurrent
-: A recurrent state where $\mathbb{E}(T_i \mid X_0 = i) < \infty.$
-
-Null recurrent
-: A recurrent state where $\mathbb{E}(T_i \mid X_0 = i) = \infty.$
+$$
+\mathbb{E}(T_i \mid X_0 = i) < \infty \tag{Positive Recurrence Condition}
+$$
 
 Period
 : $\mathsf{period}(i) = \mathsf{GCD}\\{ n \geqslant 1: P_{ii}^n > 0\\}.$
