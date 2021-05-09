@@ -52,3 +52,6 @@ where the $U$ are [[order statistic]] of $n$ $\mathsf{Uniform}(0, t)$ random var
 # Random Incidence Paradox
 
 From the perspective of a given point, the expected interarrival time is doubled. A Poisson process backwards is still a Poisson process (?).
+
+
+Let's say a Poisson process has been running for a long time. Let's say the rate is $4$ per hour. So the expected arrival time is 15 minutes.
