@@ -19,7 +19,7 @@ $$
 # Algorithm
 
 1. Find the likelihood function $L(y)$
-2. Determine the $\alpha$ for which $P(f(y, \alpha) \mid X = 0) \le \beta$
+2. Determine the $\alpha$ for which $P(f(y, \alpha) \mid X = 0) \leqslant \beta$
 
 # Example
 
