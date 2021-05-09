@@ -7,7 +7,7 @@ The **linear least squares estimator (LLSE)** estimates a [[random variable]] $Y
 \end{equation}
 
 \begin{equation}
-L[Y \mid X] = \mathbb{E}[Y] + \frac{\sigma_{XY}}{\sigma_X^2}(X - \mathbb{E}[X])
+L[Y \mid X] = \mathbb{E}[Y] + \frac{\sigma_{XY}}{\mathbb{V}[X]}(X - \mathbb{E}[X])
 \end{equation}
 
 
