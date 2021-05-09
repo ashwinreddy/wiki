@@ -1,4 +1,4 @@
-A **Poisson process** is a [[counting process]], meaning it counts arrivals that are random in a [[memoryless]] way (i.e. how many you saw in the past doesn't affect how many you will see). The process has a rate $\lambda$.
+A **Poisson process** is a [[counting process]], meaning it counts arrivals that are random in a [[memoryless]] way (i.e. how many you saw in the past doesn't affect how many you will see). The process has a rate $\lambda$. We can also think of a Poisson process as a simple [[continuous-time markov chain]].
 
 
 [[_TOC_]]
