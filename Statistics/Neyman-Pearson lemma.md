@@ -29,3 +29,7 @@ We need $\Pr(\hat{X} = 1 \mid X = 0) \leqslant \beta$ to satisfy the PFA require
 $$
 \Pr(L(y) < \lambda \mid X = 0) = \sum_{y=1}^{\lambda - 1} p (1-p)^{y-1} = 1 - (1-p)^{\lambda - 1}
 $$
+
+$$
+1 - (1-p)^{\lambda - 1} \leqslant \beta \implies \lambda \leqslant 1 + \frac{\log(1-\beta)}{\log(1-p)}
+$$
