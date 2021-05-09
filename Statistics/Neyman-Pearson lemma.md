@@ -21,5 +21,5 @@ $$
 We flip a coin until we see heads. The null hypothesis is that the bias is $p$ and the alternate is that the bias is $q > p$. The likelihood ratio is
 
 $$
-L(y) = \frac{\Pr(y \mid X = 1)}{\Pr(y mid X = 0)} = \frac{(1-q)\^{y-1}q}{(1-p)^{y-1}p}
+L(y) = \frac{\Pr(y \mid X = 1)}{\Pr(y \mid X = 0)} = \frac{(1-q)\^{y-1}q}{(1-p)^{y-1}p}
 $$
