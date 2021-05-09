@@ -1,4 +1,4 @@
-A **continuous-time Markov chain (CTMC)** is a [[Markov chain]] where transitions occur according to an [[exponential distribution]]. 
+A **continuous-time Markov chain (CTMC)** is a [[Markov chain]] where transitions occur in continuous time, according to an [[exponential distribution]]. 
 
 [[_TOC_]]
 
