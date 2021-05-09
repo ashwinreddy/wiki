@@ -56,4 +56,4 @@ From the perspective of a given point, the expected interarrival time is doubled
 
 Let's say a Poisson process bus stop has been running for a long time. Let's say the rate is $4$ per hour. So the expected arrival time is 15 minutes. Now you try to test it out yourself by showing up to the bus stop. You'll actually find that it takes about 30 minutes, on average, for the bus to come.
 
-Say that the last arrival is $U$, you showed up at $t\^*$ and the next arrival is $V$. The interarrival time is given by $V - U = V - t\^* + t\^* - U$
+Say that the last arrival is $U$, you showed up at $t\^\*$ and the next arrival is $V$. The interarrival time is given by $V - U = V - t^* + t^* - U$
