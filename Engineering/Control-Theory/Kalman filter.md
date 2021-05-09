@@ -16,6 +16,7 @@ The filter estimates are given by
 \tilde{y}\_n  &= y_n - a\hat{x}\_{n - 1\mid n - 1} \\\\
 k_n &= \frac{\sigma^2\_{n \mid n - 1}}{\sigma^2\_{n \mid n - 1} + \sigma_w^2} \\\\
 \sigma^2\_{n \mid n - 1} &= a^2 \sigma\^2\_{n - 1 \mid n - 1} + \sigma\_v^2 \\\\
+\sigma^2\_{n \mid n} &= \sigma^2\_{n \mid n - 1}(1 - k_n)
 \end{align}
 
 # Matrix model
