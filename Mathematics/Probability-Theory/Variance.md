@@ -37,3 +37,5 @@ $$
 $$
 \Pr(X = 0) \leqslant \frac{\mathbb{V}(X)}{(\mathbb{E}X)^2}
 $$
+
+* [[Law of total variance]]
