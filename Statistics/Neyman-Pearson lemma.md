@@ -24,4 +24,4 @@ $$
 L(y) = \frac{\Pr(y \mid X = 1)}{\Pr(y \mid X = 0)} = \frac{(1-q)\^{y-1}q}{(1-p)^{y-1}p}
 $$
 
-We need $\Pr(\hat{X} = 1)$
+We need $\Pr(\hat{X} = 1 \mid X = 0) \leqslant \beta$ to satisfy the PFA requirement.
