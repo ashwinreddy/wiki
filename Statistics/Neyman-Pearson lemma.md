@@ -16,6 +16,11 @@ $$
 \Pr\left(\hat{X}(Y) = 1 \mid X = 0 \right) \leqslant \beta.
 $$
 
+# Algorithm
+
+1. Find the likelihood function $L(y)$
+2. Determine the $\alpha$ for which $P(f(y, \alpha) \mid X = 0) \le \beta$
+
 # Example
 
 We flip a coin until we see heads. The null hypothesis is that the bias is $p$ and the alternate is that the bias is $q > p$. The likelihood ratio is
