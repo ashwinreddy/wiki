@@ -64,3 +64,7 @@ For an irreducible CTMC, exactly one of the following is true:
 
 1. All states transient or null-recurrent. No stationary distribution exists, and $$\lim_{t\to\infty}P_{ij}^t = 0$$ and $\forall i, j \in S$.
 2. All states positive recurrent. Unique stationary distribution exists and satisfies $\forall i, j \in S$: $$\pi_j = \frac{1}{m_j q_j} = \lim_{t\to\infty}P_{ij}^t$$
+
+# First Step Equations
+
+It is analagous to [[discrete-time Markov chain]]
