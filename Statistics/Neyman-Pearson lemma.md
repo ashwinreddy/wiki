@@ -27,5 +27,5 @@ $$
 We need $\Pr(\hat{X} = 1 \mid X = 0) \leqslant \beta$ to satisfy the PFA requirement. We pick $\hat{X}=1$ when $L(y) < \lambda$. So the probability we're interested in is
 
 $$
-\Pr(L(y) < \lambda \mid X = 0) = \sum_{y=1}^{\alpha - 1} p (1-p)^{y-1} = 1 - (1-p)^{\alpha - 1}
+\Pr(L(y) < \lambda \mid X = 0) = \sum_{y=1}^{\lambda - 1} p (1-p)^{y-1} = 1 - (1-p)^{\lambda - 1}
 $$
