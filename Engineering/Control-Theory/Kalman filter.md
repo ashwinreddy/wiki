@@ -8,7 +8,9 @@ Y_n &= CX_n + W_n \tag{Observation}
 
 # Scalar filter
 
-First, let $\hat{x}_{0 \mid 0} = \mathbb{E}[X_0]$ and $\hat{\sigma}^2\_{0 \mid 0} = \mathbb{V}[X_0]$
+First, let $\hat{x}_{0 \mid 0} = \mathbb{E}[X_0]$ and $\hat{\sigma}^2\_{0 \mid 0} = \mathbb{V}[X_0]$. The steps are to calculate
+
+1. $\hat{x}_{1 \mid 0}$ and $\hat{\sigma}^2\_{1 \mid 0}$
 
 \begin{align}
 \hat{x}\_{n \mid n} &= \hat{x}_{n \mid n - 1} + k_n \tilde{y}_n \\\\
