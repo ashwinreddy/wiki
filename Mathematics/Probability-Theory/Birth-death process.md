@@ -4,9 +4,10 @@
 
 Suppose $\lambda_i = \lambda$ and $\mu_i = \mu$. The balance equation tells us 
 
-$$
-\pi(k-1)\lambda - \pi(k)\mu = 0
-$$
+\end{gather}
+\pi(k-1)\lambda - \pi(k)\mu = 0 \\\\
+\pi(k) = \left(\frac{\lambda}{\mu}\right)\pi(k-1)
+\end{gather}
 
 
 Then, the stationary distribution $\pi$ looks like
