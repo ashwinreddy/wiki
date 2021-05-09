@@ -16,7 +16,7 @@ $$
 where $L$ represents the [[LLSE|linear least squares estimation]]. To do this, we can decompose into innovations $\tilde{y}_n = y_n - L[y_n \mid y_1, \ldots, y_{n-1}]$. This enables
 
 $$
-\hat{x}_{n \mid n} = \hat{x}_{n \mid n-1} + k_n \tilde{y}_n
+\hat{x}\_{n \mid n} = \hat{x}_{n \mid n-1} + k_n \tilde{y}_n
 $$
 
 # Scalar filter
