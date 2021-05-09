@@ -1,13 +1,13 @@
-**Kalman filter** allows us to estimate hidden state from observations and a linear model.
-
-[[_TOC_]]
-
-# Scalar filter
+**Kalman filter** allows us to estimate hidden state from observations and a linear model. We will assume that the states $x$ and observations $y$ are given by
 
 \begin{align}
 x_n  &= ax_{n-1} + v_n \\\\
 y_n &= cx_n + w_n
 \end{align}
+
+[[_TOC_]]
+
+# Scalar filter
 
 The filter estimates are given by
 
