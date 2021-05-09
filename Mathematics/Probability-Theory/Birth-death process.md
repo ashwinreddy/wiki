@@ -1,3 +1,3 @@
-**Birth-death process** is a [[CTMC]]
+**Birth-death process** is a [[CTMC|continuous time Markov chain]]
 
-[[https://upload.wikimedia.org/wikipedia/commons/2/28/BD-proces.png?1620538839796]]
+[[https://upload.wikimedia.org/wikipedia/commons/2/28/BD-proces.png]]
