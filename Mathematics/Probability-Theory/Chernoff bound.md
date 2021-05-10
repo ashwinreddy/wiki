@@ -1,10 +1,4 @@
-**Chernoff bound** is a [[concentration inequality]]
-
-$$
-\Pr(X \geqslant a) \leqslant  e^{-ta}M_X(t), \quad t > 0.
-$$
-
-The best bound can be found by computing
+**Chernoff bound** is a [[concentration inequality]], which in its strongest form says
 
 \begin{equation}
 \Pr(X \geqslant a) \leqslant  \min_{t > 0} e^{-ta}M_X(t)
