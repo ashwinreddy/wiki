@@ -19,7 +19,7 @@ The CTMC evolves by
 A probability vector $\pi$ is a [[stationary distribution]] for a CTMC with rate matrix $Q$ if 
 
 \begin{align}
-\pi Q = \vec{0} \iff \forall j: \sum_{k} \pi_k Q_{kj} = 0 \tag{Rate Conservation Principle} \\\\
+\pi Q = 0 \iff \forall j: \sum_{k} \pi_k Q_{kj} = 0 \tag{Rate Conservation Principle} \\\\
 \sum_i \pi_i = 1
 \end{align}
 
