@@ -73,6 +73,8 @@ Reversible MC
 
 [[Stationary distribution]]
 
+A DTMC is irreducible and positive recurrent iff it has a unique stationary distribution.
+
 # Cut Property
 
 Cut
