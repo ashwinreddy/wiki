@@ -15,9 +15,10 @@ $$
 
 where $L$ represents the [[LLSE|linear least squares estimation]]. To do this, we can decompose into innovations $\tilde{y}_n = y_n - L[y_n \mid y_1, \ldots, y_{n-1}]$. This enables
 
-$$
+\begin{equation}
+\label{eq:update}
 \hat{x}\_{n \mid n} = \hat{x}_{n \mid n-1} + k_n \tilde{y}_n
-$$
+\end{equation}
 
 The **Kalman gain** $k_n$ controls the gain of the innovation.
 
@@ -28,6 +29,8 @@ First, let $\hat{x}_{0 \mid 0} = \mathbb{E}[X_0]$ and $\hat{\sigma}^2\_{0 \mid 0
 $$
 \hat{x}\_{n \mid n - 1} = a\hat{x}_{n-1 \mid n-1}
 $$
+
+Along with equation \ref{eq:update}
 
 \begin{align}
 \hat{x}\_{n \mid n} &= \hat{x}_{n \mid n - 1} + k_n \tilde{y}_n \\\\
