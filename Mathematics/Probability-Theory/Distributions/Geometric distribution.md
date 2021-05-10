@@ -15,3 +15,5 @@ $$
 |--------|-----|
 |[[Expected value]]|$1/p$|
 |[[Variance]]|$\frac{1-p}{p^2}$|
+
+* Enjoys the [[memoryless propery]]
