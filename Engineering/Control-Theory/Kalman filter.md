@@ -19,6 +19,8 @@ $$
 \hat{x}\_{n \mid n} = \hat{x}_{n \mid n-1} + k_n \tilde{y}_n
 $$
 
+The **Kalman gain** $k_n$ controls the gain of the innovation.
+
 # Scalar filter
 
 First, let $\hat{x}_{0 \mid 0} = \mathbb{E}[X_0]$ and $\hat{\sigma}^2\_{0 \mid 0} = \mathbb{V}[X_0]$. 
