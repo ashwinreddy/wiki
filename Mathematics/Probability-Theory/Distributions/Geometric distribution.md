@@ -16,4 +16,4 @@ $$
 |[[Expected value]]|$1/p$|
 |[[Variance]]|$\frac{1-p}{p^2}$|
 
-* Enjoys the [[memoryless random varibale]]
+* Enjoys the [[memoryless random variable]]
