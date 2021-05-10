@@ -1,4 +1,8 @@
-A **stationary distribution** for a [[Markov chain]] is a row vector $\pi$ where
+A **stationary distribution** 
+
+# Discrete Time Markov Chain
+
+for a [[DTMC|discrete time Markov chain]] is a row vector $\pi$ where
 
 \begin{equation}
 \label{eq:be}
