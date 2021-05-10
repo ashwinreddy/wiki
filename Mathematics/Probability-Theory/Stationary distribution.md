@@ -18,8 +18,11 @@ Notice that if \ref{eq:dbe} is true, then \ref{eq:be} must be true. Intuitively,
 
 > Imagine a total mass of $\pi_j$ sits at state $j$, and when the Markov chain undergoes a transition, the total mass of $\pi_j$ leaves state $j$ and is divided among the neighbors of $j$ according to the transition probabilities. \ref{eq:be} express the _global_ condition that the total mass leaving state $j$ equals the sum of the mass entering $j$. On the other hand, \ref{eq:dbe} reflect a _local_ condition that the mass exchanged along eache edge $(i, j)$ is balanced; this is a _stronger_ condition than global balance.
 
+## Convergence
 
-# Existence and Uniqueness of Stationary Distributions
+An irreducible positive recurrent aperiodic chain converges to $\pi$.
+
+## Existence and Uniqueness of Stationary Distributions
 
 Let $X_n$ be an irreducible Markov chain. Exactly one of the following is true:
 
