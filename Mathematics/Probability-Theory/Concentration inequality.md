@@ -1,18 +1,11 @@
 A **concentration inequality** is an [[inequality]] that bounds the [[probability]] that a [[random variable]] deviates from something
+_TOC_]]
 
-[[_TOC_]]
+* [[Markov's inequality]]
 
-# Markov's inequality
+* [[Chebyshev's inequality]]
 
-[[include:Markov's inequality]]
-
-# Chebyshev's inequality
-
-[[include:Chebyshev's inequality]]
-
-# Chernoff bound
-
-[[include:Chernoff bound]]
+* [[Chernoff bound]]
 
 # See More
 
