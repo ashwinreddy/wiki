@@ -69,10 +69,6 @@ A **reversible MC** is one that has $\hat{P} = P$, therefore equation \ref{eq:db
 Reversible MC
 : An irreducible MC is reversible if there's a $\pi$ satisfying \ref{eq:reversible}
 
-## Detailed Balance
-
-
-
 # Stationary distribution
 
 [[Stationary distribution]]
