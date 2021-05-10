@@ -4,5 +4,5 @@ $$
 {\displaystyle \Pr(X>t+s\mid X>t)=\Pr(X>s).}
 $$
 
-* [[Geometric random variable]]
-* [[Exponential random variable]]
+* [[Geometric distribution]]
+* [[Exponential distribution]]
