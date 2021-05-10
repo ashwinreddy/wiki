@@ -4,7 +4,7 @@
 X \sim \mathsf{Uniform}(a,b) \iff \varphi(x) = \begin{cases}\frac{1}{b-a} & a \leq x \leq b \\\\ 0 & \text{otherwise}\end{cases}
 \end{equation}
 
-The [[cumulative density function]]
+The [[cumulative distribution function]]
 
 \begin{equation}
 F_X(x) = \begin{cases} 0 & x < a \\\\ \frac{x-a}{b-a} & a \leq x \leq b \\\\ 1 & x > b \end{cases}
