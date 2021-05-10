@@ -13,6 +13,7 @@ $$
 # Properties
 
 <<Note("The most interesting thing about exponential distributions are that they are memoryless!")>>
+* [[Memoryless random variable]]
 
 |Property|Value|
 |--------|-----|
@@ -34,4 +35,4 @@ $$
 $$
 
 * $$\mathbb{E}\left(X^k\right) = \frac{k!}{\lambda^k}$$
-* [[Memoryless random variable]]
+
