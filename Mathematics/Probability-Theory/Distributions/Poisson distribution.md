@@ -14,4 +14,5 @@ It is involved in the [[Poisson process]].
 |[[Expected value]]|$\lambda$|
 |[[Variance]]|$\lambda$|
 
-* * If $X \sim \mathsf{Poisson}(\lambda)$ and $Y \sim \mathsf{Poisson}(\mu)$, then $X+Y \sim \mathsf{Poisson}(\lambda + \mu)$
+* If $X \sim \mathsf{Poisson}(\lambda)$ and $Y \sim \mathsf{Poisson}(\mu)$, then $X+Y \sim \mathsf{Poisson}(\lambda + \mu)$
+* A Poisson random variable of rate $n$ is the sum of $n$ independent Poisson random variables of rate 1.
