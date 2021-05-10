@@ -1,6 +1,5 @@
+Properties
 
-|Property|
-|--------|
-|[[Expected value]]|
-|[[Variance]]|
-|[[Moment-generating function]]|
+* [[Expected value]]
+* [[Variance]]
+* [[Moment-generating function]]
