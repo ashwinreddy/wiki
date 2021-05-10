@@ -1,4 +1,4 @@
-**Geometric distribution** represents the number of [[Bernoulli distribution]] coin flips you need until you hit heads.
+**Geometric distribution** represents the number of [[Bernoulli distribution]] coin flips you need until you hit heads where $p$ is the chance of getting a heads.
 
 $$
 X \sim \mathsf{Geometric}(p) \iff \Pr(X =k ) = (1-p)^{k-1}p
