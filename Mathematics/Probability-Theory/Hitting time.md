@@ -29,5 +29,5 @@ t_i &= \mathbb{E}(T_A \mid X_0 = i) \\\\
 # [[Continuous-time Markov chain]]
 
 $$
-t_i = \frac{1}{q_i} + \sum_{j \in S}
+t_i = \frac{1}{-Q(i, i)} + \sum_{j \in S} \frac{Q(i, j)}{-Q(i, i)} t_j
 $$
