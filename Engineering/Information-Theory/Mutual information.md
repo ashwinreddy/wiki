@@ -7,7 +7,7 @@ I(X ; Y ) = D_{KL}( p_{(X, Y)} \parallel p_X p_Y )
 It is connected to [[entropy]].
 
 $$
-I(X; Y) \leq \mathcal{H}(X)
+I(X; Y) = \mathcal{H}(X) - \mathcal{H}(X \mid Y)
 $$
 
 # Properties
