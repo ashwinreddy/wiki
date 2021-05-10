@@ -5,6 +5,8 @@ The **Neyman-Pearson lemma** tells us how to do inference for [[binary hypothesi
 \hat{X}_\beta(y) = \begin{cases}  1 & L(y) > \lambda \\\\ 0 & L(y) < \lambda \\\\ \mathsf{Bern}(\gamma) & L(y) = \lambda \end{cases} \tag{Neyman-Pearson Rule}
 \end{equation}
 
+where we assumed $L(y)$ is increasing function of $y$ here. The inequalities are flipped if it is decreasing.
+
 
 \begin{equation}
 L(y) = \frac{P_{Y \mid X}(y \mid x = 1)}{P_{Y \mid X}(y \mid x = 0)} \tag{Likelihood ratio}
