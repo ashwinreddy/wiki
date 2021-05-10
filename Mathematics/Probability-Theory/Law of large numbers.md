@@ -4,12 +4,12 @@ The **law of large numbers (LLN)** is a theorem that deals with [[convergence of
 
 # Weak Law
 
-In short, the weak law says that empirical means converge to true means in probability.
+In short, the weak law (WLLN) says that empirical means converge to true means in probability.
 
 > The empirical mean of [[iid]] [[random variable]] $X_i$ [[converges in probability|convergence of random variables#convergence-in-probability]] to the [[expected value]] of $\mathbb{E}(X)$: for any $\epsilon > 0$, \begin{equation}\lim_{n \to \infty} \Pr\left( \left| \frac{1}{n}\sum_{i=1}^n X_i - \mathbb{E}X \right| \geqslant \epsilon \right) = 0. \tag{WLLN}\end{equation}
 
 # Strong Law
 
-In short, the strong law says empirical means converge to true means almost surely, which is a stronger statement than the weak law.
+In short, the strong law (SLLN) says empirical means converge to true means almost surely, which is a stronger statement than the weak law.
 
 The empirical mean of pairwise independent and identically distributed random variables with finite mean converges to the true mean [[almost surely|almost sure convergence]].
