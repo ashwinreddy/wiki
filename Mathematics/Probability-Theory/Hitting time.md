@@ -28,8 +28,6 @@ t_i &= \mathbb{E}(T_A \mid X_0 = i) \\\\
 
 # [[Continuous-time Markov chain]]
 
-_Example_: Consider 20 lightbulbs that have independent lifetimes that are exponentially distributed with rate 1. How long before all bulbs die out?
-
 $$
-x_i = \frac{1}{i} + x_{i-1}
+t_i = \frac{1}{q_i} + \sum_{j \in S}
 $$
