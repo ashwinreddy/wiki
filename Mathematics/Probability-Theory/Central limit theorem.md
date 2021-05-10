@@ -4,4 +4,3 @@ The **central limit theorem (CLT)** says that the empirical [[mean]] (a normaliz
 \sqrt{n}\left(\bar{X}_n - \mu\right) \overset{\mathsf{d}}{\longrightarrow} \mathcal{N}(0, \sigma^2) \tag{CLT}
 \end{equation}
 
-For example, a [[Binomial distribution]] $\mathsf{Binomial}(n, p)$
