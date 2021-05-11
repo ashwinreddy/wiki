@@ -11,6 +11,16 @@ $$
 \expectation{X} = \int_{\RR} x\\, \dd{F(x)}
 $$
 
+[[_TOC_]]
+
+# Tail Sum Formula
+
+The tail sum formula applies when we suppose $X \geqslant 0$.
+
+$$
+\expectation{X} = \begin{cases} \sum_{k=0}^\infty \Pr(X > k) & X \text{ discrete} \\\\ \int_{0}^\infty \Pr(X > k) \dd{k} & X \text{ continuous} \end{cases}
+$$
+
 # Properties
 
 * Expectation is a [[linear map]]. For _any_ random variables $X$ and $Y$,
@@ -31,10 +41,4 @@ The expected value of an indicator is just its probability.
 \mathbb{E}\left(1_A\right) = \Pr(A)
 \end{equation}
 
-# Tail Sum Formula
-
-The tail sum formula applies when we suppose $X \geqslant 0$.
-
-$$
-\expectation{X} = \begin{cases} \sum_{k=0}^\infty \Pr(X > k) & X \text{ discrete} \\\\ \int_{0}^\infty \Pr(X > k) \dd{k} & X \text{ continuous} \end{cases}
-$$
+* [[Law of iterated expectation]]
