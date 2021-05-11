@@ -1,4 +1,4 @@
-**Independence** means [[event]] $A$ and $B$ have no bearing on each other.
+**Independence** means [[event]] $A$ and $B$ have no bearing on each other. We write $A \perp B$.
 
 $$
 \mathbb{P}(A \cap B) = \mathbb{P}(A)\mathbb{P}(B)
