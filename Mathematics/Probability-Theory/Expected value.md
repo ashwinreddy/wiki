@@ -41,4 +41,4 @@ The expected value of an indicator is just its probability.
 \mathbb{E}\left(1_A\right) = \Pr(A)
 \end{equation}
 
-* [[Law of iterated expectation]]
+* [[Law of total expectation]]
