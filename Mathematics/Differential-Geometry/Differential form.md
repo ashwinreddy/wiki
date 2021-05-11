@@ -2,13 +2,7 @@
 bibliography: "./Mathematics/math.bib"
 ---
 
-A **differential form** is an integrand, something that can be integrated over. In 
-
-$$
-\int_0^1 x^2 \dd{x},
-$$
-
-the integrand is $x^2 \dd{x}$.
+A **differential form** is a special kind of object we can integrate. In  $\int_0^1 x^2 \dd{x},$ the integrand is $x^2 \dd{x}$.
 
 
 
