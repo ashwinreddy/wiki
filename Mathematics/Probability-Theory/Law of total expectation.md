@@ -5,7 +5,7 @@
 \mathbb{E}[X] = \mathbb{E}\big[\mathbb{E}[X \mid Y]\big]
 \end{equation}
 
-A more advanced version says
+A more advanced version, which follows directly, says
 
 $$
 \mathbb{E}[f(Y)X] = \mathbb{E}\big[f(Y) \mathbb{E}[X \mid Y]\big]
