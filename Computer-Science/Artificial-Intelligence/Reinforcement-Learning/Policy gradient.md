@@ -61,4 +61,8 @@ As @10.5555/3044805.3044850 summarize,
 
 > In particular, despite the fact that the state distribution depends on the policy parameters, the policy gradient does not depend on the gradient of the state distribution.
 
+# Read More
+
+* [[https://bland.website/notes/policy_gradient/]]
+
 --- 
