@@ -2,7 +2,17 @@
 bibliography: "./Mathematics/math.bib"
 ---
 
-A **differential $k$-form** at $p$ for a [[manifold]] $M$ is a [[alternating multilinear map]]
+A **differential form** is an integrand, something that can be integrated over. In 
+
+$$
+\int_0^1 x^2 \dd{x},
+$$
+
+the integrand is $x^2 \dd{x}$.
+
+
+
+$k$-form** at $p$ for a [[manifold]] $M$ is a [[alternating multilinear map]]
 
 $$
 \omega: (T_p M)^k \to \RR.
