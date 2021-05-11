@@ -1,4 +1,4 @@
-The **moment-generating function (m.g.f. / mgf)** of a [[random variable]] $X$ is the [[expected value]] as a [[function]] of $t$.
+The **moment-generating function (m.g.f. / mgf)** of a [[random variable]] $X$ is the [[expected value]] as a [[exponential function]] [[function]] of $t$.
 
 $$
 M_X(t) \triangleq \mathbb{E}\left[ e^{tX} \right], \quad t \in \RR
