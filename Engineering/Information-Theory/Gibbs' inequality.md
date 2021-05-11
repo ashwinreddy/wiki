@@ -1,7 +1,7 @@
 **Gibbs' inequality** says that the [[Kullback-Leibler divergence]] is never negative and is zero only when its inputs are the same.
 
 \begin{equation}
-D_{KL}(P \parallel Q) \geq 0
+D_{KL}(P \parallel Q) \geq 0, \tag{Gibbs' inequality}
 \end{equation}
 
-We can prove using [[Jensen's inequality]].
+with equality only if $P=Q$. We can prove it using [[Jensen's inequality]].
