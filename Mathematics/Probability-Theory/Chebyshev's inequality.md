@@ -1,4 +1,4 @@
-**Chebyshev's inequality** is a [[concentration inequality]] that says that the probability a [[random variable]] is $k$ [[standard deviation]] away from its mean drops as $1/k^2$.
+**Chebyshev's inequality** is a [[concentration inequality]] that says that the probability a [[random variable]] is $k$ [[standard deviation]] away from its [[expected value]] drops as $1/k^2$.
 
 \begin{equation}
 \boxed{\Pr \big ( | X - \mu| \geqslant k\sigma \big ) \leqslant \frac{1}{k^2}} \tag{Chebyshev's Inequality}
