@@ -1,4 +1,4 @@
-**Law of total expectation** / **iterated expectation** / **tower rule** says
+**Law of total expectation** / **iterated expectation** / **tower rule** says that the [[expected value]] of a [[random variable]] is equal to the mean of a [[conditional expectation]].
 
 
 \begin{equation}
