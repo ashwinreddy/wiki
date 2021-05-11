@@ -4,6 +4,8 @@ $$
 M_X(t) \triangleq \mathbb{E}\left[ e^{tX} \right], \quad t \in \RR
 $$
 
+By the [[Taylor series]]
+
 $$
 M_X(t) = 1 + t \expectation{X} + \frac{t\^2}{2!}\mathbb{E}\left(X\^2\right) + \frac{t^3}{3!}\mathbb{E}\left(X\^3\right) + \dots
 $$
