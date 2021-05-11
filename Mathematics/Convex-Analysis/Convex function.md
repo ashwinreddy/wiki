@@ -4,6 +4,8 @@ $$
 f\big(\alpha x + (1-\alpha)y \big)\leq \alpha f(x) + (1-\alpha)f(y), \quad \alpha \in I
 $$
 
+[[Jensen's inequality]]
+
 Examples:
 
 * $x^2$, $e^{x}$, and $e^{-x}$
