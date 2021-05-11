@@ -3,3 +3,8 @@ A **convex function** (which we can think of as having a shape like $\smile$) is
 $$
 f\big(\alpha x + (1-\alpha)y \big)\leq \alpha f(x) + (1-\alpha)f(y), \quad \alpha \in I
 $$
+
+Examples:
+
+* $x^2$, $e^{x}$, and $e^{-x}$
+* $-\log x$ and $x \log x$
