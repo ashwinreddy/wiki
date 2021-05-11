@@ -12,4 +12,4 @@ $$
 p_Y(y) = p_X(g^{-1}(y))
 $$
 
-if $g$ is [[bijective function]]
+if $g$ is [[bijection]]
