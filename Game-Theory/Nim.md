@@ -23,3 +23,7 @@ x_1 \oplus x_2 \oplus \dots \oplus x_k = \sum_{j=0} 2^j \left( a_{ij} \oplus a_{
 $$
 
 If this nim sum is 0, then the configuration is P.
+
+# See Also
+
+* [[Subtraction game]]
