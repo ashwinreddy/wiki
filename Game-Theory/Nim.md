@@ -6,7 +6,7 @@ Since it's progressively bounded in normal play, every state is N or P. To find 
 
 ## Bouton's solution
 
-Say the chips configuration is given by $x_1, \dots, x_k$
+Say the chips configuration is given by $(x_1, \dots, x_k)$
 
 1. Expand each $x_i$ in binary
 
