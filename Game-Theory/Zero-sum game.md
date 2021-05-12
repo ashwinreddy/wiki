@@ -63,7 +63,7 @@ So in general if you have
 
 $$
 \begin{bmatrix}
-a & b \\
+a & b \\\\
 c & d
 \end{bmatrix}
 $$
