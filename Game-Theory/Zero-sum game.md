@@ -7,17 +7,13 @@ A **zero-sum game** is a [[general-sum game]] where the winner wins as much as t
 
 # Two-person zero-sum games
 
-## Value
-
 If player 1 is using strategy $x$ and player 2 is using $y$, then the payoff to player 1 is given by $x^\mathsf{T}Cy$. The **value** of the game is given by
 
 \begin{equation}
 V = \max_x \min_y x^\mathsf{T} C y = \min_y \max_x x^\mathsf{T} C y. \tag{Value}
 \end{equation}
 
-## Safety Strategies
-
-We want to find out what players will do. Assume they are conservative and want to maximize their worse-case payoff.
+We want to find out what players will do. Assume they are conservative and want to maximize their worse-case payoff. To do this, consider each of the next steps.
 
 ## Saddle Points
 
