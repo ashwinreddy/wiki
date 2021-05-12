@@ -68,4 +68,4 @@ c & d
 \end{bmatrix}
 $$
 
-Then, the strategy $(x, 1-x)$ would yield $x = \frac{c-d}{b+c-a-d}$
+Then, the strategy $(x, 1-x)$ and $(y, 1-y)$ would yield $x = \frac{c-d}{b+c-a-d}$ and $y = \frac{b-d}{b+c-a-d}$
