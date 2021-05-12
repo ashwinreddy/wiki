@@ -7,3 +7,9 @@ Starting with a pile of $x \in \mathbb{N}$ chips, two players alternate taking 1
 Suppose there are 5 chips. Then, player A cannot take the last chip, no matter what they do. Player B is guaranteed to win. If there are 6 chips, then player A can force a win by just taking 1 chip.
 
 # [[Sprague-Grundy theorem]]
+
+For allowed subtractions $\\{1, 2, \dots, k\\}$, the function is
+
+$$
+g(x) = x \mod k
+$$
