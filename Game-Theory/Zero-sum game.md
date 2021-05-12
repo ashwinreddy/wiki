@@ -58,3 +58,12 @@ For the column player, we'd have for $i$th row $\vec{r}_i$ a strategy $\vec{y}$ 
 \begin{equation}
 \langle \vec{y}, \vec{r}_1 \rangle = \dots = \langle \vec{y}, \vec{r}_m \rangle \tag{Column Player Equalization}
 \end{equation}
+
+So in general if you have
+
+$$
+\begin{bmatrix}
+a & b \\
+c & d
+\end{bmatrix}
+$$
