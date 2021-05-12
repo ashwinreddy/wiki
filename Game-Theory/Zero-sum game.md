@@ -17,7 +17,7 @@ We want to find out what players will do. Assume they are conservative and want 
 
 ## Saddle Points
 
-If there is a saddle point, it's the value of the game.
+If there is a [[saddle point]], it's the value of the game.
 
 
 ## Domination
