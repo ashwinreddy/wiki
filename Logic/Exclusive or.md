@@ -7,6 +7,8 @@
 |1|0|1|
 |1|1|0|
 
+As an [[Iverson bracket]],
+
 $$
-XOR(b_i) = \begin{cases}1 & \text{odd number of 1s in } b \\\\ 0 & \text{even number of 1s in } b\end{cases}
+XOR(b_i) = [\text{odd number of 1s in } b]
 $$
