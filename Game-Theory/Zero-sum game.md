@@ -15,6 +15,9 @@ If player 1 is using strategy $x$ and player 2 is using $y$, then the payoff to 
 V = \max_x \min_y x^\mathsf{T} C y = \min_y \max_x x^\mathsf{T} C y. \tag{Value}
 \end{equation}
 
+## Safety Strategies
+
+We want to find out what players will do. Assume they are conservative and want to maximize their worse-case payoff.
 
 ## Saddle Points
 
@@ -27,15 +30,6 @@ If there is a saddle point, it's the value of the game.
 * A column is (strictly) dominated if there exists a convex combination of other columns that is elementwise (strictly) smaller than it.
 
 If a row/column is dominated, that means that the corresponding player can do better without needing to use it. If there is strict domination, the row/column can be discarded without changing the game at all.
-
-
-
-# Safety Strategies
-
-How do we solve the game?
-
-
-3. Equalize payoffs
 
 
 ## Equalizing payoff
