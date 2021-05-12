@@ -10,5 +10,5 @@
 As an [[Iverson bracket]],
 
 $$
-XOR(b_i) = [\text{odd number of 1s in } b]
+\mathsf{XOR}(b_i) = [\text{odd number of 1s in } b]
 $$
