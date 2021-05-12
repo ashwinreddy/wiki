@@ -1,4 +1,4 @@
-A **zero-sum game** is a [[general-sum game]] where the winner wins as much as the loser loses (ergo the name zero-sum).
+A **zero-sum game** is a [[general-sum game]] where the winner wins as much as the loser loses (ergo the name zero-sum). If both players have finite options, we use a [[matrix]] $C$ to represent the payoffs.
 
 [[_TOC_]]
 
