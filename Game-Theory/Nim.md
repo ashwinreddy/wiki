@@ -1,5 +1,7 @@
 **Nim** is an impartial [[combinatorial game]] where players alternate removing an arbitrary number of positive chips from a tuple $(n_1, \dots, n_k)$. The terminal state is that no chips are left.
 
+Clearly, $(0,1)$ and $(1,0)$ are N states. From this, we can infer that $(n,n)$ is a P state while $(n, m)$ for $n \neq m$ is an N state.
+
 # Classification
 
 Since it's progressively bounded in normal play, every state is N or P. To find out, take the [[nim-sum]]. If it is 0, the state is P.
