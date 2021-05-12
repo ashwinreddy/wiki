@@ -10,6 +10,8 @@ Suppose there are 5 chips. Then, player A cannot take the last chip, no matter w
 
 For allowed subtractions $\\{1, 2, \dots, k\\}$, the function is
 
-$$
+\begin{equation}
 g(x) = x \mod (k - 1)
-$$
+\end{equation}
+
+Clearly, the 0 state is losing. What this function tells us is that any state is good except for a multiple of $k-1$, which is a losing one.
