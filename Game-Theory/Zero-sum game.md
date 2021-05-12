@@ -4,6 +4,8 @@ A **zero-sum game** is a [[general-sum game]] where the winner wins as much as t
 
 # Value
 
+If player 1 is using strategy $x$ and player 2 is using $y$, then the payoff to player 1 is given by $x^\mathsf{T}Cy$.
+
 The **value** of the game is given by
 
 \begin{equation}
