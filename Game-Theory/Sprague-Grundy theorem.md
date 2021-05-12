@@ -4,4 +4,8 @@ $$
 g(x) = \operatorname{mex} \\{ g(y): y \in F(x) \\}
 $$
 
-where $F(x)$ are the moves you can play from $x$. A state $x$ is $P$ iff $g(x)=0$.
+where $F(x)$ are the moves you can play from $x$.
+
+\begin{equation}
+x \in P \iff g(x) = 0
+\end{equation}
