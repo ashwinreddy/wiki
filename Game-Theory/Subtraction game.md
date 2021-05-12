@@ -11,5 +11,5 @@ Suppose there are 5 chips. Then, player A cannot take the last chip, no matter w
 For allowed subtractions $\\{1, 2, \dots, k\\}$, the function is
 
 $$
-g(x) = x \mod k
+g(x) = x \mod (k - 1)
 $$
