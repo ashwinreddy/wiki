@@ -4,7 +4,7 @@
 
 1. Affine covariance
 2. Pareto optimal
-3. Symmetry. If $S$ and $\mathbf{d}$ are symmetric with respect to player, then the solution must be of the form $(a,a) \in S$.
+3. _Symmetry_. If $S$ and $\mathbf{d}$ are symmetric with respect to players, then the solution must be of the form $(a,a) \in S$.
 4. Independence of Irrelevant Alternatives
 
 # Formalization
