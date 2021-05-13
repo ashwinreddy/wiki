@@ -23,7 +23,7 @@ But notice that the mixed equilibrium gives a worse expected payoff than if they
 We need to have some [[joint probability distribution]] over moves subject to a certain condition: Assume everyone knows the distribution. Each player must have no incentive to deviate from the mediator given the move they are told.
 
 $$
-\mathbb{E}[\text{payoff} \mid \text{move } i] \leqslant \mathbb{E}[\text{payoff} \mid \text{move } j]
+\mathbb{E}[\text{payoff} \mid \text{move } i] \geqslant \mathbb{E}[\text{payoff} \mid \text{move } j]
 $$
 
 # Mathematical Conditions
