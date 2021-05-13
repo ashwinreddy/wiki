@@ -1,4 +1,10 @@
-A **correlated equilibrium** is an equilibrium in a [[general sum game]] where it's better for players to not make choices independently. Let's say we have payoff matrices $A$ for player 1 and $B$ for player 2. Then, we have a correlated equilibrium if the strategy 
+A **correlated equilibrium** is an equilibrium in a [[general sum game]] where it's better for players to not make choices independently. 
+
+[[_TOC_]]
+
+# Mathematical Conditions
+
+Let's say we have payoff matrices $A$ for player 1 and $B$ for player 2. Then, we have a correlated equilibrium if the strategy 
 
 $$
 z_{ij} = \mathbb{P}\left(\mathcal{R}= i, \mathcal{C} = j\right)
