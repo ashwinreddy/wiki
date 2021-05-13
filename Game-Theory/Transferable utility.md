@@ -2,4 +2,4 @@
 
 1. Maximize the total utility. Concretely, find the maximal entry of $A+B$.
 2. Decide how to split the utility. In the [[zero-sum game]] with payoff matrix $A-B$, find safety strategies $x_\*$ and $y_*$, called threat strategies, and let $\delta$ denote the value of the game. The disagreement point is $(d_1, d_2) = \left(x_\*^\mathsf{T} A y_\*, x_\*^\mathsf{T} B y_\*\right)$. Let $\delta = d_1 - d_2$.
-3. The cooperative strategy is to play the pure strategies $x = e_{i_*}$ and $y=e_{j_*}$
+3. The cooperative strategy is to play the pure strategies $x = e_{i_\*}$ and $y=e_{j_*}$
