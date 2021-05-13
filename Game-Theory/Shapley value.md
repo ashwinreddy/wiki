@@ -19,3 +19,9 @@ $$
 # Properties
 
 * If $v(\cdot)$ is $\\{0, 1\\}$-valued, then $\psi_i(v)$ is the probability that player $i$'s arrival converts a losing coalition into a winning one.
+
+It turns out we can write
+
+$$
+v = \sum_{S \subset N} c_S w_S
+$$
