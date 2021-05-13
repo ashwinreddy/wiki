@@ -1,5 +1,7 @@
 **Transferable utility** in a [[cooperative game]] means that players can trade utility on the side. 
 
+
+
 # Example
 
 For example, if a right-handed glove seller _A_ and two left-handed glove sellers _B_ and _C_ want to sell a pair of gloves to a customer, they will need to split the profit stably. 
