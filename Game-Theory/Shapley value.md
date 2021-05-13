@@ -8,6 +8,12 @@
 3. **Efficiency**: $$\sum_{i=1}^n \psi_i(v) = v(\\{1, \dots, n\\}).$$
 4. **Additivity**: $\psi_i(v+u) = \psi_i(v) + \psi_i(u).$
 
+# Shapley's Theorem
+
+$$
+\psi_i(v) = \frac{1}{n!} \sum_{\pi \in S_n} \psi_i(v, \pi).
+$$
+
 # Properties
 
 * If $v(\cdot)$ is $\\{0, 1\\}$-valued, then $\psi_i(v)$ is the probability that player $i$'s arrival converts a losing coalition into a winning one.
