@@ -10,6 +10,8 @@
 
 # Shapley's Theorem
 
+Let $\pi$ be some ordering of the player's arrivals. Let $\psi_i(v, \pi)$ be the marginal contribution of player $i$ when he enters in the ordering $\pi$.
+
 $$
 \psi_i(v) = \frac{1}{n!} \sum_{\pi \in S_n} \psi_i(v, \pi).
 $$
