@@ -22,6 +22,10 @@ But notice that the mixed equilibrium gives a worse expected payoff than if they
 
 We need to have some [[joint probability distribution]] over moves subject to a certain condition: Assume everyone knows the distribution. Each player must have no incentive to deviate from the mediator given the move they are told.
 
+$$
+\mathbb{E}[\text{payoff} \mid \text{move } i] \leqslant \mathbb{E}[\text{payoff} \mid \text{move } j]
+$$
+
 # Mathematical Conditions
 
 Let's say we have payoff matrices $A$ for player 1 and $B$ for player 2. Then, we have a correlated equilibrium if the strategy 
