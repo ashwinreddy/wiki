@@ -1,5 +1,9 @@
 A **correlated equilibrium** is an equilibrium in a [[general sum game]] where it's better for players to not make choices independently. Let's say we have payoff matrices $A$ for player 1 and $B$ for player 2. Then, we have a correlated equilibrium if the strategy 
 
+$$
+z_{ij} = \mathbb{P}\left(\mathcal{R}= i, \mathcal{C} = j\right)
+$$
+
 \begin{align}
 \sum_j z_{ij}a_{ij} \geqslant \sum_j z_{ij}a_{\ell j}, \qquad \forall i, \ell \tag{Player 1} \\\\
 \sum_{i} z_{ij}b_{ij} \geqslant \sum_i z_{ij}b_{ik}, \qquad \forall j,k \tag{Player 2}
