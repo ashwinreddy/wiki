@@ -27,3 +27,11 @@ Often upper bounded by $4/3$ (e.g. affine latency functions).
 # Braess Paradox
 
 Adding capacity to a system can result in increase of average driver travel time in equilibrium.
+
+# Formalism
+
+The latency
+
+$$
+L_P(\mathbf{f}) = \sum_{e \in P}\ell_e(F_e)
+$$
