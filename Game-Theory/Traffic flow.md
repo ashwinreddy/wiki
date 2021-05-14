@@ -52,5 +52,5 @@ We want no driver to be able to take another path that has lower cost whenever a
 A Nash equilibrium requires that
 
 $$
-L_P(\mathbf{f}) = \min_{P' \in \mathcal{P}_{st}} L_{P'}(\mathbf{f}).
+L_P(\mathbf{f}) = \min_{P' \in \mathcal{P}\_{st}} L_{P'}(\mathbf{f}).
 $$
