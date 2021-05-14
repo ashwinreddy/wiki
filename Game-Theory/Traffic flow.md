@@ -8,12 +8,6 @@ A strategy here is an element of $\Delta_N$, a [[probability mass function]] ove
 
 A socially optimal traffic flow is partition of traffic minimizing average latency.
 
-# [[Nash equilibrium]]
-
-We want no driver to be able to take another path that has lower cost whenever a path has positive probability of being used.
-
-there's always a NE, provided some basic assumptions about the functions.
-
 # Price of anarchy
 
 Compare the cost for Nash to socially optimal.
@@ -48,4 +42,15 @@ The total latency is the expected value of latency
 
 $$
 L(\mathbf{f}) = \sum_P f_P L_P(\mathbf{f})
+$$
+
+
+# [[Nash equilibrium]]
+
+We want no driver to be able to take another path that has lower cost whenever a path has positive probability of being used. There's always a NE, provided some basic assumptions about the functions.
+
+A Nash equilibrium requires that
+
+$$
+L_P(\mathbf{f}) = \min_{P' \in \mathcal{P}_{st}} L_{P'}(\mathbf{f}).
 $$
