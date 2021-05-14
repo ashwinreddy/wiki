@@ -32,6 +32,10 @@ Adding capacity to a system can result in increase of average driver travel time
 
 Each driver chooses a path $P \in \mathcal{P}_{st}$ which is the set of paths in which unit flow from source $s$ to destination $t$. Let $f_P$ be the fraction of drivers taking $P$. Let $\mathbf{f}$ be a distribution over every $f_P$.
 
+$$
+F_e \triangleq \sum_{P \mid e \in P} f_P
+$$
+
 The latency
 
 $$
