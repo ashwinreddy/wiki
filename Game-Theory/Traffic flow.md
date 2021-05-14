@@ -38,8 +38,14 @@ $$
 F_e \triangleq \sum_{P \mid e \in P} f_P
 $$
 
-The latency
+The latency for someone using path $P$ is
 
 $$
 L_P(\mathbf{f}) = \sum_{e \in P}\ell_e(F_e)
+$$
+
+The total latency is the expected value of latency
+
+$$
+L(\mathbf{f}) = \sum_P f_P L_P(\mathbf{f})
 $$
