@@ -49,7 +49,7 @@ $$
 
 We want no driver to be able to take another path that has lower cost whenever a path has positive probability of being used. There's always a NE, provided some basic assumptions about the functions.
 
-A Nash equilibrium requires that
+A Nash equilibrium flow $\mathbf{f}$ requires that whenever $f_P > 0$,
 
 $$
 L_P(\mathbf{f}) = \min_{P' \in \mathcal{P}\_{st}} L_{P'}(\mathbf{f}).
