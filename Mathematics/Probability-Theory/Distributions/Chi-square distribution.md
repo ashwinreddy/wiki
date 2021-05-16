@@ -1,0 +1,1 @@
+The **chi-square ($\chi^2$) distribution**
