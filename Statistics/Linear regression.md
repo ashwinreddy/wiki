@@ -4,4 +4,8 @@ $$
 y = ax + b
 $$
 
-We can use [[least squares]]
+We can use [[ordinary least squares]] to find a solution. It corresponds to 
+
+\begin{align}
+a &= \frac{S_{xy}}{S_{xx}}
+\end{align}
