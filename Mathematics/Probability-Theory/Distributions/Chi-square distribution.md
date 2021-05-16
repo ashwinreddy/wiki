@@ -4,4 +4,4 @@ $$
 Q = \sum_{i=1}^k Z_i^2
 $$
 
-where each $Z_i$ is an [[iid]] [[standard normal]]
+where each $Z_i$ is an [[iid]] [[standard normal distribution]]
