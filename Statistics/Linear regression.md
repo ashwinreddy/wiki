@@ -10,3 +10,5 @@ We can use [[ordinary least squares]] to find a solution. It corresponds to
 a &= \frac{S_{xy}}{S_{xx}} \\\\
 b &= \bar{y} - \bar{x}a
 \end{align}
+
+where $S_{xy} = \sum_{i=1}^n (x - \bar{x})(y - \bar{y})$ and $S_{yy}$ and $S_{xx}$ are defined correspondingly.
