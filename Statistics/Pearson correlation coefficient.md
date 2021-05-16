@@ -9,5 +9,5 @@ $$
 $$
 
 $$
-\text{Independence} \implies \text{Uncorrelated}
+X \perp Y \implies \rho_{X, Y} = 0.
 $$
