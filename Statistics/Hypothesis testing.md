@@ -1,6 +1,6 @@
 **Hypothesis testing** is about trying to fit a model for a set of observations (which is the opposite of usual probability). For example, say a coin is flipped a hundred times and comes up head a certain number of times. Should we say the coin is biased or not?
 
-Since the flips are modeled as a [[binomial distribution]] with the [[central limit theorem]] allowing us to approximate with a [[normal distribution]], we can say that
+Since the flips are modeled as a [[binomial distribution]] with $p = q = \frac{1}{2}$ and $n=100$ with the [[central limit theorem]] allowing us to approximate with a [[normal distribution]] $\mathcal{N}(np, \sqrt{npq} )$, we can say that
 
 # Formalization
 
