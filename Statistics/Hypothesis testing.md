@@ -2,6 +2,8 @@
 
 Since the number of heads $H$ can be modeled as a [[binomial distribution]] with $p = q = \frac{1}{2}$ and $n=100$, the [[central limit theorem]] allows us to approximate with a [[normal distribution]] $\mathcal{N}(np, \sqrt{npq} )$. Now the question is how much of a deviation from 50 heads would be cause to think the coin is biased.
 
+We pick a significance level of 5%. In other words, we will reject the hypothesis that the coin is unbiased if there's a less than 5% of getting the results that we do.
+
 # Formalization
 
 You are given some observations $x \sim X$ and told that there is some $\theta^* \in \Theta$ for which the data was drawn as $X \sim \mathbb{P}_{\theta^\*}$, and the task is to determine whether $\theta^*$ is in $\Theta_0$ or in $\Theta_1$ (which are MECE). If $\theta^\* \in \Theta_0$, we say $H_0$ is correct else $H_1$ is correct.
