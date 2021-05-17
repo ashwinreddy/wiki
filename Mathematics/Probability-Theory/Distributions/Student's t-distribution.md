@@ -1,1 +1,1 @@
-**Student's $t$-distribution**
+**Student's $t$-distribution** is a [[probability distribution]]
