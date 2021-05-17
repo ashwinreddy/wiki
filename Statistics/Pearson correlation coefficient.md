@@ -10,7 +10,7 @@ $$
 -1 \leqslant \rho_{X,Y} \leqslant 1
 $$
 
-If random variables are [[independence]]
+If random variables exhibit [[independence]], they will have 0 correlation coefficient.
 
 $$
 X \perp Y \implies \rho_{X, Y} = 0.
