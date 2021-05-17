@@ -1,0 +1,1 @@
+A **test of significance** is a method of inferring whether to reject or support a claim.
