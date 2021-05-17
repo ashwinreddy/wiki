@@ -16,3 +16,5 @@ where $S_{xy} = \sum_{i=1}^n (x - \bar{x})(y - \bar{y})$ and $S_{yy}$ and $S_{xx
 $$
 R = \frac{S_{y \hat{y} }}{ \sqrt{S_{yy} S_{\hat{y} \hat{y}} } }
 $$
+
+This is also easily seen through a [[linear least squares estimation]].
