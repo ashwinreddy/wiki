@@ -4,4 +4,8 @@ The **central limit theorem (CLT)** says that the empirical [[mean]] (a normaliz
 \frac{\bar{X} - \mu}{\sigma / \sqrt{n} } \overset{\mathsf{d}}{\longrightarrow} \mathcal{N}(0, 1) \tag{CLT}
 \end{equation}
 
+\begin{equation}
+\frac{\bar{X} - \mu}{\sigma / \sqrt{n} } xleftrightarrow[under]{over} \mathcal{N}(0, 1) \tag{CLT}
+\end{equation}
+
 A [[binomial distribution]] $\mathsf{Binomial}(n, p)$ for large $n$ is approximately $\mathcal{N}(np, np(1-p))$ (??)
