@@ -4,4 +4,4 @@ $$
 T = \frac{Z}{\sqrt{Y / f} }
 $$
 
-where $Z$ is a standard normal and $Y$ is a [[chi-squared distribution]] $\chi^2$ with $f$ as degrees of freedom.
+where $Z$ is a standard normal and $Y$ is a [[chi-square distribution]] $\chi^2$ with $f$ as degrees of freedom.
