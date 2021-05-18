@@ -6,10 +6,10 @@ We pick a significance level of $\alpha = 0.05$. In other words, we will reject 
 
 \begin{align}
 \mathbb{P}\left( |H - 50| > \text{deviation} \right) \leqslant \alpha \\\\
-\mathbb{P}\left( \frac{H - 50}{\sqrt{5}} >  \frac{\text{deviation}}{\sqrt{5}} \bigcup \frac{H - 50}{\sqrt{5}} < - \text{deviation} \right) \leqslant \alpha \\\\
-\mathbb{P}\left( \mathcal{N}(0, 1) > \text{deviation} / \sqrt{5} \right) + \mathbb{P}\left( \mathcal{N}(0, 1) < - \text{deviation} / \sqrt{5} \right) \leqslant \alpha \\\\
-1 - \Phi\left(\text{deviation} / \sqrt{5} \right) + \Phi\left(-\text{deviation} / \sqrt{5}\right) \leqslant \alpha 
+1 - \mathbb{P}\left( |H - 50| < \text{deviation} \right) \leqslant \alpha \\\\
 \end{align}
+
+
 
 # Formalization
 
