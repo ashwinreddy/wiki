@@ -4,9 +4,10 @@ Since the number of heads $H$ can be modeled as a [[binomial distribution]] with
 
 We pick a significance level of $\alpha = 0.05$. In other words, we will reject the hypothesis that the coin is unbiased if there's a less than 5% of getting the results that we do. Note that $\frac{H - 50}{\sqrt{5}} \sim \mathcal{N}(0, 1)$. So the question is
 
-$$
-\mathbb{P}\left( |H - 50| > \text{deviation} \right) \leqslant \alpha
-$$
+\begin{align}
+\mathbb{P}\left( |H - 50| > \text{deviation} \right) \leqslant \alpha \\\\
+\mathbb{P}\left( (H - 50)^2 > \text{deviation}^2 \right) \leqslant \alpha \\\\
+\end{align{
 
 # Formalization
 
