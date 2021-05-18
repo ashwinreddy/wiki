@@ -11,7 +11,7 @@ We pick a significance level of $\alpha = 0.05$. In other words, we will reject 
 1 - \left( \Phi(\text{deviation} / \sqrt{5}) - \Phi(-\text{deviation}/\sqrt{5}) \right) \leqslant \alpha \\\\
 1 - \left( \Phi(\text{deviation} / \sqrt{5}) - \left( 1 - \Phi(\text{deviation}/\sqrt{5}) \right) \right) \leqslant \alpha 
 \\\\
-2\left( \Phi(\text{deviation} / \sqrt{5}) \leqslant \alpha \\\\
+2\left( \Phi(\text{deviation} / \sqrt{5}) \right) \leqslant \alpha
 \end{align}
 
 
