@@ -6,7 +6,7 @@ We pick a significance level of $\alpha = 0.05$. In other words, we will reject 
 
 \begin{align}
 \mathbb{P}\left( |H - 50| > \text{deviation} \right) \leqslant \alpha \\\\
-\mathbb{P}\left( H > 50 + \text{deviation} \cup H < 50 - \text{deviation} \right) \leqslant \alpha \\\\
+\mathbb{P}\left( \frac{H - 50}{\sqrt{5}} >  \frac{\text{deviation}}{\sqrt{5}} \cup H < 50 - \text{deviation} \right) \leqslant \alpha \\\\
 \end{align}
 
 # Formalization
