@@ -7,6 +7,7 @@ We pick a significance level of $\alpha = 0.05$. In other words, we will reject 
 \begin{align}
 \mathbb{P}\left( |H - 50| > \text{deviation} \right) \leqslant \alpha \\\\
 1 - \mathbb{P}\left( |H - 50| < \text{deviation} \right) \leqslant \alpha \\\\
+1 - \mathbb{P}\left( 50 - \text{deviation} < H < 50 + \text{deviation} \right) \leqslant \alpha \\\\
 \end{align}
 
 
