@@ -2,18 +2,7 @@
 
 Since the number of heads $H$ can be modeled as a [[binomial distribution]] with $p = q = \frac{1}{2}$ and $n=100$, the [[central limit theorem]] allows us to approximate with a [[normal distribution]] $\mathcal{N}(np, \sqrt{npq} )$. Now the question is how much of a deviation from 50 heads would be cause to think the coin is biased.
 
-We pick a significance level of $\alpha = 0.05$. In other words, we will reject the hypothesis that the coin is unbiased if there's a less than 5% of getting the results that we do. Note that $\frac{H - 50}{\sqrt{5}} \sim \mathcal{N}(0, 1)$. So the question is
-
-\begin{align}
-\mathbb{P}\left( |H - 50| > \text{deviation} \right) \leqslant \alpha \\\\
-1 - \mathbb{P}\left( |H - 50| < \text{deviation} \right) \leqslant \alpha \\\\
-1 - \mathbb{P}\left( - \frac{\text{deviation}}{\sqrt{5}} < \frac{H - 50}{\sqrt{5}} < \frac{\text{deviation}}{\sqrt{5}} \right) \leqslant \alpha \\\\
-1 - \left( \Phi(\text{deviation} / \sqrt{5}) - \Phi(-\text{deviation}/\sqrt{5}) \right) \leqslant \alpha \\\\
-1 - \left( \Phi(\text{deviation} / \sqrt{5}) - \left( 1 - \Phi(\text{deviation}/\sqrt{5}) \right) \right) \leqslant \alpha 
-\\\\
-2 \Phi(\text{deviation} / \sqrt{5})  \leqslant \alpha \\\\
-\text{deviation}   \leqslant \sqrt{5} \Phi^{-1} \left( \frac{\alpha}{2} \right) \\\\
-\end{align}
+We pick a significance level of $\alpha = 0.05$. In other words, we will reject the hypothesis that the coin is unbiased if there's a less than 5% of getting the results that we do. We just need to find $\mathbb{P}(H > 50 + \text{deviation}) \leqslant \alpha$.
 
 
 
