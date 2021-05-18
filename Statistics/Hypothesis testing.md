@@ -2,7 +2,7 @@
 
 Since the number of heads $H$ can be modeled as a [[binomial distribution]] with $p = q = \frac{1}{2}$ and $n=100$, the [[central limit theorem]] allows us to approximate with a [[normal distribution]] $\mathcal{N}(np, \sqrt{npq} )$. Now the question is how much of a deviation from 50 heads would be cause to think the coin is biased.
 
-We pick a significance level of $\alpha = 0.05$. In other words, we will reject the hypothesis that the coin is unbiased if there's a less than 5% of getting the results that we do. We just need to find $\mathbb{P}(H > 50 + \text{deviation}) \leqslant \alpha$.
+We pick a significance level of $\alpha = 0.05$. In other words, we will reject the hypothesis that the coin is unbiased if there's a less than 5% of getting the results that we do. We just need to find $\mathbb{P}(H > 50 + \text{deviation}) \leqslant \frac{\alpha}{2}$.
 
 
 
