@@ -24,6 +24,10 @@ $$
 \Phi(x) = \frac{1}{\sqrt{2\pi}} \int_{-\infty}^x \exp(-u^2/2) \dd{u}
 $$
 
+Some properties
+
+* $\Phi(0) = \frac{1}{2}$
+* $\Phi(-x) = 1 - \Phi(x)$
 
 # Properties
 
