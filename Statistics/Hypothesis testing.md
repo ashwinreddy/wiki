@@ -1,6 +1,6 @@
 **Hypothesis testing** is about trying to fit a model for a set of observations (which is the opposite of usual probability). For example, say a coin is flipped a hundred times and comes up head a certain number of times. Should we say the coin is biased or not?
 
-Since the number of heads $H$ can be modeled as a [[binomial distribution]] with $p = q = \frac{1}{2}$ and $n=100$, the [[central limit theorem]] allows us to approximate with a [[normal distribution]] $\mathcal{N}(np, \sqrt{npq} )$. Now the question is how much of a deviation from 50 heads would be cause to think the coin is biased.
+Since the number of heads $H$ can be modeled as a [[binomial distribution]] with $p = q = \frac{1}{2}$ and $n=100$, the [[central limit theorem]] allows us to approximate with a [[normal distribution]] $\mathcal{N}(np, npq )$. Now the question is how much of a deviation from 50 heads would be cause to think the coin is biased.
 
 We pick a significance level of $\alpha = 0.05$. In other words, we will reject the hypothesis that the coin is unbiased if there's a less than 5% of getting the results that we do. We just need to find deviation such that $\mathbb{P}(H > 50 + \text{deviation}) \leqslant \frac{\alpha}{2}$. This happens to be 10 for $\alpha = 0.05$.
 
