@@ -20,4 +20,6 @@ We want a decision rule $\hat{X}: Y \to \\{0, 1\\}$ to get the highest probabili
 
 # Bayesian binary hypothesis testing
 
-Following from @hardtrecht
+Following from @hardtrecht, we want to "optimize over _algorithms_, searching for functions that map data to decisions and predictions.""
+
+---
