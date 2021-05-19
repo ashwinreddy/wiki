@@ -13,3 +13,6 @@ We want a decision rule $\hat{X}: Y \to \\{0, 1\\}$ to get the highest probabili
 \textrm{s.t.} \quad & \text{PFA} \leqslant \beta \\\\
 \end{aligned}
 \end{equation}
+
+# Bayesian binary hypothesis testing
+
