@@ -23,7 +23,7 @@ We want a decision rule $\hat{X}: Y \to \\{0, 1\\}$ to get the highest probabili
 Following from @hardtrecht, we want to "optimize over _algorithms_, searching for functions that map data to decisions and predictions." Define the loss function associated with declaring $H_i$ true when $H_j$ is true as $\ell(i, j)$. The risk with our rule $\hat{Y}$ is
 
 $$
-\hat{Y} = \mathbb{E}\left[ \ell(\hat{Y}(X), Y) \right]
+\hat{Y} = \mathbb{E}\left[ \ell\left(\hat{Y}(X), Y\right) \right]
 $$
 
 ---
