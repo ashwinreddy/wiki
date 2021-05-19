@@ -1,0 +1,1 @@
+The **probability integral transform** says that for a continuous [[random variable]] $X$ with [[cumulative distribution function]] $F_X$, the random variable $Y = F_X(X)$ has a standard [[continuous uniform distribution]].
