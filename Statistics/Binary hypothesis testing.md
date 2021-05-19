@@ -20,3 +20,4 @@ We want a decision rule $\hat{X}: Y \to \\{0, 1\\}$ to get the highest probabili
 
 # Bayesian binary hypothesis testing
 
+Following from @hardtrecht
