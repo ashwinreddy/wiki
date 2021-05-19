@@ -29,7 +29,7 @@ $$
 By [[law of total expectation]],
 
 \begin{align}
-\hat{Y} = \mathbb{E}\left[ \mathbb{E}\left[ \ell\left(\hat{Y}(X), Y\right) \right] \right]
+\hat{Y} = \mathbb{E}\left[ \mathbb{E}\left[ \ell\left(\hat{Y}(X), Y\right) \mid X \right] \right]
 \end{align}
 
 ---
