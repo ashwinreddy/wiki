@@ -26,6 +26,10 @@ $$
 \hat{Y} = \mathbb{E}\left[ \ell\left(\hat{Y}(X), Y\right) \right]
 $$
 
-By [[law of total expectation]]
+By [[law of total expectation]],
+
+\begin{align}
+\hat{Y} = \mathbb{E}\left[ \mathbb{E}\left[ \ell\left(\hat{Y}(X), Y\right) \right] \right]
+\end{align}
 
 ---
