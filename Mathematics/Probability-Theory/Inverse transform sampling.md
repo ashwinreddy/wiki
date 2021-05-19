@@ -1,0 +1,1 @@
+**Inverse transform sampling** uses the [[probability integral transform]] in reverse.
