@@ -12,6 +12,8 @@ A choice of [[coordinate system]] $\\{x^i\\}_{i=1}^n$ induces a [[basis]] for th
 T_p \mathcal{M} = \operatorname{span}\left\\{  \pdv{}{x^i}\Bigg|\_{p} \right\\}_{i=1}^n
 \end{equation}
 
+For example, $T_p \RR^2 = \langle \dd{x}, \dd{y} \rangle$.
+
 If we take dimensions of the equation above,
 
 $$
