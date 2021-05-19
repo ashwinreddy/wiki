@@ -32,4 +32,6 @@ By [[law of total expectation]],
 \hat{Y} = \mathbb{E}\left[ \mathbb{E}\left[ \ell\left(\hat{Y}(X), Y\right) \mid X \right] \right]
 \end{align}
 
+The book gives a derivation basically for [[Neyman-Pearson lemma]].
+
 ---
