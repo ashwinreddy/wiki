@@ -1,0 +1,1 @@
+The **quantile function** associated with a [[probability distribution]] for a [[random variable]]
