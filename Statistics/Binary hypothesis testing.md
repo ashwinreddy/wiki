@@ -1,3 +1,7 @@
+---
+bibliography: "Statistics/stat.bib"
+---
+
 **Binary hypothesis testing** is [[hypothesis testing]] where we have $X \in \\{0, 1\\}$ and
 
 \begin{align}
