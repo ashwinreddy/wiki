@@ -12,3 +12,7 @@ Note that this seems to use $\pi$! However, since we're using a ratio, we only n
 2. For $t=1, 2, \dots$,
     1. Sample $y$ from $Q(y \mid x_t)$
     2. Sample $\mathsf{Bernoulli}(A)$ to accept the proposal $x_{t+1} = y$ or keep the same value $x_{t+1} = x_t$
+
+# Resources
+
+* [[https://stephens999.github.io/fiveMinuteStats/MH_intro.html]]
