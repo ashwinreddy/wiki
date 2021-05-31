@@ -2,9 +2,11 @@ The **Metropolis-Hastings algorithm** produces samples from a [[probability dist
 
 We need a proposal distribution $Q(y \mid x)$ which proposes a new state $y$ when we're in the current state $x$.
 
-$$
+\begin{equation}
 A = \min \left\\{ 1, \frac{\pi(y) Q(x_t \mid y) }{\pi(x_t) Q(y \mid x_t) } \right\\}
-$$
+\end{equation}
+
+Note that this seems to use $\pi$! However, since we're using a ratio, we only need it up to proportionality.
 
 1. Initialize $X_1 = x_1$
 2. For $t=1, 2, \dots$,
