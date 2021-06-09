@@ -1,1 +1,1 @@
-A **stack** is a [[data structure]] that is like a stack of plates (i.e. LIFO can only place and remove from the top)
+A **stack** is a LIFO/FILO [[data structure]]. It is like a stack of plates (LIFO or FILO can only place and remove from the top).
