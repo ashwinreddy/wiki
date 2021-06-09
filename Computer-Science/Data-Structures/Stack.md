@@ -1,0 +1,1 @@
+A **stack** is a [[data structure]] that is like a stack of plates (can only place and remove from the top)
