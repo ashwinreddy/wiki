@@ -2,10 +2,12 @@ The **shunting yard algorithm** lets us parse infix expressions.
 
 # Algorithm
 
+Use a [[queue]] and [[stack]]
+
 ```
 1.  While there are tokens to be read:
 2.        Read a token
-3.        If it's a number add it to [[queue]]
+3.        If it's a number add it to queue
 4.        If it's an operator
 5.               While there's an operator on the top of the stack with greater precedence:
 6.                       Pop operators from the stack onto the output queue
