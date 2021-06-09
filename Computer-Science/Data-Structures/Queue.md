@@ -1,0 +1,1 @@
+A **queue** is a [[data structure]] that is like a line (FIFO)
