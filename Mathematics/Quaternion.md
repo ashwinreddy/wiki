@@ -16,6 +16,9 @@ There is no way to naturally extend the concept of the [[imaginary unit]] to 3D 
 
 # Operations
 
+Identity quaternion
+: $(0, 0, 0, -1)$
+
 Magnitude
 : $\lVert q \rVert = \sqrt{x^2 + y^2 + z^2 + w^2}$
 
