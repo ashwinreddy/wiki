@@ -10,15 +10,14 @@ There is no way to naturally extend the concept of the [[imaginary unit]] to 3D 
 \mathrm{i}^2 = \mathrm{j}^2 = \mathrm{k}^2 = \mathrm{ijk} = -1 \tag{Hamilton}
 \end{equation}
 
-This equation defines the basis elements for the quaternions, which we now define by
 
-\begin{equation}
-\mathbb{H} \doteq \mathbb{R} + \mathbb{R}i +\mathbb{R}j + \mathbb{R}k
-\end{equation}
 
 [[_TOC_]]
 
 # Operations
+
+Magnitude
+: $\lVert q \rVert = \sqrt{x^2 + y^2 + z^2 + w^2}$
 
 ## Multiplication
 
