@@ -4,10 +4,10 @@ $$
 q = w + x \mathrm{i} + y \mathrm{j} + z \mathrm{k}
 $$
 
-Where complex numbers are a 2D space, the quaternions form a 4D space as there is no way to naturally extend the concept of the [[imaginary unit]] to 3D space. The key equation in the inception of complex numbers came from Sir William Rowan Hamilton, who realized the importance of 4D space:
+There is no way to naturally extend the concept of the [[imaginary unit]] to 3D space. The key equation in the inception of complex numbers came from Sir William Rowan Hamilton, who realized the importance of 4D space:
 
 \begin{equation}
-i^2 = j^2 = k^2 = ijk = -1 \tag{Hamilton}
+\mathrm{i}^2 = \mathrm{j}^2 = \mathrm{k}^2 = \mathrm{ijk} = -1 \tag{Hamilton}
 \end{equation}
 
 This equation defines the basis elements for the quaternions, which we now define by
