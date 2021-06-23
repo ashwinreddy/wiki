@@ -60,3 +60,4 @@ def rotate_vector(vector, axis, angle):
 
 * [[https://fexpr.blogspot.com/2014/03/the-great-vectors-versus-quaternions.html]]
 * [[https://www.quantamagazine.org/the-strange-numbers-that-birthed-modern-algebra-20180906/]]
+* [[https://imadr.github.io/rotations-with-quaternions/]]
