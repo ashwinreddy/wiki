@@ -1,0 +1,1 @@
+An **event** requires a time $t$ and place $(x,y,z)$.
