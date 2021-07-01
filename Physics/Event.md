@@ -1,1 +1,1 @@
-An **event** requires a time $t$ and place $(x,y,z)$.
+An **event** requires a time and place. Therefore, it is a [[Four-vector]]
