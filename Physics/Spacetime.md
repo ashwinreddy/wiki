@@ -1,4 +1,4 @@
-**Spacetime** is a [[manifold]] that inextricably welds a time [[dimension]] with three spatial dimensions.
+**Spacetime** is a [[manifold]] that inextricably welds a time [[dimension]] with three spatial dimensions. Each point on this manifold is an [[event]].
 
 # Spacetime interval
 
