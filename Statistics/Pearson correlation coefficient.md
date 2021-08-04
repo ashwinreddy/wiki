@@ -16,4 +16,4 @@ $$
 X \perp Y \implies \rho_{X, Y} = 0.
 $$
 
-The converse is, in general, not true.
+The converse cannot be inferred generally.
