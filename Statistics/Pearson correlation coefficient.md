@@ -16,4 +16,4 @@ $$
 X \perp Y \implies \rho_{X, Y} = 0.
 $$
 
-In a [[linear regression]]
+The converse is, in general, not true.
