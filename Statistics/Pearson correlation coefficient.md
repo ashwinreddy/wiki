@@ -1,4 +1,4 @@
-**Pearson correlation coefficient** normalizes [[covariance]] with [[standard deviation]].
+The **Pearson correlation coefficient** between [[random variables|random variable]] $X$ and $Y$ tells us what kind of linear relationship exists between $X$ and $Y$. Computationally, it normalizes [[covariance]] with [[standard deviation]].
 
 $$
 \rho_{X,Y} = \frac{\mathsf{cov}(X, Y)}{\sigma_X \sigma_Y}
