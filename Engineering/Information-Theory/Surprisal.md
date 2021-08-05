@@ -1,4 +1,4 @@
-The **surprisal** or **Shannon information (content)** of an outcome $x$ is defined as the [[logarithm]] of the reciprocal of the probability of the outcome. 
+The **surprisal** or **Shannon information (content)** $I(x)$ of an outcome or event $x$ is defined as the [[logarithm]] of the reciprocal of the probability of the outcome. 
 
 $$
 I(x) \triangleq \log_b \frac{1}{p(x)}
