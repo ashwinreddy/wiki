@@ -4,9 +4,9 @@ $$
 f\big(\alpha x + (1-\alpha)y \big)\leq \alpha f(x) + (1-\alpha)f(y), \quad \alpha \in I
 $$
 
-[[Jensen's inequality]]
+[[Jensen's inequality]] applies to convex functions.
 
-Examples:
+# Examples
 
 * $x^2$, $e^{x}$, and $e^{-x}$
 * $-\log x$ and $x \log x$
