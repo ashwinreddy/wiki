@@ -1,4 +1,8 @@
-**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. In Hamiltonian mechanics, the equations of motion flow from the Hamiltonian $H : M \to \RR$ where $M$ is the [[configuration space]]. 
+**Hamiltonian mechanics** is a reformulation of Newtonian mechanics. In Hamiltonian mechanics, the equations of motion flow from the Hamiltonian $H : M \to \RR$ where $M$ is the [[configuration space]]. Typically,
+
+$$
+H(q, p) = \frac{|p|^2}{2m} + V(q)
+$$
 
 In relation to [[Lagrangian mechanics]],
 
