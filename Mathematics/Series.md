@@ -1,5 +1,5 @@
 A **series** is an expression of the form
 
 $$
-\sum_{k=k_0}^\infty a_k
+\sum_{k=m}^n a_k
 $$
