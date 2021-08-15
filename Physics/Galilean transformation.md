@@ -1,4 +1,13 @@
-A **Galilean transformation** describes how to switch between two reference frames in [[Galilean relativity]]. 
+A **Galilean transformation**. 
+
+Consider a Galilean coordinate space. Three key examples of Galilean transformations are:
+
+1. Uniform motion with velocity $\vec{v}$: $$g_1(t, \vec{x}) = (t, \vec{x} + \vec{v}t)$$
+
+
+---
+
+describes how to switch between two reference frames in [[Galilean relativity]]. 
 
 Typically, we consider a "stationary" reference frame and a "moving" reference frame (physics tells us that there is no such thing as a stationary reference frame, but intuitively we may spot or pick one). The moving frame has primed coordinates. We can always orient the coordinate systems so that the motion is one direction. Then, the only disagreement is in that first coordinate.
 
