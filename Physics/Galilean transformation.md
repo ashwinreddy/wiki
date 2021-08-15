@@ -4,7 +4,7 @@ Consider a Galilean coordinate space. Three key examples of Galilean transformat
 
 1. Uniform motion with velocity $\vec{v}$: $$g_1(t, \vec{x}) = (t, \vec{x} + \vec{v}t)$$
 2. Translation of the origin: $$g_2(t, \vec{x}) = (t + s, \vec{x} + \vec{s})$$
-3. Rotation of the coordinate axes: $$g_3(t, \vec{x}) = (t, G \vec{x}),$$ for $G$ [[orthogonal matrix]]
+3. Rotation of the coordinate axes: $$g_3(t, \vec{x}) = (t, G \vec{x}),$$ for $G$ [[orthogonal transformation|orthogonal matrix]].
 
 ---
 
