@@ -1,0 +1,1 @@
+**Galilean invariance** says that the laws of motion are the same in all [[inertial reference frame]].
