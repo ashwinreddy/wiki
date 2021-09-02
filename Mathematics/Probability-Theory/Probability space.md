@@ -4,6 +4,8 @@ The elements of $\mathcal{F}$ are called "events." Because $\mathcal{F}$ is a $\
 
 The probability measure $\mathbb{P}: \mathcal{F} \to [0,1]$ assigns probabilities to events.
 
+[[_TOC_]]
+
 # Sample Space Choice
 
 There's flexibility in our choice of $\Omega$ and $\mathcal{F}$. For a coin flip, $\Omega$ could be the configuration space of atoms in the universe. In general, we should just pick the simplest choice with high enough resolution for the problem at hand.
@@ -30,3 +32,8 @@ Then, a valid probability measure could have
 Say you flip two coins. Then $\Omega = \\{ HH, HT, TH, TT \\}$. We could have $$\mathcal{F} = \\{\emptyset, A := \text{First toss heads}, B := \text{First toss tails}, \Omega \\}.$$ Then, $\mathbb{P}(A) = p$ and $\mathbb{P}(B) = 1-p$ is fine. 
 
 Or, we could have $P(HH) = pq$, $P(HT) = p(1-q)$, $P(TH) = (1-p)q$, $P(TT) = (1-p)(1-q)$.
+
+# Properties
+
+Monotonicity
+: If $A \subseteq B$ are events, then $P(A) \leqslant P(B)$
