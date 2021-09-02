@@ -40,3 +40,6 @@ Monotonicity
 
 Subadditivity
 : If $(A_i)\_{i \geqslant 1}$ is a sequence of events in $\mathcal{F}$ and $A = \bigcup_{i \geqslant 1} A_i$, then $P(A) \leqslant \sum_{i \geqslant 1} P(A_i)$
+
+Continuity from below
+: If $A_1 \subseteq A_2 \subseteq \dots$ are events in $\mathcal{F}$ and $A = \bigcup_{i \geqslant 1} A_i$, then $P(A_i) \rightarrow P(A)$.
