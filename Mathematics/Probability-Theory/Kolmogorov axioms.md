@@ -6,21 +6,17 @@ The **Kolmogorov axioms** constrain a [[probability space]].
 \forall A \in \mathcal{F}: \mathbb{P}(A) \geqslant 0. \tag{KA1}
 \end{equation}
 
-## Axiom 2
-
 2. Probabilities sum to unity.
 
-$$
-\mathbb{P}(\Omega) = 1.
-$$
-
-## Axiom 3
+\begin{equation}
+\mathbb{P}(\Omega) = 1. \tag{KA2}
+\end{equation}
 
 3. Suppose you have countable events $A_1, A_2, \dots \in \mathcal{F}$ and they are mutually exclusive, i.e. $A_i \cap A_j = \emptyset$ for $i \neq j$. Then,
 
-$$
-\mathbb{P}\left(\bigcup_{i \geqslant 1} A_i \right) = \sum_{i \geqslant 1} \mathbb{P}(A_i).
-$$
+\begin{equation}
+\mathbb{P}\left(\bigcup_{i \geqslant 1} A_i \right) = \sum_{i \geqslant 1} \mathbb{P}(A_i). \tag{KA3}
+\end{equation}
 
 We say countable because you can imagine sampling a [[real number]] on the interval $[0, 1]$. The real numbers are an uncountable set, but distinct numbers, as samples, are mutually exclusive events. However, sampling any given number has probability 0. So,
 
