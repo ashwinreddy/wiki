@@ -1,14 +1,10 @@
 The **Kolmogorov axioms** constrain a [[probability space]].
 
-# Axioms
-
-## Axiom 1
-
 1. Probabilities are non-negative.
 
-$$
-\forall A \in \mathcal{F}: \mathbb{P}(A) \geqslant 0.
-$$
+\begin{equation}
+\forall A \in \mathcal{F}: \mathbb{P}(A) \geqslant 0. \tag{KA1}
+\end{equation}
 
 ## Axiom 2
 
