@@ -1,4 +1,4 @@
-A **probability space** is a triple $(\Omega, \mathcal{F}, \mathbb{P})$ with $\Omega$ a [[sample space]], $\mathcal{F} \subseteq \mathscr{P}(\Omega)$ a suitable [[σ-algebra]], and $\mathbb{P}$ a [[probability measure]]. They must satisfy the [[Kolmogorov axioms]].
+A **probability space** is a triple $(\Omega, \mathcal{F}, \mathbb{P})$ with $\Omega$ a [[sample space]], $\mathcal{F} \subseteq \mathscr{P}(\Omega)$ a collection of **events** (technically, a [[σ-algebra]] over $\Omega$), and $\mathbb{P}$ a [[probability measure]]. They must satisfy the [[Kolmogorov axioms]].
 
 The elements of $\mathcal{F}$ are called "events." Because $\mathcal{F}$ is a $\sigma$-algebra, the (countable) complements, unions, and intersections of events must also be an event.
 
