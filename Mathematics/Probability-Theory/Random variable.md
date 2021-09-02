@@ -1,4 +1,4 @@
-A **random variable (RV / r.v. / R.V.)** assigns a [[real number]] to every outcome in a [[sample space]] $\Omega$. Formally, we write it as a [[function]] $X: \Omega \to \RR$. So, they assign a discrete or continuous quantity to outcomes. 
+A **random variable (RV / r.v. / R.V.)** assigns a [[real number]] to every outcome in a [[sample space]] $\Omega$. Formally, we write it as a [[function]] $X: \Omega \to \bar{\RR}$. So, they assign a discrete or continuous quantity to outcomes. 
 
 However, we don't usually think about $X(\omega)$ directly. Instead, the r.v. annotates each possible outcome with a probability, typically in the form of a [[probability mass function]] (pmf) or [[probability density function]] (pdf). 
 
