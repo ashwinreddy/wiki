@@ -39,4 +39,4 @@ Monotonicity
 : If $A \subseteq B$ are events, then $P(A) \leqslant P(B)$
 
 Subadditivity
-: If $(A_i)_{i \geqslant 1}$ is a sequence of events in $\mathcal{F}$ and $A = \bigcup_{i \geqslant 1} A_i$, then $P(A) \leqslant \sum_{i \geqslant 1} P(A_i)$
+: If $(A_i)\_{i \geqslant 1}$ is a sequence of events in $\mathcal{F}$ and $A = \bigcup_{i \geqslant 1} A_i$, then $P(A) \leqslant \sum_{i \geqslant 1} P(A_i)$
