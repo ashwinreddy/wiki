@@ -38,7 +38,7 @@ Or, we could have $P(HH) = pq$, $P(HT) = p(1-q)$, $P(TH) = (1-p)q$, $P(TT) = (1-
 Monotonicity
 : If $A \subseteq B$ are events, then $P(A) \leqslant P(B)$
 
-Subadditivity
+Subadditivity / Union Bound
 : If $(A_i)\_{i \geqslant 1}$ is a sequence of events in $\mathcal{F}$ and $A = \bigcup_{i \geqslant 1} A_i$, then $P(A) \leqslant \sum_{i \geqslant 1} P(A_i)$
 
 Continuity from below
