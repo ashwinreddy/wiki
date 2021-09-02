@@ -43,3 +43,6 @@ Subadditivity
 
 Continuity from below
 : If $A_1 \subseteq A_2 \subseteq \dots$ are events in $\mathcal{F}$ and $A = \bigcup_{i \geqslant 1} A_i$, then $P(A_i) \rightarrow P(A)$.
+
+Continuity from above
+: If $A_1 \supseteq A_2 \supseteq \dots$ are events in $\mathcal{F}$ and $A = \bigcap_{i \geqslant 1} A_i$, then $P(A_i) \rightarrow P(A)$.
