@@ -6,7 +6,9 @@ We assume that the size of the problem is $n$. It branches into $a$ subproblems 
 T(n) = aT(n/b) + \order{n^d}
 \end{equation}
 
-The depth of the tree here is $\log_b n$ because we're dividing by $b$ each layer. We also know that at level $k$ we have $a^k$ nodes. So the width of the tree is $a^{\log_b n}$
+The depth of the tree here is $\log_b n$ because we're dividing by $b$ each layer. We also know that at level $k$ we have $a^k$ nodes. So the width of the tree is $a^{\log_b n} = n^{\log_b a}$.
+
+
 
 $$
 T(n) = \begin{cases}\order{n^d} & d > \log_b a \\\\ \order{n^d \log n} & d = \log_b a \\\\ \order{n^{\log_b a}}& d < \log_b a \end{cases}
