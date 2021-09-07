@@ -1,4 +1,4 @@
-The **master theorem** says
+The **master theorem** gives us a way to find the [[Big-O]]
 
 $$
 T(n) = aT(n/b) + O\left(n^d\right)
