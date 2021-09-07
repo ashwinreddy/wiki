@@ -7,5 +7,5 @@ T(n) = aT(n/b) + \order{n^d}
 $$
 
 $$
-T(n) = \begin{cases}O(n^d) & d > \log_b a \\\\ O(n^d \log n) & d = \log_b a \\\\ O(n^{\log_b a})& d < \log_b a \end{cases}
+T(n) = \begin{cases}\order{n^d} & d > \log_b a \\\\ \order{n^d \log n} & d = \log_b a \\\\ \order{n^{\log_b a}}& d < \log_b a \end{cases}
 $$
