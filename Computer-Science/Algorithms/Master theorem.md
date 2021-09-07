@@ -8,7 +8,7 @@ T(n) = aT(n/b) + \order{n^d}
 
 The depth of the tree here is $\log_b n$ because we're dividing by $b$ each layer. We also know that at level $k$ we have $a^k$ nodes. So the width of the tree is $a^{\log_b n} = n^{\log_b a}$.
 
-At level $k$ we have $a^k$ doing $\order{n / b^k}^d$.
+At level $k$ we have $a^k$ doing $\order{n / b^k}\^d$.
 
 
 $$
