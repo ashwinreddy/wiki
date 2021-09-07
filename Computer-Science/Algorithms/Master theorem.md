@@ -3,7 +3,7 @@ The **master theorem** gives us a way to find a [[Big O|Big O notation]] for a [
 We assume that the size of the problem is $n$. It branches into $a$ subproblems of size $n / b$. The work at each level is $\order{n^d}$.
 
 $$
-T(n) = aT(n/b) + O\left(n^d\right)
+T(n) = aT(n/b) + \order{n^d}
 $$
 
 $$
