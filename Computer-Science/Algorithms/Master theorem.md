@@ -1,4 +1,4 @@
-The **master theorem** gives us a way to find a [[Big O|Big O notation]] for the [[recurrence relation]]
+The **master theorem** gives us a way to find a [[Big O|Big O notation]] for a [[divide and conquer algorithm]] with [[recurrence relation]] 
 
 $$
 T(n) = aT(n/b) + O\left(n^d\right)
