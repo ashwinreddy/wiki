@@ -1,0 +1,1 @@
+**Big O notation** gives us a way to roughly compare the rate of growth of functions.
