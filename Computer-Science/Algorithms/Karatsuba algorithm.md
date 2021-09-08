@@ -1,1 +1,1 @@
-**Karatsuba algorithm** for multiplying numbers has runtime complexity $\order{n^{\lg 3}}$.
+**Karatsuba algorithm** for multiplying $n$-bit numbers $x$ and $y$ has runtime complexity $\order{n^{\lg 3}}$.
