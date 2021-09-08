@@ -1,1 +1,1 @@
-**Karatsuba algorithm** has $\order{n^{\lg 3}}$
+**Karatsuba algorithm** for multiplying numbers has runtime complexity $\order{n^{\lg 3}}$.
