@@ -1,1 +1,1 @@
-**Karatsuba algorithm**
+**Karatsuba algorithm** has $\order{n^{\lg 3}}$
