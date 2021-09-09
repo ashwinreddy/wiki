@@ -1,0 +1,1 @@
+The **square root of a matrix** $A$ is a matrix $\sqrt{A}$ such that $(\sqrt{A})^2=A$
