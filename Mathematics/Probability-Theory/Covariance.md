@@ -8,6 +8,8 @@ The **covariance** of [[random variables|random variable]] $X$ and $Y$ is the [[
 \operatorname{cov}(X, Y) = \mathbb{E}[XY] - \mathbb{E}[X] \mathbb{E}[Y]
 \end{equation}
 
+[[Variance]] is just covariance filled out with the same argument in both places.
+
 Covariance is [[bilinear map]], so
 
 $$
