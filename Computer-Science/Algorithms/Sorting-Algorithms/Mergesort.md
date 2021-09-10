@@ -1,0 +1,1 @@
+**Mergesort** is a [[divide-and-conquer algorithm]]
