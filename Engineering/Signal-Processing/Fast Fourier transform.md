@@ -1,1 +1,1 @@
-**Fast Fourier transform (FFT)**
+**Fast Fourier transform (FFT)** is an [[algorithm]] that will do a [[Discrete Fourier transform]] in $\order{n \log n}$ time.
