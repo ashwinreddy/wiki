@@ -1,1 +1,1 @@
-**Fast Fourier transform (FFT)** is an [[algorithm]] $\mathrm{FFT}(p, n)$ that will do a [[Discrete Fourier transform]] in $\order{n \log n}$ time.
+**Fast Fourier transform (FFT)** is an [[algorithm]] $\mathsf{FFT}(p, n)$ that will do a [[Discrete Fourier transform]] in $\order{n \log n}$ time.
