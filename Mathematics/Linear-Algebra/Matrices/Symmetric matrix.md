@@ -5,7 +5,6 @@ A \equiv A^\mathsf{T}
 \end{equation}
 
 
-
 # Characteristics
 
 The signature of a symmetric matrix is the triple $(n_0, n_+, n_-)$ of the count of zero, positive, and negative eigenvalues.
