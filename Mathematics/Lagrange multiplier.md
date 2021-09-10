@@ -1,3 +1,6 @@
+**Lagrange multipliers** are a way to solve constrained optimization problems.
+
+
 $$
 J(\vec{x}) = f(\vec{x}) + \lambda g(\vec{x})
 $$
