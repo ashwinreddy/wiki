@@ -1,1 +1,1 @@
-A **$n$th root of unity** is a [[complex number]] $z$ such that $z^n = 1.$
+A **$n$th root of unity** is a [[complex number]] $\omega$ such that $\omega^n = 1.$
