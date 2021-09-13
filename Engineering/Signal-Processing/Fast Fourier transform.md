@@ -6,3 +6,4 @@
 
 # Polynomial Multiplication
 
+We can represent a polynomial by its $n$ roots of unity.
