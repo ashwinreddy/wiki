@@ -6,4 +6,4 @@
 
 # Polynomial Multiplication
 
-We can represent a polynomial by its $n$ roots of unity.
+We can represent the polynomial by its $n$ roots of unity $(1, \omega_n, \omega_n^2, \dots, \omega_n^{n-1})$.
