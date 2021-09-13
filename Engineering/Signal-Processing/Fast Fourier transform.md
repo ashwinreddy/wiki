@@ -6,4 +6,9 @@
 
 # Polynomial Multiplication
 
-We can represent the polynomial by its $n$ roots of unity $(1, \omega_n, \omega_n^2, \dots, \omega_n^{n-1})$.
+We can represent an $d$-degree polynomial either by its 
+
+* coefficients
+* value at $d+1$ points
+
+$n$ roots of unity $(1, \omega_n, \omega_n^2, \dots, \omega_n^{n-1})$.
