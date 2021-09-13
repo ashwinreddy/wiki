@@ -1,0 +1,1 @@
+A **$n$th root of unity** is a [[complex number]] $z$ such that $z^n = 1.$
