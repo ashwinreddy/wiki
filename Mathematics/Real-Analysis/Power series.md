@@ -4,6 +4,12 @@ $$
 \sum_{n=0}^\infty a_n x^n
 $$
 
+One of the following must be true:
+
+* the series converges for all $x \in \RR$
+* the series converges only for $x=0$
+* the series converges for all $x$ in some bounded interval centered at 0; the interval may be open, half-open, or closed.
+
 # Root test
 
 $$
