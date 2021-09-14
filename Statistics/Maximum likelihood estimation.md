@@ -12,7 +12,7 @@ When we have a prior, we call this [[maximum a posteriori estimation]].
 We can use MLE to find the parameters to a [[statistical model]] by evaluating how likely they are to be right with the data $y$ on hand via the [[likelihood function]].
 
 $$
-\hat\theta = \arg\max_{\theta \in \Theta} \hat{L}(\theta ; y)
+\hat\theta_{\mathsf{MLE}} = \arg\max_{\theta \in \Theta} \hat{L}(\theta ; y)
 $$
 
 It can be convenient to use a log likelihood replacement $\ell(\theta) = \log L(\theta)$ and use the derivative to find the extremal.
