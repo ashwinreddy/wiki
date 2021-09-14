@@ -1,4 +1,4 @@
-A **power series** is an expression of the following form, $(a_n)_{n=0}^\infty$
+A **power series** for a [[sequence]] $(a_n)_{n=0}^\infty$ is the [[series]]
 
 $$
 \sum_{n=0}^\infty a_n x^n
