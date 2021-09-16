@@ -4,7 +4,7 @@
 \Pr(X=x, Y=y) = \Pr(X=x)\Pr(Y=y) \tag{Indepdence for RVs}
 \end{equation}
 
-means [[event]] $A$ and $B$ have no bearing on each other. We write $A \perp B$.
+For [[event]] $A$ and $B$, independent means they have no bearing on each other. We write $A \perp B$.
 
 $$
 \mathbb{P}(A \cap B) = \mathbb{P}(A)\mathbb{P}(B)
