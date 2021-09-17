@@ -1,1 +1,1 @@
-**Dijkstra's algorithm** is an [[algorithm]]
+**Dijkstra's algorithm** is an [[algorithm]] that builds off of [[breadth-first search]]
