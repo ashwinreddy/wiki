@@ -2,9 +2,9 @@
 
 ```python
 def dfs(G):
-    for all v in V:
+    for v in V:
         visited[v] = False
-    for all v in V:
+    for v in V:
         if not visited[v]:
             explore(v)
 ```
