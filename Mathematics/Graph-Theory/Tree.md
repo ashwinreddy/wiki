@@ -1,1 +1,1 @@
-A **tree** is a kind of [[graph]]. Using [[recursion]], we say a tree is either empty or a container for a list of trees.
+A **tree** is a kind of [[graph]]. A tree is acyclic and [[connected|connectivity]]. Using [[recursion]], we say a tree is either empty or a container for a list of trees.
