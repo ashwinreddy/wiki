@@ -1,4 +1,4 @@
-**Depth-first search (DFS)** is a [[graph]] exploration algorithm.
+**Depth-first search (DFS)** is a [[graph]] exploration algorithm. It identifies the vertices of a graph that can be reached from a starting point.
 
 ```python
 def dfs(G):
