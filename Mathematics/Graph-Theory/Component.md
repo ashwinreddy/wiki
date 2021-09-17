@@ -1,1 +1,1 @@
-A **component** is a [[connected|connectivity]] region.
+A **(connected) component** is a [[connected|connectivity]] region.
