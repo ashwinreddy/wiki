@@ -2,4 +2,4 @@
 
 # Runtime
 
-The overall runtime is $\order{|V| + \E|}$
+The overall runtime is $\order{|V| + |E|}$
