@@ -1,0 +1,1 @@
+**Breadth-first search (BFS)** is an [[algorithm]] to traverse a [[graph]]
