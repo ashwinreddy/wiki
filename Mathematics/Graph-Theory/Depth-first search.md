@@ -7,6 +7,14 @@ def dfs(G):
     for v in V:
         if not visited[v]:
             explore(v)
+
+def explore(G, v):
+    visited[v] = True
+    previsit(v)
+    for edge in v.edges:
+        if not visited[u]:
+            explore(u)
+    postvisit(v)
 ```
 
 # Runtime
