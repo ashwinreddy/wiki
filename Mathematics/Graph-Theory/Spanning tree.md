@@ -1,0 +1,1 @@
+A **spanning tree** of a [[graph]] is a [[tree]] with all the vertices of the graph.
