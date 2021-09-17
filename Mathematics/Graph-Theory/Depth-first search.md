@@ -11,4 +11,4 @@ def dfs(G):
 
 # Runtime
 
-The runtime is $\order{|V| + |E|}$
+The runtime is $\order{|V| + |E|}$, linear in the size of the input.
