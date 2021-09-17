@@ -1,1 +1,1 @@
-**Dijkstra's algorithm** is an [[algorithm]] that builds off of [[breadth-first search]] but using a [[priority queue]]
+**Dijkstra's algorithm** is an [[algorithm]] that builds off of [[breadth-first search]] but using a [[priority queue]].
