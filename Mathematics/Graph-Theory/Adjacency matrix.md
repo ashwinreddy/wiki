@@ -1,0 +1,5 @@
+An **adjacency matrix** is a [[square matrix]] for a [[graph]] where with [[Iverson bracket]] we say
+
+$$
+A_{ij} = [(i, j) \in E]
+$$
