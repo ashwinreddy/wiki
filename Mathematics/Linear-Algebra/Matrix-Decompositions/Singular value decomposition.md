@@ -3,14 +3,3 @@ The **singular value decomposition (SVD)** is a [[matrix decomposition]] that ge
 $$
 A = \underbrace{U}\_{m \times m}\cdot\underbrace{\Sigma}\_{m \times n}\cdot \underbrace{V^\mathsf{T}}_{n \times n}
 $$
-
-
-In other words, every linear transformation breaks down into rotation, stretch, rotation. Where does this come from, and why is it useful? We can reverse engineer it by considering the product of $A$ with itself. There are two possible ways to do this:
-
-$$
-A^\mathsf{T}A = V\Sigma^2 V^\mathsf{T}
-$$
-
-$$
-AA^\mathsf{T} = U\Sigma^2 U^\mathsf{T}
-$$
