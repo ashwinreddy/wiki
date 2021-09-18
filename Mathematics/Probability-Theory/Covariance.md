@@ -13,7 +13,7 @@ The **covariance** of [[random variables|random variable]] $X$ and $Y$ is the [[
 Covariance is [[bilinear map]], so
 
 $$
-\operatorname{cov}(cX,Y) = \operatorname{cov}(X,cY) = c\operatorname{cov}(X,Y)
+\operatorname{cov}(aX + bY,Z) = a\operatorname{cov}(X,Z) + b\operatorname{cov}(Y,Z)
 $$
 
 # Properties
