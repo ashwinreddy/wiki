@@ -4,6 +4,8 @@ $$
 A = U\Sigma V^\mathsf{T}
 $$
 
+where $U$ is $m \times m$ and $\Sigma$ is $m \times n$ and $V$ is $n \times n$
+
 In other words, every linear transformation breaks down into rotation, stretch, rotation. Where does this come from, and why is it useful? We can reverse engineer it by considering the product of $A$ with itself. There are two possible ways to do this:
 
 $$
