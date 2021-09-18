@@ -3,3 +3,5 @@ The **singular value decomposition (SVD)** is a [[matrix decomposition]] that ge
 \begin{equation}
 A = \underbrace{U}\_{m \times m}\cdot\underbrace{\Sigma}\_{m \times n}\cdot \underbrace{V^\mathsf{T}}_{n \times n}
 \end{equation}
+
+The [[column space]] come from $\\{ u_i \\}$. The [[row space]] comes from $\\{ v_i \\}$
