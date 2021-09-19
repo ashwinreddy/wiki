@@ -22,10 +22,6 @@ $$
 \nabla_x \lVert x \rVert^2_2 = 2x
 \end{equation\*}
 
-\begin{equation}
-\nabla_x \left(  Ax  \right) = A
-\end{equation}
-
 For a [[quadratic form]]
 
 \begin{equation\*}
