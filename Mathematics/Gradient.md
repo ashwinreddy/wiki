@@ -11,3 +11,9 @@ $$
 $$
 
 The gradient collapses to the [[derivative]] for a $f: \RR \to \RR$ function.
+
+# Examples
+
+\begin{equation}
+\nabla \lVert x \rVert^2_2 = 2x
+\end{equation}
