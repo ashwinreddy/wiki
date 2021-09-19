@@ -23,3 +23,9 @@ For a [[quadratic form]]
 \begin{equation}
 \nabla_x x^\mathsf{T} A x = \left(A + A^\mathsf{T}\right)x
 \end{equation}
+
+One that we see in machine learning a fair amount is 
+
+\begin{equation}
+\nabla_w (y - Xw)
+\end{equation}
