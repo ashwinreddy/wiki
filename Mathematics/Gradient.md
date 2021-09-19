@@ -31,5 +31,5 @@ For a [[quadratic form]]
 One that we see in machine learning a fair amount is 
 
 \begin{equation\*}
-\nabla_w \lVert y - Xw\rVert_2^2 = -2y^\mathsf{T}X + 2X^\mathsf{T}X
+\nabla_w \lVert y - Xw\rVert_2^2 = -2y^\mathsf{T}X + 2X^\mathsf{T}Xw
 \end{equation\*}
