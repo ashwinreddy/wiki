@@ -15,5 +15,9 @@ The gradient collapses to the [[derivative]] for a $f: \RR \to \RR$ function.
 # Examples
 
 \begin{equation}
-\nabla \lVert x \rVert^2_2 = 2x
+\nabla_x \lVert x \rVert^2_2 = 2x
+\end{equation}
+
+\begin{equation}
+\nabla_w \lVert y - Xw \rVert_2^2 = 
 \end{equation}
