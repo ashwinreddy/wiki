@@ -19,7 +19,7 @@ The gradient collapses to the [[derivative]] for a $f: \RR \to \RR$ function.
 \end{equation\*}
 
 \begin{equation}
-\nabla_x Ax = A
+\nabla_x \left(  Ax  \right) = A
 \end{equation}
 
 For a [[quadratic form]]
