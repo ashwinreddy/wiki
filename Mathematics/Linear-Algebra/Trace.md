@@ -12,3 +12,7 @@ Suppose you have an [[orthonormal basis]] $(\varphi_n)_n$. Then the trace is
 $$
 \operatorname{tr} K = \sum_n \langle \varphi_n , K \varphi_n \rangle
 $$
+
+# Properties
+
+* $\operatorname{trace}(A) = \operatorname{trace}\left(A^\mathsf{T}\right)$
