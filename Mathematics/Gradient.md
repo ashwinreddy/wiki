@@ -19,5 +19,5 @@ The gradient collapses to the [[derivative]] for a $f: \RR \to \RR$ function.
 \end{equation}
 
 \begin{equation}
-\nabla_x x^\mathsf{T} A x = (A + A^\mathsf{T})x
+\nabla_x x^\mathsf{T} A x = \left(A + A^\mathsf{T}\right)x
 \end{equation}
