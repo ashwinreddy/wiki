@@ -19,5 +19,5 @@ The gradient collapses to the [[derivative]] for a $f: \RR \to \RR$ function.
 \end{equation}
 
 \begin{equation}
-\nabla_w \lVert y - Xw \rVert_2^2 = 2(y-Xw)\nabla_w \left(y - Xw\right)
+\nabla_x x^\mathsf{T} A x = (A + A^\mathsf{T})x
 \end{equation}
