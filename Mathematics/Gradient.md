@@ -14,18 +14,18 @@ The gradient collapses to the [[derivative]] for a $f: \RR \to \RR$ function.
 
 # Examples
 
-\begin{equation*}
+\begin{equation\*}
 \nabla_x \lVert x \rVert^2_2 = 2x
-\end{equation*}
+\end{equation\*}
 
 For a [[quadratic form]]
 
-\begin{equation*}
+\begin{equation\*}
 \nabla_x x^\mathsf{T} A x = \left(A + A^\mathsf{T}\right)x
-\end{equation*}
+\end{equation\*}
 
 One that we see in machine learning a fair amount is 
 
-\begin{equation}
+\begin{equation\*}
 \nabla_w \lVert y - Xw\rVert_2^2
-\end{equation}
+\end{equation\*}
