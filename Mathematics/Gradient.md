@@ -27,5 +27,5 @@ For a [[quadratic form]]
 One that we see in machine learning a fair amount is 
 
 \begin{equation}
-\nabla_w (y - Xw)
+\nabla_w \lVert y - Xw\rVert_2^2
 \end{equation}
