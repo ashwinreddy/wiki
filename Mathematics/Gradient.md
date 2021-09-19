@@ -25,7 +25,7 @@ $$
 For a [[quadratic form]]
 
 \begin{equation\*}
-\nabla_x x^\mathsf{T} A x = \left(A + A^\mathsf{T}\right)x
+\nabla_x \left[ x^\mathsf{T} A x \right] = \left(A + A^\mathsf{T}\right)x
 \end{equation\*}
 
 One that we see in machine learning a fair amount is 
