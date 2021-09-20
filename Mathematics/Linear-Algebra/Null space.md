@@ -1,0 +1,1 @@
+The **null space** of a [[matrix]] $A$ is the [[set]] of all [[vector]] $x$ such that $Ax=0$.
