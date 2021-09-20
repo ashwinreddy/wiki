@@ -1,0 +1,1 @@
+A **singular value** of a matrix $A$. [[Singular value decomposition]].
