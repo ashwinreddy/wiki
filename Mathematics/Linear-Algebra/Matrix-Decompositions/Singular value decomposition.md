@@ -11,3 +11,8 @@ A = \underbrace{U}\_{m \times m}\cdot\underbrace{\Sigma}\_{m \times n}\cdot \und
 \end{equation}
 
 The [[range]] come from $\\{ u_i \\}$. The row space comes from $\\{ v_i \\}$.
+
+$$
+X^\mathsf{T}X = V\Sigma U^\mathsf{T}U\SigmaV^\mathsf{T}
+$$
+
