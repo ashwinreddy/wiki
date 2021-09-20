@@ -23,4 +23,4 @@ $$
 
 # Spaces
 
-The first $\rank$ The column space of $A$ 
+The first $\operatorname{rank}(A)$ left singular vectors are an orthonormal basis for the column space of $A$ .
