@@ -1,5 +1,5 @@
 A **system of linear equations**
 
 \begin{equation}
-Ax = b.
+y=Ax
 \end{equation}
