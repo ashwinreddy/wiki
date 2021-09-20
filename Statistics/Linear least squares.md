@@ -4,7 +4,7 @@ $$
 \mathbf{Ax} \approx \mathbf{b}.
 $$
 
-The solution is computed via [[Moore-Penrose pseudoinverse]]
+The solution is computed via [[Moore-Penrose inverse]]
 
 $$
 x = A^\dagger b
