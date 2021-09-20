@@ -1,7 +1,7 @@
-The **singular value decomposition (SVD)** is a [[matrix decomposition]] that generalizes a [[diagonalization]] to any $m \times n$ matrix $A$. 
+The **singular value decomposition (SVD)** is a [[matrix decomposition]] for any $m \times n$ matrix $A$ into
 
 $$
-X = \sum_{i: \sigma_i > 0}^{\min\\{n, d\\}} \sigma_i u_i v_i^\mathsf{T}
+A = U\Sigma V^{\mathsf{T}}
 $$
 
 The decomposition requires a [[diagonal matrix]] $\Sigma$ and [[orthogonal matrices|orthogonal matrix]] $U$ and $V$.
