@@ -1,0 +1,1 @@
+**Graph traversal algorithm** is an [[algorithm]] to visit each vertex in a [[graph]].
