@@ -1,1 +1,1 @@
-A **singular value** of a matrix $A$. [[Singular value decomposition]].
+A **singular value** of a matrix $A$ is a square root of non-negative eigenvalue of $A^\mathsf{T}A$. [[Singular value decomposition]].
