@@ -10,7 +10,7 @@ The decomposition requires a [[diagonal matrix]] $\Sigma$ and [[orthogonal matri
 A = \underbrace{U}\_{m \times m}\cdot\underbrace{\Sigma}\_{m \times n}\cdot \underbrace{V^\mathsf{T}}_{n \times n}
 \end{equation}
 
-The [[range]] come from $\\{ u_i \\}$. The row space comes from $\\{ v_i \\}$.
+The [[range]] come from the **left singular vectors** $\\{ u_i \\}$. The row space comes from **right singular vectors** $\\{ v_i \\}$.
 
 $$
 X^\mathsf{T}X = V\Sigma \cancel{U^\mathsf{T}U}\Sigma V^\mathsf{T} = V \Sigma^2 V^\mathsf{T}
