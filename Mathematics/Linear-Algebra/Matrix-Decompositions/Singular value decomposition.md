@@ -7,7 +7,7 @@ $$
 with [[diagonal matrix]] $\Sigma$ and [[orthogonal matrices|orthogonal matrix]] $U$ and $V$. Notice that we have
 
 $$
-AV = U\Sigma
+AV = U\Sigma.
 $$
 
 \begin{equation}
