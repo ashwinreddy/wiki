@@ -20,5 +20,3 @@ $$
 X^\mathsf{T}X = V\Sigma \cancel{U^\mathsf{T}U}\Sigma V^\mathsf{T} = V \Sigma^2 V^\mathsf{T}
 $$
 
-# Solving square linear systems
-
