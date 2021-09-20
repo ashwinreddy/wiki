@@ -3,3 +3,7 @@
 $$
 \mathbf{Ax} \approx \mathbf{b}.
 $$
+
+$$
+x = A^\dagger b
+$$
