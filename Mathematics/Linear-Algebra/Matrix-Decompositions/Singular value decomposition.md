@@ -10,4 +10,4 @@ The decomposition requires a [[diagonal matrix]] $\Sigma$ and [[orthogonal matri
 A = \underbrace{U}\_{m \times m}\cdot\underbrace{\Sigma}\_{m \times n}\cdot \underbrace{V^\mathsf{T}}_{n \times n}
 \end{equation}
 
-The [[range]] come from $\\{ u_i \\}$. The row space comes from $\\{ v_i \\}$
+The [[range]] come from $\\{ u_i \\}$. The row space comes from $\\{ v_i \\}$.
