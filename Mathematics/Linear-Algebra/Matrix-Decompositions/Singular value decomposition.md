@@ -13,6 +13,6 @@ A = \underbrace{U}\_{m \times m}\cdot\underbrace{\Sigma}\_{m \times n}\cdot \und
 The [[range]] come from $\\{ u_i \\}$. The row space comes from $\\{ v_i \\}$.
 
 $$
-X^\mathsf{T}X = V\Sigma \cancel{U^\mathsf{T}U}\Sigma V^\mathsf{T}
+X^\mathsf{T}X = V\Sigma \cancel{U^\mathsf{T}U}\Sigma V^\mathsf{T} = V \Sigma^2 V^\mathsf{T}
 $$
 
