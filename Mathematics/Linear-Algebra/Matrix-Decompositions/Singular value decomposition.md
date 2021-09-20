@@ -4,7 +4,11 @@ $$
 A = U\Sigma V^{\mathsf{T}}.
 $$
 
-with [[diagonal matrix]] $\Sigma$ and [[orthogonal matrices|orthogonal matrix]] $U$ and $V$.
+with [[diagonal matrix]] $\Sigma$ and [[orthogonal matrices|orthogonal matrix]] $U$ and $V$. Notice that we have
+
+$$
+AV = U\Sigma
+$$
 
 \begin{equation}
 A = \underbrace{U}\_{m \times m}\cdot\underbrace{\Sigma}\_{m \times n}\cdot \underbrace{V^\mathsf{T}}_{n \times n}
@@ -15,4 +19,6 @@ The [[range]] come from the **left singular vectors** $\\{ u_i \\}$, the eigenve
 $$
 X^\mathsf{T}X = V\Sigma \cancel{U^\mathsf{T}U}\Sigma V^\mathsf{T} = V \Sigma^2 V^\mathsf{T}
 $$
+
+# Solving square linear systems
 
