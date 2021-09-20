@@ -23,4 +23,6 @@ $$
 
 # Spaces
 
-The first $\operatorname{rank}(A)$ left singular vectors are an orthonormal basis for the column space of $A$ .
+The first $\operatorname{rank}(A)$ left singular vectors are an orthonormal basis for the column space of $A$.
+
+The last right singular vectors are an orthonormal basis for the [[null space]] of $A$.
