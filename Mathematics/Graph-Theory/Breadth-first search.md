@@ -4,7 +4,18 @@
 
 ```python
 def bfs(G, root):
-    pass
+    q = queue()
+    visited[root] = True
+    q.queue(root)
+    
+    while q:
+        v = q.dequeue()
+        if v is leaf:
+            return v
+        for edges from v:
+            if w is not explored:
+                visited[w] = True
+                q.queue(w)
 ```
 
 # Runtime
