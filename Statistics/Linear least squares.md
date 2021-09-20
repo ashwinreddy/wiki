@@ -1,5 +1,5 @@
 **Linear least squares** is solving
 
 $$
-Ax \approx b
+\mathbf{Ax} \approx \mathbf{b}.
 $$
