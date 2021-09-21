@@ -6,3 +6,5 @@ Sink
 
 Source
 : A vertex with indegree 0, meaning no vertex points into it.
+
+> Every directed graph is a [[directed acyclic graph]] of its [[strongly connected components|connectivity]].
