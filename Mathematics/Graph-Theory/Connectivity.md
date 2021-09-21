@@ -1,1 +1,3 @@
 **Connectivity** in a [[graph]].
+
+Two nodes of a directed graph are _connected_ if there is a path from each to the other.
