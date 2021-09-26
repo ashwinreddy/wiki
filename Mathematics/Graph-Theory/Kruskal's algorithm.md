@@ -1,4 +1,4 @@
-**Kruskal's [[minimum spanning tree]] algorithm** starts with a graph $G$ and builds the MST by selecting an edge according to the following rule:
+**Kruskal's algorithm** finds a [[minimum spanning tree]] for a graph $G$.
 
 _Repeatedly add the next lightest edge that doesn't produce a cycle._
 
