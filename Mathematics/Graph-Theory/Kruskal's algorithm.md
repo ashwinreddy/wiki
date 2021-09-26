@@ -1,8 +1,6 @@
-**Kruskal's algorithm** finds a [[minimum spanning tree]] for a graph $G$.
+**Kruskal's algorithm** is a [[greedy algorithm]] that finds a [[minimum spanning tree]] for a graph $G$.
 
 _Repeatedly add the next lightest edge that doesn't produce a cycle._
-
-This is a [[greedy algorithm]]
 
 # Runtime analysis
 
