@@ -1,1 +1,1 @@
-A **cut** is a [[partition]] of the vertices of a graph into two disjoint subsets.
+A **cut** is a [[partition]] of the vertices of a [[graph]] into two disjoint subsets.
