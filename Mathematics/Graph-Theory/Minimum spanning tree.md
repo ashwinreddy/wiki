@@ -3,3 +3,4 @@ A **minimum spanning tree (MST)** is a [[tree]] $T = (V, E' \subseteq E)$ for an
 $$
 \mathsf{weight}(T) = \sum_{e \in E'} w_e
 $$
+
