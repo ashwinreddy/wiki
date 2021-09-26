@@ -1,0 +1,1 @@
+A **linked list** is a [[data structure]].
