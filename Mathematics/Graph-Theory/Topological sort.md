@@ -1,1 +1,1 @@
-A **topological sort** takes a [[directed acyclic graph]]
+A **topological sort** takes a [[directed acyclic graph]] and outputs an ordering of edges $(u, v)$ such that $u$ must come before $v$ in ordering.
