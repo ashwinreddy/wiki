@@ -6,7 +6,7 @@ This is a [[greedy algorithm]]
 
 # Runtime analysis
 
-This algorithm takes $\order{|E|}$ time.
+This algorithm takes $\order{|E| \log |V|}$ time.
 
 # Pseudocode
 
