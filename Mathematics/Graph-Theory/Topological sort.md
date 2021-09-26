@@ -1,0 +1,1 @@
+A **topological sort** takes a [[directed acyclic graph]]
