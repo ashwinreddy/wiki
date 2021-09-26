@@ -2,9 +2,7 @@
 
 _Repeatedly add the next lightest edge that doesn't produce a cycle._
 
-# Runtime analysis
-
-This algorithm takes $\order{|E| \log |V|}$ time.
+[[_TOC_]]
 
 # Pseudocode
 
@@ -23,3 +21,7 @@ def kruskal(G, w):
             X.add(edge)
             union(edge.u, edge.v)
 ```
+
+# Runtime analysis
+
+This algorithm takes $\order{|E| \log |V|}$ time.
