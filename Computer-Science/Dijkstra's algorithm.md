@@ -1,1 +1,1 @@
-**Dijkstra's algorithm** is an [[algorithm]] that finds the shortest path between nodes in a [[graph]] $G = (V,E)$ with positive edge lengths $\\{\ell_e: e \in E\\}$, building off of [[breadth-first search]] but using a [[priority queue]].
+**Dijkstra's algorithm** is an [[algorithm]] that finds the shortest path between nodes in a [[graph]] $G = (V,E)$ with positive edge lengths $\\{\ell_e: e \in E\\}$ and a start vertex $s \in V$. It builds off of [[breadth-first search]] but using a [[priority queue]].
