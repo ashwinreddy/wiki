@@ -1,0 +1,1 @@
+A **strongly connected component (SCC)** is a maximal subset of strongly [[connected|connectivity]] vertices.
