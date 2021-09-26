@@ -3,5 +3,3 @@ An **adjacency matrix** is a [[square matrix]] for a [[graph]] where with [[Iver
 $$
 A_{ij} = w_{ij }\cdot \left[(i, j) \in E\right]
 $$
-
-We can also represent this as an [[array]] of [[linked list]]
