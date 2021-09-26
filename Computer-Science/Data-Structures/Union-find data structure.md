@@ -1,0 +1,1 @@
+A **union-find data structure** stores a partition of a set into disjoint subsets.
