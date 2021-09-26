@@ -1,1 +1,1 @@
-A **queue** is a [[data structure]] that is like a line (first-in first-out, abbrev. FIFO).
+A **queue** is a [[data structure]] that is so-called because it has first-in first-out (FIFO) behavior.
