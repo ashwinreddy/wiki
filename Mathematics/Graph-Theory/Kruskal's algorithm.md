@@ -4,6 +4,10 @@ _Repeatedly add the next lightest edge that doesn't produce a cycle._
 
 This is a [[greedy algorithm]]
 
+# Runtime analysis
+
+This algorithm takes $\order{|E|}$
+
 # Pseudocode
 
 ```python
