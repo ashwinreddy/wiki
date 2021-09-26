@@ -2,6 +2,8 @@
 
 _Repeatedly add the next lightest edge that doesn't produce a cycle._
 
+# Pseudocode
+
 ```python
 def kruskal(G, w):
     # Input: connected undirected graph G with edge weights w
