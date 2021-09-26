@@ -7,3 +7,7 @@ Undirected
 : $E$ is a set of unordered pairs from $V$
 
 We can use an [[adjacency matrix]] or an [[adjacency list]].
+
+# Algorithms
+
+* [[Depth-first search]]
