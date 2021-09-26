@@ -2,7 +2,7 @@
 
 _Repeatedly add the next lightest edge that doesn't produce a cycle._
 
-[[_TOC_]]
+We will need a [[union-find data structure]].
 
 # Pseudocode
 
