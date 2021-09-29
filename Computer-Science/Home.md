@@ -1,5 +1,0 @@
-
-
-# Resources
-
-https://teachyourselfcs.com/
