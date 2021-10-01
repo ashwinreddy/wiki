@@ -12,7 +12,7 @@ x_j^{(\ell)} &= g\left( \sum_{i=0}\^{d^{(\ell -1 )}} w_{ij}^{(\ell)} x_i^{(\ell 
 In the last step, we have defined shorthand $S_j^{(\ell)} \triangleq \sum_{i=0}\^{d^{(\ell -1 )}} w_{ij}^{(\ell)} x_i^{(\ell -1)}$ means the weighted input to node $j$ in layer $\ell$. We will now use $\delta_j$ to represent the partial derivative of error $e$ w.r.t $S_j$.
 
 \begin{align\*}
-\nabla_w e(w) &= \pdv{e(w)}{w_{ij}^{(\ell)}} \\\\
+\nabla_w e(w) &= \left[ \pdv{e(w)}{w_{ij}^{(\ell)}} \right] \\\\
 &= \pdv{e(w)}{S_j\^{(\ell)}}\times\pdv{S_j\^{(\ell)}}{w_{ij}^{(\ell)}} \\\\
 &= \delta_j^{(\ell)} x_{i}^{(\ell -1)}
 \end{align\*}
@@ -20,5 +20,11 @@ In the last step, we have defined shorthand $S_j^{(\ell)} \triangleq \sum_{i=0}\
 We can now use [[induction|mathematical induction]]. For example, if we have a MSE loss for a single output neural network, then the final layer $L$ would have
 
 $$
-\pdv{e(w)}{S_1^{(L)}} = \pdv{}{S_1^{(L)}} \left [ \frac{1}{2}\left( g(S_1^{(L)}) - y \right)^2 \right ]
+\pdv{e(w)}{S_1^{(L)}} = \pdv{}{S_1^{(L)}} \left [ \frac{1}{2}\left( g(S_1^{(L)}) - y \right)^2 \right ],
+$$
+
+which is easy enough to compute. For the inductive step, we note that
+
+$$
+\pdv{}{}
 $$
