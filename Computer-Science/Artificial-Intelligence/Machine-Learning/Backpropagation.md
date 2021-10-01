@@ -32,7 +32,7 @@ which is easy enough to compute. For the inductive step, we note that
 
 What this tells us is that
 
-\begin{align\*}
+\begin{align}
 \delta_{i}^{(\ell -1)} &= \sum_j \delta_j^{(\ell)} w_{ij}^{(\ell)} g'\left(S_i^{(\ell - 1)}\right) \\\\
 &= g'\left(S_i^{(\ell - 1)}\right) \sum_j w_{ij}^{(\ell)} \delta_{j}^{(\ell)}
-\end{align\*}
+\end{align}
