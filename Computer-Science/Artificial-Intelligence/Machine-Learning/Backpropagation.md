@@ -9,7 +9,7 @@ x_j^{(\ell)} &= g\left( \sum_{i=0}\^{d^{(\ell -1 )}} w_{ij}^{(\ell)} x_i^{(\ell 
 &= g\left(S_j^{(\ell)}\right).
 \end{align\*}
 
-In the last step, we have defined shorthand $S_j^{(\ell)}$ means the weighted input to node $j$ in layer $\ell$. We will now use $\delta_j$ to represent the partial derivative of error $e$ w.r.t $S_j$.
+In the last step, we have defined shorthand $S_j^{(\ell)} \triangleq \sum_{i=0}\^{d^{(\ell -1 )}} w_{ij}^{(\ell)} x_i^{(\ell -1)}$ means the weighted input to node $j$ in layer $\ell$. We will now use $\delta_j$ to represent the partial derivative of error $e$ w.r.t $S_j$.
 
 \begin{align\*}
 \nabla_w e(w) &= \pdv{e(w)}{w_{ij}^{(\ell)}} \\\\
