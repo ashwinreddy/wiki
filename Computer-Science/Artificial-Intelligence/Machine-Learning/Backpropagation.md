@@ -16,3 +16,5 @@ In the last step, we have defined shorthand $S_j^{(\ell)} \triangleq \sum_{i=0}\
 &= \pdv{e(w)}{S_j\^{(\ell)}}\times\pdv{S_j\^{(\ell)}}{w_{ij}^{(\ell)}} \\\\
 &= \delta_j^{(\ell)} x_{i}^{(\ell -1)}
 \end{align\*}
+
+We can now use [[induction]]
