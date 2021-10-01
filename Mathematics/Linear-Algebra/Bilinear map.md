@@ -3,3 +3,7 @@ A **bilinear map** is a [[multilinear map]] $B: V \times W \to X$ such that for 
 # Properties
 
 * $B(v, 0) = B(0, w) = 0$
+
+# Examples
+
+* [[Covariance]]
