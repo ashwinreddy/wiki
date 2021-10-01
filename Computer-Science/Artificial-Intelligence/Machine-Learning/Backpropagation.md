@@ -19,9 +19,9 @@ In the last step, we have defined shorthand $S_j^{(\ell)} \triangleq \sum_{i=0}\
 
 We can now use [[induction|mathematical induction]]. For example, if we have a MSE loss for a single output neural network, then the final layer $L$ would have
 
-$$
+\begin{equation}
 \pdv{e(w)}{S_1^{(L)}} = \pdv{}{S_1^{(L)}} \left [ \frac{1}{2}\left( g(S_1^{(L)}) - y \right)^2 \right ],
-$$
+\end{equation}
 
 which is easy enough to compute. For the inductive step, we note that
 
