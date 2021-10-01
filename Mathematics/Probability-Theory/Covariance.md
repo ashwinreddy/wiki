@@ -16,6 +16,8 @@ $$
 \operatorname{cov}(aX + bY,Z) = a\operatorname{cov}(X,Z) + b\operatorname{cov}(Y,Z)
 $$
 
+The [[Pearson correlation coefficient]]
+
 # Properties
 
 * If $X$ and $Y$ are [[independent|independence]], then $\operatorname{cov}(X, Y) = 0$. But you can't assume the converse in general!
