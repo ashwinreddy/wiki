@@ -16,7 +16,7 @@ $$
 \operatorname{cov}(aX + bY,Z) = a\operatorname{cov}(X,Z) + b\operatorname{cov}(Y,Z)
 $$
 
-The [[Pearson correlation coefficient]]
+The [[Pearson correlation coefficient]] is just a normalized covariance.
 
 # Properties
 
