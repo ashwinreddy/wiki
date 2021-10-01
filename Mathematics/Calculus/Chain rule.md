@@ -16,8 +16,8 @@ Heuristically,
 
 # Multivariable
 
-_Example_. Suppose $u(x, y) = x^2 + y^2$ where $x(r, t) = r \sin (t)$ and $y(r, t) = \sin^2(t)$. 
+_Example_. Suppose $u(x, y) = x^2 + y^2$ where $x(r, t) = r \sin (t)$ and $y(r, t) = \sin^2(t)$. Then,
 
 $$
-\pdv{u}{r}
+\pdv{u}{r} = \pdv{u}{x}\pdv{x}{r} + \pdv{u}{y}\pdv{y}{r}
 $$
