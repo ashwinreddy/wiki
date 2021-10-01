@@ -25,6 +25,7 @@ $$
 
 which is easy enough to compute. For the inductive step, we note that
 
-$$
-\pdv{}{}
-$$
+\begin{align\*}
+\delta_{i}^{(\ell - 1)} &= \pdv{e(w)}{s_i^{\ell -1 }}  \\\\
+&= \sum_j \pdv{e(w)}{S_j^{(\ell)}} \pdv{S_j^{(\ell)}}{x_i^{(\ell -1)}} \pdv{x_i^{(\ell -1)}}{S_i^{(\ell - 1)}}
+\end{align\*}
