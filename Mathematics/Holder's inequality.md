@@ -1,0 +1,1 @@
+**Holder's inequality** generalizes [[Cauchy-Shwarz inequality]]
