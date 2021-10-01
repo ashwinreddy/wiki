@@ -7,3 +7,5 @@ The mathematical abstraction of the neuron is a unit that computes
 $$
 y_i  = g\left(\sum_j w_{ij} x_j\right)
 $$
+
+where $g$ is an [[activation function]].
