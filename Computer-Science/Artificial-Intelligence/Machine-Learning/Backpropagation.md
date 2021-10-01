@@ -17,4 +17,4 @@ In the last step, we have defined shorthand $S_j^{(\ell)} \triangleq \sum_{i=0}\
 &= \delta_j^{(\ell)} x_{i}^{(\ell -1)}
 \end{align\*}
 
-We can now use [[induction]]
+We can now use [[induction|mathematical induction]]
