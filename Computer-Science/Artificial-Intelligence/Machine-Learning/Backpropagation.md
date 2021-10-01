@@ -6,5 +6,7 @@ Let $x^{(\ell)}\_j$ denote output of neuron $j$ in layer $\ell$. Let $d^{(\ell)}
 
 \begin{align\*}
 x_j^{(\ell)} &= g\left( \sum_{i=0}\^{d^{(\ell -1 )}} w_{ij}^{(\ell)} x_i^{(\ell -1)}\right) \\\\
-&= g\left(S_j^{(\ell)}\right)
+&= g\left(S_j^{(\ell)}\right).
 \end{align\*}
+
+In the last step, we have defined shorthand $S_j^{(\ell)}$ means the weighted input to node $j$ in layer $\ell$.
