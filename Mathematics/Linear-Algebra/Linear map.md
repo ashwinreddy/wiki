@@ -8,4 +8,4 @@ $$
 f(v_1+v_2) = f(v_1) + f(v_2)
 $$
 
-It can be represented by a [[matrix]] of coefficients.
+At least in the finite case, it can be represented by a [[matrix]] of coefficients. 
