@@ -1,8 +1,5 @@
 **Backpropagation** is an [[algorithm]] for training an [[artificial neural network]], nowadays enabled by [[automatic differentiation]].
 
-# Overview
-
-The idea of the algorithm is that we want to track back the updates from the loss to each individual node. To do so, we're going to introduce $\delta$, which is the partial derivative of error with respect to the weighted sum input.
 
 # Simple Feedforward Example
 
