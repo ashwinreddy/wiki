@@ -6,4 +6,4 @@ $$
 
 What makes matrices useful is [[matrix multiplication]].
 
-Note that if $A \in \mathbb{R}^{m \times n}$, then it is really a [[linear map]] $A: \mathbb{R}^n \to \mathbb{R}^m$.
+Note that if $A \in \mathbb{R}^{m \times n}$, then it is really a [[linear map]] $A: \mathbb{R}^n \to \mathbb{R}^m$ since it can take in a vector $\vec{v} \in \mathbb{R}^n$ and spit out a vector $A(\vec{v}) \in \mathbb{R}^m$.
