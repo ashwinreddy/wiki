@@ -1,6 +1,6 @@
 The **gradient** of a function can be a sloppy term.
 
-| |Scalar|Vector|Matrix
+|Input/Output |Scalar|Vector|Matrix
 |--|-----|------|------|
 |**Scalar**|[[Derivative]]||
 |**Vector**|
