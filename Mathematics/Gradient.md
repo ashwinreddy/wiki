@@ -14,9 +14,13 @@ The gradient collapses to the [[derivative]] for a $f: \RR \to \RR$ function.
 
 # Examples
 
+An [[inner product]] against a fixed vector is a function that takes a vector and returns a scalar:
+
 $$
 \nabla_x \langle x, a\rangle = a
 $$
+
+The [[L2 norm]]
 
 \begin{equation\*}
 \nabla_x \lVert x \rVert^2_2 = 2x
