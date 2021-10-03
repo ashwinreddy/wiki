@@ -1,4 +1,15 @@
-The **gradient** of a scalar-valued [[function]] $f: \RR^n \to \RR$ is a [[vector field]] where the [[vector]] points in the direction of maximal ascent. Concretely, it is the collection of a functions [[partial derivatives|partial derivative]].
+The **gradient** of a function can be a sloppy term.
+
+| |Scalar|Vector|Matrix
+|--|-----|------|------|
+|Scalar|
+|Vector|
+|Matrix|
+
+
+
+
+of a scalar-valued [[function]] $f: \RR^n \to \RR$ is a [[vector field]] where the [[vector]] points in the direction of maximal ascent. Concretely, it is the collection of a functions [[partial derivatives|partial derivative]].
 
 \begin{equation}
 \nabla f(x) \triangleq \begin{bmatrix} \frac{\partial f}{\partial x_1} \\\\\ \vdots \\\\\ \frac{\partial f}{\partial x_n} \end{bmatrix}
