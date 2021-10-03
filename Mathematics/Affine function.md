@@ -4,4 +4,8 @@ $$
 f(x_1, \dots, x_n) = A_1 x_1 + \dots + A_n x_n + b
 $$
 
-In a [[artificial neural network]]
+In a [[artificial neural network]], these come up often. Remember that
+
+$$
+\pdv{}{W} \left(XW + b \right)
+$$
