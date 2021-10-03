@@ -2,9 +2,9 @@ The **gradient** of a function can be a sloppy term.
 
 | |Scalar|Vector|Matrix
 |--|-----|------|------|
-|Scalar|
-|Vector|
-|Matrix|
+|**Scalar**|[[Derivative]]||
+|**Vector**|
+|**Matrix**|
 
 
 
