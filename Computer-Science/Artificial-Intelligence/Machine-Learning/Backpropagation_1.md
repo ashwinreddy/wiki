@@ -9,6 +9,14 @@ Let us consider a very simple single layer neural network that's just linear: $Y
 &= X^\mathsf{T} \pdv{L}{Y}
 \end{align*}
 
+# Matrix-matrix gradient
+
+Suppose we have the matrix product $D=WX$ and we have a loss $L$. Then,
+
+$$
+\pdv{L}{W} = \pdv{L}{D}\times X^\mathsf{T}
+$$
+
 ---
 
 <<Series("Backpropagation_")>>
