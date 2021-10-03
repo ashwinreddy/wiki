@@ -20,7 +20,7 @@ $$
 \nabla_x \langle x, a\rangle = a
 $$
 
-The [[Lp norm]]
+The [[norm]]
 
 \begin{equation\*}
 \nabla_x \lVert x \rVert^2_2 = 2x
