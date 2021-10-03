@@ -7,5 +7,5 @@ $$
 In a [[artificial neural network]], these come up often. Remember that
 
 $$
-\pdv{}{W} \left(XW + b \right)
+\pdv{}{W} \left(XW + b \right) = 
 $$
