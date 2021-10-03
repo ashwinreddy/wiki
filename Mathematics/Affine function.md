@@ -4,4 +4,4 @@ $$
 f(x_1, \dots, x_n) = A_1 x_1 + \dots + A_n x_n + b
 $$
 
-In a [[neural network]]
+In a [[artificial neural network]]
