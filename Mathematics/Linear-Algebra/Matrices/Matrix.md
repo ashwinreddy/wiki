@@ -5,3 +5,5 @@ A = \begin{bmatrix} a_{11} & a_{12} \\\\ a_{21} & a_{22} \end{bmatrix}
 $$
 
 What makes matrices useful is [[matrix multiplication]].
+
+Note that if $A \in \mathbb{R}^{m \times n}$, then it is really a [[linear map]] $A: \mathbb{R}^n \to \mathbb{R}^m$.
