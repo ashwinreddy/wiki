@@ -14,7 +14,7 @@ Let us consider a very simple single layer neural network that's just linear: $Y
 Suppose we have the matrix product $D=WX$ and we have a loss $L$. Then,
 
 $$
-\pdv{L}{W} = \pdv{L}{D}\times X^\mathsf{T}, \quad \pdv{L}{X} = W^\mathsf{T} \pdv{L}{D}
+\pdv{L}{W} = \pdv{L}{D}\times X^\mathsf{T}, \quad \pdv{L}{X} = W^\mathsf{T} \times \pdv{L}{D}
 $$
 
 ---
