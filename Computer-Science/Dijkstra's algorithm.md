@@ -2,9 +2,19 @@
 
 It builds off of [[breadth-first search]] using a [[priority queue]].
 
-# Idea
+# Description
 
 Keep an array of distances where `dist[s] = 0` and all others are sent to infinity at first. Then, keep a queue to decide where to go next and keep a set to track where we've been. Queue all the nodes initially.
+
+# Pseudocode
+
+```
+def dijkstra(G, source):
+    q = queue()
+    
+    for v in G.V:
+        dist[v] = inf
+```
 
 # Caveat
 
