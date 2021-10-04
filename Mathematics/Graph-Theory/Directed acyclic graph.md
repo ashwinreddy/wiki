@@ -1,1 +1,1 @@
-A **directed acyclic graph (DAG/dag)** is a kind of [[graph]] with no [[cycle]] in which the edges have directions and there are no cycles.
+A **directed acyclic graph (DAG/dag)** is a kind of [[graph]] with no [[cycle]] in which the edges have directions and there are no cycles. They have at least one source and one sink. You can do a [[topological sort]] on them.
