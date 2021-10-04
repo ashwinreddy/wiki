@@ -6,12 +6,6 @@ It builds off of [[breadth-first search]] using a [[priority queue]].
 
 Keep an array of distances where `dist[s] = 0` and all others are sent to infinity at first. Then, keep a queue to decide where to go next and keep a set to track where we've been. Queue all the nodes initially.
 
+# Caveat
 
-
-# Pseudocode
-
-
-
-# Runtime Analysis
-
-A binary heap for priority queue would give $\order{(|V| + |E|) \log |V|}$
+We need positive edge lengths. Suppose $G$ has negative edges and we make $G'$ by adding a large positive constant. If we run Dijkstra's on $G'$, we won't get the same answer for $G$ because longer paths are penalized in $G'$.
