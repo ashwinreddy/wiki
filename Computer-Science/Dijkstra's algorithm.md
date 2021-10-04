@@ -8,7 +8,7 @@ Keep an array of distances where `dist[s] = 0` and all others are sent to infini
 
 # Pseudocode
 
-```
+```python
 def dijkstra(G, source):
     q = queue()
     
