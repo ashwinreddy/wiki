@@ -13,7 +13,7 @@ def dijkstra(G, source):
     q = queue()
     
     for v in G.V:
-        dist[v] = inf
+        dist[v] = float('inf')
 ```
 
 # Caveat
