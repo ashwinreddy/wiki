@@ -6,6 +6,8 @@ It builds off of [[breadth-first search]] using a [[priority queue]].
 
 Keep an array of distances where `dist[s] = 0` and all others are sent to infinity at first. Then, keep a queue to decide where to go next and keep a set to track where we've been. Queue all the nodes initially.
 
+Continually peel off the closest vertex, removing it from further exploration. If this vertex can get you to a node in the queue quicker than what is currently marked, then mark that as the best path. 
+
 # Pseudocode
 
 ```python
