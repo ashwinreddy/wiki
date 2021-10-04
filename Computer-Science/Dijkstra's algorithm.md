@@ -14,6 +14,19 @@ def dijkstra(G, source):
     
     for v in G.V:
         dist[v] = float('inf')
+        prev[v] = None
+    dist[source] = 0
+    
+    while q:
+        u = q.pop()
+        
+        for v in filter(lambda x: x in q, u.neighbors):
+            alt = dist[u] + length(u, v)
+            if alt < dist[v]:
+                dist[v] = alt
+                prev[v] = u
+    
+    return dist, prev
 ```
 
 # Caveat
