@@ -8,11 +8,10 @@ In particular, it is useful for [[polynomial]] multiplication. Suppose we have a
 
 where we get the values for the $n$ [[root of unity]].
 
-# Polynomial Multiplication
+# Idea
 
-We can represent an $d$-degree [[polynomial]] either by its 
+We will get even and odd polynomials such that
 
-* coefficients
-* value at $d+1$ points
-
-$n$ roots of unity $(1, \omega_n, \omega_n^2, \dots, \omega_n^{n-1})$.
+$$
+P(x) = E(x) + x O\left(x^2\right)
+$$
