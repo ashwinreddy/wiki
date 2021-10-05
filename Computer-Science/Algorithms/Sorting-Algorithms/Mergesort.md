@@ -3,3 +3,7 @@
 1. Split the list into a right and left half.
 2. Sort each independently using Mergesort
 3. Merge them together
+
+# Runtime analysis
+
+Mergesort takes $\order{n \log n}$ time.
