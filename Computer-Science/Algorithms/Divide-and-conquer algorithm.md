@@ -3,5 +3,5 @@ A **divide-and-conquer algorithm** is an [[algorithm]] that divides a problem in
 _Example_. Consider $T(n) = 2T(n/2) + \order{n \log n}$. The total work we do will be
 
 $$
-\sum_{i=0}^{\log n} 2^i \frac{n}{2^i} \log \left( \frac{n}{2^i}\right)
+\sum_{i=0}^{\log n} \cancel{2^i} \frac{n}{\cancel{2^i}} \log \left( \frac{n}{2^i}\right)
 $$
