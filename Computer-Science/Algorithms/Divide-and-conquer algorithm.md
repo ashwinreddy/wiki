@@ -1,4 +1,10 @@
-A **divide-and-conquer algorithm** is an [[algorithm]] that divides a problem into pieces and assembles the work of each piece. To do a runtime analysis, we have to go to a [[recurrence relation]]. In some cases, we can use [[Master theorem]].
+A **divide-and-conquer algorithm** is an [[algorithm]] that divides a problem into pieces and assembles the work of each piece. Using [[recurrence relation]] $T(n)$ for time with size $n$,
+
+1. **Divide** into smaller subproblem $S_1(n)$
+2. Solve subproblems recursively: $a T(n/b)$
+3. Combine results (**conquer**): $S_2(n)$
+
+To do a runtime analysis, we have to go to a [[recurrence relation]]. In some cases, we can use [[Master theorem]].
 
 _Example_. Consider $T(n) = 2T(n/2) + \order{n \log n}$. The total work we do will be
 
