@@ -1,1 +1,6 @@
 A **greedy algorithm** is an [[algorithm]] that builds up a solution piece by piece, always choosing the next piece that offers the most obvious and immediate benefit.
+
+# Examples
+
+* [[Kruskal's algorithm]]
+* [[Prim's algorithm]]
