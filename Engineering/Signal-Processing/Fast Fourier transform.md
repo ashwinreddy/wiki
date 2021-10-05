@@ -6,7 +6,7 @@
 
 # Polynomial Multiplication
 
-We can represent an $d$-degree polynomial either by its 
+We can represent an $d$-degree [[polynomial]] either by its 
 
 * coefficients
 * value at $d+1$ points
