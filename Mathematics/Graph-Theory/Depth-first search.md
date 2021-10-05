@@ -4,6 +4,9 @@
 
 $s$ is the root of the search tree. Everything else is its descendant.
 
+Back edge
+: An edge that leads back to a vertex previously visited
+
 # Pseudocode
 
 ```python
