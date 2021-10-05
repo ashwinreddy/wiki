@@ -12,6 +12,8 @@ $$
 \text{Water before Swap} - \text{Water after Swap} = \left(\ell_i d_i + \ell_j d_j\right) - \left(\ell_i d_j + \ell_j d_i\right) = (\ell_j - \ell_i)(d_j - d_i) > 0
 $$
 
+Therefore, the water after the swap is strictly less.
+
 # Examples
 
 * [[Kruskal's algorithm]]
