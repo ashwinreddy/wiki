@@ -1,12 +1,13 @@
 **Depth-first search (DFS)** is a [[graph traversal]] for a graph $G = (V, E)$ given a starting node $s \in V$. It identifies the vertices of a graph that can be reached from a starting point. It is related to [[breadth-first search]].
 
-DFS returns a **DFS forest**. $s$ is the root of the search tree. Everything else is its descendant.
-
 Tree edge
-: An edge that leads to a vertex not previously visited
+: An edge, actually part of the DFS forest, that leads to a vertex not previously visited
 
 Back edge
-: An edge that leads back to a vertex previously visited
+: An edge that leads back to a vertex previously visited / an ancestor in the DFS tree
+
+Cross edge
+: Leads to neither descendant nor ancestor; they therefore lead to a node that has already been completely explored (that is, already postvisited).
 
 # Pseudocode
 
