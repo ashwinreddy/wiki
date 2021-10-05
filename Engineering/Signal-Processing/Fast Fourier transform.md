@@ -1,4 +1,4 @@
-**Fast Fourier transform (FFT)** is an [[divide and conquer algorithm]] [[algorithm]] $\mathsf{FFT}(p, n)$ that will do a [[Discrete Fourier transform]] in $\order{n \log n}$ time.
+**Fast Fourier transform (FFT)** is an [[divide and conquer algorithm]] $\mathsf{FFT}(p, n)$ that will do a [[Discrete Fourier transform]] in $\order{n \log n}$ time.
 
 In particular, it is useful for [[polynomial]] multiplication. Suppose we have a $n$-length coefficient representation $p = [p_0, \dots, p_{n-1}]^\mathsf{T}$. The FFT will give us a value representation
 
