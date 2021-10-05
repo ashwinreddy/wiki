@@ -4,6 +4,9 @@
 
 $s$ is the root of the search tree. Everything else is its descendant.
 
+Tree edge
+: An edge that leads to a vertex not previously visited
+
 Back edge
 : An edge that leads back to a vertex previously visited
 
