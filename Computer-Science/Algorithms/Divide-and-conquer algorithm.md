@@ -4,6 +4,10 @@ A **divide-and-conquer algorithm** is an [[algorithm]] that divides a problem in
 2. Solve subproblems recursively: $a T(n/b)$
 3. Combine results (**conquer**): $S_2(n)$
 
+$$
+T(n) = a T(n/b) + \order{S_1(n) + S_2(n)}
+$$
+
 To do a runtime analysis, we have to go to a [[recurrence relation]]. In some cases, we can use [[Master theorem]].
 
 _Example_. Consider $T(n) = 2T(n/2) + \order{n \log n}$. The total work we do will be
