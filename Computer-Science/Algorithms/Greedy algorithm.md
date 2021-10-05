@@ -4,7 +4,9 @@ For example, say that a doctor's office has $n$ patients where customer $i$ take
 
 We can also use an exchange argument by proving that greedy stays ahead. We take greedy solution $X$ and optimal solution $X^\star$. Then, we show that exchanging a piece of $X^\star$ for $X$ does not increase the cost.
 
-_Example_. Rosa has to tend to $n$. She can only harvest one field a day. For each day field $i$ is not harvested, it requires $\ell_i$ liters of water.
+_Example_. Rosa has to tend to $n$ fields. She can only harvest one field a day. For each day field $i$ is not harvested, it requires $\ell_i$ liters of water. 
+
+Obviously, Rosa should take the fields from highest to lowest water requirement. Why is this optimal? Suppose there's an optimal ordering that is not of this sort. That means we have $d_i < d_j$ and $\ell_i < \ell_j$.
 
 # Examples
 
