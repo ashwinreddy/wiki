@@ -1,4 +1,6 @@
-**Breadth-first search (BFS)** is an [[algorithm]] to traverse a [[graph]] $G$. It will give it to you in order of distance from the starting vertex. It is similar to [[depth-first search]].
+**Breadth-first search (BFS)** is an [[algorithm]] to traverse a [[graph]] $G$. It searches layer by layer. It is similar to [[depth-first search]].
+
+If $G$ is unweighted or all the edges have equal weight, then BFS will find the shortest path to a node.
 
 # Pseudocode
 
