@@ -1,8 +1,6 @@
 **Depth-first search (DFS)** is a [[graph traversal]] for a graph $G = (V, E)$ given a starting node $s \in V$. It identifies the vertices of a graph that can be reached from a starting point. It is related to [[breadth-first search]].
 
-# DFS Forest
-
-$s$ is the root of the search tree. Everything else is its descendant.
+DFS returns a **DFS forest**. $s$ is the root of the search tree. Everything else is its descendant.
 
 Tree edge
 : An edge that leads to a vertex not previously visited
