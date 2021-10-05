@@ -2,7 +2,7 @@
 
 # DFS Forest
 
-
+$s$ is the root of the search tree. Everything else is its descendant.
 
 # Pseudocode
 
