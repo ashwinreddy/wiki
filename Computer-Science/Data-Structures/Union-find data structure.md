@@ -21,6 +21,4 @@ def union(x, y):
         y.parent = x
     else:
         x.parent = y
-    
-        
 ```
