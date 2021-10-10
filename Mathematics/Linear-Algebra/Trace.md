@@ -1,4 +1,4 @@
-The **trace** of a [[matrix]] is the sum of its diagonal and happens to be the sum of [[eigenvalues|eigenpairs]].
+The **trace** of a [[matrix]] is the [[linear map]] to its sum of its diagonal and happens to be the sum of [[eigenvalues|eigenpairs]].
 
 \begin{equation}
 \operatorname{tr}(A) = \sum_{i} A_{ii} = \sum_i \lambda_i
@@ -16,3 +16,4 @@ $$
 # Properties
 
 * $\operatorname{trace}(A) = \operatorname{trace}\left(A^\mathsf{T}\right)$
+* $\operatorname{trace}(A+B) = \operatorname{trace}(A) + \operatorname{trace}(B)$.
