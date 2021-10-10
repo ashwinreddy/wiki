@@ -10,3 +10,7 @@ For example, we could define one for [[function]] $f$ and function $g$ as an [[i
 $$
 \langle f(x), g(x) \rangle \doteq \int_X f(x) g(x)\\, \dd{x}
 $$
+
+# Fun Facts
+
+* The inner product is also the [[trace]] of the [[outer product]].
