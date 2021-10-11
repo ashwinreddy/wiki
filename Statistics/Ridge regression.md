@@ -7,5 +7,3 @@ $$
 \begin{equation}
 \mathbf{w}\_{\mathrm{ridge}} = (X\^\mathsf{T}X + \lambda I)\^{-1}X^\mathsf{T}y
 \end{equation}
-
-where $X \in \mathbb{R}^{n \times d}$ and $y \in \mathbb{R}^n$
