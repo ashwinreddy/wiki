@@ -1,1 +1,1 @@
-**Huffman coding** is a way of compressing a [[random variable]] $X$ to roughly $H(X)$ bits.
+**Huffman coding** returns a [[prefix code]]
