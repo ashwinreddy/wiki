@@ -16,7 +16,7 @@ The transform can be used to turn [[differential equation]] into algebraic ones 
 
 # Premise
 
-As [this](https://www.youtube.com/watch?v=hqOboV2jgVo) video explains, the Laplace transform is the continuous version of the LHS in
+The Laplace transform is the continuous version of the LHS in
 
 $$
 \sum_{n=0}^\infty a_n x^n \to \int_0^\infty a(t) x^t \dd{t}
