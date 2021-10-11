@@ -1,0 +1,1 @@
+A **bipartite graph** is a [[graph]] that can be split into two sets.
