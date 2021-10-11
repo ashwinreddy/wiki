@@ -3,3 +3,5 @@ The **eigendecomposition** of a [[matrix]] $A$ is a [[matrix decomposition]] tha
 $$
 AQ = Q\Lambda \iff A = Q\Lambda Q^{-1}
 $$
+
+If $A$ is a [[symmetric matrix]], then $Q$ is [[orthogonal matrix]]. 
