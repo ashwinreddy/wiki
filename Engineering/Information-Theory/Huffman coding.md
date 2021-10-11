@@ -18,3 +18,5 @@ def huffman(f):
         f[k] = f[i] + f[j] 
         H.insert(k)
 ```
+
+The runtime is $\order{n \log n}$ if we use a [[binary heap]].
