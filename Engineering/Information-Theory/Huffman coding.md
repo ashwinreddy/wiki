@@ -1,1 +1,1 @@
-**Huffman coding** returns a [[prefix code]]
+**Huffman coding** returns a [[prefix code]] for an alphabet $a_1, \dots, a_n$ with weights $w_1, \dots, w_n$.
