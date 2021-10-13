@@ -1,1 +1,1 @@
-**Logistic regression** is regression on a probability via [[logistic function|sigmoid]]
+**Logistic regression** is regression on a probability via [[logistic function|sigmoid function]]
