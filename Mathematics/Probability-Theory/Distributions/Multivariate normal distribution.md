@@ -17,13 +17,12 @@ $$
 where $A$ is an [[invertible matrix]] and $\mathbf{W}$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
 
 
-# Technical Details
 
 The joint density is given by
 
-$$
-f(x) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}\exp\left(-\frac{1}{2}(x-\mu)\^\mathsf{T}\Sigma^{-1}(x-\mu)\right)
-$$
+\begin{equation}
+f(\mathbf{x}) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}\exp\left(-\frac{1}{2}(\mathbf{x}-\mu)\^\mathsf{T}\Sigma^{-1}(\mathbf{x}-\mu)\right)
+\end{equation}
 
 # Properties
 
