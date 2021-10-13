@@ -1,22 +1,18 @@
-The **multivariate normal distribution** $\mathbf{X} \sim \mathcal{N}(\mathbf{\mu}, \mathbf{\Sigma})$ generalizes the [[normal distribution]] with [[mean]] $\mu$ and [[covariance matrix]] $\mathbf{\Sigma}$ to higher dimensions. We might also call this a **Gaussian vector** or **jointly Gaussian** [[random variable]]. We can write
-
-$$
-\mathbf{Z} = \mathbf{AW}
-$$
+The **multivariate normal distribution** $\mathbf{X} \sim \mathcal{N}(\mathbf{\mu}, \mathbf{\Sigma})$ generalizes the [[normal distribution]] with [[mean]] $\mu$ and [[covariance matrix]] $\mathbf{\Sigma}$ to higher dimensions. We might also call this a **Gaussian vector** or **jointly Gaussian** [[random variable]]. The joint density is given by
 
 \begin{equation}
-\mathbf{X} = \mathbf{\mu}_x + \mathbf{Z} 
+f(\mathbf{x}; \mu, \Sigma) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}\exp\left(-\frac{1}{2}(\mathbf{x}-\mu)\^\mathsf{T}\Sigma^{-1}(\mathbf{x}-\mu)\right)
+\end{equation}
+
+We can write
+
+\begin{equation}
+\mathbf{X} = \mathbf{\mu}_x + \mathbf{AW} 
 \end{equation}
 
 where $A$ is an [[invertible matrix]] and $\mathbf{W}$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
 
 
-
-The joint density is given by
-
-\begin{equation}
-f(\mathbf{x}; \mu, \Sigma) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}\exp\left(-\frac{1}{2}(\mathbf{x}-\mu)\^\mathsf{T}\Sigma^{-1}(\mathbf{x}-\mu)\right)
-\end{equation}
 
 # Properties
 
