@@ -1,4 +1,4 @@
-**Empirical risk minimization** is [[supervised learning]]
+**Empirical risk minimization**
 
 $$
 R_{\text{emp}}(h)={\frac {1}{n}}\sum_{i=1}^{n}L(h(x_{i}),y_{i})
