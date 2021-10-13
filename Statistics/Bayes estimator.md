@@ -1,1 +1,1 @@
-The **Bayes estimator** is an [[estimator]]
+The **Bayes estimator** is an [[estimator]] for [[parameter]]
