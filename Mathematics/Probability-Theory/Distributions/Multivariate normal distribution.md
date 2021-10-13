@@ -1,8 +1,14 @@
-The **multivariate normal distribution** $\mathbf{X} \sim \mathcal{N}(\mathbf{\mu}, \mathbf{\Sigma})$ generalizes the [[normal distribution]] with [[mean]] $\mu$ and [[covariance matrix]] $\mathbf{\Sigma}$ to higher dimensions. We might also call this a **Gaussian vector** or **jointly Gaussian** [[random variable]]. The joint density is given by
+The **multivariate normal distribution** $\mathbf{X} \sim \mathcal{N}(\mathbf{\mu}, \mathbf{\Sigma})$ generalizes the [[normal distribution]] with [[mean]] $\mu$ and [[covariance matrix]] $\mathbf{\Sigma}$ to higher dimensions. $\mathbf{X}$ is a **Gaussian vector** or **jointly Gaussian** [[random variable]]. The joint density is given by
 
 \begin{equation}
 f(\mathbf{x}; \mu, \Sigma) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}\exp\left(-\frac{1}{2}(\mathbf{x}-\mu)\^\mathsf{T}\Sigma^{-1}(\mathbf{x}-\mu)\right)
 \end{equation}
+
+# Key Facts
+
+When the multivariate Gaussian is unaligned, its components are uncorrelated and therefore independent.
+
+# Alternative Formulation
 
 We can write
 
@@ -11,8 +17,6 @@ We can write
 \end{equation}
 
 where $A$ is an [[invertible matrix]] and $\mathbf{W}$ is a column vector of [[iid]] [[standard normal|normal distribution#standard normal distribution]].
-
-
 
 # Properties
 
