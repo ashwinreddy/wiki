@@ -9,4 +9,4 @@ Thus, $\Sigma_{ii}$ is the [[variance]] of $X_i$.
 
 # Properties
 
-* Covariance matrix is always positive semi-[[definite symmetric matrix]] of the
+* Covariance matrix is always [[PSD|definite symmetric matrix]].
