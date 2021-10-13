@@ -1,1 +1,1 @@
-The **column space** of [[matrix]] is the [[span]] of its [[column vector]]
+The **column space** of [[matrix]] is the [[span]] of its columns as [[vector]]
