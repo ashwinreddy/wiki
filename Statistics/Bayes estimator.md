@@ -1,1 +1,1 @@
-The **Bayes estimator** is an [[estimator]] for parameter $\theta$ that minimizes the [[expected value]] of risk.
+The **Bayes estimator** is an [[estimator]] for parameter $\theta$ that minimizes the [[expected value]] of risk. With a 0-1 loss, the two-class Bayes optimal classifier classifies points in a way that minimizes the probability of misclassification.
