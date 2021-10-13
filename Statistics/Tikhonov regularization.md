@@ -7,5 +7,5 @@ $$
 when $\Gamma = \lambda I$, we get [[ridge regression]]. The [[normal equation]] is given with $\nabla_w J = 0$, which yields
 
 $$
-w^* = (X^\mathsf{T}X + \Gamma^\mathsf{T}\Gamma)^{-1} X^\mathsf{T}y
+w^* = (X^\mathsf{T}X + \Gamma\^\mathsf{T}\Gamma)^{-1} X^\mathsf{T}y
 $$
