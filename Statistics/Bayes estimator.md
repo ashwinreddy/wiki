@@ -1,1 +1,1 @@
-The **Bayes estimator** is an [[estimator]] for [[statistical parameter]]
+The **Bayes estimator** is an [[estimator]] for parameter $\theta$ that minimizes the [[expected value]] of risk.
