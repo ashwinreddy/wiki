@@ -13,3 +13,7 @@ This would take $\order{n \log n}$ time.
 # Area under Curve
 
 The area under curve represents the score. It is the probability that a classifier will rank a randomly chosen positive sample higher than a randomly chosen negative sample.
+
+# Properties
+
+* They are insensitive to the balance of classes in the test set
