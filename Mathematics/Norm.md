@@ -1,5 +1,7 @@
 A **norm** is a [[function]]
 
-\begin{equation}
+$$
 \lVert \cdot \rVert: V \to [0, \infty)
-\end{equation}
+$$
+
+* $\lVert \alpha x \rVert = |\alpha| \lVert x \rVert$
