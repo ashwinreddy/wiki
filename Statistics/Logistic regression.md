@@ -1,1 +1,1 @@
-**Logistic regression** tries to model a discrete [[random variable]] belonging to a class.
+**Logistic regression** is [[regression]]
