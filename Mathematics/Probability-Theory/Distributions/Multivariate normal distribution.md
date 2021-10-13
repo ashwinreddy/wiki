@@ -21,7 +21,7 @@ where $A$ is an [[invertible matrix]] and $\mathbf{W}$ is a column vector of [[i
 The joint density is given by
 
 \begin{equation}
-f(\mathbf{x}) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}\exp\left(-\frac{1}{2}(\mathbf{x}-\mu)\^\mathsf{T}\Sigma^{-1}(\mathbf{x}-\mu)\right)
+f(\mathbf{x}; \mu, \Sigma) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}\exp\left(-\frac{1}{2}(\mathbf{x}-\mu)\^\mathsf{T}\Sigma^{-1}(\mathbf{x}-\mu)\right)
 \end{equation}
 
 # Properties
