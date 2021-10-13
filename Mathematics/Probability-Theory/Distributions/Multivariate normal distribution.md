@@ -4,10 +4,6 @@ The **multivariate normal distribution** $\mathbf{X} \sim \mathcal{N}(\mathbf{\m
 f(\mathbf{x}; \mu, \Sigma) = \frac{1}{\sqrt{(2\pi)^n \det \Sigma}}\exp\left(-\frac{1}{2}(\mathbf{x}-\mu)\^\mathsf{T}\Sigma^{-1}(\mathbf{x}-\mu)\right)
 \end{equation}
 
-# Key Facts
-
-When the multivariate Gaussian is unaligned, its components are uncorrelated and therefore independent.
-
 # Alternative Formulation
 
 We can write
