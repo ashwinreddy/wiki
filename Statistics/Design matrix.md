@@ -1,1 +1,1 @@
-A **design matrix** is a [[matrix]] table where every column is an explanatory variable and every row is an example.
+A **design matrix** is a [[matrix]] $\mathbf{X} \in \RR^{n \times d}$ where every column is an explanatory variable and every row is an example.
