@@ -7,3 +7,5 @@ $$
 \begin{equation}
 \mathbf{w}\_{\mathrm{ridge}} = (X\^\mathsf{T}X + \lambda I)\^{-1}X^\mathsf{T}y
 \end{equation}
+
+As $\lambda \to \infty, \mathbf \mathbf{w}\_{\mathrm{ridge}} \to 0$.
