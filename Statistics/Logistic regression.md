@@ -1,1 +1,1 @@
-**Logistic regression** is [[regression]]
+**Logistic regression** is regression on a [[probability]]
