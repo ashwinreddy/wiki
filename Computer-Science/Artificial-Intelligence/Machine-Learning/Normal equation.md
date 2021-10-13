@@ -1,0 +1,1 @@
+A **normal equation** is an analytic equation that solves [[ordinary least squares]] or a variant. It gives a linear system for the weight.
