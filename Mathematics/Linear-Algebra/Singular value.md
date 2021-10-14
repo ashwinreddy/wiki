@@ -1,0 +1,1 @@
+A **singular value** of an operator $T: X \to Y$ is a square root of the [[eigenvalue|eigenpair]] of the operator $T^* T$ where $T*$ is the adjoint.
