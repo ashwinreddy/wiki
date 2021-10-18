@@ -1,1 +1,1 @@
-**Linear programming** is optimization with [[linear function]]
+**Linear programming** is optimization with [[linear|linear map]] objectives and constraints.
