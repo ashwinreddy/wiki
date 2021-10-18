@@ -6,7 +6,7 @@ $$
 
 
 \begin{gather\*}
-\int_{\RR} f_X(x) \dd{x} = 1. \\\\
+\int\limits_{\RR} f_X(x) \dd{x} = 1. \\\\
 f_X(x) \geqslant 0.
 \end{gather\*}
 
