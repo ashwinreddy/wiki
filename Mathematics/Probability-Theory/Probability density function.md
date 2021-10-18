@@ -1,4 +1,4 @@
-A **probability density function (PDF/pdf)** is a [[function]] $f_X$ that assigns probability densities to a continuous [[random variable]] $X$ so that
+A **probability density function (PDF/pdf)** is a [[function]] $f_X: \RR \to [0,1]$ that assigns probability densities to a continuous [[random variable]] $X$ so that
 
 $$
 \Pr(a < x < b) = \int_a^b f_X(x) \dd{x}.
