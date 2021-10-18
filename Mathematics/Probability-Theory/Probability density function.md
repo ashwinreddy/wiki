@@ -5,8 +5,6 @@ $$
 $$
 
 
-Adapting equation \ref{eq:kol-req},
-
 \begin{gather}
 \int_{\RR} f_X(x) \dd{x} = 1. \\\\
 f_X(x) \geqslant 0.
