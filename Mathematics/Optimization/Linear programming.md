@@ -1,4 +1,4 @@
-**Linear programming** is optimization with [[linear|linear map]] objectives and constraints. The canonical form is
+**Linear programming** is optimization (min or max) with [[linear|linear map]] objectives and constraints, equations and/or inequalities. The canonical form is
 
 $$
 \begin{aligned}
