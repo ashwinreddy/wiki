@@ -4,7 +4,7 @@ $$
 \begin{aligned}
 \min \quad & c^\mathsf{T} x \\\\
 \textrm{s.t.} \quad & Ax \geqslant b\\\\
-  &\xi\geq0    
+  & x \geqslant 0    
 \end{aligned}
 $$
 
