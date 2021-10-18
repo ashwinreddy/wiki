@@ -5,10 +5,10 @@ $$
 $$
 
 
-\begin{gather}
+\begin{gather\*}
 \int_{\RR} f_X(x) \dd{x} = 1. \\\\
 f_X(x) \geqslant 0.
-\end{gather}
+\end{gather\*}
 
 # Density vs. Mass
 
@@ -20,9 +20,8 @@ $$
 
 We know that the total probability mass is 1 by the Kolmogorov axioms, which puts a restriction:
 
-\begin{equation}
-\label{eq:kol-req}
+$$
 \int \text{Density}\cdot\dd{\text{Measure}} = 1.
-\end{equation}
+$$
 
 
