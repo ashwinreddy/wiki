@@ -1,0 +1,1 @@
+A **slack variable** is a variable added to an inequality constraint to transform it to equality. 
