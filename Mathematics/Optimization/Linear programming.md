@@ -1,0 +1,1 @@
+**Linear programming** is optimization with [[linear function]]
