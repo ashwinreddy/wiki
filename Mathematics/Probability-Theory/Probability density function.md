@@ -7,7 +7,7 @@ $$
 
 \begin{gather\*}
 \int\limits_{\RR} f_X(x) \dd{x} = 1. \\\\
-f_X(x) \geqslant 0.
+\forall x: f_X(x) \geqslant 0.
 \end{gather\*}
 
 # Density vs. Mass
