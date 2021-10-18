@@ -3,7 +3,7 @@
 $$
 \begin{aligned}
 \min \quad & c^\mathsf{T} x \\\\
-\textrm{s.t.} \quad & y_{i}(w\phi(x_{i}+b))+\xi_{i}-1\\\\
+\textrm{s.t.} \quad & Ax \geqslant b\\\\
   &\xi\geq0    
 \end{aligned}
 $$
