@@ -13,4 +13,4 @@ Positive definite (PD)
 Positive semi-definite (PSD)
 : A matrix that always returns non-negative values
 
-A PSD matrix has non-negative [[eigenvalues|eigenpairs]]
+A PSD matrix has non-negative [[eigenvalues|eigenpairs]]. In fact, the [[singular value]] of a PSD matrix is the eigenvalue.
