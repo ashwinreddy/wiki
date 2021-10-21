@@ -1,4 +1,8 @@
-**Linear programming** is optimization (min or max) with [[linear|linear map]] objectives and constraints, equations and/or inequalities. The canonical form is
+**Linear programming** is optimization (min or max) with [[linear|linear map]] objectives and constraints, equations and/or inequalities. 
+
+# Canonical Form
+
+The canonical form is
 
 $$
 \begin{aligned}
@@ -10,8 +14,14 @@ $$
 
 for $x \in \RR^n$, $A \in \RR^{m \times n}$, $b \in \RR^m$, and $c \in \RR^n$.
 
+# Solution
+
 There are only 3 situations:
 
 1. Optimum achieved at vertex of feasible region.
 2. Problem infeasible.
 3. Feasible region unbounded.
+
+# Runtime
+
+Linear programming can be done in polynomial time.
