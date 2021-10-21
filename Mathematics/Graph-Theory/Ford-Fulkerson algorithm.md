@@ -1,0 +1,1 @@
+The **Ford-Fulkerson algorithm** finds a [[max flow|maximum flow problem]] solution.
