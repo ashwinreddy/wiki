@@ -14,6 +14,19 @@ $$
 
 for $x \in \RR^n$, $A \in \RR^{m \times n}$, $b \in \RR^m$, and $c \in \RR^n$.
 
+# Dual
+
+The dual problem is
+
+$$
+\begin{aligned}
+\min \quad & b^\mathsf{T} y \\\\
+\textrm{s.t.} \quad & A^\mathsf{T}y \leqslant c\\\\
+  & y \geqslant 0,
+\end{aligned}
+$$
+
+
 # Solution
 
 There are only 3 situations:
