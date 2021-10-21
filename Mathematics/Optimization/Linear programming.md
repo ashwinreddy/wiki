@@ -20,7 +20,7 @@ The dual problem is
 
 $$
 \begin{aligned}
-\min \quad & b^\mathsf{T} y \\\\
+\max \quad & b^\mathsf{T} y \\\\
 \textrm{s.t.} \quad & A^\mathsf{T}y \leqslant c\\\\
   & y \geqslant 0,
 \end{aligned}
