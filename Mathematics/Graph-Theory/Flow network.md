@@ -1,0 +1,1 @@
+A **flow network** is a [[graph]] $(G, s, t, c)$ along with nodes $s$ and $t$ and edge capacity $c(u, v)$. 
