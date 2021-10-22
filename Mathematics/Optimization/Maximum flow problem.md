@@ -1,5 +1,6 @@
 The **maximum flow problem** gives us a [[directed graph]] and asks us to find the route that maximizes flow from $s$ to $t$.
 
+[[/uploads/flow.png]]
 
 Constraints are as follows:
 
