@@ -1,4 +1,4 @@
-The **maximum flow problem** gives us a [[directed graph]] and asks us to find the route that maximizes flow from $s$ to $t$.
+The **maximum flow problem** gives us a [[directed graph]] and asks us to find the route that maximizes flow from $s$ to $t$ when every edge has a **capacity** $c_e > 0$ which cannot be exceeded.
 
 [[/uploads/flow.png]]
 
