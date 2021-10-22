@@ -1,1 +1,1 @@
-**Max-flow min-cut theorem** says the maximum value of an s-t flow is equal to the minimum capacity over all s-t cuts.
+**Max-flow min-cut theorem** says the maximum value of an s-t [[flow network]] is equal to the minimum capacity over all s-t cuts.
