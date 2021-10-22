@@ -9,4 +9,4 @@ Constraints are as follows:
 
 # Residual 
 
-Given a flow $f$, the residual capacity is how much capacity is left-over on each edge: $c_f(u, v) = c_{uv} - f_{uv}$.
+Given a flow $f$, the **residual capacity** is how much capacity is left-over on each edge: $c_f(u, v) = c_{uv} - f_{uv}$. The residual network keeps the same nodes but with this residual capacity.
