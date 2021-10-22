@@ -1,1 +1,1 @@
-A **flow network** is a [[graph]] $(G, s, t, c)$ along with nodes $s$ and $t$ and edge capacity $c(u, v)$. We often care about the [[maximum flow problem]].
+An $s-t$ **flow network** is a [[graph]] $G$ with each edges assigned a non-negative capacity. We often care about the [[maximum flow problem]].
