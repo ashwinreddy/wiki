@@ -1,4 +1,4 @@
-The **Ford-Fulkerson algorithm** finds a [[max flow|maximum flow problem]] solution. The basic idea is to keep pushing along $s-t$ paths in the [[residual graph|maximum flow problem#residual]]
+The **Ford-Fulkerson algorithm** finds a [[max flow|maximum flow problem]] solution. The basic idea is to keep pushing along $s-t$ paths in the [[residual graph|maximum flow problem#residual]].
 
 # Algorithm
 
