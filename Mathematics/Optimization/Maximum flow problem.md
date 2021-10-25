@@ -11,6 +11,6 @@ Constraints are as follows:
 
 Given a flow $f$, the **residual capacity** is how much capacity is left-over on each edge: 
 
-$$c_f(u, v) = \begin{cases} c_{uv} - f_{uv} & c_{uv} - f_{uv} > 0 \\ f_{vu} & f_{vu} > 0 \end{cases}$$
+$$c_f(u, v) = \begin{cases} c_{uv} - f_{uv} & c_{uv} - f_{uv} > 0 \\\\ f_{vu} & f_{vu} > 0 \end{cases}$$
 
 The **residual network** $G_f = (V, E_f)$ keeps the same nodes but with this residual capacity. In addition, it puts in a reverse edge with the amount that went through so that we can backtrack if needed.
