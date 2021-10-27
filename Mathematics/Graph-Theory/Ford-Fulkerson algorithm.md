@@ -1,7 +1,7 @@
 The **Ford-Fulkerson algorithm** finds a [[max flow|maximum flow problem]] solution. The basic idea is to keep finding $s-t$ paths and pushing flow amount that saturates the bottleneck edge in the [[residual graph|maximum flow problem#residual]].
 
 Augmenting Path
-: $s-t$ path in residual graph
+: An $s-t$ path in residual graph
 
 # Algorithm
 
