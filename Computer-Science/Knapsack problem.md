@@ -12,3 +12,5 @@ $$
 2. For $w = 1$ to $W$
     * $K(w) = \max\\{ K(w - w_i) + v_i: w_i \leqslant w \\}$
 3. Return $K(W)$
+
+This runtime is $\order{nW}$
