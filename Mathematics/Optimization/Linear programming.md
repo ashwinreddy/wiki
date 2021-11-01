@@ -1,15 +1,19 @@
-**Linear programming** is optimization with [[linear|linear map]] objectives and constraints.
+**Linear programming (LP)** is optimization with [[linear|linear map]] objectives and constraints. For $x \in \RR^n$, $A \in \RR^{m \times n}$, $b \in \RR^m$, and $c \in \RR^n$,
 
 \begin{equation}
 \begin{aligned}
-\min \quad & c^\mathsf{T} x \\\\
-\textrm{s.t.} \quad & Ax \geqslant b\\\\
-  & x \geqslant 0,
+\min \quad & \mathbf{c}^\mathsf{T} \mathbf{x} \\\\
+\textrm{s.t.} \quad & \mathbf{Ax} \geqslant \mathbf{b}\\\\
+  & \mathbf{x} \geqslant 0,
 \end{aligned}
 \tag{Canonical Form}
 \end{equation}
 
-for $x \in \RR^n$, $A \in \RR^{m \times n}$, $b \in \RR^m$, and $c \in \RR^n$.
+# Feasibility
+
+1. **Feasible**. The feasible region is necessarily a convex polyhedron.
+2. **Infeasible**. 
+3. **Unbounded**. 
 
 # Dual
 
@@ -26,11 +30,6 @@ $$
 
 # Solution
 
-There are only 3 situations:
-
-1. Optimum achieved at vertex of feasible region.
-2. Problem infeasible.
-3. Feasible region unbounded.
 
 # Runtime
 
