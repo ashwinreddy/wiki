@@ -26,5 +26,5 @@ $$
 We initially do a uniform distribution: $w_i^{(0)} = 1$. Then we do multiplicative updates
 
 $$
-w_i^{(t+1)} = w_i^{(t)} \cdot (1 - \eps)\^{\ell_i^{(t)}}
+w_i^{(t+1)} = w_i^{(t)} \cdot (1 - \epsilon)\^{\ell_i^{(t)}}
 $$
