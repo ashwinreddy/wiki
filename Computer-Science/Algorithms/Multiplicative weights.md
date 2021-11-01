@@ -34,3 +34,7 @@ The regret is bounded as
 $$
 R_T \leqslant \epsilon T + \frac{\ln n}{\epsilon}, \quad R_T \leqslant 2\sqrt{T \ln n}
 $$
+
+## Example
+
+Let $\epsilon = \frac{1}{2}$ and $n=3$. Suppose $\ell^{(1)} = [0, 0.5, 1]$, $\ell^{(2)} = [7/8, 5/8, 4/8]$, and $\ell^{(3)} = [3/8, 1/8, 0]$.
