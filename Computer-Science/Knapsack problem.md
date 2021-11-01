@@ -7,3 +7,8 @@ Let $K(w)$ be the maximum value achievable with a knapsack of capacity $w$. The 
 $$
 K(w) = \max_{i : w_i \leq w}\\{ K(w-w_i) + v_i \\}
 $$
+
+1. $K(0) = 0$
+2. For $w = 1$ to $W$
+    * $K(w) = \max\\{ K(w - w_i) + v_i: w_i \leqslant w \\}$
+3. Return $K(W)$
