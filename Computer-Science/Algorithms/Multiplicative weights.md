@@ -20,5 +20,5 @@ $$
 Pick $0 \leqslant \epsilon \leqslant \frac{1}{2}$. We define weights $w_i^{(t)}$. The distribution $x^{(t)}_i$ will directly come from the weights by normalizing, i.e.
 
 $$
-x^{(t)}_i = \frac{ w_i^{(t)} }{ \sum_{j=1}^n w_j^{(t)} }
+x^{(t)}\_i = \frac{ w_i^{(t)} }{ \sum_{j=1}^n w_j^{(t)} }
 $$
