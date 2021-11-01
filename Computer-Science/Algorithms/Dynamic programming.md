@@ -48,3 +48,7 @@ def fibBottomUpSpaceSaving(n):
         mem[1] = x
     return mem[1]
 ```
+
+# Time Complexity
+
+The runtime is generally $\order{ \text{number of subproblems} \times \text{time to compute a subproblem} }$.
