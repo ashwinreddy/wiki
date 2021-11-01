@@ -1,7 +1,5 @@
 **Linear programming** is optimization (min or max) with [[linear|linear map]] objectives and constraints, equations and/or inequalities. 
 
-# Canonical Form
-
 The canonical form is
 
 $$
@@ -9,6 +7,7 @@ $$
 \min \quad & c^\mathsf{T} x \\\\
 \textrm{s.t.} \quad & Ax \geqslant b\\\\
   & x \geqslant 0,
+\tag{Canonical Form}
 \end{aligned}
 $$
 
