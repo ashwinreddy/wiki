@@ -28,3 +28,9 @@ We initially do a uniform distribution: $w_i^{(0)} = 1$. Then we do multiplicati
 $$
 w_i^{(t+1)} = w_i^{(t)} \cdot (1 - \epsilon)\^{\ell_i^{(t)}}
 $$
+
+The regret is bounded as 
+
+$$
+R_T \leqslant \epsilon T + \frac{\ln n}{\epsilon}, \quad R_T \leqslant 2\sqrt{T \ln n}
+$$
