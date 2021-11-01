@@ -7,8 +7,8 @@ $$
 \min \quad & c^\mathsf{T} x \\\\
 \textrm{s.t.} \quad & Ax \geqslant b\\\\
   & x \geqslant 0,
-\tag{Canonical Form}
 \end{aligned}
+\tag{Canonical Form}
 $$
 
 for $x \in \RR^n$, $A \in \RR^{m \times n}$, $b \in \RR^m$, and $c \in \RR^n$.
