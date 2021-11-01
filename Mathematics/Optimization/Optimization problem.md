@@ -1,0 +1,1 @@
+An **optimization problem** has an objective and constraints.
