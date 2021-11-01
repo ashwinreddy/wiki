@@ -10,4 +10,4 @@ $$
 L(j) = 1 + \max \\{ L(i): (i, j) \in E\\}.
 $$
 
-# [[Fibonacci sequence]] Example
+# [[Fibonacci number]] Example
