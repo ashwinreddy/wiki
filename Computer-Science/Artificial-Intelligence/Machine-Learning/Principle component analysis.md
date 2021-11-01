@@ -2,6 +2,6 @@
 
 * Center the data by subtracting the mean. Call this $\bar{X}$.
 * Compute $\Sigma = \bar{X}^\mathsf{T}\bar{X}$
-* Do an eigendecomposition on the [[covariance matrix]] $\Sigma = QDQ^\mathsf{T}$.
+* Do an [[eigendecomposition]] on the [[covariance matrix]] $\Sigma = QDQ^\mathsf{T}$.
 * Keep the $k$ eigenvectors with the highest variance (highest eigenvalues in $D$)
 * Project points back onto this subspace.
