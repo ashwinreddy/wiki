@@ -5,7 +5,7 @@ A **directed acyclic graph (DAG/dag)** is a kind of [[graph]] with no [[cycle]] 
 
 # Shortest Path
 
-Since we can do a topological sort, we can find the shortest path from $s$ to any other node.
+This is a good example to start explaining [[dynamic programming]]. Since we can do a topological sort, we can find the shortest path from $s$ to any other node.
 
 ```python
 for node in nodes:
