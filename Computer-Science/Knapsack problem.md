@@ -1,4 +1,4 @@
-The **knapsack problem**. A robber's bag can only hold weight $W$. He can pick from $n$ items which have weight $w_1, \dots, w_n$ and dollar value $v_1, \dots, v_n$. What should he do?
+The **knapsack problem** is an [[optimization problemm]]. A robber's bag can only hold weight $W$. He can pick from $n$ items which have weight $w_1, \dots, w_n$ and dollar value $v_1, \dots, v_n$. What should he do?
 
 # With Repetition
 
