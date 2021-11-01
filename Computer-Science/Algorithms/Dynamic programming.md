@@ -12,6 +12,8 @@ $$
 
 # [[Fibonacci number]] Example
 
+Here is the top-down.
+
 ```python
 def fibMemo(n, mem):
     if n<=1:
@@ -25,4 +27,24 @@ def fibMemo(n, mem):
 def fibFast(n):
     mem = [None]*(n+1)
     return fibMemo(n, mem)
+```
+
+Here is the bottom up.
+
+```python
+def fibBottomUp(n):
+    mem = [None]*(n+1)
+    mem[0] = 0
+    mem[1] = 1
+    for i in range(2, n+1):
+        mem[i] = mem[i-1] + mem[i-2]
+    return mem[n]
+
+def fibBottomUpSpaceSaving(n):
+    mem = [0, 1] # stores mem[i-1] and mem[i-2]
+    for i in range(2, n+1):
+        x = mem[0] + mem[1]
+        mem[0] = mem[1]
+        mem[1] = x
+    return mem[1]
 ```
