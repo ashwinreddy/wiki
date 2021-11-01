@@ -7,6 +7,6 @@
 
 The projections are $\bar{X}_k = \bar{X}Q_k \in \mathbb{R}^{n \times k}$. We can expand back by doing
 
-\begin{equation}
+\begin{equation*}
 \bar{X}_{\mathsf{reconstruction}} = \bar{X}_k Q_k^\mathsf{T}
-\end{equation}
+\end{equation*}
