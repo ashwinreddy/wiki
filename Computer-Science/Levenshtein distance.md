@@ -3,5 +3,5 @@
 We can use [[dynamic programming]]. Let's say our strings are $x[1\ldots m]$ and $y[1\ldots n]$. Let $E(i,j)$ be the edit distance for $x$ from $1$ to $i$ and $y$ from $1$ to $j$. Thus, we want $E(m, n)$.
 
 $$
-E(i, j) = \min \\{ 1 + E(i-1, j) , 1 + E(i, j-1), \Bigg[ x[i] = y[j] \Bigg] + E(i-1, j-1) \\}.
+E(i, j) = \min \left\\{ 1 + E(i-1, j) , 1 + E(i, j-1), \Bigg[ x[i] = y[j] \Bigg] + E(i-1, j-1) \right\\}.
 $$
