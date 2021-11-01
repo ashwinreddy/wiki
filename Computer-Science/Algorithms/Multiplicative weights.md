@@ -23,4 +23,8 @@ $$
 x^{(t)}\_i = \frac{ w_i^{(t)} }{ \sum_{j=1}^n w_j^{(t)} }
 $$
 
-We initially do a uniform distribution: $w_i^{(0)} = 1$.
+We initially do a uniform distribution: $w_i^{(0)} = 1$. Then we do multiplicative updates
+
+$$
+w_i^{(t+1)} = w_i^{(t)} \cdot (1 - \eps)^{\ell_i^{(t)}}
+$$
