@@ -22,3 +22,5 @@ Pick $0 \leqslant \epsilon \leqslant \frac{1}{2}$. We define weights $w_i^{(t)}$
 $$
 x^{(t)}\_i = \frac{ w_i^{(t)} }{ \sum_{j=1}^n w_j^{(t)} }
 $$
+
+We initially do a uniform distribution: $w_i^{(0)} = 1$.
