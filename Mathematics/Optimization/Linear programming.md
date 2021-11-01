@@ -6,25 +6,28 @@
 \textrm{s.t.} \quad & \mathbf{Ax} \geqslant \mathbf{b}\\\\
   & \mathbf{x} \geqslant 0,
 \end{aligned}
-\tag{Canonical Form}
+\tag{Primal Canonical Form}
 \end{equation}
 
 
 \begin{equation}
 \begin{aligned}
-\max \quad & b^\mathsf{T} y \\\\
-\textrm{s.t.} \quad & A^\mathsf{T}y \leqslant c\\\\
-  & y \geqslant 0,
+\max \quad & \mathbf{b}^\mathsf{T} \mathbf{y} \\\\
+\textrm{s.t.} \quad & \mathbf{A}^\mathsf{T}\mathbf{y} \leqslant \mathbf{c}\\\\
+  & \mathbf{y} \geqslant 0,
 \end{aligned}
 \tag{Dual Problem}
 \end{equation}
 
+The dual problem can help us understand the primal problem.
+
+* Every feasible solution of the dual is a bound to any solution of the primal.
 
 # Feasibility
 
 1. **Feasible**. The feasible region is necessarily a convex polyhedron. If there is an optimal, it's at a vertex.
-2. **Infeasible**. 
-3. **Unbounded**. 
+2. **Infeasible**. The dual is unbounded or infeasible.
+3. **Unbounded**. The dual is infeasible.
 
 
 # Solution
