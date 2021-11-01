@@ -14,3 +14,9 @@ $$
 3. Return $K(W)$
 
 This runtime is $\order{nW}$
+
+# Without repetition
+
+$$
+K(w, j) = \max \\{ K(w - w_j, j-1) + v_j, K(w, j-1) \\}
+$$
