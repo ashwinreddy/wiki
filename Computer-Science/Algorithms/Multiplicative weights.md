@@ -3,3 +3,7 @@
 $$
 L_t = \sum_{i=1}^n x_i^{(t)} \ell_i^{(t)}
 $$
+
+$$
+R \equiv \sum_{t=1}^T L_t - \min_{i} \sum_{t=1}^T \ell_i^{(t)}
+$$
