@@ -11,7 +11,7 @@
 
 # Feasibility
 
-1. **Feasible**. The feasible region is necessarily a convex polyhedron.
+1. **Feasible**. The feasible region is necessarily a convex polyhedron. If there is an optimal, it's at a vertex.
 2. **Infeasible**. 
 3. **Unbounded**. 
 
