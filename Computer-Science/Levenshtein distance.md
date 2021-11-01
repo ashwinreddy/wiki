@@ -7,5 +7,5 @@ E(i, j) = \min \\{ 1 + E(i-1, j) , 1 + E(i, j-1), \mathsf{diff}(i,j) + E(i-1, j-
 $$
 
 $$
-x = \stack
+x = \stack{}
 $$
