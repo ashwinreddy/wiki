@@ -11,3 +11,18 @@ L(j) = 1 + \max \\{ L(i): (i, j) \in E\\}.
 $$
 
 # [[Fibonacci number]] Example
+
+```python
+def fibMemo(n, mem):
+    if n<=1:
+        return n
+    elif mem[n]!=None:
+        return mem[n]
+    else:
+        mem[n] = fibMemo(n-1,mem) + fibMemo(n-2,mem)
+        return mem[n]
+
+def fibFast(n):
+    mem = [None]*(n+1)
+    return fibMemo(n, mem)
+```
