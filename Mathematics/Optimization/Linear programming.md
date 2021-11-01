@@ -1,4 +1,4 @@
-**Linear programming** is optimization (min or max) with [[linear|linear map]] objectives and constraints, equations and/or inequalities. 
+**Linear programming** is optimization with [[linear|linear map]] objectives and constraints.
 
 \begin{equation}
 \begin{aligned}
