@@ -9,3 +9,5 @@ _Example_. The longest increasing subsequence gives a sequence $\\{a\_i\\}_{i=1}
 $$
 L(j) = 1 + \max \\{ L(i): (i, j) \in E\\}.
 $$
+
+# [[Fibonacci sequence]] Example
