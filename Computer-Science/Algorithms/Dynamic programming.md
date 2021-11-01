@@ -1,4 +1,8 @@
-**Dynamic programming** is an algorithmic paradigm in which a problem is solved by identifying a collection of subproblems and tackling them one by one, smallest first, using the answers to small problems to help figure out larger ones. There is an implicit [[dag|directed acyclic graph]] that sequences the problems.
+**Dynamic programming** is an algorithmic paradigm in which a problem is solved by identifying a collection of subproblems and tackling them one by one.
+
+In **top down (memoization)** approach, we use recursion and a lookup table to not recompute $f(\cdot)$ multiple times on the same arguments. In the **bottum up** approach (which generally takes the same time but may give memory savings), we fill the lookup table iteratively rather than recursively. 
+
+There is an implicit [[dag|directed acyclic graph]] that sequences the problems.
 
 _Example_. The longest increasing subsequence gives a sequence $\\{a\_i\\}_{i=1}^n$. We want to find the maximum length of an increasing [[subsequence]]. If $L(j)$ is the length of the longest path ending at $j$, then
 
