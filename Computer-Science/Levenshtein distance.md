@@ -5,7 +5,3 @@ We can use [[dynamic programming]]. Let's say our strings are $x[1\ldots m]$ and
 $$
 E(i, j) = \min \\{ 1 + E(i-1, j) , 1 + E(i, j-1), \mathsf{diff}(i,j) + E(i-1, j-1) \\}.
 $$
-
-$$
-x = \stack{}
-$$
