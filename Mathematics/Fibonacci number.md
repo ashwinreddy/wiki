@@ -1,0 +1,1 @@
+A **Fibonacci number** is a $F_i$ in the sequence $\\{F_n\\}$ where $F_0 = 0$ and $F_1 = 1$
