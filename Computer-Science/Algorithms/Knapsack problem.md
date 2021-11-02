@@ -2,7 +2,7 @@ The **knapsack problem** is an [[optimization problem]]. A robber's bag can only
 
 # With Repetition
 
-We can solve with [[dynamic programming]]. Let $K(w)$ be the maximum value achievable with a knapsack of capacity $w$. The insight is that $K(w)$ must be $K(w - w_i) + v_i$ for the right choice of $w_i$, so
+We can solve with [[dynamic programming]]. Let $K(w)$ be the maximum value achievable with a knapsack of capacity $w$. Clearly, our goal is to compute $K(W)$. The insight is that $K(w)$ must be $K(w - w_i) + v_i$ for the right choice of $w_i$, so
 
 $$
 K(w) = \max_{i : w_i \leq w}\\{ K(w-w_i) + v_i \\}
