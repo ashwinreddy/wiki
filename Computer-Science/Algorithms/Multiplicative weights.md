@@ -1,4 +1,4 @@
-**Multiplicative weights**. 
+**Multiplicative weights or Hedge** is an [[algorithm]].
 
 # Setting
 
