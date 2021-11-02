@@ -1,1 +1,1 @@
-**Matrix chain multiplication** is an [[optimization problem]] where we want to use the [[associative property]]
+**Matrix chain multiplication** is an [[optimization problem]] where we want to use the [[associative property]] of [[matrix multiplication]] to minimize the number of multiplications we have to do.
