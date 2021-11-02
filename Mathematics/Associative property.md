@@ -1,5 +1,5 @@
-The **associative property** for a binary operation $\diamondsuit$ implies that
+The **associative property** for a binary operation $*$ implies that
 
 $$
-(x \diamondsuit y) \diamondsuit z \equiv x \diamondsuit (y \diamondsuit z)
+(x * y) * z \equiv x * (y * z)
 $$
