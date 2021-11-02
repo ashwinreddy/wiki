@@ -1,0 +1,1 @@
+The **associative property** for a binary operation $\heartsuit$
