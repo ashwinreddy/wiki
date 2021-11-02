@@ -11,7 +11,11 @@ $$
 We don't aim to minimize the loss, we instead aim to minimize regret:
 
 $$
-R \equiv \overbrace{ \sum_{t=1}^T L_t }^{\text{Our Loss}} - \min_{i \in [n]} \sum_{t=1}^T \ell_i^{(t)}.
+\text{Offline Optimum} = \min_{i \in [n]} \sum_{t=1}^T \ell_i^{(t)}
+$$
+
+$$
+R \equiv \overbrace{ \sum_{t=1}^T L_t }^{\text{Our Loss}} - \text{Offline Optimum}
 $$
 
 
