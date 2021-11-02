@@ -50,3 +50,8 @@ If $T > 4 \ln n$ and $\epsilon = \sqrt{\ln n \over T}$
 $$
 R_T \leqslant 2\sqrt{T \ln n}
 $$
+
+# Analysis
+
+* If $W_{T+1}$ is small, the offline optimum is large
+* If the loss suffered by the algorithm is large, $W_{T+1}$ is small
