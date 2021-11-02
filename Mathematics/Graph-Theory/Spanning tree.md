@@ -1,1 +1,1 @@
-A **spanning tree** of a [[graph]] is a [[tree]] with all the vertices of the graph. We are often interested in a [[minimum spanning tree]].
+A **spanning tree** of a [[graph]] is a [[tree]] subset that contains all the vertices. We are often interested in a [[minimum spanning tree]].
