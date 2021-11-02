@@ -22,3 +22,5 @@ We'll have to change up the approach. Let $K(w,j)$ be the maximum value achievab
 $$
 K(w, j) = \max \\{ \overbrace{ K(w - w_j, j-1) + v_j  \text{ if } w_j \leqslant w }^{\text{use item } j}, \overbrace{ K(w, j-1) }^{\text{don't use item } j} \\}
 $$
+
+The table is now $W+1$ rows and $n+1$ columns, but it takes a constant time to fill in an entry, so the runtime is $\order{nW}$.
