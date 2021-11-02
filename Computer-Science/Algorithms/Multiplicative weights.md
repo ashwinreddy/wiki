@@ -24,7 +24,7 @@ $$
 Pick $0 \leqslant \epsilon \leqslant \frac{1}{2}$. We define weights $w_i^{(t)}$. The distribution $x^{(t)}_i$ will directly come from the weights by normalizing. 
 
 $$
-W_t \triangleq \sum_{t=1}^n w_i^{(t)}
+W_t \triangleq \sum_{i=1}^n w_i^{(t)}
 $$
 
 $$
