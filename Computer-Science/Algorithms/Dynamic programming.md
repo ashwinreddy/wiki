@@ -8,6 +8,12 @@ There is an implicit [[dag|directed acyclic graph]] that sequences the problems.
 
 We have to find a [[recurrence relation]], usually this is something that encapsulates the decision we can make (e.g. do we include it or not?)
 
+Common subproblems.
+
+* The input is $x_1, x_2, \dots x_n$ and a subproblem is $x_1, \dots, x_i$. The number of subproblems is $\order{n}$.
+* The input is $x_1, \dots, x_n$ and $y_1, \dots, y_m$. The subproblem is $x_1, \dots, x_i$ and $y_1, \dots, y_j$. The number of subproblems is $\order{mn}$.
+
+
 # Examples
 
 * [[Knapsack problem]]
