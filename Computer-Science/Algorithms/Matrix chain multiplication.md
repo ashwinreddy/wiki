@@ -15,3 +15,5 @@ Note the size of the subproblem is $|j-i|$. Anyway, the goal is to compute $C(1,
 $$
 C(i, j) = \min_{i \leqslant k < j}\\{C(i, k) + C(k+1, j) + m_{i-1} m_k m_j \\}.
 $$
+
+The idea here is that $k$ is the point which will split the product into two pieces: $A_i \dots A_k$ and $A_{k+1} \dots A_j$. 
