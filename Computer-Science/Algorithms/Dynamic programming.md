@@ -6,6 +6,8 @@ There is an implicit [[dag|directed acyclic graph]] that sequences the problems.
 
 # Examples
 
+* [[Knapsack problem]]
+
 ## Longest increasing [[subsequence]]
 
 The longest increasing subsequence gives a sequence $\\{a\_i\\}_{i=1}^n$. We want to find the maximum length of an increasing [[subsequence]]. If $L(j)$ is the length of the longest path ending at $j$, then
