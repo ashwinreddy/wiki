@@ -1,1 +1,1 @@
-A **cut** for a graph $G = (V, E)$ labels every $v \in V$ in one of two sets.
+A **cut** for a graph $G = (V, E)$ labels every $v \in V$ into one of two sets.
