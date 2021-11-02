@@ -20,11 +20,7 @@ Common subproblems.
 
 ## Longest increasing [[subsequence]]
 
-The longest increasing subsequence gives a sequence $\\{a\_i\\}_{i=1}^n$. We want to find the maximum length of an increasing [[subsequence]]. If $L(j)$ is the length of the longest path ending at $j$, then
-
-$$
-L(j) = 1 + \max \\{ L(i): (i, j) \in E\\}.
-$$
+We have a sequence $\\{a\_i\\}_{i=1}^n$. Find the max length of any increasing [[subsequence]]. Let $L(j)$ be the length of the longest path ending at $j$. We'll return $\max_j L(j)$.
 
 ## [[Fibonacci number]] Example
 
