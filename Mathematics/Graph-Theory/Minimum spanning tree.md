@@ -2,6 +2,6 @@ A **minimum spanning tree (MST)** is a [[spanning tree]] for a [[graph]] with mi
 
 # Cut property
 
-Take a [[cut]] of the tree. Let a crossing edge be an edge connecting a node. Then,
+Let a crossing edge for a [[cut]] be an edge connecting nodes on different sides of the cut. Then,
 
-> Given any cut, minimum weight crossing edge is in the MST.
+> The crossing edge with minimum weight is in the MST.
