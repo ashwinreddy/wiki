@@ -29,8 +29,14 @@ $$
 w_i^{(t+1)} = w_i^{(t)} \cdot (1 - \epsilon)\^{\ell_i^{(t)}}
 $$
 
-The regret is bounded as 
+_Theorem_. Assume losses are in $[0,1]$. Then the regret after $T$ steps is
 
 $$
-R_T \leqslant \epsilon T + \frac{\ln n}{\epsilon}, \quad R_T \leqslant 2\sqrt{T \ln n}
+R_T \leqslant \epsilon T + \frac{\ln n}{\epsilon}
+$$
+
+If $T > 4 \ln n$ and $\epsilon = \sqrt{\ln n \over T}$
+
+$$
+R_T \leqslant 2\sqrt{T \ln n}
 $$
