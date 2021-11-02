@@ -1,1 +1,1 @@
-The **associative property** for a binary operation $\heartsuit$
+The **associative property** for a binary operation $\diamondsuit$
