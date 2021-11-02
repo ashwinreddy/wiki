@@ -20,5 +20,5 @@ We have $W+1$ problems of work $\order{n}$, so the runtime is $\order{nW}$.
 We'll have to change up the approach. Let $K(w,j)$ be the maximum value achievable with capacity $w$ and items $1, \dots, j$. We're trying to find $K(W, n)$.
 
 $$
-K(w, j) = \max \\{ K(w - w_j, j-1) + v_j, K(w, j-1) \\}
+K(w, j) = \max \\{ \overbrace{ K(w - w_j, j-1) + v_j }^{\text{use item } j}, K(w, j-1) \\}
 $$
