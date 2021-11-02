@@ -4,6 +4,10 @@ In **top down (memoization)** approach, we use recursion and a lookup table to n
 
 There is an implicit [[dag|directed acyclic graph]] that sequences the problems.
 
+# Approach
+
+We have to find a [[recurrence relation]], usually this is something that encapsulates the decision we can make (e.g. do we include it or not?)
+
 # Examples
 
 * [[Knapsack problem]]
