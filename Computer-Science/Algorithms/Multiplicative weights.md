@@ -23,12 +23,14 @@ $$
 
 Pick $0 \leqslant \epsilon \leqslant \frac{1}{2}$. We define weights $w_i^{(t)}$. The distribution $x^{(t)}_i$ will directly come from the weights by normalizing. 
 
+Define $W_t$ to be the sum of weights at time $t$.
+
 $$
 W_t \triangleq \sum_{i=1}^n w_i^{(t)}
 $$
 
 $$
-x^{(t)}\_i = \frac{ w_i^{(t)} }{ \sum_{j=1}^n w_j^{(t)} }
+x^{(t)}\_i = \frac{ w_i^{(t)} }{ W_t }
 $$
 
 We initially do a uniform distribution: $w_i^{(0)} = 1$. Then we do multiplicative updates
