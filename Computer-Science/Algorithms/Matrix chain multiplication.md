@@ -1,0 +1,1 @@
+**Matrix chain multiplication** is an [[optimization problem]] where we want to use the [[associative property]]
