@@ -6,7 +6,7 @@ There is an implicit [[dag|directed acyclic graph]] that sequences the problems.
 
 # Examples
 
-* [[Knapsack problem]]
+[[include:Knapsack problem]]
 
 ## Longest increasing [[subsequence]]
 
