@@ -23,7 +23,7 @@ Common subproblems.
 We have a sequence $\\{a\_i\\}_{i=1}^n$. Find the max length of any increasing [[subsequence]]. Let $L(j)$ be the length of the longest path ending at $j$. We'll return $\max_j L(j)$, but
 
 $$
-L(i) = \begin{cases} 1 + \max_{ \substack{ 0 < j < i \\\\ a_j < a_i } } L(i) \\\\ 1 \end{cases}
+L(i) = \begin{cases} 1 + \max_{ \substack{ 0 < j < i \\\\ a_j < a_i } } L(i) \\\\ 1 & \not\exists j \end{cases}
 $$
 
 ## [[Fibonacci number]] Example
