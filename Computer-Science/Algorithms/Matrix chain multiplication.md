@@ -7,7 +7,11 @@ Suppose we want to compute $A_1 A_2 \dots A_n$ with dimensions $m_0 \times m_1, 
 How many binary trees are there with $n$ leaves? That is exponential in $n$, so it is no-go. We can use [[dynamic programming]].
 
 $$
-C(i, j) \triangleq \text{minimum cost of multiplying } A_i A_{i+1}\cdots A_j
+C(i, j) \triangleq \text{minimum cost of multiplying } A_i A_{i+1}\cdots A_j.
 $$
 
-The goal is to compute $C(1, n)$. What is the recurrence relation?
+Note the size of the subproblem is $|j-i|$. Anyway, the goal is to compute $C(1, n)$. What is the recurrence relation?
+
+$$
+C(i, j) = \min_{i \leqslant k < j}\\{C(i, k) + C(k+1, j) + m_{i-1} m_k m_j \\}.
+$$
