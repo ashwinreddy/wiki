@@ -26,6 +26,8 @@ $$
 L(i) = \begin{cases} 1 + \max_{ \substack{ 0 < j < i \\\\ a_j < a_i } } L(j) \\\\ 1 & \not\exists j \end{cases}
 $$
 
+This will take $\order{n^2}$ time.
+
 ## [[Fibonacci number]] Example
 
 Here is the top-down.
