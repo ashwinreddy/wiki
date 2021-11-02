@@ -13,7 +13,7 @@ $$
     * $K(w) = \max\\{ K(w - w_i) + v_i: w_i \leqslant w \\}$
 3. Return $K(W)$
 
-This runtime is $\order{nW}$
+We have $W+1$ problems of work $\order{n}$, so the runtime is $\order{nW}$.
 
 # Without repetition
 
