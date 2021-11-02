@@ -4,13 +4,17 @@ In **top down (memoization)** approach, we use recursion and a lookup table to n
 
 There is an implicit [[dag|directed acyclic graph]] that sequences the problems.
 
-_Example_. The longest increasing subsequence gives a sequence $\\{a\_i\\}_{i=1}^n$. We want to find the maximum length of an increasing [[subsequence]]. If $L(j)$ is the length of the longest path ending at $j$, then
+# Examples
+
+## Longest increasing [[subsequence]]
+
+The longest increasing subsequence gives a sequence $\\{a\_i\\}_{i=1}^n$. We want to find the maximum length of an increasing [[subsequence]]. If $L(j)$ is the length of the longest path ending at $j$, then
 
 $$
 L(j) = 1 + \max \\{ L(i): (i, j) \in E\\}.
 $$
 
-# [[Fibonacci number]] Example
+## [[Fibonacci number]] Example
 
 Here is the top-down.
 
