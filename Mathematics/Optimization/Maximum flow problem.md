@@ -2,6 +2,8 @@ The **maximum flow problem** gives us a [[directed graph]] $G$ and asks us to fi
 
 [[/uploads/flow.png]]
 
+This is a [[linear program]]
+
 Constraints are as follows:
 
 1. Edge capacities are obeyed: $0 \leq f_e \leq c_e$
