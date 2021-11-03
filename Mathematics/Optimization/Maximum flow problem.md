@@ -5,7 +5,9 @@ The **maximum flow problem** gives us a [[directed graph]] $G$ and asks us to fi
 This is [[linear programming]]
 
 $$
+\begin{aligned}
 \max \sum_{(s,u) \in E} f_{su}
+\end{aligned}
 $$
 
 Constraints are as follows:
