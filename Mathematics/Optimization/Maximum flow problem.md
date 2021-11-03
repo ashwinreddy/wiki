@@ -7,7 +7,8 @@ This is [[linear programming]]
 $$
 \begin{aligned}
 \max \quad & \sum_{(s,u) \in E} f_{su} \\\\
-\textrm{s.t.} \quad & 0 \leq f_e \leq c_e \qquad \forall e \in E \tag{a}
+\textrm{s.t.} \quad & 0 \leq f_e \leq c_e \qquad \forall e \in E \\\\
+& \sum_{(w, u) \in E} f_{wu} = \sum_{(u, z) \in E} f_{uz}
 \end{aligned}
 $$
 
