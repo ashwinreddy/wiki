@@ -2,7 +2,11 @@ The **maximum flow problem** gives us a [[directed graph]] $G$ and asks us to fi
 
 [[/uploads/flow.png]]
 
-This is a [[linear program]]
+This is [[linear programming]]
+
+$$
+\max \sum_{(s,u) \in E} f_{su}
+$$
 
 Constraints are as follows:
 
