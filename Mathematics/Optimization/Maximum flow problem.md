@@ -10,7 +10,7 @@ $$
 \textrm{s.t.} \quad & 0 \leq f_e \leq c_e \qquad \forall e \in E \\\\
 & \sum_{(w, u) \in E} f_{wu} = \sum_{(u, z) \in E} f_{uz}
 \end{aligned}
-\tag{Maximize Flow s.t. Edge Capacity + Flow Conserved}
+\tag{Max Flow s.t. Edge Capacity + Flow Conserved}
 $$
 
 # Residual 
