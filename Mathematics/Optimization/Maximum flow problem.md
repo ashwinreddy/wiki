@@ -6,7 +6,8 @@ This is [[linear programming]]
 
 $$
 \begin{aligned}
-\max \sum_{(s,u) \in E} f_{su}
+\max \quad & \sum_{(s,u) \in E} f_{su} \\\\
+\textrm{s.t.} \quad & \forall e \in E: 0 \leq f_e \leq c_e \tag{Edge Capacities}
 \end{aligned}
 $$
 
