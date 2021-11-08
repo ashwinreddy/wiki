@@ -1,4 +1,4 @@
-A **minimum spanning tree (MST)** is a [[spanning tree]] for a [[graph]] with minimal total edge weights. You can use [[Kruskal's algorithm]]
+A **minimum spanning tree (MST)** is a [[spanning tree]] for a [[graph]] with minimal total edge weights. You can use [[Kruskal's algorithm]] or [[Prim's algorithm]]
 
 # Cut property
 
