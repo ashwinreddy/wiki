@@ -1,0 +1,1 @@
+The **3SUM** problem asks for triplets in an array that sum to 0.
