@@ -1,0 +1,1 @@
+**3SAT** is like [[2SAT]].
