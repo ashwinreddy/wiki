@@ -1,1 +1,1 @@
-**P** is a [[complexity class]]
+**P** is a [[complexity class]] with any [[computational problem]] that takes [[time complexity]]
