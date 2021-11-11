@@ -1,1 +1,1 @@
-**3SAT** is like [[2SAT]].
+**3SAT** is like [[2SAT]]. It is [[NP-complete]].
