@@ -3,7 +3,9 @@ A **reduction** is an [[algorithm]] that transforms one problem to another. $P$ 
 @startuml
 : x ;
 :Preprocess;
+: y ;
 :Algorithm for Q;
+: Q(y) ;
 :Postprocess;
 :P(x);
 @enduml
