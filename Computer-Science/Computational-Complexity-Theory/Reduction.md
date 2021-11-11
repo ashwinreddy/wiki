@@ -2,10 +2,12 @@ A **reduction** is an [[algorithm]] that transforms one problem to another. $P$ 
 
 @startuml
 : x ;
+partition Reduction {
 :Preprocess;
 : y ;
 :Algorithm for Q;
 : Q(y) ;
 :Postprocess;
+}
 :P(x);
 @enduml
