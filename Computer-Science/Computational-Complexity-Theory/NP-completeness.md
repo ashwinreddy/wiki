@@ -1,0 +1,1 @@
+**NP-completeness** for a decision problem requires that all problems in [[NP]] reduce to it.
