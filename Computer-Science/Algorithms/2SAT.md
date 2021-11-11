@@ -1,0 +1,1 @@
+**2SAT** is the problem of satisfying a conjunction of disjunctions of variables whose assignment must be found.
