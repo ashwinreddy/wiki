@@ -1,1 +1,1 @@
-**NP-completeness** for a decision problem requires that all problems in [[NP]] reduce to it.
+**NP-complete**: a decision problem in [[NP]] which all problems in NP can reduce to.
