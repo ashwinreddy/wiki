@@ -1,1 +1,1 @@
-A **heap** is a [[tree]] [[data structure]]
+A **heap** is a [[tree]]-based [[data structure]] that is almost complete.
