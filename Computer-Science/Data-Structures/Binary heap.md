@@ -1,0 +1,1 @@
+A **binary heap** is a [[heap]] that is also a [[binary tree]].
