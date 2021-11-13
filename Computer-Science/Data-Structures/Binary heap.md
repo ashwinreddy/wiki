@@ -8,4 +8,4 @@ This takes $\order{n \log n}$ time
 
 ## Remove
 
-This takes $\order{n \log n} time$
+This takes $\order{n \log n}$ time$
