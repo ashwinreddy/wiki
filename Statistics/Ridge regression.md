@@ -9,3 +9,7 @@ $$
 \end{equation}
 
 As $\lambda \to \infty$, $\mathbf{w}\_{\mathrm{ridge}} \to 0$.
+
+# Kernel Ridge Regression
+
+[[Kernel method]]
