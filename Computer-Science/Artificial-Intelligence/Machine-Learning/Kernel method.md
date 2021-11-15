@@ -7,3 +7,5 @@ $$
 $$
 K_{ij} = k(x_i, x_j)
 $$
+
+[[Ridge regression]]
