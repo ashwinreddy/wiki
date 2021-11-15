@@ -1,0 +1,1 @@
+A **support vector machine (SVM)**
