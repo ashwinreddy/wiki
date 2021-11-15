@@ -3,3 +3,7 @@ A **kernel method** pushes data into a higher dimensional feature space. We can 
 $$
 k(x, y) = \langle \Phi(x), \Phi(y) \rangle
 $$
+
+$$
+K_{ij} = k(x_i, x_j)
+$$
