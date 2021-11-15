@@ -13,3 +13,7 @@ As $\lambda \to \infty$, $\mathbf{w}\_{\mathrm{ridge}} \to 0$.
 # Kernel Ridge Regression
 
 [[Kernel method]]
+
+$$
+\min_{\alpha \in \RR^n} \frac{1}{N}\lVert Y - K\alpha \rVert_2^2 + \lambda \alpha^\mathsf{T} K \alpha
+$$
