@@ -2,4 +2,8 @@ A **Gram matrix** is a matrix $G_{ij} = \langle v_i, v_j \rangle$ for some set o
 
 # Properties
 
-* A Gram matrix iff a [[positive semidefinite matrix]]
+* A Gram matrix iff a [[positive semidefinite matrix]]. Therefore we can write
+
+$$
+G = BB^\mathsf{T}
+$$
