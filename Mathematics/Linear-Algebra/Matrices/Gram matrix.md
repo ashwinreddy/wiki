@@ -1,1 +1,1 @@
-A **Gram matrix** is a matrix $G_{ij} = \langle v_i, v_j \rangle$ for some set of vectors ${v_i}_{i=1}^n$
+A **Gram matrix** is a matrix $G_{ij} = \langle v_i, v_j \rangle$ for some set of vectors $\\{v_i\\}_{i=1}^n$
