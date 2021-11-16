@@ -33,3 +33,5 @@ The log of products is the sum of logs.
 \end{equation}
 
 * [[Monotonic function]]
+
+Log is strictly [[concave]]
