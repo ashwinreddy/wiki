@@ -34,4 +34,4 @@ The log of products is the sum of logs.
 
 * [[Monotonic function]]
 
-Log is strictly [[concave]]
+Log is strictly [[concave function]]
