@@ -1,1 +1,1 @@
-The **halting problem** is [[NP-hard]]
+The **halting problem** is an [[NP-hard]] problem.
