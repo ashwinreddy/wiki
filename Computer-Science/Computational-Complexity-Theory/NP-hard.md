@@ -1,1 +1,1 @@
-**NP-hard**: any problem which is at least as hard as an NP-complete problem.
+**NP-hard**: any problem which is at least as hard as an NP-complete problem. "at least as hard as the hardest problems in [[NP]]"
