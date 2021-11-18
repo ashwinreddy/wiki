@@ -1,1 +1,1 @@
-**3SAT** is like [[2SAT]]. It is [[NP-complete]].
+**3SAT** is [[Satisfiability]], like [[2SAT]]. It is [[NP-complete]].
