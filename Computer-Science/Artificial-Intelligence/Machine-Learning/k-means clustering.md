@@ -1,1 +1,1 @@
-In **$k$-means clustering**, we have samples $\\{x_i \in \RR^d \\}_{i=1}^n$
+In **$k$-means clustering**, we have samples $\left\\{x_i \in \RR^d \right\\}_{i=1}^n$
