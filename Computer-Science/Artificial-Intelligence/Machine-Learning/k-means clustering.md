@@ -1,0 +1,1 @@
+In **$k$-means clustering**, we have samples $\\{x_i\\}_{i=1}^n$
