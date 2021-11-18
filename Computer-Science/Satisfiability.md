@@ -1,0 +1,1 @@
+**Satisfiability** is the problem. Special case is [[3SAT]]
