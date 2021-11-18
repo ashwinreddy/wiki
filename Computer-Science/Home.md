@@ -1,1 +1,1 @@
-<<GlobalTOC()>>
+<<Navigation()>>
