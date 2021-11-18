@@ -1,0 +1,1 @@
+A **search problem** is a [[computational problem]].
