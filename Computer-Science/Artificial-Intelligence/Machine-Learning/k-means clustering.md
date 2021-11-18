@@ -1,1 +1,1 @@
-In **$k$-means clustering**, we have samples $\left\\{x_i \in \RR^d \right\\}_{i=1}^n$
+In **$k$-means clustering**, we have samples $\left\\{x_i \in \RR^d \right\\}_{i=1}^n$ and our job is to assign the points to clusters $C_1, \dots, C_k$
