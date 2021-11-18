@@ -1,1 +1,1 @@
-**Satisfiability** is the problem. Special case is [[3SAT]] or [[2SAT]].
+**Satisfiability** is a search problem. Special case is [[3SAT]] or [[2SAT]].
