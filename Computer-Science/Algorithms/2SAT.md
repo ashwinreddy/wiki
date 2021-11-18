@@ -1,1 +1,1 @@
-**2SAT** is the problem of satisfying a conjunction of disjunctions of variables whose assignment must be found. 2SAT is in [[P]].
+**2SAT** is [[Satisfiability]] with 2 variables. It belongs to [[P]].
