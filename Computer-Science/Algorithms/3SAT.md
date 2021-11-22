@@ -3,5 +3,5 @@
 **Example**. 
 
 $$
-( \lnot x \or y \or z) \land ()
+( \lnot x \lor y \lor z) \land ()
 $$
