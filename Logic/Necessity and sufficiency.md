@@ -5,3 +5,5 @@ Necessity
 
 Sufficiency
 : If $P$ is sufficient for $Q$, then $P \implies Q$
+
+* "$P$ if $Q$" means $Q$ is sufficient for $P$
