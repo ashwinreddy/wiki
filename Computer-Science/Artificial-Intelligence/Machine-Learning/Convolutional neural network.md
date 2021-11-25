@@ -1,0 +1,1 @@
+A **convolutional neural network (CNN)** has convolutional layers.
