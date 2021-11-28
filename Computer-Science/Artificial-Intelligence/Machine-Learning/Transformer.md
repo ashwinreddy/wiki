@@ -9,3 +9,5 @@ For a sequence of length $T$, the query matrix $Q \in \RR^{T \times d_k}$, $K \i
 $$
 \mathsf{Attention}(Q, K, V) \triangleq \operatorname{softmax}\left(\frac{QK^\mathsf{T}}{\sqrt{d_k}}\right)V
 $$
+
+---
