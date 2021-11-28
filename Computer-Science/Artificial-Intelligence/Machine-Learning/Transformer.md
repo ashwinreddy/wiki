@@ -1,3 +1,7 @@
+---
+bibliography: "./Computer-Science/Artificial-Intelligence/Machine-Learning/papers.bib"
+---
+
 A **transformer** uses scaled dot-product attention. [@vaswani2017attention]
 
 For a sequence of length $T$, the query matrix $Q \in \RR^{T \times d_k}$, $K \in \RR^{T \times d_k}$, $V \in \RR^{T \times d_v}$,
