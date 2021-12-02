@@ -7,3 +7,5 @@ A **square matrix** is an $n \times n$ [[matrix]], which means the input and out
 $$
 A = \frac{1}{2}\left(A + A^\mathsf{T}\right) + \frac{1}{2}\left(A - A^\mathsf{T}\right)
 $$
+
+* Either [[singular matrix]]
