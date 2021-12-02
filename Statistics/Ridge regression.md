@@ -5,6 +5,10 @@
 \tag{Ridge Regression}
 \end{equation}
 
+$$
+\nabla_{\mathbf{w}}\left[\right] = \mathbf{0}
+$$
+
 \begin{equation}
 \mathbf{w}\_{\mathrm{ridge}} = (X\^\mathsf{T}X + \lambda I)\^{-1}X^\mathsf{T}y
 \end{equation}
