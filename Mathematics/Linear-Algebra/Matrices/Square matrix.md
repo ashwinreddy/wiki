@@ -8,4 +8,4 @@ $$
 A = \frac{1}{2}\left(A + A^\mathsf{T}\right) + \frac{1}{2}\left(A - A^\mathsf{T}\right)
 $$
 
-* Either [[singular matrix]]
+* Either [[singular matrix]] or [[invertible matrix]]
