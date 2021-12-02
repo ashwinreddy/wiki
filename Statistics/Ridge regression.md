@@ -6,7 +6,7 @@
 \end{equation}
 
 $$
-\nabla_{\mathbf{w}}\left[\right] = \mathbf{0}
+\nabla_{\mathbf{w}}\left[\lVert \mathbf{X}\mathbf{w} - \mathbf{y} \rVert_2^2 + \lambda \lVert \mathbf{w} \rVert_2^2\right] = \mathbf{0}
 $$
 
 \begin{equation}
