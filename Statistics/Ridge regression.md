@@ -1,7 +1,7 @@
 **Ridge regression** is an extension of [[ordinary least squares]] [[linear regression]]. If the [[design matrix]] is $X \in \mathbb{R}^{n \times d}$ and $y \in \mathbb{R}^{n}$,
 
 $$
-\mathbf{w}\_{\mathrm{ridge}} = \arg\min_{\mathbf{w} \in \RR^d} \lVert \mathbf{X}\mathbf{w} - \mathbf{y} \rVert_2^2 + \lambda \lVert \mathbf{w} \rVert_2^2
+\boxed{\mathbf{w}\_{\mathrm{ridge}} = \arg\min_{\mathbf{w} \in \RR^d} \lVert \mathbf{X}\mathbf{w} - \mathbf{y} \rVert_2^2 + \lambda \lVert \mathbf{w} \rVert_2^2}
 $$
 
 \begin{equation}
