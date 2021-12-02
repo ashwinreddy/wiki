@@ -1,4 +1,4 @@
-The **covariance matrix** is a [[matrix]] for a [[random vector]] $\mathbf{X}$ records the [[covariance]] of each pair of elements in the vector.
+The **covariance matrix** is a [[matrix]] for a [[random vector]] $\mathbf{X} \in \RR^d$ records the [[covariance]] of each pair of elements in the vector.
 
 \begin{align\*}
 \Sigma &= \mathbb{E}\left[\left(\mathbf{X}-\mu_\mathbf{X}\right)\left(\mathbf{X}-\mu_\mathbf{X}\right)^\mathsf{T}\right] \\\\
