@@ -8,7 +8,7 @@
 \begin{align\*}
 \mathbf{0} &= \nabla_{\mathbf{w}}\left[\lVert \mathbf{X}\mathbf{w} - \mathbf{y} \rVert_2^2 + \lambda \lVert \mathbf{w} \rVert_2^2\right] \\\\
 &=  -2\mathbf{X}^\mathsf{T}\mathbf{y} + 2\mathbf{X}^\mathsf{T}\mathbf{X}\mathbf{w} + 2\lambda \mathbf{w} \\\\
-&=  -\mathbf{X}^\mathsf{T}\mathbf{y} + \mathbf{X}^\mathsf{T}\mathbf{X}\mathbf{w} + \lambda \mathbf{w}
+&=  -\mathbf{X}^\mathsf{T}\mathbf{y} + (\mathbf{X}^\mathsf{T}\mathbf{X} + \lambda I)\mathbf{w}
 \end{align\*}
 
 \begin{equation}
