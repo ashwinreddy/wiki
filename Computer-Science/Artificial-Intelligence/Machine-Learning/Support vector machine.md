@@ -1,1 +1,1 @@
-A **support vector machine (SVM)** takes a training set $\\{(\mathbf{x}\_i, y\_i)\\}_{i=1}^n$
+A **support vector machine (SVM)** takes a training set $\\{(\mathbf{x}\_i, y\_i)\\}_{i=1}^n$ with $y_i \in {-1, +1}$
