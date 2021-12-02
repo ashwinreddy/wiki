@@ -12,7 +12,7 @@
 \end{align\*}
 
 \begin{equation}
-\mathbf{w}\_{\mathrm{ridge}} = (X\^\mathsf{T}X + \lambda I)\^{-1}X^\mathsf{T}y
+\mathbf{w}\_{\mathrm{ridge}} = (\mathbf{X}\^\mathsf{T}\mathbf{X} + \lambda I)\^{-1}\mathbf{X}^\mathsf{T}\mathbf{y}
 \end{equation}
 
 As $\lambda \to \infty$, $\mathbf{w}\_{\mathrm{ridge}} \to 0$.
