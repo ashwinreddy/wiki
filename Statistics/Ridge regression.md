@@ -7,7 +7,7 @@
 
 \begin{align\*}
 \mathbf{0} &= \nabla_{\mathbf{w}}\left[\lVert \mathbf{X}\mathbf{w} - \mathbf{y} \rVert_2^2 + \lambda \lVert \mathbf{w} \rVert_2^2\right] \\\\
-&= \nabla_{\mathbf{w}}\left[\lVert \mathbf{X}\mathbf{w} - \mathbf{y} \rVert_2^2\right] + 2\lambda \mathbf{w}
+&=  -2X^\mathsf{T}y + 2X^\mathsf{T}Xw + 2\lambda \mathbf{w}
 \end{align\*}
 
 \begin{equation}
