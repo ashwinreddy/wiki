@@ -1,0 +1,1 @@
+**Randomized polynomial time** is a [[complexity class]] that runs in [[polynomial time]]
