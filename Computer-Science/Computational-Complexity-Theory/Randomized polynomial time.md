@@ -4,4 +4,4 @@ $$
 RP \subseteq NP
 $$
 
-[[NP]]
+It is a subset of [[NP]]
