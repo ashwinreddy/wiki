@@ -3,3 +3,7 @@ A **support vector machine (SVM)** is a [[linear classifier]] takes a training s
 $$
 H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}
 $$
+
+$$
+\min_{\mathbf{w}, b} \frac{1}{2}\lVert \mathbf{w} \rVert^2
+$$
