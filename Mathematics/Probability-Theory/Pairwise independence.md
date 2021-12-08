@@ -1,0 +1,1 @@
+**Pairwise independence** means that any two [[random variable]] in a collection are independent.
