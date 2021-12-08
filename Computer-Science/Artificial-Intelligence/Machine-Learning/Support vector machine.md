@@ -4,6 +4,8 @@ $$
 H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}
 $$
 
+What is the margin $m$ for some point $\mathbf{z}$? Well, we need to see the distance from $\mathbf{z}$ to $H$ which would be the projection of $\mathbf{z} - \mathbf{x}_0$ onto $\mathbf{w}$
+
 The [[quadratic program]]
 
 \begin{equation}
