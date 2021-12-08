@@ -5,5 +5,7 @@ H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}
 $$
 
 $$
+\begin{aligned}
 \min_{\mathbf{w}, b} \frac{1}{2}\lVert \mathbf{w} \rVert^2
+\end{aligned}
 $$
