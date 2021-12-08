@@ -4,7 +4,8 @@ $$
 H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}
 $$
 
-[[quadratic program]]
+The [[quadratic program]]
+
 \begin{equation}
 \begin{aligned}
 \min_{\mathbf{w}, b} \quad & \frac{1}{2}\lVert \mathbf{w} \rVert^2 \\\\
