@@ -1,4 +1,4 @@
-**Zero-Error Probabilistic Polytime (ZPP)** is a [[complexity class]] which consists of Las Vegas algorithms which run in expected polynomial time.
+**Zero-Error Probabilistic Polytime (ZPP)** is a [[complexity class]] which consists of [[Las Vegas algorithm]] which run in expected polynomial time.
 
 If a problem has a ZPP algorithm $Z$, it has a RP algorithm. Run $Z$ for at least double its expected running time. Return an answer if you get one, otherwise say NO.
 
