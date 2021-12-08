@@ -1,1 +1,1 @@
-A **randomized algorithm** is an [[algorithm]] that is randomized.
+A **randomized algorithm** $\mathcal{A}$ is an [[algorithm]] that generates random bits to guide its execution.
