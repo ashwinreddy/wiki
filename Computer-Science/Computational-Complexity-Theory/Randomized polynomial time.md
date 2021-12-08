@@ -4,4 +4,4 @@ $$
 RP \subseteq NP
 $$
 
-It is a subset of [[NP]].
+It is a subset of [[NP]]. Why? Think of the algorithm $R(x)$ as $A(x, r)$ where $r$ is a result of coin flips the algorithm uses for randomness.
