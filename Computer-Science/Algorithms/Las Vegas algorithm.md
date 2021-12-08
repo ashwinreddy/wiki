@@ -1,0 +1,1 @@
+**Las Vegas algorithm** is a [[randomized algorithm]] that guarantees correctness but the runtime $t(x, r)$ is a [[random variable]].
