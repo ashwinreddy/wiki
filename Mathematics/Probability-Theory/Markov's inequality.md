@@ -4,6 +4,12 @@ $$
 \Pr(X \geqslant \lambda) \leqslant \frac{\mu}{\lambda}
 $$
 
+If we write $\lambda = k \mu$, then we get
+
+$$
+\Pr(X \geqslant k \mu ) \leqslant \frac{1}{k}
+$$
+
 [[Chebyshev's inequality]] uses this.
 
 # Proof
