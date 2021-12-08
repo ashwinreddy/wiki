@@ -1,1 +1,5 @@
 **Randomized polynomial time** is a [[complexity class]] that runs in polynomial time and gives the correct answer when it is 'NO' but only gives the correct answer with probability greater than $1/2$ when the correct answer is 'YES'.
+
+$$
+RP \subset NP
+$$
