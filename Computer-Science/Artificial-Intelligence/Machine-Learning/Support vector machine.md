@@ -6,7 +6,7 @@ $$
 
 $$
 \begin{aligned}
-\min_{\mathbf{w}, b} & \frac{1}{2}\lVert \mathbf{w} \rVert^2 \\\\
+\min_{\mathbf{w}, b} \quad & \frac{1}{2}\lVert \mathbf{w} \rVert^2 \\\\
 \textrm{s.t.} & y_i\left(\right) \geqslant 1,\quad \forall i
 \end{aligned}
 $$
