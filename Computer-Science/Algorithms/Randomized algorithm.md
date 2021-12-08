@@ -1,0 +1,1 @@
+A **randomized algorithm** is an [[algorithm]] that is randomized.
