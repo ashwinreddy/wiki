@@ -3,5 +3,9 @@
 If a problem has a ZPP algorithm $Z$, it has a RP algorithm. Run $Z$ for at least double its expected running time. Return an answer if you get one, otherwise say NO.
 
 $$
+\mathbb{P}(\text{run time} \leqslant 2\cdot \mathbb{E}[\text{run time}]) \geqslant \frac{}{} 
+$$
+
+$$
 \mathbb{P}\left(\text{yield an answer before stopping}\right) \geqslant \frac{1}{2}
 $$
