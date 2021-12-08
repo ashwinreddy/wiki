@@ -1,1 +1,1 @@
-**Zero-Error Probabilistic Polytime (ZPP)** is a [[complexity class]].
+**Zero-Error Probabilistic Polytime (ZPP)** is a [[complexity class]] where the random algorithm always gives the right solution but its runtime is random.
