@@ -1,1 +1,1 @@
-**QuickSelect** finds the $k$th smallest element in an unordered list.
+**QuickSelect** finds the $k$th smallest element in an unordered list. It is similar to [[quicksort]]
