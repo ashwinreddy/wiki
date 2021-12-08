@@ -1,1 +1,1 @@
-**Zero-Error Probabilistic Polytime (ZPP)**
+**Zero-Error Probabilistic Polytime (ZPP)** is a [[complexity class]].
