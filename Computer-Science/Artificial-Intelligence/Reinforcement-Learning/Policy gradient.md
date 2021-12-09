@@ -2,7 +2,7 @@
 bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
-A **policy gradient** method computes an estimate of the policy gradient and uses that in [[stochastic gradient ascent]]
+A **policy gradient** method computes an estimate of the policy gradient and uses that in [[stochastic gradient ascent|stochastic gradient descent]].
 
 
 tries to adjust the parameters $\theta$ to [[policy]] $\pi_\theta$ to optimize the objective $J$ via the [[gradient]]. We can pick $J$ as the [[expected value]] of return or some other variant of the return. 
