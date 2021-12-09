@@ -2,7 +2,11 @@
 bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib'
 ---
 
-A **policy gradient** method computes an estimate of the policy gradient and uses that in [[stochastic gradient ascent|stochastic gradient descent]].
+A **policy gradient** method computes an estimate of the policy gradient and uses that in [[stochastic gradient ascent|stochastic gradient descent]]. @schulman2017proximal notes that the most commonly used estimator looks like
+
+$$
+\hat{g} = \hat{\mathbb{E}}_t\left[\nabla_\theta \log \pi_\theta (a_t \mid s_t) \hat{A}_t\right]
+$$
 
 
 tries to adjust the parameters $\theta$ to [[policy]] $\pi_\theta$ to optimize the objective $J$ via the [[gradient]]. We can pick $J$ as the [[expected value]] of return or some other variant of the return. 
