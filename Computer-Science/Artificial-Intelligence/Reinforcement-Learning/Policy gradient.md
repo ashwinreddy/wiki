@@ -8,7 +8,7 @@ $$
 \hat{g} = \hat{\mathbb{E}}_t\left[\nabla_\theta \log \pi_\theta (a_t \mid s_t) \hat{A}_t\right]
 $$
 
-for stochastic [[policy]] $\pi_\theta$ with $\hat{A}_t$ being an estimator for the [[advantage function]]
+for stochastic [[policy]] $\pi_\theta$ with $\hat{A}_t$ being an estimator for the [[advantage function]] at time $t$. The $\hat{\mathbb{E}}_t$ is an empirical average over samples.
 
 
 ---
