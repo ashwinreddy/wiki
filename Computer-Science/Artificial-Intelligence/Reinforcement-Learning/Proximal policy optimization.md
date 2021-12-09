@@ -3,3 +3,5 @@ bibliography: './Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 ---
 
 **Proximal policy optimization (PPO)** is a [[policy gradient]] method from @schulman2017proximal.
+
+--
