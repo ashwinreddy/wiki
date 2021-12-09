@@ -9,6 +9,8 @@ $$
 $$
 
 
+---
+
 tries to adjust the parameters $\theta$ to [[policy]] $\pi_\theta$ to optimize the objective $J$ via the [[gradient]]. We can pick $J$ as the [[expected value]] of return or some other variant of the return. 
 
 $$
