@@ -4,7 +4,7 @@ $$
 r(x) = \begin{cases} 1 & \mathbf{w}^\mathsf{T}\mathbf{x} - b \geqslant 0 \\\\ -1 & \text{otherwise} \end{cases}
 $$
 
-The goal is to find the maximum-margin hyperplane $\mathbf{w}^\mathsf{T}\mathbf{x} - b=0$
+The maximum-margin hyperplane decision boundary is $\mathbf{w}^\mathsf{T}\mathbf{x} - b=0$.
 
 $$
 H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}
