@@ -8,4 +8,6 @@ $$
 K_{ij} = k(x_i, x_j)
 $$
 
+The kernel trick, when applicable, speeds up a learning algorithm if the number of sample points is substantially less than the dimension of the lifted feature space.
+
 [[Ridge regression]]
