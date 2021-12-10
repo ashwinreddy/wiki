@@ -6,7 +6,7 @@ $$
 
 $$
 \begin{array}{c|c c} 
-	a & b & c\\ 
+	a & b & c
 	\hline 
 	d & e & f 
 \end{array}
