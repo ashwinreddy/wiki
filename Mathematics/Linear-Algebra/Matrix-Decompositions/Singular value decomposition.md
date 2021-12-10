@@ -6,9 +6,7 @@ $$
 
 $$
 \begin{array}
-	a & b & c
-	\hline 
-	d & e & f 
+	
 \end{array}
 $$
 
