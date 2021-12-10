@@ -1,1 +1,1 @@
-**$k$-nearest neighbor ($k$-NN)** is an unsupervised learning classification algorithm
+**$k$-nearest neighbor ($k$-NN)** is an unsupervised learning algorithm where you use the $k$ nearest neighbors to either assign a class or output a regression.
