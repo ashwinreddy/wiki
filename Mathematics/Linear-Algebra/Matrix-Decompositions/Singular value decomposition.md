@@ -4,7 +4,7 @@ $$
 A = U\Sigma V^{\mathsf{T}}.
 $$
 
-with [[diagonal matrix]] $\Sigma$ containing the [[singular value]] and [[orthogonal matrices|orthogonal matrix]] $U$ and $V$. Notice that we have
+with rectangular diagonal matrix $\Sigma$ containing the [[singular value]] and [[orthogonal matrices|orthogonal matrix]] $U$ and $V$. Notice that we have
 
 $$
 AV = U\Sigma.
