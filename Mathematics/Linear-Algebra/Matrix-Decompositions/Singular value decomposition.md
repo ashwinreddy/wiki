@@ -5,7 +5,7 @@ A = U\Sigma V^{\mathsf{T}}.
 $$
 
 $$
-\begin{array}{c|c c} 
+\begin{array}
 	a & b & c
 	\hline 
 	d & e & f 
