@@ -1,1 +1,1 @@
-**k-nearest neighbor (k-NN)**
+**$k$-nearest neighbor ($k$-NN)** is an unsupervised learning classification algorithm
