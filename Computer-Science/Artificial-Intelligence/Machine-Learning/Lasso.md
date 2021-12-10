@@ -1,4 +1,4 @@
-**Lasso** is like [[ordinary least squares]] linear least-squares regression with regularization in the $\ell_1$-norm:
+**Lasso** modifies [[ordinary least squares]] with regularization in the $\ell_1$-norm:
 
 $$
 J(w) = |Xw - y|^2 + \lambda \lVert w \rVert_1
