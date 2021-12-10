@@ -5,7 +5,9 @@
 * Do an [[eigendecomposition]] on the [[covariance matrix]] $\Sigma = QDQ^\mathsf{T}$.
 * Keep the $k$ eigenvectors with the highest variance (highest eigenvalues in $D$). $Q_k \equiv Q_{:,1:k}$
 
-The **principal components**, i.e. projections, are $$\bar{X}_k \triangleq \bar{X}Q_k \in \mathbb{R}^{n \times k}.$$ We can expand back by doing
+The **principal components** are the right singular vectors of $\mathbf{\bar{X}}$, i.e. the eigenvectors of the sample [[covariance matrix]].
+
+, i.e. projections, are $$\bar{X}_k \triangleq \bar{X}Q_k \in \mathbb{R}^{n \times k}.$$ We can expand back by doing
 
 \begin{equation*}
 \bar{X}_{\mathsf{reconstruction}} = \bar{X}_k Q_k^\mathsf{T}
