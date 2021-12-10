@@ -2,7 +2,7 @@ The **contrapositive** of [[implication]]
 
 
 $$
-\mathsf{Contrapositive}\left( P \implies Q \right) = \neg Q \implies \neg P
+P \implies Q \right \equiv \neg Q \implies \neg P
 $$
 
 
