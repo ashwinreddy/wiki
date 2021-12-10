@@ -1,5 +1,7 @@
 **Principle component analysis (PCA)** is a dimension reduction technique. Let's say our data is given to us as $\mathbf{X} \in \RR^{n \times d}$. 
 
+# Procedure
+
 * Center the data by subtracting the mean. Call this $\bar{\mathbf{X}}$.
 * Compute $\Sigma = \bar{X}^\mathsf{T}\bar{X}$
 * Do an [[eigendecomposition]] on the [[covariance matrix]] $\Sigma = QDQ^\mathsf{T}$.
