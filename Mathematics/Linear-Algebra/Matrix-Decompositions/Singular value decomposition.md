@@ -5,7 +5,11 @@ A = U\Sigma V^{\mathsf{T}}.
 $$
 
 $$
-\begin{bmatrix}u_1 \end{bmatrix}
+\left[\begin{array}{c|c c} 
+	a & b & c\\ 
+	\hline 
+	d & e & f 
+\end{array}\right] 
 $$
 
 with rectangular diagonal matrix $\Sigma$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $U$ and $V$. Notice that we have
