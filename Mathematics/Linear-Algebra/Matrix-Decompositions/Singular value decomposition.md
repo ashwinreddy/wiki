@@ -6,7 +6,7 @@ $$
 
 
 $$
-A = \begin{bmatrix}u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1 & 0 & \dots \\\\ 0 & \sigma_2 \\\\ \vdots & \ddots \end{bmatrix}
+A = \begin{bmatrix}u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1 & 0 & \dots \\\\ 0 & \sigma_2 \\\\ \vdots & & \ddots \end{bmatrix}
 $$
 
 with rectangular diagonal matrix $\Sigma$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $U$ and $V$. Notice that we have
