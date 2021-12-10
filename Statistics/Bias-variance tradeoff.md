@@ -3,7 +3,8 @@ The **bias-variance tradeoff** is a property of a model that the [[variance]] of
 Suppose $Y = f(X) + \epsilon$ where $\epsilon \sim \mathcal{N}(0, \sigma_\epsilon)$
 
 \begin{align\*}
-\operatorname{Error}(x) &= \mathbb{E}\left[\left(Y - \hat{f}(x)\right)^2\right]
+\operatorname{Error}(x) &= \mathbb{E}\left[\left(Y - \hat{f}(x)\right)^2\right] \\\\
+&= \text{Bias}^2 + \text{Variance} + \text{Noise}
 \end{align\*}
 
 [[https://scott.fortmann-roe.com/docs/BiasVariance.html]]
