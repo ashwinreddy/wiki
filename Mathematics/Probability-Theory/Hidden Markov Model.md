@@ -1,1 +1,1 @@
-A **Hidden Markov model (HMM)**
+A **Hidden Markov model (HMM)** has observation probability $p(y_t \mid x_t)$ from $p(x_t \mid x_{t-1})$.
