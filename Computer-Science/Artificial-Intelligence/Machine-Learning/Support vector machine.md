@@ -1,8 +1,18 @@
-A **support vector machine (SVM)** is a [[linear classifier]] takes a training set $\\{(\mathbf{x}\_i, y\_i)\\}_{i=1}^n$ with $y_i \in \\{-1, +1\\}$ and finds a decision rule
+A **support vector machine (SVM)** is a [[linear classifier]] that takes a training set $\\{(\mathbf{x}\_i, y\_i)\\}_{i=1}^n$ with $y_i \in \\{-1, +1\\}$ and finds a decision rule
 
 $$
 r(x) = \begin{cases} 1 & \mathbf{w}^\mathsf{T}\mathbf{x} - b \geqslant 0 \\\\ -1 & \text{otherwise} \end{cases}
 $$
+
+while trying to maximize margin.
+
+
+\begin{equation}
+\begin{aligned}
+\max_{\mathbf{w}, b} \quad & m \\\\
+\textrm{s.t.} \quad & y_i\left(\mathbf{w}^\mathsf{T}\mathbf{x}_i - b\right) \geqslant 1,\quad \forall i
+\end{aligned}
+\end{equation}
 
 The maximum-margin hyperplane decision boundary is $\mathbf{w}^\mathsf{T}\mathbf{x} - b=0$.
 
