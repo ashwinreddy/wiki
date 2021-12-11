@@ -4,7 +4,7 @@ $$
 r(x) = \begin{cases} 1 & \mathbf{w}^\mathsf{T}\mathbf{x} - b \geqslant 0 \\\\ -1 & \text{otherwise} \end{cases}
 $$
 
-while trying to maximize margin. What is the margin $m$ for some point $\mathbf{z}$?
+However, that on its own is underconstrained. SVM tries to maximize margin, the distance from the decision boundary H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}. to each point. What is the margin for some point $\mathbf{z}$?
 
 $$
 \operatorname{margin}(\mathbf{z}) = \frac{|\mathbf{w}^\mathsf{T}(\mathbf{z} - \mathbf{x}_0) |}{\lVert \mathbf{w} \rVert_2} = \frac{|\mathbf{w}^\mathsf{T}\mathbf{z} - b |}{\lVert \mathbf{w} \rVert_2} 
@@ -18,12 +18,6 @@ $$
 \end{aligned}
 \tag{Intuitive Formulation}
 \end{equation}
-
-The maximum-margin hyperplane decision boundary is $\mathbf{w}^\mathsf{T}\mathbf{x} - b=0$.
-
-$$
-H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}
-$$
 
 Well, we need to see the distance from $\mathbf{z}$ to $H$ which would be the projection of $\mathbf{z} - \mathbf{x}_0$ onto $\mathbf{w}$
 
