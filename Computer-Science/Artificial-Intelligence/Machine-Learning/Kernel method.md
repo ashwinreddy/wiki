@@ -20,4 +20,10 @@ Algorithms that can be kernalized include
 
 $$
 k(x, y) = (x^\mathsf{T} y + 1)^r
+\tag{Polynomial Kernel}
+$$
+
+
+$$
+k(x, y) = \exp\left(- \lVert x - y \rVert^2 \over 2\sigma^2 \right)
 $$
