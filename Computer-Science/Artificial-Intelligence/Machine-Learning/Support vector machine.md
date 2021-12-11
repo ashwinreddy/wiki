@@ -10,7 +10,7 @@ while trying to maximize margin.
 \begin{equation}
 \begin{aligned}
 \max_{m, \mathbf{w}, b} \quad & m \\\\
-\textrm{s.t.} \quad & y_i\left(\mathbf{w}^\mathsf{T}\mathbf{x}_i - b\right) \geqslant 1,\quad \forall i \\\\
+\textrm{s.t.} \quad & y_i\frac{\left(\mathbf{w}^\mathsf{T}\mathbf{x}_i - b\right)}{\lVert \mathbf{w} \rVert_2} \geqslant m,\quad \forall i \\\\
 & m \geqslant 0
 \end{aligned}
 \tag{Intuitive Formulation}
