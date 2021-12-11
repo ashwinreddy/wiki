@@ -13,6 +13,7 @@ while trying to maximize margin.
 \textrm{s.t.} \quad & y_i\left(\mathbf{w}^\mathsf{T}\mathbf{x}_i - b\right) \geqslant 1,\quad \forall i \\\\
 & m \geqslant 0
 \end{aligned}
+\tag{Intuitive Formulation}
 \end{equation}
 
 The maximum-margin hyperplane decision boundary is $\mathbf{w}^\mathsf{T}\mathbf{x} - b=0$.
