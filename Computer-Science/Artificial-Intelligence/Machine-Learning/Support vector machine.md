@@ -9,7 +9,7 @@ while trying to maximize margin.
 
 \begin{equation}
 \begin{aligned}
-\max_{\mathbf{w}, b} \quad & m \\\\
+\max_{m, \mathbf{w}, b} \quad & m \\\\
 \textrm{s.t.} \quad & y_i\left(\mathbf{w}^\mathsf{T}\mathbf{x}_i - b\right) \geqslant 1,\quad \forall i \\\\
 & m \geqslant 0
 \end{aligned}
