@@ -6,6 +6,9 @@ $$
 
 while trying to maximize margin.
 
+$$
+\operatorname{margin}(\mathbf{z}) = \frac{|\mathbf{w}^\mathsf{T}(\mathbf{z} - \mathbf{x}_0) |}{\lVert \mathbf{w} \rVert_2} = \frac{|\mathbf{w}^\mathsf{T}\mathbf{z} - b |}{\lVert \mathbf{w} \rVert_2} 
+$$
 
 \begin{equation}
 \begin{aligned}
@@ -24,9 +27,7 @@ $$
 
 What is the margin $m$ for some point $\mathbf{z}$? Well, we need to see the distance from $\mathbf{z}$ to $H$ which would be the projection of $\mathbf{z} - \mathbf{x}_0$ onto $\mathbf{w}$
 
-$$
-m = \frac{|\mathbf{w}^\mathsf{T}(\mathbf{z} - \mathbf{x}_0) |}{\lVert \mathbf{w} \rVert_2} = \frac{|\mathbf{w}^\mathsf{T}\mathbf{z} - b |}{\lVert \mathbf{w} \rVert_2} 
-$$
+
 
 We can pick $\lVert w \rVert_2$ to be something like 1 or $\frac{1}{m}$.
 
