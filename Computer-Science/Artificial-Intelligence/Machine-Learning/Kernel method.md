@@ -1,4 +1,4 @@
-A **kernel method** refactors a machine learning algorithm to implicitly push all the data points to a higher dimensional (possibly infinite dimensional) feature space. Formally, it replaces for [[design matrix]] $XX^\mathsf{T}$ with $K = \Phi(X)\Phi(X^\mathsf{T})$. A valid kernel function $k$ that represents an [[inner product]].
+A **kernel method** refactors a machine learning algorithm to implicitly push/augment each data point $x$ to a higher dimensional $\phi(x)$ (possibly infinite dimensional) feature space. Formally, it replaces for [[design matrix]] $XX^\mathsf{T}$ with $K = \Phi(X)\Phi(X^\mathsf{T})$. A valid kernel function $k$ that represents an [[inner product]].
 
 $$
 k(x, y) = \langle \Phi(x), \Phi(y) \rangle
@@ -26,4 +26,6 @@ $$
 
 $$
 k(x, y) = \exp\left(- \lVert x - y \rVert^2 \over 2\sigma^2 \right)
+\tag{Gaussian RBF Kernel}
 $$
+
