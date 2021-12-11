@@ -1,4 +1,7 @@
-A **kernel method** pushes data into a higher dimensional (possibly infinite dimensional) feature space. We can often us a kernel function $k$ that represents an inner product in the higher space without actually doing the inner product.
+A **kernel method** refactors a machine learning algorithm to replace $XX^\mathsf{T}$ with $K = \Phi(X)\Phi(X^\mathsf{T}) $
+
+
+pushes data into a higher dimensional (possibly infinite dimensional) feature space. We can often us a kernel function $k$ that represents an inner product in the higher space without actually doing the inner product.
 
 $$
 k(x, y) = \langle \Phi(x), \Phi(y) \rangle
