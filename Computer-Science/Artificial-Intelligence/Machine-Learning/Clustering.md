@@ -1,0 +1,1 @@
+**Clustering** is an unsupervised learning technique to find "clusters" based on similarity with some heuristic. For example, [[k-means clustering]].
