@@ -31,3 +31,9 @@ We can expand back by doing
 \begin{equation*}
 \bar{X}_{\mathsf{reconstruction}} = \bar{X}_k Q_k^\mathsf{T} \tag{Reconstruction}
 \end{equation*}
+
+# Formalism
+
+$$
+\text{Reconstruction Loss} = \lVert \bar{X}_{\mathsf{reconstruction}} - \bar{X} \rVert_F
+$$
