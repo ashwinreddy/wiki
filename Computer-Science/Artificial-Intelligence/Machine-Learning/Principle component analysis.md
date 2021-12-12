@@ -34,6 +34,8 @@ We can expand back by doing
 
 # Formalism
 
+[[Frobenius norm]]
+
 $$
 \text{Reconstruction Loss} = \lVert \bar{X}_{\mathsf{reconstruction}} - \bar{X} \rVert_F
 $$
