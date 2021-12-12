@@ -32,6 +32,12 @@ We can expand back by doing
 \bar{X}_{\mathsf{reconstruction}} = \bar{X}_k Q_k^\mathsf{T} \tag{Reconstruction}
 \end{equation*}
 
+# Variance
+
+$$
+v_i = \frac{D_{i,i}}{\sum_j D_{j,j}}
+$$
+
 # Formalism
 
 [[Frobenius norm]]
