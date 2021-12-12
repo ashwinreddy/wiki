@@ -22,7 +22,11 @@ Keep the $k$ eigenvectors with the highest variance (highest eigenvalues in $D$)
 
 The **principal components** are the right singular vectors of $\mathbf{\bar{X}}$, i.e. the eigenvectors of the sample [[covariance matrix]].
 
-$$\bar{X}_k \triangleq \bar{X}Q_k \in \mathbb{R}^{n \times k}.$$ We can expand back by doing
+$$
+\bar{X}_k \triangleq \bar{X}Q_k \in \mathbb{R}^{n \times k} \tag{Reduced Data}
+$$ 
+
+We can expand back by doing
 
 \begin{equation*}
 \bar{X}_{\mathsf{reconstruction}} = \bar{X}_k Q_k^\mathsf{T}
