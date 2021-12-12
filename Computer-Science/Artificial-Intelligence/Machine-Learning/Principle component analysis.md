@@ -6,7 +6,7 @@ The technique relies on [[diagonalization|diagonalizable matrix]].
 
 # Procedure
 
-* Center the data by subtracting the mean. Call this $\bar{\mathbf{X}}$.
+1. Center the data by subtracting the mean. Call this $\bar{\mathbf{X}}$. $$\bar{\mathbf{X}} = \mathbf{X} - \begin{bmatrix} \bar{x}_1 & \bar{x}_d \end{bmatrix}$$
 
 Consider $\bar{X}^\mathsf{T}\bar{X} \in \RR^{d \times d}$ and do an [[eigendecomposition]] on it:
 
