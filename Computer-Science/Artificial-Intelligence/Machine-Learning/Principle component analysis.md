@@ -15,6 +15,9 @@ $$
 \bar{X}^\mathsf{T}\bar{X} = \Sigma = QDQ^\mathsf{T}
 $$
 
+Principal axes
+: The $Q$ matrix
+
 Keep the $k$ eigenvectors with the highest variance (highest eigenvalues in $D$). $Q_k \equiv Q_{:,1:k}$
 
 The **principal components** are the right singular vectors of $\mathbf{\bar{X}}$, i.e. the eigenvectors of the sample [[covariance matrix]].
