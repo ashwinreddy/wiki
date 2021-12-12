@@ -6,11 +6,13 @@ The technique relies on [[diagonalization|diagonalizable matrix]].
 
 * Center the data by subtracting the mean. Call this $\bar{\mathbf{X}}$.
 
-Consider $\bar{X}^\mathsf{T}\bar{X} \in \RR^{d \times d}$
+Consider $\bar{X}^\mathsf{T}\bar{X} \in \RR^{d \times d}$ and do an [[eigendecomposition]] on it:
 
-* Compute the sample covariance matrix $\Sigma = \bar{X}^\mathsf{T}\bar{X}$
-* Do an [[eigendecomposition]] on the [[covariance matrix]] $\Sigma = QDQ^\mathsf{T}$.
-* Keep the $k$ eigenvectors with the highest variance (highest eigenvalues in $D$). $Q_k \equiv Q_{:,1:k}$
+$$
+\bar{X}^\mathsf{T}\bar{X} = QDQ^\mathsf{T}
+$$
+
+Keep the $k$ eigenvectors with the highest variance (highest eigenvalues in $D$). $Q_k \equiv Q_{:,1:k}$
 
 The **principal components** are the right singular vectors of $\mathbf{\bar{X}}$, i.e. the eigenvectors of the sample [[covariance matrix]].
 
