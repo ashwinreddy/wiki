@@ -1,4 +1,4 @@
-**Principle component analysis (PCA)** is a dimension reduction technique that takes a [[design matrix]] $\mathbf{X} \in \RR^{n \times d}$ and tries to reduce it to dimension $k$.
+**Principle component analysis (PCA)** is a dimension reduction technique that takes a [[design matrix]] $\mathbf{X} \in \RR^{n \times d}$ (therefore of dimensionality $d$) and tries to reduce it to dimension $k < d$.
 
 # Procedure
 
