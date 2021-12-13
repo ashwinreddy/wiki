@@ -1,4 +1,4 @@
-**Dynamic programming** is an algorithmic paradigm in which a problem is solved by identifying a collection of subproblems and tackling them one by one.
+**Dynamic programming** is an [[algorithmic|algorithm]] paradigm in which a problem is solved by identifying a collection of subproblems and tackling them one by one.
 
 In **top down (memoization)** approach, we use recursion and a lookup table to not recompute $f(\cdot)$ multiple times on the same arguments. In the **bottum up** approach (which generally takes the same time but may give memory savings because it can discard results of subproblems that won't be revisited), we fill the lookup table iteratively rather than recursively. 
 
