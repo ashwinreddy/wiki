@@ -1,0 +1,2 @@
+**Quadratic programming (QP)**
+
