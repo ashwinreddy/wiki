@@ -9,7 +9,7 @@ The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposit
 In the full SVD, rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $\mathbf{U}$ and $\mathbf{V}$. 
 
 $$
-\operatorname{Col}(\matbf{A}) = \operatorname{span} \\{ u_i \\} = \operatorname{span} \operatorname{eigenvectors}(\mathbf{A}\mathbf{A}^\mathsf{T})
+\operatorname{Col}(\mathbf{A}) = \operatorname{span} \\{ u_i \\} = \operatorname{span} \operatorname{eigenvectors}(\mathbf{A}\mathbf{A}^\mathsf{T})
 $$
 
 
