@@ -2,4 +2,4 @@
 
 # Examples
 
-* [[MST]]
+* [[MST|minimum spanning tree]], [[linear program]]
