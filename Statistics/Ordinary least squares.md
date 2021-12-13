@@ -17,9 +17,9 @@ $$
 X^\mathsf{T}y = X^\mathsf{T}X \beta \implies (X\^\mathsf{T}X)^{-1} X^\mathsf{T}y =  \beta
 $$
 
-# MLE
+# Motivation
 
-We can also consider a [[maximum likelihood estimation]] of the form
+To motivate this formulation, consider the [[maximum likelihood estimation]] on
 
 $$
 y = mx + b + \epsilon, \quad \epsilon \sim \mathsf{Normal}(0, \sigma^2)
@@ -27,13 +27,8 @@ $$
 
 Then, our likelihood function is
 
-$$
-L(\theta) = \prod_{i=1}^n \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}_i - y_i)^2}
-$$
-
 \begin{align}
 \theta^* &= \arg\max_{\theta} \log L(\theta)  \\\\
-&= \arg\max_{\theta} \log \left( \prod_{i=1}^n \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}\_i - y_i)^2} \right) \\\\
 &= \arg\max_{\theta} \sum_{i=1}^n \log \left( \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}\_i - y_i)^2} \right) \\\\
 &= \arg\max_{\theta} \sum_{i=1}^n \log \left( \frac{1}{\sqrt{2\pi}}\right) - \frac{1}{2}\sigma^2 \sum_{i=1}^n \left(\hat{y}\_i - y_i \right)^2 \\\\
 &= \arg\min_\theta \sum_{i=1}^n \left(\hat{y}_i - y_i \right)^2  
