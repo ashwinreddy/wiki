@@ -1,7 +1,7 @@
-**Fisher information** is given by
+**Fisher information** of a [[random variable]] $X$ about parameter $\theta$ is given by
 
 $$
-\mathcal{I}(\theta) = \mathbb{E}\left[s(\theta)^2 \mid \theta \right]
+\mathcal{I}_X(\theta) = \mathbb{E}\left[s(\theta)^2 \mid \theta \right]
 $$
 
 for [[score]] $s$.
