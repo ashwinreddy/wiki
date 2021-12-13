@@ -1,1 +1,1 @@
-A **(connected) component** is a subgraph that is internally connected but has no edges to remaining vertices.
+A **(connected) component** is a [[subgraph]] that is internally connected but has no edges to remaining vertices.
