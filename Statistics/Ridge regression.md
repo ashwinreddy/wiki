@@ -36,3 +36,9 @@ In dual ridge regression, we consider $\mathbf{w} = \mathbf{X}^\mathsf{T}\alpha$
 $$
 \alpha^\star = (K + \lambda I)^{-1}\mathbf{y}
 $$
+
+From which we see that
+
+$$
+\mathbf{w}^\star = \mathbf{X}^\mathsf{T} (K + \lambda I)^{-1}\mathbf{y}
+$$
