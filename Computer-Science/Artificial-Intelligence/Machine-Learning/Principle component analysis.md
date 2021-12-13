@@ -32,16 +32,20 @@ We can expand back by doing
 \bar{X}_{\mathsf{reconstruction}} = \bar{X}_k Q_k^\mathsf{T} \tag{Reconstruction}
 \end{equation*}
 
-# Variance
+# Misc
+
+The variance can be computed with
 
 $$
 v_i = \frac{D_{i,i}}{\sum_j D_{j,j}}
 $$
-
-# Formalism
 
 [[Frobenius norm]]
 
 $$
 \text{Reconstruction Loss} = \lVert \bar{X}_{\mathsf{reconstruction}} - \bar{X} \rVert_F
 $$
+
+# Rotation
+
+PCA is invariant to rotations of the data.
