@@ -14,7 +14,7 @@ There are two problems here:
 Suppose we knew the partition. Then the centroid can be found by just taking the average. 
 
 $$
-\hat{c\}_k  = \argmin\_{c_k} \sum_{x \in C_k} \lVert x - c_k \rVert^2 = \frac{1}{N} \sum_{x \in C_k} x
+\hat{c}\_k  = \argmin\_{c_k} \sum_{x \in C_k} \lVert x - c_k \rVert^2 = \frac{1}{N} \sum_{x \in C_k} x
 $$
 
 Suppose you know the centroids. Then the points are assigned to whichever centroid is closest. 
