@@ -7,7 +7,7 @@
 \begin{aligned}
 \min_{\mathbf{x}} \quad & f_0(\mathbf{x})\\\\
 \textrm{s.t.} \quad & f_i(\mathbf{x}) \leqslant 0, \quad i = 1, \dots, m \\\\
-  & \mathbf{x} \geqslant 0,
+  & h_j(\mathbf{x}) = 0, \quad j = 1, \dots, n
 \end{aligned}
 \tag{Primal Canonical Form}
 \end{equation}
