@@ -40,7 +40,7 @@ The [[quadratic programming]]
 
 # Soft Margin
 
-The soft-margin SVM comes into play when the data is not linearly separable. We allow each point a transgression budget of $\xi$. We introduce a hyperparameter $C$ that controls how much we punish points for spending $\sum_i \xi$.
+The soft-margin SVM comes into play when the data is not linearly separable. We allow each point a transgression budget of $\xi$. We introduce a hyperparameter $C$ that controls how much we punish points for spending $\sum_i \xi_i$.
 
 \begin{equation}
 \begin{aligned}
@@ -51,4 +51,9 @@ The soft-margin SVM comes into play when the data is not linearly separable. We 
 \tag{Soft SVM}
 \end{equation}
 
-Clearly, as $C \to 0$ we recover the hard-margin SVM.
+Clearly, as $C \to 0$ we recover the hard-margin SVM. 
+
+||small $C$|large $C$|
+|Desire|maximize margin|keep $\xi_i$ small|
+|Danger|underfitting|overfitting|
+|Outliers|less sensitive|more sensitive|
