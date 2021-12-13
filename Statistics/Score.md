@@ -4,6 +4,8 @@ $$
 s(\theta) \triangleq \nabla_\theta \log\ell(\theta)
 $$
 
+The [[variance]] of the score is [[Fisher information]].
+
 # Properties
 
 The [[expected value]] of the score is 0.
@@ -15,4 +17,3 @@ The [[expected value]] of the score is 0.
 &= 0
 \end{align}
 
-The [[variance]] is [[Fisher information]].
