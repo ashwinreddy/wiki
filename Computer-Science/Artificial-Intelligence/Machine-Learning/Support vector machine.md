@@ -51,7 +51,7 @@ The soft-margin SVM comes into play when the data is not linearly separable. We 
 \tag{Soft SVM}
 \end{equation}
 
-As $C \to \infty$ we recover the hard-margin SVM. 
+As $C \to \infty$ we recover the hard-margin SVM. As $C \to 0$, we have the opposite problem: the model can underfit because the slack variables can be anything to maximize the margin.
 
 | |small $C$|large $C$|
 |--|--------|----------|
