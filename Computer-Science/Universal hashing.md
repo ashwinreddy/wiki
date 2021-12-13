@@ -9,3 +9,9 @@ A stronger condition is [[pairwise independence]], which means for every fixed p
 $$
 \text{pairwise independent} \implies \text{universal}
 $$
+
+$$
+h_{a,b}(x) = ax + b \mod m
+$$
+
+is a pairwise independent hash family
