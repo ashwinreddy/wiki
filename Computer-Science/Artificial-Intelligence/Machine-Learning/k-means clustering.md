@@ -20,7 +20,7 @@ $$
 Suppose you know the centroids. Then the points are assigned to whichever centroid is closest. 
 
 $$
-\hat{C}\_k = \\{ x_i \mid k = \arg\min_{j} \lVert x_i - c_j \rVert^2  \\} \tag{Cluster given Centroid}
+\hat{C}\_k = \left\\{ x_i \mid k = \arg\min_{j} \lVert x_i - c_j \rVert^2  \right\\} \tag{Cluster given Centroid}
 $$
 
 The $k$-means algorithm is just to iterate between these steps:
