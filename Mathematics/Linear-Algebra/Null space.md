@@ -1,4 +1,4 @@
-The **null space** of a [[matrix]] $A$ is the [[set]] of all [[vector]] $x$ such that $Ax=0$.
+The **null space** of a [[matrix]] $\mathbf{A}$ is the [[set]] given by
 
 $$
 \operatorname{Null}(\mathbf{A}) = \\{ \mathbf{x} \mid \mathbf{A}\mathbf{x} = 0 \\}
