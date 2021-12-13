@@ -5,3 +5,7 @@ $$
 $$
 
 but it is an unsolved problem whether $\mathbf{P} = \mathbf{NP}$.
+
+# Examples
+
+* 3-color theorem, TSP, factoring
