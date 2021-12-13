@@ -6,7 +6,7 @@
 \begin{equation}
 \begin{aligned}
 \min_{\mathbf{x}} \quad & f_0(\mathbf{x})\\\\
-\textrm{s.t.} \quad & \mathbf{Ax} \geqslant \mathbf{b}\\\\
+\textrm{s.t.} \quad & f_i(\mathbf{x}) \leqslant 0, \quad i = 1, \dots, m \\\\
   & \mathbf{x} \geqslant 0,
 \end{aligned}
 \tag{Primal Canonical Form}
