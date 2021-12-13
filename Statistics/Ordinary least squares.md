@@ -25,7 +25,11 @@ $$
 y = mx + b + \epsilon, \quad \epsilon \sim \mathsf{Normal}(0, \sigma^2)
 $$
 
-Then, our likelihood function is
+Then,
+
+$$
+\ell(\theta) = \log L(\theta) \propto \sum_{i=1}^n \log \left( \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}\_i - y_i)^2} \right)
+$$
 
 \begin{align}
 \theta^* &= \arg\max_{\theta} \log L(\theta)  \\\\
