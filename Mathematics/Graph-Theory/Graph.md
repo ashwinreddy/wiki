@@ -11,3 +11,4 @@ We can represent the graph computationally with an [[adjacency matrix]] or an [[
 # Algorithms
 
 * [[Depth-first search]]
+* [[Breadth-first search]]
