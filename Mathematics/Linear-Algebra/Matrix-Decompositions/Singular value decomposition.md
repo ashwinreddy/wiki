@@ -2,7 +2,7 @@ The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposit
 
 \begin{align\*}
 \mathbf{A} &= \overbrace{\mathbf{U}}^{\textbf{left singular vectors}} \underbrace{\mathbf{\Sigma}}\_{\textbf{singular values}} &\mathbf{\underbrace{V}_{\text{right singular vectors}}}^{\mathsf{T}} \\\\
-&= \begin{bmatrix}u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1 &  &  &  \\\\  & \sigma_2 &  & \\\\  &  & \ddots &  \\\\  \end{bmatrix} & \begin{bmatrix}v_1 & v_2 & \cdots & v_n \end{bmatrix}^\mathsf{T} \\\\
+&= \begin{bmatrix}u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1 &  &  &  \\\\  &  & \ddots &  \\\\  \end{bmatrix} & \begin{bmatrix}v_1 & v_2 & \cdots & v_n \end{bmatrix}^\mathsf{T} \\\\
 &= \begin{bmatrix}u_1 & u_2 & \cdots & u_r \end{bmatrix} \begin{bmatrix}\sigma_1 & 0 & 0 & \dots \\\\ 0 & \sigma_2 & 0 & \ddots \\\\ \vdots & 0 & \ddots & 0 \\\\  0 & 0 & 0 & \sigma_r \end{bmatrix} & \begin{bmatrix}v_1 & v_2 & \cdots & v_n \end{bmatrix}^\mathsf{T}
 \end{align\*}
 
