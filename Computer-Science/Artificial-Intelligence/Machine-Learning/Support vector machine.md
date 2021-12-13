@@ -36,6 +36,8 @@ The [[quadratic programming]]
 \tag{Hard SVM}
 \end{equation}
 
+The soft-margin SVM comes into play when the data is not linearly separable. We introduce a hyperparameter $C$ that controls how much we punish points for incurring a penalty $\xi_i$.
+
 \begin{equation}
 \begin{aligned}
 \arg\min_{\mathbf{w}, b} \quad & \lVert \mathbf{w} \rVert^2 + C\sum_{i=1}^n \xi_n \\\\
@@ -44,3 +46,5 @@ The [[quadratic programming]]
 \end{aligned}
 \tag{Soft SVM}
 \end{equation}
+
+Clearly, as $\xi \to 0$ we recover the hard-margin SVM.
