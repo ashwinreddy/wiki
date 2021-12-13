@@ -26,11 +26,11 @@ As $\lambda \to \infty$, $\mathbf{w}\_{\mathrm{ridge}} \to 0$.
 The [[kernel method]] here comes by considering a [[dual problem|duality]]. In dual ridge regression, we consider $\mathbf{w} = \mathbf{X}^\mathsf{T}\alpha$ where $\alpha$ is a vector of dual weights. The optimal solution is then
 
 $$
-\pmb{\alpha}^\star = (K + \lambda I)^{-1}\mathbf{y}
+\pmb{\alpha}^\star = (\pmb{K} + \lambda \pmb{I})^{-1}\mathbf{y}
 $$
 
 From which we see that
 
 $$
-\mathbf{w}^\star = \pmb{X}^\mathsf{T} (\pmb{K} + \lambda I)^{-1}\mathbf{y}
+\mathbf{w}^\star = \pmb{X}^\mathsf{T} (\pmb{K} + \lambda \pmb{I})^{-1}\mathbf{y}
 $$
