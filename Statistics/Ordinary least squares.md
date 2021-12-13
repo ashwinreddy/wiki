@@ -28,7 +28,7 @@ $$
 Then,
 
 $$
-\ell(\theta) = \log L(\theta) \propto \sum_{i=1}^n \log \left( \frac{1}{\sqrt{2\pi}} e\^{-\frac{1}{2\sigma\^2}\sum_{i=1}^n (\hat{y}\_i - y_i)^2} \right)
+\ell(\theta) = \log L(\theta) \propto \sum_{i=1}^n \log \left( \frac{1}{\sqrt{2\pi}}\right) - \frac{1}{2}\sigma^2 \sum_{i=1}^n \left(\hat{y}\_i - y_i \right)^2
 $$
 
 \begin{align}
