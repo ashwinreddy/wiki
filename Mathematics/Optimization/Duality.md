@@ -20,5 +20,5 @@ p^* &= \begin{aligned}
 From this last equation, we read off the primal Lagrangian.
 
 $$
-p^* = \min_{\mathbf{x}} \max_{\pmb{\lambda} \geqslant \mathbf{0}, \pmb{\nu}} \mathcal{L}(\pmb{x}, \pmb{\lambda}, \pmb{\nu})
+p^* = \min_{\pmb{x}} \max_{\pmb{\lambda} \geqslant \mathbf{0}, \pmb{\nu}} \mathcal{L}(\pmb{x}, \pmb{\lambda}, \pmb{\nu})
 $$
