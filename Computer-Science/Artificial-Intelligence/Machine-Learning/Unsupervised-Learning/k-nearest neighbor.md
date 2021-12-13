@@ -2,6 +2,6 @@
 
 1. Store training set
 2. Given a new test point, find the $k$ points closest to the training set using some metric
-3. Take a vote with the classes of the $k$ neighbors to predict the class of the new point
+3. Take a vote with the classes of the $k$ neighbors to predict the class of the new point or average their values to get a regression value
 
 The only issue is picking a metric, since Euclidean might not be the best choice.
