@@ -1,4 +1,4 @@
-**Backpropagation** is an [[algorithm]] for training an [[artificial neural network]], nowadays enabled by [[automatic differentiation]].
+**Backpropagation** is a [[dynamic programming]] [[algorithm]] for training an [[artificial neural network]], nowadays enabled by [[automatic differentiation]].
 
 # Linear Layer
 
