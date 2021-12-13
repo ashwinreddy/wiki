@@ -13,7 +13,7 @@ Suppose we're given the problem
 \min_{\mathbf{x}} \quad & \begin{cases}f_0(\mathbf{x}) & \forall i \in [m], j \in [n]: f_i(\mathbf{x}) \leqslant 0 ,\\;  h_j(\mathbf{x}) = 0 \\\\ \infty &  \text{otherwise} \end{cases}
 \end{aligned} \\\\
 &\equiv  \begin{aligned}
-\min_{\mathbf{x}} \max_{\pmb{\nu}} \quad & \begin{cases}f_0(\mathbf{x}) & \forall i \in [m], j \in [n]: f_i(\mathbf{x}) \leqslant 0 ,\\;  h_j(\mathbf{x}) = 0 \\\\ \infty &  \text{otherwise} \end{cases}
+\min_{\mathbf{x}} \max_{\pmb{\lambda} \geqslant \mathbf{0}, \pmb{\nu}} \quad & \begin{cases}f_0(\mathbf{x}) & \forall i \in [m], j \in [n]: f_i(\mathbf{x}) \leqslant 0 ,\\;  h_j(\mathbf{x}) = 0 \\\\ \infty &  \text{otherwise} \end{cases}
 \end{aligned}
 \end{align\*}
 
