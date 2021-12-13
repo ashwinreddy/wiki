@@ -6,7 +6,7 @@ The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposit
 &= \begin{bmatrix}u_1 & u_2 & \cdots & u_r \end{bmatrix} \begin{bmatrix}\sigma_1  \\\\ &  \ddots \\\\ & & \sigma_r \end{bmatrix} & \begin{bmatrix}v_1 & v_2 & \cdots & v_r \end{bmatrix}^\mathsf{T} \tag{Compact/Thin SVD}
 \end{align\*}
 
-with rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $\mathbf{U}$ and $\mathbf{V}$. 
+In the full SVD, rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $\mathbf{U}$ and $\mathbf{V}$. 
 
 
 The [[column space|range]] come from the **left singular vectors** $\\{ u_i \\}$, the eigenvectors of $XX^\mathsf{T}$. The row space comes from **right singular vectors** $\\{ v_i \\}$, the eigenvectors of $X^\mathsf{T}X$.
