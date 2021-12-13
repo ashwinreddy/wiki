@@ -1,7 +1,7 @@
 A **kernel method** refactors a machine learning algorithm to implicitly push/augment each data point $x$ to a higher dimensional $\phi(x)$ (possibly infinite dimensional) feature space. 
 
 $$
-\pmb{X}\pmb{X}^\mathsf{T} \to \pmb{K} = \Phi(\pmb{X})\Phi^\mathsf{T}(\pmb{X})
+\pmb{X}\pmb{X}^\mathsf{T} \to \pmb{K} = \Phi(\pmb{X})\Phi^\mathsf{T}(\pmb{X}) \implies K_{ij} = k(x_i, x_j) = \langle \Phi(x_i), \Phi(x_j) \rangle
 $$
 
 Formally, it replaces for [[design matrix]] $XX^\mathsf{T}$ with $K = \Phi(X)\Phi(X^\mathsf{T})$. A valid kernel function $k$ that represents an [[inner product]].
