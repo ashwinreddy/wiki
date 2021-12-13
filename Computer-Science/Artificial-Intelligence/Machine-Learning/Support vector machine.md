@@ -4,11 +4,17 @@ $$
 r(x) = \begin{cases} 1 & \mathbf{w}^\mathsf{T}\mathbf{x} - b \geqslant 0 \\\\ -1 & \text{otherwise} \end{cases}
 $$
 
-However, that on its own is underconstrained. SVM tries to maximize margin, the distance from the decision boundary $H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}$ to each point. What is the margin for some point $\mathbf{z}$?
+However, that on its own is underconstrained. SVM tries to maximize margin, the distance from the decision boundary $H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}$ to each point. Note that we have a degree of freedom to play with in the scaling. Generally, we pick $\lVert w \rVert = \frac{1}{m}$ for convenience.
+
+# Margin
+
+What is the margin for some point $\mathbf{z}$?  Well, we need to see the distance from $\mathbf{z}$ to $H$ which would be the projection of $\mathbf{z} - \mathbf{x}_0$ onto $\mathbf{w}$
 
 $$
 \operatorname{margin}(\mathbf{z}) = \frac{|\mathbf{w}^\mathsf{T}(\mathbf{z} - \mathbf{x}_0) |}{\lVert \mathbf{w} \rVert_2} = \frac{|\mathbf{w}^\mathsf{T}\mathbf{z} - b |}{\lVert \mathbf{w} \rVert_2} 
 $$
+
+# Program
 
 \begin{equation}
 \begin{aligned}
@@ -19,11 +25,6 @@ $$
 \tag{Intuitive Formulation}
 \end{equation}
 
-Well, we need to see the distance from $\mathbf{z}$ to $H$ which would be the projection of $\mathbf{z} - \mathbf{x}_0$ onto $\mathbf{w}$
-
-
-
-We can pick $\lVert w \rVert_2$ to be something like 1 or $\frac{1}{m}$.
 
 The [[quadratic program]]
 
