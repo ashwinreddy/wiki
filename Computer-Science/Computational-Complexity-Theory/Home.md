@@ -1,1 +1,1 @@
-The class [[P]] represents efficiently solvable problems. [[NP]] represents efficiently verifiable problems. [[NP-hard]] consists of problems which all [[NP]] problems reduce to.
+The class [[P]] represents efficiently solvable problems. [[NP]] represents efficiently verifiable problems. [[NP-hard]] consists of problems which all [[NP]] problems reduce to. [[NP-complete]] is the intersection of NP-hard and NP.
