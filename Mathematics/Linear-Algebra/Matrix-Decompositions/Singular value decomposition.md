@@ -34,4 +34,5 @@ The last right singular vectors are an orthonormal basis for the [[null space]] 
 
 # Computation
 
-Calculate the eigenvectors and eigenvalues of $A^\mathsf{T}A$ or of $AA^\mathsf{T}$.
+* Choose to compute $A^\mathsf{T}A$ or of $AA^\mathsf{T}$.
+* If you computed $A^\mathsf{T}A$, find its eigenvectors. That's $V$. Else, do $U$
