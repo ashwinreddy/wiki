@@ -1,1 +1,1 @@
-The **strongly connected components (SCC)** of a [[directed graph]] [[partition of a set]] is a maximal subset of strongly [[connected|connectivity]] vertices.
+The **strongly connected components (SCC)** of a [[directed graph]] partition into subgraphs that are strongly [[connected|connectivity]].
