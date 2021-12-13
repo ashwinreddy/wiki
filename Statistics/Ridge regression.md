@@ -34,7 +34,7 @@ $$
 In dual ridge regression, we consider $\mathbf{w} = \mathbf{X}^\mathsf{T}\alpha$ where $\alpha$ is a vector of dual weights. The optimal solution is then
 
 $$
-\mathbf{\alpha}^\star = (K + \lambda I)^{-1}\mathbf{y}
+\pmb{\alpha}^\star = (K + \lambda I)^{-1}\mathbf{y}
 $$
 
 From which we see that
