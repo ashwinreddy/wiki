@@ -2,12 +2,17 @@
 
 # Lagrange duality
 
+Suppose we're given the problem
 
 \begin{equation}
 \begin{aligned}
 \min_{\mathbf{x}} \quad & f_0(\mathbf{x})\\\\
 \textrm{s.t.} \quad & f_i(\mathbf{x}) \leqslant 0, \quad i = 1, \dots, m \\\\
   & h_j(\mathbf{x}) = 0, \quad j = 1, \dots, n
+\end{aligned} \equiv  \begin{aligned}
+\min_{\mathbf{x}} \quad & f_0(\mathbf{x})\\\\
+\textrm{s.t.} \quad & f_i(\mathbf{x}) \leqslant 0, \quad i = 1, \dots, m \\\\
+  & h_j(\mathbf{x}) = 0, \quad j = 1, \dots, n
 \end{aligned}
-\tag{Primal Canonical Form}
 \end{equation}
+
