@@ -11,8 +11,7 @@ Suppose we're given the problem
   & h_j(\mathbf{x}) = 0, \quad j = 1, \dots, n
 \end{aligned} \equiv  \begin{aligned}
 \min_{\mathbf{x}} \quad & \mathcal{L}(\mathbf{x})\\\\
-\textrm{s.t.} \quad & f_i(\mathbf{x}) \leqslant 0, \quad i = 1, \dots, m \\\\
-  & h_j(\mathbf{x}) = 0, \quad j = 1, \dots, n
+\mathcal{L}(\mathbf{x}) = \begin{cases}f_0(\mathbf{x}) & f_i(\mathbf{x}) \leqslant 0 \text{ and } h_j(\mathbf{x}) = 0 \end{cases}
 \end{aligned}
 \end{equation}
 
