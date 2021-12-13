@@ -32,5 +32,5 @@ $$
 Generally,
 
 $$
-d^* \leqslant p^* \tag{Duality Gap}
+\boxed{ d^* \leqslant p^* } \tag{Duality Gap}
 $$
