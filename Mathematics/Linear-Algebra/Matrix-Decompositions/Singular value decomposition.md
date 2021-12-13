@@ -1,4 +1,4 @@
-The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposition]] for any $m \times n$ [[matrix]] $\mathbf{A}$ into
+The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposition]] for any $m \times n$ [[matrix]] $\mathbf{A}$ of rank $r$ into
 
 \begin{align\*}
 \mathbf{A} &= \overbrace{\mathbf{U}}^{\textbf{left singular vectors}} \underbrace{\mathbf{\Sigma}}\_{\textbf{singular values}} &\mathbf{\underbrace{V}_{\text{right singular vectors}}}^{\mathsf{T}} \\\\
@@ -7,11 +7,6 @@ The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposit
 \end{align\*}
 
 In the full SVD, rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $\mathbf{U}$ and $\mathbf{V}$. 
-
-\begin{gather\*}
-\operatorname{Col}(\mathbf{A}) = \operatorname{span} \\{ u_i \\}  \\\\
-\operatorname{Row}(\mathbf{A}) = \operatorname{span} \\{ v_i \\}
-\end{gather\*}
 
 
 The [[column space|range]] come from the **left singular vectors** $\\{ u_i \\}$, the eigenvectors of $XX^\mathsf{T}$. The row space comes from **right singular vectors** $\\{ v_i \\}$, the eigenvectors of $X^\mathsf{T}X$.
@@ -26,6 +21,11 @@ $$
 The first $\operatorname{rank}(A)$ left singular vectors are an orthonormal basis for the column space of $A$.
 
 The last right singular vectors are an orthonormal basis for the [[null space]] of $A$.
+
+\begin{gather\*}
+\operatorname{Col}(\mathbf{A}) = \operatorname{span} \\{ u_i \\}_{i=1}^{r}  \\\\
+\operatorname{Row}(\mathbf{A}) = \operatorname{span} \\{ v_i \\}_{i=r+1}^{\min{n, m}}
+\end{gather\*}
 
 # Computation
 
