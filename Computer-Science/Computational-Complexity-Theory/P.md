@@ -2,4 +2,4 @@
 
 # Examples
 
-* [[MST|minimum spanning tree]], [[linear programming]]
+* [[MST|minimum spanning tree]], [[linear programming]], [[bipartite matching]]
