@@ -51,7 +51,7 @@ The soft-margin SVM comes into play when the data is not linearly separable. We 
 \tag{Soft SVM}
 \end{equation}
 
-Clearly, as $C \to 0$ we recover the hard-margin SVM. 
+As $C \to \infty$ we recover the hard-margin SVM. 
 
 | |small $C$|large $C$|
 |--|--------|----------|
