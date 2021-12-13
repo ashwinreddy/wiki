@@ -19,11 +19,12 @@ $$
 # Spaces
 
 The left singular vectors span the column space of $A$. In fact, if we just select the top $r$ vectors, we get an [[orthonormal basis]]!
-$$
-\operatorname{Col}(\mathbf{A}) = \operatorname{span} \\{ u_i \\} \\\\
-\operatorname{Row}(\mathbf{A}) = \operatorname{span} \\{ v_i \\}\_{i=1}^{r} \\\\
-\operatorname{Null}(\mathbf{A}) = \operatorname{span} \\{ v_i \\}_{i=r+1}^{n}
-$$
+
+\begin{align\*}
+\operatorname{Col}(\mathbf{A}) &= \operatorname{span} \\{ u_i \\} \\\\
+\operatorname{Row}(\mathbf{A}) &= \operatorname{span} \\{ v_i \\}\_{i=1}^{r} \\\\
+\operatorname{Null}(\mathbf{A}) &= \operatorname{span} \\{ v_i \\}_{i=r+1}^{n}
+\end{align\*}
 
 # Computation
 
