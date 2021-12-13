@@ -10,6 +10,10 @@ $$
 
 The kernel trick, when applicable, speeds up a learning algorithm if the number of sample points is substantially less than the dimension of the lifted feature space. However, most liftings don't lead to super-fast kernels.
 
+# Duality
+
+One technique for kernalizing involves realizing that the parameter solution in non-kernalized version can be written as a linear combination of the inputs $X$ with coefficients $\alpha$. If you change the loss function to be in terms of this _dual representation_ $\alpha$, you can solve for it instead.
+
 # Algorithms
 
 Algorithms that can be kernalized include
