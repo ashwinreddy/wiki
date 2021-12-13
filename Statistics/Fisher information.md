@@ -10,4 +10,4 @@ for [[score]] $s$.
 
 * $\mathcal{I}(\theta) \geqslant 0$
 * Suppose $X^n$ consists of $n$ [[iid]] trials of $X$. Then $\mathcal{I}_{X^n}(\theta) = n \mathcal{I}_X(\theta)$
-* For a [[statistic]] $T$, $\mathcal{I}_{X^n}(\theta) \geqslant \mathcal{I}_T(\theta)$ with equality when $T$ is sufficient.
+* For a [[statistic]] $T$, $\mathcal{I}_{X^n}(\theta) \geqslant \mathcal{I}_T(\theta)$ with equality if and only if $T$ is sufficient.
