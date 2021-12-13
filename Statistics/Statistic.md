@@ -1,0 +1,1 @@
+A **statistic** is a function of the data.
