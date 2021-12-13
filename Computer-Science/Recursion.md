@@ -1,1 +1,1 @@
-**Recursion** is defining an object in terms of itself. For example, a tree is a leaf node or a tree pointing to leaf nodes. Naturally, functions that operate on trees are recursive.
+**Recursion** is defining an object in terms of itself. For example, a [[tree]] is a leaf node or a tree pointing to leaf nodes. Naturally, functions that operate on trees are recursive.
