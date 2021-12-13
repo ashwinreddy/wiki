@@ -1,7 +1,7 @@
 The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposition]] for any $m \times n$ [[matrix]] $\mathbf{A}$ into
 
 \begin{align\*}
-\mathbf{A} &= \overbrace{\mathbf{U}}^{\text{left singular vectors}} \mathbf{\Sigma} \underbrace{\mathbf{V}}_{\text{right singular vectors}}^{\mathsf{T}} \\\\
+\mathbf{A} &= \overbrace{\mathbf{U}}^{\text{left singular vectors}} \mathbf{\Sigma} \overbrace{\mathbf{V}}^{\text{right singular vectors}}^{\mathsf{T}} \\\\
 &= \begin{bmatrix}u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1 & 0 & 0 & \dots \\\\ 0 & \sigma_2 & 0 & \dots \\\\ \vdots & 0 & \ddots & 0 \\\\  \end{bmatrix} \begin{bmatrix}v_1 & v_2 & \cdots & v_n \end{bmatrix}^\mathsf{T}
 \end{align\*}
 
