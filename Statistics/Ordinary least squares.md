@@ -1,8 +1,9 @@
 **Ordinary least squares (OLS)** finds the optimal parameters $\beta$ to a linear model $y = X\beta$ for [[design matrix]] $X$ by solving
 
-$$
-\hat\beta = \arg\min_\beta \lVert y - X\beta \rVert^2
-$$
+\begin{gather\*}
+\hat\beta = \arg\min_\beta J(\beta) \\\\
+J(\beta) = \lVert y - X\beta \rVert^2
+\end{gather\*}
 
 The closed form solution is
 
