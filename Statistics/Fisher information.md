@@ -5,3 +5,7 @@ $$
 $$
 
 for [[score]] $s$.
+
+# Properties
+
+* $I(\theta) \geqslant 0$
