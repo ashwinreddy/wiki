@@ -23,7 +23,7 @@ As $\lambda \to \infty$, $\mathbf{w}\_{\mathrm{ridge}} \to 0$.
 
 # Kernel Ridge Regression
 
-The [[kernel method]] here comes by considering a [[dual problem|duality]]. In dual ridge regression, we consider $\mathbf{w} = \mathbf{X}^\mathsf{T}\pmb{\alpha}$ where $\pmb{\alpha}$ is a vector of dual weights. The optimal solution is then
+The [[kernel method]] here comes by considering a [[dual problem|duality]]. This method is recommended when $d > n$. Here, we consider $\mathbf{w} = \mathbf{X}^\mathsf{T}\pmb{\alpha}$ where $\pmb{\alpha}$ is a vector of dual weights. The optimal solution is then
 
 $$
 \pmb{\alpha}^\star = (\pmb{K} + \lambda \pmb{I})^{-1}\mathbf{y}
