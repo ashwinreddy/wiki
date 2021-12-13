@@ -32,5 +32,5 @@ $$
 From which we see that
 
 $$
-\mathbf{w}^\star = \mathbf{X}^\mathsf{T} (K + \lambda I)^{-1}\mathbf{y}
+\mathbf{w}^\star = \pmb{X}^\mathsf{T} (\pmb{K} + \lambda I)^{-1}\mathbf{y}
 $$
