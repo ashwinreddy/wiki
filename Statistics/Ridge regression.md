@@ -23,15 +23,7 @@ As $\lambda \to \infty$, $\mathbf{w}\_{\mathrm{ridge}} \to 0$.
 
 # Kernel Ridge Regression
 
-[[Kernel method]]
-
-$$
-\arg\min_{\alpha \in \RR^n} \frac{1}{N}\lVert Y - K\alpha \rVert_2^2 + \lambda \alpha^\mathsf{T} K \alpha = (K + \lambda NI_N)^{-1}Y
-$$
-
-## Dual
-
-In dual ridge regression, we consider $\mathbf{w} = \mathbf{X}^\mathsf{T}\alpha$ where $\alpha$ is a vector of dual weights. The optimal solution is then
+The [[kernel method]] here comes by considering a [[dual problem]]. In dual ridge regression, we consider $\mathbf{w} = \mathbf{X}^\mathsf{T}\alpha$ where $\alpha$ is a vector of dual weights. The optimal solution is then
 
 $$
 \pmb{\alpha}^\star = (K + \lambda I)^{-1}\mathbf{y}
