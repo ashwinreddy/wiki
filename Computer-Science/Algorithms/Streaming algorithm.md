@@ -1,0 +1,1 @@
+A **streaming algorithm** refers to a datastructure with sublinear memory.
