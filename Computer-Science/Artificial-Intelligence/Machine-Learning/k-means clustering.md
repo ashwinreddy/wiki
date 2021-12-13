@@ -31,4 +31,4 @@ The $k$-means algorithm is just to iterate between these steps:
 
 # Soft k-means
 
-In soft $k$-means, each data point has a [[probability distribution]] of clusters from a [[softmax]].
+In soft $k$-means, each data point has a [[probability distribution]] of clusters from a [[softmax]]. We control with temperature.
