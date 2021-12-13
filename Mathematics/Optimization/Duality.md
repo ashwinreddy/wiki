@@ -5,7 +5,7 @@
 Suppose we're given the problem
 
 \begin{align\*}
-\begin{aligned}
+p^* &= \begin{aligned}
 \min_{\mathbf{x}} \quad & f_0(\mathbf{x})\\\\
 \textrm{s.t.} \quad & f_i(\mathbf{x}) \leqslant 0, \quad i \in [m] \\\\
   & h_j(\mathbf{x}) = 0, \quad j \in [n]
