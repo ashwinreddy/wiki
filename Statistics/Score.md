@@ -4,7 +4,7 @@ $$
 s(\theta) \triangleq \nabla_\theta \log\ell(\theta)
 $$
 
-In other words, it tells you how to adjust the parameters $\theta$ to get a higher likelihood for the data.
+# Properties
 
 The [[expected value]] of the score is 0.
 
