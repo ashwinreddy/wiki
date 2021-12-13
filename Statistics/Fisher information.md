@@ -8,4 +8,5 @@ for [[score]] $s$.
 
 # Properties
 
-* $I(\theta) \geqslant 0$
+* $\mathcal{I}(\theta) \geqslant 0$
+* Suppose $X^n$ consists of $n$ [[iid]] trials of $X$. Then $\mathcal{I}_{X^n}(\theta) = n \mathcal{I}_X(\theta)$
