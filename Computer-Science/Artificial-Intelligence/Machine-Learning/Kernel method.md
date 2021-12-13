@@ -16,7 +16,7 @@ Algorithms that can be kernalized include
 
 * [[Ridge regression]]
 
-# Examples
+# Kernel Examples
 
 $$
 k(x, y) = (x^\mathsf{T} y + 1)^r
