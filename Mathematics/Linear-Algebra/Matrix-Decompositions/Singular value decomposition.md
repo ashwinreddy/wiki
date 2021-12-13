@@ -8,6 +8,10 @@ The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposit
 
 In the full SVD, rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $\mathbf{U}$ and $\mathbf{V}$. 
 
+$$
+\operatorname{Col}(\matbf{A}) = \operatorname{span} \\{ u_i \\} = \operatorname{span} \operatorname{eigenvectors}(\mathbf{A}\mathbf{A}^\mathsf{T})
+$$
+
 
 The [[column space|range]] come from the **left singular vectors** $\\{ u_i \\}$, the eigenvectors of $XX^\mathsf{T}$. The row space comes from **right singular vectors** $\\{ v_i \\}$, the eigenvectors of $X^\mathsf{T}X$.
 
