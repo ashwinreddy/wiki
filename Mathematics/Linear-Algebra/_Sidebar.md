@@ -1,7 +1,0 @@
-* [[Vector space]]
-* [[Basis]]
-* [[Eigenpairs]]
-* [[Matrix]]
-* [[Gaussian elimination]]
-* [[Linear map]]
-* [[Determinant]]
