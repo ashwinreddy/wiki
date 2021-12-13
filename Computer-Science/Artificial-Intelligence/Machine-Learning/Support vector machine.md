@@ -29,7 +29,7 @@ The [[quadratic program]]
 
 \begin{equation}
 \begin{aligned}
-\min_{\mathbf{w}, b} \quad & \frac{1}{2}\lVert \mathbf{w} \rVert^2 \\\\
+\arg\min_{\mathbf{w}, b} \quad & \lVert \mathbf{w} \rVert^2 \\\\
 \textrm{s.t.} \quad & y_i\left(\mathbf{w}^\mathsf{T}\mathbf{x}_i - b\right) \geqslant 1,\quad \forall i
 \end{aligned}
 \tag{Hard SVM}
@@ -37,7 +37,7 @@ The [[quadratic program]]
 
 \begin{equation}
 \begin{aligned}
-\min_{\mathbf{w}, b} \quad & \frac{1}{2}\lVert \mathbf{w} \rVert^2 + C\sum_{i=1}^n \xi_n \\\\
+\arg\min_{\mathbf{w}, b} \quad & \lVert \mathbf{w} \rVert^2 + C\sum_{i=1}^n \xi_n \\\\
 \textrm{s.t.} \quad & y_i\left(\mathbf{w}^\mathsf{T}\mathbf{x}_i - b\right) \geqslant 1 - \xi_i ,\quad \forall i \\\\
 & \xi_i \geqslant 0
 \end{aligned}
