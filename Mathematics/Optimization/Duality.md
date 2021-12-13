@@ -28,3 +28,9 @@ The dual Lagrangian swaps the order:
 $$
 d^* = \max_{\pmb{\lambda} \geqslant \mathbf{0}, \pmb{\nu}}\min_{\pmb{x}}  \mathcal{L}(\pmb{x}, \pmb{\lambda}, \pmb{\nu})
 $$
+
+Generally,
+
+$$
+d^* \leqslant p^* \tag{Duality Gap}
+$$
