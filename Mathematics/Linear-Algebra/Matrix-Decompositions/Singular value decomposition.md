@@ -14,13 +14,6 @@ U &= \operatorname{eigenvecs} \mathbf{A}\mathbf{A}^\mathsf{T} \\\\
 V &= \operatorname{eigenvecs} \mathbf{A}^\mathsf{T}\mathbf{A}
 \end{align\*}
 
-The [[column space|range]] come from the **left singular vectors** $\\{ u_i \\}$, the eigenvectors of $XX^\mathsf{T}$. The row space comes from **right singular vectors** $\\{ v_i \\}$, the eigenvectors of $X^\mathsf{T}X$.
-
-$$
-X^\mathsf{T}X = V\Sigma \cancel{U^\mathsf{T}U}\Sigma V^\mathsf{T} = V \Sigma^2 V^\mathsf{T}
-$$
-
-
 # Spaces
 
 The left singular vectors span the column space of $A$. In fact, if we just select the top $r$ vectors, we get an [[orthonormal basis]]!
@@ -30,11 +23,6 @@ The left singular vectors span the column space of $A$. In fact, if we just sele
 \operatorname{Row}(\mathbf{A}) &= \operatorname{span} \\{ v_i \\}\_{i=1}^{r} \\\\
 \operatorname{Null}(\mathbf{A}) &= \operatorname{span} \\{ v_i \\}_{i=r+1}^{n}
 \end{align\*}
-
-# Computation
-
-* Choose to compute $A^\mathsf{T}A$ or of $AA^\mathsf{T}$.
-* If you computed $A^\mathsf{T}A$, find its eigenvectors. That's $V$. Else, do $U$
 
 # Properties
 
