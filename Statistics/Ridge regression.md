@@ -34,3 +34,5 @@ From which we see that
 $$
 \mathbf{w}^\star = \pmb{X}^\mathsf{T} (\pmb{K} + \lambda \pmb{I})^{-1}\mathbf{y}
 $$
+
+This problem is in $n \times n$.
