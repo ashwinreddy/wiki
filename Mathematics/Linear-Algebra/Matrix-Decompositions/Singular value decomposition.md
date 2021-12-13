@@ -1,12 +1,13 @@
-The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposition]] for any $m \times n$ matrix $A$ into
+The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposition]] for any $m \times n$ [[matrix]] $\mathbf{A}$ into
+
+\begin{align*}
+\mathbf{A} &= \mathbf{U}\mathbf{\Sigma} \mathbf{V}^{\mathsf{T}} \\\\
+&= \begin{bmatrix}u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1 & 0 & 0 & \dots \\\\ 0 & \sigma_2 & 0 & \dots \\\\ \vdots & 0 & \ddots & 0 \\\\  \end{bmatrix} \begin{bmatrix}v_1 & v_2 & \cdots & v_n \end{bmatrix}^\mathsf{T}
+\end{align*}
+
 
 $$
-A = U\Sigma V^{\mathsf{T}}.
-$$
-
-
-$$
-A = \begin{bmatrix}u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1 & 0 & 0 & \dots \\\\ 0 & \sigma_2 & 0 & \dots \\\\ \vdots & 0 & \ddots & 0 \\\\  \end{bmatrix} \begin{bmatrix}v_1 & v_2 & \cdots & v_n \end{bmatrix}^\mathsf{T}
+A 
 $$
 
 with rectangular diagonal matrix $\Sigma$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $U$ and $V$. Notice that we have
