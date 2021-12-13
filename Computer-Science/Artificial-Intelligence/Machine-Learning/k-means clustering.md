@@ -11,7 +11,13 @@ There are two problems here:
 1. Partitioning the data points
 2. Picking the centroid
 
-Suppose we knew the partition. Then the centroid can be found by just taking the average. Suppose you know the centroids. Then the points are assigned to whichever centroid is closest. 
+Suppose we knew the partition. Then the centroid can be found by just taking the average. 
+
+$$
+\hat{c}_k  = \argmin_{c_k} \sum_{x \in C_k} \lVert x - c_k \rVert^2 = \frac{1}{N} \sum_{x \in C_k} x
+$$
+
+Suppose you know the centroids. Then the points are assigned to whichever centroid is closest. 
 
 The $k$-means algorithm is just to iterate between these steps:
 
