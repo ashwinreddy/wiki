@@ -1,0 +1,1 @@
+**Cook–Levin theorem** says that Boolean satisfiability problem is [[NP-complete]].
