@@ -1,1 +1,3 @@
 **Cook–Levin theorem** says that Boolean satisfiability problem is [[NP-complete]]. That is, it is in [[NP]] and any problem in NP can be reduced in polynomial time to it.
+
+Therefore, every problem in P can be reduced to 3SAT.
