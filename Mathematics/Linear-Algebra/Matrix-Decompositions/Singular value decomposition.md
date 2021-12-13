@@ -36,3 +36,9 @@ The last right singular vectors are an orthonormal basis for the [[null space]] 
 
 * Choose to compute $A^\mathsf{T}A$ or of $AA^\mathsf{T}$.
 * If you computed $A^\mathsf{T}A$, find its eigenvectors. That's $V$. Else, do $U$
+
+# Properties
+
+$$
+\operatorname{rank}(A) = \operatorname{rank}(\Sigma)
+$$
