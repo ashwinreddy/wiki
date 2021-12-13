@@ -54,6 +54,7 @@ The soft-margin SVM comes into play when the data is not linearly separable. We 
 Clearly, as $C \to 0$ we recover the hard-margin SVM. 
 
 | |small $C$|large $C$|
+|--|--------|----------|
 |Desire|maximize margin|keep $\xi_i$ small|
 |Danger|underfitting|overfitting|
 |Outliers|less sensitive|more sensitive|
