@@ -18,17 +18,15 @@ $$
 
 # Spaces
 
-The first $\operatorname{rank}(A)$ left singular vectors are an orthonormal basis for the column space of $A$.
-
-The last right singular vectors are an orthonormal basis for the [[null space]] of $A$.
-
 The left singular vectors span the column space of $A$. In fact, if we just select the top $r$ vectors, we get an [[orthonormal basis]]!
 $$
 \operatorname{Col}(\mathbf{A}) = \operatorname{span} \\{ u_i \\}
 $$
 
+The last right singular vectors are an orthonormal basis for the [[null space]] of $A$.
+
 $$
-\operatorname{Row}(\mathbf{A}) = \operatorname{span} \\{ v_i \\}\_{i=r+1}^{\min{n, m}}
+\operatorname{Row}(\mathbf{A}) = \operatorname{span} \\{ v_i \\}\_{i=1}^{r}
 $$
 
 # Computation
