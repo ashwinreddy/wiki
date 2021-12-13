@@ -1,1 +1,3 @@
-**Duality**. Suppose you are given an [[optimization problem]], which we'll call the _primal problem_. In weak duality, the dual feasible solution is greater than or equal to the primal feasible when the primal is a maximization, o/w reversed. In strong duality, the primal optimal is the dual optimal.
+**Duality** refers to the fact that a given [[optimization problem]], which we'll call the _primal problem_, has a related _dual problem_.
+
+# Lagrange duality
