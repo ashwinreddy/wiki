@@ -9,7 +9,7 @@ The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposit
 with rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $\mathbf{U}$ and $\mathbf{V}$. Notice that we have
 
 $$
-AV = U\Sigma.
+\mathbf{AV} = \mathbf{U\Sigma}
 $$
 
 \begin{equation}
