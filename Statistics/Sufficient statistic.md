@@ -1,0 +1,1 @@
+A **sufficient statistic** is a [[statistic]] $T$ such that $\Pr(X^n \mid T = t, \theta) = 0$.
