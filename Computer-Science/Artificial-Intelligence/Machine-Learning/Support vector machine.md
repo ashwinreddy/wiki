@@ -1,7 +1,7 @@
 A **support vector machine (SVM)** is a [[linear classifier]] that takes a training set $\\{(\mathbf{x}\_i, y\_i)\\}_{i=1}^n$ with $y_i \in \\{-1, +1\\}$ and finds the weight and bias for decision rule
 
 $$
-r(x) = \begin{cases} 1 & \mathbf{w}^\mathsf{T}\mathbf{x} - b \geqslant 0 \\\\ -1 & \text{otherwise} \end{cases}
+r(x) = \operatorname{sgn}\left( \mathbf{w}^\mathsf{T}\mathbf{x} - b \right) 
 $$
 
 However, that on its own is underconstrained. SVM tries to maximize margin, the distance from the decision boundary $H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}$ to each point. Note that we have a degree of freedom to play with in the scaling. Generally, we pick $\lVert w \rVert = \frac{1}{m}$ for convenience.
