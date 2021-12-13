@@ -26,7 +26,7 @@ $$
 \end{equation}
 
 
-The [[quadratic program]]
+The [[quadratic programming]]
 
 \begin{equation}
 \begin{aligned}
