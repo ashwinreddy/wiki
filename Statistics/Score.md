@@ -1,7 +1,7 @@
-The **score** is given by the [[gradient]] of the [[logarithm]] of the [[likelihood function]] $\ell$ crafted from density $f$.
+The **score function** describes how sensitive a [[statistical model]] is to changes in parameter.
 
 $$
-s(\theta) = \nabla_\theta \log\ell(\theta)
+s(\theta) \triangleq \nabla_\theta \log\ell(\theta)
 $$
 
 In other words, it tells you how to adjust the parameters $\theta$ to get a higher likelihood for the data.
