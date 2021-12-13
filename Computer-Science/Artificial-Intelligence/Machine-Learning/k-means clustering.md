@@ -12,3 +12,9 @@ There are two problems here:
 2. Picking the centroid
 
 Suppose we knew the partition. Then the centroid can be found by just taking the average. Suppose you know the centroids. Then the points are assigned to whichever centroid is closest. 
+
+The $k$-means algorithm is just to iterate between these steps:
+
+1. Pick the cluster centers $\\{c_k\\}$ by picking $k$ random points from your training data
+2. Compute partition $C_1 \cup \dots \cup C_k$ given the $\\{c_k\\}$
+3. Compute centers $\\{ c_k \\}$ given $C_1 \cup \dots \cup C_k$
