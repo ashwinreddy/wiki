@@ -28,3 +28,7 @@ The $k$-means algorithm is just to iterate between these steps:
 1. Pick the cluster centers $\\{c_k\\}$ by picking $k$ random points from your training data
 2. Compute partition $C_1 \cup \dots \cup C_k$ given the $\\{c_k\\}$
 3. Compute centers $\\{ c_k \\}$ given $C_1 \cup \dots \cup C_k$
+
+# Soft k-means
+
+In soft $k$-means, each data point has a [[probability distribution]] of clusters from a [[softmax]].
