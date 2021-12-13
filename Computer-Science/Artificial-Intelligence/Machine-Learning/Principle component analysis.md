@@ -46,6 +46,5 @@ $$
 \text{Reconstruction Loss} = \lVert \bar{X}_{\mathsf{reconstruction}} - \bar{X} \rVert_F
 $$
 
-# Rotation
-
-PCA is invariant to rotations of the data.
+* PCA is invariant to rotations of the data.
+* Find $w$ that minimizes mean squared projection distance.
