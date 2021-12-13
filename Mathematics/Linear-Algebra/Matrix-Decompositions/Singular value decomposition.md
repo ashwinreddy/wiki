@@ -23,8 +23,8 @@ The first $\operatorname{rank}(A)$ left singular vectors are an orthonormal basi
 The last right singular vectors are an orthonormal basis for the [[null space]] of $A$.
 
 \begin{gather\*}
-\operatorname{Col}(\mathbf{A}) = \operatorname{span} \\{ u_i \\}_{i=1}^{r}  \\\\
-\operatorname{Row}(\mathbf{A}) = \operatorname{span} \\{ v_i \\}_{i=r+1}^{\min{n, m}}
+\operatorname{Col}(\mathbf{A}) = \operatorname{span} \\{ u_i \\}\_{i=1}^{r}  \\\\
+\operatorname{Row}(\mathbf{A}) = \operatorname{span} \\{ v_i \\}\_{i=r+1}^{\min{n, m}}
 \end{gather\*}
 
 # Computation
