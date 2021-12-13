@@ -2,4 +2,4 @@
 
 # Examples
 
-* [[3SAT]]
+* [[3SAT]], independent set, vertex cover, Rudrata cycle
