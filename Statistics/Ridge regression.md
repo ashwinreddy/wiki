@@ -31,4 +31,8 @@ $$
 
 ## Dual
 
-In dual ridge regression, we consider $\mathbf{w} = \mathbf{X}^\mathsf{T}\alpha$ where $\alpha$ is a vector of dual weights.
+In dual ridge regression, we consider $\mathbf{w} = \mathbf{X}^\mathsf{T}\alpha$ where $\alpha$ is a vector of dual weights. The optimal solution is then
+
+$$
+\alpha^\star = (K + \lambda I)^{-1}\mathbf{y}
+$$
