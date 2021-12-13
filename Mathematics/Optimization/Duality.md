@@ -13,7 +13,7 @@ p^* &= \begin{aligned}
 \min_{\mathbf{x}} \quad & \begin{cases}f_0(\mathbf{x}) & \forall i \in [m], j \in [n]: f_i(\mathbf{x}) \leqslant 0 ,\\;  h_j(\mathbf{x}) = 0 \\\\ \infty &  \text{otherwise} \end{cases}
 \end{aligned} \\\\
 &\equiv  \begin{aligned}
-\min_{\mathbf{x}} \max_{\pmb{\lambda} \geqslant \mathbf{0}, \pmb{\nu}} f_0(\mathbf{x}) + \sum_{i=1}^m \lambda_i f_i(\mathbf{x}) + \sum_{j=1}^n \nu_j h_j(\mathbf{x})
+\min_{\mathbf{x}} \max_{\pmb{\lambda} \geqslant \mathbf{0}, \pmb{\nu}}\left[ f_0(\mathbf{x}) + \sum_{i=1}^m \lambda_i f_i(\mathbf{x}) + \sum_{j=1}^n \nu_j h_j(\mathbf{x}) \right]
 \end{aligned}
 \end{align\*}
 
