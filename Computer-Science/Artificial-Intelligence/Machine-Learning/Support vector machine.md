@@ -6,6 +6,8 @@ $$
 
 However, that on its own is underconstrained. SVM tries to maximize margin, the distance from the decision boundary $H =\\{\mathbf{x}: \mathbf{w}^\mathsf{T}\mathbf{x} - b = 0\\}$ to each point. Note that we have a degree of freedom to play with in the scaling. Generally, we pick $\lVert w \rVert = \frac{1}{m}$ for convenience.
 
+[[_TOC_]]
+
 # Margin
 
 What is the margin for some point $\mathbf{z}$?  Well, we need to see the distance from $\mathbf{z}$ to $H$ which would be the projection of $\mathbf{z} - \mathbf{x}_0$ onto $\mathbf{w}$
@@ -14,7 +16,7 @@ $$
 \operatorname{margin}(\mathbf{z}) = \frac{|\mathbf{w}^\mathsf{T}(\mathbf{z} - \mathbf{x}_0) |}{\lVert \mathbf{w} \rVert_2} = \frac{|\mathbf{w}^\mathsf{T}\mathbf{z} - b |}{\lVert \mathbf{w} \rVert_2} 
 $$
 
-# Program
+# Hard Margin
 
 \begin{equation}
 \begin{aligned}
@@ -35,6 +37,8 @@ The [[quadratic programming]]
 \end{aligned}
 \tag{Hard SVM}
 \end{equation}
+
+# Soft Margin
 
 The soft-margin SVM comes into play when the data is not linearly separable. We introduce a hyperparameter $C$ that controls how much we punish points for incurring a penalty $\xi_i$.
 
