@@ -1,4 +1,4 @@
-**Clustering** is an unsupervised learning technique given $\\{x_i \in \RR^D \\}_{i=1}^N$ to find "clusters" based on similarity with some heuristic. You can think of the problem as reducing $X \in \RR^{N \times D}$ to dimensionality 1. 
+**Clustering** is an unsupervised learning technique given $\left\\{x_i \in \RR^D \right\\}_{i=1}^N$ to find "clusters" based on similarity with some heuristic. You can think of the problem as reducing $X \in \RR^{N \times D}$ to dimensionality 1. 
 
 # Centroid-based clustering
 
