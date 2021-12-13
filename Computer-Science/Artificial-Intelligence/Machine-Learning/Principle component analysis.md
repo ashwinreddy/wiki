@@ -1,6 +1,6 @@
 **Principle component analysis (PCA)** is a dimension reduction technique that takes a [[design matrix]] $\mathbf{X} \in \RR^{n \times d}$ (therefore of dimensionality $d$) and tries to reduce it to dimension $k < d$. The general idea is to see which directions in the $d$ dimensional space capture the most information (measured by variance), then project the data down to those directions. These directions should be orthogonal to each other.
 
-> PCA is just a low rank approximation of the sample covariance matrix.
+> PCA is just a low rank approximation of the sample covariance matrix (just by taking its eigenvectors).
 
 The technique relies on [[diagonalization|diagonalizable matrix]].
 
