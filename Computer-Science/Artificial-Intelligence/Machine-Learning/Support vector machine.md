@@ -47,4 +47,4 @@ The soft-margin SVM comes into play when the data is not linearly separable. We 
 \tag{Soft SVM}
 \end{equation}
 
-Clearly, as $\xi \to 0$ we recover the hard-margin SVM.
+Clearly, as $C \to 0$ we recover the hard-margin SVM.
