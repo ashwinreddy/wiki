@@ -55,6 +55,6 @@ Clearly, as $C \to 0$ we recover the hard-margin SVM.
 
 | |small $C$|large $C$|
 |--|--------|----------|
-|Desire|maximize margin|keep $\xi_i$ small|
-|Danger|underfitting|overfitting|
-|Outliers|less sensitive|more sensitive|
+|**Desire**|maximize margin|keep $\xi_i$ small|
+|**Danger**|underfitting|overfitting|
+|**Outliers**|less sensitive|more sensitive|
