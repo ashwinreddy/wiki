@@ -28,6 +28,9 @@ $$
 P(O) = \sum_Q P(O,Q) = \sum_Q P(O \mid Q)P(Q)
 $$
 
+## Forward algorithm
+
+This is an $\order{N^2 T}$ [[dynamic programming]] algorithm.
 
 $$
 \alpha_1 (j) = \pi_j b_j(o_1)\quad \forall j \in [N]
