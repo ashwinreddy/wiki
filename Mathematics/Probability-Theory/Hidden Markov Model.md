@@ -30,13 +30,15 @@ $$
 
 ## Forward algorithm
 
-This is an $\order{N^2 T}$ [[dynamic programming]] algorithm with the forward trellis.
-
-[[https://danieltakeshi.github.io/assets/forward_trellis.png]]
+This is an $\order{N^2 T}$ [[dynamic programming]] algorithm with the forward trellis. We build up a table `forward[s, t]` which represents $\alpha_t(s)$ where 
 
 $$
 \alpha_t(j) = P(o_{1:t}, q_t = j)
 $$
+
+[[https://danieltakeshi.github.io/assets/forward_trellis.png]]
+
+
 
 $$
 \alpha_1 (j) = \pi_j b_j(o_1)\quad \forall j \in [N]
