@@ -1,4 +1,4 @@
-**Probabilistic graphical models (PGMs)** represent a [[joint probability distribution]] with a [[directed acyclic graph]]
+**Probabilistic graphical models (PGMs)** represent a [[joint probability distribution]] with a [[directed acyclic graph]] $G$ with vertices $\\{X_i\\}_{i=1}^k$. 
 
 
 ---
