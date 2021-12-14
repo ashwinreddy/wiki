@@ -1,4 +1,9 @@
-**Probabilistic graphical models (PGMs)** are a way of representing probabilities with a [[graph]] with each vertex being a [[random variable]], and the edges representing a correlation or dependency.
+**Probabilistic graphical models (PGMs)** represent a [[joint probability distribution]] with a [[directed acyclic graph]]
+
+
+---
+
+are a way of representing probabilities with a [[graph]] with each vertex being a [[random variable]], and the edges representing a correlation or dependency.
 
 [[https://ermongroup.github.io/cs228-notes/assets/img/naive-bayes.png|align=center]]
 
