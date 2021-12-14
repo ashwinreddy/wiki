@@ -1,7 +1,7 @@
 A **Hidden Markov model (HMM)** is a [[Markov model]] models a [[sequence]] of states $Q = \\{q_i\\}_{i=1}^N$ using hidden variables. 
 
 Transition probability matrix
-: An $n \times n$ [[matrix]] $A$ where $A_{ij}$ is the probability of transitioning from state $i$ to $j$.
+: An $n \times n$ [[matrix]] $A$ where $a_{ij}$ is the probability of transitioning from state $i$ to $j$.
 
 $$
 \sum_{j=1}^n A_{ij} \equiv 1
@@ -14,7 +14,11 @@ $$
 
 # Likelihood
 
-Given a HMM $\lambda = (A, B)$ and an observation sequence $O$, determine $P(O \mid \lambda)$.
+Given a HMM $\lambda = (A, B)$ and an observation sequence $O$, determine $P(O \mid \lambda)$. Note that
+
+$$
+P(O \mid Q) = \prod_{i=1}^T P(o_i \mid q_i)
+$$
 
 $$
 \alpha_1 (j) = \pi_j b_j(o_1)\quad \forall j \in [N]
