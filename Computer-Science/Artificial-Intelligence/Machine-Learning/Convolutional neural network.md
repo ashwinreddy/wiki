@@ -6,4 +6,4 @@ The number of parameters in a convolutional layer is $k(s + 1)$ where $k$ is num
 
 # Pooling
 
-A pooling layer does [[downsampling]] reduces spatial dimensions
+A pooling layer does [[downsampling]], reducing spatial dimensions. It also uses a sliding window, but rather than taking a dot product, it either computes a max (was a feature found in this window) or an average (reduce outlier in this window).
