@@ -34,6 +34,8 @@ This is an $\order{N^2 T}$ [[dynamic programming]] algorithm with the forward tr
 
 [[https://danieltakeshi.github.io/assets/forward_trellis.png]]
 
+The symbol $\alpha_j(t) = P(o_{1:t}, q_t = j)$
+
 $$
 \alpha_1 (j) = \pi_j b_j(o_1)\quad \forall j \in [N]
 $$
