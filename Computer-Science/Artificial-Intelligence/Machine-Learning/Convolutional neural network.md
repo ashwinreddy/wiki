@@ -3,6 +3,12 @@ A **convolutional neural network (CNN)** is a [[artificial neural network]] that
 Filter
 : A small [[matrix]] with learnable values that we will slide over the input
 
+Depth
+: Number of filters we would like to use
+
+Stride
+: How many pixels we jump when sliding the filter
+
 For example, a typical filter on a ConvNet might have size $5 \times 5 \times 3$.
 
 A `Conv2d` layer has number of parameters $\order{nk^2}$ for $n$ filters of $k \times k$ size on input $L \times L$.
