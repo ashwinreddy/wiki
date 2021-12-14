@@ -14,6 +14,8 @@ $$
 
 # Likelihood
 
+Given a HMM $\lambda = (A, B)$ and an observation sequence $O$, determine $P(O \mid \lambda)$.
+
 $$
 \alpha_1 (j) = \pi_j b_j(o_1)\quad \forall j \in [N]
 $$
