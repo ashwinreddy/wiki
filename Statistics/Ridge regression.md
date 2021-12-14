@@ -10,8 +10,8 @@ If the [[design matrix]] is $X \in \mathbb{R}^{n \times d}$ and $y \in \mathbb{R
 \end{equation}
 
 \begin{align\*}
-\mathbf{0} &= \nabla_{\mathbf{w}}\left[\lVert \mathbf{X}\mathbf{w} - \mathbf{y} \rVert_2^2 + \lambda \lVert \mathbf{w} \rVert_2^2\right] \\\\
-&=  -2\mathbf{X}^\mathsf{T}\mathbf{y} + 2\mathbf{X}^\mathsf{T}\mathbf{X}\mathbf{w} + 2\lambda \mathbf{w} \\\\
+\mathbf{0} &= \nabla_{\pmb{w}}\left[\lVert \pmb{X}\pmb{w} - \pmb{y} \rVert_2^2 + \lambda \lVert \pmb{w} \rVert_2^2\right] \\\\
+&=  -2\pmb{X}^\mathsf{T}\mathbf{y} + 2\mathbf{X}^\mathsf{T}\mathbf{X}\mathbf{w} + 2\lambda \mathbf{w} \\\\
 &=  -\mathbf{X}^\mathsf{T}\mathbf{y} + (\mathbf{X}^\mathsf{T}\mathbf{X} + \lambda I)\mathbf{w}
 \end{align\*}
 
