@@ -1,0 +1,1 @@
+A **Partially observable Markov decision process (POMDP)**
