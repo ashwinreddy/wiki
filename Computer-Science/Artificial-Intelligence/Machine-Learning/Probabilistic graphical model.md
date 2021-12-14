@@ -1,4 +1,4 @@
-**Probabilistic graphical models (PGMs)** represent a [[joint probability distribution]] $P$ with a [[directed acyclic graph]] $G$ with vertices $\\{X_i\\}_{i=1}^k$. The representation is enabled by
+**Probabilistic graphical models (PGMs)** aka **Belief Nets** or **Bayes Nets** represent a [[joint probability distribution]] $P$ with a [[directed acyclic graph]] $G$ with vertices $\\{X_i\\}_{i=1}^k$. The representation is enabled by
 
 
 $$
