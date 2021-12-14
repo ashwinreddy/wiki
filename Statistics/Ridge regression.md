@@ -10,29 +10,29 @@ If the [[design matrix]] is $X \in \mathbb{R}^{n \times d}$ and $y \in \mathbb{R
 \end{equation}
 
 \begin{align\*}
-\mathbf{0} &= \nabla_{\pmb{w}}\left[\lVert \pmb{X}\pmb{w} - \pmb{y} \rVert_2^2 + \lambda \lVert \pmb{w} \rVert_2^2\right] \\\\
-&=  -2\pmb{X}^\mathsf{T}\mathbf{y} + 2\mathbf{X}^\mathsf{T}\mathbf{X}\mathbf{w} + 2\lambda \mathbf{w} \\\\
-&=  -\mathbf{X}^\mathsf{T}\mathbf{y} + (\mathbf{X}^\mathsf{T}\mathbf{X} + \lambda I)\mathbf{w}
+\pmb{0} &= \nabla_{\pmb{w}}\left[\lVert \pmb{X}\pmb{w} - \pmb{y} \rVert_2^2 + \lambda \lVert \pmb{w} \rVert_2^2\right] \\\\
+&=  -2\pmb{X}^\mathsf{T}\pmb{y} + 2\pmb{X}^\mathsf{T}\pmb{X}\pmb{w} + 2\lambda \pmb{w} \\\\
+&=  -\pmb{X}^\mathsf{T}\pmb{y} + (\pmb{X}^\mathsf{T}\pmb{X} + \lambda I)\pmb{w}
 \end{align\*}
 
 \begin{equation}
-\mathbf{w}\_{\mathrm{ridge}} = (\mathbf{X}\^\mathsf{T}\mathbf{X} + \lambda \pmb{I}_d)\^{-1}\mathbf{X}^\mathsf{T}\mathbf{y}
+\pmb{w}\_{\mathrm{ridge}} = (\pmb{X}\^\mathsf{T}\pmb{X} + \lambda \pmb{I}_d)\^{-1}\pmb{X}^\mathsf{T}\pmb{y}
 \end{equation}
 
-As $\lambda \to \infty$, $\mathbf{w}\_{\mathrm{ridge}} \to 0$.
+As $\lambda \to \infty$, $\pmb{w}\_{\mathrm{ridge}} \to 0$.
 
 # Kernel Ridge Regression
 
-The [[kernel method]] here comes by considering a [[dual problem|duality]]. This method is recommended when $d > n$. Here, we consider $\mathbf{w} = \mathbf{X}^\mathsf{T}\pmb{\alpha}$ where $\pmb{\alpha}$ is a vector of dual weights. The optimal solution is then
+The [[kernel method]] here comes by considering a [[dual problem|duality]]. This method is recommended when $d > n$. Here, we consider $\pmb{w} = \pmb{X}^\mathsf{T}\pmb{\alpha}$ where $\pmb{\alpha}$ is a vector of dual weights. The optimal solution is then
 
 $$
-\pmb{\alpha}^\star = (\pmb{K} + \lambda \pmb{I})^{-1}\mathbf{y}
+\pmb{\alpha}^\star = (\pmb{K} + \lambda \pmb{I})^{-1}\pmb{y}
 $$
 
 From which we see that
 
 $$
-\mathbf{w}^\star = \pmb{X}^\mathsf{T} (\pmb{K} + \lambda \pmb{I})^{-1}\mathbf{y}
+\pmb{w}^\star = \pmb{X}^\mathsf{T} (\pmb{K} + \lambda \pmb{I})^{-1}\pmb{y}
 $$
 
 This problem is in $n \times n$.
