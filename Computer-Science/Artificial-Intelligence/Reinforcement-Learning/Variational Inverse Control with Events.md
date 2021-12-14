@@ -38,7 +38,7 @@ It does so using the [[control as inference]] perspective. This allows us to ask
 
 
 
-1. Classifier training learns parameters to the PGM.
+1. Classifier training learns parameters to the [[Probabilistic Graph Model]].
 2. Inferring the optimal actions results in policy optimization.
 
 # Learn event probabilities from data
