@@ -1,1 +1,1 @@
-A **Partially observable Markov decision process (POMDP)**
+A **partially observable Markov decision process (POMDP)** generalizes a [[Markov decision process]]
