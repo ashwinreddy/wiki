@@ -43,13 +43,15 @@ Once filled out, we just compute
 P(O \mid \lambda) = \sum_{i=1}^N \alpha_T(i) \tag{Termination}
 \end{equation}
 
-[[https://danieltakeshi.github.io/assets/forward_trellis.png]]
-
-
+How? First, we initialize $\alpha_1$ with
 
 $$
 \alpha_1 (j) = \pi_j b_j(o_1)\quad \forall j \in [N]
 $$
+
+[[https://danieltakeshi.github.io/assets/forward_trellis.png]]
+
+
 
 $$
 \alpha_t(j) = \sum_{i=1}^N \alpha_{t-1}a_{ij}b_j(o_t)\quad \forall j \in [N], t \in [T]
