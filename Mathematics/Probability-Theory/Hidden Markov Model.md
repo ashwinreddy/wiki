@@ -25,6 +25,11 @@ P(O, Q) = P(O \mid Q)P(Q) = \prod_{i=1}^T P(o_i \mid q_i) \times \prod_{i=1}^T P
 $$
 
 $$
+P(O) = \sum_Q P(O,Q) \ sum_Q P(O \mid Q)P(Q)
+$$
+
+
+$$
 \alpha_1 (j) = \pi_j b_j(o_1)\quad \forall j \in [N]
 $$
 
