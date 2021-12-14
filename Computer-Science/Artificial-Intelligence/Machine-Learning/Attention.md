@@ -6,6 +6,10 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Machine-Learning/paper
 
 We compare the query to each key. That gives us scores for each key. We can [[softmax]] to get a probability distribution. Then, take that as a linear combination for the values.
 
+# Self-attention
+
+Here, the queries, keys, and values all come from the input $\pmb{x}_t$.
+
 
 # Papers
 
