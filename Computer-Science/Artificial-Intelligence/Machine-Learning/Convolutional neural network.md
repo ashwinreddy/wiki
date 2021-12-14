@@ -1,4 +1,4 @@
-A **convolutional neural network (CNN)** is a [[artificial neural network]] that has convolutional layers. It is shiftinvariant It performs a [[convolution]].
+A **convolutional neural network (CNN)** is a [[artificial neural network]] that has convolutional layers. It is shift-invariant. It performs a [[convolution]].
 
 # Conv Layer
 
