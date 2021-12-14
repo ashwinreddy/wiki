@@ -1,4 +1,4 @@
-A **Hidden Markov model (HMM)** models a [[sequence]]
+A **Hidden Markov model (HMM)** models a [[sequence]] of states $Q = \\{q_i\\}_{i=1}^N$ using hidden variables. 
 
-is a kind of [[Markov model]] where we have observations $O$ and hidden variables/states $Q$. We have transition probabilities, which tell us the probability from moving state to state and observation probabilities that tell us the probability of an observation given a state.
-
+Transition probability matrix
+: An $n \times n$ matrix $A$ where $A_{ij}$ is the probability of transitioning from state $i$ to $j$.
