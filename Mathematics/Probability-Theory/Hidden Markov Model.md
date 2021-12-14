@@ -34,7 +34,9 @@ This is an $\order{N^2 T}$ [[dynamic programming]] algorithm with the forward tr
 
 [[https://danieltakeshi.github.io/assets/forward_trellis.png]]
 
-The symbol $\alpha_j(t) = P(o_{1:t}, q_t = j)$
+$$
+\alpha_t(j) = P(o_{1:t}, q_t = j)
+$$
 
 $$
 \alpha_1 (j) = \pi_j b_j(o_1)\quad \forall j \in [N]
@@ -44,6 +46,6 @@ $$
 \alpha_t(j) = \sum_{i=1}^N \alpha_{t-1}a_{ij}b_j(o_t)\quad \forall j \in [N], t \in [T]
 $$
 
-$$
-P(O \mid \lambda) = \sum_{i=1}^N \alpha_T(i)
-$$
+\begin{equation}
+P(O \mid \lambda) = \sum_{i=1}^N \alpha_T(i) \tag{Termination}
+\end{equation}
