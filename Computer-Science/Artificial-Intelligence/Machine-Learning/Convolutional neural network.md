@@ -1,5 +1,9 @@
 A **convolutional neural network (CNN)** is a [[artificial neural network]] that has convolutional layers. It is shiftinvariant It performs a [[convolution]].
 
+# Conv Layer
+
+Parameters: Number of filters and filter size, Stride, Padding.
+
 Filter
 : A small [[matrix]] with learnable values that we will slide over the input
 
