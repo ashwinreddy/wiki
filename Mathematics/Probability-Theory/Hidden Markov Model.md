@@ -11,3 +11,9 @@ $$
 1. Likelihood: given an observation sequence, determine its likelihood
 2. Decoding: given an observation sequence, discover the best hidden state sequence
 3. Learning: given an observation sequence, learn the HMM parameters
+
+# Likelihood
+
+$$
+\alpha_1 (j) = \pi_j b_j(o_1)\quad \forall j \in [N]
+$$
