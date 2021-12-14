@@ -33,8 +33,15 @@ $$
 This is an $\order{N^2 T}$ [[dynamic programming]] algorithm with the forward trellis. We build up a table `forward[s, t]` which represents $\alpha_t(s)$ where 
 
 $$
-\alpha_t(j) = P(o_{1:t}, q_t = j)
+\alpha_t(j) = P(o_{1:t}, q_t = j).
 $$
+
+Once filled out, we just compute
+
+
+\begin{equation}
+P(O \mid \lambda) = \sum_{i=1}^N \alpha_T(i) \tag{Termination}
+\end{equation}
 
 [[https://danieltakeshi.github.io/assets/forward_trellis.png]]
 
@@ -47,7 +54,3 @@ $$
 $$
 \alpha_t(j) = \sum_{i=1}^N \alpha_{t-1}a_{ij}b_j(o_t)\quad \forall j \in [N], t \in [T]
 $$
-
-\begin{equation}
-P(O \mid \lambda) = \sum_{i=1}^N \alpha_T(i) \tag{Termination}
-\end{equation}
