@@ -12,7 +12,7 @@ If the [[design matrix]] is $X \in \mathbb{R}^{n \times d}$ and $y \in \mathbb{R
 \begin{align\*}
 \pmb{0} &= \nabla_{\pmb{w}}\left[\lVert \pmb{X}\pmb{w} - \pmb{y} \rVert_2^2 + \lambda \lVert \pmb{w} \rVert_2^2\right] \\\\
 &=  -\pmb{X}^\mathsf{T}\pmb{y} + \pmb{X}^\mathsf{T}\pmb{X}\pmb{w} + \lambda \pmb{w} \\\\
-&=  -\pmb{X}^\mathsf{T}\pmb{y} + (\pmb{X}^\mathsf{T}\pmb{X} + \lambda I)\pmb{w}
+&=  -\pmb{X}^\mathsf{T}\pmb{y} + (\pmb{X}^\mathsf{T}\pmb{X} + \lambda \pmb{I}_d)\pmb{w}
 \end{align\*}
 
 \begin{equation}
@@ -26,13 +26,13 @@ As $\lambda \to \infty$, $\pmb{w}\_{\mathrm{ridge}} \to 0$.
 The [[kernel method]] here comes by considering a [[dual problem|duality]]. This method is recommended when $d > n$. Here, we consider $\pmb{w} = \pmb{X}^\mathsf{T}\pmb{\alpha}$ where $\pmb{\alpha}$ is a vector of dual weights. The optimal solution is then
 
 $$
-\pmb{\alpha}^\star = (\pmb{K} + \lambda \pmb{I})^{-1}\pmb{y}
+\pmb{\alpha}^\star = (\pmb{K} + \lambda \pmb{I}_n )^{-1}\pmb{y}
 $$
 
 From which we see that
 
 $$
-\pmb{w}^\star = \pmb{X}^\mathsf{T} (\pmb{K} + \lambda \pmb{I})^{-1}\pmb{y}
+\pmb{w}^\star = \pmb{X}^\mathsf{T} (\pmb{K} + \lambda \pmb{I}_n )^{-1}\pmb{y}
 $$
 
 This problem is in $n \times n$.
