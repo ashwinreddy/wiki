@@ -49,10 +49,14 @@ $$
 \alpha_1 (j) = \pi_j b_j(o_1)\quad \forall j \in [N]
 $$
 
-[[https://danieltakeshi.github.io/assets/forward_trellis.png]]
-
+Then we use the recursion
 
 
 $$
 \alpha_t(j) = \sum_{i=1}^N \alpha_{t-1}a_{ij}b_j(o_t)\quad \forall j \in [N], t \in [T]
 $$
+
+
+[[https://danieltakeshi.github.io/assets/forward_trellis.png]]
+
+
