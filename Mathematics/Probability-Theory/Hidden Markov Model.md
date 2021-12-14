@@ -7,3 +7,7 @@ $$
 \sum_{j=1}^n A_{ij} \equiv 1
 $$
 
+
+1. Likelihood: given an observation sequence, determine its likelihood
+2. Decoding: given an observation sequence, discover the best hidden state sequence
+3. Learning: given an observation sequence, learn the HMM parameters
