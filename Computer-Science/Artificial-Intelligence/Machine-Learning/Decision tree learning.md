@@ -3,3 +3,7 @@
 A single tree has high [[variance]] so we use [[random forest]] (ensemble of trees). 
 
 The deeper a decision tree, the more likely it is to overfit.
+
+$$
+\mathsf{InformationGain}(\textbf{node}) = H(S) - \frac{|S_\ell|H(S_\ell) + |S_r|H(S_r)}{|S_\ell| + |S_r|}
+$$
