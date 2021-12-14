@@ -1,0 +1,1 @@
+A **Markov model** has the [[Markov property]]
