@@ -10,6 +10,7 @@ We compare the query to each key. That gives us scores for each key. We can [[so
 # Papers
 
 * @xu2016show
+* @vaswani2017attention [[Transformer]]
 
 
 ---
