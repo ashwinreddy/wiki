@@ -16,7 +16,7 @@ If the [[design matrix]] is $X \in \mathbb{R}^{n \times d}$ and $y \in \mathbb{R
 \end{align\*}
 
 \begin{equation}
-\mathbf{w}\_{\mathrm{ridge}} = (\mathbf{X}\^\mathsf{T}\mathbf{X} + \lambda I)\^{-1}\mathbf{X}^\mathsf{T}\mathbf{y}
+\mathbf{w}\_{\mathrm{ridge}} = (\mathbf{X}\^\mathsf{T}\mathbf{X} + \lambda \pmb{I}_d)\^{-1}\mathbf{X}^\mathsf{T}\mathbf{y}
 \end{equation}
 
 As $\lambda \to \infty$, $\mathbf{w}\_{\mathrm{ridge}} \to 0$.
