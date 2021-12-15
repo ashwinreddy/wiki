@@ -33,7 +33,9 @@ $$
 \mathbb{E}\left(\alpha X\right) = \alpha \mathbb{E}\left(X\right)
 \end{equation}
 
-* Suppose $X$ and $Y$ are independent, then $\expectation{XY} = \mathbb{E}(X) \cdot \mathbb{E}(Y)$.
+$$
+X \perp Y \implies \expectation{XY} = \mathbb{E}(X) \cdot \mathbb{E}(Y)
+$$
 
 
 The expected value of an [[indicator function]] for an [[event]] is just its probability.
