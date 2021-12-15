@@ -1,0 +1,1 @@
+The **P versus NP problem (P = NP)** asks whether [[P]] is [[NP]].
