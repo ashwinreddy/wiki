@@ -1,0 +1,1 @@
+A **matching** for a [[graph]] $G=(V, E)$ is a [[subset]] of edges $M \subseteq V$ such that no two edges in $M$ share a vertex.
