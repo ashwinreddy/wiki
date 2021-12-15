@@ -1,4 +1,6 @@
-An **NP-complete** problem is one whose solution can be used to quickly build up solutions to any other [[NP]] problem. In other words, all problems in NP reduce to an NP-complete problem.
+An **NP-complete** problem is a [[computational problem]] whose solution can be used to quickly build up solutions to any other [[NP]] problem. 
+
+> All problems in NP (therefore any problem in [[P]] as well) reduce to an NP-complete problem.
 
 To show a problem is NP-complete, you need to
 
