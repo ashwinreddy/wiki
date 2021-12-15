@@ -18,3 +18,5 @@ The [[recurrence relation]] is actually
 $$
 N(W) = \min_{i \in [n]}  F(S - c_i) + 1
 $$
+
+The time complexity is $\order{Wn}$ because we take the min over $n$ terms and we work our way up from $N(i)$ with $i=1$ up to $i = W$.
