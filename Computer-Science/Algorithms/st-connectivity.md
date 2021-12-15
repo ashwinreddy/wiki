@@ -1,1 +1,0 @@
-**st-connectivity / STCON** is a [[decision problem]] to see if $t$ is reachable from $s$ in a graph.
