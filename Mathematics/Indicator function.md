@@ -1,4 +1,4 @@
-An **indicator function** is a function 
+An **indicator function** is a [[function]] from a [[set]] $X$ given a [[subset]] $A$
 
 $$
 \begin{aligned}
