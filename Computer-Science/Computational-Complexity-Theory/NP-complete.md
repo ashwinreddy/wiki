@@ -1,4 +1,4 @@
-An **NP-complete** problem is a [[computational problem]] whose solution can be used to quickly build up solutions to any other [[NP]] problem. 
+An **NP-complete** problem is a [[computational problem]] which is complete for [[NP]].
 
 $$
 \textbf{NP-complete} = \textbf{NP} \cap \textbf{NP-hard}
