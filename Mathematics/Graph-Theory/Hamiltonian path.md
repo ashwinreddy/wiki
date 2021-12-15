@@ -1,0 +1,1 @@
+A **Hamiltonian path** in a [[graph]] is a path that visits all vertices once.
