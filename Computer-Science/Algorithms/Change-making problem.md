@@ -3,6 +3,6 @@ The **change-making problem**. Given an amount $W>0$ and $\\{w_i\\}_{i=1}^n$ wit
 $$
 \begin{aligned}
 \min \quad & \sum_{j=1}^n x_j \\\\
-\quad & \text{s.t.} \sum_{j=1}^n w_j x_j = W.
+\text{s.t.} \quad  & \sum_{j=1}^n w_j x_j = W.
 \end{aligned}
 $$
