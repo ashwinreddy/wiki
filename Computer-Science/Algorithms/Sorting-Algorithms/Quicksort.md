@@ -13,3 +13,7 @@ The runtime is proportional to the number of comparisons made. Let $X_{ij}$ be a
 $$
 \mathbb{E}[X_{ij}] = \mathbb{P}\left(X_{ij} = 1\right) = \frac{2}{j-i + 1}
 $$
+
+$$
+\mathbb{E}_r\left[T(A, r)\right] \leqslant \mathbb{E}_r \left[ C \sum_{i < j} X_{ij} \right] 
+$$
