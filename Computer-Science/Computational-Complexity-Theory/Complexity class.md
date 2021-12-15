@@ -1,1 +1,1 @@
-A **complexity class** is a [[set]] of [[computational problem]].
+A **complexity class** is a [[set]] of [[computational problems|computational problem]].
