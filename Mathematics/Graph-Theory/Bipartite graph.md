@@ -4,4 +4,4 @@ A **bipartite graph** is a [[graph]] $G = (L \cup R, E)$ that is two-colorable.
 
 # Maximum Bipartite Matching
 
-Given a bipartite graph, find the size of the largest matching possible.
+Given a bipartite graph, find the size of the largest [[matching]] possible.
