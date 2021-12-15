@@ -1,1 +1,1 @@
-A **path** in a [[graph]] is a [[sequence]] of edges joining a sequence of vertices.
+A **path** in a [[graph]] is a [[sequence]] of edges joining a sequence of (distinct) vertices.
