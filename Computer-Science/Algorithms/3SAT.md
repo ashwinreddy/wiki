@@ -1,4 +1,4 @@
-**3SAT** is [[Satisfiability]], like [[2SAT]]. It is [[NP-complete]].
+**3SAT** is [[Satisfiability]], like [[2SAT]]. It is an [[NP-complete]] problem.
 
 **Example**. 
 
