@@ -1,1 +1,1 @@
-An **indicator function** is a function $\pmb{1}$
+An **indicator function** is a function $\pmb{1}_A: X \to \\{0, 1\\}$ for a [[set]] $X$ and some [[subset]] $A$.
