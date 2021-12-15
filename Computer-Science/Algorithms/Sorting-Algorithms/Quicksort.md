@@ -15,7 +15,7 @@ $$
 $$
 
 \begin{align\*}
-\mathbb{E}_r\left[T(A, r)\right] &\leqslant \mathbb{E}_r \left[ C \sum_{i < j} X_{ij} \right]  \\\\
+\mathbb{E}\_r\left[T(A, r)\right] &\leqslant \mathbb{E}_r \left[ C \sum_{i < j} X_{ij} \right]  \\\\
 &= C \sum_{i=1}^{n-1} \sum_{j = i+1}^n \frac{2}{j - i + 1} \\\\
 &= C \sum_{k=1}^{n-1} \frac{2}{ n - k + 1} k \\\\
 & \leqslant 2Cn \sum_{k=1}^{n-1} \frac{1}{n-k+1} \\\\
