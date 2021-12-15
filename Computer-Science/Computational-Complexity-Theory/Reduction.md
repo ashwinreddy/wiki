@@ -1,4 +1,4 @@
-A **reduction** is an [[algorithm]] that transforms one problem to another. $P$ reduces to $Q$ if you can take an instance of $P$ and then turn it into an instance of $Q$, then use a solver for $Q$, then turn the solution for $Q$ into a solution for $P$.
+A **reduction** is an [[algorithm]] that transforms one problem to another. $P$ reduces to $Q$ if you can take an instance of $P$ and then turn it into an instance of $Q$, then use a solver for $Q$, then turn the solution for $Q$ into a solution for $P$. When such a reduction exists, we say that $Q$ is at least as hard as $P$.
 
 @startuml
 : x ;
@@ -12,4 +12,4 @@ partition Reduction {
 :P(x);
 @enduml
 
-[[Composition]]: If $A$ reduces to $B$ and $B$ reduces to $C$ in polynomial time, then $A$ reduces to $C$.
+If $A$ reduces to $B$ and $B$ reduces to $C$ in polynomial time, then $A$ reduces to $C$.
