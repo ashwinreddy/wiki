@@ -16,5 +16,5 @@ $$
 The [[recurrence relation]] is actually
 
 $$
-N(W) = \min_{i \in [n-1]} \left[ F(S - c_i) + 1 \right]
+N(W) = \min_{i \in [n-1]} \left( F(S - c_i) + 1 \right)
 $$
