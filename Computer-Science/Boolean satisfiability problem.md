@@ -5,7 +5,6 @@ $$
 $$
 
 Satisfying truth assignment
-: Assignment of `false` and `true` to each variable.
-
+: Assignment of `false` and `true` to each variable so that each clause is `true` (therefore the whole expression is satisfied).
 
 Special case is [[3SAT]] or [[2SAT]].
