@@ -1,4 +1,4 @@
-An **NP-complete** problem is a [[computational problem]] which is complete for [[NP]]. 
+An **NP-complete** problem is a [[computational problem]] which is complete for [[NP]]. It is a [[subset]] of [[NP-hard]].
 
 $$
 \textbf{NP-complete} = \textbf{NP} \cap \textbf{NP-hard}
