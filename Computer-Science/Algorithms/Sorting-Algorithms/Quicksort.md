@@ -8,4 +8,4 @@
 
 # Runtime
 
-The runtime is proportional to the number of comparisons made. Let $X_{ij}$ be an [[indicator variable]]
+The runtime is proportional to the number of comparisons made. Let $X_{ij}$ be an [[indicator function]] for the [[event]]
