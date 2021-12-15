@@ -8,4 +8,8 @@
 
 # Runtime
 
-The runtime is proportional to the number of comparisons made. Let $X_{ij}$ be an [[indicator function]] for the [[event]]
+The runtime is proportional to the number of comparisons made. Let $X_{ij}$ be an [[indicator function]] for the [[event]] that $i$th and $j$th smallest elements are ever compared.
+
+$$
+\mathbb{E}[X_{ij}] = \mathbb{P}\left(X_{ij} = 1\right) = \frac{2}{j-i + 1}
+$$
