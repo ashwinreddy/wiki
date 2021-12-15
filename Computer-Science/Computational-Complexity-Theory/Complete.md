@@ -1,0 +1,1 @@
+A [[computational problem]] is **complete** for a [[complexity class]] if it is the hardest problem in the class.
