@@ -1,0 +1,1 @@
+An **indicator function** is a function $\pmb{1}$
