@@ -4,4 +4,4 @@ $$
 T(n) = \max_{|x| = n} \mathbb{E}_r\left[t(x, r)\right],
 $$
 
-the expected worst-case runtime for input size $n$.
+the expected worst-case runtime for input size $n$. An example is [[quicksort]].
