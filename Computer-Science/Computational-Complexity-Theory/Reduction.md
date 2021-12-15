@@ -12,4 +12,4 @@ partition Reduction {
 :P(x);
 @enduml
 
-If $A$ reduces to $B$ and $B$ reduces to $C$ in polynomial time, then $A$ reduces to $C$.
+[[Composition]]: If $A$ reduces to $B$ and $B$ reduces to $C$ in polynomial time, then $A$ reduces to $C$.
