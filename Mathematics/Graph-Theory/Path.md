@@ -1,0 +1,1 @@
+A **path** in a [[graph]] is a [[sequence]] of edges.
