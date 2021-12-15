@@ -1,1 +1,1 @@
-A **streaming algorithm** is an [[algorithm]] that processes an input [[sequence]] $(x_i \in \Sigma)_{i=1}^n$ one at a time and needs to output some statistic with sublinear space.
+A **streaming algorithm** is an [[algorithm]] that processes an input [[sequence]] $\left(x_i \in \Sigma\right)_{i=1}^n$ one at a time and needs to output some statistic with sublinear space.
