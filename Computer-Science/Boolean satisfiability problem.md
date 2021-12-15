@@ -4,6 +4,8 @@ $$
 \overbrace{(x \lor y \lor z)}^{\text{clause}} (\underbrace{x}\_{\text{literal}} \lor \bar{y}) (y \lor \bar{z}) (z \lor \bar{x})(\bar{x} \lor \bar{y} \lor \underbrace{\bar{z}}_{\text{literal}})
 $$
 
+Satisfying truth assignment
+: Assignment of `false` and `true` to each variable.
 
 
 Special case is [[3SAT]] or [[2SAT]].
