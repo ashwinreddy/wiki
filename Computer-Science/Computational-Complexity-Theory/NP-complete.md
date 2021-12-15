@@ -15,3 +15,5 @@ To show a problem is NP-complete, you need to
 # Examples
 
 * [[3SAT]], independent set, vertex cover, Rudrata cycle
+
+# Properties
