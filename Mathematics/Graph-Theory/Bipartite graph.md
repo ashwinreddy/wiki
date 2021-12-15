@@ -9,7 +9,7 @@ Given a bipartite graph, find the size of the largest [[matching]] possible. Thi
 $$
 \begin{aligned}
 \max & \quad \sum_{e \in E} x_e \\\\
-\text{s.t.} & \sum_{e \in E: v \sim e} x_e \leqslant 1, \quad \forall v \in V\\\\
-& x_e \in \\{0, 1\\}, \quad \forall e \in E
+\text{s.t.} & \sum_{e \in E: v \sim e} x_e \leqslant 1, \quad & \forall v \in V\\\\
+& x_e \in \\{0, 1\\}, \quad & \forall e \in E
 \end{aligned}
 $$
