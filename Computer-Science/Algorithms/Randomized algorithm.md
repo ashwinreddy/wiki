@@ -1,1 +1,1 @@
-A **randomized algorithm** $\mathcal{A}$ is an [[algorithm]] that generates random bits to guide its execution.
+A **randomized algorithm** $\mathcal{A}$ is an [[algorithm]] that generates a random bitstring $r$ to guide its execution. It can either be a [[Las Vegas algorithm]]
