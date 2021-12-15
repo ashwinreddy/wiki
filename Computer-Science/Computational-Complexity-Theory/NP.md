@@ -4,7 +4,7 @@ $$
 \mathbf{P} \subseteq \mathbf{NP},
 $$
 
-but it is an unsolved problem whether $\mathbf{P} = \mathbf{NP}$.
+but it is an unsolved problem whether $\mathbf{P} = \mathbf{NP}$ [[P versus NP problem]].
 
 # Examples
 
