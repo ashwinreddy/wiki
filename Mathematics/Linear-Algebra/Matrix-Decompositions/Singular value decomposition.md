@@ -10,7 +10,7 @@ In the full SVD, rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[
 
 
 \begin{align}
-\mathbf{U} &= \operatorname{eigenvecs} \mathbf{A}\mathbf{A}^\mathsf{T} \\\\
+\mathbf{U} &= \operatorname{eigenvecs} \mathbf{A}\mathbf{A}^\mathsf{T} \\\\\
 \mathbf{V} &= \operatorname{eigenvecs} \mathbf{A}^\mathsf{T}\mathbf{A}
 \end{align}
 
