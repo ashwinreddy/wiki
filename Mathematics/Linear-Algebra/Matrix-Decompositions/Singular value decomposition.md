@@ -10,8 +10,8 @@ In the full SVD, rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[
 
 
 \begin{align\*}
-U &= \operatorname{eigenvecs} \mathbf{A}\mathbf{A}^\mathsf{T} \\
-V &= \operatorname{eigenvecs} \mathbf{A}^\mathsf{T}\mathbf{A}
+\mathbf{U} &= \operatorname{eigenvecs} \mathbf{A}\mathbf{A}^\mathsf{T} \\
+\mathbf{V} &= \operatorname{eigenvecs} \mathbf{A}^\mathsf{T}\mathbf{A}
 \end{align\*}
 
 # Spaces
