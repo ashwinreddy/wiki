@@ -4,7 +4,7 @@ An **invertible matrix** is a [[square matrix]] $\mathbf{A} \in \RR^{n \times n}
 \mathbf{A}\mathbf{A}^{-1}=\mathbf{A}^{-1}\mathbf{A} = \mathbf{I}_n
 \end{equation}
 
-with $I$ the [[identity matrix]]. An invertible matrix must then be one that loses no information, which can happen if columns/rows are linearly dependent. If a matrix is not invertible, it is singular. There are no other options.
+with $\mathbf{I}_n$ the [[identity matrix]]. An invertible matrix must then be one that loses no information, which can happen if columns/rows are linearly dependent. If a matrix is not invertible, it is singular. There are no other options.
 
 An operational definition for an invertible matrix is one whose [[determinant]] is nonzero.
 
