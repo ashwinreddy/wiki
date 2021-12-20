@@ -10,7 +10,7 @@ X \sim \mathsf{Binomial}(n, p) \iff  \Pr(X = k; n, p) = \binom{n}{k} p^k (1-p)^{
 |--------|-----|
 |[[Expected value]]|$np$|
 |[[Variance]]|$np(1-p)$|
-|[[Moment-generating function]]|$(1-p+pe^t)^n$|
+|[[Moment-generating function]]|$\left(1-p+pe^t\right)^n$|
 
 * If $X \sim \mathsf{Binomial}(n,p)$ and $Y \sim \mathsf{Binomial}(m,p)$, then $X+Y \sim \mathsf{Binomial}(n+m, p)$
 * If $p=\frac{1}{2}$, then $\mathbb{P}_X(x = k; n, p) = 2^{-n}\binom{n}{k}$.
