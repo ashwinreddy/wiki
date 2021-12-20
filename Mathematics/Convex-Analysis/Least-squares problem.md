@@ -9,3 +9,9 @@ where $A \in \RR^{k \times n}$ a tall matrix (i.e. $k \geqslant n$). The solutio
 $$
 \left(A^\mathsf{T}A\right)x = A^\mathsf{T}b
 $$
+
+Therefore we have
+
+$$
+x = (A^\mathsf{T}A)^{-1}A^\mathsf{T}b
+$$
