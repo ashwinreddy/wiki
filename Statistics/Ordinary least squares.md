@@ -1,4 +1,4 @@
-**Ordinary least squares (OLS)** finds the optimal parameters $\beta$ to a linear model $y = X\beta$ for [[design matrix]] $X$ by solving
+**Ordinary least squares (OLS)** finds the optimal parameters $\beta$ to a linear model $y = X\beta$ for [[design matrix]] $X$ by solving a [[least-squares problem]].
 
 \begin{gather\*}
 \hat\beta = \arg\min_\beta J(\beta) \\\\
