@@ -19,8 +19,8 @@ In the full SVD, rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[
 The left singular vectors span the column space of $A$. In fact, if we just select the top $r$ vectors, we get an [[orthonormal basis]]!
 
 \begin{align\*}
-\operatorname{Col}(\mathbf{A}) &= \operatorname{span} \\{ u_i \\} \\
-\operatorname{Row}(\mathbf{A}) &= \operatorname{span} \\{ v_i \\}\_{i=1}^{r} \\
+\operatorname{Col}(\mathbf{A}) &= \operatorname{span} \\{ u_i \\} \\\\\
+\operatorname{Row}(\mathbf{A}) &= \operatorname{span} \\{ v_i \\}\_{i=1}^{r} \\\\\
 \operatorname{Null}(\mathbf{A}) &= \operatorname{span} \\{ v_i \\}_{i=r+1}^{n}
 \end{align\*}
 
