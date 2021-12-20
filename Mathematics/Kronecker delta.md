@@ -14,6 +14,8 @@ $$
 \delta_{ij} = \delta_{ji}
 $$
 
+Here's a [[convolution]]
+
 $$
 \sum_{n = -\infty}^\infty x[n]\delta[n - k] \equiv x[k]
 $$
