@@ -16,4 +16,4 @@ $$
 x = (A^\mathsf{T}A)^{-1}A^\mathsf{T}b
 $$
 
-This can be solved in $\order{n^2 k}$ time.
+This can be solved in $\order{n^2 k}$ time. If $A$ is a [[sparse matrix]]
