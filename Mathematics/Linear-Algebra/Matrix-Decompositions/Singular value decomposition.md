@@ -4,7 +4,7 @@ $$
 \mathbf{A} = \mathbf{U}\mathbf{\Sigma} \mathbf{V}^\mathsf{T}
 $$
 
-where $U$ contains the **left singular vectors**, $\Sigma$ has the [[singular values|singular value]], and $V$ contains the right singular vectors.
+where $\mathbf{U}$ contains the **left singular vectors**, $\mathbf{\Sigma}$ has the [[singular values|singular value]], and $\mathbf{V}$ contains the right singular vectors.
 
 In the full SVD, rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $\mathbf{U}$ and $\mathbf{V}$. 
 
