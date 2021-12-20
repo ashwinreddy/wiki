@@ -7,5 +7,5 @@ $$
 has stationary value when
 
 $$
-\pdv{f}{y} - \dv{}{t}\left(\pdv{f}{\dot{y}}\right) = 0
+\pdv{f}{y} = \dv{}{t}\left(\pdv{f}{\dot{y}}\right)
 $$
