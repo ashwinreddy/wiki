@@ -8,7 +8,7 @@ The **Dirac delta function** $\delta$ is roughly a sharp peak at input 0. Altern
 with its [[integral]]
 
 $$
-\int_\RR \delta(x - x_0)\,\dd{x} = 1.
+\int\limits_\RR \delta(x - x_0)\,\dd{x} = 1.
 $$
 
 
