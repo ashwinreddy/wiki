@@ -9,10 +9,10 @@ where $\mathbf{U}$ contains the **left singular vectors**, $\mathbf{\Sigma}$ has
 In the full SVD, rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $\mathbf{U}$ and $\mathbf{V}$. 
 
 
-\begin{align*}
+\begin{align}
 \mathbf{U} &= \operatorname{eigenvecs} \mathbf{A}\mathbf{A}^\mathsf{T} \\\\
 \mathbf{V} &= \operatorname{eigenvecs} \mathbf{A}^\mathsf{T}\mathbf{A}
-\end{align*}
+\end{align}
 
 # Spaces
 
