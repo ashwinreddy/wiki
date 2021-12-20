@@ -1,0 +1,1 @@
+A **least-squares problem** is an [[optimization problem]]
