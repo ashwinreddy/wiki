@@ -6,10 +6,13 @@ $$
 
 where $U$ contains the **left singular vectors**, $\Sigma$ has the [[singular values|singular value]], and $V$ contains the right singular vectors.
 
-\begin{align}
-A &= \begin{bmatrix}u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1  \\ &  \ddots \\ & & \sigma_m \end{bmatrix} & \begin{bmatrix}v_1 & v_2 & \cdots & v_n \end{bmatrix}^\mathsf{T} \tag{Full SVD} \\
-&= \begin{bmatrix}u_1 & u_2 & \cdots & u_r \end{bmatrix} \begin{bmatrix}\sigma_1  \\ &  \ddots \\ & & \sigma_r \end{bmatrix} & \begin{bmatrix}v_1 & v_2 & \cdots & v_r \end{bmatrix}^\mathsf{T} \tag{Compact/Thin SVD}
-\end{align}
+$$
+A = \begin{bmatrix}u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1  \\ &  \ddots \\ & & \sigma_m \end{bmatrix} & \begin{bmatrix}v_1 & v_2 & \cdots & v_n \end{bmatrix}^\mathsf{T} \tag{Full SVD}
+$$
+
+$$
+A = \begin{bmatrix}u_1 & u_2 & \cdots & u_r \end{bmatrix} \begin{bmatrix}\sigma_1  \\ &  \ddots \\ & & \sigma_r \end{bmatrix} & \begin{bmatrix}v_1 & v_2 & \cdots & v_r \end{bmatrix}^\mathsf{T} \tag{Compact/Thin SVD}
+$$
 
 In the full SVD, rectangular diagonal matrix $\mathbf{\Sigma}$ containing the [[singular values|singular value]] and [[orthogonal matrices|orthogonal matrix]] $\mathbf{U}$ and $\mathbf{V}$. 
 
