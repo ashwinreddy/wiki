@@ -7,7 +7,7 @@ $$
 where $U$ contains the **left singular vectors**, $\Sigma$ has the [[singular values|singular value]], and $V$ contains the right singular vectors.
 
 $$
-A = \begin{bmatrix}u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1  \\ &  \ddots \\ & & \sigma_m \end{bmatrix} & \begin{bmatrix}v_1 & v_2 & \cdots & v_n \end{bmatrix}^\mathsf{T} \tag{Full SVD}
+\begin{bmatrix} u_1 & u_2 & \cdots & u_m \end{bmatrix} \begin{bmatrix}\sigma_1  \\ &  \ddots \\ & & \sigma_m \end{bmatrix} & \begin{bmatrix}v_1 & v_2 & \cdots & v_n \end{bmatrix}^\mathsf{T}
 $$
 
 $$
