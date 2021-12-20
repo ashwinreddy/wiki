@@ -1,7 +1,7 @@
 A **least-squares problem** is an [[optimization problem]] of the form
 
 $$
-\min \lVert Ax - b \rVert_2^2
+\min \lVert Ax - b \rVert_2^2 = \sum_{i=1}^k \left(a_i^\mathsf{T} x - b_i \right)^2
 $$
 
 where $A \in \RR^{k \times n}$ a tall matrix (i.e. $k \geqslant n$).
