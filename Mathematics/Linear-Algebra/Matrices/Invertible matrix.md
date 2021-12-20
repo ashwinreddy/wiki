@@ -18,5 +18,5 @@ An operational definition for an invertible matrix is one whose [[determinant]] 
 $$
 \begin{bmatrix}
 a & b \\ c & d
-\end{bmatrix}^{-1} = \frac{1}{\det } \begin{bmatrix} d & - b \\\\ -c & a\end{bmatrix}
+\end{bmatrix}^{-1} = \frac{1}{\det } \begin{bmatrix} d & - b \\ -c & a\end{bmatrix}
 $$
