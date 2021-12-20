@@ -14,7 +14,7 @@ $$
 
 
 \begin{equation}
-\delta(t) = \int_\RR e^{\iota 2\pi ft} \dd{f} = \frac{1}{2\pi}\int_\RR e^{j\omega t} \dd{\omega}\tag{Technical Formulation}
+\delta(t) = \int\limits_\RR e^{\iota 2\pi ft} \dd{f} = \frac{1}{2\pi}\int_\RR e^{j\omega t} \dd{\omega}\tag{Technical Formulation}
 \end{equation}
 
 
