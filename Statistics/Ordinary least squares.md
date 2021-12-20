@@ -1,14 +1,14 @@
 **Ordinary least squares (OLS)** finds the optimal parameters $\beta$ to a linear model $y = X\beta$ for [[design matrix]] $X$ by solving a [[least-squares problem]].
 
 \begin{gather\*}
-\hat\beta = \arg\min_\beta J(\beta) \\\\
+\hat\beta = \arg\min_\beta J(\beta) \\\\\
 J(\beta) = \lVert y - X\beta \rVert^2
 \end{gather\*}
 
 The closed form solution is
 
 $$
-\beta = (X\^\mathsf{T}X)\^{-1}X^\mathsf{T}y
+\beta = (X^\mathsf{T}X)^{-1}X^\mathsf{T}y
 $$
 
 To see it, hit both sides with $X^\mathsf{T}$:
