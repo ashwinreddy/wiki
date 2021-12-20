@@ -4,4 +4,8 @@ $$
 \min \lVert Ax - b \rVert_2^2 = \sum_{i=1}^k \left(a_i^\mathsf{T} x - b_i \right)^2
 $$
 
-where $A \in \RR^{k \times n}$ a tall matrix (i.e. $k \geqslant n$).
+where $A \in \RR^{k \times n}$ a tall matrix (i.e. $k \geqslant n$). The solution is given by
+
+$$
+\left(A^\mathsf{T}A\right)x = A^\mathsf{T}b
+$$
