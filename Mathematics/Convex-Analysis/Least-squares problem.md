@@ -4,4 +4,4 @@ $$
 \min \lVert Ax - b \rVert_2^2
 $$
 
-where $A \in \RR^{k \times n}$ with $k \geqslant n$
+where $A \in \RR^{k \times n}$ a tall matrix (i.e. $k \geqslant n$).
