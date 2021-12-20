@@ -1,7 +1,7 @@
-An **invertible matrix** is a [[square matrix]] $\mathbf{A}$ whose operation can be "undone", that is we can find an $\mathbf{A}^{-1}$ such that
+An **invertible matrix** is a [[square matrix]] $\mathbf{A} \in \RR^{n \times n}$ whose operation can be "undone", that is we can find an $\mathbf{A}^{-1}$ such that
 
 \begin{equation}
-\mathbf{A}\mathbf{A}^{-1}=\mathbf{A}^{-1}\mathbf{A} = \mathbf{I}
+\mathbf{A}\mathbf{A}^{-1}=\mathbf{A}^{-1}\mathbf{A} = \mathbf{I}_n
 \end{equation}
 
 with $I$ the [[identity matrix]]. An invertible matrix must then be one that loses no information, which can happen if columns/rows are linearly dependent. If a matrix is not invertible, it is singular. There are no other options.
