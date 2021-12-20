@@ -15,3 +15,5 @@ Therefore we have
 $$
 x = (A^\mathsf{T}A)^{-1}A^\mathsf{T}b
 $$
+
+This can be solved in $\order{n^2 k}$ time.
