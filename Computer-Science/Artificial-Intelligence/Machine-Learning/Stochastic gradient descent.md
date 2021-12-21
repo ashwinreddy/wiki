@@ -5,5 +5,6 @@
 Momentum averages past gradients to prevent certain pathological behavior (like what?)
 
 \begin{align\*}
+\pmb{v}^t = m \pmb{v}^{t-1} + \nabla L(\pmb{\theta}^t) \\\\
 \pmb{\theta}^{t+1} = \pmb{\theta}^t - \alpha \pmb{v}^t
 \end{align\*}
