@@ -1,1 +1,1 @@
-**Stochastic gradient descent** is [[gradient descent]] where we estimate the gradient using a batch, [[Monte Carlo method]].
+**Stochastic gradient descent** is [[Monte Carlo algorithm]] for [[gradient descent]] where we estimate the gradient using a minibatch of examples. If our dataset is $\mathcal{D}$, then at time $t$ we take a random minibatch $B^t \subseteq D$.
