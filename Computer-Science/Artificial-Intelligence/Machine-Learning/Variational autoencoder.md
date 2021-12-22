@@ -25,7 +25,7 @@ We want to do the following:
 
 # Variational Lower Bound
 
-This is the [[evidence lower bound]]
+We can use the [[evidence lower bound]].
 
 Consider the log-likelihood for our dataset
 
