@@ -23,4 +23,12 @@ We want to do the following:
 2. Infer the latent variable $\mathbf{z}$
 3. Marginal inference of $\mathbf{x}$ (what does this mean?)
 
+# Variational Lower Bound
+
+Consider the log-likelihood for our dataset
+
+$$
+\log p_{\theta}\left(\mathbf{x}^{(1)}, \dots, \mathbf{x}^{(N)} \right)
+$$
+
 ---
