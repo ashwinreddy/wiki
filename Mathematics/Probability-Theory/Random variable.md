@@ -6,4 +6,4 @@ A [[probability mass function]] (pmf) or [[probability density function]] (pdf).
 
 # Properties
 
-* If $X$ and $Y$ are r.v.'s then so is $X+Y$.
+* If $X$ and $Y$ are r.v.s then so is $X+Y$.
