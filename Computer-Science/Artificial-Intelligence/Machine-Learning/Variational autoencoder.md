@@ -31,6 +31,6 @@ $$
 \log p_{\pmb{\theta}}\left(\mathbf{x}^{(i)} \right) = D_{KL}\left(q_{\pmb{\phi}}\left(\mathbf{z} \mid \mathbf{x}^{(i)}\right) \middle\Vert\\, p_{\pmb{\theta}}\left(\mathbf{z} \mid \mathbf{x}^{(i)}\right) \right) + \mathcal{L}\left(\pmb{\theta}, \pmb{\phi}; \mathbf{x}^{(i)}\right)
 $$
 
-
+The goal is to optimize the second RHS term $\mathcal{L}$.
 
 ---
