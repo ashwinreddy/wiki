@@ -32,7 +32,7 @@ $$
 $$
 
 $$
-\left(\frac{\theta}{} \middle{|} \right)
+\left(\frac{\theta}{} \middle| \right)
 $$
 
 ---
