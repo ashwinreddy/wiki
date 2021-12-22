@@ -12,7 +12,7 @@ We also want to force the clusters to be near each other so that we can smoothly
 
 # Problem Setting
 
-We have a dataset $\pmb{X} = \\{\pmb{x}^{(i)} \\}_{i=1}^N$
+We have a dataset $\pmb{X} = \left\\{\pmb{x}^{(i)} \right\\}_{i=1}^N$
 
 
 ---
