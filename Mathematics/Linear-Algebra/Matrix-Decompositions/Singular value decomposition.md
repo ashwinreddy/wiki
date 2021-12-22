@@ -1,4 +1,4 @@
-The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposition]] for any $m \times n$ [[matrix]] $\mathbf{A}$ of [[rank]] $r$ into
+The **singular value decomposition (SVD)** is a (non-unique) [[matrix decomposition]] for any $m \times n$ [[matrix]] $\mathbf{A} \in \mathbb{C}^{m \times n}$ of [[rank]] $r$ into
 
 $$
 \mathbf{A} = \mathbf{U}\mathbf{\Sigma} \mathbf{V}^\mathsf{T}
