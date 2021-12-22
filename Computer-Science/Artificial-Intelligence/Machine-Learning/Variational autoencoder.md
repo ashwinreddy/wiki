@@ -10,8 +10,9 @@ We also want to force the clusters to be near each other so that we can smoothly
 
 [[https://miro.medium.com/max/1400/1*xCjoga9IPyNUSiz9E7ao7A.png|align=center, height=200px]]
 
+# Problem Setting
 
-The loss is the sum of reconstruction and variance loss.
+We have a dataset $\pmb{X} = \\{\pmb{x}^{(i)} \\}_{i=1}^N$
 
 
 ---
