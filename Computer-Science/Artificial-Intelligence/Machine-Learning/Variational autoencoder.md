@@ -32,7 +32,7 @@ $$
 $$
 
 $$
-\left(a \middle| \right)
+\left(\frac{\theta}{} \middle| \right)
 $$
 
 ---
