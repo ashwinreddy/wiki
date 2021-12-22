@@ -28,7 +28,7 @@ We want to do the following:
 Consider the log-likelihood for our dataset
 
 $$
-\log p_{\pmb{\theta}}\left(\mathbf{x}^{(i)} \right) = D_{KL}\left(q_{\pmb{\phi}}\left(\mathbf{z} \mid \mathbf{x}^{(i)}\right) \parallel p_{\pmb{\theta}}\left(\mathbf{z} \mid \mathbf{x}^{(i)}\right) \right)
+\log p_{\pmb{\theta}}\left(\mathbf{x}^{(i)} \right) = D_{KL}\left(q_{\pmb{\phi}}\left(\mathbf{z} \mid \mathbf{x}^{(i)}\right) \parallel p_{\pmb{\theta}}\left(\mathbf{z} \mid \mathbf{x}^{(i)}\right) \right) + \mathcal{L}\left(\pmb{\theta}, \pmb{\phi}; \mathbf{x}^{(i)}\right)
 $$
 
 ---
