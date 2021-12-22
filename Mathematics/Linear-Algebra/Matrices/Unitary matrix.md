@@ -1,5 +1,5 @@
-A **unitary matrix** is a complex [[square matrix]] $U$ if
+A **unitary matrix** is a complex [[square matrix]] $\mathbf{U}$ if
 
 \begin{equation}
-U^* U = UU^* = I
+\mathbf{U}^* \mathbf{U} = \mathbf{U}\mathbf{U}^* = \mathbf{I}
 \end{equation}
