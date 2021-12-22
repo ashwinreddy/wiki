@@ -28,7 +28,7 @@ We want to do the following:
 Consider the log-likelihood for our dataset
 
 $$
-\log p_{\pmb{\theta}}\left(\mathbf{x}^{(1)}, \dots, \mathbf{x}^{(N)} \right)
+\log p_{\pmb{\theta}}\left(\mathbf{x}^{(1)}, \dots, \mathbf{x}^{(N)} \right) = D_{KL}\left(q_(\pmb{\phi})(\mathbf{z} \mid \mathbf{x}^{(i)}) \right)
 $$
 
 ---
