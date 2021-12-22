@@ -32,7 +32,7 @@ $$
 $$
 
 $$
-\left(\frac{\theta}{} \middle\vert \right)
+\left(\frac{\theta}{} \middle\Vert \right)
 $$
 
 ---
