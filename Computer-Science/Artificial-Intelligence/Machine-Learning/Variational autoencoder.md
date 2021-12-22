@@ -17,5 +17,10 @@ We have a dataset $\mathbf{X} = \left\\{\mathbf{x}^{(i)} \right\\}_{i=1}^N$ of [
 1. Sample from the prior on a unobserved/latent variable $\mathbf{z}^{(i)} \sim p_{\theta^*}(\mathbf{z})$.
 2. Generate from the likelihood $\mathbf{x}^{(i)} \sim p_{\theta^*}(\mathbf{x} \mid \mathbf{z})$.
 
+We want to do the following:
+
+1. Estimate $\theta$
+2. Infer the latent variable $\mathbf{z}$
+3. Marginal inference of $\mathbf{x}$ (what does this mean?)
 
 ---
