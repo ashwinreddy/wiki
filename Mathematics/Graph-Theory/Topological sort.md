@@ -2,8 +2,10 @@ A **topological sort** takes a [[DAG|directed acyclic graph]] and outputs an ord
 
 [[https://assets.leetcode.com/users/images/63bd7ad6-403c-42f1-b8bb-2ea41e42af9a_1613794080.8115625.png]]
 
-# Algorithms
+You can either use Kahn's algorithm or do a [[depth-first search]].
 
-## Brute Force Search
+# Kahn's Algorithm
 
-Try all permutations of $V$ and return the first that is a topological sort. This takes $\order{n! \cdot m \cdot n}$
+```python
+
+```
