@@ -4,8 +4,3 @@ A **topological sort** takes a [[DAG|directed acyclic graph]] and outputs an ord
 
 You can either use Kahn's algorithm or do a [[depth-first search]].
 
-# Kahn's Algorithm
-
-```python
-
-```
