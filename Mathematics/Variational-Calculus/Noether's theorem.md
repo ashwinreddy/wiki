@@ -6,8 +6,8 @@ bibliography: "./Physics/physics.bib"
 
 |Translation Symmetry|Conservation Law|
 |--------------------|----------------|
-|Time|Energy|
+|Time|[[Energy]]|
 |Space translation|[[Momentum]]|
-|Rotation|Angular momentum|
+|Rotation|[[Angular momentum]]|
 
 ---
