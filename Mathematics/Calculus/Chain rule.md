@@ -2,6 +2,10 @@ The **chain rule** is an important rule in calculus that tells you how to take t
 
 # Single variable
 
+$$
+\require{physics}
+$$
+
 Formally,
 
 \begin{equation}
