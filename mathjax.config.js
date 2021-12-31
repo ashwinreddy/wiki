@@ -1,1 +1,10 @@
-console.log("this is mathjax.config.js");
+window.MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+
+console.log("new mathjax.js");
