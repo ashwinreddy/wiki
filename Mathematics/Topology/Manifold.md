@@ -1,6 +1,4 @@
-A **manifold** (abbr. mfd) is a [[topological space]] than can be [[charted|coordinate system]] into more familiar Cartesian space using an [[atlas]]. 
-
-> Manifolds can for the most part be thought of locally as open subsets of a Euclidean space $\RR^n$ in which one has the freedom to change coordinates as one desires.
+A **manifold** (abbr. mfd) is a [[topological space]] than can be [[charted|coordinate system]] into more familiar Cartesian space using an [[atlas]]. Think of them as locally open subsets of Euclidean space $\RR^n$ where you can change coordinates as you like.
 
 
 
