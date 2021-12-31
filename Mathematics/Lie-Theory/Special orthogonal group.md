@@ -7,4 +7,4 @@ The **special orthogonal group** $\operatorname{SO}(n)$ is the [[Lie group]] of 
 
 # Lie algebra
 
-The [[Lie algebra]] $\mathfrak{so}(n)$ for $\operatorname{SO}(n)$ is the space of $n \times n$ [[skew-symmetric matrix]]
+The [[Lie algebra]] $\mathfrak{so}(n)$ for $\operatorname{SO}(n)$ is the space of $n \times n$ [[skew-symmetric matrices|skew-symmetric matrix]].
