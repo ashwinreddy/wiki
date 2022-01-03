@@ -1,4 +1,4 @@
-The **covariance matrix** is a [[square matrix]] for a [[random vector]] $\pmb{X} \in \RR^n$ records the [[covariance]] of each pair of elements in the vector.
+The **covariance matrix** is a [[square matrix]] for a [[random vector]] $\mathbf{X} \in \RR^n$ records the [[covariance]] of each pair of elements in the vector.
 
 \begin{align\*}
 \Sigma &= \mathbb{E}\left[\left(\mathbf{X}-\mu_\mathbf{X}\right)\left(\mathbf{X}-\mu_\mathbf{X}\right)^\mathsf{T}\right] \\\\
