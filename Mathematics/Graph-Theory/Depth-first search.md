@@ -28,7 +28,7 @@ def explore(G, v):
     postvisit(v)
 ```
 
-```
+```python
 from collections import defaultdict
 
 sort = []
