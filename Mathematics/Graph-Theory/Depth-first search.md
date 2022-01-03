@@ -28,6 +28,41 @@ def explore(G, v):
     postvisit(v)
 ```
 
+```
+from collections import defaultdict
+
+sort = []
+
+class Graph:
+    def __init__(self):
+        self.graph = defaultdict(list)
+        self.nodes = set()
+    
+    def addEdge(self, u, v):
+        self.nodes.add(u)
+        self.nodes.add(v)
+        self.graph[u].append(v)
+
+    def depthFirstSearch(self, node):
+        visited = {node: False for node in self.nodes}
+        self.dfsUtil(node, visited)
+    
+    def dfsUtil(self, node, visited):
+        visited[node] = True
+        print(node)
+        for neighbor in self.graph[node]:
+            if not visited[neighbor]:
+                self.dfsUtil(neighbor, visited)
+
+
+g = Graph()
+g.addEdge("Intro to CS", "Data Structures")
+g.addEdge("Data Structures", "Machine Structures")
+g.addEdge("Discrete Math", "Data Structures")
+
+g.depthFirstSearch("Intro to CS")
+```
+
 # Runtime
 
 The runtime is $\order{|V| + |E|}$, linear in the size of the input.
