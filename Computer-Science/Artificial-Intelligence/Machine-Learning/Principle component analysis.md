@@ -12,7 +12,7 @@ The technique relies on [[diagonalization|diagonalizable matrix]].
 Consider $\mathbf{\Sigma} = \bar{\mathbf{X}}^\mathsf{T}\bar{\mathbf{X}} \in \RR^{d \times d}$ and do an [[eigendecomposition]] on it:
 
 $$
-\bar{X}^\mathsf{T}\bar{X} = \Sigma = QDQ^\mathsf{T}
+\bar{\mathbf{X}}^\mathsf{T}\bar{\mathbf{X}} = \Sigma = QDQ^\mathsf{T}
 $$
 
 Principal axes
