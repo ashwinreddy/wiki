@@ -9,7 +9,7 @@ The technique relies on [[diagonalization|diagonalizable matrix]].
 1. Center the data by subtracting the mean. Call this $\bar{\mathbf{X}}$. $$\bar{\mathbf{X}} = \mathbf{X} - \begin{bmatrix} \bar{x}_1 & \dots & \bar{x}_d \end{bmatrix}$$
 
 
-Consider $\mathbf{\Sigma} = \bar{X}^\mathsf{T}\bar{X} \in \RR^{d \times d}$ and do an [[eigendecomposition]] on it:
+Consider $\mathbf{\Sigma} = \bar{\mathbf{X}}^\mathsf{T}\bar{\mathbf{X}} \in \RR^{d \times d}$ and do an [[eigendecomposition]] on it:
 
 $$
 \bar{X}^\mathsf{T}\bar{X} = \Sigma = QDQ^\mathsf{T}
