@@ -29,7 +29,7 @@ $$
 We can expand back by doing
 
 \begin{equation*}
-\bar{X}_{\mathsf{reconstruction}} = \bar{X}_k Q_k^\mathsf{T} \tag{Reconstruction}
+\bar{\mathbf{X}}_{\mathsf{reconstruction}} = \bar{\mathbf{X}}_k \mathbf{Q}_k^\mathsf{T} \tag{Reconstruction}
 \end{equation*}
 
 # Misc
