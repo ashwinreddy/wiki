@@ -9,4 +9,4 @@ Thus, $\Sigma_{ii}$ is the [[variance]] of $X_i$.
 
 # Properties
 
-* Covariance matrix is always [[positive semidefinite matrix]].
+* Covariance matrix is always [[PSD|positive semidefinite matrix]].
