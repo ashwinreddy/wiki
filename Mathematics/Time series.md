@@ -1,0 +1,1 @@
+**Time series** is a series of data points indexed by time.
