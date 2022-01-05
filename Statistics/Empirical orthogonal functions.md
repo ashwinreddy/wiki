@@ -1,1 +1,1 @@
-**Empirical orthogonal functions** is the jargon oceanographers/atmospheric scientists use for [[principal components analysis]] with time series data.
+**Empirical orthogonal functions** is the jargon oceanographers/atmospheric scientists use for [[PCA|principal component analysis]] with time series data.
