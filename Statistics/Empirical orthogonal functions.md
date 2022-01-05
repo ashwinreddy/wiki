@@ -1,1 +1,3 @@
-**Empirical orthogonal functions (EOF(** is the jargon oceanographers/atmospheric scientists use for [[PCA|principle component analysis]] with [[time series]] data.
+**Empirical orthogonal functions (EOF)** is the jargon oceanographers/atmospheric scientists use for [[PCA|principle component analysis]] with [[time series]] or spatial data, i.e. extracting coherent variations in the data. EOF will produce just a few sets of new time series data from a much larger group, given that the originals are relatively coherent with each other.
+
+The simplest analysis is to compute eigenvectors and eigenvalues from the covariance matrix of the original time series data. This works well if there's no time lag.
