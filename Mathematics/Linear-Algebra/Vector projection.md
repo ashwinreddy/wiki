@@ -10,5 +10,5 @@ a_1 = \lVert a \rVert \cos\theta = \frac{ \langle \mathbf{a}, \mathbf{b} \rangle
 $$
 
 $$
-\mathbf{a}_1 = a_1 \frac{\mathbf{b}}{\lVert \mathbf{b} \rVert}
+\mathbf{a}_1 = a_1 \frac{\mathbf{b}}{\lVert \mathbf{b} \rVert} = \frac{ \langle \mathbf{a}, \mathbf{b} \rangle  }{ \langle \mathbf{b}, \mathbf{b} \rangle } \mathbf{b}
 $$
