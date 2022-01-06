@@ -7,5 +7,5 @@ $$
 The cost function is
 
 $$
-\sum_{i=1}^n  \ell(y_i, \hat{y}_i) + \sum_{k=1}^K \Omega(f_k)
+\sum\_{i=1}^n  \ell(y_i, \hat{y}_i) + \sum_{k=1}^K \Omega(f_k)
 $$
