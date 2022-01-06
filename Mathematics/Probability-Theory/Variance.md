@@ -16,9 +16,7 @@ The **variance** of a [[random variable]] $X$ is a measure of spread by seeing o
 
 * $$\mathbb{V}[\alpha X] = \alpha^2 \mathbb{V}[X].$$ In particular, this means that $\mathbb{V}[-X] = \mathbb{V}[X]$.
 
-$$
-\mathbb{V}[c + X] = \mathbb{V}[X]
-$$
+* $\mathbb{V}[c + X] = \mathbb{V}[X]$
 
 $$
 \Pr(X = 0) \leqslant \frac{\mathbb{V}(X)}{(\mathbb{E}X)^2}
