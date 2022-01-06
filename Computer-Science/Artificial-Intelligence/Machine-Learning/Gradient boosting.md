@@ -13,5 +13,5 @@ $$
 The cost function is
 
 $$
-\mathsf{objective}^{(t)} = \sum_{i=1}^n  \ell(y_i, \hat{y}\_i) + \sum_{k=1}^K \Omega(f_k)
+\mathsf{objective}^{(t)} = \sum_{i=1}^n  \ell(y_i, \hat{y}\_i^{(t-1)} + f_t(x_i) ) + \Omega(f_t)
 $$
