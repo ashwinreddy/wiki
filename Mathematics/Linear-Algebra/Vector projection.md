@@ -3,6 +3,8 @@ The **vector projection** of a [[vector]] $\mathbf{a}$ onto a vector $\mathbf{b}
 
 [[https://upload.wikimedia.org/wikipedia/commons/9/98/Projection_and_rejection.png|align=center,height=200px]]
 
+Using property of [[dot product]],
+
 $$
 a_1 = \lVert a \rVert \cos\theta = \frac{ \langle \mathbf{a}, \mathbf{b} \rangle }{ \lVert \mathbf{b} \rVert }
 $$
