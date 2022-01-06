@@ -1,17 +1,9 @@
 The **variance** of a [[random variable]] $X$ is a measure of spread by seeing on average how far away $X$ is from its mean or [[expected value]] $\mu_X = \mathbb{E}[X]$. 
 
-$$
-\mathbb{V}[X] \doteq \mathbb{E}\left[\left(X - \mu_X\right)^2\right]
-$$
-
-
-# Computation
-
-Computationally, it is more convenient to write
-
-$$
-\mathbb{V}[X] = \mathbb{E}\left[X^2\right] - \mu_X^2
-$$
+\begin{align\*}
+\mathbb{V}[X] \doteq \mathbb{E}\left[\left(X - \mu_X\right)^2\right] \\\\
+&= \mathbb{E}\left[X^2\right] - \mu_X^2
+\end{align\*}
 
 # Covariance
 
