@@ -4,7 +4,7 @@ The **vector projection** of a [[vector]] $\mathbf{a}$ onto a vector $\mathbf{b}
 [[https://upload.wikimedia.org/wikipedia/commons/9/98/Projection_and_rejection.png|align=center,height=200px]]
 
 $$
-a_1 = \lVert a \rVert \cos\theta
+a_1 = \lVert a \rVert \cos\theta = \frac{ \langle a, b \rangle }{ \lVert b \rVert }
 $$
 
 $$
