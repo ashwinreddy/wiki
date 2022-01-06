@@ -1,1 +1,1 @@
-**Gradient boosting** uses [[gradient descent]] on [[decision tree|decision tree learning]].
+**Gradient boosting** is a technique for [[supervised learning]] that uses [[gradient descent]] on [[decision tree|decision tree learning]].
