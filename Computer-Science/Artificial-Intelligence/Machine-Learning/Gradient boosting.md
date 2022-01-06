@@ -13,6 +13,6 @@ $$
 The cost function is
 
 $$
-\begin{split}\text{obj}^{(t)} & = \sum_{i=1}^n l(y_i, \hat{y}\_i^{(t)}) + \sum_{i=1}^t\Omega(f_i) \\\\
-          & = \sum_{i=1}^n l(y_i, \hat{y}_i^{(t-1)} + f_t(x_i)) + \Omega(f_t) + \mathrm{constant}\end{split}
+\begin{split}\mathsf{obj}^{(t)} & = \sum_{i=1}^n \ell(y_i, \hat{y}\_i^{(t)}) + \sum_{i=1}^t\Omega(f_i) \\\\
+          & = \sum_{i=1}^n \ell(y_i, \hat{y}_i^{(t-1)} + f_t(x_i)) + \Omega(f_t) + \mathrm{constant}\end{split}
 $$
