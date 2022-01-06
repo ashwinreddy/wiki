@@ -3,3 +3,9 @@
 $$
 \hat{y}\_i = \sum_{k=1}^K f_k(x_i)
 $$
+
+The cost function is
+
+$$
+\sum_{i} \ell(y_i, \hat{y}_i)
+$$
