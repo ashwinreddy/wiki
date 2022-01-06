@@ -9,3 +9,9 @@ The cost function is
 $$
 \sum_{i=1}^n  \ell(y_i, \hat{y}\_i) + \sum_{k=1}^K \Omega(f_k)
 $$
+
+It is intractable to learn all trees at once, so we do **additive learning**, in which we add one tree at a time. So the prediction after $t$ timesteps of introducing trees is
+
+$$
+\hat{y}_i^{(t)} = \hat{y}_i^{(t-1)} + f_t(x_i)
+$$
