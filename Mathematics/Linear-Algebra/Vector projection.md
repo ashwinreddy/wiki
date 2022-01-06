@@ -6,3 +6,7 @@ The **vector projection** of a [[vector]] $\mathbf{a}$ onto a vector $\mathbf{b}
 $$
 a_1 = \lVert a \rVert \cos\theta
 $$
+
+$$
+\mathbf{a}_1 = a_1 \frac{\mathbf{b}}{\lVert \mathbf{b} \rVert}
+$$
