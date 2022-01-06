@@ -7,20 +7,18 @@ The **variance** of a [[random variable]] $X$ is a measure of spread by seeing o
 
 # Covariance
 
-Variance is the [[covariance]] of a variable with itself.
 
-$$
-\mathbb{V}[X] = \operatorname{cov}(X, X)
-$$
 
-\begin{equation}
-\mathbb{V}[X + Y] = \mathbb{V}[X] + 2\operatorname{cov}(X, Y) + \mathbb{V}[Y]
-\end{equation}
+
 
 So that if $X$ and $Y$ are independent, the variance of sums is the sum of variances.
 
 
 # Properties
+
+* Variance is the [[covariance]] of a variable with itself: $\mathbb{V}[X] = \operatorname{cov}(X, X)$
+
+* \begin{equation}\mathbb{V}[X + Y] = \mathbb{V}[X] + 2\operatorname{cov}(X, Y) + \mathbb{V}[Y]\end{equation}
 
 * A variance is always non-negative: $$\mathbb{V}[X] \geqslant 0$$
 
