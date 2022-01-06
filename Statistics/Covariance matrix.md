@@ -1,7 +1,7 @@
 The **covariance matrix** is a [[square matrix]] for a [[random vector]] $\mathbf{X} \in \RR^n$ records the [[covariance]] of each pair of elements in the vector.
 
 \begin{align\*}
-\mathbf{\Sigma} &= \mathbb{E}\left[\left(\mathbf{X}-\mu_\mathbf{X}\right)\left(\mathbf{X}-\mu_\mathbf{X}\right)^\mathsf{T}\right] \\\\
+\mathbf{\Sigma} &= \mathbb{E}\left[\left(\mathbf{X}-\pmb{\mu}_\mathbf{X}\right)\left(\mathbf{X}-\pmb{mu}_\mathbf{X}\right)^\mathsf{T}\right] \\\\
 &= \mathbb{E}\left[ \mathbf{X}\mathbf{X}^\mathsf{T} \right] - \pmb{\mu}\pmb{\mu}^\mathsf{T}
 \end{align\*}
 
