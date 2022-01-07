@@ -1,4 +1,4 @@
-The **gradient** of a function can be a sloppy term.
+The **gradient** of a [[function]] can mean many things depending on the type of input and output:
 
 |Input/Output |Scalar|Vector|Matrix
 |--|-----|------|------|
