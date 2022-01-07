@@ -1,0 +1,1 @@
+**Carnot's theorem** says that no heat engine $E$ can be more efficient than a reversible one $R$ with the same upper and lower temperatures.
