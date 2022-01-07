@@ -18,8 +18,6 @@ $$
 \operatorname{grad} f \doteq \left( \dd{f} \right)^\sharp
 $$
 
-The gradient collapses to the [[derivative]] for a $f: \RR \to \RR$ function.
-
 # Examples
 
 An [[inner product]] against a fixed vector is a function that takes a vector and returns a scalar:
