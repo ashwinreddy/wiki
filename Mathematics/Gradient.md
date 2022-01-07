@@ -2,8 +2,8 @@ The **gradient** of a [[function]] can mean many things depending on the type of
 
 |Input/Output |Scalar|Vector|Matrix
 |--|-----|------|------|
-|**Scalar**|[[Derivative]]|[[Gradient]]|?|
-|**Vector**|Vector derivative|[[Jacobian]]|?|
+|**Scalar**|[[Derivative]]|Vector derivative|?|
+|**Vector**|[[Gradient]]|[[Jacobian]]|?|
 |**Matrix**|?|?|?|
 
 
