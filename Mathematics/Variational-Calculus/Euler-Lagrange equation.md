@@ -7,4 +7,4 @@ The **Euler-Lagrange equation** gives a necessary and sufficient condition for a
 
 # Proof
 
-Let $\bar{\mathbf{x}}(t)$ be the minimizing patha and $\eta(t)$ be a small variation.
+Let $\bar{\mathbf{x}}(t)$ be the minimizing path and $\eta(t)$ be a small variation.
