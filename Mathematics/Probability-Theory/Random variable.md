@@ -2,7 +2,9 @@ A **random variable (RV / r.v. / R.V.)** is a [[function]] of an experiment. To 
 
 A [[probability mass function]] (pmf) or [[probability density function]] (pdf). 
 
+# Technical Details
 
+An r.v. is a map $f: \Omega \to \RR$ such that $f^{-1}(B) \in \Sigma$.
 
 # Properties
 
