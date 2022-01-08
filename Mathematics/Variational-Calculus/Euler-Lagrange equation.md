@@ -8,3 +8,7 @@ The **Euler-Lagrange equation** gives a necessary and sufficient condition for a
 # Proof
 
 Let $\bar{\mathbf{x}}(t)$ be the minimizing path and $\eta(t)$ be the difference so that $\mathbf{x}(t) = \bar{\mathbf{x}}(t) + \pmb{\eta}(t)$. Then
+
+$$
+F[\bar{\mathbf{x}}]
+$$
