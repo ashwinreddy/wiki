@@ -1,7 +1,7 @@
 **Linear regression** is finding the parameters to a linear model for some data.
 
 $$
-y = ax + b
+y_n = \beta x_n + \alpha + \epsilon_n
 $$
 
 We can use [[ordinary least squares]] to find a solution. It corresponds to 
