@@ -1,4 +1,4 @@
-A **coordinate system** or **chart** on a [[manifold]] $M$ is a pair $(U, \varphi)$ where $U$ is an [[open subset|open set]] in $M$ known as the **coordinate domain** and $\varphi$ is the **(local) coordinate map**, a [[homeomorphism]] to Cartesian space.[^order]
+A **coordinate system** / **chart** on a [[manifold]] $M$ is a pair $(U, \varphi)$ where $U$ is an [[open subset|open set]] in $M$ known as the **coordinate domain** and $\varphi$ is the **(local) coordinate map**, a [[homeomorphism]] to Cartesian space.[^order]
 
 \begin{align}
 \varphi: U &\to V \subseteq \RR^n \\\\\
