@@ -11,7 +11,7 @@ x &\mapsto \begin{bmatrix} \varphi_1(x) \\\\\ \vdots \\\\ \varphi_n(x) \end{bmat
 |$U$|open subset of $M$ |**coordinate domain** / **coordinate neighborhood**|
 |$\varphi$|[[homeomorphism]] $U \to \hat{U} \subseteq \RR^n$|**(local) coordinate map**|
 
-_Example_. If $M$ is the Earth, then $\varphi(\text{Paris})$ might be $\begin{bmatrix} \mathsf{Latitude}(\text{Paris}) \\\\\ \mathsf{Longitude}(\text{Paris})\end{bmatrix}$
+_Example_. If $M$ is the Earth, then $\varphi(\text{Paris})$ might be $\begin{bmatrix} \mathsf{Latitude}(\text{Paris}) \\\\\ \mathsf{Longitude}(\text{Paris})\end{bmatrix}$. 
 
 
 If $\varphi(p)=0$, the chart is **centered at $p$**.
