@@ -1,8 +1,9 @@
 A **coordinate system** / **chart** on a [[manifold]] $M$ is a pair $(U, \varphi)$.
 
-|   |      |
-|---|--------------------------|
-|$U$|**coordinate domain** / **coordinate neighborhood**|
+|   |   |   |
+|---|---|----------------------|
+|$U$|open subset of $M$ |**coordinate domain** / **coordinate neighborhood**|
+|$\varphi$|[[homeomorphism]] $U \to \hat{U} \subseteq \RR^n$|
 
 
 where $U$ is an [[open subset|open set]] in $M$ known as the **coordinate domain** and $\varphi$ is the **(local) coordinate map**, a [[homeomorphism]] to Cartesian space.[^order]
