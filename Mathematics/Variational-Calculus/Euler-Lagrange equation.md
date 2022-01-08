@@ -2,5 +2,5 @@ The **Euler-Lagrange equation** gives a necessary and sufficient condition for a
 
 
 $$
-\frac{\dd{}}{\dd{t}}\frac{\partial f}{\partial \dot{\mathbf{x}}} - \pderiv{f}{\mathbf{x}} = 0
+\frac{\dd{}}{\dd{t}}\frac{\partial f}{\partial \dot{\mathbf{x}}} - \frac{\partial f}{\partial \mathbf{x}} = 0
 $$
