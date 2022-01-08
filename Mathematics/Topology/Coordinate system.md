@@ -1,6 +1,6 @@
 A **coordinate system** / **chart** on a [[manifold]] $M$ is a pair $(U, \varphi)$.
 
-|   |   |   |
+|Object|Type|Name|
 |---|---|----------------------|
 |$U$|open subset of $M$ |**coordinate domain** / **coordinate neighborhood**|
 |$\varphi$|[[homeomorphism]] $U \to \hat{U} \subseteq \RR^n$|**(local) coordinate map**|
