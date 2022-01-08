@@ -1,5 +1,6 @@
 A **coordinate system** / **chart** on a [[manifold]] $M$ is a pair $(U, \varphi)$.
 
+|   |      |
 |---|--------------------------|
 |$U$|**coordinate domain** / **coordinate neighborhood**|
 
