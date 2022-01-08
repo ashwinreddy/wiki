@@ -1,11 +1,6 @@
-The **Euler-Lagrange equation** says that the [[integral]]
+The **Euler-Lagrange equation** gives a necessary and sufficient condition for a path minimizing a functional of the form
 
 $$
-J = \int f(t, y, \dot{y}) \dd{t},
+F[\mathbf{x}] = \int_{t_1}^{t_2} f(\mathbf{x}, \dot{\mathbf{x}}, t) \dd{t}
 $$
 
-has stationary value when
-
-$$
-\pdv{f}{y} = \dv{}{t}\left(\pdv{f}{\dot{y}}\right)
-$$
