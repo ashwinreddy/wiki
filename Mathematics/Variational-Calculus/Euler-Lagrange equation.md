@@ -7,4 +7,4 @@ The **Euler-Lagrange equation** gives a necessary and sufficient condition for a
 
 # Proof
 
-Let $\bar{\mathbf{x}}(t)$ be the minimizing path and $\eta(t)$ be the difference so that $\mathbf{x}(t) = \bar\mathbf{x}(t) + \eta(t)$. Then
+Let $\bar{\mathbf{x}}(t)$ be the minimizing path and $\eta(t)$ be the difference so that $\mathbf{x}(t) = \bar{\mathbf{x}}(t) + \eta(t)$. Then
