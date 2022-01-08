@@ -4,7 +4,7 @@ A [[probability mass function]] (pmf) or [[probability density function]] (pdf).
 
 # Technical Details
 
-An r.v. is a map $f: \Omega \to \RR$ such that $f^{-1}(B) \in \mathcal{F} for every Borel set $B \subset \RR$.
+An r.v. is a map $f: \Omega \to \RR$ such that $f^{-1}(B) \in \mathcal{F}$ for every Borel set $B \subset \RR$.
 
 # Properties
 
