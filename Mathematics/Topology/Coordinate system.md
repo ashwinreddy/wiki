@@ -5,7 +5,7 @@ A **coordinate system** / **chart** on a [[manifold]] $M$ is a pair $(U, \varphi
 |$U$|open subset of $M$ |**coordinate domain** / **coordinate neighborhood**|
 |$\varphi$|[[homeomorphism]] $U \to \hat{U} \subseteq \RR^n$|**(local) coordinate map**|
 
-_Example_. If $M$ is the Earth, then $\varphi(\text{Paris}) = \begin{bmatrix} \mathsf{Latitude}(\text{Paris}) \\\\\ \mathsf{Longitude}(\text{Paris})\end{bmatrix}$
+_Example_. If $M$ is the Earth, then $\varphi(\text{Paris})$ might be $\begin{bmatrix} \mathsf{Latitude}(\text{Paris}) \\\\\ \mathsf{Longitude}(\text{Paris})\end{bmatrix}$
 
 \begin{align}
 \varphi: U &\to \hat{U} \subseteq \RR^n \\\\\
