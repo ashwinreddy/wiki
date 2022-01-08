@@ -7,8 +7,8 @@ $$
 We can use [[ordinary least squares]] to find a solution. It corresponds to 
 
 \begin{align}
-a &= \frac{S_{xy}}{S_{xx}} \\\\
-b &= \bar{y} - \bar{x}a
+\beta &= \frac{S_{xy}}{S_{xx}} \\\\
+\alpha &= \bar{y} - \bar{x}a
 \end{align}
 
 where $S_{xy} = \sum_{i=1}^n (x - \bar{x})(y - \bar{y})$ and $S_{yy}$ and $S_{xx}$ are defined correspondingly.
