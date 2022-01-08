@@ -1,5 +1,11 @@
 A **coordinate system** / **chart** on a [[manifold]] $M$ is a pair $(U, \varphi)$.
 
+
+\begin{align}
+\varphi: U &\to \hat{U} \subseteq \RR^n \\\\\
+x &\mapsto \begin{bmatrix} \varphi_1(x) \\\\\ \vdots \\\\ \varphi_n(x) \end{bmatrix}
+\end{align}
+
 |Object|Type|Name|
 |---|---|----------------------|
 |$U$|open subset of $M$ |**coordinate domain** / **coordinate neighborhood**|
@@ -7,10 +13,6 @@ A **coordinate system** / **chart** on a [[manifold]] $M$ is a pair $(U, \varphi
 
 _Example_. If $M$ is the Earth, then $\varphi(\text{Paris})$ might be $\begin{bmatrix} \mathsf{Latitude}(\text{Paris}) \\\\\ \mathsf{Longitude}(\text{Paris})\end{bmatrix}$
 
-\begin{align}
-\varphi: U &\to \hat{U} \subseteq \RR^n \\\\\
-x &\mapsto \begin{bmatrix} \varphi_1(x) \\\\\ \vdots \\\\ \varphi_n(x) \end{bmatrix}
-\end{align}
 
 If $\varphi(p)=0$, the chart is **centered at $p$**.
 
