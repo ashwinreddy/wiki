@@ -13,7 +13,3 @@ This is the home page of my wiki! There's lots of topics to explore:
 [[Bibliography]]
 
 [[Resources]]
-
----
-
-[[include:Wiki Philosophy]]
