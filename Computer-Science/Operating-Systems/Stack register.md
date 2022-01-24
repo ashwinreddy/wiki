@@ -1,0 +1,1 @@
+The **stack register** is a [[register]]
