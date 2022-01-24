@@ -1,0 +1,1 @@
+**Stack-based memory allocation** uses a [[stack]] for memory.
