@@ -1,1 +1,1 @@
-The **stack register** is a [[register]]
+The **stack register** is a [[register]] that tracks the call stack.
