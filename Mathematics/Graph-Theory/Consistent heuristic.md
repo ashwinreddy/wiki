@@ -1,0 +1,1 @@
+A **consistent heuristic** is stronger condition than an [[admissible heuristic]].
