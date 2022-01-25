@@ -1,5 +1,5 @@
 **A\* search algorithm** is similar to [[Dijkstra's algorithm]]
 
 $$
-f(n) = g(n) + \mathsf{Heuristic}(n)
+\mathsf{Total Cost Estimate}(n) = g(n) + \mathsf{Heuristic}(n)
 $$
