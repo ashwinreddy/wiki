@@ -1,1 +1,1 @@
-**A\* search algorithm** is a [[graph search]]
+**A\* search algorithm** is similar to [[Dijkstra's algorithm]]
