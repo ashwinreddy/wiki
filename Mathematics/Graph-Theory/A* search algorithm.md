@@ -1,3 +1,5 @@
 **A\* search algorithm** is a pathfinding algorithm for a [[graph]]. The idea is to expand a node $n$ that is most likely to be an optimal path. To wit, if we had a function $h^\star(n)$ which yields the optimal cost from $n$ to the closest goal, then we would expand the $n$ with the lowest $f(n) = g(n) + h^\star(n)$ where $g(n)$ is the cost from root to $n$.
 
+In most cases, we use an approximation [[heuristic]] $h(n)$
+
 In short, A* is tree search with a priority queue ordered by $f(n)$.
