@@ -7,4 +7,4 @@
 - enlarged brains
 
 
-There are two major schools of thought about where primates initially evolved, based on the initial supercontinents of Laurasia (North America, Asia) and Gondwana (Africa, South America, Antarctica, Australia, India, Pakistan, Madigascar).
+There are two major schools of thought about where primates initially evolved, based on the initial supercontinents of Laurasia (North America, Asia) and Gondwana (Africa, South America, Antarctica, Australia, India, Pakistan, Madigascar). But it remains to be seen.
