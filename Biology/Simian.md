@@ -1,1 +1,1 @@
-**Simians / anthropoids** include humans.
+**Simians / anthropoids** include humans. The fossil evidence suggests that the first anthropoids were tiny creatures that evolved in Africa or more likely Asia at least 60 millions years ago.
