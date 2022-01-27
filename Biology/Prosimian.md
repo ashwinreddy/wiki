@@ -1,1 +1,1 @@
-**Prosimians** are a taxa of [[primates|primate]].
+**Prosimians** are a taxa of [[primates|primate]]. Most prosimians live in Madagascar. They have whiskers and generally larger snouts than anthropoids.
