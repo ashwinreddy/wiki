@@ -1,0 +1,1 @@
+The **thalamus** is a part of the brain.
