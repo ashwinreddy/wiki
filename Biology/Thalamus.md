@@ -1,1 +1,1 @@
-The **thalamus** is a part of the brain.
+The **thalamus** (Greek for chamber) is a part of the brain.
