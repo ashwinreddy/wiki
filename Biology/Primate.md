@@ -8,3 +8,12 @@
 
 
 There are two major schools of thought about where primates initially evolved, based on the initial supercontinents of Laurasia (North America, Asia) and Gondwana (Africa, South America, Antarctica, Australia, India, Pakistan, Madigascar). But it remains to be seen.
+
+Why did they evolve? 
+
+Arboreal theory
+: Primates lost olfaction and gained sight and grasping because that's what's important for living in trees
+
+Visual Predation hypothesis
+: Grasping and vision are needed to eat insects
+
