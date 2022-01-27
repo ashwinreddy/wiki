@@ -1,1 +1,1 @@
-The **Cambrian Explosion**
+The **Cambrian Explosion** refers to a period of time with an extraordinary fossil record of life. 
