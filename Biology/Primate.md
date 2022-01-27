@@ -20,3 +20,5 @@ Why did they evolve?
 - [[Angiosperm|Flowering plant]]/Omnivore Hypothesis
 : Grasping and vision are needed to eat fruit
 
+- Camouflage-breaking hypothesis
+: Vision is needed to find fruit hiding in camouflage.
