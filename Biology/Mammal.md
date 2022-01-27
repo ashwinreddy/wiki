@@ -1,1 +1,1 @@
-**Mammals** are [[vertebrate|vertebrates]] in which the females produce milk.
+**Mammals** are [[vertebrates|vertebrate]] in which the females produce milk.
