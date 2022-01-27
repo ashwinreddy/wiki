@@ -17,3 +17,5 @@ Arboreal theory
 Visual Predation hypothesis
 : Grasping and vision are needed to eat insects
 
+Angiosperm/Omnivore Hypothesis
+: Grasping and vision are needed to eat fruit
