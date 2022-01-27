@@ -11,11 +11,12 @@ There are two major schools of thought about where primates initially evolved, b
 
 Why did they evolve? 
 
-Arboreal theory
+- Arboreal theory
 : Primates lost olfaction and gained sight and grasping because that's what's important for living in trees
 
-Visual Predation hypothesis
+- Visual Predation hypothesis
 : Grasping and vision are needed to eat insects
 
-[[Angiosperm|Flowering plant]]/Omnivore Hypothesis
+- [[Angiosperm|Flowering plant]]/Omnivore Hypothesis
 : Grasping and vision are needed to eat fruit
+
