@@ -1,1 +1,1 @@
-**Primates** are mammals. 
+**Primates** are [[mammals|mammal]. 
