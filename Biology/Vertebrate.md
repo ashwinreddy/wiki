@@ -1,1 +1,1 @@
-**Vertebrates** are chordates with backbones.
+**Vertebrates** are chordates with a spine/backbones.
