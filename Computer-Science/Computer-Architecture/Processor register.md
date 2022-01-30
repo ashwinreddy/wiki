@@ -1,6 +1,6 @@
 **Processor register**.
 
-# x86 32-bit General Purpose Registers
+# x86 32-bit Registers
 
 |Register|Description|
 |--------|-----------|
@@ -12,3 +12,5 @@
 |EDI|Destination|
 |ESP|Stack Pointer|
 |EBP|Stack Base Pointer|
+
+EIP for instruction pointer.
