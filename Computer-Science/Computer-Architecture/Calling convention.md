@@ -33,7 +33,7 @@ addi sp, sp, 8
 
 For a 32-bit 80x86 implementation of Unix, the convention is
 
-1. The caller pushes each of the function's arguments one by one (left-to-right) on the [[stack]] using push. The stack grows downward 
+1. The caller pushes each of the function's arguments one by one (right-to-left) on the [[stack]] using push. The stack grows downward 
 2. The caller pushes the address of its next instruction (the return address) on the stack and jumps to the first instruction of the callee. A single 80x86 instruction `call` does both.
 3. The callee executes. When it takes control, the stack pointer points to the return address, the first argument is just above it, the second argument is just above the first argument, and so on.
 4. If the callee has a return value, it stores it into `eax`
