@@ -28,3 +28,10 @@ lw ra 0(sp)
 lw s0 4(sp)
 addi sp, sp, 8
 ```
+
+# 80x86 Calling Convention
+
+For a 32-bit 80x86 implementation of Unix, the convention is
+
+1. The caller pushes each of the function's arguments one by one (left-to-right) on the [[stack]] using push. The stack grows downward 
+2. The caller pushes the address of its next instruction (the return address) on the stack and jumps to the first instruction of the callee. A single 80x86 instruction `call` does both.
