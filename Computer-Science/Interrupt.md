@@ -1,1 +1,1 @@
-An **interrupt** asks the OS to notify us when a device has data. The OS will copy data into memory for us. Compared to polling, interrupts are better when the data is sparse.
+An **interrupt** requests that the processor stop executing the current process.
