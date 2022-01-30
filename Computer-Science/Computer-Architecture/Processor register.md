@@ -2,7 +2,8 @@
 
 # x86 32-bit Registers
 
-|Register|Description|
+General Purpose Registers
+: |Register|Description|
 |--------|-----------|
 |EAX|Accumulator|
 |EBX|Base|
