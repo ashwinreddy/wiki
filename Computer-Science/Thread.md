@@ -1,4 +1,7 @@
-A **thread** is a single unique execution context. A thread is _executing_ on a processor when it is _resident_ in the [[processor register]]
+A **thread** is a single unique execution context. A thread is _executing_ on a processor when it is _resident_ in the [[processor register]].
+
+Resident
+: Registers hold root state (context) of thread
 
 
 
