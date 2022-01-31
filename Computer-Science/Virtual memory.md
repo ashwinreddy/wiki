@@ -3,6 +3,3 @@
 1. [[Paging]]: memory is split into [[pages|page]]
 2. A [[page table]] tracks mappings from part of [[virtual address space]] to a part of physical address.
 
-
-
-[^start]: Starting at `0x0`.
