@@ -1,0 +1,1 @@
+The **point spread function (PSF)** describes the response of an imaging system to a point source.
