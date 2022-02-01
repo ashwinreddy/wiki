@@ -1,4 +1,4 @@
-A **consistent heuristic** $h(\cdot)$
+A **consistent heuristic** $h(\cdot)$ is one such that
 
 \begin{gather}
 h(A) - h(C) \leqslant c(A, C) \\\\
