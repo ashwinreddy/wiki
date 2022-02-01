@@ -5,4 +5,4 @@ h(A) - h(C) \leqslant c(A, C) \\\\
 h(A) \leqslant c(A,C) + h(C) \tag{Triangle Inequality}
 \end{gather}
 
-Consistency implies [[admissibility|admissible one]].
+Consistency implies [[admissibility|admissible heuristic]].
