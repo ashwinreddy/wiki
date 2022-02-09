@@ -2,7 +2,6 @@
 
 ```python
 def minimax(node, depth, isMaximizingPlayer, alpha, beta):
-
     if node.leaf:
         return node.value
     
@@ -15,8 +14,7 @@ def minimax(node, depth, isMaximizingPlayer, alpha, beta):
             if beta <= alpha:
                 break
         return bestVal
-
-    else :
+    else:
         bestVal = +float('inf')
         for children:
             value = minimax(node, depth+1, true, alpha, beta)
