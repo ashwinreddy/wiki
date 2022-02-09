@@ -1,4 +1,4 @@
-**Breadth-first search (BFS)** is an [[algorithm]] to traverse a [[graph]] $G$. It searches layer by layer. It is similar to [[depth-first search]].
+**Breadth-first search (BFS)** is an [[algorithm]] to traverse a [[graph]] $G$ using a [[queue]]. It searches layer by layer. It is similar to [[depth-first search]].
 
 If $G$ is unweighted or all the edges have equal weight, then BFS will find the shortest path to a given node.
 
