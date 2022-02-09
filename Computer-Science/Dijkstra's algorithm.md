@@ -1,4 +1,4 @@
-**Dijkstra's algorithm** is an [[algorithm]] for finding shortest paths between nodes in a graph. In particular, it takes a start vertex $s \in V$ for a [[graph]] $G = (V, E)$ with positive edge lengths $\\{\ell_e: e \in E\\}$ and tells you all the distances from $s$ to reachable vertices you can get to from it. 
+**Dijkstra's algorithm (aka Uniform Cost Search)** is an [[algorithm]] for finding shortest paths between nodes in a graph. In particular, it takes a start vertex $s \in V$ for a [[graph]] $G = (V, E)$ with positive edge lengths $\\{\ell_e: e \in E\\}$ and tells you all the distances from $s$ to reachable vertices you can get to from it. 
 
 It builds off of [[breadth-first search]] using a [[priority queue]].
 
