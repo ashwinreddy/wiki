@@ -7,7 +7,7 @@ def minimax(node, depth, isMaximizingPlayer, alpha, beta):
         return node.value
     
     if isMaximizingPlayer :
-        bestVal = -INFINITY 
+        bestVal = -float('inf')
         for children:
             value = minimax(node, depth+1, false, alpha, beta)
             bestVal = max( bestVal, value) 
@@ -17,7 +17,7 @@ def minimax(node, depth, isMaximizingPlayer, alpha, beta):
         return bestVal
 
     else :
-        bestVal = +INFINITY 
+        bestVal = +float('inf')
         for children:
             value = minimax(node, depth+1, true, alpha, beta)
             bestVal = min( bestVal, value) 
