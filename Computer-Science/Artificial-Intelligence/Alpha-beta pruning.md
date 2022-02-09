@@ -1,6 +1,6 @@
 **Alpha-beta pruning**
 
-```python
+```py
 function minimax(node, depth, isMaximizingPlayer, alpha, beta):
 
     if node is a leaf node :
