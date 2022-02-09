@@ -3,12 +3,12 @@
 ```python
 def minimax(node, depth, isMaximizingPlayer, alpha, beta):
 
-    if node is a leaf node :
-        return value of the node
+    if node.leaf:
+        return node.value
     
     if isMaximizingPlayer :
         bestVal = -INFINITY 
-        for each child node :
+        for children:
             value = minimax(node, depth+1, false, alpha, beta)
             bestVal = max( bestVal, value) 
             alpha = max( alpha, bestVal)
@@ -18,7 +18,7 @@ def minimax(node, depth, isMaximizingPlayer, alpha, beta):
 
     else :
         bestVal = +INFINITY 
-        for each child node :
+        for children:
             value = minimax(node, depth+1, true, alpha, beta)
             bestVal = min( bestVal, value) 
             beta = min( beta, bestVal)
