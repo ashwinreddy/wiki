@@ -29,4 +29,4 @@ $$
 h(x, y; \epsilon, \eta) = f\left( \delta(u - \epsilon, v - \eta) \right)
 $$
 
-Suppose further that $f$ is [[time-invariant system]]
+Suppose further that $f$ is [[shift-invariant system|time-invariant system]]. Then the PSF no longer varies with $(u,v)$, so we can write $h(x, y; \epsilon, \eta) = h(x - \epsilon, y - \eta; 0 , 0)$
