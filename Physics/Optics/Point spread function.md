@@ -23,6 +23,8 @@ I &= f(g(u, v)) \\\\
 &=  \iint g(\epsilon, \eta) f\left( \delta(u - \epsilon, v - \eta) \right)  \dd{\epsilon}\\,\dd{\eta}  \\\\
 \end{align}
 
+<<Warn("check to understand why f passes through")>>
+
 So the PSF is nothing but
 
 $$
@@ -37,5 +39,6 @@ $$
 \boxed{\delta(x - \epsilon, y - \eta) \longrightarrow h(x - \epsilon, y - \eta)}
 $$
 
+<<Warn("check this")>>
 
 Then the PSF no longer varies with $(u,v)$, so we can write $h(x, y; \epsilon, \eta) = h(x - \epsilon, y - \eta; 0 , 0)$
