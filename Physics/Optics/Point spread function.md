@@ -32,7 +32,7 @@ $$
 Suppose further that $f$ is [[shift-invariant system|time-invariant system]]. That means that when an $(x,y)$ shift occurs, then the output is the same only shifted by the same amount.
 
 $$
-\delta(x - \epsilon, y - \eta) \longrightarrow h(x - \epsilon, y - \eta)
+\boxed{\delta(x - \epsilon, y - \eta) \longrightarrow h(x - \epsilon, y - \eta)}
 $$
 
 
