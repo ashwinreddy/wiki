@@ -28,3 +28,5 @@ So the PSF is nothing but
 $$
 h(x, y; \epsilon, \eta) = f\left( \delta(u - \epsilon, v - \eta) \right)
 $$
+
+Suppose further that $f$ is [[shift-invariant system]]
