@@ -29,7 +29,7 @@ $$
 h(x, y; \epsilon, \eta) = f\left( \delta(u - \epsilon, v - \eta) \right)
 $$
 
-Notice here that if $f$ is the identity function, meaning we have a perfect imaging system, then the PSF is just the [[Dirac delta function]].
+Notice here that if $f$ is the identity function, meaning we have a perfect imaging system, then the PSF is just the [[Dirac delta function]]. $h$ represents the smallest detail an optical system can form, so a Dirac delta means perfect details/precision.
 
 Suppose further that $f$ is [[shift-invariant system|time-invariant system]]. That means that when an $(x,y)$ shift occurs, then the output is the same only shifted by the same amount.
 
