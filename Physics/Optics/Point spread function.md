@@ -8,7 +8,7 @@ where $g(u, v)$ is the object intensity at $(u,v)$, and $h(x, y; u, v)$ is the P
 
 # Theory
 
-Suppose our imaging system is modeled as $I = f(g(u,v))$. 
+Suppose our imaging system is modeled as $I = f(g(u,v))$. If $f$ is a [[linear system]]
 
 $$
 g(u, v) = \iint g(\epsilon, \eta) \delta(u - \epsilon, v - \eta) \dd{\epsilon}\\,\dd{\eta}
