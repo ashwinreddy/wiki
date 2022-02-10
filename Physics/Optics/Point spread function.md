@@ -1,4 +1,4 @@
-The **point spread function (PSF)** is the [[transfer function]] describes the response of an imaging system to a point source.  The image $I(x,y)$ of a linear optical system is a weighted sum of PSF over all points $(u,v)$:
+The **point spread function (PSF)** is the [[transfer function]] for an imaging system. It describes the response of an imaging system to a point source.  The image $I(x,y)$ of a linear optical system is a weighted sum of PSF over all points $(u,v)$:
 
 $$
 I(x,y) = \iint g(u, v) h(x, y; u, v) \dd{u} \dd{v}
