@@ -17,6 +17,7 @@ $$
 Therefore,
 
 \begin{align}
-f(g(u, v)) &= f\left(\iint g(\epsilon, \eta) \delta(u - \epsilon, v - \eta) \dd{\epsilon}\\,\dd{\eta} \right) \\\\
+I &= f(g(u, v)) \\\\
+&= f\left(\iint g(\epsilon, \eta) \delta(u - \epsilon, v - \eta) \dd{\epsilon}\\,\dd{\eta} \right) \\\\
 &=  \iint f\bigg( g(\epsilon, \eta) \delta(u - \epsilon, v - \eta) \bigg)  \dd{\epsilon}\\,\dd{\eta} 
 \end{align}
