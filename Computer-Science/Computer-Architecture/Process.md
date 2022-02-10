@@ -1,1 +1,1 @@
-A **process** is an instance of a running program. It consists of a protected [[address space]] and 1+ [[thread]].
+A **process** is an instance of a running program. It consists of a protected [[address space]] and 1 or more [[thread]].
