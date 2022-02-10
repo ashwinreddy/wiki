@@ -29,4 +29,4 @@ $$
 h(x, y; \epsilon, \eta) = f\left( \delta(u - \epsilon, v - \eta) \right)
 $$
 
-Suppose further that $f$ is [[shift-invariant system]]
+Suppose further that $f$ is [[time-invariant system]]
