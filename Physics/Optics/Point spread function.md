@@ -23,4 +23,4 @@ I &= f(g(u, v)) \\\\
 &=  \iint g(\epsilon, \eta) f\left( \delta(u - \epsilon, v - \eta) \right)  \dd{\epsilon}\\,\dd{\eta}  \\\\
 \end{align}
 
-And so $h(x, y; \epsilon, eta) = f\left( \delta(u - \epsilon, v - \eta) \right)$.
+And so $h(x, y; \epsilon, \eta) = f\left( \delta(u - \epsilon, v - \eta) \right)$.
