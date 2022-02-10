@@ -20,5 +20,7 @@ Therefore,
 I &= f(g(u, v)) \\\\
 &= f\left(\iint g(\epsilon, \eta) \delta(u - \epsilon, v - \eta) \dd{\epsilon}\\,\dd{\eta} \right) \\\\
 &=  \iint f\bigg( g(\epsilon, \eta) \delta(u - \epsilon, v - \eta) \bigg)  \dd{\epsilon}\\,\dd{\eta}  \\\\
-&=  \iint g(\epsilon, \eta) f\bigg( \delta(u - \epsilon, v - \eta) \bigg)  \dd{\epsilon}\\,\dd{\eta}  \\\\
+&=  \iint g(\epsilon, \eta) f\left( \delta(u - \epsilon, v - \eta) \right)  \dd{\epsilon}\\,\dd{\eta}  \\\\
 \end{align}
+
+And so $h(x, y; \epsilon, eta) = f\left( \delta(u - \epsilon, v - \eta) \right)$.
