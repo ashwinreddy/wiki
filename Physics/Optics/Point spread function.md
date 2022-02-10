@@ -11,5 +11,5 @@ where $g(u, v)$ is the object intensity at $(u,v)$, and $h(x, y; u, v)$ is the P
 Suppose our imaging system is modeled as $I = f(g(u,v))$. 
 
 $$
-g(u, v) = \iint g(\epsilon, \eta) \delta(u - \epsilon, v - \eta) \dd{\epsilon}\dd{\eta}
+g(u, v) = \iint g(\epsilon, \eta) \delta(u - \epsilon, v - \eta) \dd{\epsilon}\\,\dd{\eta}
 $$
