@@ -1,0 +1,1 @@
+A **process control block** keeps track of [[process]] state.
