@@ -1,0 +1,1 @@
+A **semaphore** is a [[synchronization]] variable with a nonnegative integer.
