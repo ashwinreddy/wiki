@@ -1,0 +1,1 @@
+The **thread control block (TCB)** keeps track of saved registers, program counter, execution stack, etc.
