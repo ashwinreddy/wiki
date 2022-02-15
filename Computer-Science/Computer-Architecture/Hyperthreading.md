@@ -1,0 +1,1 @@
+**Hyperthreading** is multiple logical threads per processor core.
