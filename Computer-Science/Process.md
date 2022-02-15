@@ -1,1 +1,1 @@
-A **process** is an instance of a program. [[PCB]]
+A **process** is an instance of a program. [[Process control block]]
