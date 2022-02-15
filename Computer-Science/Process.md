@@ -1,1 +1,1 @@
-A **process** is an instance of a program. [[Process control block]]
+A **process** is an instance of a program. The [[process control block]] keeps track of process state, PID, open files list, memory limits, [[PTBR]], etc.
