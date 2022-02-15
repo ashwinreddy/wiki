@@ -1,0 +1,1 @@
+**Multithreading** is multiple [[thread]] in general.
