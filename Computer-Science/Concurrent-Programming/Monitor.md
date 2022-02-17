@@ -18,6 +18,8 @@ Operations:
 
 # Mesa
 
+Signaler keeps lock and processor. Waiter placed on ready queue with no special priority.
+
 # Hoare
 
 The signaler gives up the lock, CPU to waiter. Waiter runs immediately. Waiter gives up lock, processor back to signaler when it exits the critical section or if it waits again.
