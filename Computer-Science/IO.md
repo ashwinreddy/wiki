@@ -1,1 +1,1 @@
-**IO** is input/output.
+**IO** is input/output. Low-level I/O is buffered in [[kernel]] space.
