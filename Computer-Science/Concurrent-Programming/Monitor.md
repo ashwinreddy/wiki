@@ -1,0 +1,1 @@
+A **monitor** is a lock and zero or more condition variables for managing concurrent access to shared data.
