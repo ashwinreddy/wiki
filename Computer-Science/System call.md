@@ -3,7 +3,7 @@ A **system call (syscall)**.
 1. Kernel copies arguments onto kernel stack
 2. Kernel validates arguments
 
-
+---
 
 1. Disable interrupts. We want this part to run atomically.
 2. Save stack pointer, instruction pointer, execution flags.
