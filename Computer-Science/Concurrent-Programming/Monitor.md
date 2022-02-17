@@ -8,3 +8,9 @@ By definition, a monitor is simply a [[lock]] and zero or more condition variabl
 # Condition variable
 
 Condition variable is a queue of threads waiting for something inside the critical section.
+
+Operations:
+
+- Wait means release the lock and put the thread on condition variable wait queue
+- Signal
+- Broadcast
