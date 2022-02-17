@@ -1,1 +1,1 @@
-An **interrupt** is an asynchronous requests that the processor stop executing the current process.
+An **interrupt** is an asynchronous request that the processor stop executing the current process.
