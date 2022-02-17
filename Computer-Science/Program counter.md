@@ -1,0 +1,1 @@
+The **program counter** is the next instruction to run.
