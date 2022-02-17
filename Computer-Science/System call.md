@@ -1,7 +1,12 @@
 A **system call (syscall)** is a programmatic call to the [[kernel]] requesting something.
 
-1. Kernel copies arguments onto kernel stack
-2. Kernel validates arguments
+The kernel system call handler does the following:
+
+1. Locate arguments on user stack
+2. Copy arguments to kernel stack
+3. Validate arguments
+4. Copy results back to user memory
+
 
 ---
 
