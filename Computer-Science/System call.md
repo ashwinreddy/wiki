@@ -1,4 +1,4 @@
-A **system call (syscall)**.
+A **system call (syscall)** is the [[kernel]]
 
 1. Kernel copies arguments onto kernel stack
 2. Kernel validates arguments
