@@ -1,0 +1,1 @@
+A **file descriptor (FD)** indexes into a per-process file descriptor table. The file descriptions are reference-counted so parent processes can still use them even after a child closes them.
