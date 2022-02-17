@@ -11,6 +11,13 @@ Condition variable is a queue of threads waiting for something inside the critic
 
 Operations:
 
-- Wait means release the lock and put the thread on condition variable wait queue
-- Signal
-- Broadcast
+- `wait(&lock)` means release the lock and go to sleep. 
+- `signal` wakes up a waiter, if any.
+- `broadcast` wakes up all waiters
+-
+
+# Mesa
+
+# Hoare
+
+The signaler gives up the lock, CPU to waiter. Waiter runs immediately. Waiter gives up lock, processor back to signaler when it exits the critical section or if it waits again.
