@@ -1,1 +1,1 @@
-A **lock ** is a [[synchronization primitive]]
+A **lock ** is a [[synchronization]] primitive.
