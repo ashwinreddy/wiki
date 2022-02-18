@@ -1,1 +1,1 @@
-A **process** is an instance of a program. The [[process control block]] keeps track of process state, PID, open files list, memory limits, [[page table]] base register, etc. A process may have multiple [[threads|thread]].
+A **process** is an instance of a program. Its [[address space]] is in user space. The [[process control block]] keeps track of process state, PID, open files list, memory limits, [[page table]] base register, etc. A process may have multiple [[threads|thread]].
