@@ -1,0 +1,1 @@
+**Base and bounds** is an implementation of [[virtual memory]] where each [[process]] gets a single contiguous segment of main memory. The location goes into a base register, and the size goes into bound register.
