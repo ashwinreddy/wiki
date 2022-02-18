@@ -1,12 +1,10 @@
-A **thread** is a single unique execution context for a [[process]]. The [[operating system]] is in charge of scheduling threads.
+A **thread** is a single unique execution context for a [[process]] with its own (user and kernel) stack. The [[operating system]] is in charge of scheduling threads.
 
 
 
 ---
 
 A thread is **executing** on a processor when it is **resident** in the [[processor register]].
-
-A thread gets a kernel stack and user stack.
 
 Resident
 : Registers hold root state (context) of thread
