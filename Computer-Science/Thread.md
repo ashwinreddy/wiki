@@ -1,4 +1,4 @@
-A **thread** is a single unique execution context for a [[process]]. The [[operating system]] schedules threads.
+A **thread** is a single unique execution context for a [[process]]. The [[operating system]] is in charge of scheduling threads.
 
 
 
