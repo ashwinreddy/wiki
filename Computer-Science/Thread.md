@@ -1,4 +1,4 @@
-A **thread** is a single unique execution context. 
+A **thread** is a single unique execution context for a [[process]]. 
 
 
 
