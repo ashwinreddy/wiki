@@ -7,6 +7,13 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 
 > The focus of MCTS is on the analysis of the most promising moves, expanding the search tree based on random sampling of the search space.
 
+# Abstraction
+
+You have a game tree, but you can't use the classical approach of depth-limited search with a position evaluation. But you're okay with doing random playouts.
+
+
+# Description
+
 Consider a standard [[game tree]]. Let's define terms.
 
 Playout/Simulation
