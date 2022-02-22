@@ -1,6 +1,6 @@
 **AlphaGo** is a program that plays Go using an [[artificial neural network]] and a tree search. It uses **value networks** to evaluate board positions and **policy networks** to select moves. The networks are supervised from human expert games and also engage in RL through self-play.
 
-1. Supervised learning for policy. Pre-train a policy network $p_\sigma(a \mid s)$ from expert moves. If the human selected action $a$ in state $s$, then change $\sigma$ to make that likelihood higher
+1. Supervised learning for policy. Pre-train a [[policy function]] network $p_\sigma(a \mid s)$ from expert moves. If the human selected action $a$ in state $s$, then change $\sigma$ to make that likelihood higher
 
 $$
 \Delta \sigma \propto \frac{\partial \log p_\sigma(a \mid s)}{\partial \sigma}
