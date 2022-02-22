@@ -24,4 +24,9 @@ Fully expanded node
 
 **Backpropagation** is the traversal of the simulation result from a freshly visited node up to the root node, updating the **statistics** along the way. Every node $v$ gets a $Q(v)$ and a $N(v)$. $Q(v)$ is the **total simulation reward** and $N(v)$ is the total number of visits.
 
+
+$$
+\mathbb{UCT}(v_i, v) = \frac{Q(v_i)}{N(v_i)} + c \sqrt{ \frac{ \log N(v) }{ N(v_i) } }
+$$
+
 ---
