@@ -12,6 +12,8 @@ Consider a standard [[game tree]]. Let's define terms.
 Playout/Simulation
 : The approximate evaluation of a game tree node by running a game starting at that node, following the **rollout policy**, and ending at a terminal node from which the game result can be computed.
 
+The heuristic comes in during playout.
+
 In MCTS, however, we run playouts from **unvisited nodes**, i.e. nodes that have not yet been selected as the root for playout.[^caveat] So we simply find a node for which at least 1 child has not been visited and then run playout on one of them. Then we **backpropagate** the results up to the current tree root, along the way updating the **statistics** $Q(v)$ and $N(v)$ for each node. $Q(v)$ is the **total simulation reward**, and $N(v)$ is the total number of visits. Note that $Q_i$ is with respect to the player who moves at node $i$.
 
 Suppose we follow this process from some node $r$. Then, we will have run a rollout from each of $r$'s children, and it will have been fully visited. 
