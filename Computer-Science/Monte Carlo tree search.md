@@ -36,4 +36,36 @@ The exploitation component measures win ratio, the second gives a bonus for expl
 
 After running MCTS for as long as resources allow, you generally pick the node with highest $N(v)$ because it's value is estimated best and that value estimation must have been high to have been explored often.
 
+# Pseudocode
+
+```py
+def monte_carlo_tree_search(root):
+    while resources_left(time, computational power):
+        leaf = traverse(root) # leaf = unvisited node 
+        simulation_result = rollout(leaf)
+        backpropagate(leaf, simulation_result)
+    return best_child(root)
+
+def traverse(node):
+    while fully_expanded(node):
+        node = best_uct(node)
+    return pick_univisted(node.children) or node # in case no children are present / node is terminal 
+
+def rollout(node):
+    while non_terminal(node):
+        node = rollout_policy(node)
+    return result(node) 
+
+def rollout_policy(node):
+    return pick_random(node.children)
+
+def backpropagate(node, result):
+   if is_root(node) return 
+   node.stats = update_stats(node, result) 
+   backpropagate(node.parent)
+
+def best_child(node):
+    pick child with highest number of visits
+```
+
 ---
