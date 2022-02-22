@@ -27,7 +27,7 @@ Fully expanded node
 For a child node $v_i$ of a node $v$, the **upper confidence bound** is defined as
 
 $$
-\mathbb{UCT}(v_i, v) = \frac{Q(v_i)}{N(v_i)} + c \sqrt{ \frac{ \log N(v) }{ N(v_i) } }
+\mathbb{UCT}(v_i, v) = \overbrace{\frac{Q(v_i)}{N(v_i)}}^{\text{exploitation component}} + c \sqrt{ \frac{ \log N(v) }{ N(v_i) } }
 $$
 
 ---
