@@ -22,6 +22,6 @@ Visited node
 Fully expanded node
 : A node whose children have all been visited
 
-Backpropagation is the traversal of the simulation result from a freshly visited node up to the root node, updating the **statistics** along the way.
+Backpropagation is the traversal of the simulation result from a freshly visited node up to the root node, updating the **statistics** along the way. Every node $v$ gets a $Q(v)$ and a $N(v)$. $Q(v)$ is the **total simulation reward** and $N(v)$ is the total number of visits.
 
 ---
