@@ -5,7 +5,7 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 
 **Monte Carlo tree search (MCTS)** is a [[Monte Carlo algorithm]] (using averages from simulation roll outs) for [[tree]] search introduced in @coulom2006efficient.
 
-> Monte Carlo Tree Search has one main purpose: given a game state to choose the most promising next move. -- [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide)
+> The focus of MCTS is on the analysis of the most promising moves, expanding the search tree based on random sampling of the search space.
 
 Consider a standard [[game tree]]. Let's define terms.
 
