@@ -12,7 +12,7 @@ $$
 \Delta \rho \propto \frac{\partial \log p_\rho(a_t \mid s_t)}{\partial \sigma}z_t
 $$
 
-3. RL for value. 
+3. RL for value. Let $v_\theta(s)$ be the [[value function]]
 
 $$
 v^p(s) = \mathbb{E}\left[ z_t \mid s_t = s, a_{t \dots T} \sim p \right]
