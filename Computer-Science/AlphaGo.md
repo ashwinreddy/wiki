@@ -25,7 +25,7 @@ $$
 Now, you have a policy and value function and you can do [[Monte Carlo Tree Search]] with it to select actions with a lookahead. Each edge $(s,a)$ of the search tree stores a $Q(s,a)$ and a visit count $N(s, a)$ and prior probability $P(s, a)$.
 
 $$
-a_t = \arg\max_a \left( Q(s_t, a) + u(s_t, a) \right)
+a_t = \arg\max_a \big( Q(s_t, a) + u(s_t, a) \big)
 $$
 
 [[/uploads/mcts-alphago.png]]
