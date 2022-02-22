@@ -6,7 +6,7 @@ $$
 \Delta \sigma \propto \frac{\partial \log p_\sigma(a \mid s)}{\partial \sigma}
 $$
 
-2. RL for policy. Play the current $p_\rho$ aginst a randomly selected previous iteration of the policy network. It ends in terminal state $s_T$ and pays out reward $r(s_T)$. Let $z_t = \pm r(s_T)$ based on the perspective of current player.
+2. RL for policy. Play the current $p_\rho$ aginst a randomly selected previous iteration of the policy network. It ends in terminal state $s_T$ and pays out reward $r(s_T)$. Let $z_t = \pm r(s_T)$ based on the perspective of current player. Make actions more likely if they result in win and less if they result in loss:
 
 $$
 \Delta \rho \propto \frac{\partial \log p_\rho(a_t \mid s_t)}{\partial \sigma}z_t
