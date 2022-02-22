@@ -10,6 +10,8 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 It is [[Monte Carlo algorithm]] in the sense that it simulate the game many times and predict the most promising move based on the results. Let's define some terms.
 
 Playout/Simulation
-: The approximate evaluation of a game tree node by running a random game starting at that node ane ending at a terminal node
+: The approximate evaluation of a game tree node by running a random game starting at that node ane ending at a terminal node, where the game result can be computed.
+
+
 
 ---
