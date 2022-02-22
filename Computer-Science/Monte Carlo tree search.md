@@ -7,7 +7,7 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 
 > Monte Carlo Tree Search has one main purpose: given a game state to choose the most promising next move. -- [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide)
 
-Let's define terms.
+Consider a standard [[game tree]]. Let's define terms.
 
 Playout/Simulation
 : The approximate evaluation of a game tree node by running a game starting at that node, following the **rollout policy**, and ending at a terminal node, where the game result can be computed.
