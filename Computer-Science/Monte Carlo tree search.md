@@ -22,7 +22,7 @@ Visited node
 Fully expanded node
 : A node whose children have all been visited
 
-**Backpropagation** is the traversal of the simulation result from a freshly visited node up to the root node, updating the **statistics** along the way. Every node $v$ gets a $Q(v)$ and a $N(v)$. $Q(v)$ is the **total simulation reward** and $N(v)$ is the total number of visits.
+**Backpropagation** is the traversal of the simulation result from a freshly visited node up to the root node, updating the **statistics** along the way. Every node $v$ gets a $Q(v)$ and a $N(v)$. $Q(v)$ is the **total simulation reward** and $N(v)$ is the total number of visits. Note that $Q_i$ is with respect to the player who moves at node $i$.
 
 For a child node $v_i$ of a node $v$, the **upper confidence bound** is defined as
 
