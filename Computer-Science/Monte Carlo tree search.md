@@ -21,7 +21,7 @@ Suppose we follow this process from some node $r$. Then, we will have run a roll
 Here, we pick the node with the highest **upper confidence bound (UCT)**, defined for a child node $v_i$ of node $v$ as
 
 $$
-\mathbb{UCT}(v_i, v) = \overbrace{\frac{Q(v_i)}{N(v_i)}}^{\text{exploitation component}} + \overbrace{ c \sqrt{ \frac{ \log N(v) }{ N(v_i) } } }^\text{exploration component}
+\mathbb{UCT}(v_i, v) = \overbrace{\frac{Q(v_i)}{N(v_i)}}^{\text{exploitation component}} + \overbrace{ c P(v, v_i) \sqrt{ \frac{ \log N(v) }{ N(v_i) } } }^\text{exploration component}
 $$
 
 The exploitation component measures win ratio, the second gives a bonus for exploring states, and $c$ controls the weighting.
