@@ -3,10 +3,15 @@
 1. Supervised learning for policy. Pre-train a policy network $p_\sigma(a \mid s)$ from expert moves. If the human selected action $a$ in state $s$, then change $\sigma$ to make that likelihood higher
 
 $$
-\delta \sigma \propto \frac{\partial \log p_\sigma(a \mid s)}{\partial \sigma}
+\Delta \sigma \propto \frac{\partial \log p_\sigma(a \mid s)}{\partial \sigma}
 $$
 
 2. RL for policy. Play the current $p_\rho$ aginst a randomly selected previous iteration of the policy network.
+
+$$
+\Delta \rho \propto \frac{\partial \log p_\rho(a_t \mid s_t)}{\partial \sigma}z_t
+$$
+
 3. RL for value. 
 
 $$
