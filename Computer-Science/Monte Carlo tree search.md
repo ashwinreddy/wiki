@@ -17,5 +17,7 @@ In MCTS, however, we only consider **unvisited nodes**.
 Visited node
 : A node that was selected for playout
 
+Fully expanded node
+: A node whose children have all been visited
 
 ---
