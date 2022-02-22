@@ -1,0 +1,1 @@
+**AlphaGo** is a program that plays go using [[neural network]]
