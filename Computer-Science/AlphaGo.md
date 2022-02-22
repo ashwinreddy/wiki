@@ -1,1 +1,1 @@
-**AlphaGo** is a program that plays go using an [[artificial neural network]] and a tree search.
+**AlphaGo** is a program that plays Go using an [[artificial neural network]] and a tree search. It uses **value networks** to evaluate board positions and **policy networks** to select moves.
