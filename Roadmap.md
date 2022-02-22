@@ -4,3 +4,5 @@
 
 # Topics to Explore
 
+- Lie Algebra
+- Relativity
