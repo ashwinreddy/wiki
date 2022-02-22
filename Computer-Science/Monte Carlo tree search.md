@@ -9,7 +9,7 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 
 # Abstraction
 
-You have a game tree, but you can't use the classical approach of depth-limited search with a position evaluation. But you're okay with doing random playouts.
+You have a game tree, but you can't use the classical approach of depth-limited search with a position evaluation. But you're okay with doing random playouts. Especially if domain knowledge can be used to do smart random playouts, which cuts branches in the tree.
 
 
 # Description
