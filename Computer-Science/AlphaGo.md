@@ -28,4 +28,10 @@ $$
 a_t = \arg\max_a \big( Q(s_t, a) + u(s_t, a) \big)
 $$
 
+where
+
+$$
+u(s, a) \propto \frac{P(s,a)}{1 + N(s,a)}
+$$
+
 [[/uploads/mcts-alphago.png]]
