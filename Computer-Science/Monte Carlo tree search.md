@@ -12,7 +12,7 @@ Consider a standard [[game tree]]. Let's define terms.
 Playout/Simulation
 : The approximate evaluation of a game tree node by running a game starting at that node, following the **rollout policy**, and ending at a terminal node from which the game result can be computed.
 
-In MCTS, however, we focus only on **unvisited nodes**, i.e. nodes that have not yet been selected as the root for playout.[^caveat] To find an unvisited node, we just have to find a node for which at least on children has not been visited yet. Then we can run a playout starting from there. Then we **backpropagate** the results up to the current tree root, along the way updating the **statistics** $Q(v)$ and $N(v)$ for each node. $Q(v)$ is the **total simulation reward**, and $N(v)$ is the total number of visits. Note that $Q_i$ is with respect to the player who moves at node $i$.
+In MCTS, however, we focus only on **unvisited nodes**, i.e. nodes that have not yet been selected as the root for playout.[^caveat] To find an unvisited node, we just have to find a node for which at least 1 child has not been visited yet. Then we can run a playout starting from there. Then we **backpropagate** the results up to the current tree root, along the way updating the **statistics** $Q(v)$ and $N(v)$ for each node. $Q(v)$ is the **total simulation reward**, and $N(v)$ is the total number of visits. Note that $Q_i$ is with respect to the player who moves at node $i$.
 
 For a child node $v_i$ of a node $v$, the **upper confidence bound** is defined as
 
