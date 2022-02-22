@@ -1,2 +1,1 @@
-**Monte Carlo tree search**
-
+**Monte Carlo tree search** is a [[tree]] search algorithm using Monte-Carlo evaluation.
