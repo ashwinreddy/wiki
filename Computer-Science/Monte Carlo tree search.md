@@ -3,7 +3,7 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 ---
 
 
-**Monte Carlo tree search (MCTS)** is a [[Monte Carlo algorithm]] (using averages from simulation roll outs) for [[tree]] search introduced in @coulom2006efficient.
+**Monte Carlo tree search (MCTS)** is a [[heuristic]]-based [[Monte Carlo algorithm]] (using averages from simulation roll outs) for [[tree]] search introduced in @coulom2006efficient.
 
 > The focus of MCTS is on the analysis of the most promising moves, expanding the search tree based on random sampling of the search space.
 
