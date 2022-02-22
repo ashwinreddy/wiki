@@ -12,10 +12,7 @@ Consider a standard [[game tree]]. Let's define terms.
 Playout/Simulation
 : The approximate evaluation of a game tree node by running a game starting at that node, following the **rollout policy**, and ending at a terminal node from which the game result can be computed.
 
-In MCTS, however, we focus only consider **unvisited nodes**. 
-
-Visited node
-: A node that was selected as the root for playout[^caveat]
+In MCTS, however, we focus only on **unvisited nodes**, i.e. nodes that have not yet been selected as the root for playout.[^caveat]
 
 [^caveat]: N.B. this definition excludes a node visited during simulation from being a visited node.
 
