@@ -24,4 +24,10 @@ $$
 p^k, v^k = f_\theta(s^k)
 $$
 
+Finally, we have **representation function** $h_\theta$
+
+$$
+s^0 = h_\theta (o_1, \dots, o_t)
+$$
+
 ---
