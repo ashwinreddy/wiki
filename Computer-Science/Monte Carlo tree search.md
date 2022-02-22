@@ -14,7 +14,7 @@ Playout/Simulation
 
 In MCTS, however, we focus only on **unvisited nodes**, i.e. nodes that have not yet been selected as the root for playout.[^caveat]
 
-[^caveat]: N.B. this definition excludes a node visited during simulation from being a visited node.
+[^caveat]: N.B. this definition excludes a node mereley visited during simulation from being a visited node.
 
 Fully expanded node
 : A node whose children have all been visited
