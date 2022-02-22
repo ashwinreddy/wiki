@@ -30,7 +30,7 @@ $$
 \mathbb{UCT}(v_i, v) = \overbrace{\frac{Q(v_i)}{N(v_i)}}^{\text{exploitation component}} + \overbrace{ c \sqrt{ \frac{ \log N(v) }{ N(v_i) } } }^\text{exploration component}
 $$
 
-The exploitation component measures win ratio. The second gives a bonus for exploring states.
+The exploitation component measures win ratio, the second gives a bonus for exploring states, and $c$ controls the weighting.
 
 [[https://int8.io/wp-content/uploads/2018/03/exploration-uct.png]]
 
