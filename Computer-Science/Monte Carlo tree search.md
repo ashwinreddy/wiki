@@ -34,4 +34,6 @@ The exploitation component measures win ratio, the second gives a bonus for expl
 
 [[https://int8.io/wp-content/uploads/2018/03/exploration-uct.png]]
 
+After running MCTS for as long as resources allow, you generally pick the node with highest $N(v)$ because it's value is estimated best and that value estimation must have been high to have been explored often.
+
 ---
