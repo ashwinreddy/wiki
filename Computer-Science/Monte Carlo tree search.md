@@ -24,7 +24,7 @@ $$
 \mathbb{UCT}(v_i, v) = \overbrace{\frac{Q(v_i)}{N(v_i)}}^{\text{exploitation component}} + \overbrace{ c P(v, v_i) \sqrt{ \frac{ \log N(v) }{ N(v_i) } } }^\text{exploration component}
 $$
 
-The exploitation component measures win ratio, the second gives a bonus for exploring states, and $c$ controls the weighting.
+The exploitation component measures win ratio, the second gives a bonus for exploring states, and to control the weighting we have a constant $c$ and the prior probability from $v$ to $v_i$, supplied by the policy network.
 
 [[https://int8.io/wp-content/uploads/2018/03/exploration-uct.png]]
 
