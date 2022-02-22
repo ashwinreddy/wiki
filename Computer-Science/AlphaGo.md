@@ -15,7 +15,7 @@ $$
 3. RL for value. Let $v_\theta(s)$ be the [[value function]].
 
 $$
-\Delta \theta \propto \frac{\partial v_\theta(s)}{\partial \theta}(z - v_\theta(s))
+\Delta \theta \propto \frac{\partial v_\theta(s)}{\partial \theta}\left(z - v_\theta(s)\right)
 $$
 
 $$
