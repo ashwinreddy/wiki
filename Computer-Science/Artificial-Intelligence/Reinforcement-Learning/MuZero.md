@@ -14,7 +14,7 @@ The model is $\mu_\theta$ (parameterized by $\theta$). It receives observations 
 We have a recurrent **dynamics function** $g_\theta$ that computes at hypothetical step $k$ an immediate reward $r^k$ and internal state $s^k$.
 
 $$
-r^k, s^k = g_\theta(s^{k-1}, a^k)
+r^k, s^k = g_\theta \left(s^{k-1}, a^k\right)
 $$
 
 ---
