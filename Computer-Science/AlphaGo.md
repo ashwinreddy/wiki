@@ -12,7 +12,7 @@ $$
 \Delta \rho \propto \frac{\partial \log p_\rho(a_t \mid s_t)}{\partial \sigma}z_t
 $$
 
-3. RL for value. Let $v_\theta(s)$ be the [[value function]].
+3. RL for value. Let $v_\theta(s)$ be the [[value function]]. Regress on state-outcome pairs $(s,z)$ to minimize MSE.
 
 $$
 \Delta \theta \propto \frac{\partial v_\theta(s)}{\partial \theta}\big(z - v_\theta(s)\big)
