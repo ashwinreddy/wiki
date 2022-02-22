@@ -12,9 +12,10 @@ It is [[Monte Carlo algorithm]] in the sense that it simulate the game many time
 Playout/Simulation
 : The approximate evaluation of a game tree node by running a game starting at that node, following the **rollout policy**, and ending at a terminal node, where the game result can be computed.
 
-In MCTS, however, we only consider unvisited nodes. 
+In MCTS, however, we only consider **unvisited nodes**. 
 
 Visited node
 : A node that was selected for playout
+
 
 ---
