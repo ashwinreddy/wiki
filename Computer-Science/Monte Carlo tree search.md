@@ -17,7 +17,7 @@ In MCTS, however, we only consider **unvisited nodes**.
 Visited node
 : A node that was selected as the root for playout[^caveat]
 
-[^caveat]: A node visited during simulation is not visited.
+[^caveat]: N.B. this definition excludes a node visited during simulation from being a visited node.
 
 Fully expanded node
 : A node whose children have all been visited
