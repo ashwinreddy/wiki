@@ -22,4 +22,6 @@ $$
 v^p(s) = \mathbb{E}\left[ z_t \mid s_t = s, a_{t \dots T} \sim p \right]
 $$
 
+Now, you have a policy and value function and you can do [[Monte Carlo Tree Search]] with it to select actions with a lookahead.
+
 [[/uploads/mcts-alphago.png]]
