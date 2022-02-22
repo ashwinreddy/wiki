@@ -17,4 +17,10 @@ $$
 r^k, s^k = g_\theta \left(s^{k-1}, a^k\right)
 $$
 
+We have a **prediction function** $f_\theta$ to compute the policy and value functions from internal state $s^k$:
+
+$$
+p^k, v^k = f_\theta(s^k)
+$$
+
 ---
