@@ -10,6 +10,7 @@ The model is $\mu_\theta$ (parameterized by $\theta$). It receives observations 
 * Value function $v_t^k \approx \mathbb{E}\left[ u_{t+k+1} + \gamma u_{t+k+2} + \dots \mid o_1, \dots, o_t, a_{t+1}, \dots, a_{t+k} \right]$
 * Immediate reward $r_t^k \approx u_{t+k}$
 
+Now we'll supress the subscripts $t$.
 
 We have a recurrent **dynamics function** $g_\theta$ that computes at hypothetical step $k$ an immediate reward $r^k$ and internal state $s^k$.
 
