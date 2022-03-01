@@ -10,6 +10,8 @@ $$
 
 # RL for policy
 
+Create a copy of $p_\sigma$ called $p_\rho$. We will now train $p_\rho$ with a [[policy gradient]] by playing against previous iterations of the policy network.
+
 Play the current $p_\rho$ aginst a randomly selected previous iteration of the policy network. It ends in terminal state $s_T$ and pays out reward $r(s_T)$. Let $z_t = \pm r(s_T)$ based on the perspective of current player. Make actions more likely if they result in win and less if they result in loss:
 
 $$
