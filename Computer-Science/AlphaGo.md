@@ -18,7 +18,7 @@ $$
 
 # RL for value
 
-We now want to estimate
+We now want to estimate the value function $v^p(s)$ for policy $p$:
 
 $$
 v^p(s) = \mathbb{E}\left[z_t \mid s_t = s, a_{t \ldots T} \sim p\right]
