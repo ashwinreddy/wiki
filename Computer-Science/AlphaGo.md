@@ -2,7 +2,7 @@
 
 # Supervised learning 
 
-We pre-train the weights $\sigma$ for a [[policy]] network $p_\sigma(a \mid s)$ using expert moves. If the human selected action $a$ in state $s$, then change $\sigma$ to make that likelihood higher
+We pre-train the weights $\sigma$ for a [[policy]] network $p_\sigma(a \mid s)$ using [[supervised learning]] expert moves. If the human selected action $a$ in state $s$, then change $\sigma$ to make that likelihood higher
 
 $$
 \Delta \sigma \propto \frac{\partial \log p_\sigma(a \mid s)}{\partial \sigma}
