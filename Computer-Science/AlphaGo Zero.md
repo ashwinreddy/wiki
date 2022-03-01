@@ -11,6 +11,6 @@ bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning
 Components
 
 * Model $(\mathbf{p}, v) = f_\theta(s)$ for raw board representation $s$ where $p_a = \Pr(a \mid s)$ and $v$ is the value.
-* A [[Monte-Carlo Tree Search]]
+* A [[Monte-Carlo Tree Search]] guided by $f_\theta$ that outputs policy $\pi$.
 
 ---
