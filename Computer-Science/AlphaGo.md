@@ -18,6 +18,12 @@ $$
 
 # RL for value
 
+We now want to estimate
+
+$$
+v^p(s) = \mathbb{E}\left[z_t \mid s_t = s, a_{t \ldots T} \sim p\right]
+$$
+
 Let $v_\theta(s)$ be the [[value function]]. Regress on state-outcome pairs $(s,z)$ to minimize MSE.
 
 $$
