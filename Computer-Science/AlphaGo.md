@@ -24,7 +24,7 @@ $$
 v^p(s) = \mathbb{E}\left[z_t \mid s_t = s, a_{t \ldots T} \sim p\right]
 $$
 
-Let our approximation to the value function be $v_\theta(s)$ We can regress on state-outcome pairs $(s,z)$ to minimize MSE.
+Let our approximation to the value function be $v_\theta(s)$. We can regress on state-outcome pairs $(s,z)$ to minimize MSE.
 
 $$
 \Delta \theta \propto \frac{\partial v_\theta(s)}{\partial \theta}\big(z - v_\theta(s)\big)
