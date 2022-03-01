@@ -30,6 +30,8 @@ $$
 \Delta \theta \propto \frac{\partial v_\theta(s)}{\partial \theta}\big(z - v_\theta(s)\big)
 $$
 
+# Searching with policy and value networks
+
 Now, you have a policy and value function and you can do [[Monte Carlo Tree Search]] with it to select actions with a lookahead. Each edge $(s,a)$ of the search tree stores a $Q(s,a)$ and a visit count $N(s, a)$ and prior probability $P(s, a)$.
 
 $$
