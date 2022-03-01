@@ -51,3 +51,5 @@ u(s, a) \propto \frac{P(s,a)}{1 + N(s,a)}
 $$
 
 [[/uploads/mcts-alphago.png]]
+
+---
