@@ -18,13 +18,13 @@ $$
 
 # RL for value
 
-We now want to estimate the value function $v^p(s)$ for policy $p$:
+We now want to estimate the [[value function]] $v^p(s)$ for policy $p$:
 
 $$
 v^p(s) = \mathbb{E}\left[z_t \mid s_t = s, a_{t \ldots T} \sim p\right]
 $$
 
-Let $v_\theta(s)$ be the [[value function]]. Regress on state-outcome pairs $(s,z)$ to minimize MSE.
+Let our approximation to the value function be $v_\theta(s)$ We can regress on state-outcome pairs $(s,z)$ to minimize MSE.
 
 $$
 \Delta \theta \propto \frac{\partial v_\theta(s)}{\partial \theta}\big(z - v_\theta(s)\big)
