@@ -1,4 +1,8 @@
-**AlphaGo** is a program that plays Go using an [[artificial neural network]] and a [[tree search|graph traversal]]. It uses **value networks** to evaluate board positions and **policy networks** to select moves. There are three phases.
+---
+bibliography: "./Computer-Science/Artificial-Intelligence/Reinforcement-Learning/papers.bib"
+---
+
+**AlphaGo** is a program that plays Go using an [[artificial neural network]] and a [[tree search|graph traversal]] [@silver2016mastering]. It uses **value networks** to evaluate board positions and **policy networks** to select moves. There are three phases.
 
 [[_TOC_]]
 
