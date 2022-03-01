@@ -10,7 +10,7 @@ $$
 
 # RL for policy
 
-Create a copy of $p_\sigma$ called $p_\rho$. We will now train $p_\rho$ with a [[policy gradient]] by playing against previous iterations of the policy network. Say it ends in terminal state $s_T$ and pays out reward $r(s_T)$. Let $z_t = \pm r(s_T)$ based on the perspective of current player. Make actions more likely if they result in win and less if they result in loss:
+Create a copy of $p_\sigma$ called $p_\rho$. We will now train $p_\rho$ with a [[policy gradient]] by playing against previous iterations of the policy network. Say it ends in terminal state $s_T$ and pays out reward $r(s_T)$. Let $z_t = \pm r(s_T)$ based on the perspective of current player. Make actions more likely if they result in a win and less if they result in a loss:
 
 $$
 \Delta \rho \propto \frac{\partial \log p_\rho(a_t \mid s_t)}{\partial \sigma}z_t
