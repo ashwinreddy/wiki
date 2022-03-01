@@ -1,0 +1,1 @@
+**AlphaGo Zero** is [[AlphaGo]] without the imitation learning.
