@@ -13,3 +13,7 @@ Given a [[joint probability distribution]], one can compute any desired probabil
 3. Normalize
 
 But this needs a table of size $d^n$ for $d$ possible values of $n$ variables.
+
+# Formalization
+
+A Bayes net is a [[directed acyclic graph]]
