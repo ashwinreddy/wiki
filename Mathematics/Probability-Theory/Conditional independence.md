@@ -3,7 +3,7 @@ $$
 \mathbb{P}(A, B \mid C) = \mathbb{P}(A \mid C) \cdot \mathbb{P}(B \mid C).
 $$
 
-We write $ \perp\\!\\!\\!\perp$
+We write $A \perp\\!\\!\\!\perp B \mid C$.
 
 # Example
 
