@@ -36,6 +36,10 @@ This is exact. Eliminate hidden variables $X_i$ one by one
 1. Join (multiply) all factors involving $X$
 2. Sum over $X$
 
-## Sampling
+## Prior Sampling
 
 This is approximate. Basically do a Monte Carlo run.
+
+## Rejection Sampling
+
+Reject any sample inconsistent with the evidence.
