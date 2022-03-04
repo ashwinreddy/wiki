@@ -3,7 +3,7 @@ $$
 \mathbb{P}(A, B \mid C) = \mathbb{P}(A \mid C) \cdot \mathbb{P}(B \mid C).
 $$
 
-We say $A$ and $B$  are conditionally independent given $C$.
+We write $ \perp\!\!\!\perp$
 
 # Example
 
