@@ -1,6 +1,6 @@
 **Conditional independence** describes situations where an observation is is irrelevant. $A$ and $B$ are conditionally independent of some event $C$ if
 $$
-\mathbb{P}(A \cap B \mid C) = \mathbb{P}(A \mid C) \cdot \mathbb{P}(B \mid C).
+\mathbb{P}(A, B \mid C) = \mathbb{P}(A \mid C) \cdot \mathbb{P}(B \mid C).
 $$
 
 We say $A$ and $B$  are conditionally independent given $C$.
