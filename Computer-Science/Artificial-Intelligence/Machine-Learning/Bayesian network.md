@@ -4,6 +4,8 @@ $$
 P(X_1, \dots X_n) = \prod_{i=1}^n P(X_i \mid \operatorname{\mathsf{parents}}\left(X_i\right))
 $$
 
+1. Each node is [[conditionally independent|conditional independence]] of all its ancestor nodes in the graph, given all of its parents.
+
 # Inference By Enumeration
 
 Given a [[joint probability distribution]], one can compute any desired probability distribution $P(Q_1 \dots Q_k \mid e_1 \dots e_k)$ off of it.
