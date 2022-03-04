@@ -46,4 +46,10 @@ This is approximate. Basically do a Monte Carlo run.
 
 ## Rejection Sampling
 
-Reject any sample inconsistent with the evidence.
+Just do prior sampling but reject samples inconsistent with the evidence.
+
+Input: evidence $e_1, \dots, e_k$
+For $i \in \\{1, \dots, n\\}$
+* If $x_i$ is not consistent with evidence
+    * Reject: Return and no sample is generated in this cycle
+* Return $(x_1, \dots, x_n)$
