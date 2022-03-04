@@ -40,6 +40,10 @@ This is exact. Eliminate hidden variables $X_i$ one by one
 
 This is approximate. Basically do a Monte Carlo run.
 
+* For $i \in \{1, n\}
+    * Sample $X_i$ from $P(X_i \mid \mathsf{parents}(X_i))$
+* Return $(x_1, \dots, x_n)$
+
 ## Rejection Sampling
 
 Reject any sample inconsistent with the evidence.
