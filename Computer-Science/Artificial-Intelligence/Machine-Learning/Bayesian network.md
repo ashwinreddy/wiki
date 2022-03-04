@@ -1,6 +1,6 @@
-A **Bayesian network** (**Bayes net**)
+A **Bayesian network** (**Bayes net**) is a [[directed acyclic graph]]
 
-# Motivation
+# Inference By Enumeration
 
 Given a [[joint probability distribution]], one can compute any desired probability distribution $P(Q_1 \dots Q_k \mid e_1 \dots e_k)$ off of it.
 
@@ -13,7 +13,3 @@ Given a [[joint probability distribution]], one can compute any desired probabil
 3. Normalize
 
 But this needs a table of size $d^n$ for $d$ possible values of $n$ variables.
-
-# Formalization
-
-A Bayes net is a [[directed acyclic graph]]
