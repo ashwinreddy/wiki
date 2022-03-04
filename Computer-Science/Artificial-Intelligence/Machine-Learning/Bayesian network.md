@@ -5,6 +5,9 @@ P(X_1, \dots X_n) = \prod_{i=1}^n P(X_i \mid \operatorname{\mathsf{parents}}\lef
 $$
 
 1. Each node is [[conditionally independent|conditional independence]] of all its ancestor nodes in the graph, given all of its parents.
+2. Each node is conditionally independent of all other variables given its Markov blanket (i.e. parents, children, children's other parents)
+
+
 
 # Inference By Enumeration
 
