@@ -1,5 +1,4 @@
-**Conditional independence** for events $A$, $B$, and $C$ with $\mathbb{P}(C) > 0$ satisfy
-
+**Conditional independence** describes situations where an observation is is irrelevant. $A$ and $B$ are conditionally independent of some event $C$ if
 $$
 \mathbb{P}(A \cap B \mid C) = \mathbb{P}(A \mid C) \cdot \mathbb{P}(B \mid C).
 $$
