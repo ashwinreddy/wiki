@@ -7,4 +7,10 @@ We write $A \perp\\!\\!\\!\perp B \mid C$.
 
 # Example
 
-Let $A$ be the event of a random person being lactose intolerant and $B$ is the event that he is shorter than average. A famous study showed that $\mathbb{P}(A \mid B) \gg \mathbb{P}(A)$. Does that mean lactose intolerance is caused by height? No, because if you condition on $C$ being the event that a person is of Asian descent, then the data makes sense.
+A study shows that
+
+$$
+\Pr(\text{lactose intolerant} \mid \text{shorter than average}) \gg \mathbb{P}(\text{lactose intolerant})
+$$
+
+Does that mean lactose intolerance is caused by short height? No, because if you condition on the person being of Asian descent, then the data makes sense.
