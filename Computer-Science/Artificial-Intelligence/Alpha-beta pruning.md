@@ -1,4 +1,8 @@
-**Alpha-beta pruning**
+**Alpha-beta pruning** saves computation on a [[minimax]]
+
+
+## Pseudocode
+
 
 ```python
 def minimax(node, depth, isMaximizingPlayer, alpha, beta):
