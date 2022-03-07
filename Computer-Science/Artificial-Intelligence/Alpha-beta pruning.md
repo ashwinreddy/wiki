@@ -1,4 +1,4 @@
-**Alpha-beta pruning** saves computation on a [[minimax]]
+**Alpha-beta pruning** saves computation on a [[minimax]] by pruning off branches from the tree. 
 
 
 ## Pseudocode
