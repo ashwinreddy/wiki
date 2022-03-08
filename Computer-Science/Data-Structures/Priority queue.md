@@ -1,1 +1,1 @@
-A **priority queue** is a [[queue]] that has priority. 
+A **priority queue** is a [[queue]] that has priority, often implemented as a [[heap]].
