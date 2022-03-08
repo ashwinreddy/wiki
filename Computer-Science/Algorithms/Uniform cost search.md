@@ -1,1 +1,1 @@
-**Uniform cost search** is an unininformed search algorithm as [[Dijkstra's algorithm]].
+**Uniform cost search** is an unininformed search algorithm as [[Dijkstra's algorithm]]. The frontier representation is a [[priority queue]]
