@@ -1,1 +1,0 @@
-**Gettier problem** challenges the justified true belief stance.
