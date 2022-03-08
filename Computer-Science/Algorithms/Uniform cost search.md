@@ -5,4 +5,4 @@ Backward cost
 
 Optimal if edge costs are non-negative.
 
-Suppose the optimal path cost is $C^\*$ and the minimal cost between two nodes is $\epsilon$. Then the runtime is $\order{b^{C\^* / \epsilon }}$
+Suppose the optimal path cost is $C^\*$ and the minimal cost between two nodes is $\epsilon$. Then the runtime is $\order{b^{C\^* / \epsilon }}$. The space complexity is the same.
