@@ -1,5 +1,5 @@
-**Tree search** 
+**Tree search** refers to [[algorithm]] to search a [[tree]].
 
 * [[Breadth-first search]]
 * [[Depth-first search]]
-* [[Uniform cost search]]
+* [[Dijkstra's algorithm]]
