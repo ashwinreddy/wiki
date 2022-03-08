@@ -1,1 +1,0 @@
-**Cold War** was the bipolar world order by the US and Soviet Union. There was a surge of nationalist movement and revolutions in Asian countries.
