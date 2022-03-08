@@ -3,6 +3,9 @@ A **Hidden Markov model (HMM)** is a [[Markov model]] that models a sequence of 
 Belief distribution
 : The distribution $\Pr(q_i \mid o_{1:t})$ for time $i$
 
+# Forward Algorithm
+
+
 
 # Formalism
 
