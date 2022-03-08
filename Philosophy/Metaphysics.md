@@ -1,1 +1,0 @@
-**Metaphysics** is about the nature of reality.
