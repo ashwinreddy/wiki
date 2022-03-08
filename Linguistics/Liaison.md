@@ -1,1 +1,0 @@
-**Liaison** in French is like elision in Latin except we keep the sound to join the words.
