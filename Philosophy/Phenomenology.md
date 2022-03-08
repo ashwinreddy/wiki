@@ -1,1 +1,0 @@
-https://plato.stanford.edu/entries/phenomenology/
