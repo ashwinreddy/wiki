@@ -1,1 +1,0 @@
-**Adenosine triphosphate (ATP)** is $\ce{C10H16N5O13P3}$ an [[organic compound]], the molecular currency of [[energy]]. 
