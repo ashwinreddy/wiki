@@ -1,1 +1,0 @@
-A **musical note** has loudness, duration, a timbre, and a pitch. 
