@@ -16,6 +16,12 @@ Back edge
 Cross edge
 : Leads to neither descendant nor ancestor; they therefore lead to a node that has already been completely explored (that is, already postvisited).
 
+# Properties
+
+_Completeness_. If there are cycles, naive search will get stuck.
+
+_Optimality_. Doesn't consider costs.
+
 # Pseudocode
 
 ```python
