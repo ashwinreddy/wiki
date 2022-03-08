@@ -1,4 +1,9 @@
-**Depth-first search (DFS)** is a [[graph traversal]] for a graph $G = (V, E)$ given a starting node $s \in V$. It identifies the vertices of a graph that can be reached from a starting point. It is related to [[breadth-first search]].
+**Depth-first search (DFS)** is a [[graph traversal]] algorithm that selects the deepest frontier node for expansion. The frontier representation is a [[stack]].
+
+
+# Formalism
+
+for a graph $G = (V, E)$ given a starting node $s \in V$. It identifies the vertices of a graph that can be reached from a starting point. It is related to [[breadth-first search]].
 
 Tree edge
 : An edge, actually part of the DFS forest, that leads to a vertex not previously visited
