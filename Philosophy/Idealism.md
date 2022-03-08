@@ -1,1 +1,0 @@
-**Idealism** is the position that all that exists is mental. Proponents include George Berkeley.
