@@ -5,4 +5,4 @@ Backward cost
 
 Optimal if edge costs are non-negative.
 
-Complexity is $\order{b^{C^* / \epsilon }}$
+Complexity is $\order{b^{C\^* / \epsilon }}$
