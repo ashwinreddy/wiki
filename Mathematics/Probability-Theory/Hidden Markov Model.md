@@ -1,4 +1,19 @@
-A **Hidden Markov model (HMM)** is a [[Markov model]] models a [[sequence]] $Q = \left(q\_i\right)\_{i=0}^T$ of hidden states  and observation sequence $O=\left(o_i\right)_{i=1}^T$.
+A **Hidden Markov model (HMM)** is a [[Markov model]] that allows us to observe some evidence at each timestep, which can potentially affect the belief distribution at each of the states. If the state variables are $q_i$ and the observation/evidence is $o_i$.
+
+$$
+\Pr(q_i \mid o_1, \dots, o_i) \tag{Belief Distribution}
+$$
+
+
+
+
+
+
+
+
+
+
+models a [[sequence]] $Q = \left(q\_i\right)\_{i=0}^T$ of hidden states  and observation sequence $O=\left(o_i\right)_{i=1}^T$.
 
 Transition probability matrix
 : An $n \times n$ [[matrix]] $A$ where $a_{ij}$ is the probability of transitioning from state $i$ to $j$.
