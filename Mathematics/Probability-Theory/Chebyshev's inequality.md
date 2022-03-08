@@ -12,6 +12,8 @@ For example, there is at most 10% chance that a value sits outside 3 standard de
 
 # Proof
 
+Use [[Markov inequality]]
+
 $$
 \Pr(\left(X - \mathbb{E}X \right)^2 \geqslant \epsilon^2) \leqslant \frac{ \mathbb{E}\left[\left(X - \mathbb{E}X \right)^2\right]  }{\epsilon^2} = \frac{\mathbb{V}X}{\epsilon^2}
 $$
