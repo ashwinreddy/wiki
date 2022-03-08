@@ -1,7 +1,7 @@
 A **Hidden Markov model (HMM)** is a [[Markov model]] that allows us to observe some evidence at each timestep, which can potentially affect the belief distribution at each of the states. If the state variables are $q_i$ and the observation/evidence is $o_i$.
 
 Belief distribution
-: $\Pr(q_i \mid o_1, \dots, o_i)$
+: The distribution $\Pr(q_i \mid o_1, \dots, o_i)$
 
 
 
