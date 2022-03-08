@@ -1,1 +1,0 @@
-A **performative utterance** is a statement like "I promise ...." in which the statement itself is the act.
