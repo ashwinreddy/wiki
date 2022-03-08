@@ -1,1 +1,0 @@
-**Flowering plant** or **angiosperm** are plants that bear flowers and fruit.
