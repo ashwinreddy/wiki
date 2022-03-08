@@ -1,0 +1,1 @@
+**Uniform cost search** is an unininformed search algorithm as [[Dijkstra's algorithm]].
