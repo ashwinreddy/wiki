@@ -22,7 +22,7 @@ _Completeness_. If there are cycles, naive search will get stuck.
 
 _Optimality_. Doesn't consider costs.
 
-_Complexity_. If the branching factor is $b$ and the maximum depth is $m$, the runtime is $\order{b^m}$
+_Complexity_. If the branching factor is $b$ and the maximum depth is $m$, the runtime is $\order{b^m}$. The space complexity is $\order{bm}$ because only one subtree is explored at any time.
 
 # Pseudocode
 
