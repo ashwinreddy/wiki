@@ -1,4 +1,4 @@
-**Depth-first search (DFS)** is a [[graph traversal]] algorithm that selects the deepest frontier node for expansion. The frontier representation is a [[stack]].  It is related to [[breadth-first search]].
+**Depth-first search (DFS)** is a [[graph traversal]] algorithm that selects the deepest frontier node for expansion. The frontier representation is a [[stack]].  It is similar to [[breadth-first search]].
 
 
 [[_TOC_]]
