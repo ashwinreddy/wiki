@@ -1,1 +1,0 @@
-**Epistemology** is about the nature of knowledge.
