@@ -1,1 +1,0 @@
-**Empiricism** is the view that knowledge comes from experience. It contrasts with [[rationalism]].
