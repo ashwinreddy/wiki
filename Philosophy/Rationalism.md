@@ -1,1 +1,0 @@
-**Rationalism** is the view that says humans can have objective knowledge of the world through reason. The big players in rationalism are Descartes, Spinoza, and Leibniz.
