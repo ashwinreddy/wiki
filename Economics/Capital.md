@@ -1,1 +1,0 @@
-**Capital** refers to assets that help us do work.
