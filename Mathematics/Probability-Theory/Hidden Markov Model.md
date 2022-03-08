@@ -1,4 +1,4 @@
-A **Hidden Markov model (HMM)** is a [[Markov model]] that models a sequence of hidden states given evidence at each time step. Let the state variables are $q_i$ and the observation/evidence is $o_i$.
+A **Hidden Markov model (HMM)** is a [[Markov model]] that models a sequence of hidden states given evidence at each time step. Let the state variables be $q_i$ and the observation/evidence be $o_i$.
 
 Belief distribution
 : The distribution $\Pr(q_i \mid o_{1:t})$ for time $i$
