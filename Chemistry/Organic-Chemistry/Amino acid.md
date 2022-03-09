@@ -1,1 +1,0 @@
-**Amino acid** is an [[acid]].
