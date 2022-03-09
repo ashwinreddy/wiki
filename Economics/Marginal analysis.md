@@ -1,1 +1,0 @@
-**Marginal analysis** relies on comparing [[marginal utility]] benefits and costs, usually for decision making.
