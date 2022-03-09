@@ -1,1 +1,0 @@
-**Chemical equilibrium** for a [[chemical reaction]] is the state of [[concentration]] stabilizing.
