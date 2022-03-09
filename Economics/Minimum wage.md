@@ -1,1 +1,0 @@
-A **minimum wage** of $x$ says everybody needs to be paid at least $x$ for their labor, it's a price floor on labor.
