@@ -2,5 +2,5 @@
 
 1. Initialize $\mathbf{x}$ with $\mathbf{e}$.
 2. Do $N$ times
-    1. Sample a $Z_i$
+    1. Sample a $Z_i$ from $P(Z_i \mid \mathsf{MarkovBlanket}(Z_i))$
     2. Increment the count of $\mathbf{N}[x]$.
