@@ -1,3 +1,0 @@
-**Prosimians** are a taxa of [[primates|primate]] including lemurs. Most prosimians live in Madagascar. They have whiskers and generally larger snouts than anthropoids. They rely on olfaction more and have prominent ears. Their eyes are more to the sides of their face. They have simpler brains than anthropoids.
-
-They were common and widespread in North America and Europe after about 55 million years ago.
