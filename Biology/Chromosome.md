@@ -1,1 +1,0 @@
-A **chromosome** is a [[DNA]] molecule with part or all of the genetic material (genome) of an organism.
