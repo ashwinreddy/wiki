@@ -1,1 +1,0 @@
-**Economics** is the study of scarce resources that have alternative uses.
