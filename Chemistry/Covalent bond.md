@@ -1,1 +1,0 @@
-A **covalent bond** is a [[chemical bond]] in which atoms share electrons.
