@@ -1,1 +1,0 @@
-**Electronegativity** is how much an atom will pull/attract an [[electron]].
