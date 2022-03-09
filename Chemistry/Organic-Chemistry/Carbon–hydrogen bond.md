@@ -1,1 +1,0 @@
-The **carbon–hydrogen bond** is the [[covalent bond]] between [[carbon]] and [[hydrogen]] and is effectively non-polar.
