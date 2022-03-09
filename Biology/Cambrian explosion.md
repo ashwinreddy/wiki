@@ -1,1 +1,0 @@
-The **Cambrian Explosion** refers to a period of time with an extraordinary fossil record of life. According to Andrew Parker, the increase in amount of light reaching earth incentivized vision for predation.
