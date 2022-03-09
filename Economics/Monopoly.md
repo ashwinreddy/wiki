@@ -1,1 +1,0 @@
-A **monopoly** is a market where there is only supplier of the product.
