@@ -1,1 +1,0 @@
-The **Calvin cycle** is a step in [[photosynthesis]] that turns [[carbon dioxide]] into [[glucose]].
