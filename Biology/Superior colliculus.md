@@ -1,1 +1,0 @@
-The **superior colliculus** (Latin for upper hill) is part of the [[visual system]].
