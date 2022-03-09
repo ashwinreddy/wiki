@@ -1,1 +1,0 @@
-**Chemical bond**s include [[ionic bond]] and [[covalent bond]].
