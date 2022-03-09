@@ -1,1 +1,0 @@
-**Meiosis** is how sex [[cell]] are made
