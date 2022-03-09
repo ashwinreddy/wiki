@@ -1,1 +1,0 @@
-The **retina** is in the eye.
