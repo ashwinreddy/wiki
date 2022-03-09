@@ -1,1 +1,0 @@
-**RNA** is a [[nucleic acid]].
