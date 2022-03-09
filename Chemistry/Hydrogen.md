@@ -1,1 +1,0 @@
-**Hydrogen** consists of a [[proton]] and an [[electron]].
