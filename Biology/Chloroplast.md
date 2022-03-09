@@ -1,1 +1,0 @@
-**Chloroplast** [[photosynthesis]] [[organelle]].
