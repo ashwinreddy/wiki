@@ -1,1 +1,0 @@
-A **short** is when you borrow a share from a broker and sell it immediately at its current price. Then, you wait for the share to depreciate in value, and buy it back so you can give the share you borrowed back to the broker.
