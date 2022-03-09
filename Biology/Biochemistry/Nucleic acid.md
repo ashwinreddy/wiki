@@ -1,1 +1,0 @@
-A **nucleic acid** is an [[acid]].
