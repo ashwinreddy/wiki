@@ -1,1 +1,0 @@
-**Carbohydrate** includes [[carbon]] and [[hydrogen]] and [[oxygen]]. It includes [[glucose]]
