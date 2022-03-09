@@ -1,1 +1,0 @@
-**Demand** is the willingess and ability for consumers to pay for goods and services.
