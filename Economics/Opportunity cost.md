@@ -1,1 +1,0 @@
-The **opportunity cost** of an action is the counterfactual utility/benefit of taking the best alternative action.
