@@ -1,1 +1,0 @@
-**Vacuole** is an [[organelle]] that acts like a container.
