@@ -1,1 +1,0 @@
-A **reduction-oxidation** or **redox** is a kind of chemical reaction.
