@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-V_{i+1}^*(s) \leftarrow \max_a \sum_{s'} T(s, a, s')\left[R(s,a,s') + V_i^*(s)\right]
+V\_{i+1}^*(s) \leftarrow \max_a \sum_{s'} T(s, a, s')\left[R(s,a,s') + V_i^*(s)\right]
 $$
