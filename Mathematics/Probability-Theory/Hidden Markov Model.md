@@ -7,6 +7,14 @@ For this article, imagine a weather model $W$ with forecast $F$.
 
 # Forward Algorithm
 
+Define belief distributions
+
+$$
+B(W_{i}) \triangleq P(W_i \mid f_1, \dots, f_i)
+$$
+
+
+
 $$
 B'(W_{i+1}) = \sum_{w_i} P(W_{i+1} \mid w_i) B(w_i)
 $$
