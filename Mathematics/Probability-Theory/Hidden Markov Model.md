@@ -5,6 +5,8 @@ Belief distribution
 
 # Forward Algorithm
 
+1. Time elapse update
+2. Observation update. Determine $B(W_{i+1})$ from $B'(W_{i+1})$
 
 
 # Formalism
