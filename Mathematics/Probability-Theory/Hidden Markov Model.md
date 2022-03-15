@@ -9,9 +9,10 @@ For this article, imagine a weather model $W$ with forecast $F$.
 
 Define belief distributions
 
-$$
-B(W_{i}) \triangleq P(W_i \mid f_{1:i})
-$$
+\begin{gather}
+B(W_{i}) \triangleq P(W_i \mid f_{1:i}) \\\\
+B'(W_{i}) \triangleq P(W_i \mid f_{1:i-1})
+\end{gather}
 
 
 
