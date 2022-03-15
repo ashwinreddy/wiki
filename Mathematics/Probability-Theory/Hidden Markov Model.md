@@ -5,6 +5,10 @@ Belief distribution
 
 # Forward Algorithm
 
+$$
+B'(W_{i+1}) = \sum_{w_i} P(W_{i+1} \mid w_i) B(w_i)
+$$
+
 1. Time elapse update, i.e. determine $B'(W_{i+1})$ from $B(W_i)$.
 2. Observation update, i.e determine $B(W_{i+1})$ from $B'(W_{i+1})$.
 
