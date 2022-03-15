@@ -11,7 +11,7 @@ Define belief distributions
 
 \begin{gather}
 B(W_{i}) \triangleq P(W_i \mid f_{1:i}) \\\\
-B'(W_{i}) \triangleq P(W_i \mid f_{1:i-1})
+B'(W_{i}) \triangleq P(W_i \mid f_{1:(i-1)})
 \end{gather}
 
 
