@@ -1,6 +1,6 @@
 A **thread** is a single unique execution context for a [[process]] with its own user stack and kernel stack. The [[operating system]] is in charge of scheduling threads.
 
-Threads A and B in the same process can access each other's stacks.
+Threads in the same process have the same [[address space]]. Threads A and B in the same process can access each other's stacks.
 
 
 ---
