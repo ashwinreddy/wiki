@@ -3,3 +3,7 @@
 $$
 C = \max_{p_X} I(X; Y)
 $$
+
+$$
+C = \lim_{T \to \infty} \log \frac{N(T)}{T}
+$$
