@@ -3,5 +3,5 @@
 1. $factors \leftarrow []$
 2. **for each** $var$ **in** $\mathrm{ O{\small RDER} }(bn.\rm{V{\small ARS}})$ **do**
     - $factors \leftarrow \left[\mathrm{ M{\small AKE-}F{\small ACTOR}(var, \mathbf{e}) } \mid factors\right]$
-    - **if** $var$ is a hidden variable **then** $factors \leftarrow \mathrm{S {\small UM}-O{\small UT}}(var, factors)$
+    - **if** $var$ is a hidden variable **then** $factors \leftarrow \mathrm{S {\small UM-}O{\small UT}}(var, factors)$
 3. **return**
