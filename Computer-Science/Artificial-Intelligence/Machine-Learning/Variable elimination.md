@@ -1,1 +1,1 @@
-**Variable elimination** is an [[inference]] algorithm for [[probabilistic graphical model]]
+**Variable elimination** is an [[inference]] algorithm for [[PGM|probabilistic graphical model]].
