@@ -1,0 +1,1 @@
+**Variable elimination** is an [[inference]] algorithm for [[probabilistic graphical model]]
