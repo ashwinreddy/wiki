@@ -2,4 +2,4 @@
 
 1. $factors \leftarrow []$
 2. **for each** $var$ **in** $\rm{O{\small RDER}}(bn.\rm{V{\small ARS}})$ **do**
-    - $factors \leftarrow [\rm{ M{\small AKE-}F{\small ACTOR} }]$
+    - $factors \leftarrow [\rm{ M{\small AKE-}F{\small ACTOR}(var, \mathbf{e}) } \mid factors]$
