@@ -29,12 +29,7 @@ This is exact. Form the [[joint probability distribution]].
 
 But this needs a table of size $d^n$ for $d$ possible values of $n$ variables.
 
-## Variable Elimination
-
-This is exact. Eliminate hidden variables $X_i$ one by one
-
-1. Join (multiply) all factors involving $X$
-2. Sum over $X$
+## [[Variable Elimination]]
 
 ## Prior Sampling
 
