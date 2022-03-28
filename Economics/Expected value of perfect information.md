@@ -7,4 +7,5 @@ $$
 
 # Properties
 
-* $\forall E', e: \mathsf{VPI}(E' \mid e) \geqslant 0$
+Nonnegativity
+: $\mathsf{VPI}(E' \mid e) \geqslant 0$
