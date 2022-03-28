@@ -1,0 +1,1 @@
+The **expected value of perfect information** is the [[expected value]] of [[perfect information]].
