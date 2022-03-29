@@ -1,0 +1,1 @@
+The **Viterbi algorithm** gives us sequence hidden states for [[Hidden Markov Model]] given observed evidence.
