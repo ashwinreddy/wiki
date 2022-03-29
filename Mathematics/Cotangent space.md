@@ -1,4 +1,4 @@
-The **cotangent space** $T_p^* M$ is the [[dual vector space]] to the [[tangent space]] on a [[manifold]]. 
+The **cotangent space** $T_p^* \mathcal{M}$ is the [[dual vector space]] to the [[tangent space]] on a [[manifold]] $\mathcal{M}$. 
 
 \begin{equation}
 T\_p^\*M \triangleq (T\_pM)^*
