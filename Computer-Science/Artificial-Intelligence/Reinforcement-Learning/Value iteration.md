@@ -11,7 +11,7 @@ $$
 $$
 
 $$
-U_{k+1} \leftarrrow B U_{k
+U_{k+1} \leftarrrow B U_{k}
 $$
 
 Value iteration converges to the optimal value function.
