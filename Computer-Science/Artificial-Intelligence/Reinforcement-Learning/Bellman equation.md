@@ -1,4 +1,4 @@
-The **Bellman equation** in a reinforcement learning context, which gives a [[recursion]] relationship for [[action-value function]] $Q$ and [[value function]] $V$ for [[policy]] $\pi$:
+The **Bellman equation** in a reinforcement learning context, which gives a [[recursion]] relationship for [[Q function]] and [[value function]] $V$ for [[policy]] $\pi$:
 
 \begin{equation}
 V^\pi(s) = \mathbb{E}\left[ r(s, a) + \gamma V^\pi(s') \right]
