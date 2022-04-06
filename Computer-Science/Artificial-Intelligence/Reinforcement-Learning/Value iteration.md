@@ -7,7 +7,7 @@ $$
 $$
 
 $$
-\forall s \in S:\quad V_{i+1}^\*(s) \leftarrow \max_a \sum_{s'} T(s, a, s')\left[R(s,a,s') + \gamma V_i^*(s)\right]
+\forall s \in S:\quad V_{i+1}^\*(s) \leftarrow \max_a \sum_{s'} T(s, a, s')\left[R(s,a,s') + \gamma V_i^*(s')\right]
 $$
 
 $$
