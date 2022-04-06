@@ -11,6 +11,4 @@ $$
 
 # Proof
 
-$$
-U^* = BU^*
-$$
+We want a fixed point $U^* = BU^*$.
