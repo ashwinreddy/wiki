@@ -1,4 +1,4 @@
-**Value iteration** is a [[dynamic programming] [[algorithm]] to update [[value function]].
+**Value iteration** is a [[dynamic programming]] [[algorithm]] to update [[value function]].
 
 First, we initialize all values to 0.
 
