@@ -1,0 +1,1 @@
+**Naive Bayes classifier** assumes independent features.
