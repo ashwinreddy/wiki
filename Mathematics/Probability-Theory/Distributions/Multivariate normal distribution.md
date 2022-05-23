@@ -1,7 +1,7 @@
 The **multivariate normal distribution** $\mathbf{X} \sim \mathcal{N}(\mathbf{\mu}, \mathbf{\Sigma})$ generalizes the [[normal distribution]] with [[mean]] $\mu$ and [[covariance matrix]] $\mathbf{\Sigma}$ to higher dimensions. $\mathbf{X}$ is a **Gaussian vector** or **jointly Gaussian** [[random variable]]. The joint density is given by
 
 \begin{equation}
-f(\mathbf{x}; \mu, \mathbf{\Sigma}) = \left({(2\pi)^n \det \mathbf{\Sigma} }\right)^{-1/2} \exp\left[-\frac{1}{2}(\mathbf{x}-\mu)\^\mathsf{T}\Sigma^{-1}(\mathbf{x}-\mu)\right]
+f(\mathbf{x}; \mu, \mathbf{\Sigma}) = \bigg ({(2\pi)^n \det \mathbf{\Sigma} }\bigg)^{-1/2} \exp\left(-\frac{1}{2}(\mathbf{x}-\mu)\^\mathsf{T}\Sigma^{-1}(\mathbf{x}-\mu)\right)
 \end{equation}
 
 # Alternative Formulation
