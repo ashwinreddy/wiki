@@ -16,4 +16,4 @@ $$
 X \perp Y \implies \rho_{X, Y} = 0.
 $$
 
-The converse cannot be inferred generally.
+The converse cannot be inferred generally. Take a look at [this](https://www.stat.cmu.edu/~cshalizi/uADA/13/reminders/uncorrelated-vs-independent.pdf) to distinguish correlation from independence (the relationship is tricky).
