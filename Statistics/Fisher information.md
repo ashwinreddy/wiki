@@ -6,7 +6,7 @@ $$
 
 ## Examples
 
-Suppose $X$ is a coin flip from a [[Bernoulli distribution]] with parameter $\theta$. We know
+Suppose $X$ is a coin flip from a [[Bernoulli distribution]] with parameter $\theta$. We start with the log-likelihood function
 
 $$
 p_\theta(x) = \theta\^x(1-\theta)\^{1-x}, \qquad \theta \in [0,1]
@@ -14,14 +14,17 @@ $$
 
 Therefore, 
 
-$$
-\ell(\theta; x) = x\theta + (1-x)(1-\theta)
-$$
+\begin{align\*}
+\ell(\theta; x) &= \log p_\theta(x) \\
+&= \log \left(\right)
+
+x\theta + (1-x)(1-\theta)
+\end{align\*}
 
 The score function is
 
 $$
-s(\theta) = \theta
+s(\theta) = 
 $$
 
 $$
