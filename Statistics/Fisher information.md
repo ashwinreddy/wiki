@@ -18,6 +18,12 @@ $$
 \ell(\theta; x) = x\theta + (1-x)(1-\theta)
 $$
 
+The score function is
+
+$$
+s(\theta) = \theta
+$$
+
 $$
 \mathcal{I}\_X(\theta) = 
 $$
