@@ -1,10 +1,9 @@
 **Fisher information** quantifies how much information samples from a distribution give us about the parameters. When the Fisher information is high, it should be easier to estimate the parameters. The Fisher information is defined by
 
 $$
-\mathcal{I}_X(\theta) = \mathbb{E}\left[s(\theta)^2 \mid \theta \right]
+\mathcal{I}_X(\theta) = \mathbb{E}\left[\left( \pderiv{}{} \log p(x \mid \theta) \right)^2 \mid \theta \right]
 $$
 
-for [[score]] $s$.
 
 # Properties
 
