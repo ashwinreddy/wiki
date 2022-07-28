@@ -4,7 +4,7 @@ $$
 \mathcal{I}\_X(\theta) = \mathbb{V}_\theta \left[ \frac{\partial}{\partial \theta} \ell(\theta ; x) \right]
 $$
 
-Fisher information answers the question _how much would the gradient of the log-likelihood change under a different consideration of parameters_? If it changes a lot, then more samples give you lots of information. If it changes little, you learn not much.
+Fisher information answers the question _how sensitive is the model under different consideration of parameters_? If it changes a lot, then more samples give you lots of information. If it changes little, you learn not much.
 
 The Fisher information does not depend on a particular observation $x$; $X$ is taken in expectation.
 
