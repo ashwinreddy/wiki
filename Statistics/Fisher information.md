@@ -11,7 +11,7 @@ Suppose $X$ is a coin flip from a [[Bernoulli distribution]] with parameter $\th
 \begin{align\*}
 \ell(\theta; x) &= \log p_\theta(x) \\\\
 &= \log \left(\theta\^x(1-\theta)\^{1-x}\right) \\\\
-&= x\theta + (1-x)(1-\theta)
+&= x\log \theta + (1-x)\log (1-\theta)
 \end{align\*}
 
 The score function is
