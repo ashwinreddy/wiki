@@ -6,10 +6,8 @@ $$
 
 Notice that the data $x$ is fixed when we compute the MLE. 
 
-Typically, it is easier to work with the [[log-likelihood function]]
-
-Suppose we know that $L(\theta ; x)$ is differentiable. Then we might solve for
+Typically, it is easier to work with the log-likelihood function $\ell(\theta; x) = \log L(\theta; x)$. If we know that $\ell$ is differentiable, we might solve
 
 \begin{equation}
-\frac{\partial L(\theta)}{\partial \theta} = 0
+\frac{\partial \ell(\theta; x)}{\partial \theta} = 0
 \end{equation}
