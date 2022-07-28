@@ -17,5 +17,5 @@ $$
 If we have a random vector $X^n$ of n [[iid]] trials of $X$, then
 
 $$
-\mathcal{I}_{X^n}(\theta) = n \mathcal{I}_{X}(\theta)
+\mathcal{I}\_{X^n}(\theta) = n \mathcal{I}_{X}(\theta)
 $$
