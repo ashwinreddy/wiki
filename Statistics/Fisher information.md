@@ -17,7 +17,7 @@ Suppose $X$ is a coin flip from a [[Bernoulli distribution]] with parameter $\th
 The score function is
 
 $$
-s(\theta) = \log\theta - \log(1-\theta)
+s(\theta) = \frac{x}{\theta} - \frac{1-x}{1-\theta}
 $$
 
 $$
