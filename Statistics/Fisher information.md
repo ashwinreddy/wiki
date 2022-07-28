@@ -4,7 +4,7 @@ $$
 \mathcal{I}(\theta) = \mathbb{V}\left[ \frac{\partial}{\partial \theta} \ell(\theta ; x) \right]
 $$
 
-The Fisher information does not depend on a particular observation $x$, this is taken in expectation.
+The Fisher information does not depend on a particular observation $x$; $X$ is taken in expectation.
 
 ## Properties
 
