@@ -17,7 +17,6 @@ Therefore,
 \begin{align\*}
 \ell(\theta; x) &= \log p_\theta(x) \\
 &= \log \left(\right)
-
 x\theta + (1-x)(1-\theta)
 \end{align\*}
 
