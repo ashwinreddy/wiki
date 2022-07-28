@@ -1,4 +1,4 @@
-**Fisher information** of a [[random variable]] $X$ about parameter $\theta$ is given by
+**Fisher information** quantifies how much information samples from a distribution give us about the parameters. When the Fisher information is high, it should be easier to estimate the parameters. The Fisher information is defined by
 
 $$
 \mathcal{I}_X(\theta) = \mathbb{E}\left[s(\theta)^2 \mid \theta \right]
