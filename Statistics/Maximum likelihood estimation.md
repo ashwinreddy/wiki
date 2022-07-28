@@ -8,9 +8,7 @@ $$
 \hat\theta_{\mathsf{MLE}} = \arg\max_{\theta \in \Theta} \hat{L}(\theta ; y)
 $$
 
----
-
-determine a [[random variable]] $X$ (which we don't have access to) given observation $Y$ via [[conditional probability distribution]] $P_{Y \mid X}$.
+Why does this work? 
 
 $$
 \arg\max_x \Pr(X = x \mid Y = y) = \arg\max_x \Pr(Y= y \mid X =x)
