@@ -23,7 +23,7 @@ $$
 <<Warn("INCOMPLETE")>>
 
 $$
-\mathcal{I}\_X(\theta) = 
+\mathcal{I}\_X(\theta) = \frac{1}{\theta(1-\theta)}
 $$
 
 ## Properties
