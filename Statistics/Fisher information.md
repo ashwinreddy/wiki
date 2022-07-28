@@ -11,5 +11,11 @@ The Fisher information does not depend on a particular observation $x$; $X$ is t
 ## Properties
 
 $$
-\mathcal{I}(\theta) \geqslant 0
+\mathcal{I}_X(\theta) \geqslant 0
+$$
+
+If we have a random vector $X^n$ of n [[iid]] trials of $X$, then
+
+$$
+\mathcal{I}_{X^n}(\theta) = n \mathcal{I}_{X^}(\theta)
 $$
