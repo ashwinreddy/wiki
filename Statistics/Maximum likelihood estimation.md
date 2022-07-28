@@ -11,3 +11,5 @@ Typically, it is easier to work with the log-likelihood function $\ell(\theta; x
 \begin{equation}
 \frac{\partial \ell(\theta; x)}{\partial \theta} = 0
 \end{equation}
+
+The function on the left is called the [[score function]]. 
