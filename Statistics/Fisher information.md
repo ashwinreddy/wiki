@@ -1,4 +1,4 @@
-**Fisher information** quantifies how much information samples from a distribution give us about the parameters of that distribution. When the Fisher information is high, it should be easier to estimate the parameters. Mathematically, the Fisher information of a [[random variable]] $X$ about $\theta$ is the [[variance]] of the [[score function]].
+**Fisher information** quantifies how much information samples from a distribution give us about the parameters of that distribution. When the Fisher information is high, it should be easier to estimate the parameters. Mathematically, the Fisher information of a [[random variable]] $X$ about $\theta$ is the [[variance]] of the [[score function]] under $X$.
 
 $$
 \mathcal{I}\_X(\theta) = \mathbb{V}_X \left[ s(\theta) \right]
