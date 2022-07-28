@@ -1,0 +1,1 @@
+**Estimation theory** tries to solve the problem of _parameter estimation_. Given $N$ observations, how can I estimate the parameter $\theta$ that generated them?
