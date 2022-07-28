@@ -12,6 +12,12 @@ $$
 p_\theta(x) = \theta\^x(1-\theta)\^{1-x}, \qquad \theta \in [0,1]
 $$
 
+Therefore, 
+
+$$
+\ell()
+$$
+
 $$
 \mathcal{I}\_X(\theta) = 
 $$
