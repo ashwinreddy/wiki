@@ -1,4 +1,4 @@
-The **score function** describes how sensitive the log-likelihood of a [[statistical model]] is to changes in parameter.
+The **score function** describes how sensitive the log-[[likelihood function]] of a [[statistical model]] is to changes in parameter.
 
 $$
 s(\theta) \triangleq \nabla_\theta \ell(\theta)
