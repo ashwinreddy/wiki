@@ -19,3 +19,5 @@ If we have a random vector $X^n$ of n [[iid]] trials of $X$, then
 $$
 \mathcal{I}\_{X^n}(\theta) = n \mathcal{I}_{X}(\theta)
 $$
+
+In general, for any [[statistic]] $T$, $\mathcal{I}\_{X^n}(\theta) \geqslant \mathcal{I}\_{T}(\theta)$ with equality if $T$ is a [[sufficient statistic]]. 
