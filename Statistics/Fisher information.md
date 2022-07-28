@@ -20,6 +20,8 @@ $$
 s(\theta) = \frac{x}{\theta} - \frac{1-x}{1-\theta}
 $$
 
+<<Warn("INCOMPLETE")>>
+
 $$
 \mathcal{I}\_X(\theta) = 
 $$
