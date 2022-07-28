@@ -5,3 +5,9 @@ Mathematically, Fisher information is the [[variance]] of the [[score function]]
 $$
 \mathcal{I}(\theta) = \mathbb{V}\left[ \frac{\partial}{\partial \theta} \ell(\theta ; x) \right]
 $$
+
+## Properties
+
+$$
+\mathcal{I}(\theta) \geqslant 0
+$$
