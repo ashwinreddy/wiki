@@ -20,4 +20,4 @@ $$
 \mathcal{I}\_{X^n}(\theta) = n \mathcal{I}_{X}(\theta)
 $$
 
-In general, for any [[statistic]] $T$, $\mathcal{I}\_{X^n}(\theta) \geqslant \mathcal{I}\_{T}(\theta)$ with equality if $T$ is a [[sufficient statistic]]. 
+A statistic $T$ cannot give us more information than the raw data, i.e. $\mathcal{I}\_{X^n}(\theta) \geqslant \mathcal{I}\_{T}(\theta)$, but it can maintain information if it is a [[sufficient statistic]]. 
