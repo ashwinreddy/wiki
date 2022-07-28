@@ -13,3 +13,5 @@ Typically, it is easier to work with the log-likelihood function $\ell(\theta; x
 \end{equation}
 
 The function on the left is called the [[score function]]. 
+
+> MLE is finding the root of the [[score function]].
