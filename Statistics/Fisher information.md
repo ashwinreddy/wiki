@@ -4,6 +4,8 @@ $$
 \mathcal{I}(\theta) = \mathbb{V}_\theta \left[ \frac{\partial}{\partial \theta} \ell(\theta ; x) \right]
 $$
 
+Fisher information answers the question _how much would the gradient of the log-likelihood change under a different consideration of parameters_?
+
 The Fisher information does not depend on a particular observation $x$; $X$ is taken in expectation.
 
 ## Properties
