@@ -4,8 +4,6 @@ $$
 \mathcal{I}\_X(\theta) = \mathbb{V}_X \left[ s(\theta) \right]
 $$
 
-Fisher information answers the question _how sensitive is the model to changes in parameters_? If it changes a lot, then more samples give you lots of information. If it changes little, you learn not much.
-
 The Fisher information does not depend on a particular observation $x$; $X$ is taken in expectation.
 
 ## Properties
