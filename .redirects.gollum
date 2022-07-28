@@ -83,3 +83,4 @@ Mathematics/Euclidean metric.md: Mathematics/Euclidean distance.md
 Computer-Science/Computational-Complexity-Theory/NP-completeness.md: Computer-Science/Computational-Complexity-Theory/NP-complete.md
 Computer-Science/Satisfiability.md: Computer-Science/Boolean satisfiability problem.md
 Statistics/Score.md: Statistics/Score function.md
+Statistics/Cramer-Rao inequality.md: Statistics/Cramer-Rao bound.md
