@@ -4,6 +4,7 @@ $$
 \mathcal{I}\_X(\theta) = \mathbb{V}_X \left[ s(\theta) \right]
 $$
 
+
 The Fisher information does not depend on a particular observation $x$; $X$ is taken in expectation.
 
 ## Properties
