@@ -1,4 +1,4 @@
-**Maximum likelihood estimation (MLE)** is a method to estimate the parameters of a statistical model given observations, by finding the paramaters that maximize the likelihood of the observations.
+**Maximum likelihood estimation (MLE)** estimates the parameters of a [[statistical model]] by picking the value that maximizes the [[likelihood function]].
 
 $$
 \hat{L}(\theta; y) = p_\theta(y) \tag{Likelihood function}
