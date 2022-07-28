@@ -1,7 +1,7 @@
-The **score function** describes how sensitive a [[statistical model]] is to changes in parameter.
+The **score function** describes how sensitive the log-likelihood of a [[statistical model]] is to changes in parameter.
 
 $$
-s(\theta) \triangleq \nabla_\theta \log\ell(\theta)
+s(\theta) \triangleq \nabla_\theta \ell(\theta)
 $$
 
 The [[expected value]] of the score is 0.
