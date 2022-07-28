@@ -1,1 +1,1 @@
-The **Cramer-Rao inequality** 
+The **Cramer-Rao bound** 
