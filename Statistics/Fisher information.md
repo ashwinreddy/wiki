@@ -9,7 +9,7 @@ $$
 Suppose $X$ is a coin flip from a [[Bernoulli distribution]] with parameter $\theta$. We know
 
 $$
-p_\theta(x) = \theta^x(1-\theta)^{1-x}
+p_\theta(x) = \theta\^x(1-\theta)\^{1-x}
 $$
 
 $$
