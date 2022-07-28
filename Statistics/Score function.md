@@ -6,3 +6,5 @@ $$
 
 * The [[expected value]] of the score is 0.
 * The [[variance]] of the score is [[Fisher information]].
+
+## Score is nil in expectation
