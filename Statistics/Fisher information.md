@@ -9,14 +9,14 @@ $$
 Suppose $X$ is a coin flip from a [[Bernoulli distribution]] with parameter $\theta$. We start with the log-likelihood function
 
 $$
-p_\theta(x) = \theta\^x(1-\theta)\^{1-x}, \qquad \theta \in [0,1]
+p_\theta(x) = , \qquad \theta \in [0,1]
 $$
 
 Therefore, 
 
 \begin{align\*}
-\ell(\theta; x) &= \log p_\theta(x) \\
-&= \log \left(\right)
+\ell(\theta; x) &= \log p_\theta(x) \\\\
+&= \log \left(\theta\^x(1-\theta)\^{1-x}\right)
 x\theta + (1-x)(1-\theta)
 \end{align\*}
 
