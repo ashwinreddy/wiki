@@ -4,6 +4,10 @@ $$
 \mathcal{I}\_X(\theta) = \mathbb{V}_X \left[ s(\theta) \right]
 $$
 
+## Examples
+
+Suppose $X$ is a coin flip from a [[Bernoulli distribution]] with parameter $\theta$. 
+
 ## Properties
 
 $$
