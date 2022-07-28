@@ -17,7 +17,7 @@ Therefore,
 \begin{align\*}
 \ell(\theta; x) &= \log p_\theta(x) \\\\
 &= \log \left(\theta\^x(1-\theta)\^{1-x}\right) \\\\
-x\theta + (1-x)(1-\theta)
+&= x\theta + (1-x)(1-\theta)
 \end{align\*}
 
 The score function is
