@@ -15,7 +15,7 @@ $$
 Therefore, 
 
 $$
-\ell()
+\ell(\theta) = x\theta + (1-x)(1-\theta)
 $$
 
 $$
