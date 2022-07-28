@@ -3,3 +3,5 @@
 $$
 \hat\theta_{\mathsf{MLE}} = \arg\max_{\theta \in \Theta} L(\theta ; x)
 $$
+
+Notice that the data $x$ is fixed when we compute the MLE.
