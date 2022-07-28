@@ -10,4 +10,4 @@ Notice that the data $x$ is fixed when we compute the MLE. Typically, it is easi
 \frac{\partial \ell(\theta; x)}{\partial \theta} = 0
 \end{equation}
 
-Hence, MLE can reduce to finding the root of the [[score function]].
+Hence, MLE can reduce to finding the root of the [[score function]]. MLE is related to [[Fisher Information]]. 
