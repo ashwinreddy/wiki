@@ -20,6 +20,8 @@ $$
 \mathcal{I}\_X(\theta) = \theta \frac{1}{\theta^2} + (1-\theta)\frac{1}{(1-\theta)^2} = \frac{1}{\theta(1-\theta)}
 $$
 
+![](https://awni.github.io/images/intro_fisher_information/fisher_bernoulli.svg)
+
 ## Properties
 
 $$
