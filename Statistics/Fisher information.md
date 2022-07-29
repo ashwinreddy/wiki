@@ -17,7 +17,7 @@ p(x = 1 \mid \theta) = \theta \implies \left(\frac{\mathrm{d}}{\mathrm{d}\theta}
 $$
 
 $$
-\mathcal{I}\_X(\theta) = \theta \frac{1}{\theta^2} + (1-\theta)\frac{1}{(1-\theta)^2}
+\mathcal{I}\_X(\theta) = \theta \frac{1}{\theta^2} + (1-\theta)\frac{1}{(1-\theta)^2} = \frac{1}{\theta(1-\theta)}
 $$
 
 ## Properties
