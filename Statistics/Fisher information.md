@@ -1,11 +1,10 @@
-**Fisher information** is defined as
+The **Fisher information** of a [[random variable]] $X$ about a parameter $\theta$ for its distribution is defined as
 
 $$
 \mathcal{I}_X(\theta) = \mathbb{E}\left[\left( \frac{\mathrm{d}}{\mathrm{d}\theta} \log p(x \mid \theta) \right)^2 \right]
 $$
 
-
-quantifies the information given by samples from a probability distribution about the parameters of that distribution. When the Fisher information is high, it should be easier to estimate the parameters. Mathematically, the Fisher information of a [[random variable]] $X$ about $\theta$ is the [[variance]] of the [[score function]] under $X$. Thus, the Fisher information does not depend on particular observations, but the outcomes in expectation.
+Fisher information intuitively quantifies the information given by samples of $X$ about $\theta$. When it's high, it should be easier to estimate the parameters. Fisher information does not depend on particular observations but outcomes in expectation.
 
 $$
 \mathcal{I}\_X(\theta) = \mathbb{V}_X \left[ s(\theta) \right]
