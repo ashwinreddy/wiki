@@ -10,25 +10,14 @@ Since the [[expected value]] of the [[score function]] is 0, Fisher information 
 
 ## Examples
 
-Suppose $X$ is a coin flip from a [[Bernoulli distribution]] with parameter $\theta$. We start by computing the log-[[likelihood function]].
-
-
-\begin{align\*}
-\ell(\theta; x) &= \log p_\theta(x) \\\\
-&= \log \left(\theta\^x(1-\theta)\^{1-x}\right) \\\\
-&= x\log \theta + (1-x)\log (1-\theta)
-\end{align\*}
-
-The score function is
+Suppose $X$ is a coin flip from a [[Bernoulli distribution]] with parameter $\theta$. 
 
 $$
-s(\theta) = \frac{x}{\theta} - \frac{1-x}{1-\theta}
+p(x = 1 \mid \theta) = \theta \implies \left(\frac{\mathrm{d}}{\mathrm{d}\theta} \log p(x = 1 \mid \theta)\right)^2 = \frac{1}{\theta^2}
 $$
 
-<<Warn("INCOMPLETE")>>
-
 $$
-\mathcal{I}\_X(\theta) = \frac{1}{\theta(1-\theta)}
+\mathcal{I}\_X(\theta) = \theta 
 $$
 
 ## Properties
