@@ -14,6 +14,7 @@ $$
 
 Suppose $X$ is a coin flip from a [[Bernoulli distribution]] with parameter $\theta$. We start by computing the log-[[likelihood function]].
 
+
 \begin{align\*}
 \ell(\theta; x) &= \log p_\theta(x) \\\\
 &= \log \left(\theta\^x(1-\theta)\^{1-x}\right) \\\\
