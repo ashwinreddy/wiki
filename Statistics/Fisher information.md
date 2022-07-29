@@ -1,7 +1,7 @@
 **Fisher information** is defined as
 
 $$
-\mathcal{I}_X(\theta) = \mathbb{E}\left[\left( \deriv{}{} \right) \right]
+\mathcal{I}_X(\theta) = \mathbb{E}\left[\left( \frac{\mathrm{d}}{\mathrm{d}\theta} \log p(x \mid \theta) \right)^2 \right]
 $$
 
 
