@@ -6,7 +6,7 @@ $$
 
 Fisher information intuitively quantifies the information given by samples of $X$ about $\theta$. When it's high, it should be easier to estimate the parameters. Fisher information does not depend on particular observations but outcomes in expectation.
 
-Since the [[expected value]] of the [[score fucntion]] is 0, Fisher information is a [[variance]].
+Since the [[expected value]] of the [[score function]] is 0, Fisher information is a [[variance]].
 
 ## Examples
 
