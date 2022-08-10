@@ -1,5 +1,5 @@
 **Entropy** is a measure of uncertainty.
 
 $$
-H[X] = \mathbb{E}\left[I(x)\right]
+H[X] = \mathbb{E}\left[h(x)\right]
 $$
