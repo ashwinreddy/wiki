@@ -1,1 +1,0 @@
-An **array** is a [[data structure]].
