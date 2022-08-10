@@ -8,3 +8,5 @@ T :  V^k \to \RR
 \end{equation}
 
 Therefore, a [[vector]] and a [[dual vector|dual vector space]] are both tensors.
+
+[Why Tensors? A Beginner's Perspective](https://mfaizan.github.io/2022/03/08/why-tensors.html)
