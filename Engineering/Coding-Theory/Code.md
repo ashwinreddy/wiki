@@ -1,1 +1,0 @@
-A **code** $C$ of block length $n$ over an alphabet $\Sigma$ is a [[subset]] $C \subseteq \Sigma^n$.
