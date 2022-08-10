@@ -1,1 +1,0 @@
-**Normal play convention** for a [[combinatorial game]] is that player reaching terminal state wins.
