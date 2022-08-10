@@ -1,1 +1,0 @@
-**Euclidean space** $\mathbb{E}^n$ is the [[manifold]] with a global identity chart.
