@@ -1,1 +1,0 @@
-**Galilean relativity** is a theory of relativity that says the laws of motion are the same in all inertial reference frames. It is the theory adopted by classical Newtonian mechanics.

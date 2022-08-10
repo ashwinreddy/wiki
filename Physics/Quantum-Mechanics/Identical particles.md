@@ -1,1 +1,0 @@
-**Identical particles** cannot be distinguished in anyway. All [[electron]] are identical.

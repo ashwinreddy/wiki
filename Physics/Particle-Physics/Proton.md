@@ -1,1 +1,0 @@
-A **proton** is a small positively charged particle that makes up every [[atom]].

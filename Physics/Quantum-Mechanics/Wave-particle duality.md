@@ -1,1 +1,0 @@
-The **wave-particle duality** says everything is a particle and a wave, especially [[light]].

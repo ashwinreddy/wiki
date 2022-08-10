@@ -1,1 +1,0 @@
-An **inertial reference frame (IRF)** is a frame of reference with zero acceleration, which everybody can agree on. Any coordinate system in uniform rectilinear motion with respect to an inertial one is inertial.

@@ -1,1 +1,0 @@
-**Speed** is the magnitude of [[velocity]].

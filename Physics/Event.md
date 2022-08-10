@@ -1,1 +1,0 @@
-An **event** requires a time and place. It is a [[four-vector]].

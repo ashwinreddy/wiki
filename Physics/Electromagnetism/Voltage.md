@@ -1,1 +1,0 @@
-**Voltage** is a difference in [[electric potential]].

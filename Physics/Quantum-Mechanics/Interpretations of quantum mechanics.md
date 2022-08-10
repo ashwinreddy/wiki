@@ -1,5 +1,0 @@
-The generalized statistical interpretation says the following:
-
-> If you measure an [[observable]] $Q(x, p)$ on a particle in the state $\Psi(x,t)$, you are certain to get one of the eigenvalues of the [[hermitian operator]] $\widehat{Q}(x, -i\hbar \dd{} / \dd{}x)$. If the [[spectrum]] of $\widehat{Q}$ is discrete, the probability of getting the particular eigenvalue $q_n$ associated with the (orthonormalized) function $f_n(x)$ is $|c_n|^2$, where $c_n = \langle f_n \mid \Psi \rangle$. If the spectrum is continuous with real eigenvalues $q(z)$ and associated (Dirac-orthonormalized) eigenfunctions $f_z(x)$, the probability of getting a result in the range $\dd{z}$ is $|c(z)|^2\dd{z}$ where $c(z) = \langle f_z \mid \Psi \rangle$. Upon measurement, the wave function collapses to the corresponding eigenstate.
-
-Examples. Probability of getting a position measurement in the range $\dd{y}$ is $|\Psi(y, t)|^2\dd{y}$.

@@ -1,1 +1,0 @@
-**Einstein-Hilbert action** is an [[action]] that generates [[Einstein field equations]].

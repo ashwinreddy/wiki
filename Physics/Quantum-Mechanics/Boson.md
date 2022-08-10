@@ -1,1 +1,0 @@
-A **boson** has integer [[spin]]. Its [[wave function]] must be [[even function]]

@@ -1,1 +1,0 @@
-**Mechanical equilibrium** for a system requires that there be no net force on the system.

@@ -1,1 +1,0 @@
-The **Stern-Gerlach experiment**, performed in Frankfurt, 1922, applies an inhomogeneous [[magnetic field]] to electrons.

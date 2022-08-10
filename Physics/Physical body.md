@@ -1,1 +1,0 @@
-A **physical body** has [[mass]] and position.

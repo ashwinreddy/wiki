@@ -1,1 +1,0 @@
-The **magnetic quantum number** $m_\ell$ can take on integral values from $\ell$ to $\ell$ for [[azimuthal quantum number]] $\ell$.

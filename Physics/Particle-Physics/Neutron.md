@@ -1,1 +1,0 @@
-A **neutron** has no charge and weighs a little more than a [[proton]].

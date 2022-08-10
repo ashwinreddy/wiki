@@ -1,1 +1,0 @@
-An **eigenstate** for an [[operator]] $Q$ is an eigenvector for $Q$.

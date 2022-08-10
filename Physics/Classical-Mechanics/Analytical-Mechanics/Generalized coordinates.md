@@ -1,1 +1,0 @@
-**Generalized coordinates** are a choice of coordinates for the [[configuration space]].

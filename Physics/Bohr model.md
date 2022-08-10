@@ -1,1 +1,0 @@
-The **Bohr model**
