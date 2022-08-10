@@ -1,1 +1,0 @@
-The **cutoff frequency** or **corner frequency** is when we consider a signal to be attenuated. The half-power criteria would be that the output power has halved.
