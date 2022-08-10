@@ -1,1 +1,0 @@
-**2SAT** is [[Satisfiability]] with 2 variables. It belongs to [[P]].
