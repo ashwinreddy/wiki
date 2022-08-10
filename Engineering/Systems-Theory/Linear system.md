@@ -1,1 +1,0 @@
-A **linear system** is one that is [[linear map]].
