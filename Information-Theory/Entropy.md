@@ -3,3 +3,7 @@
 $$
 H[X] = \mathbb{E}\left[h(x)\right]
 $$
+
+$$
+H(X) = - \sum_x p(x) \log p(x)
+$$
