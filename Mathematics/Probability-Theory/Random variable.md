@@ -1,0 +1,1 @@
+A **random variable** is a function $f: \Omega \to \RR$
