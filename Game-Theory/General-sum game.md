@@ -1,1 +1,0 @@
-A **general-sum game** gives payoffs $a_{ij}$ and $b_{ij}$ to its players, generalizing a [[zero-sum game]]. No optimal strategy, instead we have safety strategies. We also often want to find [[Nash equilibrium]].
