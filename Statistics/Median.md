@@ -1,1 +1,0 @@
-**Median** is robust compared to mean for outliers.

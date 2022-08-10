@@ -1,1 +1,0 @@
-A **prior probability** in [[Bayes' theorem]]

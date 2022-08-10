@@ -1,1 +1,0 @@
-**Receiver operating characteristic (ROC)** is $R(\beta) = \text{PCD}$ for a [[binary hypothesis testing]].

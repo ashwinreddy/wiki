@@ -1,1 +1,0 @@
-A **statistical model** is "typically defined by a function $f(x_i \mid \theta)$ that represents how a parameter $\theta$ is functionally related to potential outcomes $x_i$ of a random variable $X_i$."

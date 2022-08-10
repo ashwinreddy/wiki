@@ -1,1 +1,0 @@
-An **estimator** is a rule for calculating an estimate of a given quantity based on observed data.

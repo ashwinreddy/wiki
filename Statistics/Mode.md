@@ -1,1 +1,0 @@
-The **mode** is the most common number in a dataset.

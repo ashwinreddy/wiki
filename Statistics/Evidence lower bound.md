@@ -1,1 +1,0 @@
-The **evidence lower bound (ELBO)** is a lower bound on the probability of observing some data under a model. Therefore, one application in variational Bayes methods is that you can try to maximize the lower bound.

@@ -1,1 +1,0 @@
-A **discriminative model** tries to learn a [[conditional probability distribution]] $p(y \mid x)$ so that when an $x$ is given, we can select the $y$ with highest probability.

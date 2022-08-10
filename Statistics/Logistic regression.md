@@ -1,1 +1,0 @@
-**Logistic regression** is regression on a probability via [[logistic function|sigmoid function]]. We use the [[cross-entropy loss]]
