@@ -1,1 +1,0 @@
-**MOESI** is a protocol for [[cache coherence]] that tracks whether a block in cache needs updating.
