@@ -1,1 +1,0 @@
-A **strategy-stealing argument** lets you determine if a state is P or N by considering whether the player can steal the other player's strategy.
