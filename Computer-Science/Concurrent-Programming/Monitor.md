@@ -1,1 +1,0 @@
-A **monitor** is a [[lock]] with [[condition variable]](s). 
