@@ -4,6 +4,7 @@ $$
 P(A \mid B) = \frac{P(B\mid A) P(A)}{P(B)}
 $$
 
+
 # Resources
 
 * [[https://neilkakkar.com/Bayes-Theorem-Framework-for-Critical-Thinking.html]]
