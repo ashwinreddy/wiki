@@ -1,1 +1,0 @@
-A **queue** is a [[data structure]] that is so-called because it has first-in first-out (FIFO) behavior.
