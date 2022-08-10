@@ -6,3 +6,10 @@
 |**I stay silent** | I get 12 years, you go free | Each gets 2 years |
 
 Cooperating, we both stay silent to minimize punishment. But if you confess, I prefer to confess because I serve 10 years and not 12. If you stay silent, I still prefer to confess beause I serve 0 years and not 2. Hence, I should always confess, and, by symmetry, you too. Thus, since we cannot cooperate, we each have to make an independent choice, and we rat each other out.
+
+The generic payoff matrix looks like this, if T > R > P > S.
+
+| | You confess | You stay silent |
+|-|--------------|----------|
+|**I confess**| P,P | T,S |
+|**I stay silent** | S,T | R,R |
