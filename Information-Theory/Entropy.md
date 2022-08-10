@@ -1,4 +1,4 @@
-**Entropy** is a measure of uncertainty. It is the expected information content of a [[random variable]].
+**Entropy** is a measure of uncertainty in a [[random variable]] by its [[expected value]] of information.
 
 $$
 H[X] = \mathbb{E}\left[h(x)\right]
