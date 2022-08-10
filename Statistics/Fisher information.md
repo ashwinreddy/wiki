@@ -1,4 +1,4 @@
-The **Fisher information** of a [[random variable]] $X$ about a parameter $\theta$ for its distribution is defined as
+The **Fisher information** of a [[random variable]] $X$ about a parameter $\theta$ for its distribution is defined as the [[variance]] of the [[score function]]:
 
 $$
 \mathcal{I}_X(\theta) = \mathop{\mathbb{V}}\_{x \sim p(x \mid \theta) }\left[ s\left(\theta \mid x\right) \right]
@@ -6,7 +6,6 @@ $$
 
 Fisher information intuitively quantifies the information given by samples of $X$ about $\theta$. When it's high, it should be easier to estimate the parameters. Fisher information does not depend on particular observations but outcomes in expectation.
 
-Since the [[expected value]] of the [[score function]] is 0, Fisher information is a [[variance]].
 
 ## Examples
 
