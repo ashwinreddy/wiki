@@ -1,7 +1,7 @@
 The **Fisher information** of a [[random variable]] $X$ about a parameter $\theta$ for its distribution is defined as
 
 $$
-\mathcal{I}_X(\theta) = \mathop{\mathbb{E}}\_{x \sim p(x \mid \theta) }\left[ \ell'\left(\theta \mid x\right)^2 \right]
+\mathcal{I}_X(\theta) = \mathop{\mathbb{E}}\_{x \sim p(x \mid \theta) }\left[ s\left(\theta \mid x\right)^2 \right]
 $$
 
 Fisher information intuitively quantifies the information given by samples of $X$ about $\theta$. When it's high, it should be easier to estimate the parameters. Fisher information does not depend on particular observations but outcomes in expectation.
