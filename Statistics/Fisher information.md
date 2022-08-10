@@ -4,7 +4,7 @@ $$
 \mathcal{I}_X(\theta) = \mathop{\mathbb{V}}\_{x \sim p(x \mid \theta) }\left[ s\left(\theta \mid x\right) \right]
 $$
 
-Fisher information intuitively quantifies the information given by samples of $X$ about $\theta$. When it's high, it should be easier to estimate the parameters. Fisher information does not depend on particular observations but outcomes in expectation.
+Fisher information intuitively quantifies the information given by samples of $X$ about $\theta$. When it's high, it should be easier to estimate $\theta$. Fisher information does not depend on particular observations but outcomes in expectation.
 
 
 ## Examples
