@@ -5,5 +5,5 @@ H[X] = \mathbb{E}\left[h(x)\right]
 $$
 
 $$
-H(X) = - \sum_{x \in \chi} p(x) \log p(x)
+H(X) = - \sum_{x \in \mathcal{X}} p(x) \log p(x)
 $$
