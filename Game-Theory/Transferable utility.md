@@ -1,5 +1,0 @@
-**Transferable utility** in a [[cooperative game]] means that players can trade utility on the side. Let's say there are two players with payoff matrices $A$ and $B$. 
-
-1. Maximize the total utility. Concretely, let $(i_\*, j_*)$ be the indices to maximal entry of $A+B$.
-2. Decide how to split the utility. In the [[zero-sum game]] with payoff matrix $A-B$, find safety strategies $x_\*$ and $y_*$, called threat strategies, and let $\delta$ denote the value of the game. The disagreement point is $(d_1, d_2) = \left(x_\*^\mathsf{T} A y_\*, x_\*^\mathsf{T} B y_\*\right)$. Let $\delta = d_1 - d_2$.
-3. The cooperative strategy is to play the pure strategies $x = e_{i_\*}$ and $y=e\_{j_\*}$. The payoff vector is $(a_\*, b_*) = \left(\frac{\sigma+\delta}{2},\frac{\sigma - \delta}{2}\right)$. Player 2 should pay $b_{i_\* j_\*} - \frac{\sigma-\delta}{2}=\frac{\sigma+\delta}{2} - a_{i_\* j_\*}$ to player 1.
