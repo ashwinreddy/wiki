@@ -1,1 +1,0 @@
-**Bode plot** shows magnitude and phase.
