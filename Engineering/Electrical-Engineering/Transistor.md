@@ -1,1 +1,0 @@
-* [[https://www.solipsys.co.uk/new/SignalReflection.html?th08hn]]
