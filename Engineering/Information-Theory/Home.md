@@ -1,3 +1,0 @@
-**Information theory** is a field of study initiated by Claude Shannon in the 1940s that's interested in quantifying information content. It is connected to probability theory. The obvious use case is creating communication systems that are robust from the system side rather than the hardware side.
-
-[[https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Figchannel2017ab.svg/2560px-Figchannel2017ab.svg.png]]
