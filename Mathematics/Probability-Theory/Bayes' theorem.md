@@ -1,8 +1,8 @@
-**Bayes' theorem** is a fundamental theorem about [[conditional probability]]. 
+**Bayes' theorem / rule** is a fundamental theorem about [[conditional probability]]. 
 
 > If events $A$ and $B$ have positive probability, then \begin{equation}\mathbb{P}(A \mid B) = \frac{ \mathbb{P}(B \mid A)\mathbb{P}(A) }{\mathbb{P}(B)}\end{equation}
 
-It tells you how to update your prior beliefs given new information. To be a Bayesian thinker is to be a detective. Before you see any evidence, you have a guess for the result. This is the **prior**. You then observe some evidence. Bayes' theorem says that your new belief in the hypothesis, known as the **posterior**, is proportional to the prior. The factor is the likelihood of seeing this evidence given the hypothesis divided by the probability you'd see this evidence anyway.
+Bayes tells you how to update your prior beliefs given new information. To be a Bayesian thinker is to be a detective. Before you see any evidence, you have a guess for the result. This is the **prior**. You then observe some evidence. Bayes' theorem says that your new belief in the hypothesis, known as the **posterior**, is proportional to the prior. The factor is the likelihood of seeing this evidence given the hypothesis divided by the probability you'd see this evidence anyway.
 
 \begin{equation}
 \frac{\text{Posterior}}{\text{Prior}} = \frac{\text{Likelihood}}{\text{Evidence}}
