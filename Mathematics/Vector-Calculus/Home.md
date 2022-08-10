@@ -1,1 +1,0 @@
-The foundations of modern vector calculus were laid by Josiah Willard Gibbs and Oliver Heaviside in the 1870s.

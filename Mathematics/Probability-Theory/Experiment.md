@@ -1,1 +1,0 @@
-An **experiment** is any setting in which we can begin to talk about probabilities. The experiment is a repeatable operation that results in a set of outcomes, called the [[sample space]]. For example, flipping a coin is an experiment that results in heads or tails. From there, the natural question is how likely different events are.

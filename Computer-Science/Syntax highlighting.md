@@ -1,1 +1,0 @@
-https://buttondown.email/hillelwayne/archive/syntax-highlighting-is-a-waste-of-an-information/

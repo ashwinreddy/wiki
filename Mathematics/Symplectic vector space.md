@@ -1,1 +1,0 @@
-A **symplectic vector space** is a [[vector space]] over a [[field]] with a symplectic [[bilinear form]]

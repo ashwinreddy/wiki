@@ -1,1 +1,0 @@
-A **recurrence relation** is a [[recursive|recursion]] equation for a [[sequence]].

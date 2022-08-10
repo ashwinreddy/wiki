@@ -1,1 +1,0 @@
-**Probabilistic graphical model**

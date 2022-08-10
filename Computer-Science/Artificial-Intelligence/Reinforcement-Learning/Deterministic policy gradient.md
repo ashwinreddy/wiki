@@ -1,1 +1,0 @@
-The **deterministic policy gradient** is a [[policy gradient]] adapted to the special case of a deterministic [[policy]], which we typically denote $\mu$. Then, actions are given by $a = \mu(s)$.

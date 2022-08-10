@@ -1,1 +1,0 @@
-A **socket** sends or receives data.

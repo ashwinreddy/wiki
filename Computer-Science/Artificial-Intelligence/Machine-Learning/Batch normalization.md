@@ -1,1 +1,0 @@
-**Batch normalization** (abbreviated **batch norm**) normalizes neuron outputs. [[Mean]]

@@ -1,1 +1,0 @@
-An $s-t$ **flow network** is a [[graph]] $G$ with each edges assigned a non-negative capacity. We often care about the [[maximum flow problem]].

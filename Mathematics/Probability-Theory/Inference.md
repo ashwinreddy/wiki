@@ -1,1 +1,0 @@
-**Inference** is the process of computing a [[probability distribution]] over certain specified [[random variables|random variable]], usually after observing the value of some other variables in the model.

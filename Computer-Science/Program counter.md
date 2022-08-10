@@ -1,1 +1,0 @@
-The **program counter** is the next instruction to run. Each [[thread]] has its own program counter.

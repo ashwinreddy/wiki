@@ -1,1 +1,0 @@
-**Matrix multiplication algorithm**. The naive is $\order{n^3}$

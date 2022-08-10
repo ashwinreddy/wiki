@@ -1,1 +1,0 @@
-The **product space** of [[topological spaces|topological space]] is the [[Cartesian product]] equipped with the appropriate topology.

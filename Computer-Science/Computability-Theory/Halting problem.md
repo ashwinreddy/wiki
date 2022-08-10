@@ -1,1 +1,0 @@
-The **halting problem** is a [[decision problem]] where given a computer program and an input, we have to decide whether it halts or not. is an [[NP-hard]] problem.

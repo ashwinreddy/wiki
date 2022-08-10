@@ -1,1 +1,0 @@
-The **complement** of a [[decision problem]]. As an example, the complement of determining whether a number is prime is determining whether it is composite.

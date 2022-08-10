@@ -1,1 +1,0 @@
-A  **vector** is as a 1-dimensional linear subspace (this is the healthy way to think about it). A vector can be a [[function]] or a [[matrix]], etc.

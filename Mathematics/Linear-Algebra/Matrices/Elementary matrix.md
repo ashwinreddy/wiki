@@ -1,1 +1,0 @@
-An **elementary matrix** is a [[square matrix]] that represents an elementary row operation.

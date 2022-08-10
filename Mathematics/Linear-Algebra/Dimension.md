@@ -1,1 +1,0 @@
-**Dimension** is the cardinality of a [[basis]].

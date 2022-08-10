@@ -1,1 +1,0 @@
-An **event** is a subset of the [[sample space]].

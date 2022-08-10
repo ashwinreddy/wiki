@@ -1,1 +1,0 @@
-**Cache coherence** is the state of shared memory resources in agreement, important when multiple cores share memory.

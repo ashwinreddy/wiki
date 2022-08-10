@@ -1,1 +1,0 @@
-A **Pareto distribution** is a [[probability distribution]]

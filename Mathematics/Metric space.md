@@ -1,1 +1,0 @@
-A **metric space** is a [[set]] with a [[metric]]. A metric space automatically induces a [[topological space]].

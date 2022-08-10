@@ -1,1 +1,0 @@
-A **transitive relation** is a [[binary relation]] $R$ that chains together so that if $a$ and $b$ are $R$-related and $b$ and $c$ are $R$-related, then $a$ and $c$ must also be $R$-related.

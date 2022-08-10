@@ -1,1 +1,0 @@
-A **linear classifier** uses a linear decision boundary with [[hyperplane]] $\mathbf{w}^\mathsf{T}\mathbf{x}$ to classify $\mathbf{x}$

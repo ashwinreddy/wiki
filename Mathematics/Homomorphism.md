@@ -1,1 +1,0 @@
-A **homomorphism** is a structure preserving map between algebraic structures.

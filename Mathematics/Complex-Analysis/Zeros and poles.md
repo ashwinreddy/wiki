@@ -1,1 +1,0 @@
-A **pole** of $f$ is a zero of $1/f$.

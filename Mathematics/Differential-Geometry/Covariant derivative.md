@@ -1,1 +1,0 @@
-**Covariant derivative**

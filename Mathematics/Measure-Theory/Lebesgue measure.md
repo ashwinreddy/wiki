@@ -1,1 +1,0 @@
-The **Lebesgue measure** is a standard [[measure]] we can furnish for [[Euclidean space]]

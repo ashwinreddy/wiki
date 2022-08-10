@@ -1,1 +1,0 @@
-**Group theory** is the study of [[groups|group]], which are an abstractly defined algebraic structure. Many commonly occurring and important mathematical objects can be framed as groups. A proof about groups is powerful because it therefore extends to a vast number of objects.

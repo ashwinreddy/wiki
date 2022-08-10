@@ -1,1 +1,0 @@
-The **sample space** $\Omega$ is the [[set]] of all outcomes in an [[experiment]]. The sample space is part of [[probability space]].

@@ -1,1 +1,0 @@
-**Behavior cloning** or **direct imitation learning** is just copying the actions of an expert.

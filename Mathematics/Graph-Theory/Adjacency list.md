@@ -1,1 +1,0 @@
-An **adjacency list** is a collection of unordered lists to represent a [[graph]] where you have an [[array]] `B` where `B[i]` will give us a list of vertices adjacent to `i`.

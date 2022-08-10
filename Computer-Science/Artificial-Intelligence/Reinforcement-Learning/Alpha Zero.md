@@ -1,1 +1,0 @@
-**AlphaZero** uses a neural network that takes board positions $s$ as input and outputs $f_\theta(s) = (\mathbf{p}, v)$, a vector of move probabilities $\mathbf{p}$ where $p_a = \Pr(a \mid s)$ for action $a$ and $v \approx \mathbb{E}[z \mid s]$ where $z$ is the expected outcome. Then it uses [[Monte Carlo Tree Search]]

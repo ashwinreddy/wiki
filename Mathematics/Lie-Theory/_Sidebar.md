@@ -1,2 +1,0 @@
-* [[Lie Group]]
-* [[Lie Algebra]]

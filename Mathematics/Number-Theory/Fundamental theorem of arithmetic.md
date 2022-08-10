@@ -1,1 +1,0 @@
-**Fundamental theorem of arithmetic** says every natural number greater than 1 has a unique prime factorization.

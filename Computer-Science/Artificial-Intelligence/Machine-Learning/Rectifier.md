@@ -1,1 +1,0 @@
-A **rectifier** is a $\max \\{ 0, x \\}$.

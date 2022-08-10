@@ -1,1 +1,0 @@
-**Computer memory** holds information. We can think of it as an infinitely long array of cells with addresses and values.

@@ -1,1 +1,0 @@
-A **measurable function** is a [[function]] between [[measurable space]]

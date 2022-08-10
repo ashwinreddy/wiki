@@ -1,1 +1,0 @@
-A **randomized algorithm** $\mathcal{A}$ is an [[algorithm]] that generates a random bitstring $r$ to guide its execution. It can either be a [[Las Vegas algorithm]] or a [[Monte Carlo algorithm]].

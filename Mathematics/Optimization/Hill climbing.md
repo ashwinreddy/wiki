@@ -1,1 +1,0 @@
-**Hill-climbing** or **steepest ascent** picks the highest-valued neighbor and selects it if it is better than the current, iteratively.

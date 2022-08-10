@@ -1,1 +1,0 @@
-**Overfitting** is when a model tries to fit to the training data to the point where performance drops on the test set.

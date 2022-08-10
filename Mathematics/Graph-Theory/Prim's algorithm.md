@@ -1,1 +1,0 @@
-**Prim's algorithm** is a [[greedy algorithm]] that finds a [[minimum spanning tree]] $T$ for a graph $G$.

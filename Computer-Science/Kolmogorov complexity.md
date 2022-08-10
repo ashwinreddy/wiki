@@ -1,1 +1,0 @@
-The **Kolmogorov complexity** of an object is the length of the shortest computer program that can produce it.

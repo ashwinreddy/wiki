@@ -1,1 +1,0 @@
-A **cycle** in a [[graph]]

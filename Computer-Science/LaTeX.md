@@ -1,1 +1,0 @@
-**LaTeX** is Turing complete!

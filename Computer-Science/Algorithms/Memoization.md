@@ -1,1 +1,0 @@
-**Memoization** is saving values to expensive function calls to a [[cache]].

@@ -1,1 +1,0 @@
-Every [[set]] of vectors is either **linearly dependent** or **linearly independent** based on whether there is redundance in the set.

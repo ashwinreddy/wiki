@@ -1,1 +1,0 @@
-The **upper/lower bound** for a [[set]] $S$ is a value that is greater than or equal to / less than or equal to any and all members in the set, if such a value exists (in which case the set is bounded above or bounded below). 

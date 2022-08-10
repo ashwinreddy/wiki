@@ -1,1 +1,0 @@
-The **spectral theorem** says a real [[symmetric matrix]] of [[rank]] $n$ has $n$ orthogonal [[eigenvectors|eigenpairs]] with real eigenvalues.

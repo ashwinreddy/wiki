@@ -1,1 +1,0 @@
-A **ring** is a [[set]] with addition and multiplication.

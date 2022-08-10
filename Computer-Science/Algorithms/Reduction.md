@@ -1,1 +1,0 @@
-A **reduction** is an algorithm that transforms one problem into another problem.

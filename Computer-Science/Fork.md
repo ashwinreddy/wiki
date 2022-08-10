@@ -1,1 +1,0 @@
-`fork` creates a new [[process]] from the [[thread]] which calls it. All other threads are ignored.

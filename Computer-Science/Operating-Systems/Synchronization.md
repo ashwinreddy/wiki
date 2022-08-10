@@ -1,1 +1,0 @@
-**Synchronization** is cooperation between [[threads|thread]].

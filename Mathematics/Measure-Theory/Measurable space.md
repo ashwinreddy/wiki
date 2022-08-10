@@ -1,1 +1,0 @@
-A **measurable space** consists of a [[set]] and a choice of [[σ-algebra]].

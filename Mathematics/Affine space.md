@@ -1,1 +1,0 @@
-**Affine space** is basically [[Euclidean space]] where we lose/discard the origin.

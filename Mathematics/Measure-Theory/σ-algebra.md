@@ -1,1 +1,0 @@
-A **$\sigma$-algebra** for a [[set]] $\Omega$ is a set that contains $\Omega$ and is closed under complements and countable unions. By [[de Morgan's law]], it is also closed under countable intersections.

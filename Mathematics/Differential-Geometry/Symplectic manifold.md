@@ -1,1 +1,0 @@
-A **symplectic manifold** is a [[manifold]] $M$ with a symplectic form $\omega$.

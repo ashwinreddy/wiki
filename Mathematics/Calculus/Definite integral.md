@@ -1,1 +1,0 @@
-The **definite integral** is one kind of [[integral]]. [[Riemann sum]] is one implementation.

@@ -1,1 +1,0 @@
-**Uniform continuity** for a function $f: S \subseteq \RR \to \RR$ means that for each $\epsilon > 0$, there exists $\delta > 0$ such that $x, y \in S$, $|x - y| < \delta \implies |f(x) - f(y) | < \epsilon$.

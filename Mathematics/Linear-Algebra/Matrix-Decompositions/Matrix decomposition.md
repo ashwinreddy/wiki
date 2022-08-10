@@ -1,1 +1,0 @@
-A **matrix decomposition** factorizes a [[matrix]] into a product of matrices by [[matrix multiplication]].

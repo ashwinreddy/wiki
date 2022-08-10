@@ -1,1 +1,0 @@
-A **loop** is a [[path]] $f$ that starts where it ends, i.e. $f(0) = f(1)$.

@@ -1,1 +1,0 @@
-A **certificate / witness** is a string certifying the answer to a computation. A certificate is often thought of as a solution path within a verification process, which is used to check whether a problem gives the answer "Yes" or "No".

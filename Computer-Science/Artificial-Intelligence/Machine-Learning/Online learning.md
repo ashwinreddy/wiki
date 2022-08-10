@@ -1,1 +1,0 @@
-**Online learning** is when the data is revealed sequentially rather than all at once.

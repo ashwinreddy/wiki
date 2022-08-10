@@ -1,9 +1,0 @@
-**Stochastic ordering**. [[Random variable]] $X$ is _stochastically smaller_ than $Y$ (perhaps written $X \preccurlyeq Y$) if for all $x \in \RR$,
-
-$$
-\Pr(X > x) \leqslant \Pr(Y > x)
-$$
-
-That is, $X$ is less likely to bigger than $Y$.
-
-**Lemma**. A random variable $X$ is stochastically smaller than $Y$ iff there exists a [[coupling]] $(\tilde{X}, \tilde{Y})$ such that $\Pr(\tilde{X} \leqslant \tilde{Y}) = 1$

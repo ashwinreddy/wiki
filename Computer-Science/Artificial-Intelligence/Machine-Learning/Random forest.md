@@ -1,1 +1,0 @@
-A **random forest** is a collection of random [[tree]] where each leaf node is associated with a set from the training examples. 

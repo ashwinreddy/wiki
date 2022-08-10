@@ -1,1 +1,0 @@
-A **permutation** of [[set]] is any arrangement of its members into a sequence. If there are $n$ objects, there are $n!$ permutations.

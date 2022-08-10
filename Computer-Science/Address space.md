@@ -1,1 +1,0 @@
-In [[C]], the address space model has the stack growing down and the heap grows up while static data and code are locked in.

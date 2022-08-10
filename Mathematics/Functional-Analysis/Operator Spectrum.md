@@ -1,1 +1,0 @@
-The **spectrum** of a [[linear map]] $A$ is the set of [[eigenvalues|eigenpairs]] for $A$, denoted $\sigma(A)$.

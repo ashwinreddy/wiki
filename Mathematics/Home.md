@@ -1,3 +1,0 @@
----
-bibliography: "./Mathematics/papers.bib"
----

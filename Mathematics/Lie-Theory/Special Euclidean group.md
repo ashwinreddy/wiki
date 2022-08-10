@@ -1,1 +1,0 @@
-The **special Euclidean group** $\operatorname{SE}(n)$ 

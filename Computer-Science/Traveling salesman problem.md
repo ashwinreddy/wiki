@@ -1,1 +1,0 @@
-The **Traveling salesman problem (TSP)** is a [[search problem]] that gives a [[graph]] of $n$ vertices and asks for a tour given a budget.

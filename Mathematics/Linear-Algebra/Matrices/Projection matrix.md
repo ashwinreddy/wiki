@@ -1,1 +1,0 @@
-A **projection matrix** is a [[matrix]] that gives a projection from $\RR^n$ to some subspace $W$.

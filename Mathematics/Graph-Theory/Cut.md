@@ -1,1 +1,0 @@
-A **cut** for a graph $G = (V, E)$ labels every $v \in V$ into one of two sets.

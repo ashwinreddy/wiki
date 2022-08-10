@@ -1,1 +1,0 @@
-A **page** is a chunk of memory or disk with a fixed size. Addresses in the same virtual page map to addresses in the same physical page. Thus, we can just use the [[page table]] to find the appropriate physical page number, and we can keep the offset the same.

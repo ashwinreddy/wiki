@@ -1,1 +1,0 @@
-A **decision problem** is when the problem is a decision.

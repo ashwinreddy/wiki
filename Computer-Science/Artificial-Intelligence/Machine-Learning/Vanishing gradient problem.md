@@ -1,1 +1,0 @@
-The **vanishing gradient problem** for an [[artificial neural network]] and a gradient-based method is that if gradients are small, no updates get made.

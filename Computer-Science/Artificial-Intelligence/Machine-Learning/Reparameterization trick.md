@@ -1,1 +1,0 @@
-The **reparameterization trick** is a trick that allows us to do [[backpropagation]] through random nodes. Formally, it lets us compute the [[gradient]] of an [[expected value]] with respect to parameters that influence both the sampling and the values. [This blog](https://gregorygundersen.com/blog/2018/04/29/reparameterization/) has good explanation.

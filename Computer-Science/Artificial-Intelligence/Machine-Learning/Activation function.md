@@ -1,1 +1,0 @@
-An **activation function** can be [[sigmoid function]] or ReLU, etc.

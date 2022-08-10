@@ -1,1 +1,0 @@
-The **Iverson bracket** is a mathematical notation for casting a Boolean proposition to 0 if false and 1 if true by writing the proposition in brackets: $[P]$. We have Iverson brackets in programming. In Python, writing `int(P)` for `P` a boolean does exactly this.

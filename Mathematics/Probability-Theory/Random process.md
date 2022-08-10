@@ -1,1 +1,0 @@
-A **random process** is a time-varying function that assigns an outcome of a random experiment to each time instant $X(t)$.

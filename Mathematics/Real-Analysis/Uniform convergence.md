@@ -1,1 +1,0 @@
-**Uniform convergence** of a [[sequence]] of [[functions|function]] $(f_n)$ defined on $S \subseteq \RR$ means that for each $\epsilon > 0$, there exists an $N$ such that $f_n(x) - f(x) < \epsilon$ for all $x \in S$ and all $n > N$.

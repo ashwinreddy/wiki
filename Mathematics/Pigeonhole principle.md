@@ -1,1 +1,0 @@
-**Pigeonhole principle** says that if you have more items than containers, than _some_ container will have more than one item.

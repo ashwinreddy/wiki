@@ -1,1 +1,0 @@
-A **pointer** is a variable that represents a memory address. For example, in [[C]] you say `int *p` to represent a pointer to an int type.

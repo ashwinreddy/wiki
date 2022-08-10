@@ -1,1 +1,0 @@
-**Gaussian elimination** is an [[algorithm]] to solve a system of linear equations. You put the system into a [[augmented matrix]].

@@ -1,1 +1,0 @@
-The **cotangent bundle** of a manifold $M$ is the [[vector bundle]] $T^*M$ is the [[dual bundle]] to the [[tangent bundle]]

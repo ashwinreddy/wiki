@@ -1,1 +1,0 @@
-A **Monte Carlo algorithm** has bounded runtime but its correctness is random.
