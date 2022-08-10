@@ -1,1 +1,0 @@
-There is a sender who wants to send $k$ messages over a [[channel]]. The sender first encodes the $k$ message symbols into $n$ symbols (codeword) and then sends it over the channel. The reciever gets the received word on $n$ symbols and tries to decode and recover the original $k$ symbols.
