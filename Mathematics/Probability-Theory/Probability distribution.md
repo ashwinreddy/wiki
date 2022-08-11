@@ -9,5 +9,5 @@ f(\omega) \geqslant 0 \quad \forall \omega \in \Omega
 $$
 
 $$
-f(\emptyset)
+f\left(\emptyset\right) = 0
 $$
