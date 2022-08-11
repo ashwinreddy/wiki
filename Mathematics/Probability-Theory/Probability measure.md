@@ -1,1 +1,0 @@
-A **probability measure** is a [[measure]] $\mu$ on a probability space.
