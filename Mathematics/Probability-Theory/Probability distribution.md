@@ -9,5 +9,9 @@ f(\omega) \geqslant 0 \quad \forall \omega \in \Omega
 $$
 
 $$
+f(\Omega) = 1
+$$
+
+$$
 f\left(\emptyset\right) = 0
 $$
