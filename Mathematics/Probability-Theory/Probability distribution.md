@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-f(\omega) \geqslant 0 \qquad \forall \omega \in \Omega
+f(\omega) \geqslant 0 \quad \forall \omega \in \Omega
 $$
