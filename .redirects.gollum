@@ -84,3 +84,5 @@ Computer-Science/Computational-Complexity-Theory/NP-completeness.md: Computer-Sc
 Computer-Science/Satisfiability.md: Computer-Science/Boolean satisfiability problem.md
 Statistics/Score.md: Statistics/Score function.md
 Statistics/Cramer-Rao inequality.md: Statistics/Cramer-Rao bound.md
+Mathematics/Probability-Theory/Probability distribution.md: Mathematics/Probability-Theory/Probability
+  measure.md
