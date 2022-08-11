@@ -7,3 +7,7 @@ $$
 $$
 f(\omega) \geqslant 0 \quad \forall \omega \in \Omega
 $$
+
+$$
+f(\emptyset)
+$$
