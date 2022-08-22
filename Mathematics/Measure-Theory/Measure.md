@@ -1,4 +1,4 @@
 A **measure** is a function $\mu: \mathscr{A} \to [0, +\infty)$ such that
 
 * $\mu(\emptyset) = 0$
-* $$\mu\left(\sqcup \right)$$
+* $$\mu\left(\bigsqcup \right)$$
