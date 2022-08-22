@@ -1,1 +1,1 @@
-A **measurable space** is a space $\Omega$ with a $\sigma$-algebra $\mathscr{A}$
+A **measure** is a function $\mu: \mathscr{A} \to [0, +\infty]$
