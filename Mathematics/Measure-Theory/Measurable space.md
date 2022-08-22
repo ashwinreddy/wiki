@@ -1,0 +1,1 @@
+A **measurable space** is a space $\Omega$ with a $\sigma$-algebra $\mathscr{A}$
