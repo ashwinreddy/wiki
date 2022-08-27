@@ -1,1 +1,1 @@
-A **manifold** is a set which is locally Euclidean everywhere.
+A **manifold** (abbr. mfd) is a topological space which is locally Euclidean everywhere.
