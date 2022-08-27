@@ -1,1 +1,1 @@
-The **normal distribution** $\mathcal{N}$
+The **normal distribution** $\mathcal{N}(\mu, \sigma^2)$ is a continuous [[probability distribution]]
