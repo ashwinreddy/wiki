@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-p(\omega) \geqslant 0
+p(\omega) \geqslant 0.
 $$
