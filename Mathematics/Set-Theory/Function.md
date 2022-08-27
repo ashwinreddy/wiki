@@ -1,1 +1,1 @@
-A **function** is a total, univalent [[relation]].
+A **function** maps elements between [[set]]s.
