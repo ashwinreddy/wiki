@@ -1,0 +1,1 @@
+A **vector** is an element of a [[vector space]].
