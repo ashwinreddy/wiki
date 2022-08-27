@@ -1,0 +1,1 @@
+A **matrix** is a rectangular array of numbers.
