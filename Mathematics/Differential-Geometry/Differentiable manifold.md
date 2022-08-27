@@ -1,0 +1,1 @@
+A **differentiable manifold** is a [[manifold]] that you can differentiate.
