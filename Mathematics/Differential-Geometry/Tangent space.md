@@ -1,0 +1,1 @@
+The **tangent space** of a [[manifold]] is the locally Euclidean tangent plane.
