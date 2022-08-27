@@ -1,0 +1,1 @@
+A **symplectic manifold** is a [[smooth manifold|differentiable manifold]] with a symplectic form.
