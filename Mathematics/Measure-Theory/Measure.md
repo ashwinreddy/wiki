@@ -1,4 +1,4 @@
-A **measure** is a function $\mu: \mathscr{A} \to [0, +\infty)$ such that
+A **measure** is a way of assigning volume to a [[set]]. It is a function $\mu: \mathscr{A} \to [0, +\infty)$ such that
 
 * $\mu(\emptyset) = 0$
 
