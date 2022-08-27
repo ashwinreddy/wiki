@@ -1,0 +1,1 @@
+A **manifold** is a set which is locally Euclidean everywhere.
