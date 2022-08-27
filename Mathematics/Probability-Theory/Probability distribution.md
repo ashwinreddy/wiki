@@ -1,0 +1,1 @@
+A **probability distribution** is a [[function]] $p$.
