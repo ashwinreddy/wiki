@@ -1,1 +1,1 @@
-A **Riemannian manifold** is a [[manifold]] with a Riemannian metric $g_p$.
+A **Riemannian manifold** is a [[manifold]] with a Riemannian metric $\langle \cdot, \cdot\rangle_p$.
