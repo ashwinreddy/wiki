@@ -1,0 +1,1 @@
+The **score** is the [[gradient]] of the log-[[likelihood function]]
