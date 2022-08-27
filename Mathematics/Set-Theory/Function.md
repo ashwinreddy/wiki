@@ -1,0 +1,1 @@
+A **function** is a total, univalent [[relation]].
