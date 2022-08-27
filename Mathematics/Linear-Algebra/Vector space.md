@@ -1,0 +1,1 @@
+A **vector space** is a [[set]] of things you can add together and scale.
