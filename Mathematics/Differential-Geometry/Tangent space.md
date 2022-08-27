@@ -1,1 +1,1 @@
-The **tangent space** of a [[manifold]] is the locally Euclidean tangent plane.
+The **tangent space** $T_xM$ of a [[manifold]] $M$ is the locally Euclidean tangent plane.
