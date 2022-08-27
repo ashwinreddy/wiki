@@ -1,1 +1,1 @@
-The **gradient** of a [[function]] $f: \mathbb{R}^n \to \mathbb{R}$ 
+The **gradient** of a [[function]] $f: \mathbf{R}^n \to \mathbf{R}$ 
