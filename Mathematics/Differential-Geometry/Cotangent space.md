@@ -1,0 +1,1 @@
+A **cotangent space** is a [[vector space]] for each point on [[differentiable manifold]].
