@@ -6,7 +6,7 @@ $$
 
 ## Properties
 
-Expectation is a [[linear map]]
+Expectation is linear.
 
 $$
 \mathbb{E}[X + Y] = \mathbb{E}[X] + \mathbb{E}[Y]
