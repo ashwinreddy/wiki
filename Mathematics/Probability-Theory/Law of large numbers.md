@@ -1,6 +1,5 @@
 The **law of large numbers (LLN)** is a theorem that deals with convergence of random variables for an empirical average.
 
-[[_TOC_]]
 
 # Weak Law
 
@@ -16,4 +15,4 @@ $$
 
 In short, the strong law (SLLN) says empirical means converge to true means almost surely, which is a stronger statement than the weak law.
 
-The empirical mean of pairwise independent and identically distributed random variables with finite mean converges to the true mean [[almost surely|almost sure convergence]].
+The empirical mean of pairwise independent and identically distributed random variables with finite mean converges to the true mean almost surely.
