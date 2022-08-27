@@ -1,1 +1,1 @@
-The **gradient** of a [[function]] $f$ is $\nabla f$
+The **gradient** of a [[function]] $f: \mathbb{R}^n \to \mathbb{R}$ 
