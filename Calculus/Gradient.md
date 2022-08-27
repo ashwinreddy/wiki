@@ -1,0 +1,1 @@
+The **gradient** of a [[function]] $f$ is $\nabla f$
