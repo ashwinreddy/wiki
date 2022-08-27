@@ -1,0 +1,1 @@
+The **covariance** $\mathop{cov}
