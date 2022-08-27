@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-\mathbb{V}[X] = \mathbb{E}\big[X^2\big] - \mu_X^2
+\mathbb{V}[X] = \mathbb{E}\bigg[X^2\bigg] - \mu_X^2
 $$
