@@ -1,0 +1,1 @@
+The **likelihood function** $L(\theta \mid x)$
