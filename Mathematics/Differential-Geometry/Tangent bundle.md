@@ -1,5 +1,5 @@
 The **tangent bundle** of a [[manifold]]
 
 $$
-TM = \bigsqcup _{x\in M}T_{x}M
+TM = \bigsqcup_{x\in M}T_{x}M
 $$
