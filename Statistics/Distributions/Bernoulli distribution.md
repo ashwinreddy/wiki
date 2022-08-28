@@ -7,7 +7,7 @@ $$
 A cute way to compactly write this is
 
 $$
-f_\theta(x) = p^x (1-p)^{1-x}
+f_p(x) = p^x (1-p)^{1-x}
 $$
 
 If $\\{X_i\\}_{i=1}^n$ are i.i.d. Bernoulli trials, then
