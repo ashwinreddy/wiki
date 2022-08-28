@@ -1,0 +1,1 @@
+The **cotangent bundle** is a bundle of cotangent spaces.
