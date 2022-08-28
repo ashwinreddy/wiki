@@ -4,6 +4,10 @@ $$
 s(\theta) = \frac{\partial}{\partial \theta} \log L(\theta)
 $$
 
+# Properties
+
+* The [[expected value]] of the score is 0.
+
 Recall that $L(\theta; x) = p_\theta(x)$.
 
 \begin{align}
