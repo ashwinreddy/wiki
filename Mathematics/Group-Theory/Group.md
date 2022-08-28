@@ -1,0 +1,1 @@
+A **group** is a $(G, +, \cdot)$
