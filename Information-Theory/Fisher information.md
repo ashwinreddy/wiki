@@ -3,3 +3,10 @@
 $$
 \mathcal{I}(\theta) = \mathbb{V}\left[\ell'(\theta \mid x)\right].
 $$
+
+
+For a [[statistic]] $T$ of the data $X^n$,
+
+$$
+I_{X^n}(\theta) \geqslant I_T(\theta)
+$$
