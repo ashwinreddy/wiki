@@ -1,0 +1,1 @@
+An **orthogonal matrix** is a [[matrix]] $Q$ such that $QQ^\mathsf{T}=I$.
