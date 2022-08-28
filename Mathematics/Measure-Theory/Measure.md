@@ -1,7 +1,7 @@
 A **measure** is a way of assigning volume to a [[set]]. It is a function $\mu: \mathscr{A} \to [0, +\infty)$ such that
 
 $$
-\mu(\phi) = 0
+\mu(\varnothing) = 0
 $$
 
 \begin{equation}
