@@ -1,0 +1,1 @@
+A **tangent vector** at $p$ is a smooth map $\gamma$ where $\gamma(0) = p$.
