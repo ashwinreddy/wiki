@@ -1,0 +1,1 @@
+The **metric tensor** of a [[manifold]].
