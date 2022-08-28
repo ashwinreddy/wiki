@@ -9,3 +9,10 @@ A cute way to compactly write this is
 $$
 f_\theta(x) = \theta^x (1-\theta)^{1-x}
 $$
+
+# Properties
+
+|Property|Value|
+|--------|-----|
+|[[Expected value]]|$\theta$|
+|[[Variance]]|$\theta(1-\theta)$|
