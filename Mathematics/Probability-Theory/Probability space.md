@@ -1,0 +1,1 @@
+A **probability space** is $(\Omega, \mathcal{F}, P)$
