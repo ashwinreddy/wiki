@@ -22,3 +22,4 @@ $$
 |--------|-----|
 |[[Expected value]]|$\theta$|
 |[[Variance]]|$\theta(1-\theta)$|
+|[[Fisher Information]]|$\frac{1}{p(1-p)}$|
