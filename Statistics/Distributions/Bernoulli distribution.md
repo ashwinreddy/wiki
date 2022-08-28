@@ -1,0 +1,1 @@
+The **Bernoulli distribution** $\mathsf{Bern}(p)$
