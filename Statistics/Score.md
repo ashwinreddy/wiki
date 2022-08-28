@@ -4,8 +4,6 @@ $$
 s(\theta) = \frac{\partial}{\partial \theta} \log L(\theta)
 $$
 
-# Properties
-
-$$
-\mathbb{E}\left[s(\theta) \mid \theta\right]
-$$
+\begin{align}
+\mathbb{E}_\theta\left[ p_\theta(x) \nabla_\theta \log p_\theta(x) \right]
+\end{align}
