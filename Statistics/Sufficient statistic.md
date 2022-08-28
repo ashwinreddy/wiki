@@ -1,0 +1,1 @@
+A **sufficient statistic** is a [[statistic]] $T$ where $P(X^n \mid T = t, \theta)$ does not depend on $\theta$.
