@@ -9,5 +9,6 @@ Recall that $L(\theta; x) = p_\theta(x)$.
 \begin{align}
 \mathbb{E}\_\theta\left[ \nabla_\theta \log p_\theta(x) \right] &= \int_x p_\theta(x) \nabla_\theta \log p_\theta(x) \\, \mathrm{d}x \\\\
 &= \int_x \frac{\nabla_\theta p_\theta(x)}{p_\theta(x)} p_\theta(x)\\, \mathrm{d}x \\\\
-&= \int_x \nabla_\theta p_\theta(x) \\, \mathrm{d}x
+&= \int_x \nabla_\theta p_\theta(x) \\, \mathrm{d}x \\\\
+&= \nabla_\theta \int_x  p_\theta(x) \\, \mathrm{d}x \\\\
 \end{align}
