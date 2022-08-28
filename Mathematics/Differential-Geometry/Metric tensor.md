@@ -1,1 +1,1 @@
-The **metric tensor** of a [[manifold]] defines distances and angles.
+The **metric tensor** of a [[manifold]] defines distances and angles. It is a function $g_p(X_p, Y_p)$ which takes tangent vectors $X_p$ and $Y_p$ and outputs a real number.
