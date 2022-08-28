@@ -1,0 +1,1 @@
+**Binomial distribution** is a [[probability distribution]] of $n$ [[Bernoulli distribution]] coin flips
