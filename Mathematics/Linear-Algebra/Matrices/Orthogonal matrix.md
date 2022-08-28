@@ -1,1 +1,1 @@
-An **orthogonal matrix** is a [[matrix]] $Q$ such that $QQ^\mathsf{T}=I$.
+An **orthogonal matrix** is a [[matrix]] $Q$ such that $Q^\mathsf{T}Q=I$.
