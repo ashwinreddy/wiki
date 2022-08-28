@@ -1,0 +1,1 @@
+**Noether's theorem** says the Noether charge associated to an infinitesimal symmetry is conserved.
