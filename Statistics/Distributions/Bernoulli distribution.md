@@ -10,7 +10,11 @@ $$
 f_\theta(x) = \theta^x (1-\theta)^{1-x}
 $$
 
-If $\left\\{X_i\right\\}_{i=1}^n$
+If $\\{X_i\\}_{i=1}^n$ are i.i.d. Bernoulli trials, then
+
+$$
+\sum_{k=1}^n X_k \sim \mathsf{Binomial}(n, p)
+$$
 
 # Properties
 
