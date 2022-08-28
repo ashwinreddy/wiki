@@ -1,0 +1,1 @@
+The **dual space** of a [[vector space]] $\mathcal{V}$
