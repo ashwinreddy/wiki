@@ -10,7 +10,7 @@ $$
 f_\theta(x) = \theta^x (1-\theta)^{1-x}
 $$
 
-If $\\{X_i\\}_{i=1}^n$
+If $\left\\{X_i\right\\}_{i=1}^n$
 
 # Properties
 
