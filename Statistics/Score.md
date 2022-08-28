@@ -11,4 +11,6 @@ Recall that $L(\theta; x) = p_\theta(x)$.
 &= \int_x \frac{\nabla_\theta p_\theta(x)}{p_\theta(x)} p_\theta(x)\\, \mathrm{d}x \\\\
 &= \int_x \nabla_\theta p_\theta(x) \\, \mathrm{d}x \\\\
 &= \nabla_\theta \int_x  p_\theta(x) \\, \mathrm{d}x \\\\
+&= \nabla_\theta 1 \\\\
+&= 0
 \end{align}
