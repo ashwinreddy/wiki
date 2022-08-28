@@ -1,0 +1,1 @@
+The **exterior derivative** takes a $k$-form and returns a $(k+1)$-form.
