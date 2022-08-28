@@ -1,1 +1,5 @@
-A **cotangent space** is a [[vector space]] $T_p \mathcal{M}$ for each point $p$ on [[differentiable manifold]] $\mathcal{M}$.
+A **cotangent space** is a [[vector space]] $T_p^* \mathcal{M}$ for each point $p$ on [[differentiable manifold]] $\mathcal{M}$, the [[dual space]] of the [[tangent space]].
+
+$$
+T_p^*M = (T_pM)^*
+$$
