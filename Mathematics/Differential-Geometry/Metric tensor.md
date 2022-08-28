@@ -1,1 +1,1 @@
-The **metric tensor** of a [[manifold]].
+The **metric tensor** of a [[manifold]] defines distances and angles.
