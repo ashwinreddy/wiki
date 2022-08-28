@@ -4,4 +4,4 @@ $$
 s(\theta) = \frac{\partial}{\partial \theta} \log L(\theta)
 $$
 
-Recall that $L(\theta; x) = f(x; \theta)$.
+Recall that $L(\theta; x) = p_\theta(x)$.
