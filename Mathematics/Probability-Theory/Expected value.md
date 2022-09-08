@@ -9,5 +9,5 @@ $$
 Expectation is linear.
 
 $$
-\mathbb{E}[X + Y] = \mathbb{E}[X] + \mathbb{E}[Y]
+\mathbb{E}[\alpha X + \beta Y] = \alpha \mathbb{E}[X] + \beta \mathbb{E}[Y]
 $$
