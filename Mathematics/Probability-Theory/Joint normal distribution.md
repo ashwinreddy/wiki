@@ -10,4 +10,4 @@ $$
 \mathbf{X} \equiv \mathbf{A}\mathbf{Z} + \boldsymbol{\mu},
 $$
 
-in which case $\mathbf{\Sigma} = \mathbf{A}\mathbf{A}^\mathsf{T}$
+in which case $\mathbf{\Sigma} = \mathbf{A}\mathbf{A}^\mathsf{T}$.
