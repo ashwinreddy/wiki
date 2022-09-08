@@ -5,5 +5,5 @@ $$
 $$
 
 $$
-f = \frac{\mathrm{d}X_*}{\mathrm{d}\mu}
+f = \frac{\mathrm{d}X_*P}{\mathrm{d}\mu}
 $$
