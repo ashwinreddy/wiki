@@ -1,0 +1,1 @@
+A **symmetric matrix** is a [[square matrix]] such that $A = A^\mathsf{T}$. 
