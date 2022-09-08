@@ -5,3 +5,7 @@ $$
 $$
 
 Take a [[gradient]] and set it equal to 0.
+
+$$
+\nabla_\beta \left[ \langle Y, Y \rangle - 2 \langle X\beta, Y \rangle + \langle X\beta, X\beta \rangle \right] = 0.
+$$
