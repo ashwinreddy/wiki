@@ -1,0 +1,1 @@
+**Least squares** is a method to minimize $S = \sum_i r_i^2$ where $r_i = y_i - f(x_i, \beta)$
