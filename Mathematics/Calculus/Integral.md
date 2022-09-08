@@ -1,1 +1,1 @@
-An **integral** is an expression of the form $\int f(x) \mathrm{d}x$
+An **integral** is an expression of the form $\int f(x) \mathrm{d}x$. It can be definite or indefinite.
