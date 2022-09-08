@@ -1,7 +1,9 @@
 The **singular value decomposition (SVD)** of a [[matrix]] $A$ tells us that
 
 $$
-A = U\Sigma V^\mathsf{T}
+A = U\Sigma V^\mathsf{T},
 $$
+
+where $U$ and $V$ are [[orthogonal matrix]].
 
 The full SVD, the thin SVD, etc.
