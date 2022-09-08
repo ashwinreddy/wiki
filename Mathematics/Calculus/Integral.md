@@ -1,1 +1,1 @@
-An **integral** is an expression of the form $\int f(x) \mathrm{d}x$. It can be definite or indefinite.
+An **integral** is an expression of the form $\int f(x) \mathrm{d}x$. It can be definite (e.g. $\int_a^b$) or indefinite.
