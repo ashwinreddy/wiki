@@ -3,3 +3,7 @@ The **normal distribution** $\mathcal{N}(\mu, \sigma^2)$ is a continuous [[proba
 $$
 f(x) \propto e\^{-z^2/2}
 $$
+
+$$
+f(x) = \frac{1}{\sigma \sqrt{2\pi}} \exp\left( -\frac{1}{2}\left(\frac{x - \mu}{\sigma} \right)^2 \right)
+$$
