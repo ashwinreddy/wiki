@@ -1,0 +1,1 @@
+An **eigenvalue** of a [[matrix]] $A$ is a $\lambda0$ such that there is a [[vector]] $x$ with $Ax=\lambda x$.
