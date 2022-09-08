@@ -1,0 +1,1 @@
+An **integral** is an expression of the form $\int f(x) \mathrm{d}x$
