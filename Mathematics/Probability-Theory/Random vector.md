@@ -1,0 +1,1 @@
+A **random vector** is a [[vector]] whose entries are [[random variable]]s.
