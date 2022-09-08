@@ -13,5 +13,5 @@ $$
 in which case $\mathbf{\Sigma} = \mathbf{A}\mathbf{A}^\mathsf{T}$.
 
 $$
-f(\mathbf{x}) = \frac{1}{\sqrt(2\pi^k) |\mathbf{\Sigma}| }\exp\left( -\frac{1}{2}\left(\mathbf{x} - \boldsymbol{\mu}\right)\^\mathsf{T}\mathbf{\Sigma}^{-1}\left(\mathbf{x} - \boldsymbol{\mu}\right) \right)
+f(\mathbf{x}) = \frac{1}{\sqrt{(2\pi^k)} |\mathbf{\Sigma}| }\exp\left( -\frac{1}{2}\left(\mathbf{x} - \boldsymbol{\mu}\right)\^\mathsf{T}\mathbf{\Sigma}^{-1}\left(\mathbf{x} - \boldsymbol{\mu}\right) \right)
 $$
