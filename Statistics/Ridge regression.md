@@ -7,5 +7,5 @@ $$
 The closed-form solution is given by
 
 $$
-\mathbf{w}^\star = \left(X^\mathsf{T}X + \lambda I\right)^{-1}X^\mathsf{T}y
+\mathbf{w}^\star = \left(X^\mathsf{T}X + \lambda I\right)\^{-1}X^\mathsf{T}y
 $$
