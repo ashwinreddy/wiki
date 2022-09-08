@@ -6,6 +6,7 @@ $$
 
 Take a [[gradient]] and set it equal to 0.
 
-$$
-\nabla_\beta \left[ \langle Y, Y \rangle - 2 \langle X\beta, Y \rangle + \langle X\beta, X\beta \rangle \right] = 0.
-$$
+\begin{gather}
+\nabla_\beta \left[ \langle Y, Y \rangle - 2 \langle X\beta, Y \rangle + \langle X\beta, X\beta \rangle \right] = 0. \\\\
+-2 X^\mathsf{T} Y + 2 X^\mathsf{T}X\beta
+\end{gather}
