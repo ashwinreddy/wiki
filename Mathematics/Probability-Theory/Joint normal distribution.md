@@ -4,6 +4,8 @@ $$
 \mathbf{X} \sim \mathcal{N}_k(\boldsymbol{\mu}, \mathbf{\Sigma})
 $$
 
+We may always choose to express a joint normal as an affine transform of standard iid normals.
+
 $$
-\mathbf{X} = \mathbf{A}\mathbf{Z} + \boldsymbol{\mu}
+\mathbf{X} \equiv \mathbf{A}\mathbf{Z} + \boldsymbol{\mu}
 $$
