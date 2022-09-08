@@ -3,3 +3,5 @@
 $$
 \hat\beta = \arg\min_\beta \lVert Y - X\beta \rVert_2^2
 $$
+
+Take a [[gradient]] and set it equal to 0.
