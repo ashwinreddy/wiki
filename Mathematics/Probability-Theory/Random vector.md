@@ -1,1 +1,1 @@
-A **random vector** is a [[vector]] $\mathbf{X}$ whose entries $X_1, \dots, X_n$ are [[random variable]]s.
+A **random vector** is a [[vector]] $\mathbf{X}$ whose entries $X_1, \dots, X_n$ are [[random variable]]s which may be correlated.
