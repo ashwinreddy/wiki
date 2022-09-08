@@ -3,3 +3,7 @@ A **probability density function (pdf)** $f_X$ of a [[random variable]] $X$ give
 $$
 \Pr(a \leqslant X \leqslant b) = \int_a^b f_X(x) \mathrm{d}x
 $$
+
+$$
+f = \frac{\mathrm{d}X_*}{\mathrm{d}\mu}
+$$
