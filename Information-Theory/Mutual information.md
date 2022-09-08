@@ -4,7 +4,7 @@ $$
 I[X; Y] = H[X] - H[X \mid Y]
 $$
 
-It is related to [[relative entropy]].
+It is related to [[Kullback-Leibler Divergence]]].
 
 $$
 I[X; Y] = D_{KL}\left(p(X, Y) \parallel p(X)p(Y)\right)
