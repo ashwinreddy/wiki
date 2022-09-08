@@ -3,3 +3,7 @@ A **joint normal distribution** is a [[probability distribution]] for a $k$-dime
 $$
 \mathbf{X} \sim \mathcal{N}_k(\boldsymbol{\mu}, \mathbf{\Sigma})
 $$
+
+$$
+\mathbf{X} = \mathbf{A}\mathbf{Z} + \boldsymbol{\mu}
+$$
