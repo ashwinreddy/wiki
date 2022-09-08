@@ -4,6 +4,6 @@ $$
 A = U\Sigma V^\mathsf{T},
 $$
 
-where $U$ and $V$ are [[orthogonal matrix]].
+where $U$ and $V$ are [[orthogonal matrix]] and $\Sigma$ is a [[diagonal matrix]].
 
 The full SVD, the thin SVD, etc.
