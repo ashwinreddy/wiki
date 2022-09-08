@@ -1,0 +1,1 @@
+The **singular values** of a [[matrix]] $A$ are the square roots of the [[eigenvalue]]s of $A^\mathsf{T}A$
