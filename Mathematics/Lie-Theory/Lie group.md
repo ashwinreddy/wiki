@@ -1,0 +1,1 @@
+A **Lie group** is a [[group]] which is also a [[manifold]].
