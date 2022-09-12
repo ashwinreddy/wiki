@@ -1,0 +1,1 @@
+**Lagrangian mechanics** is a reformulation of Newtonian mechanics.
