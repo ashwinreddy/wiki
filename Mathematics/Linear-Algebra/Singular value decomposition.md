@@ -7,7 +7,7 @@ $$
 where $U$ and $V$ are [[orthogonal matrix]] and $\Sigma$ is a [[diagonal matrix]].
 
 $$
-Ay = U\Sigma \underbrace{(V^\mathsf{T}y)}_{\text{Transformed Coordinates}}
+Ay = \underbrace{U}_{\text{Rotate for output}}\Sigma \underbrace{(V^\mathsf{T}y)}_{\text{Rotate input}}
 $$
 
 # Flavors
