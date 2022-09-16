@@ -7,7 +7,7 @@ $$
 where $U$ and $V$ are [[orthogonal matrix]] and $\Sigma$ is a [[diagonal matrix]]. 
 
 $$
-\underbrace{A}\_{m \times n} = \underbrace{U}\_{m \times m}\underbrace{\Sigma}\_{m \times n} \underbrace{V^\mathsf{T}}_{n \times n},
+\underbrace{A}\_{m \times n} = \underbrace{U}\_{m \times m}\cdot\underbrace{\Sigma}\_{m \times n} \underbrace{V^\mathsf{T}}_{n \times n},
 $$
 
 $$
