@@ -6,4 +6,6 @@ $$
 
 where $U$ and $V$ are [[orthogonal matrix]] and $\Sigma$ is a [[diagonal matrix]].
 
-The full SVD, the thin SVD, etc.
+# Flavors
+
+- The full SVD, the thin SVD, etc.
