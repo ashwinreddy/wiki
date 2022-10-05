@@ -3,3 +3,4 @@ A **manifold** (abbr. mfd) $M$ is a set with a coordinate system, more precisely
 # Further Reading
 
 * [Manifolds: A Gentle Introduction](https://bjlkeng.github.io/posts/manifolds/)
+* [Manifold](https://mathworld.wolfram.com/Manifold.html)
