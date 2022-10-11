@@ -1,7 +1,7 @@
 The **expected value (EV)** of a [[random variable]] $X$ is defined as
 
 $$
-\left[X\right] = \int_\Omega X(\omega) \\, \dd{\mu}
+\mathbb{E}\left[X\right] = \int_\Omega X(\omega) \\, \dd{\mu}
 $$
 
 ## Properties
