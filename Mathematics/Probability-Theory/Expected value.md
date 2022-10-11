@@ -1,4 +1,4 @@
-The **expected value (EV)** of a [[random variable]] $X$ is defined as $\RR$ $\dd{x}$
+The **expected value (EV)** of a [[random variable]] $X$ is defined as $\im$
 
 $$
 \expectation\left[X\right] = \int_\Omega X(\omega) \\, \dd{\mu}
