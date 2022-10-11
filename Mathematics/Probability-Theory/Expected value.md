@@ -1,7 +1,11 @@
 The **expected value (EV)** of a [[random variable]] $X$ is defined as
 
 $$
-\mathop{E}\left[X\right] = \int_\Omega X(\omega) \\, \dd{\mu}
+\mathop{\mathbb{E}}\left[X\right] = \int_\Omega X(\omega) \\, \dd{\mu}
+$$
+
+$$
+\operatorname{\mathbb{E}}\left[X\right] = \int_\Omega X(\omega) \\, \dd{\mu}
 $$
 
 ## Properties
