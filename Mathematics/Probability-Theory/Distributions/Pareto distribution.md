@@ -14,4 +14,4 @@ If $T$ is a random variable representing a lifetime,
 \mathbb{E}\left[T \mid T > t_0\right] = \frac{\alpha}{\alpha - 1}t_0
 \end{align\*}
 
-Thus, the additional life time is $\mathbb{E}\left[T - t_0 \mid T > t_0] = \frac{t_0}{\alpha - 1}$
+Thus, the additional life time is $\mathbb{E}\left[T - t_0 \mid T > t_0\right] = \frac{t_0}{\alpha - 1}$
