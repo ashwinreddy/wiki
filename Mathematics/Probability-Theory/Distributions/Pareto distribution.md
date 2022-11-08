@@ -8,7 +8,7 @@ With $x_m > 0$ and $\alpha > 0$.
 
 \begin{align\*}
 \mathbb{E}\left[X\right] &= \int_{x_m}^\infty  \alpha\left( \frac{x_m}{x}\right)^\alpha \\,\dd{t} \\\\
-&= \frac{\alpha x_m}{\alpha -1}
+&= \frac{\alpha }{\alpha -1}x_m
 \end{align\*}
 
 # Lindy effect
