@@ -11,5 +11,5 @@ If $T$ is a random variable representing a lifetime,
 \begin{align\*}
 \mathbb{E}\left[T \mid T > t_0\right] &= \int_\mathbf{R} t f(t \mid t > t_0) \\,\dd{t} \\\\
 &= \int_{t_0}^{\infty} t \frac{f(t)}{\overline {F}(t) } \\,\dd{t} \\\\
-&= \int_{t_0}^{\infty} t \frac{f(t)}{  } \\,\dd{t} 
+&= \int_{t_0}^{\infty} t \frac{f(t)}{ (t_m / t)^\alpha } \\,\dd{t} 
 \end{align\*}
