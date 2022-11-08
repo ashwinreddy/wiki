@@ -6,8 +6,8 @@ $$
 
 # Lindy effect
 
-If $X$ is a random variable representing a lifetime,
+If $T$ is a random variable representing a lifetime,
 
 $$
-\mathbb{E}\left[X \mid X > x\right]
+\mathbb{E}\left[T \mid T > t_0\right] = \int_{t_0}^\infty
 $$
