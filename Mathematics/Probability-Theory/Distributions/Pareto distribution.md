@@ -9,5 +9,5 @@ $$
 If $X$ is a random variable representing a lifetime,
 
 $$
-\mathbb{E}\left[X \mid X > k\right]
+\mathbb{E}\left[X \mid X > x\right]
 $$
