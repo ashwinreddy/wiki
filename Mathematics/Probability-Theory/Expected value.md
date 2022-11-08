@@ -11,3 +11,7 @@ Expectation is linear.
 $$
 \mathbb{E}[\alpha X + \beta Y] = \alpha \mathbb{E}[X] + \beta \mathbb{E}[Y]
 $$
+
+$$
+X \in \mathbf{N} \implies \mathbb{E}\left[X\right] = \sum_{k \in \mathbf{N}} \Pr(X \geqslant k)
+$$
