@@ -6,9 +6,10 @@ $$
 
 With $x_m > 0$ and $\alpha > 0$.
 
-$$
-\mathbb{E}\left[X\right] = \int_{x_m}^\infty  \alpha\left( \frac{x_m}{x}\right)^\alpha \\,\dd{t}
-$$
+\begin{align\*}
+\mathbb{E}\left[X\right] &= \int_{x_m}^\infty  \alpha\left( \frac{x_m}{x}\right)^\alpha \\,\dd{t} \\\\
+&= 
+\end{align\*}
 
 # Lindy effect
 
