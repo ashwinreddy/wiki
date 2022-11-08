@@ -8,6 +8,6 @@ $$
 
 If $T$ is a random variable representing a lifetime,
 
-$$
+\begin{gather*}
 \mathbb{E}\left[T \mid T > t_0\right] = \int_{t_0}^\infty t f(t) \\,\dd{t}
-$$
+\end{gather*}
