@@ -9,5 +9,5 @@ $$
 If $T$ is a random variable representing a lifetime,
 
 $$
-\mathbb{E}\left[T \mid T > t_0\right] = \int_{t_0}^\infty t * \Pr(t) \\,\dd{t}
+\mathbb{E}\left[T \mid T > t_0\right] = \int_{t_0}^\infty t \cdot \Pr(t) \\,\dd{t}
 $$
