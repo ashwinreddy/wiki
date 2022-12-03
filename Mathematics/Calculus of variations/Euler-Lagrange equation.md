@@ -4,6 +4,8 @@ $$
 S[\mathbf{q}] = \int_a^b L(t, \mathbf{q}(t), \dot{\mathbf{q}}(t)) \mathrm{d}t
 $$
 
+is given by
+
 $$
-\frac{\mathrm{d}}{\mathrm{d}t}\left( \frac{\partial L}{\partial \dot{x}} \right) = \frac{\partial L}{\partial x}
+\boxed{\frac{\mathrm{d}}{\mathrm{d}t}\left( \frac{\partial L}{\partial \dot{x}} \right) = \frac{\partial L}{\partial x}}
 $$
