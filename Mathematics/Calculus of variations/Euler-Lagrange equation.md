@@ -6,6 +6,6 @@ $$
 
 is given by
 
-$$
-\boxed{\frac{\mathrm{d}}{\mathrm{d}t}\left( \frac{\partial L}{\partial \dot{x}} \right) = \frac{\partial L}{\partial x}}
-$$
+\begin{equation}
+\frac{\mathrm{d}}{\mathrm{d}t}\left( \frac{\partial L}{\partial \dot{x}} \right) = \frac{\partial L}{\partial x}
+\end{equation}
