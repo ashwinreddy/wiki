@@ -11,5 +11,5 @@ q_\phi(z \mid x) = \mathcal{N}(z ; \mu_\phi(x), \mathsf{diag}(\sigma^2_\phi(x)))
 $$
 
 $$
-\log p_\theta(x) \geqslant \mathsf{ELBO}(x; \theta, \phi) = \mathbb{E}\_{q_\phi(z\mid x)}\left[ \log p_\theta(x \mid z) \right] - D_{KL}(q_\theta(z\mid x) \Vert p(z))
+\log p_\theta(x) \geqslant \mathsf{ELBO}(x; \theta, \phi) = \mathbb{E}\_{q_\phi(z\mid x)}\left[ \log p_\theta(x \mid z) \right] - \underbrace{D_{KL}(q_\theta(z\mid x) \Vert p(z))}_{\text{Matching Prior}}
 $$
