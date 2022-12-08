@@ -1,8 +1,8 @@
 **Variational Autoencoder (VAE)** is a deep generative latent variable model $p_\theta(x)$ of $p_{\rm data}(x)$. The latent variable is $z$.
 
 \begin{align*}
-p_\theta(x) &= \int p(z) p_\theta(x \mid z) \mathrm{d}z \\
-&= 
+p_\theta(x) &= \int p(z) p_\theta(x \mid z) \mathrm{d}z \\\\
+&= \mathbb{E}_{z \sim p(z \mid x)}\left[ \frac{p(x,z)}{p(z \mid x)} \right]
 \end{align*}
 
 We typically assume simple distributions for $p(z)$ and $p(x \mid z)$ like $p(z)$ is Gaussian and $p(x \mid z)$ is conditional Gaussian with mean and variance supplied by a neural network.
