@@ -1,0 +1,1 @@
+The **Transformer** architecture is like an RNN without recurrence (i.e. still has weight sharing). 
