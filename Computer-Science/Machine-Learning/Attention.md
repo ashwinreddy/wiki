@@ -8,6 +8,10 @@ $$
 \mathsf{Attention} = \operatorname{softmax}\left(\frac{QK^\mathsf{T}}{\sqrt{d}}\right)V
 $$
 
+\begin{align*}
+Q = X_{source}W_Q
+\end{align*}
+
 Self-attention
 : Whatever process is generating queries is also populating the table with keys and values
 
