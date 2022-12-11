@@ -1,9 +1,4 @@
-**Attention** is a mechanism for
-
-* soft approximate hashtable
-* queryable softmax pooling
-
-The table has key-value pairs. You can query the table with $\mathbf{q}$
+**Attention** is a mechanism for a soft approximate hashtable via queryable softmax pooling. You can query the table of key-value pairs with $\mathbf{q}$
 
 $$
 \mathsf{similarity} = \frac{\langle \mathbf{q}, \mathbf{k} \rangle}{\sqrt{d}}
