@@ -11,3 +11,6 @@ $$
 
 Self-attention
 : Whatever process is generating queries is also populating the table with keys and values
+
+
+Multihead attention is just like having multiple channels in a ConvNet.
