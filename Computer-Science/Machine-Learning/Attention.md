@@ -14,6 +14,8 @@ K &= X_{source}W_K \\\\
 V &= X_{source}W_V
 \end{align\*}
 
+where $\\{W_{\alpha}\\}_{\alpha \in \{ Q, K, V\}}$
+
 Self-attention
 : Whatever process is generating queries is also populating the table with keys and values
 
