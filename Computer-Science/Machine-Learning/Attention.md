@@ -9,6 +9,10 @@ $$
 \mathsf{similarity} = \frac{\langle \mathbf{q}, \mathbf{k} \rangle}{\sqrt{d}}
 $$
 
+$$
+\mathsf{Attention} = \mathsf{softmax}(QK^\mathsf{T})V
+$$
+
 Self-attention
 : Whatever process is generating queries is also populating the table with keys and values
 
