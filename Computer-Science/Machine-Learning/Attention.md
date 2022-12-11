@@ -13,3 +13,5 @@ Self-attention
 
 
 Multihead attention is just like having multiple channels in a ConvNet.
+
+The input $x_{source} \in \mathbb{Z}^{B \times L_{source}}$
