@@ -10,7 +10,7 @@ $$
 $$
 
 $$
-\mathsf{Attention} = \operatorname{softmax}(\frac{QK^\mathsf{T}}{\sqrt{d}})V
+\mathsf{Attention} = \operatorname{softmax}\left(\frac{QK^\mathsf{T}}{\sqrt{d}}\right)V
 $$
 
 Self-attention
