@@ -1,7 +1,7 @@
 **Attention** is a mechanism for a soft approximate hashtable via queryable softmax pooling. You can query the table of key-value pairs with $\mathbf{q}$
 
 $$
-\text{scaled dot-product attention} = \frac{\langle \mathbf{q}, \mathbf{k} \rangle}{\sqrt{d}}
+\mathsf{similarity} = \frac{\langle \mathbf{q}, \mathbf{k} \rangle}{\sqrt{d}}
 $$
 
 $$
