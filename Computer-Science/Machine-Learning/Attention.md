@@ -21,3 +21,5 @@ Self-attention
 
 
 Multihead attention is just like having multiple channels in a ConvNet.
+
+Attention is an $\order{n^2}$ computation.
