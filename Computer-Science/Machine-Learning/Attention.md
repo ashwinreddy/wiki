@@ -9,7 +9,9 @@ $$
 $$
 
 \begin{align\*}
-Q = X_{source}W_Q
+Q &= X_{source}W_Q \\\\
+K &= X_{source}W_K \\\\
+V &= X_{source}W_V
 \end{align\*}
 
 Self-attention
