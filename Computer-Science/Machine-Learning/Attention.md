@@ -13,3 +13,5 @@ Self-attention
 
 
 Multihead attention is just like having multiple channels in a ConvNet.
+
+![](https://production-media.paperswithcode.com/methods/SCALDE.png)
