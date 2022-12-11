@@ -7,5 +7,5 @@ The input is a sequence of tokens, represented as integers. We can run a batch o
 # Attention
 
 * Encoder Attention
-* Decoder Attention
+* Decoder Attention is Masked self-attention
 * Encoder-Decoder Attention
