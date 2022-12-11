@@ -8,3 +8,6 @@ The table has key-value pairs. You can query the table with $\mathbf{q}$
 $$
 \frac{\langle \mathbf{q}, \mathbf{k} \rangle}{\sqrt{d}}
 $$
+
+Self-attention
+: Whatever process is generating queries is also populating the table with keys and values
