@@ -1,5 +1,5 @@
 **Jensen's inequality**
 
 $$
-\varphi(\mathbb{E}X) \leqslant \mathbb{E}\varphi(X)
+\varphi(\mathbb{E}[X]) \leqslant \mathbb{E}[\varphi(X)]
 $$
