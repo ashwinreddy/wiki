@@ -1,1 +1,1 @@
-**Variational inference** is casting inference over some intractable distribution $p$ as optimization in a class $Q$ of tractable distributions $q \in \mathcal{Q}$.
+**Variational inference** is casting inference over some intractable distribution $p$ as optimization in a class $\mathcal{Q}$ of tractable distributions $q \in \mathcal{Q}$.
