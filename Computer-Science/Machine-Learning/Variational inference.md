@@ -1,0 +1,1 @@
+**Variational inference** is casting inference as optimization.
