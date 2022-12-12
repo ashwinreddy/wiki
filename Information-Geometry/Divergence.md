@@ -3,3 +3,7 @@
 $$
 D(p, q) \geqslant 0, \qquad \forall p, q \in M
 $$
+
+$$
+D(p,q) = 0 \iff p = q
+$$
