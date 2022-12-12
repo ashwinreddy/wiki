@@ -1,5 +1,7 @@
 **Variational Autoencoder (VAE)** is a deep generative latent variable model $p_\theta(x)$ of $p_{\rm data}(x)$. The latent variable is $z$.
 
+![](https://lilianweng.github.io/posts/2018-08-12-vae/vae-gaussian.png)
+
 \begin{align*}
 p_\theta(x) &= \int p(z) p_\theta(x \mid z) \mathrm{d}z \\\\
 &= \mathbb{E}_{z \sim p(z \mid x)}\left[ \frac{p(x,z)}{p(z \mid x)} \right]
