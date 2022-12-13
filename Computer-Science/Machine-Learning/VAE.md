@@ -3,7 +3,9 @@
 ![](https://lilianweng.github.io/posts/2018-08-12-vae/vae-gaussian.png)
 
 \begin{align\*}
-p_\theta(x) &= \int\_{\RR^k} p(z) p\_\theta(x \mid z) \mathrm{d}z 
+\log p_\theta(x) &= \log \int\_{\RR^k} p(z) p\_\theta(x \mid z) \mathrm{d}z  \\\\
+&= \log \int\_{\RR^k} p(z) p\_\theta(x \mid z) \frac{q(z)}{q(z)} \mathrm{d}z  \\\\
+&= \log \mathbb{E}_{z \sim q(z)}\left[ \frac{p(x \mid z)p(z)}{q(z)} \right]
 \end{align\*}
 
 
