@@ -3,7 +3,7 @@
 ![](https://lilianweng.github.io/posts/2018-08-12-vae/vae-gaussian.png)
 
 \begin{align*}
-\log p_\theta(x) &= \log \int_{\RR^k} p(z) p_\theta(x \mid z) \mathrm{d}z 
+\log p\_\theta(x) &= \log \int_{\RR^k} p(z) p_\theta(x \mid z) \mathrm{d}z 
 \end{align*}
 
 
