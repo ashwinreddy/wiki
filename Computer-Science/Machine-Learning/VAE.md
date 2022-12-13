@@ -1,4 +1,4 @@
-**Variational Autoencoder (VAE)** is a deep generative latent variable model $p_\theta(x)$ of $p_{\rm data}(x)$. The latent variable is $z$, so the PGM is $z \to x$.
+**Variational Autoencoder (VAE)** is a deep generative latent variable model $p_\theta(x)$ of $p_{\rm data}(x)$. We'll assume a latent variable $z$, so the PGM is $z \to x$. The question is how to train this model given that we don't explicitly know $z$. 
 
 ![](https://lilianweng.github.io/posts/2018-08-12-vae/vae-gaussian.png)
 
