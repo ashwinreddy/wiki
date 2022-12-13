@@ -7,5 +7,5 @@ $$
 It can be proved with [[Jensen's inequality]] that $D_{KL}(p(X) \parallel q(X)) \geqslant 0$.
 
 $$
-D_{\rm KL}(p(X) \parallel q(X)) = \mathcal{H}_{p} - \mathcal{H}()
+D_{\rm KL}(p(X) \parallel q(X)) = \mathcal{H}_{p}[X] - \mathcal{H}()
 $$
