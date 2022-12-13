@@ -7,5 +7,5 @@ $$
 [[Jensen's inequality]]
 
 \begin{align\*}
-\mathbb{E}_{x \sim p(x)}\left[ \log\frac{p(x)}{q(x)} \right]
+\mathbb{E}_{x \sim p(x)}\left[ \log\frac{p(x)}{q(x)} \right] 
 \end{align\*}
