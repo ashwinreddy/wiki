@@ -7,4 +7,5 @@ $$
 # Training
 
 > Compute the gradient $\mathsf{grad} = \nabla_\theta \lVert \epsilon - \epsilon_\theta(x_t, t) \rVert_2^2$
+> 
 > Update $\theta \leftarrow \theta - \alpha \cdot \mathsf{grad}$
