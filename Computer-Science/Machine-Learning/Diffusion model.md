@@ -6,8 +6,4 @@ $$
 
 # Training
 
-Compute the gradient 
-
-$$
-\nabla_\theta \lVert \epsilon - \epsilon_\theta(x_t, t) \rVert_2^2
-$$
+> Compute the gradient $\nabla_\theta \lVert \epsilon - \epsilon_\theta(x_t, t) \rVert_2^2$
