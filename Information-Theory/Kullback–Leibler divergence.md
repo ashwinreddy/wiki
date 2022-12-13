@@ -9,5 +9,5 @@ $$
 \begin{align\*}
 D_{\rm KL}(p(X) \parallel q(X))  &\leqslant -\log \mathbb{E}\_{x \sim p(x)}\left[ \frac{q(x)}{p(x)} \right]  \\\\
 & \leqslant - \log \int p(x) \frac{q(x)}{p(x)} \mathrm{d} x \\\\
-& \leqslant 
+& \leqslant 0
 \end{align\*}
