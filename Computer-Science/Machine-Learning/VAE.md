@@ -17,3 +17,9 @@ $$
 $$
 q_\phi(z \mid x) = \mathcal{N}(z ; \mu_\phi(x), \mathsf{diag}(\sigma^2_\phi(x)))
 $$
+
+# Problems
+
+One problem is that the latent code is ignored, i.e. $p(x \mid z) \to p(x)$, so the reconstructed image is blurry because it's averaging.
+
+Another is that $q_\phi(z \mid x)$ is far from $p(z)$.
