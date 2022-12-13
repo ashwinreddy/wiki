@@ -3,7 +3,7 @@
 ![](https://lilianweng.github.io/posts/2018-08-12-vae/vae-gaussian.png)
 
 \begin{align*}
-p_\theta(x) &= \int p(z) p_\theta(x \mid z) \mathrm{d}z \\\\
+p_\theta(x) &= \int_{\RR^k} p(z) p_\theta(x \mid z) \mathrm{d}z \\\\
 &= \mathbb{E}_{z \sim p(z \mid x)}\left[ \frac{p(x,z)}{p(z \mid x)} \right]
 \end{align*}
 
