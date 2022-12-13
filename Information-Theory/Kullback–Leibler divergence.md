@@ -5,3 +5,7 @@ D_{\rm KL}\left(p(X) \parallel q(X)  \right) = \mathbb{E}_{x \sim p(x)}\left[ \l
 $$
 
 It can be proved with [[Jensen's inequality]] that $D_{KL}(p(X) \parallel q(X)) \geqslant 0$.
+
+$$
+D_{\rm KL}(p(X) \parallel q(X)) = \mathcal{H}_{p} - \mathcal{H}()
+$$
