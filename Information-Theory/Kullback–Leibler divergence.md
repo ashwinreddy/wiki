@@ -6,6 +6,6 @@ $$
 
 [[Jensen's inequality]]
 
-$$
+\begin{align\*}
 D_{\rm KL}(p(X) \parallel q(X))  \leqslant -\log \mathbb{E}\_{x \sim p(x)}\left[ \frac{q(x)}{p(x)} \right] 
-$$
+\end{align\*}
