@@ -9,7 +9,7 @@
 \end{align\*}
 
 
-This integral is intractable to compute, so we take another approach. We have an approximation
+To continue, we need to invoke [[Jensen's inequality]]
 
 $$
 q_\phi(z \mid x) = \mathcal{N}(z ; \mu_\phi(x), \mathsf{diag}(\sigma^2_\phi(x)))
