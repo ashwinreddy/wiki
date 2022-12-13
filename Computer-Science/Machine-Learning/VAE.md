@@ -4,7 +4,7 @@
 
 \begin{align*}
 \log p_\theta(x) &= \log \int_{\RR^k} p(z) p_\theta(x \mid z) \mathrm{d}z \\\\
-&= \log \int_{\RR^k} p(z) p_\theta(x \mid z) \mathrm{d}z 
+&= \log \int\_{\RR^k} p(z) p_\theta(x \mid z) \mathrm{d}z 
 \end{align*}
 
 
