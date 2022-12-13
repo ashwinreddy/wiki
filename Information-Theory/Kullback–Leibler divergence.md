@@ -7,5 +7,5 @@ $$
 [[Jensen's inequality]]
 
 $$
-D_{\rm KL}(p(X) \parallel q(X))  \leqslant \log \mathbb{E}\_{x \sim p(x)}\left[ \frac{p(x)}{q(x)} \right] 
+D_{\rm KL}(p(X) \parallel q(X))  \leqslant -\log \mathbb{E}\_{x \sim p(x)}\left[ \frac{q(x)}{p(x)} \right] 
 $$
