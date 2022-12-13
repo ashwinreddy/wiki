@@ -2,9 +2,9 @@
 
 ![](https://lilianweng.github.io/posts/2018-08-12-vae/vae-gaussian.png)
 
-\begin{align*}
+\begin{align\*}
 p_\theta(x) &= \int\_{\RR^k} p(z) p\_\theta(x \mid z) \mathrm{d}z 
-\end{align*}
+\end{align\*}
 
 
 This integral is intractable to compute, so we take another approach. We have an approximation
