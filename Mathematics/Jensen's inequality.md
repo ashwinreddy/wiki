@@ -3,5 +3,5 @@
 For $\varphi$ a convex function
 
 $$
-\varphi\left(\mathbb{E}[X]\right) \leqslant \mathbb{E}\left[\varphi(X)\right]
+f\left(\mathbb{E}[X]\right) \leqslant \mathbb{E}\left[f(X)\right]
 $$
