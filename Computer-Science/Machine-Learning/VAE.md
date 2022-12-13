@@ -6,10 +6,8 @@
 \log p_\theta(x) &= \log \int\_{\RR^k} p_\theta(z) p\_\theta(x \mid z) \mathrm{d}z  \\\\
 &= \log \int\_{\RR^k} p_\theta(z) p\_\theta(x \mid z) \frac{q(z)}{q(z)} \mathrm{d}z  \\\\
 &= \log \mathbb{E}_{z \sim q(z)}\left[ \frac{p_\theta(z) p_\theta(x \mid z)}{q(z)} \right]
+&= \geqslant \mathbb{E}_{z \sim q(z)}\left[\log \frac{p_\theta(z) p_\theta(x \mid z)}{q(z)} \right]
 \end{align\*}
-
-
-To continue, we need to invoke [[Jensen's inequality]]
 
 $$
 q_\phi(z \mid x) = \mathcal{N}(z ; \mu_\phi(x), \mathsf{diag}(\sigma^2_\phi(x)))
