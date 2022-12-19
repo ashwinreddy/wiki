@@ -17,3 +17,7 @@ where $x$ and $u$ are correlated, but $z$ isn't correlated with anything. $z$ is
 y &= \beta x + \eta \\\\
 x &= Z\pi + \xi
 \end{align\*}
+
+$$
+\hat{\beta}_{2SLS} = (x^\mathsf{T} P_Z x)^{-1} x^\mathsf{T} P_Z y
+$$
