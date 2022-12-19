@@ -12,6 +12,8 @@ where $x$ and $u$ are correlated, but $z$ isn't correlated with anything. $z$ is
 
 # Bias
 
-$$
-x = Z\pi + \xi
-$$
+
+\begin{align\*}
+y &= \beta x + \eta \\\\
+x &= Z\pi + \xi
+\end{align\*}
