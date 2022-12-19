@@ -9,3 +9,9 @@ where $x$ and $u$ are correlated, but $z$ isn't correlated with anything. $z$ is
 
 - Prove IV is unbiased estimate
 - Variance of IV estimator
+
+# Bias
+
+$$
+x = Z\pi + \Xi
+$$
