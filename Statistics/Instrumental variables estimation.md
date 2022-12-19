@@ -13,5 +13,5 @@ where $x$ and $u$ are correlated, but $z$ isn't correlated with anything. $z$ is
 # Bias
 
 $$
-x = Z\pi + \Xi
+x = Z\pi + \xi
 $$
