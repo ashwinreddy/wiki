@@ -7,3 +7,5 @@ x_i &= \gamma_0 + \gamma_1 z_i + v_i
 
 where $x$ and $u$ are correlated, but $z$ isn't correlated with anything.
 
+- Prove IV is unbiased estimate
+- Variance of IV estimator
