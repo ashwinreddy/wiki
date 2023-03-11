@@ -1,0 +1,13 @@
+{
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "sideDockWidth": {
+    "left": 300,
+    "right": 40
+  },
+  "promptDelete": false,
+  "enabledPlugins": [],
+  "legacyEditor": false
+}

@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "109e8e1734d21a99",
+    "type": "split",
+    "children": [
+      {
+        "id": "80ebd96d8ad530dd",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db6846b220af3af5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7759e35881916cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdaabd99feb9e5de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "efec236d54851d16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf88177ddaa2d5ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4acf227b82fae26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b922e9d06be82d06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "80ebd96d8ad530dd",
+  "lastOpenFiles": [
+    "Mathematics/Calculus/Antiderivative.md",
+    "Game-Theory/Subtraction game.md",
+    "Physics/Lorentz force.md",
+    "Physics/Work.md",
+    "Physics/Weight.md",
+    "Physics/Time dilation.md",
+    "Physics/Angular acceleration.md",
+    "Physics/Thermodynamics/Second law of thermodynamics.md",
+    "Physics/Thermodynamics/Carnot's theorem.md",
+    "Physics/Particle-Physics/Electron.md"
+  ]
+}

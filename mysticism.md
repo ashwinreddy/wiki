@@ -1,0 +1,5 @@
+---
+title: "mysticism"
+feed: hide
+---
+
