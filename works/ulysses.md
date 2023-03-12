@@ -4,4 +4,4 @@ feed: hide
 tags: book
 ---
 
-_ulysses_ is a [[novel]] by [[james joyce]]. 
+_ulysses_ is a [[novel]] by [[joyce]]. 

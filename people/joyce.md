@@ -1,5 +1,5 @@
 ---
-title: "james joyce"
+title: "joyce"
 feed: hide
 ---
 
