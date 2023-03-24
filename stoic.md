@@ -3,7 +3,7 @@ title: "stoic"
 feed: show
 ---
 
-a stoic practices stoicism, the [[hellenistic philosophy]] founded by zeno of citium (c. 335-252 bc) who studied with [[plato]]'s successors at the academy in athens. zeno taught at the _stoa_, meaning portico or porch and was succeeded by cleanthes, then chrysippus. only later on do we hear the more famous names of musonius rufus, [[epictetus]], [[seneca]], Marcus Aurelius. [[cicero]], though not a Stoic himself, was familiar enough with the school to write _Paradoxa Stoicorum_. 
+a stoic practices stoicism, the [[hellenistic philosophy]] founded by zeno of citium (c. 335-252 bc) who studied with [[plato]]'s successors at the academy in athens. zeno taught at the _stoa_, meaning portico or porch and was succeeded by cleanthes, then chrysippus. only later on do we hear the more famous names of musonius rufus, [[epictetus]], [[seneca]], [[marcus aurelius]]. [[cicero]], though not a Stoic himself, was familiar enough with the school to write _Paradoxa Stoicorum_. 
 
 stoicism builds from [[socrates]]' thought. In particular,
 1. there is such a thing as _eudaimonia_.
@@ -34,3 +34,5 @@ the stoics believed in the model of life as a [[game]].
 They believed the nature of the cosmos is determined by Zeus/Fate/Reason.
 
 stoicism definitely believes in [[logos]] and [[rationality]]. 
+
+they worked on propositional [[logic]]. 

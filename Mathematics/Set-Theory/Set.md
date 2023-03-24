@@ -1,1 +1,1 @@
-A **set** is a collection of objects.
+a **set** is a collection of objects.

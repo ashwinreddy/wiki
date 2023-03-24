@@ -1,1 +1,1 @@
-A **function** maps elements between [[set]]s.
+a **function** maps elements between [[set]]s.

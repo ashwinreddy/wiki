@@ -3,7 +3,7 @@ title: "problem"
 feed: hide
 ---
 
-> all life is problem solving. all organisms are inventors and technicians, good or not so good, successful or not so successful, in solving technical problems. This is how it is among animals - spiders, for example. human technology solves human problems such as sewage disposal, or the storage and supply of food and water, as, for example, bees already have to do. -- [[karl popper]]
+> all life is problem solving. all organisms are inventors and technicians, good or not so good, successful or not so successful, in solving technical problems. This is how it is among animals - spiders, for example. human technology solves human problems such as sewage disposal, or the storage and supply of food and water, as, for example, bees already have to do. -- [[popper]]
 
 the word _problem_ comes from [[greek]] meaning a thing thrown or put forward. it's an apt [[metaphor]]: problems are obstacles, something in the way. a response to a problem is a [[technology]]. 
 

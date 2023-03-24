@@ -3,4 +3,4 @@ title: "Music"
 feed: hide
 ---
 
-Music is the form of [[art]] from sound. 
+music is the form of [[art]] from sound. 

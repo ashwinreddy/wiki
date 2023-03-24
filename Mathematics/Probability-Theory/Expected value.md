@@ -1,4 +1,4 @@
-The **expected value (EV)** of a [[random variable]] $X$ is defined as
+The **expected value (EV)** of a [[Random variable]] $X$ is defined as
 
 $$
 \operatorname{\mathbb{E}}\left[X\right] = \int_\Omega X(\omega) \\, \dd{\mu}

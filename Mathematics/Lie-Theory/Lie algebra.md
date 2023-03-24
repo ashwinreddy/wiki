@@ -1,1 +1,1 @@
-A **Lie algebra** is a [[vector space]] $\mathfrak{g}$ with a Lie bracket.
+A Lie algebra is a [[vector space]] $\mathfrak{g}$ with a Lie bracket.

@@ -1,1 +1,1 @@
-A **Lie group** is a [[group]] $G$ which is also a [[manifold]]. A Lie group has a [[Lie algebra]].
+A **Lie group** is a [[Group]] $G$ which is also a [[public/manifold]]. A Lie group has a [[Lie algebra]].

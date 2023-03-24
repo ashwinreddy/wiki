@@ -5,4 +5,4 @@ feed: hide
 
 style. 
 
-[[nietzsche]], [[wilde]], sontag
+[[nietzsche]], [[wilde]], [[sontag]]

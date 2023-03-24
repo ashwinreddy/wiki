@@ -1,6 +1,7 @@
 ---
 title: "alexander pope"
 feed: hide
+tag: writer
 ---
 
 alexander pope was an english poet during the Restoration. He wrote _The Rape of the Lock_, _An Essay on Man_, _Dunciad_.

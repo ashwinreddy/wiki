@@ -3,13 +3,13 @@ title: "philosophy"
 feed: show
 ---
 
-philosophy happens when [[friend]]s of wisdom create [[concept]]s ([[socrates]]; [[deleuze]]) discuss ([[richard rorty]]) how to direct their lives ([[seneca]]) and dispel misconceptions that hinder them ([[wittgenstein]]). A philosopher is not necessarily a [[sage]] but a friend of the sage.
+philosophy happens when [[friend]]s of wisdom create [[concept]]s ([[socrates]]; [[deleuze]]) discuss ([[rorty]]) how to direct their lives ([[seneca]]) and dispel misconceptions that hinder them ([[wittgenstein]]). A philosopher is not necessarily a [[sage]] but a friend of the sage.
 
 in [[epistulae morales ad lucilium]] letter 16, seneca writes
 
 > _Non est philosophia populare artificium nec ostentationi paratum. Non in verbis, sed in rebus est. Nec in hoc adhibetur, ut cum aliqua oblectatione consumatur dies, ut dematur otio nausia. Animum format et fabricat, vitam disponit, actiones regit, agenda et omittenda demonstrat, sedet ad gubernaculum et per ancipitia fluctuantium derigit cursum. Sine hac nemo intrepide potest vivere, nemo secure. Innumerabilia accidunt singulis horis, quae consilium exigant, quod ab hac petendum est._
 
-In [[empiricism and subjectivity]], Deleuze says
+In [[empiricism and subjectivity]], deleuze says
 
 > a philosophical theory is an elaborately developed question, and nothing else; by itself and in itself, it is not the resolution to a problem, but the elaboration, to the very end, of the necessary implications of a formulated question.
 

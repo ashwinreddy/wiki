@@ -1,4 +1,4 @@
-A **joint normal distribution** is a [[probability distribution]] for a $k$-dimensional [[random vector]] where each component is a [[normal distribution]].
+A **joint normal distribution** is a [[Probability distribution]] for a $k$-dimensional [[Random vector]] where each component is a [[Normal distribution]].
 
 $$
 \mathbf{X} \sim \mathcal{N}_k(\boldsymbol{\mu}, \mathbf{\Sigma})

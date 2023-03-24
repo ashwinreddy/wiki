@@ -14,7 +14,7 @@ jorge luis borges (1899-1986) was a writer and librarian from buenos aires, arge
 3. remove ornament and confessionalism
 4. condense several images into one
 
-for borges, [[t.s. eliot]], esp. [[tradition and the individual talent]], and [[ezra pound]] are key figures. 
+for borges, [[eliot]], esp. [[tradition and the individual talent]], and [[ezra pound]] are key figures. 
 
 
 * In "The Library of Babel," Borges thought about an infinite [[library]].

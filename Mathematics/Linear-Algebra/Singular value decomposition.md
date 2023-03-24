@@ -1,10 +1,10 @@
-The **singular value decomposition (SVD)** of a [[matrix]] $A \in \mathbf{R}^{m \times n}$ tells us that
+The **singular value decomposition (SVD)** of a [[Matrix]] $A \in \mathbf{R}^{m \times n}$ tells us that
 
 $$
 A = U\Sigma V^\mathsf{T},
 $$
 
-where $U$ and $V$ are [[orthogonal matrix]] and $\Sigma$ is a [[diagonal matrix]]. 
+where $U$ and $V$ are [[Orthogonal matrix]] and $\Sigma$ is a [[Diagonal matrix]]. 
 
 $$
 \underbrace{A}\_{m \times n} = \underbrace{U}\_{m \times m}\cdot\underbrace{\Sigma}\_{m \times n}\cdot \underbrace{V^\mathsf{T}}_{n \times n},

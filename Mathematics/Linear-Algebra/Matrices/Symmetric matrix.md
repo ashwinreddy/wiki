@@ -1,1 +1,1 @@
-A **symmetric matrix** is a [[square matrix]] such that $A = A^\mathsf{T}$. 
+A **symmetric matrix** is a [[Square matrix]] such that $A = A^\mathsf{T}$. 

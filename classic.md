@@ -39,7 +39,7 @@ Notice that a recurring theme is how people come back to a classic because it su
 
 ## eliot
 
-In "What is a Classic?" addressed to the [[virgil]] society in 1944, [[t.s. eliot]] says that Virgil is obviously a classical poet. But, he says, a classic can be only be known in hindsight. For him, 'classic' means maturity. There is the universal classic and the classic in its [[language]] or in its [[time]]. 
+In "What is a Classic?" addressed to the [[virgil]] society in 1944, [[eliot]] says that Virgil is obviously a classical poet. But, he says, a classic can be only be known in hindsight. For him, 'classic' means maturity. There is the universal classic and the classic in its [[language]] or in its [[time]]. 
 
 > A classic can only occur when a civilisation is mature; when a language and a [[literature]] are mature; and it must be the work of a mature mind. 
 
