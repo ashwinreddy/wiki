@@ -1,5 +1,5 @@
 ---
-title: "Aristotle"
+title: "aristotle"
 feed: hide
 tags: philosopher
 ---
