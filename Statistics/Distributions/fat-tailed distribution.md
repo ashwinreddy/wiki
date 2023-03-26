@@ -1,1 +1,1 @@
-a fat-tailed distribution
+a fat-tailed distribution. for [[taleb]]
