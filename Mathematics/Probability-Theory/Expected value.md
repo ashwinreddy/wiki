@@ -1,3 +1,7 @@
+---
+aliases: expectation
+---
+
 The **expected value (EV)** of a [[random variable]] $X$ is defined as
 
 $$
