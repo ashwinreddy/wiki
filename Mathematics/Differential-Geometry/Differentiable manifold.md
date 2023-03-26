@@ -1,1 +1,1 @@
-A **differentiable manifold** is a [[manifold]] that you can differentiate.
+A **differentiable manifold** is a [[public/manifold]] that you can differentiate.

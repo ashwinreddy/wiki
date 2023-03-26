@@ -1,1 +1,0 @@
-a set is a collection of objects.

@@ -1,1 +1,1 @@
-A **diagonal matrix** is a [[matrix]] in which all values not on the main diagonal are 0.
+A **diagonal matrix** is a [[Matrix]] in which all values not on the main diagonal are 0.

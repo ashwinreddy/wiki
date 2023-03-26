@@ -15,7 +15,7 @@ tags: concept
 
 chaos is the primordial force of disorder which wears many masks:
 
-> uncertainty; variability; imperfect, incomplete knowledge; chance; [[chaos]]; volatility; disorder; [[entropy]]; [[time]]; the unknown; randomness; turmoil; stressor; error; dispersion of outcomes; unknowledge. -- [[antifragile]]
+> uncertainty; variability; imperfect, incomplete knowledge; chance; [[chaos]]; volatility; disorder; [[public/entropy]]; [[time]]; the unknown; randomness; turmoil; stressor; error; dispersion of outcomes; unknowledge. -- [[antifragile]]
 
 For [[deleuze]] and [[guattari]], it's a little different.
 

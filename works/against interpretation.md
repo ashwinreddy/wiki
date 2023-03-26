@@ -3,11 +3,11 @@ title: "against interpretation"
 feed: hide
 ---
 
-"against interpretation" is an [[essay]] by Susan Sontag about [[interpretation]]. 
+"against interpretation" is an [[essay]] by [[sontag]] about [[interpretation]]. 
 
-> By interpretation, I mean here a conscious act of the mind which illustrates a certain code, certain “rules” of interpretation. Directed to [[art]], interpretation means plucking a set of elements (the X, the Y, the Z, and so forth) from the whole work. The task of interpretation is virtually one of translation. The interpreter says, Look, don’t you see that X is really— or, really means—A? That Y is really B? That Z is really C?
+> by interpretation, i mean here a conscious act of the mind which illustrates a certain code, certain “rules” of interpretation. directed to [[art]], interpretation means plucking a set of elements (the x, the y, the z, and so forth) from the whole work. the task of interpretation is virtually one of translation. the interpreter says, look, don’t you see that x is really— or, really means—a? That y is really b? That z is really c?
 
-However, interpretation can also involve a synthetic act of connecting things together. Sontag claims that interpretation begins around the time of the [[stoic]]s. 
+however, interpretation can also involve a synthetic act of connecting things together. Sontag claims that interpretation begins around the time of the [[stoic]]s. 
 
 > Interpretation thus presupposes a discrepancy between the clear meaning of the text and the demands of (later) readers. It seeks to resolve that discrepancy. The situation is that for some reason a text has become unacceptable; yet it cannot be discarded. Interpretation is a radical strategy for conserving an old text, which is thought too precious to repudiate, by revamping it. The interpreter, without actually erasing or rewriting the text, is altering it. But he can’t admit to doing this. He claims to be only making it intelligible, by disclosing its true meaning
 

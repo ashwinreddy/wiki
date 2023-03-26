@@ -1,0 +1,11 @@
+The **transformer** architecture is like an rnn without recurrence (i.e. still has weight sharing) that uses [[attention]]. 
+
+![](https://i.stack.imgur.com/eAKQu.png)
+
+The input is a sequence of tokens, represented as integers. We can run a batch of $B$ sequences of length $L_{source}$. The input is $x_{source} \in \mathbb{Z}^{B \times L_{source}}$ and $x_{target} \in \mathbb{Z}^{B \times L_{target}}$. Then, we embed $x_{source}$ into $X_{source} \in \mathbf{R}^{B \times L_{source} \times D}$ and add positional embeddings.
+
+# Attention
+
+* Encoder Attention
+* Decoder Attention is Masked self-attention
+* Encoder-Decoder Attention

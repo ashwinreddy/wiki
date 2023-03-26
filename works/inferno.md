@@ -1,6 +1,7 @@
 ---
 title: "inferno"
 feed: hide
+tag: book
 ---
 
 _inferno_ is the first canticle of the [[divina commedia]]. 

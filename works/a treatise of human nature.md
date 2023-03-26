@@ -5,7 +5,7 @@ tags:
 - book
 ---
 
-_A Treatise of Human Nature_ is a book by [[hume]]. 
+_a treatise of human nature_ is a book by [[hume]]. 
 
 1. What science can discover depends on what humans can know.
 2. We need to observe how humans come to knowledge carefully.

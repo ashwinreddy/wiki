@@ -1,1 +1,1 @@
-An **eigenvector** is a [[vector]] $v$ for a matrix $A$ such that $Ax = \lambda x$ for some $\lambda$.
+An **eigenvector** is a [[Vector]] $v$ for a matrix $A$ such that $Ax = \lambda x$ for some $\lambda$.

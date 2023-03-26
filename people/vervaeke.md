@@ -22,7 +22,7 @@ He comes from a background in fundamentalist [[christianity]].
 8. [[jesus]]
 9. [[christianity]]
 10. [[augustine]]
-11. [[thomas aquinas]]
+11. [[aquinas]]
 12. [[descartes]]
 13. [[hegel]]
 14. [[symbol]]

@@ -1,1 +1,1 @@
-**Musical isomorphism** is an isomorphism between [[tangent bundle]] and [[cotangent bundle]].
+**Musical isomorphism** is an isomorphism between [[Tangent bundle]] and [[cotangent bundle]].

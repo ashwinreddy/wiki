@@ -1,1 +1,0 @@
-**Conditional entropy** describes the [[entropy]] of a [[random variable]] given a [[conditional probability]]

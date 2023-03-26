@@ -1,1 +1,1 @@
-A **vector space** is a [[set]] $\mathcal{V}$ of objects you can add together and scale.
+a vector space is a [[set]] $\mathcal{V}$ of objects you can add together and scale.

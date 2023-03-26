@@ -1,1 +1,1 @@
-**Lagrangian mechanics** is a reformulation of Newtonian mechanics with [[Euler-Lagrange equation]].
+**lagrangian mechanics** is a reformulation of Newtonian mechanics with [[euler-lagrange equation]].

@@ -1,5 +1,0 @@
----
-title: "modernism"
-feed: hide
----
-

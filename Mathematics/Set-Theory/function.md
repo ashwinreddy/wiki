@@ -1,1 +1,0 @@
-A function maps elements between [[set]]s.

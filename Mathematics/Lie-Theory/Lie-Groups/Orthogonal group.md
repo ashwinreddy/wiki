@@ -1,1 +1,1 @@
-The **orthogonal group** is the [[group]] of orthogonal matrices.
+The **orthogonal group** is the [[Group]] of orthogonal matrices.

@@ -1,4 +1,4 @@
-The **score** is the [[gradient]] of the log-[[likelihood function]] w.r.t. parameters.
+The **score** is the [[gradient]] of the log-[[Likelihood function]] w.r.t. parameters.
 
 $$
 s(\theta) = \frac{\partial}{\partial \theta} \log L(\theta)
@@ -6,7 +6,7 @@ $$
 
 # Properties
 
-* The [[expected value]] of the score is 0.
+* The [[Expected value]] of the score is 0.
 
 Recall that $L(\theta; x) = p_\theta(x)$.
 

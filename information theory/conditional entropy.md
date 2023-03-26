@@ -1,0 +1,1 @@
+**Conditional entropy** describes the [[public/information theory/entropy]] of a [[Random variable]] given a [[Conditional probability]]

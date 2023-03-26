@@ -11,4 +11,4 @@ satire is a type of [[literature]]. it uses [[irony]] and parody, etc. Writers i
 - [[jonathan swift]]
 - [[samuel johnson]]
 - [[alexander pope]]
-- [[t.s. eliot]]
+- [[eliot]]

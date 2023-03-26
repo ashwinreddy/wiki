@@ -3,5 +3,3 @@ title: "writing"
 feed: hide
 ---
 
-
-

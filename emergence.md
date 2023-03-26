@@ -3,9 +3,9 @@ title: "emergence"
 feed: hide
 ---
 
-emergence is when a self-organizing [[system]] displays more complex properties than its constituents. Hence, emergentism is antithetical to reductionism, i.e. emergent phenomena are not easily reducible to their parts. This poses a difficulty for classical methods of [[science]]. 
+emergence is when a self-organizing [[system]] displays more complex properties than its constituents. hence, emergentism is antithetical to reductionism, i.e. emergent phenomena are not easily reducible to their parts. this poses a difficulty for classical methods of [[science]]. 
 
-Andrew Assad and Norman H. Packard argue that emergence is a spectrum. We could imagine roughly sketching the axis like so.[^spectrum]
+andrew assad and norman h. packard argue that emergence is a spectrum. We could imagine roughly sketching the axis like so.[^spectrum]
 
 |Category|Meaning|
 |---------|-------|

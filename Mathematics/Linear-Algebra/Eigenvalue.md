@@ -1,1 +1,1 @@
-An **eigenvalue** of a [[matrix]] $A$ is a $\lambda$ such that there is a [[vector]] $x$ with $Ax=\lambda x$.
+An **eigenvalue** of a [[Matrix]] $A$ is a $\lambda$ such that there is a [[Vector]] $x$ with $Ax=\lambda x$.

@@ -1,1 +1,0 @@
-**BERT** is a [[transformer]]-based encoder-only model that's bidirectional.

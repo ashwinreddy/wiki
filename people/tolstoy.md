@@ -4,4 +4,4 @@ feed: hide
 tags: writer
 ---
 
-Leo Tolstoy was a Russian writer. He wrote novels and a book called _What is [[art]]?_ He did not accept [[shakespeare]] or [[dante]]. He dismisses [[nietzsche]] and [[wilde]]. He liked [[dostoevsky]]. He read from the [[bible]] and [[Rousseau]] and [[goethe]] and [[odyssey]] and [[iliad]] and [[plato]] and [[epictetus]], etc.
+leo tolstoy was a [[russian]] writer. he wrote novels and a book called _What is [[art]]?_ he did not accept [[shakespeare]] or [[dante]]. he dismisses [[nietzsche]] and [[wilde]]. he liked [[dostoevsky]]. he read from the [[bible]] and [[rousseau]] and [[goethe]] and [[odyssey]] and [[iliad]] and [[plato]] and [[epictetus]], etc.

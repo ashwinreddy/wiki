@@ -6,9 +6,19 @@ tags:
 - writer
 ---
 
-gilles deleuze (18 january 1925 - 4 november 1995) was a french philosopher and, to me, the philosopher's philosopher and a [[sage]]. his work grapples with difference, [[creativity]], [[thought]], and becoming and references a diverse set of works. 
+gilles deleuze (18 january 1925 - 4 november 1995) was a french philosopher and, to me, the philosopher's philosopher and a [[sage]]. his work grapples with [[difference]], [[creativity]], [[thought]], and becoming and references a diverse set of works. 
 
-## [[problem]]
+## context
+
+in order to understand deleuze, it is helpful to situate him in time. deleuze comes after [[structuralism]] and [[existentialism]]. and he's also one of the writers who experienced [[may 68]]. 
+
+so deleuze's project can be seen as one that is going to dethrone representation, which depends on structure, and put difference in its place. there is not being but becoming. 
+
+why stop at the human ([[humanism]])? 
+
+## problems
+
+deleuze's philosophy centers on [[problem]]s. 
 
 there are a few ways of reading deleuze's central problem.
 1. todd may: how might one live?

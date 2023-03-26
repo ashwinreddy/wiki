@@ -3,8 +3,14 @@ title: "duns scotus"
 feed: hide
 ---
 
-john duns scotus (aka _doctor subtilis_) was a franciscan scholastic. [[deleuze]] saw him as forming the philosophical lineage of the concept of univocity along with [[spinoza]] and [[nietzsche]]. 
+john duns scotus (aka _doctor subtilis_) was a franciscan scholastic. 
 
 
+_trivia_: the word "dunce" comes from duns scotus. 
 
-_Trivia_: The word "dunce" comes from Duns Scotus. 
+
+## deleuze
+
+[[deleuze]] saw scotus as forming the philosophical lineage of the concept of univocity along with [[spinoza]] and [[nietzsche]]. 
+
+
