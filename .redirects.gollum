@@ -87,3 +87,5 @@ Statistics/Cramer-Rao inequality.md: Statistics/Cramer-Rao bound.md
 Mathematics/Probability-Theory/Probability distribution.md: Mathematics/Probability-Theory/Probability
   measure.md
 Mathematics/Measure-Theory/Measurable space.md: Mathematics/Measure-Theory/Measure.md
+Mathematics/Probability-Theory/Expected value.md: Mathematics/Probability-Theory/expected
+  value.md
