@@ -1,5 +1,5 @@
 ---
-title: "Thought"
+title: "thought"
 feed: hide
 ---
 

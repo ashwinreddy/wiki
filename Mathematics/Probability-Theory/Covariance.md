@@ -1,4 +1,4 @@
-The **covariance** of [[Random variable]]s is an [[Expected value]].
+The covariance of [[random variable]]s is an [[expected value]].
 
 $$
 \mathop{\mathrm{cov}}(X, Y) = \mathbb{E}\left[(X - \mu_X)(Y - \mu_Y)\right]

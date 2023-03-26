@@ -1,4 +1,4 @@
-the **mutual information** between [[random variable]]s $X$ and $Y$ is given by [[entropy]] and [[conditional entropy]]
+the mutual information between [[random variable]]s $X$ and $Y$ is given by [[entropy]] and [[conditional entropy]]
 
 $$
 I[X; Y] = H[X] - H[X \mid Y]

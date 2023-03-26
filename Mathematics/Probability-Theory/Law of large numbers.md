@@ -1,1 +1,1 @@
-The **law of large numbers (LLN)** is an important theorem in statistics about the convergence of [[Expected value]]. 
+The **law of large numbers (LLN)** is an important theorem in statistics about the convergence of [[expected value]]. 

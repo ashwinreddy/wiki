@@ -6,7 +6,7 @@ $$
 
 # Properties
 
-* The [[Expected value]] of the score is 0.
+* The [[expected value]] of the score is 0.
 
 Recall that $L(\theta; x) = p_\theta(x)$.
 

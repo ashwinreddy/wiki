@@ -1,4 +1,4 @@
-fisher information is the information that a [[random variable]] $X$ gives us about its parameter $\theta$. It is the [[Variance]] of the [[Score]].
+fisher information is the information that a [[random variable]] $X$ gives us about its parameter $\theta$. It is the [[variance]] of the [[Score]].
 
 $$
 \mathcal{I}(\theta) = \mathbb{V}\left[\ell'(\theta \mid x)\right].

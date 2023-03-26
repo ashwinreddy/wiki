@@ -20,6 +20,6 @@ $$
 
 |Property|Value|
 |--------|-----|
-|[[Expected value]]|$\theta$|
-|[[Variance]]|$\theta(1-\theta)$|
+|[[expected value]]|$\theta$|
+|[[variance]]|$\theta(1-\theta)$|
 |[[fisher information]]|$\frac{1}{p(1-p)}$|

@@ -3,7 +3,7 @@ title: "play"
 feed: hide
 ---
 
-Play is a difficult concept to get a grip on, and Randolph Feezell has a [paper](https://philpapers.org/rec/FEEAPC) arguing for a pluralistic conception of play as
+play is a difficult concept to get a grip on, and randolph feezell has a [paper](https://philpapers.org/rec/FEEAPC) arguing for a pluralistic conception of play as
 
 * behavior or activity,
 * motive, attitude, or state of mind,

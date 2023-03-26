@@ -8,5 +8,5 @@ $$
 
 |Property|Value|
 |--------|-----|
-|[[Expected value]]|$np$|
-|[[Variance]]|$np(1-p)$|
+|[[expected value]]|$np$|
+|[[variance]]|$np(1-p)$|

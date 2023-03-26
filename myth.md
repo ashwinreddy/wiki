@@ -7,4 +7,4 @@ myth is the visionary [[literature]] of the spirit, stories of a [[symbol]]ic pa
 
 Archetypal patterns in myth include the [[hero's journey]] and creation myths.  
 
-Proto-Indo-European myth covers and generalizes a vast swath of mythological stories. An interesting one is _Chaoskampf_ (struggle against [[chaos]]), often involving a serpent-slaying hero. 
+proto-indo-european myth covers and generalizes a vast swath of mythological stories. an interesting one is _Chaoskampf_ (struggle against [[chaos]]), often involving a serpent-slaying hero. 
