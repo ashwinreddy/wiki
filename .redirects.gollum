@@ -99,3 +99,4 @@ Mathematics/Probability-Theory/Conditional probability.md: Mathematics/Probabili
 Mathematics/Calculus of variations/Noether's theorem.md: Mathematics/Calculus of variations/noether's
   theorem.md
 Mathematics/Calculus/Integral.md: Mathematics/Calculus/iontegral.md
+Mathematics/Calculus/iontegral.md: Mathematics/Calculus/integral.md
