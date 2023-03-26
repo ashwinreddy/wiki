@@ -1,1 +1,1 @@
-A random variable is a [[function]] $f: \Omega \to \RR$ where $\Omega$ is the sample space of an experiment.
+A random variable is a [[function]] $f: \Omega \to \RR$ where $\Omega$ is the [[sample space]] of an experiment.
